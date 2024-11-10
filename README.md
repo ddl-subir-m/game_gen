@@ -1,4 +1,4 @@
-# Game Mechanics Analysis Tool
+# Game Mechanics Analysis and Generation Tool
 
 A Python-based tool for analyzing and categorizing game mechanics from textual game descriptions using LLM (Large Language Model) technology.
 
@@ -8,7 +8,7 @@ This project provides a framework for analyzing game mechanics by processing gam
 
 ## 🏗️ Architecture
 
-The project consists of three main components:
+The project consists of five main components:
 
 ### 1. Game Analysis Runner (`analyze_games.py`)
 - Manages the overall analysis pipeline
@@ -27,26 +27,39 @@ The project consists of three main components:
 - Handles JSON processing and validation
 - Formats analysis output
 
+### 4. MechanicsUIProcessor (`game_forge/ui_processor.py`)
+- Processes game mechanics and determines appropriate UI controls
+- Uses LLM to decide between scale (1-5) and toggle controls
+- Handles JSON processing and validation
+
+### 5. GameStoryGenerator (`game_forge/story_gen.py`)
+- Generates creative game concepts from mechanics combinations
+- Provides scoring and feedback on generated concepts
+- Includes regeneration of game stories based on quality evaluation
+
 
 ## 🚀 Features
 
 - Automated discovery of game mechanics categories
 - LLM-powered analysis of gameplay patterns
 - Clustering of similar mechanics
-- JSON-based persistence of category descriptions
-- Formatted output of analysis results
-- Logging system for analysis tracking
+- Automated UI control type determination
+- Story generation with quality assessment
+- Automatic story regeneration for low-quality outputs
 
 ## 📋 Requirements
 
-- Python 3.x
+- Python 3.11.x
 - OpenAI API access (for LLM functionality)
 - Required Python packages (specify in requirements.txt)
 
 ## 💻 Usage
 
 ```python
-from analyze_games import GameAnalysisRunner
+from analyze_gen_games import GameAnalysisRunner
+from core import GameMechanicsAnalyzer, GameMechanicsProcessor, save_category_descriptions
+from game_forge.ui_processor import MechanicsUIProcessor
+from llm.openai_client import OpenAIClient
 from pathlib import Path
 
 # Initialize the runner
@@ -54,6 +67,22 @@ runner = GameAnalysisRunner(data_dir=Path("./data")) #change this to your csv pa
 
 # Run analysis on a sample of games
 results = runner.run_analysis(num_games=3)
+
+# Initialize UI processor
+processor = MechanicsUIProcessor(OpenAIClient(model="gpt-4o"))
+
+# Process the game design elements
+mechanics_json = processor.process_game_design_elements(patterns)
+
+# For testing select a subset of mechanics and generate game concepts
+selector = GameMechanicsSelector(mechanics_json)
+selected_mechanics = selector.get_random_subset(complexity=3)
+
+# Generate game concepts
+generated_stories = generate_game_concepts(selected_mechanics)
+
+# Save the generated game concepts
+save_generated_stories(generated_stories)
 ```
 
 ## 📊 Output Format
@@ -82,20 +111,23 @@ The tool can be configured through:
 
 ```
 .
-├── analyze_games.py
+├── analyze_gen_games.py
 ├── descriptors.csv # game name, description file mapping
 ├── desscriptors
 │   ├── *.txt # game descriptions
 ├── core/
 │   ├── analyzer.py
 │   └── game_mechanic_blocks.py
-├── discovery/
-│   ├── mechanics_discovery.py
-├── llm/
-│   └── openai_client.py
 ├── clustering/
 │   └── base.py
 │   └── llm_clusterer.py
+├── discovery/
+│   ├── mechanics_discovery.py
+├── game_forge/
+│   ├── ui_processor.py
+│   └── story_gen.py
+├── llm/
+│   └── openai_client.py
 
 ```
 
@@ -105,10 +137,10 @@ The tool can be configured through:
 - Support for additional LLM providers
 - Enhanced clustering algorithms
 - Interactive analysis interface
-
+- Generate game code from game concepts
 ## 🎮 Sample Analysis Results
 
-### Training Results
+### Game Mechanics Analysis Results
 
 After processing 3 games (Minesweeper, Final Fantasy, and Castlevania), the system identified the following game mechanics and patterns:
 
@@ -156,10 +188,14 @@ After processing 3 games (Minesweeper, Final Fantasy, and Castlevania), the syst
 }
 ```
 
+### Game Concept Results
+See the sample JSON output from game concept generation saved in the `stories` folder.
+
 ## ⚠️ Notes
 
 - Ensure proper API credentials are configured
+- Set the LLM API key in a .env file or in an environment variable
 - Large game descriptions may require additional processing time
-- Results may vary based on LLM model used
-
+- Results may vary based on LLM model used. Only OpenAI models are supported at this time.
+- Update the path in `game_forge/ui_processor.py` and `game_forge/story_gen.py` to point to the root of the project
 ---

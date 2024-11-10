@@ -8,6 +8,8 @@ from pathlib import Path
 from core import GameMechanicsAnalyzer, GameMechanicsProcessor, save_category_descriptions
 from llm.openai_client import OpenAIClient
 from clustering.base import ClusteringMethod
+from game_forge.ui_processor import MechanicsUIProcessor
+from game_forge.story_gen import GameMechanicsSelector, generate_game_concepts, save_generated_stories
 
 # Set up logging
 logging.basicConfig(
@@ -99,7 +101,26 @@ class GameAnalysisRunner:
 def main():
     data_dir = Path(".")  # Adjust this path as needed
     runner = GameAnalysisRunner(data_dir)
-    runner.run_analysis()
+    
+    # Get the analysis patterns
+    patterns = runner.run_analysis()
+    
+    # Initialize UI processor
+    processor = MechanicsUIProcessor(OpenAIClient(model="gpt-4o"))
+    
+    # Process the game design elements
+    mechanics_json = processor.process_game_design_elements(patterns)
+    
+    # Save to file
+    with open('processed_mechanics.json', 'w') as f:
+        json.dump(mechanics_json, f, indent=2)
+    
+    # For testing select a subset of mechanics and generate game concepts
+    selector = GameMechanicsSelector(mechanics_json)
+    selected_mechanics = selector.get_random_subset(complexity=3)
+    # Generate game concepts
+    return generate_game_concepts(selected_mechanics)
 
 if __name__ == "__main__":
-    main()
+    generated_stories = main()
+    save_generated_stories(generated_stories)

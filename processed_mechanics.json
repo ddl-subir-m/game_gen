@@ -1,0 +1,303 @@
+{
+  "core_mechanics": {
+    "display_name": "Core Mechanics",
+    "elements": [
+      {
+        "name": "Deliver items",
+        "display_name": "Deliver Items",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Manage resources",
+        "display_name": "Manage Resources",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Navigate environments",
+        "display_name": "Navigate Environments",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Complete tasks",
+        "display_name": "Complete Tasks",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Strategic decision-making",
+        "display_name": "Strategic Decision-Making",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Engage in real-time action",
+        "display_name": "Engage In Real-Time Action",
+        "input_type": "toggle",
+        "default": false
+      }
+    ]
+  },
+  "player_interactions": {
+    "display_name": "Player Interactions",
+    "elements": [
+      {
+        "name": "Interact with the environment",
+        "display_name": "Interact With The Environment",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Collaborate with other players",
+        "display_name": "Collaborate With Other Players",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Compete against opponents",
+        "display_name": "Compete Against Opponents",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Make strategic choices",
+        "display_name": "Make Strategic Choices",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Adapt to dynamic situations",
+        "display_name": "Adapt To Dynamic Situations",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      }
+    ]
+  },
+  "progression_elements": {
+    "display_name": "Progression Elements",
+    "elements": [
+      {
+        "name": "Unlock new resources",
+        "display_name": "Unlock New Resources",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Upgrade abilities or tools",
+        "display_name": "Upgrade Abilities Or Tools",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Achieve specific goals",
+        "display_name": "Achieve Specific Goals",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Expand territory or influence",
+        "display_name": "Expand Territory Or Influence",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Improve efficiency in resource management",
+        "display_name": "Improve Efficiency In Resource Management",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      }
+    ]
+  },
+  "resource_types": {
+    "display_name": "Resource Types",
+    "elements": [
+      {
+        "name": "Physical items",
+        "display_name": "Physical Items",
+        "input_type": "toggle",
+        "default": false
+      },
+      {
+        "name": "In-game currency",
+        "display_name": "In-Game Currency",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Population or units",
+        "display_name": "Population Or Units",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Time constraints",
+        "display_name": "Time Constraints",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Environmental factors",
+        "display_name": "Environmental Factors",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      }
+    ]
+  },
+  "challenge_patterns": {
+    "display_name": "Challenge Patterns",
+    "elements": [
+      {
+        "name": "Time-based challenges",
+        "display_name": "Time-Based Challenges",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Resource scarcity",
+        "display_name": "Resource Scarcity",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Environmental obstacles",
+        "display_name": "Environmental Obstacles",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Strategic opponent actions",
+        "display_name": "Strategic Opponent Actions",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      },
+      {
+        "name": "Dynamic changes in game state",
+        "display_name": "Dynamic Changes In Game State",
+        "input_type": "scale",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "default": 3,
+          "step": 1
+        }
+      }
+    ]
+  }
+}

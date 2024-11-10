@@ -1,4 +1,4 @@
-from .analyzer import GameMechanicsAnalyzer
+from .core.analyzer import GameMechanicsAnalyzer
 from .clustering.base import ClusteringMethod
 from .llm.openai_client import OpenAIClient
 from .llm.claude_client import ClaudeClient
