@@ -105,6 +105,78 @@ The tool can be configured through:
 - Enhanced clustering algorithms
 - Interactive analysis interface
 
+## 🎮 Sample Analysis Results
+
+### Training Results
+
+After processing 3 games (Minesweeper, Final Fantasy, and Castlevania), the system discovered 6 primary mechanic categories:
+
+1. **Grid-based Puzzle Mechanics**
+   - Description: This category involves mechanics where players interact with a grid or board to achieve specific objectives, often involving revealing or manipulating elements within the grid.
+
+2. **Spatial Interaction**
+   - Description: This category encompasses mechanics that involve interaction with a spatial environment, often requiring players to navigate, explore, or interpret information within a defined space.
+
+3. **Hazard Avoidance**
+   - Description: This category involves mechanics where players must identify, avoid, or manage potential dangers or obstacles within the game environment. These mechanics often require strategic planning and careful observation to prevent negative outcomes.
+
+4. **Combat Systems**
+   - Description: This category encompasses mechanics related to engaging in battles or fights within a game. It includes various methods and systems through which players interact with enemies, manage their characters, and utilize weapons or abilities to achieve victory.
+
+5. **Progression Systems**
+   - Description: Mechanics that involve the advancement or development of characters, players, or game states over time. These systems often provide a sense of growth, achievement, or escalation in difficulty.
+
+6. **Resource and Inventory Management**
+   - Description: This category involves managing resources and items that players collect and use throughout the game. It includes systems for equipping characters, organizing inventory, and utilizing items strategically to enhance gameplay.
+
+### Core Gameplay Patterns
+
+The analysis identified the following pattern categories:
+
+```json
+{
+  "core_mechanics": [
+    "grid_manipulation",
+    "spatial_navigation",
+    "hazard_identification",
+    "combat_engagement",
+    "character_development",
+    "resource_allocation"
+  ],
+  "player_interactions": [
+    "grid_interaction",
+    "environment_exploration",
+    "obstacle_avoidance",
+    "enemy_encounter",
+    "skill_upgrading",
+    "inventory_management"
+  ],
+  "progression_elements": [
+    "level_completion",
+    "skill_tree_advancement",
+    "experience_gain",
+    "story_unfolding",
+    "equipment_upgrade"
+  ],
+  "resource_types": [
+    "puzzle_pieces",
+    "navigation_tools",
+    "health_and_safety_items",
+    "weapons_and_armor",
+    "experience_points",
+    "inventory_items"
+  ],
+  "challenge_patterns": [
+    "puzzle_solving",
+    "spatial_puzzles",
+    "timed_avoidance",
+    "enemy_defeat",
+    "level_difficulty_increase",
+    "resource_scarcity"
+  ]
+}
+```
+
 ## ⚠️ Notes
 
 - Ensure proper API credentials are configured
