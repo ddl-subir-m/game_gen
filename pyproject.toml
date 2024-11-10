@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "paint-a-game"  # replace with your project name
+name = "paint-a-game" 
 version = "0.1.0"
 description = "A system for clustering game mechanics"
 authors = ["Subir Mansukhani <subir.m@gmail.com>"]
