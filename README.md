@@ -106,7 +106,6 @@ The analysis produces structured output including:
 The tool can be configured through:
 - LLM client settings
 - Clustering method selection
-- Category description parameters
 - Analysis sample size
 
 ## 📁 Project Structure
