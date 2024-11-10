@@ -1,0 +1,717 @@
+A. INTRODUCTION
+ Hi and welcome to the Dungeon Master map page.  This guide consists mainly of
+the outline of every level in the game.  I've been wanting to do this for a
+while but haven't had access to the game due to my Amiga's monitor switch going
+bad.  I'd love to find this game for the SNES but right now I was able to map
+it out using an Emulator.
+ To those of you asking how I could map this out so fast without getting killed
+a thousand times, I was wondering that too.  I came upon Nerthing's In-Depth
+Guide for this game and found out about Ghost Mode.  All it is is a glitch that
+allows you to travel through the dungeons without being hurt.  Why?  Because
+your character is already dead.  You cannot be attacked but the monsters will
+still come at you and block your way.  You can walk through walls too.  This
+allowed me to be able to map the dungeons in peace while skirting around the
+monsters.
+ I'm not going to include much more than an overview of the level, the maps,
+and any marks I have made inside the maps.  I also won't include the locations
+of monsters as it is hard because they are always moving.  I will list the
+location of any keys I find but not where they go or what they're called (Key
+of Raa, etc.)  I plan to pull my Amiga out of the attic soon, fix the monitor
+switch, and do a full walkthrough for this game.  And yes, I am used to the
+Amiga version and have never played the SNES version.  I assume that despite
+the different look to the game that the levels are still the same with items in
+the same area.  So I am having this posted under the SNES version because that
+is probably the most-likely place people would go to find help.
+
+B. VERSION HISTORY
+8/17/2009-8/21/2009 version 1.0: Went through all 13 levels of the game in
+Ghost Mode anddrew the dungeons on graph paper and then copied them all onto
+Notepad.  Did Introduction and Keys to each level.
+
+===============
+II. LEVEL MAPS    <LVLM>
+===============
+ My purpose here is to provide help for anyone who gets lost in the many
+monster-filled mazes of this game.  Before I mapped this, I couldn't even find
+my way through level 5 without getting lost.  Hopefully there are still people
+out there that play this game and I hope that these maps will help you find
+your way toward your ultimate goal, defeating Lord Chaos.
+
+A. HALL OF CHAMPIONS    <CHMP>
+-This is the starter level.  There are no monsters.  This is simply the place
+where you choose your party.  Any space marked "M" is a mirror that you can
+ressurect or reincarnate 4 of 24 characters that you will guide through the
+lower levels of the dungeon.
+ _____
+|  M  |                    _______
+| | | |          _______  |A ___  |_
+| |_| |    _____|    M  | | |_  |  _|
+|_ M _|  _|  M _   M__  | |  _| | |
+  | |  _|M   _| | |___| | | |  _|D|
+  | | |    M|   |M   M M| | | |   |
+  | | |M M|     |___   _|_| | |   |
+  | | | |  _____    | | |_  | |___|
+ _| |_| |_|  M  |___| |___| |
+|M     ____M____ M __M_B_D__|
+|  M  |      ___| |        _______
+| |_| |___  |  _ M|       |  ___  |
+|___   M  | | |_| |       | |   | |_
+    |     |_|  M  |_   _  | |   |  _|
+    |M     ____M__  |_| | | |   | |
+    |__M__|       |___  |_| |   |S|
+                      |  ___|   |L|
+                      |_|       |_|
+KEY
+A: Altar of Ressurection
+B: Button (On floor)
+D: Door
+L: Locked Door
+M: Mirror with Champion
+S: Start
+
+B. LEVEL 1    <LVL1>
+-The beginning level is pretty long but straight forward.  There are a few side
+paths to get keys and items and a couple chests.  There are also a couple of
+puzzles along the way.  The mummies have pretty low HP.  The screamers are
+fairly low but there is 1 near the end that has about 5x the usual number of
+HP.  But later in the game, they will be your main food supply.
+                                 ___           _______   ___
+                   _____        |   |  _      |  ___  |_|  C|
+   _______________|     |       |_  |_| |     | |___|___   _|
+  |  ____C_W   ___      |      _  |/    |  ___|___  |   | |
+  | |_______| |___|_   _|     | | |___  | |   |   | |   | |
+  |__L__________  | | |  _____|L|_   _| |_|_  |_  | |   | |
+   ___   _____  | | | | |  __L__  |_|  _  |_|   |_|G|   | |
+  |_  | |  _  |_| | | |_| |     |_____| |_____    |___  | |
+ ___| |_| | |  ___| |_____|        _________  |       | | |___
+|  _______| |_|        _   _____  |  _____  | |_   ___| |___  |
+| |    _______________| |_|  _  |_| |  ___| |  _|D|        _| |_
+| |___|          __L______  | |_____| |     | |  _|_______|  _  |
+|_         _____|  _______|L|_______  |  ___|_| | |         |_| | 
+  |_______|       |  _____   _____  | | |   |  _| |             |
+ _   _________    |_|  ___|L|___  |_| | |   | |___|  ___________|
+| | |         |_____  |  B      |    _| |   |_______|  _____
+| | |  _____   ___  | |         |   |W _|  ___________|     |_
+| |_| |___  | |_  |_| |         |  _|P|  _|  ________L___B_B  |
+|_______  | |_  |_   _|         | |B_K| |  _|    ___________| |_
+   ___  | |___|_  |_|  _   _____|       | |  ___|  _L_____L___  |
+  |_  | |___  | |___  | | |  _   _______|L| |  _  |  _________| |
+ _  | |  ___|L|_____|_| |_| | | |    _    | | | |_| |  _____   _|
+|K| | | |  _______  |_______| | |K__| |  _|_| |  _  | |  ___| |
+| | | | | |  _____|  _________|    ___| | |  _| |K| |L| |  __K|_
+|L|_| |_| | |  __B__|___________  |     | | |   |P|_| | | |___| |
+|  _______| | |_    |    _____  | |_K___| | |   |_____| |  ___  |
+|K|         |_  |  _|  _|  ___| |_   _   _| |  _________| |  _| |
+     _______  |P| |  _|___|       |_|K| |  _| |__K__L__L__| |  _|
+   _|  __L  |_| | |L| |  _________    | | |  ___   _        | |
+  |W  |___|__B__|_| | | |    _____|___| | |_|  K| | |       |L|_
+ ___|_   _|  ___|   | | |___|B B B|___  |___   _| | |    _  |_ K|
+|W K| | |___|B ___  | |__L_L B B B _  |_____| |  _|D|___|U|___| |
+|___| |__L____|   |_|       |B_B_B| |____L____| |____________D__|
+
+KEY
+B: Button (On floor)
+C: Chest
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+P: Pit
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+C. LEVEL 2    <LVL2>
+-This level is pretty short between the staircases but for the four locked
+doors in the way.  Six of those keys can be found in the halls behind the six
+doors in the middle of the level.  This is a level full of puzzles in all of
+the paths except Creature Cavern.  The Clubbas and mummies have about the same
+HP but the Clubbas (I guess they're actually called Trolins) can cause more
+damage.  But the Rock Piles are the real pains in the rear because they are
+heavily armored and are the first poisonous enemy.  Just hit and kick them to
+gain your Ninja skills.
+ _______________           ___________
+|_   _   _ S _  |      ___|  ___   _  |  _           ___
+ _| |_| |_| |_| |     |     |   |_| | |_| |      _  |K /|
+|_   _ S _ S _  |     |     |_____  |___  |     | |___| |_
+ _| |_| |_| |_| |___  |_______P_  |_   _| |_    |  ___   _|
+|_   _ S _ S _   _  |  _______  |W B| |     |_  |_|   | |___
+ _| |_| |_| |_| | | | |    _  |_|P _| |______K|       |___  |
+|_   _ S _ S _  | | | |  _| |_____|                _   ___| |
+ _| |_| |_| |_| | | | |/|_______       _   _______| | |  ___|
+|\   _ S _   ___| | | |_______  |     |W| |  _____  | | |___
+|K\_| |_| |_|  _  | |_______  | |     |_| | |___  | | |___  |
+|_|  _        |_| |_______  | | |         |___  | | |  ___| |
+    |W|      _______      |D| |D|        _____| | | | |___  |
+ ___|_|___  |    _  |    _| |_| |_      |  _____| | |_____| |
+|C/_| |   | |   | |L|___|        C|_____|P|_____  |  _______|
+| |_ _|K _| |_  | |___D_           __D___B___D  | | |_______  
+|_   \ _|_____| |  _____|         |_______    | | |_______  |
+ _|   | |B D_P__| |  _D_           __D__  |  _| |  _____  | |
+|_   _| | |___    | |_  |___   ___|    _| | |  _| |K    | | |
+ _| |_  |__L  |  _|_  |___  | |    ___|  _| | |___|     | | |_
+|     |     | | | | |     | | |_  |  _  |_  |___________| |___|
+|_    |_____|L| |W|_|  _  | |_  | | |_|   |___     _
+  |    _______|_  |   |_| |   | | |_________  |_  |G|___
+  |___|       |K| |_____  |   | |      _____|_  |_|_    |
+ _____________|/|_______| |_  | |  ___|  D  | |   | |   |_______
+|  _   _   _   _   _   _   _| | | |_   _| | |_|   | |_   _   _  |
+| | | | | | | | | | | | | |   | |  _| |___|_____  |   |L| |/| |L| 
+|C| |_| |_| |_| |_| |_| |_|   | | |_____  |  ___| |   |_| |_| | | 
+       _______________        | |  _____| | |     |    _______| |
+      |__W__________  |       | | |_K_____| |_____|   |  _     _|
+   _________________|/|_______| |_____________________| | |   |
+  |U_________________________________________L___L___L_A|K|___|
+
+KEY
+A: Altar of Ressurection (has key in it)
+B: Button (On floor)
+C: Chest
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+P: Pit
+S: Spinner (Turns you 90 degrees)
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+D. LEVEL 3    <LVL3>
+-This is getting more difficult.  This level is another long one and the foes
+get harder.  However this level is another straight forward level.  There's an
+enemy blocker and a shortcut to the midpoint of the level.  The Purple Worms
+are the main enemy here and are very plentiful and can be difficult if you
+haven't gained some levels.  There are a few Rock Piles and Screamers too.
+You'll also be introduced to the Wasp which is the fastest enemy in the game.
+There's also a lone ghost which needs a certain spell to get rid of at this
+time.  And also, if you HATE fighting the worms, you are going to HATE the end
+of this level.  *evil grin*
+ ___                           ___     ___________       _____
+|  _|___   ___   _______     _|   |_  |___       _|    _|     |
+| | |W_W| |W_W| |    _  |   |      _|_    |  _  |     |  ___  |
+| |_____________|  _| | |   |  _  |_| |   |_| | |  ___| |  _| |
+|  ___________   _|  _| |   | |_|     |  _____|D|_|     | |   |
+|D|_         _|P|   |  _|___|    _    | |    _       ___| |   |
+|   |_______|\ B|  _| | |  D    | |   | |   | |_____|    _|   |
+|___________  |   |  _| | | |  _|_|   | |  _|        ___|     |
+ _          |D|  _| |_  | |_|_| |  ___| | |  _______|  ______W|
+|_|_________|G| |     | |   |   | |  ___| | |  _   _  |___
+ _|    ___  |___|  ___| |   |   |D| |    _| | | | |_|  _  |___
+|  ___|   |_______|     |  _|___| | |   |   | |_|_____| |_    |
+| |_____________   ___  | | |  _  | |   |   |  _|    ___  |_  |
+|_   ___  /_   G|_|   | | | | | | | |  _|___|_|    _|   |___| |
+ _|D|_  | | |P|_|     | | | | | | | | | |_  |     |    _______|
+|    _| | |   |  _    | | | |_| | | |D|   | |  ___|   |  _____
+|  _|___| |   |D| |   | | |___  | |_| |   | | |  _____| |  _  |
+| | |  ___|   | |_|_  | |___  | |_____|___|W| | |  _____| |_| |
+|_|_|D|___   _|_  | | |_____| |_      |   |___| |_|  _       _|
+  |       | |_| | | |__D_______W|___  |_____________| |     |
+  |       |    _| |          ___|   |___________   ___|_    |_
+  |       |  _|   |      _  |          _______  |_|   | |___  |
+  |       | |_   _|     |_| |___     _|_______|_____  |___  | |
+  |_      |_  | |  ___________  |  _| |  _   _|    _|__D  |_| |
+    |_____  | | | |           | | |_  | |_| |     | |   |_____|
+          |D| | | |  _______  | |_  | |___  |  _  |W|  _____
+         _| | | | | |  ___  | |_  | |  ___|D|_| |_____|     |
+ _____  |  _|_| | | | |__W| |   |_| | |  _   _______        |
+|  _  |_| | |  _| | |___    |_      | | |_| |    ___|  _____|
+| |_|_____| | |   |     |_    |_____| |_____|   |  _  |  ___
+|_  |_     _| |  _|  K    |_____________________| | | |_|   |_
+  |   |___|   | |   | |      L______   _     L    | |_______  |
+  |___________| |___| |_____|       |_| |___| |___|         |U|
+
+KEY
+B: Button (On floor)
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key  (key is in the hole in the wall)
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+P: Pit
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+E. LEVEL 4    <LVL4>
+-Wow these levels are getting short.  The downstairs are just down the corridor
+from the upstairs.  If you've managed to be lucky, you might be able to bypass
+this level altogether.  You should still go through it for the experience and
+items.  This level has some kind of poison shooting green blobs and some more
+Screamers.  The bad enemy here is a quick little flying dragon that can attack
+really fast and cause lots of damage.  Just like level 2, this level has doors
+leading from the middle into four puzzle rooms and there are items found here
+that you will need at the start of the next level.
+     ___   ___________   _________________
+    |  _|_|  _______  | |  _____________  |              ___
+    | | |  _|  _____| | | |  ___________| |            _|   |
+ ___| | | |  _|  _    | | | |             |           |  ___|
+|  ___| | | |___|_|  _| | | |             |       |/|_|\|
+| |___  | |  ___|  _|_  | | |  W W W W W W|       |     |___
+|___  |_| | |___  | | |_| | |             |    ___|        \|
+    |  ___|  _  | |_|___  | |             |   |  _         _|
+ ___| |  ___| | |_  |___| | |_____   _____|   | | |_|/|\|_|
+|  _  | |_    |_  |_______|  _____| |         | |
+| | | |_  |  ___|           |  _____|         | |
+|_| |_  | | |_______        |D|        _______| |___________
+   _  | | |P P P P P|      _| |___    |  _______________   _|
+  | | | | |P P P P P|_____|       |___| |              _| |_
+  | | | | |P P P P P __D__         __D__|             |     |
+  | |_| | |P P P P P|     |       |      _______      |_   _|
+  |_____| |P P_P_P_P|    _|  _   _|  ___|  ___  |       |L|_
+ _________| |_______    |  _| | |   |___  |   | |    _  |___|
+|  _________________|   | |   |D|___   _| |  _| |___| |_____
+| |  ___       _____    | |   |___  | |___| |  _________   _|
+| | |   |_____|_____|_  | |  _____| |___    |_|_________|D|
+| | |_____   G|     | | | | |W   W   W W|    _|    _____  |
+| |_____  | |_______|C| | | |  W   W W  |   |    _|_   _|D|_
+|S ___  | |  _   _  |   | | |W   W W   W|   |  _| |G| |     |
+| |___|_| | |_|_| |_|___| | |W W W   W  |   |D|_  | | |_   _|
+|  _  |   |_  |     |  ___| |  W   W W W|___|   | |D|  _|D|_
+| | |_|___  | |     | |  ___|W___W_W___W__      | | | |     |
+| |_  |W__|_| |  _  | | |U  |             |_____| | | |_   _|
+|_  |_____|  _| |U|_| |___| |_____________________| |   |_|
+  |_________|   |___________________________________|
+
+KEY
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+P: Pit
+S: Spinner (Turns you 90 degrees)
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+F. LEVEL 5    <LVL5>
+-Here is where the levels turn into a royal pain.  Regeneration of enemies
+becomes a common occurance.  You start with the riddle room (make sure you
+answer all 4 of them so you get a key.)  The puzzles get a little harder now
+and the mazes begin.  The skeletons are almost comical and quite easy to beat.
+The floating eye blobs can shoot fireballs and also open doors with that Zo
+spell.  There are also a few more wasps in the side rooms.  If you get all the
+other keys, I wouldn't even worry about going to the topmost room where the
+enemies regenerate with almost every other step.
+                                     _____________
+     _____                     _____|    _   _    |_______
+    |  _  |  _______________  |K / _    |_| |_|_   _  \___|
+    | | | | |  _   _   _    |   | |_|  _      |_| |_| |
+    | | | |_| | |_| | | |___|  _|     |_|    _     ___|  _______
+ ___| | |  _  |  ___|\|___   _|    _   _   _|_|  _|_____|  ___  |
+|  _\ | | | | | |  _   _  | |    _|_| |_| |_|_  |_|G___A__|   | |
+| | | | | |_|_| |D| |L| | | |  _|_|  _      |_|   |___       _| |
+|_| |_| |___|   | | |_| |L| | | |_  |_|    ___ X _    |     |  _|
+     ___________|B|     | | | |  _|_______|_  |_| |___|     | |
+    |    _W_D_W_  |     | |_| | |K|       |K|  _            | |_
+    |__K|       | |     |_   _| |/|___   _|\|_| |_     _   _|_  |
+                |D|___    | |   |     | |_        |  _| |_| |_| |
+ _________   ___|B _  |   |L|_  |     |   |      _| |        D  |
+|         | |___  | |W|   |  _| |_   _|   |_   _|   |_______| | |
+|         |_   _| | |W|   |L|_____|D|_______|D|___________    | |
+|          W| |_  | |W|   |_____   _____   _____D___ B P B|   | |
+|         |     | | |W|  ___    | |     | |         |B W|___  | |
+|_____   _|  ___| | |W| |   |   | |  ___|L|___      |____L_K|_| |
+   _  | |  _|  _  | |W| |   |   | | |  K      |    _______  |   |
+  |_| | | |  _| | |_|W|_|  _|   | |_|         |   |       | |_  |
+     _| | | |   |  L_B____|     |___\         |   |       |   | |
+   _|   |_| |   | |_______          |         |   |  ____C|   | |
+  |U     _\ |   |___   _  |  _____  |___   ___|  _|D|_______  | |
+    |___| | |___    |L| | | |     |  _  | |  _  |      ___  | | |
+          |  _  |_  |_|_|D|_|_   _| | | |U| | | |W____|   | | | |
+ _____    | | |_  |   |     | |D|___| |_____| |___________| |_| |
+|    W|   | |   | |   |_____| |_______________________   ___   _|
+|_   _|  _| |   | |___________________________   ___  | |  _| |
+ _| |___|  _|___|___________     _____   _____| |  _| | |_|  _|
+|  _______| |   |___________|   |  ___| |_______| |___|    _|
+|_|         |____D______________| |_______________________|
+
+KEY
+A: Altar of Ressurection
+B: Button (On floor)
+C: Chest
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+P: Pit
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+G. LEVEL 6    <LVL6>
+-At first, this level is the shortest ever.  This is where you get rid of your
+Keys of Ra and then get a quest to find the rest of them below.  Once you can
+get past the three Ra doors very late in the game, you will run into a Stone
+Golem or 10 and a winding maze.  At the center of the level is the Firestaff.
+You can also use any gem keys you might have found to collect some awesome
+items.  I said Stone Golem so casually but they are extremely tough to kill and
+it's not like you can lead them somewhere and then run past them.  
+ _   _____________________________________________________
+|K| |  _\    _____   _____   _____   _____   __D          |
+|/|_| | |   |  _  | |  _  | |  _  | |  _  | |   |    _    |
+|  ___| |  _| | | |_| | | |_| | | |_| | | |_|   |   |_|   |
+| |    _|L|_  |L|_    |L|_    |L|_    |L|_      |____K__  |
+| |  _|     |_|   |___|   |___|   |___|   |___________  |/|
+| | |  _   _________________   _____________________  | | |
+| | | | | |  _____   _____  | |  _____   _____      | | |K|
+| | | | | | |  _  | |     | | | |     | |  _  |     | |
+| | | | | | | | | | |_____| | | |_____| | | | |     | |
+| | | | | | | | | |  _____  | |  _____  | | | |     | |
+| | | | | | | | | | |  _  | | | |  _  | | | | |     | |
+| | | | | | | | | | | | | | | | | | | | | | | |     | | 
+| | | | |D| | | | | | | | | | | | | | | | | | |     | |
+| | | | | | | | | | | | | |_|L|_| | | | | | | |     |L|_
+| | | | | | | | | | | | |  L___L  | | | | | | |     |  _|
+| | | | |D| | | | | | | | |_F/S_| | | | | | | |     | |
+| | | | | | | | | | | | |_________| | | | | | |     | |
+| | | | |_| | | | | | |_____________| | | | | |     | |
+| | | |     | | | | |_______   _______| | | | |     |L|_
+| | | |     | | | |_________| |_________| | | |     |  _|
+| | | |     | | |_________________________| | |     | |
+| | | |     | |_____________________________| |     |L|___
+| | | |     |_______________   _______________|    _|  _  |
+| | | |_____________________| |    ___   _______  |  _| | |
+| | |_________________________|_  |   |_|  ___  | |U|  _| |
+| |  _________________        |W|_|  ___  |  _| |     |G__|
+| |_|                 |___    |_____|   |_| |___|
+|___                   _  |___________________
+    |_________________| |____________________G|
+
+KEY
+D: Door (Unlocked)- Open with button on side.
+F/S: Firestaff
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+H. LEVEL 7    <LVL7>
+-I'm going to say this right now, this level has basically the outside of the
+level drawn but I couldn't get the middle because there were so many ghosts
+that they were trapping me on all sides so I was stuck.  In addition to loads
+of ghosts, there are mummies and skeletons again and then a new type of enemy.
+The little running dude is a thief.  If you let him near you long enough, he
+will steal something out of one of your character's hands.  They love taking
+torches from me.  This is also the level where the shortcut stairs start
+appearing.
+                                                       _______
+               ___                     _____       ___|  ___  |
+              |_ /|___________        |  ___|  ___|  ___|   | |
+         _______|             |_      |/|___  |_    |_      | |
+        |___                    |_____|     |___|_    |     | |
+           _|W ___                              |_|_  |     | |
+       ___|   |___|                               | | |     | |
+      |                                           | | |     | |
+     _|                                           |_|\|     | |
+   _|                                                W|_    | |
+  |                                  ___   _            |   | |
+  |                                 |   | | |_          |   | |
+  |  K                              |_  |_|   |P       _|   | |
+ _|                                   |_     _|       |     | |
+|W         _                            |___|W   P __W|     | |
+|         |_|                                  ___|    ___  | |
+|          _                                  |_   ___|   | | |
+|         |_|                          _ P _ W  | |___   _| | |
+|W                                    | | | |  _|     |_|   | |
+  |                                   | |U| |_|      _      | |
+  |                          _ B _   _|        _____| |_    | |
+  |___                      |_| | | |_____    |___/     |   | |
+   ___|                         |_| \___  |    _  |     |   | |
+  |_/W                             W|  _| |___|G| |  ___|   | |
+    |    _                     ____P| |G   ___  | | |       | |
+    |  _| |                   |  ___    | |   |U| | |       | |
+    | |   |__W       _   W ___| |___|   |/|___    | |  _____| |
+    | |       |_    | |___|      _____  |  C  |   | | |  ___  |
+    | |  ___    |_  |        ___|  _  | |G| | |   |D| | |   |W|
+    |C| |  G|  _  | |_______|  _  |_| |_____| |  _| |_| |_  | |
+   _____| |_ _| |_|______D____| |_____   ___  | |    B    |
+  |_______  |\|_  |                   | |___| | |         |
+          |___| |_|                   |_______| |_________|
+
+KEY
+B: Button (On floor)
+C: Chest
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+P: Pit
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+I. LEVEL 8    <LVL8>
+-We're back into the mazes again.  And along with the mazes, we are into some
+hard enemies.  The rats are nasty, the wizards are annoying... and nasty, and
+there's some kind of snail looking enemy too.  I can't really explain this well
+as it is just a long maze.  Make your way to the top of the map and, yes, you
+will need to pass through the room of traps.  Then make your way to the center
+for the next set of stairs (the set you want).
+ _           _________       ___________       _____     _
+| |_________|      _  |  ___|  _        |___  |     |   |W|
+|    _\  _____    | | |_|    _| |_________  | |     |_____
+|   |_|_|     |___| |_____  |_   _________| | |_______    |
+|     |  _____________    |___| |    T T T  |    ___  |   |
+|    _|_|  _     ___  |  _______|  __T_T_T  |   |_  | |   |
+|   | |  _|_|  _|___|G| |  _______|  ___  | |___  | | |   |
+|_  | | |_|  _|_|_  |___| |         |  _| |_    | | | |_  |
+  |_| |    _| | | |C _____|    ___  | |_   _|   |_| |   |D|
+     _|   |  _| | |D|_________|  _| |_  |_|  _   ___|___| |
+    |  _  | |_  |_|    _____   _|  _  |  ___| | |   |    _|
+   _|_| | |_  |___   _|_    | |___| | | |  ___| |___|_  |_
+  | |   |_  |_____| | |U|   |___   _| |_| |  _____  | |_  |
+ _|/|___  |____D   _| | |_______| |       | |     | |  _| |
+|_      |_     _| |   |___   _____|  _    |_|    _| |_|   |
+ _|_      |_  |   |  _____| |_      | |  _______|  ___    |
+| |_|       | |  _| |_________|  ___| |_|  __D____|   |  _|
+|_     _    |_| |  _   ___   ___|      ___|           | |_
+  |_  | |  _____| | | |K  | |G__      |  _____        |_  |
+   _| |_| |_______| | |   |_____|  ___| |  _  |_____    | |
+  |  ___       _____| |____D   ___|  _  | | |_   _  |   | |
+ _| |___|  _  |_     _      | |  ___|P|_| |_  | | | |_  |_|
+|_____   _| |___|  _| |_    | | |  ___   _  | |W| |_  |_
+   ___|D|___   ___|    _|   | | | |   |_| | |  _    |_  |___
+ _|_     _  | |  D____|     | | |_|       | | | |___  |  ___|
+| |_|   |_| | | |___        | |  _   ___  | | |  _  | | |
+|___   _____|_|___  |    _  | | |U| |   | | | | | | | | |
+ ___| |___  | |___| |   |U| |_| | | |_  |_|_| | |_| | | |
+|  _   _  | |___    |___| |_    |G|   |___\___|     | | |
+| | |_| |_|  ___|  _________|      _____  |      ___| | |
+| |_________|_   _|  ___________  |U___G|_|  _  |  ___| |
+|____S____  |_|H|___|  _     _  |_______|   |_|_| |_____|
+          |___________| |___| |______D________|
+
+KEY
+C: Chest
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+H: Hidden path
+K: Key
+P: Pit
+S: Spinner (Turns you 180 degrees)
+T: Trap
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+J. LEVEL 9    <LVL9>
+-Before making these maps, I'd never been down to this level before.  It starts
+with a puzzle and then has you make a choice with the key on which path you
+take.  They end up in the same place in the end however.  This is another long
+one as you need to go up and over to get to the stairs going down.  There's
+more floating eye blobs, skeletons, and TONS of thieves in this level.  But
+there is an enemy that is far worse than anything you've faced so far, and that
+is the Giant Scorpion.  They are so large that they can't be found in packs of
+more than 1 because they virtually fill up the whole screen.
+                       _____   _   _________     _______
+                 _____|  _  |_| |_|  _____  |   |  ___  |_____
+     _______    |  ___  | |         |_____| |___| |_  |  ___  |
+ _  |  ___  |___| |___| | |      ___     _   D      |_| |  _| |
+|_| | |   |  D__     _  |_|  ___|___|_  |_| | |      _  |_|  _|
+   _| |___| |   |_  | |  ___|___|W  |_|___  |_|  _  |_|  ___|
+ _|  _   ___|     | |_| |   |B B_B_B B|   |  D__|_|___  |_____
+|  _| | |_     _  |  ___|___|B|_____|B|_  | |   |G|  _|  _/_  |_
+| |   |_  |___| |_| |   |  __B_B_B_B_B  | | |   | | |   |_  |_  |
+| |_____|    _   D__|   | |  ___   ___| | | |___|U_|_|     |   |_|
+|  _______  |_| |       |L| |W__|_|     | |_____| |_   _  |
+| |  ___  |  _  |  _____| |___  |  _    |    _____  |_| | |_____
+| |_|   | | | | | |  B D___D B| | |_|_  |   |U___G|  _  |  ___  |
+|  _    | | |_| | |  _|  _  | | |___| | |_          |_| | |_  | |
+| | |__W| |  ___|_| |   |U| | |_______|_  |___       _  |_  | | |
+| |_______| |  _|  _|   | | |_______  | |_    |  ___|_|___| |_| |
+|_________  | |  _|_____| |_____   _| |_  |  _| |W  | |___   ___|
+ _______  | | | | |  _   _   _  | |    _| | |   |   |___  | |
+|U      | | | | | |W|_|W|_|W|_| | |  _|___| |_  |   /___| | |
+  |_____|_| | | | |_   _   _   _| | |_|_____  |_|_  |_    | |___
+   _____|  _| | |  _| |_|W|_|W|_  |   |_____|_  | |   |___|  ___|
+ _|  _____|   | | |  _   _   _  | |  _____  | | | |____D__  |
+|   |  _______| | |W|_|W|_|W|_| | | |___  | | | |         | |
+|  _| |  ___   _| |_____   _____| |_    | | | |D|  ___    | |___
+| |   |_|___| |_   _____| |_____    |   | | | | |_|   |_  |___  |
+| |     |  _____| |  _   _   _  |  _|  _| |_| |         |___  | |
+|G|     | |_____  | |_| |_| |_| | |   |_   _  |  _          | | |
+     ___|  ___  | |_   __K__   _| |  _  |_| | | |_|  _      | | |
+    |  _  |  _| |   |L|     |L|   | |_|_____| |     | |     | | |
+    | | |_| |   |___| |     | |___|   |    ___|    _| |     |_| |
+    |_|     |_________|     |_________|   |___\___|   |_________|
+
+KEY
+B: Button (On floor)
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+K. LEVEL 10    <LVL10>
+-The beginning can be a little confusing but the goal is to open the secret
+door to access the rest of the level.  The sword near the beginning is well
+worth getting despite the entire corridor getting filled with poison gas when
+you pick it up.  Once again you have an area with one key and three doors and
+all come out in the same place.  There are more hoards of thieves on this
+level.... and wasps... and Clubbas.  And if we just add some Water Elementals
+to the mix and we're all in for a fun day.
+       _______     _______     _____
+      |_   _  |  _|  ___  |___|  _  |___
+        | |_| |_|   |___|  ___  | |  _  |              _______
+        |___   ___   ___  |  _| |_| |_| |_            |K   _  |
+         _  | |___| |_  | |_|    ___   _  |      _    |___| | |
+   ___  |K| |         | |___    |   | | |_|     |G|  _   ___| |
+  |  _|     |_______  |___  |_  |_  | |         | | |_| |G__  |
+ _| |_     _____    |___  |  _|   |_| |  _______|U|      ___| |
+|___  |   |     |  ___  |L| |___   _  | |K B_B_B|    _  |  _  |
+    | |_  |     | |_  | | |     | | | | |B|_________| |_| | | |
+   _|   | |___  |___| |_| |___  |_| | |_|B_B_B_________D__| | |
+  |     |___  |  D__   _ K L  |___  |   |_       _____   ___| |
+  |___   _  |_| |  _| | | | |    _| |___  |___  |U   G| |     |
+     _| |_|_____| |___| | | |   |  ___  |B_D  |   | |   |  _  |
+   _|     |  _         _|L|_|_  | |   |___  | |___|_|  _|D|_|D|
+  |  ___  |_| |_______|_    | | |_|    _  | |___  |   |_      |
+  | |   |  _   _____  | |_  | |_   ___| | |_   _| |_____|___  |
+  | |  _|D| | |     | |   | |_  | |___  |_  | |  _   _  |   | |
+  |_| |   | |/|     | |___|_  | |_    |_  | | |L| | | | |  _| |_
+      |___| |C|     |___  | | |_  |_    | | | |B| |L| | | |_   _|
+ _______    |L|_____    | | |_  |___|_  | | | | | |B| |D|_  | |
+|  ___  |   |  ___  |   | |   |  _  | |_| | |_| | | | |   | | |
+| |   | |   | |   | |   |D|   | |_| |___  |___  | | | |   | | |
+| |___|W|   | |___|W|   |T T| |_   ___  |_   _| | | | |   | | |_
+|K______|   |_______|     |T T| | |_  |_  | |___|_| |_|_  | |_  |
+ _                          |T| |   |_  | |_    |     | | |___| |
+|U|_____     _______     _  |T| |  _  |_|   |___|_   _|_|  _____|
+|  ___  |   |  ___  |  _|_| |T| |_| |      ___  | | | |   |_____
+| |   | |   | |   | | |_|_  |T|     |_    |___| | | | |  _   ___|
+| |___|W|   | |___|W|  _|_| |T|       |_     _  |_| | | |_|_|
+|_______|   |_______| |_|               |___| |_____| |___|
+
+KEY
+B: Button (On floor)
+C: Chest
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+\,/: False Wall (Remove with switch or button, or lever)
+
+L. LEVEL 11    <LVL11>
+-The first thing you'll do is run into an Air Elemental.  They aren't even
+touchable until they aren't in mist form but that is also when they are most
+dangerous.  We also get introduced to Knights and Giant Spiders on this level.
+As you can expect, the Knights are heavily armored and tough to kill.  There's
+a pit that moves, a row of invisible pits and a set of doors that, if you run,
+will open by themselves and release hoards of enemies.  
+   _       _________         ___                       ___
+ _| |_____|  _____  |  ___  |   |  ___________       _|   |
+|  ___   _  |___  | | |   | |  _| |      P    |___  |_   _|
+|_|___| | |_____| |_| |  _| |D|___|      P     _  |  _| |_   _
+  |  ___|    _______  |D|   |  ___       P    | | |_|  _  | | |
+  | |  ___  |  ___  |_| |___| |   |_   __P____| |  ___| | |_| |
+  | | |   | | |  _|           |_    |B|  _____  |L|  ___| /___|
+ _| | |   |_| | |               |   | | |     |_| | |  ___|
+|  _| |____D  | |    _   _      |   | | |      ___| | |  _____
+| |  _____  | | |   | |L| |     |   | | |_____|     | |_|  K  |
+| | |  ___| | | |   |_|K|_|     |   | |  _________  |__L      |
+| |_| |  ___| | |     |_|       |   | | |  _____  |  _  |_   _|
+|  _  | |  L  | |              _|_  | | | |  _  | | | |___| |
+| | | |_| | | |_|_____________| |U|_| | | | |G| | | |    _  |
+| | |_____| |_  |___       _____|_____| |_| | | | | |___| | |
+| |_______    |___  |___  |  __G|           |U| | |    ___| |
+|_   _____|_____  |    _| | |___     ___________| |   |  ___|
+ _| |    _|     |_|___|   |____U|   |  ___________|   | |  ___
+|  _|  _|  _   _  |_     ___________| |  _         ___| | |   |
+| |_  |   |_|D|_|   |   |    P P   _ K| |G|  _____|  _  |_|_  |
+|_  | |____D   D____|   |  __P_P__| | |_| | |  ___  | |_  |_|D|
+ _|D|_____  | |         |L|_______  |_____| | |___| |   |  ___|
+|  _____  | | |___      |_______  |_     _  |  _____|  _| |
+| |  _  | | |  _  |  ___   _____|   |_  | |_| |___   _|   |
+| | | |_| | | | | |_|   |_|           | |  _____  | |_____|
+| | |___\_| | | |___             ___  | | |     | |___________
+| |_______  | |___  |    _______|   |_| | |_   _|___   _   _  |
+|___   ___| |___  | |  _|_________   ___|  _| | |___| | | | | |
+   _|L|_        | | |_| |  _____  | |  _  |   |_______|_| | | |
+  |     |  _____| |_____| |  ___| | |_| |/|      ___  |___| | |
+  |     | |_   ___________| |___  |_____| |_____|   |_______| |
+  |K____|   |_|                 |_____________________________|
+
+KEY
+B: Button (On floor)
+D: Door (Unlocked)- Open with button on side.
+G: Going Down (Stairs)
+K: Key
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+P: Pit
+U: Up (Stairs)
+\,/: False Wall (Remove with switch or button, or lever)
+
+M. LEVEL 12    <LVL12>
+-Unfortunately when you go down here via the visible stairs, you won't be in
+the right area, and you need to find your way into the huge room with Lord
+Chaos inside.  Yes, you're ultimate goal is on this level.  There are also lots
+of demons in the room with him along with Fire Elementals.
+ _______________               _________
+|  ___________  |_______     _|    D    |
+| |        _  |___      |   |     | |_  |
+| |_______|U|  _  |W____|  _|     |___|D|
+|  _______  |_| |___     _|             |
+| |       |  X____  |   |   LORD CHAOS  |_
+| |_______| |___  | |_  |      _          |
+|  ___________  | |__U| |     |_|         |
+| |    _      | |  _    |                 |
+| |  _|U|  _  |_| | |   |                 |
+|_| |_  | |_|     | |   |              P  |
+   _  |G|  ___    | |___|        P        |
+ _|W|_    |  G|   |_____       P|_|_      |
+|  _  |_  | |___________|         |_|     |
+|_|_|  _| |_____________               P  |
+  |  _|_                |P       _       _|
+  | | | |_________      |      _|_|     |
+  | | |           |     |     |_|       |
+  | |_|           |    _|               |
+ _|  _            |   |_   _____________|
+|___| |___________|     |_|
+
+KEY
+D: Door (Unlocked)- Open with button on side
+G: Going Down (Stairs)
+P: Pit
+U: Up (Stairs)
+W: Warp Snow (or any other warp)
+X: False wall (remove with switch to the right)
+
+N. LEVEL 13    <LVL13>
+-This isn't really a level but just a sub-level to the 12th.  The only enemy on
+this level is a giant Red Dragon.  You will find the Gem of Power on this level
+so it is necessary to come here before fighting the final boss.
+       _____________
+   _  |G__     __L  |
+  |_|     |  _|  _| |_
+ _________|L|  _|     |_
+|  _   _____| |         |
+| | | |       |         |
+| | | |       |         |
+| |_| |    ___|         |
+|  _  |   |  _          |
+| | | |   | | |   RED   |
+| | | |  _| | | DRAGON  |
+| |_| | |  _| |         |
+|__A__| | |  _|    _    |_
+        | | |     |_|     |
+        | | |             |
+        | | |_           _|
+        | |   |    _    |
+        | |_  |_  |_|  _|
+        |_  |   |_   _|
+          | |_    |U|
+          |   |      _
+          |  _|  ___| |
+          | |   |U____|
+          | |_______
+          |_________|
+
+KEY
+A: Altar of Ressurection
+G: GEM OF POWER
+L: Door (Locked)- Unlock with key, button, switch, etc. (includes breaking)
+U: Up (Stairs)

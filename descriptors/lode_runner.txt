@@ -1,0 +1,1542 @@
+1. INTRODUCTION
+
+    1-1. BASIC LODE RUNNER
+
+Lode Runner's a simple old game. You are equipped with a gun that can dig 
+holes in soft ground, which allow you to fall through them or trap enemies 
+who chase you albeit at a slower pace. If the hole closes over the enemy, he 
+regenerates at the top. Your object is to pick up all the gold in a level 
+full of ladders and ropes and hard ground and even false ground and climb to 
+the top of the level(a flashing ladder in the Arcade case.) If the bad guys 
+catch you or you fall into your own trap and get swallowed up, you lose. The 
+game is grid based so there are only exact spots where you can dig. It was 
+originally created by Doug Smith and has gone through several incarnations on 
+different platforms.
+
+Some feature very similar levels across platforms; for instance the NES 
+version takes 50 levels, most of which map to an Apple II level(where the 
+game was originally ported) minus a few rows. The SNES and Turbografx appear 
+to pretty up some old levels without offering new challenges. All ports that 
+maintain the grid structure and basic icons have slightly different AIs and 
+some have completely different levels or neat new power-ups(the PSX version--
+LR and LR extra--has bombs which permanently destroy part of a level, or a 
+stun gun), some are wickedly tough(GBA Lode Runner, Apple Championship Lode 
+Runner--not a port, but just a shifting of levels) and some go off in 
+different directions entirely(Lode Runner 2(PC) is 3-d isometric and looks 
+like Q*Bert; Nintendo 64's has you walking almost on wire structures and has 
+some vicious plants that attack you. But it works.)
+
+The arcade versions have some old levels and some new ones, but given that 
+the monsters are faster and smarter there's enough fresh air that many that 
+were trivial in old versions of Lode Runner are challenging--especially when 
+you get point bonuses for efficient form.
+
+    1-2. DIFFERENCES FOR THE ARCADE GAME VS EARLY PC
+
+Of course the arcade version doesn't allow you to create levels, sadly. It's 
+there to eat your money. So it has a selection of pretty tough levels. Lode 
+Runner I has 24 of them; II-IV have 30. Each group of 3 levels has a 
+different set of monsters but the only difference is visual. They don't work 
+together, and they all have the same AI, so they do tend to clump together 
+for your advantage.
+
+First thing you'll notice is that your enemies are much faster than in the PC 
+version. Also, aren't stupid. They try to get horizontally level with you and 
+run at you. If you climb up the bottom of the ladder, they won't run away. 
+Hey, it was an arcade game, they needed as many quick deaths as they could 
+get.
+
+The icons are arranged a bit differently. The board is 24x32, with people and 
+gold being 1x2 icons. The result is that some platforms that look like they 
+are level with each other, aren't. This means that sometimes when you dig you 
+will have a pit half your size. You can't jump out of it. You have to avoid 
+it.
+
+This gets sticky but on the other hand you can grab gold while on a rope if 
+the gold is right below the rope--and you can dig under a rope, although 
+enemies won't fall into the holes you dig. It's more for escape.
+
+~
+$
+$ <i gold piece actually. You can grab it.
+
+XXX*
+XXX*XXXX <i dig looks like this.
+XXXXXXXX  You fall in.
+
+You also get bonuses at level's end for winning quickly and/or without 
+trapping or killing enemies. And sometimes you get a break with regard to 
+enemies not being killed. You and enemies both walk over healing holes, while 
+in most other installations it is death to do so. This is more immediately 
+risky for you if you've laid out a few holes in a row hoping to trap enemies 
+but makes the no-kill bonuses easier to achieve for a skilled player.
+
+  2. CONTROLS
+
+If you are playing from MAME the controls may be a bit tricky, with the left 
+CTRL and left ALT being used to dig. I set P1 button 1 to Z and P1 button 2 
+to X, so you can use those to dig left and right respectively.
+
+If you try to move diagonally, up/down override left/right. So if you want to 
+get on that ladder, it works, but to get off it you have to push left/right 
+explicitly.
+
+If you want to dig or fall, note that your movement is quantized. A Lode 
+Runner board is 24x32 with your icon being 1x2 and there's no way to, say, 
+fall in the middle of a column. You'll automatically shimmy to the nearest 
+one and fall. Also note it takes time to dig, so if an enemy is too nearby, 
+he'll walk over what you dug and get to you.
+
+You should also note that it takes time to get off a ladder. So if an enemy 
+is in too-hot pursuit you may be out of luck, and you need to take that into 
+account when approaching an enemy. In fact it can be tough to get off a 
+ladder sometimes RIGHT when you want so you may want to fall from above.
+
+You'll also notice that you can jump up a bit for the rope. Icons are now 
+every half-human-height, so the rope may not be right where you can grab it.
+
+yes yes no
+
+         ~
+     ~
+ ~
+
+H   H   H
+
+The whole thing about icons not being the same size as you or your enemies is 
+very important also when dealing with where to dig holes or walk. For 
+instance, if you have this:
+
+HXX
+HXXXX
+HXXXX
+
+Digging right from the ladder won't let you go right. It will create;
+
+H
+H  XX
+HXXXX
+
+  3. SCORING AND LEVEL DIVISIONS
+
+You lose a man if you run out of time, touch an enemy, get killed in a hole 
+you dug, or wind up in a space you can't get out of. The game can detect when 
+you are trapped, sometimes, too. "YOU ARE BOUND TO DIE" and you restart from 
+there.
+
+You get 200 for each chest, 100 for each guy you entrap, and 100 for each guy 
+you kill.
+
+Extra men at 50000.
+
+You get bonuses for various tricks.
+--walking over a group of 3 guys in a row you entrapped=3000
+--landing on a guy after falling=1000
+--sealing off your enemies where they can't get to you=10000
+
+If you complete a level with more than half the original time remaining, you 
+get double the bonus time amount. When you have 1/4 of your time remaining, a 
+tune plays every 100 points to remind you. You lose about 50 bonus points per 
+second.
+Without entrapment(i.e. digging to trap a guy): 20000
+Killed no enemies(no one gets stuck in a hole): 10000
+
+This allows for interesting sub-puzzles for handling levels efficiently. Of 
+course it's not always possible to get whichever bonus, but you can try.
+
+Each block of 3 levels gets you a new group of enemies. They think the same 
+and are just as fast, but they look different. They're all about equally 
+weird and lethal.
+
+Levels 1-3 have blue haired men in green loincloths.
+Levels 4-6 have pompomlegged jellyfish resembling a cat toy my cats ignore.
+Levels 7-9 have frogeyed hunchbacks in a red shirt and blue pants.
+Levels 10-12 have robots with terminals for heads and pincers for hands.
+Levels 13-15 have orange and white party crackers that tumble end-to-end. 
+These guys are a bit tricky as they can climb up a ladder they're just below.
+Levels 16-18 have bat-eared flightless armless dragons.
+Levels 19-21 have multicolored jellyfish.
+Levels 22-24 have arch shaped multipastel crabs? Or maybe skeletal hip bones?
+
+The default high score list:
+48540 IIO 4 18990 KHO 02
+43200 RKG 3 16010 OIW 02
+40400 EIA 3 13870 NRA 02
+38800 MKM 3 12800 OAY 02
+37050 KAE 4 12350 GNA 02
+36500 AIW 3 12150 AAT 01
+33300 BSA 3 11030 MIT 01
+31250 UHY 2 10880 EHE 02
+27750 SAO 2 10350 OIN 01
+26600 HNI 2 10100 STE 01
+(These initials are preserved in later default lists.)
+
+  4. WALKTHROUGH
+
+The level map ledger is as follows:
+- = them
++ = you
+h = ladder on level complete
+X = ground(can dig)
+* = cement(no dig)
+~ = rope(can climb across)
+$ = gold
+v = fake ground(fall through)
+
+    4-1. LEVEL 1
+
+Time: 6000
+
+               h
+   $           h
+XXXXXHXXXXXX   h
+XXXXXHXXXXXX   h
+     H~~~~~~~~~h
+     H         h
+     H         h   $
+     H    XH   XXXXXXHXX
+     H    XH   XXXXXXHXX
+     H    XH         H
+     H    XH         H
+   - H    XH     $ - H
+XXHXXX    XXXXXXXXHXXXXX
+XXHXXX    XXXXXXXXHXXXXX
+  H               H
+  H               H
+  H         -     H
+XXXXXXXHXXXXXXXXXXH
+XXXXXXXHXXXXXXXXXXH
+       H          H
+       H~~~~~~~~~~H
+       H          H
+      $H          H  $
+    HXXXX         XXXXXH
+    HXXXX         XXXXXH
+    H                  H
+    H                  H
+    H       +  $       H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+There's nothing terribly complex about this level, and after a few times your 
+greatest worry will probably be how long it takes for the final guy to dump 
+his gold, if you just go up the right side and want to get the whole bonus.
+
+But there's an easy way to get the 20000 no-entrap bonus and the double-time 
+bonus too. Get the gold to the right. Then head to the left and stay under 
+the ladder. Wait until the third enemy drops from the rope above, then go up 
+and right for a gold, back left and up, left for the gold at the top, then 
+right and up and walk all the way left. Get the gold in the UL and then run 
+back right. The end of level ladder will appear, and you need to shake the 
+two guys on it. Fall right and down. Just run to the ladder on the right and 
+they'll follow you. Up-left-up. You win.
+
+    4-2. LEVEL 2
+
+                       h
+                       h
+              $        h
+  $      HXXXXXXXXXH   h
+XXXXH    HXXXXXXXXXH   h
+XXXXH    H         H   h
+    H    H         HXXXX
+    H    H         HXXXX
+    H -  H     $   H
+    HXXXXXXXHXXXXHXX
+    HXXXXXXXHXXXXHXX
+    H       H    H
+ $  H       H    H  ~
+XXXHX       H -  H   ~
+XXXHX    HXXXXXHXX    ~
+   H     HXXXXXHXX
+   H~~~~~H     H       $
+   H     H     H       X
+   H     H     H  -    X
+   H       HXXXXXXXXH
+   H       HXXXXXXXXH
+   H       HX      XH
+   H     + HX      XH
+XXHXXXXXXXXXX   $  XXXHX
+XXHXXXXXXXXXX HXXH XXXHX
+  H           HXXH    H
+  H           HXXH    H
+  H           HXXH  $ H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+    4-3. LEVEL 3:
+
+Time: 6000
+
+        h
+        h        $
+X       h       XXXHXXXX
+X       h       XXXHXXXX
+XX      h      XX  H
+XX      h      XX  H
+ XX     h     XX   H  $
+ XX     h     XX  XHXXX
+  XX    h    XX   XHXXX
+  XX    h    XX    H
+   XX   h   XX     H
+   XX   h  $XX     H
+$- XXX  h  XXX     H
+XXHXXX  h  XXXHXXXXXXXXX
+XXHXXXX h XXXXHXXXXXXXXX
+  H   X h X   H
+  H   XXHXX   H
+  H$- XXHXX   H    $
+HXXXH   H    XHXXHXX
+HXXXH   H    XHXXHXX
+H   H            H
+H   H            H
+H   H   $     -  H
+H   HXXXXXXHXXXXXHXXXHXX
+H   HXXXXXXHXXXXXHXXXHXX
+H          H         H
+H          H         H
+H          H  +      H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+The timing for the no-kill bonus is tricky here so you may want to skip that. 
+However, if you are game, then you can work as follows: go right to the 
+ladder, wait for the guy to almost get to you, then go U-L-U-L to the block 
+at the edge. Wait for the guy to almost get to you again and fall left. Dig 
+the leftmost block and wait for the enemy to fall in. Go UL to get the stuff 
+in the corner and immediately dig right, fall and go left and down. You 
+should be able to loop back to the right, where you can work your way up to 
+the top unmolested. Drop into the V and once you get the final gold, a ladder 
+will appear in the middle of the V. Climb it to advance.
+
+If things get a bit jumbled, though, you can remember to try to get your 
+enemies lined up. Standing on the middle platform on the right(just right of 
+the chest in the V) will make your enemies go to the UL. So you can just 
+clear out the bottom, do that and walk to the top. The main annoyance here is 
+that regenerated enemies often appear in the V and get stuck there. You can 
+try to wait for them to fall, but others then come at you and you may have to 
+entrap/kill them and it's a bit sticky. Best to be sure the V is unoccupied 
+before dropping in.
+
+    4-4. LEVEL 4
+
+Time: 8000
+
+~~~~~    ~~~~~~~~~    h
+                      h
+            -     - $ h
+H          XXX   ***XXH
+H$    $ $  XXX   ***XXH
+XXH   XXX        *   XH
+XXH   XXX        *   XH
+  H            ~~*$ $ H
+  H              XXXXXH
+  H        -     XXXXXH
+  H     XXXXXXX~~     H
+  H     XXXXXXX       H
+  H     X             H
+  H     X     X       H
+  H     X$ $ $X       H
+  HXXXXHXXXXXXX       H
+  HXXXXHXXXXXXX       H
+   *  *H              H
+   *  *H              H
+   *  *H              H
+   *  *H              H
+   *  *H              H
+   *$$*H              H
+   XXXXH              H
+   XXXXH              H
+       H              H
+       H              H
+$    $ H   +  $     $ H
+XX****XXX*****XX****XX**
+XX****XXX*****XX****XX**
+
+Head right for the first gold and then back left. Wait a second left of the 
+ladder, then dig right so the guy on the left will get entrapped but not 
+killed. Go to the left edge, get the gold, and walk back over the entrapped 
+guy, up and left. Wait for everyone to get on the ladder to follow you. Lead 
+them to the very UL and then go right on the rope. Drop down, dig to get to 
+the two gold in the box and dig and drop again.
+
+If you can get to the right side and keep your enemies on the left, you're 
+done. And you can. Go up the long right ladder so you're level with the 3 
+golds in the middle box. The enemies will look for you just left of there. Go 
+to the top, left off the rope, get the gold, fall right, and dig into the 
+box. Get the gold, fall right and climb up. Position yourself as before to 
+draw the enemies away and then go to the top of the ladder. Dig left to get 
+to the two UR golds. Then fall and go back up the ladder.
+
+    4-5. LEVEL 5
+
+Time: 8000
+
+          -        -   h
+XHXHXHXHXHXHXHXHXHXHXHXh
+XHXHXHXHXHXHXHXHXHXHXHXh
+ H H H H H H H H H H HXh
+ H H H H H H H H H H HXh
+$H H H H$H H H H$H H HXh
+XHXHXHXHXHXHXHXHXHXHXHXh
+XHXHXHXHXHXHXHXHXHXHXHXh
+XHXHXHXHXHXHXHXHXHXHXHXh
+ H H H H H H H H H H HXh
+ H H H H H H H H H H HXh
+ H H$H H H H$H H H H$HXh
+XHXHXHXHXHXHXHXHXHXHXHXh
+XHXHXHXHXHXHXHXHXHXHXHXh
+ H H H H H H H H H H HXh
+ H H H H H H H H H H HXh
+$H H H H H H H H H H HXh
+HXXXXXXXXXXXXXXXXXXXXXXh
+HXXXXXXXXXXXXXXXXXXXXXXh
+H                      h
+H                      h
+H     $   $   $        h
+H**********************h
+H**********************h
+H
+H
+H$      +              $
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+You won't be getting any 5-digit bonuses here unless you finish with >5000 
+ticks left. This level gets finished in three parts.
+
+First, go right to get the gold chest and then back left. Dig on each side 
+and then go to the left and keep digging right. Make enough holes/wait long 
+enough to kill every enemy. Then go up to the cement level and clear 
+everything there. When your enemies are all on the level above, drop to the 
+right. Then dig 8 holes to get rid of them, on the bottom level.
+
+Now run to the DL and wait for everyone to regenerate and fall off the right. 
+Once the last enemy has, you have a straight shot up to get the gold chests. 
+Well, you have to zigzag a bit, but your path is unimpeded. The ladder to 
+level 6 is on the right.
+
+    4-6. LEVEL 6
+
+Time: 8000
+
+    ~~      h
+            h
+            h
+XXXH  XXXXXXh XXXH~~~~~~
+XXXH  XXXXXXh XXXH
+   H     H       H
+   H     H       H
+   H~~~~~H       H
+   H     H       H
+         H       H
+         H       H
+         H       H X  XX
+         H       H X  XX
+HXXXXXXXXHX      H XÿÿX
+HXXXXXXXXHX      H XXXX
+H        H       H XXXX
+H        H       H   X H
+H        H       H   X H
+XXXXH    HXXXH   H   X H
+XXXXH    HXXXH   H XXXXH
+    H        H~~~H XXXXH
+    H        H   H     H
+    H        H   H     H
+XXXXXXXH         H     H
+XXXXXXXH         H     H
+       H         H     H
+       H         H     H
+       H         H     H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+If you just want to win the level, then you can head to the UR, fall in and 
+dig a hole to get out when some bad guys get close. A bunch of them will fall 
+into the restricted area. One will get trapped in the hole you dug. You can 
+repeat this to clear the area of everyone and get a 10000 sealing bonus and 
+then take care of the rest.
+
+Otherwise go right and wait at the base of the long stairs. Three guys should 
+come to follow you. Lead them up to the top and fall left. Then go right and 
+up and right and dig to get the gold in the U-shaped pit. Dig to get to the 
+bottom and this time go up the long ladder and all the way right and wait. 
+Fall down when three guys are on the rope and at least two should fall in.
+
+Now you can probably lead anyone else with gold on a merry chase so he'll 
+eventually get rid of it, and you can get whoever's left to fall in the pit 
+easily enough too. That gets you 10000 points.
+
+You may be a bit pressed for time now, so I recommend a quick way through to 
+be digging over the suspended gold(L of the tall ladder, center square) and 
+falling to the ground and going up and collecting each gold. When you get the 
+final one(UL) you can walk right and then up the ladder that appeared to 
+advance.
+
+    4-7. LEVEL 7:
+
+Time: 10000 for this and all subsequent levels
+
+                  h
+                  h
+                  h
+HXXXXXXXXH        h
+HXXXXXXXXH     $  h$  $
+H        HXXXXXH  XXHXXX
+H        HXXXXXH $XXHXXX
+H $    $ H    XH    H
+H XXXXXX H    XH    H
+H XXXXXX H $$ XH    H  $
+H        H ** XXXXXXXXXX
+H        H ** XXXXXXXXXX
+H        H *          X
+H        H *~~~~~~    X
+H        H *          X$
+H XXX  X H *$      $  XH
+H XXX  X H **     XXXHXH
+H XXX XX H **     XXXHXH
+H XXX$XX H **        H H
+H XXXXXX H **        H H
+H XXXXXX H **        H H
+H        H **   $    HXX
+H        H ** XXXXX  HXX
+H        H ** XXXXX  H
+H****X*******        H
+H****X*******        H
+H                    H
+H                    H
+H                    H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+You can try for the 20k bonus but it is a bit of a gamble. What you need to 
+do to start out is, clear the right. Get the gold on the edge, then D-L-U-L 
+across the rope. Drop onto the next gold and wait for the enemies to lump at 
+the center top ladder.
+
+Go to the UL and wait. If you want to be sure of getting the gold, go 4E and 
+dig R, left, dig R, left, dig R. You don't want to dig the final hole next to 
+the ladder because enemies will get stuck. Not only will this lose you the 
+bonus, but it will lose you the ability to get back to the top clearly as 
+well. You want to stick the bad guys in the bottom bit for as long as 
+possible.
+
+You may have to get them to loop around to follow you if you're trying for 
+20k. But when you get the gold, loop back to the left and go up. Pause when 
+you're 1/2-level with the block to the right, with the gold in the pit. The 
+bad guys will turn to the right. When they're going up the ladder, tap up and 
+the ones that can go right into the corner, will. Go back down and repeat, 
+and everyone will be trapped away.
+
+Clear out the gold on the center cement bit--dig over them and fall in. One 
+bad guy may escape, but he'll never catch up to you. Dig in the UL to fall 
+onto the beam with two gold. Below there you need a bit of good digging.
+
+X21  X
+XX3$XX
+XXX4XX
+
+Then you can go to the UL where you can fall for one gold, pick up the two 
+others, and take the stairs out of this level.
+
+    4-8. LEVEL 8:
+
+
+                       h
+  $                    h
+H*X*H          $       h
+H*X*H    HXXXXXXXXH    h
+H   H    HXXXXXXXXH $  h
+H   H    H        HXXXXH
+H$ -H    H        HXXXXH
+HXXXH~~~~H~~~~    H    H
+HXXXH    H        H    H
+H   H    H       -H    H
+H $ H    H    HXXXXXXXXH
+H   H    H    HXXXXXXXXH
+H   H    H    H        H
+H  -H $  H $  H        H
+*XXX**XX*HXXXXH        H
+*XXX**XX*HXXXXH        H
+*XXX*    H             H
+*XXX*    H             H
+*XXX*    H        HXXHXX
+*XXX*    H        HXXHXX
+*   *    H   ~~~~~H  H
+*   *    H        H  H
+*$  *$   H        H  H $
+XXXXXXXHXXXXX     H XXXX
+XXXXXXXHXXXXX     H XXXX
+       H          H
+       H          H
+$      H          H    $
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+The bad guys swarm enough in this level that you don't even want to worry too 
+much about the 10000 bonus. Basically if you can sucker everyone over to one 
+side and then run to the left for the big dig, more power to you. But trying 
+to force it will probably get you killed. You're probably better off going 
+for the halftime bonus.
+
+I advise L-U-L to get the gold there and then going back to the left. If an 
+enemy follows you, let him. Clear out the DR by getting the top of the golds 
+first then digging down. Dig on each side of the ladder before going up, and 
+when you do you can clear out the top. If you managed to lump the enemies 
+together, now might be a good time to perform the dig in the DL, for the 
+entombed gold. If not, you can probably dig the enemies up and let them 
+regenerate anyway.
+
+321
+X54
+XX6
+$
+
+Once you've gotten the entombed gold, sit and wait. The bad guys will go over 
+to the right and you can get the DL gold. You can fend them off with digging 
+to get the suspended gold in the UL--just dig over it and drop in. You can 
+probably scramble for everything else. The exit is in the UR.
+
+    4-9. LEVEL 9:
+
+   h
+H~~h              ~~~~~~
+H  h
+H  h $   $ -
+H  XXXXXXXXXXXXXXH
+H  XXXXXXXXXXXXXXH
+H        X   X   H
+H        X   X   H
+H   $    * $ * $ H-    $
+XHXXXXXXXXXXXXXXXXXXHXXX
+XHXXXXXXXXXXXXXXXXXXHXXX
+ H       X     X    H
+ H       X     X    H
+ H       * $   *  $ H  $
+ H    XXXXXXXXXXXHXXXXXX
+ H    XXXXXXXXXXXHXXXXXX
+ H$   X  X   X   H
+XXXHXXX  X   X   H
+XXXHXX*  * $ * $ H -
+   H  *  *XXXXXXXXXXXXXH
+   H  *  *XXXXXXXXXXXXXH
+ $ H  *      X         H
+HXXXXXX      X         H
+HXXXXXX $  $ *       $ H
+H     XXXXXXX*XXXXHXXXXX
+H     XXXXXXXXXXXXHXXXXX
+H            X    H
+H            X    H
+H $+   -   $ * $  H
+XXXXXXXXXXXXX*XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+This doesn't look like a level where you can get the no-kill bonus in such 
+close quarters, but in fact you can. With a bit of precision you can get the 
+double-time bonus too.
+
+The first thing to do is go up to get the third gold piece, then dig right 
+and fall and repeat that. The two enemies on the left should be close 
+together. Now dig two squares to the left for them to fall in--they should be 
+4-5 blocks away. Then you can run all the way back up. Grab the gold that's 
+just below the overhang, and dig in the center. Now you can keep digging 
+straight down to pick up more gold. Don't forget the piece in the DR part of 
+the left side.
+
+Back up again using the same trick you did as before. You may have to dig in 
+the center but this time, after digging again, dig at the right edge. This'll 
+take you to the right side. Dig to the bottom to get the chest there and work 
+your way back up. You may have to dig right, go across a ladder and dig right 
+to get rid of enemies for the moment but it should work. You may have to 
+repeat this at the top to pick up the stray gold pieces but then you can wait 
+for the enemies at the top, dig holes to get by them and walk up the flashing 
+ladder to level 10.
+
+    4-*. LEVEL 10:
+ 
+h     H~~~
+h     H
+h     H     $     $
+h  H~~H  XXXXXXXXXXXXXXH
+h  H  H -XXXXXXXXXXXXXXH
+h  H   XXX            XH
+H~~H   XXX            XH
+H  H   X    $    $    XH
+H      X   XXXXXXXXXXHXH
+H      X $-XXXXXXXXXXHXH
+H $    X XXX        XHXH
+H XX   X XXX        XHXH
+H XX $ X X      $   XHXH
+H  XXX X X   XXXXXXHXHXH
+H  XXX X X -$XXXXXXHXHXH
+H $    X X XXX    XHXHXH
+H XX   X X XXX    XHXHXH
+H XX $ X X X   $  XHXHXH
+H    X X X X   XXHXHXHXH
+H    X X X X $-XXHXHXHXH
+H      X X X XXXXHXHXHXH
+H      X X X XXXXHXHXHXH
+H $  $ X X X X  XHXHXHXH
+H X XX X X X X  XHXHXHXH
+H X XX X X X X$ XHXHXHXH
+H        X X XXXXHXHXHXH
+H        X X XXXXHXHXHXH
+H $  $           H H H H
+XXXXXXXX         H H H H
+XXXXXXXX         H H H H
+************************
+
+I decided not to worry about not getting a dig bonus here. While the only 
+remotely esoteric gold-grab is on the left, where you have the following 
+dilemma:
+
+$
+X1
+ 2XX
+$
+3X
+
+$
+
+The rest is not too bad except for lining your enemies up. Remember you can 
+wait at the very bottom for any monsters in the UL to drop and follow, 
+leaving you to climb up the UL.
+
+You can work your way around the enemy that gets in the left, and then you'll 
+want to go to the top and immediately dig a bunch of holes to catch any stray 
+enemies that go along the top. They tend to regenerate in the UL where they 
+will be harmless. From there you just have to watch that any drops you make 
+won't put you to the left of a descending enemy. Also, you can save a bit of 
+time by digging as follows in the platform just below the top:
+
+$ 1XX
+XX2
+
+You'll still have to backtrack up after you fall, but you can dig through in 
+just two trips, which is not too bad. Dig your enemies into oblivion so that 
+when they are all regenerated in the UL, you can wait in the DR and they will 
+fall to the right, leaving you a clear path up and left.
+
+If one still has a gold chest(for whatever reason) you can probably drop in 
+to the DL and dig the appropriate number of holes on each side of you.
+
+    4-*. LEVEL 11:
+
+                       h
+                       h
+                       h
+                       h
+                       h
+                  -    h
+               HXXXXXHXH
+               HXXXXXHXH
+             - HX   XHXH
+           HXXXXX   XHXH
+           HXXXXX   XHXH
+         - HX   X$ $XHXH
+       HXXXXX   XXXXXHXH
+       HXXXXX   XXXXXHXH
+       HX   X$ $X    HXH
+   HXXXXX   XXXXX    HXH
+   HXXXXX   XXXXX   $HXH
+   HX   X$ $X     HXXXXH
+XXXXX   XXXXX     HXXXXH
+XXXXX   XXXXX   $ HX  XH
+X   X$ $X     HXXXXX  XH
+X   XXXXX     HXXXXX  XH
+X   XXXXX     HX   X+ XH
+X   X       $ HX   XXXXH
+X$ $X      HXXXX   XXXXH
+XXXXX      HXXXX$ $    H
+XXXXX      HXXXXXXX    H
+        $ $HXXXXXXX$ $ H
+      hXXXXXXXXXXXXXXXXX
+-     hXXXXXXXXXXXXXXXXX
+************************
+
+This level seems complex, but really you just need to do the same thing over 
+and over a few times. You can lump the enemies together eventually and then 
+take care of them. You can only take out one of the squares of two gold 
+pieces at a time, and there's a real risk of getting trapped or impeded at 
+the bottom. But for each of the linked squares, you get the gold the same 
+way.
+
+At the start you need to dig right, collect the gold(don't worry about to the 
+left--you'll get it later,) go up and dig left. You can dig into the UR of 
+the boxes. You may have to wait a bit in this box but if you do, the enemies 
+will lump together. Dig again and they'll actually retreat to the left. Climb 
+up and go left. Dig three holes to the left, wait, and when they fall in, run 
+over them. You may want to get the second-left of the boxes here. That allows 
+a climb back UR where you can also dig right to get the gold in the DR box 
+and the gold you passed by at the start.
+
+The bad guys should congeal back where they started but if not you may want 
+to climb partially up on one of the ladders in the middle UR-moving corridor 
+when you know an enemy is trapped and killed.
+
+You will need to repeat the trick of digging 3 holes in a row and running 
+over 2 more times--once for the center box and once for the one right of 
+that. Finally you can dig for the left box. You'd have gotten yourself killed 
+before that, trapped in the DL with an enemy, but now you can wait for it to 
+go up the second stairs. Dig right and walk up and dig right and you can go 
+UR to the next level.
+
+    4-12. LEVEL 12
+
+          h  h
+          h  h
+          h  h
+          h  h
+          h  h
+        HXh  hXH
+  $ -   HXh  hXH   - $
+HXXXXH~~HXh  hXH~~HXXXXH
+HXXXXH  HXh  hXH  HXXXXH
+HX  XH  HXh  hXH  HX  XH
+HX  XH   Xh  hX   HX  XH
+HX  XH   Xh  hX   HX  XH
+HX  XH   Xh  hX   HX  XH
+HX $XH   Xh  hX   HX$ XH
+HXXXXH   Xh  hX   HXXXXH
+HXXXXH   Xh  hX   HXXXXH
+HX  XH   Xh  hX   HX  XH
+HX  XH   XHXXHX   HX  XH
+HX  XH~~~XHXXHX~~~HX  XH
+HX  XH   XH  HX   HX  XH
+HX  X    XH  HX    X  XH
+HX  X   HXH  HXH   X  XH
+HX  X   HXH  HXH   X  XH
+HX$ X   HXH$-HXH   X $XH
+HXXXXX  HXX**XXH  XXXXXH
+HXXXXX  HXX**XXH  XXXXXH
+H     X H      H X     H
+H     X H      H X     H
+H     X-H   +  H X     H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+A little snake oil should get you this with a 10000 bonus. You need to get a 
+good start, and you can accomplish this by digging left immediately. You can 
+dig right after passing over the enemy but it's not necessary. Go to the top, 
+dig left to enter the 8, and get the gold there. Head to the bottom if you 
+like--you need to synchronize the enemies--and go back up top and dig right 
+twice to walk over the enemies and fall to the right.
+
+The other enemy should come falling down a rope, which is your cue to run UR 
+past him. Clear out the right side of the 8 and go back up when the enemy on 
+the right falls down again. That leaves only the center.
+
+Fall into the center. The enemy there will shift right. Push left and hold 
+near the end of your fall. Lead the enemy counterclockwise a cycle. 
+Eventually he'll get far enough behind he'll reverse course--when you're in 
+the UR. Dig left, get his gold and run up the stairs.
+
+    4-*. LEVEL 
+
+h
+h
+h    XXXXXXXXXXXXHX
+h    XXXXXXXXXXXXHXÿÿÿÿÿ
+h    X     X     HXXXXXX
+h    X     X     HXXXXXX
+h    X     X     HXX   X
+h  XXXXX   X   XHXXX   X
+h  XXXXX   XÿÿÿXHXXX   X
+h  X   XXXXXXXXXH  XXXXX
+h  X   XXXXXXXXXH  XXXXX
+h  X   X       XH    ~ X
+hXXXXXXX       XH      X
+hXXXXXXX       XH      X
+hX     X    HXXXXXXXX HX
+hX     X    HXXXXXXXX HX
+hX     X    HX        HX
+hX  XXXX    HX        HX
+hX  XXXX    HX        HX
+hX  X  X  XHXXX HXH HXXX
+hXXXX  XÿÿXHXXX HXH HXXX
+hXXXX  XXXXH  X HXXXXX
+h   X  XXXXH  X HXXXXX
+h   XXXX  XH  XXXX
+h   XXXX  XH  XXXX
+h          H
+h          H
+h          H
+X*X*X*X*X*X*X*X*X*X*X*X*
+X*X*X*X*X*X*X*X*X*X*X*X*
+
+You can probably get a seal bonus or a no-kill bonus here. Given how much 
+easier the first is, and how tricky it may be to get the second, you can 
+guess my recommended course of action for the first try even though the 
+instructions below spell out how to get both bonuses. Basically, to get 
+through quickly, kill enemies with impunity.
+
+Killed enemies appear in the UR and so it may be worth it just to pack them 
+off right away. However, you can start with a relatively easy pickoff of the 
+UL bad guy by getting the gold to the left, going up the stairs, digging left 
+and getting the gold, and going RURUR and digging right. Fall right twice. 
+The enemy will fall into the 2-pit to the left.
+
+Now to get the next bad guy by climbing up the stairs and digging right. You 
+may have to time things a bit so that you don't meet him right at the top, 
+and you may have to go down and up after digging the hole. However, once 
+you've gotten him in the hole there are lots of ways to kill him off. You can 
+run right and dig left and go up the ladder a bit and down to delay him long 
+enough to fall in.
+
+You may also be able to stand in the DR after this, dig left, let him fall in 
+and then climb UR and he will follow you. In this case you can dispose of him 
+as you disposed of the other enemy. While this is time-consuming, it allows 
+you to take care of the rest of the level with relative ease. And since you 
+can only get the seal bonus once there's no point in sealing a few guys in 
+the UR and shifting them to the DL.
+
+The best bet now is to clear out most of the UL. Note the following 
+structure:
+
+$
+X1
+ 2$
+XX
+
+Dig 1 and 2 to pick off one more gold chest than you thought you would--AND 
+avoid getting kicked back to the bottom of the structure and/or falling on 
+top of the one enemy. From there you can dig again. One gold chest will 
+remain. Leave it 'til the end.
+
+If you need to, drop the enemy into the 2-pit. Also if you need to, get the 
+gold in the DR. Now for the UR. You can dig the enemy out of there and let 
+him follow you where you can trap him with the others, or you can just dig 
+him out, dig another hole at the top and sneak in to dig a hole over the UR 
+gold piece.
+
+That leaves the final DL gold piece, and once you get it stairs will appear 
+to the left.
+
+Of course you can shorten this process by just killing the bad guys you find 
+but I wanted to spell out how to do things without errors.
+
+    4-14. LEVEL 14:
+
+                       h
+H              H       h
+H~~~~~~~~~~~~~~H       h
+H              H       h
+H              H~~~~~~~H
+H              H       H
+H              H       H
+XXXXXXXXXXXHXXXX$ $ $  H
+XXXXXXXXXXXHXXXX       H
+XXXXXXXXXXHH           H
+XXXXXXXXXXH            H
+XXXXXXXXXXH   -    -   H
+XXXXXXXXXXHXXXXXXXXXXXXH
+XXXXXXXXXHHXXXXXXXXXXXXH
+XXXXXXXXXH             H
+XX   XXXXH             H
+XX   XXXXH~~~~~~~      H
+XX   XXXHH             H
+XX$ $XXXH          -   H
+XXXXXXXXH        XXXXXXH
+XXXXXXXXH        XXXXXXH
+                       H
+                       H
+  $                    H
+XXXXXXHXXXXXHX         H
+XXXXXXHXXXXXHX         H
+     XH     H          H
+     XH     H X        H
+..... H  +  H X    -   H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+It's possible to get the full 20k bonus although you may just settle for 10. 
+The key is the order in which you get things. Go left. Wait for the 
+firecracker to fall from the rope and wait another second. Then get the gold 
+piece to the left and go back down. If all goes well the firecrackers should 
+be on their way to congregating in the DR corner. Let them. Stand 1R of the 
+top of the right ladder. Let your enemies fall, fall right, and let the rest 
+fall. R-U-L-U(the ladder that doesn't reach the ground. You actually can 
+climb it.) Now dig over the 3x2 cave:
+
+XX1234
+XX567X
+XX89XX
+XXaXXX
+   XXX
+$ $XXX
+
+Fall to the bottom and again egg your enemies over. Now you should be able to 
+fall and get one of the gold pieces. It doesn't matter which. The hunt will 
+probably be on now as some enemy will probably grab a chest. You may have to 
+give these guys a good  chase--but again, drop from the lower rope, wait, go 
+to the DR and pick off any remaining suspended gold chest. Eventually the 
+enemies will let go of their gold, you can take it, and you can advance with 
+the 20000 bonus.
+
+There's no sin of course in trapping an enemy or killing one in order to 
+survive though of course.
+
+    4-15. LEVEL 15:
+
+ ~~~~~ h
+       h
+       h    XXXXXHXXXXXX
+H      XXXH XXXXXHXXXXXX
+H      XXXH      H
+H         H      H
+H         H      H
+H         H HXXXXXXXXXXH
+HXXXXH H*** HXXXXXXXXXXH
+HXXXXH H*** H**********H
+H    H H    H*        *H
+H    H H    H*        *H
+H    H H    H*        *H
+H   HX XXXH H*H******H*H
+H   HX XXXH H*H******H*H
+H   H     H H*H*     H*H
+H   H     H H*H*     H*H
+H   H     H H*H*     H*H
+H  HX  H*** H*H********H
+H  HX  H*** H*H********H
+H  H   H    H*H        H
+H  H   H    H*H        H
+H  H   H    H*H        H
+HHXX   XXXH HXXXXXXXXXXX
+HHXX   XXXH HXXXXXXXXXXX
+HH        h H
+HH        h H
+HH        h H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+I'm having trouble getting either bonus here as the UR is too well guarded. 
+But you can still make it through quickly enough.
+
+For the first part you need to push left. Get on the corkscrew structure and 
+climb to the top to get all the gold there. Fall left to clear out that side-
+-climb up and fall right at the second ladder(upper bit) to get the gold that 
+seems suspended, but not quite. Dig left as you go right, and when in the DR 
+you may want to dig left too to get rid of enemies.
+
+Enemies regenerate at the very top and fall left instead of taking the stairs 
+down, and in this way you can get around them. Just wait for them to fall off 
+and then after cleaning out the top in their absence(go left, then right, 
+then dig to avoid the guys climbing back up,) take the spiral to the center. 
+Work your way out by digging to get to the bottom. You may need to get the 
+DR-most gold chest. Dig your way to get to the middle structure and the 
+snaking stairs to level 16.
+
+    4-16. LEVEL 16:
+
+h
+h
+h
+h  H~    H~      H~   ~H
+h  H     H       H     H
+h  H     H$    $ H     H
+H~~H ~  ~H ~   H~H ~ ~ H
+H        H     H       H
+H        H     H       H
+H $   ~  H  ~  H  $ ~ $H
+H        H     H       H
+H        H  -  H       H
+H ~H   ~ H $ ~ H~H   ~ H
+H  H     H       H     H
+H  H  $  H       H     H
+H~ H  ~ ~H ~  ~  H  ~ ~H
+   H             H
+   H             H  $
+   H ~  ~ ~  ~ ~ H ~ ~
+   H             H
+   H             H
+H~ H~    ~  ~  $~H~
+H  H             H
+H  H             H-
+H ~H ~     ~     H  ~ ~
+H        -  -    H
+H    $           H  $
+H                H
+H                H
+H          +     H
+************************
+
+Guess that 20k bonus is sort of forced on you here, eh? This looks sparse and 
+forbidding but it's really not a bad level at all. Go left immediately, up 
+and fall right so you're near the one gold piece. Wait around, fall right 
+when everyone's on the ladder, and go up the right ladder. Level with the 
+ropes on each side. This will always kick the enemies back left. Go up and 
+fall right and drop down to get the gold just out of your reach now. You have 
+a few smash-and-grab missions from this location, which is your base.
+
+1. Up, left, fall down and go right.
+2. U-L-U(gold)-right and fall onto the gold in space-L.
+3. U-L-U-R-U-fall all the way right to the edge, U-L-fall down-R-U-fall left 
+2x and fall down onto 2 gold pieces.
+
+Wait for the enemies to come by and then climb the ladder. Fall left when 
+everyone's on it.
+
+Now on the left ladder, where the top rung is where to stay to fake the 
+enemies out after falling down. Make sure everyone's on the right ladder 
+before continuing.The suspended UL gold is not hard to get. Then go L U R U 
+and fall right 3x. Then fall left and work your way to the center ladder. 
+You'll get one gold chest at the top. Fall right and fall down. You should be 
+able to run left and work your way falling down ropes and climbing up ladders 
+easily enough(R-R-U-L-L-U.)
+
+    4-17. LEVEL 17:
+
+                     H
+                     H
+              ~~~~~~~H
+***h**********
+***h**********
+   H     H~~~
+   H     H
+   H          -
+  XH         *XH
+ $XH         *XH~~~~~~H
+XXXH     H  $**H      H
+XXXH     H   **H      H
+  XH~~~~~H~~~**H$     HH
+  XH     H   ****     HH
+$ XH $  $H $ ****     HH
+XXXX     H  H*~~~~ XXXXH
+XXXX     H  H*     XXXXH
+X        H  H*         H
+X        H  H*H        H
+X$ -     H  H*H        H
+XXXXX    H  HXH  -$    H
+XXXXX  + H  HXH XXXXXXXH
+XH~~~ HXXXXXXXH XXXXXXXH
+XH    HXXXXXXXH X   X  H
+XH    H     HXH X   X  H
+XH   XH     H H  $ $X $H
+XH  XXH     H H  XXXXXXX
+XH $XXH$ - $H H  XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+I found this to be such a hodgepodge that I just plowed my way through 
+although I can detail how to get by some narrow scrapes below. You will 
+probably need a dig or two due to the tight quarters in the DL but at the 
+start a no-dig policy works well. So if something seems to have bad timing, 
+just dig a bit to but breathing space.
+
+R-U-R and get the gold, then go back left. Climb up and fall left. Dig left 
+as the enemy approaches and as he is about to drop on you, fall left. One 
+enemy down in the daisies but you can't do the same to others sadly.
+
+One enemy will be chasing you. Give him the runaround if he has a gold 
+chest(or just dig if 10k is good enough,) then let him follow you into the 
+niche in the DL. Dig left to fall on the ladder and then go right and down to 
+get the gold. Your enemy will drop. Circle around to get past him and re-
+entrap him in the DL. Now you may have to shake an enemy(who may have gold) 
+to get further. you may let him keep the gold as you'll be getting guys to 
+follow you again, but in any case you will want to run right along the bottom 
+and up the ladder. Stay level with what's on the other side of the wall to 
+fool an enemy and then let the other one follow you around 'til he loses his 
+gold. Dig to get the two gold in the 3x2(wait until people milling in the DL 
+are against the left wall) and then bring the bad guy back over.
+
+Now you can wait at the base of that ladder for the enemy to fall at you. Get 
+a big lead for the DR gold--R, drop D, R, D, L and now go UL and fall onto 
+the suspended gold and you should be able to climb your way out.
+
+You probably won't get a double-time bonus without entrapping.
+
+    4-18. LEVEL 18:
+
+        X  h   X     X
+        X  h   XX   XX
+$  -  $XX  h    X  $X
+*X**XHXX   h XXXXXHXX
+*X**XHX~~~~h~~~~~XHX
+     HX    h X   XH
+     HX $  h X$ $XH $
+$    HXXXXXXXXXXXXHXXXXH
+XXXHXHXXXXXXXXXXXXHXXXXH
+XXXHXH            H    H
+   H H            H    H
+   H H    +       H    H
+   H HXXXXXXXXXXXXHXXXXX
+HXXXXHXXXXXXXXXXXXHXXXXX
+HXXXXHX~~~~~~~~~~XHX
+H~~~XHX          XHX
+H   XHX $        XHX
+H  $XHXX        XHXXX
+H  XXH X  $   $  XH XX
+H  X H XX        XH  X$
+H XX H  X       XXH  XXX
+H X  H  XX      XXH  XXX
+HXX  H   X   HXXXXH
+HX   HX  X   HXXXXH
+HX  XHX  XXXHXX   H
+H  $XH  HHXXHXX   H  XhX
+H  XXH XHH  H     H  XhX
+H$-XXH$XHH  H  XXXH$-XhX
+XXXXXXXXXH$ H $XXXXXXXXX
+XXXXXXXXX******XXXXXXXXX
+
+A fun level where you can probably either entrap your opponents or not-kill 
+them and the first is much easier. Go to the right to sucker everyone over 
+there and then give them the slip(dig a hole or two if need be) and run back 
+left. You can then leave a couple digs behind you so that you can get into 
+the rope part. Get the gold and immediately dig your way out. Enemies may 
+come in after you--dig to the right and fall through. They can take the rope 
+over the hole.
+
+Now if you get out you can just dig as you go to the left, letting enemies 
+drop in. Eventually they'll all get stuck in the center, leaving you to clean 
+out the rest. The only things that should worry you are: drop on the 
+suspended gold in the right, dig right, get out. Now get everything except 
+the two golds near the right edge.
+
+For these drop on the upper, dig, and drop onto the lower. A ladder will 
+appear because you got the last gold. You can walk over it but what about the 
+other one that appeared? You'll have to release your enemies again. You can 
+again dig holes for them or just run away to the bottom right as before, 
+before you dig left. Heading left and up the stairs should allow you plenty 
+of time to dig right at the top and get the flashing ladder.
+
+    4-19. LEVEL 19:
+
+h
+h~~~~~~~~~~~~~~~~~~~~~~~
+h
+h
+H X   X          X
+H X   X          X
+H X   X  -  -    X
+H XXXXXX XXXXXXXXXXXXXXX
+H XXXXXX XXXXXXXXXXXXXXX
+H XXXXXX XXXXXXXXXXXXXXX
+H XXX    XXXXXXXXXXXXXXX
+H XXX    XXXXXXXXXXXXX X
+H XXX  - XXXXXXXXXXXXX X
+H XXX XXXXX  XX  XX XXHX
+H XXX XXXXX  XX  XX$XXHX
+H XXX XXXXX$    $XXXXXHX
+H XXX XXXXXXXXXXXXXXXXHX
+H XXX XXXXXXXXXXXXXXXXHX
+H XXX XXXXXXXXXXXXXXXXHX
+H XXX XXXXXXXXXXXXXXXXHX
+H XXX XXXXXXX   XXXXXXHX
+H XXX XXXXXXX   XXXXXXHX
+H XXX XXXXXX  + XXXXXXHX
+H XXX XXXXXX XXHXXXXXXHX
+H            XXH~~~~~~H
+H           XXXH      H
+H           XX
+H          XXX
+H          XXX
+H          XXX    -
+************************
+
+A level that's easy once you see it though you don't get a bonus for sealing 
+off all enemies. Dig and drop left twice. Go left but don't fall. When the 
+final enemy hooks onto the rope, drop off to the left. Everyone will try to 
+fall on you. Run left, up and right and fall over the gold pieces. Now to dig 
+to get one(the right gold.)
+
+4321
+X765
+XX98
+  Xa
+
+This creates a 3-wide hole instead of a 2-wide, so you can dig back to your 
+starting position. Repeat, mirrored, for the left gold.
+
+Go to the UR and now for another tricky dig.
+
+1234
+X567
+XX98
+X$ab
+
+Now loop to the UL and you're done!
+
+    4-20. LEVEL 20:
+
+h         h
+H  ~      h~~      H~~~~
+H         h        H
+H         h        H
+H   H     H        H *
+H$  H$ - $H   $ -$ H * $
+HX  HXXXXXX  XXXXXXXHXXX
+HX  HXXXXXX  XXXXXXXHXXX
+H   HH~~~~~~~~~~~~~~HHXH
+H    H              HHXH
+H    H $   $    $    H~H
+H    H                 H
+H    H                 H
+H    H              -  H
+H    XXXXH********XXXXXX
+H~~  XXXXH********XXXXXX
+H        H        ~~~
+H        H
+         H
+         H       H
+$  $     H       H~
+XXXXXXXH H       H
+XXXXXXXH H  +    H
+      XXXXXH**HXXX X XXX
+      XXXXXH**HXXX X$XXX
+           H  H    XXXXX
+           H  H    XXXXX
+$ $        H  H     XXXX
+XXXXXXXXXXXH  HXXXXXXXXX
+XXXXXXXXXXXH$ HXXXXXXXXX
+
+Here the initial mess can be sorted out by a few exact moves. Run directly 
+left. UL when past the first ladder. Get the gold on the edge and dig where 
+it was. Fall down when the enemy almost touches you. Run back right. Fall 
+right and stay at the ladder base. U-R-U-R(2 squares) and wait for an enemy 
+to get close. Fall down. Then go LULULU and back right to get one gold, then 
+L-U-R to get more. Fall down to the right and get more gold. R-U-L for 2 more 
+and R-U-R and drop into the pit. Go left, dig right.
+
+Now drop onto the 3-rope below. Fall from there onto the 1-rope, dig right, 
+and circle back up around after getting the gold so you are on a level with 
+the platform touching the left edge. Your enemies won't chase you now. With 
+them lumped together you can lure them right, drop, and go off to the left as 
+before.
+
+Only this time you go to the UL, at the 1-rope. Fall left and go L-U to get 
+the final gold. Fall down and then wait for everyone to fall after you before 
+going right and U-L-U-R-U onto the flashing stairs.
+
+    4-21. LEVEL 21:
+
+H
+H
+H
+XXXhX            ~~~
+XXXhX
+   h~~              -
+   h               XXXXH
+   H    -          XXXXH
+  +H  XXXXXHXXXXXX~  X H
+HXXX  XXXXXHXXXXXX   X H
+HXXX  X ~~~H~~~~HX  $X H
+H     X    H    HX XXXHX
+H     X$       $HX XXXHX
+H     XXXX   XXXHX X  H
+H  X  XXXX   XXXHX X  H
+H  X  X~~~~H~~~~HX X  H
+XHXX  X    H    HX X$ H
+XHX   X    H    HX XXHXX
+ H   XXH X H XH HX XXHXX
+ H   XXH X H XH HX   H
+ H  XXXH$X$H$X$ HX   H
+ H $X XXXXXXXXXXXX   H $
+ H XX XXXXXXXXXXXX$ HXXX
+ H X  X          XX HXXX
+ H X  X          XX H
+ H    X             H
+ HX   X            XH
+$HX $-X   $ $      XH  $
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+Fall right for one gold and all the way left for another. Go back up to the 
+top and head right. Go down the stairs in the center structure all the way--
+fall and grab the gold(left and right.) Then go back up and left and fall for 
+another gold. The enemy should have you pinned in, but no fears. Go up the 
+stairs and back down when the enemy is roping over the brick. He'll fall, you 
+can go U-R-D for the final gold piece, and then you can go U-L-R-U to get the 
+remaining gold and get out.
+
+Fall right onto the rope. Get the gold to the right. Fall left and right. Dig 
+the square you last fell on and go left immediately, then back right 
+immediately. Collect all the gold as you climb up. Two enemies should be 
+together. Let them follow you to 1U1L of the 1-rope and fall right and drop. 
+They'll fall after you, making the next bit(over to the left) easy.
+
+For the final bit release the fellow in the DL. If you like you can lead him 
+on a chase clockwise but it may alert the other enemies so it may just be 
+simpler to dig a hole. However, once you have got the gold, a ladder opens up 
+access to the UL.
+
+    4-22. LEVEL 22:
+
+   h
+   h
+   h   ~~~~~~~~~~~~~~~~
+HXXh
+HXXh
+H     H
+H     H
+H     H            $
+HXXHXXX   XXXXXXXXXXXXXH
+HXXHXXX   XXXXXXXXXXXXXH
+H  H      X            H
+H  H      X            H
+H  H      X   $        H
+XXXHXXXXH X  XXXXXXXXX H
+XXXHXXXXH X  XXXXXXXXX H
+   H    H X  X       X H
+   H    H X  X       X H
+   H  $ H X$ X   $   X H
+   HXXX H XXXX HXXXXHX H
+   HXXX H XXXX HXXXXHX H
+   H  X H X    H    HX H
+   H  X H X    H    HX H
+   H $X H X    H$  $HX H
+  XXXXX H XXXXXXXXXXXX H
+$$XXXXX H XXXXXXXXXXXX H
+XXXH~~~~H X            H
+XXXH    H X            H
+   H    H              H
+   HX   XX    HXXXXXXXXX
+$  HX$- XX$   HXXXXXXXXX
+************************
+
+You can get a huge bonus with the right moves at the start. Whatever you do, 
+be careful not to let enemies fall in the DL pit with two gold(no way to win) 
+and try not to let a flashing enemy fall in the 3-pit where one bad guy 
+starts.
+
+Go left for a gold then fall right. The enemoy will come at you instead of 
+left/right to get gold. L-D-R onto the ladder. Climb down a bit, fall right 
+and go left a square.
+
+Dig right and drop right. Wait for the other two guys to fall in. Go to the 
+top here and dig over the top of the golds. Get it, fall left, dig and 
+collect the three other golds. Dig to get out, fall, R U L(fall) L U L Dig-
+left to get on a gold, dig-left and fall and fall into the left. Dig right. 
+Get another gold. Stand over the final gold, dig left, fall down and go L-U-
+R. If this maneuver is too risky, dig and climb back up and just pick off the 
+chest that way.
+
+    4-23. LEVEL 23:
+
+      h         h
+~~~~~~h    X    h~~~~~~~
+$     h    X    h      $
+      h    X    h
+      H XXXXXXX H
+      H XXXXXXX H
+      H ~~~~~~~ H
+XXXXXXH         HXXXXXXX
+XXXXXXH    -    HXXXXXXX
+XXXXXXH XXXXXXX HXXXXXXX
+XXXXXXH XXXXXXX HXXXXXXX
+XXXXXXH XXXXXXX HXXXXXXX
+XXXXXXH XXXXXXX HXXXXXXX
+X  XXXH XXXXXXX HXXXXX
+X  XXXH XXXXXXX HXXXXX
+X  XXXH XXXXXXX HXXXXX
+X $XXXH XXXXXXX HXXXXX$
+XXXXXXH XXXXXXX HXXXXXXX
+XXXXXXH XXXXXXX HXXXXXXX
+XXXX XH XXX XXX HX  XXXX
+XXXX$XH XXX$XXX HX$$XXXX
+      H         H
+      H         H
+      H   - -   H
+HXXXXXH XXXXXXX HXXXXXXH
+HXXXXXH XXXXXXX HXXXXXXH
+H                      H
+H                      H
+H   $      +       $   H
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX
+
+OK, forget about the no-kill bonus because you have to get some bad guys to 
+regenerate to solve this level. Go to the left, up and right, and dig as your 
+enemies come at you. Go to the main UL ledge and wait for enemies to 
+regenerate. If one does just UR of you, go to the top of the ladder and fall 
+on him. If there's one UL of you, dig left to make sure. Fall on the center 
+enemy and go right, so you are in the top center.
+
+If this doesn't work, go to the bottom and try again. This is a rather tricky 
+dig and the top two rows should be done with precision.
+
+54321
+X9876
+XabcX
+XdeXX
+XXfXX
+XX$XX
+
+You've got the toughest one. Now fall to the left and take care of what's 
+there--kill anyone who gets in the way until they're all on the right. Fall 
+onto the UL gold, then dig the 3 rightmost parts of the top platform, the 3 
+below that, etc., until just above the first gold. Then dig as follows:
+
+     H
+ $12XH
+XXX3XH
+XXX$XH
+
+Now go to the right, wiping enemies from there as they appear. Again fall on 
+the UR gold but now you have a different puzzle. Dig the 5 leftmost on each 
+platform, right to left. That gets you:
+
+XX321$
+XX4XXXX
+X$$XXXX
+
+Then dig the 2 leftmost on each platform until you can dig and just get the 
+final gold.
+
+    4-24. LEVEL 24:
+
+                       h
+ ~~~~~~~~      ~~~~~~~~h
+                       h
+                       h
+HX~~~~~~~X  X   $    $ H
+HX       X  X          H
+HX       X$ X     $ -  H
+HX       XXXX    XXXX  H
+HX $ $  HXXXX    XXXX  H
+HX      H~~~~~         H
+H       H              H
+HXHXXXXXH          -   H
+HXHXXXXXH     XXXXXXXXXH
+HXH           XXXXXXXXXH
+HXH                   XH
+HXH  -                XH
+HX*******XH           XH
+HX*******XH~~~~~~~~~~~XH
+H        XH           XH
+H        XH           XH
+H    +   XH           XH
+HXXXXXXX XH  $    $   XH
+HXXXXXXX XH           XH
+HX     X XH           XH
+HX    $X XXXXXXXXXXXXHXH
+HX     * XXXXXXXXXXXXHXH
+HX     *             HX
+HX     *             HX
+HX     *     $  -    H
+************************
+************************
+
+Things get chaotic if you don't keep the enemies bottled up. Eventually 
+they'll probably go into the U, but eventually you run out of time.
+
+Go left. Dig the leftmost square. Dig the one below that and the one below 
+that. Wait for the first square to fill in. Dig the DL square, go U/R and dig 
+above the gold. Fall and go left. Go to the UL.
+
+Dig right, down, dig right. Wait for the UL hole to fill in, dig the final DR 
+hole, and come around to get one of the suspended golds. Go immediately back 
+up the left side ladder. Repeat, so the enemies stay in place.
+
+Fall into the U for gold and dig right. Run right as you dig left. When 
+everyone's in a hole, fall onto the left suspended gold. Be prepared to dig 
+more holes and get the right suspended gold or a gold on the platform in the 
+air.
+
+When there are two enemies around you can take care of the rest without much 
+trouble. Fall down making sure to pass over a gold chest. Dig a couple of 
+holes and then dig right to get to the very bottom. Walk back up. Next time 
+you dig holes for your enemy, walk L-U-R and drop onto the other gold. If you 
+have enough time now you can try to get enemies to regenerate all in the U. 
+If they appear a bit left of the U it should happen as well. Though you may 
+just want to get through level 24. Once you do, you've pretty much won; the 
+other levels just repeat themselves.

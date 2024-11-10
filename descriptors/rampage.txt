@@ -1,0 +1,656 @@
+The arcades are still slowly recovering from the big crash in the early 1980's.
+Although some of the mainstay companies such as Atari, Sega, Williams, and
+Bally Midway are still around, other companies such as Centuri and Gremlin have
+been lost in the fallout.  Games have also gotten more creative and definitely
+more detailed.  This has raised the bar and forced gaming companies to be more
+innovative in their game design.  Rampage was a different type of game.  It was
+based on the premise of the 1950's "B" science fiction movies where marauding
+monsters attack cities and populations.  Of course, the monsters were the
+result of some sort of freak genetic disaster.  Rampage proved to be a rather
+popular game and it sold pretty well.  The game also allowed a player to "buy
+in" and play another monster (if available).  This game has also been ported to
+home video consoles and computers which has done nothing to diminish its
+popularity.  Other notable games from this year were Arkanoid, Joust 2, Rolling
+Thunder, and Top Gunner.  Have fun destroying the cities that are put before
+you.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Rampage is a two-dimensional, platform-style game.  You get to be one of three
+different monsters.  Each has a name and a story as to what happened to them.
+The monsters are:
+
+George :  The result of a mega-vitamin that went horribly wrong.  The mega-
+          vitamin turned George into a giant ape.  George climbs and jumps
+          better then the other two monsters.
+
+Lizzie :  She decided to go to the lake to relax.  Unfortunately, there was
+          something else besides water in the lake...it was radioactive waster.
+          Lizzie was changed into a giant lizard whose speed is the best of the
+          three monsters.
+
+Ralph  :  He was the big sausage king and he was always looking for new ways to
+          spice up his food.  Unfortunately, the additive he used turned him
+          into a giant wolf.  In this form, Ralph is the strongest of the three
+          monsters.
+
+The main goal of all these monsters is to cause as much destruction and
+devastation as possible.  To achieve this, the monsters must keep their energy
+bar high by partaking of things that restore energy and avoiding those hazards
+that will take it away.  There are a lot of dangerous things out there.  Good
+luck and good hunting.
+
+ ______________________________
+/ 6.1  The Controls and Moves /________________________________________________
+------------------------------
+
+The controls on this game are pretty easy.  It will only take a little practice
+in order to become proficient with them.  Each monster has their own set of
+controls.  George's controls are the left, Lizzie's controls are in the middle,
+and Ralph's controls are on the right.  Regardless of location, all controls
+are situated as follows:
+
+-  An eight-way joystick
+
+-  Jump Button
+
+-  Punch Button
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+Rampage has a pretty easy playing field.  Since all the action is two-
+dimensional, it should be relatively easy to see everything that is going on
+around you.  I have included an example of what the playing screen looks like:
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |         GEORGE SCORE      LIZZIE SCORE      RALPH SCORE           |
+    |         [DAMAGE     ]     [DAMAGE     ]     [DAMAGE     ]< DAMAGE |
+    |                                                            METER  |
+    |                                                                   |
+    |                                                                   |
+    |         +------+                                                  |
+    |         |      |                                                  |
+    |         | #  # |                                                  |
+    |         |    O <-NATIONAL GUARDSMAN                               |
+    |         | #  |/|                                                  |
+    |         |      |         +---------+                              |
+    |         | #  # |         | ### ### |            ____              |
+    |         |      |         |         |            |  |<-YOUR        |
+    |         | #  # |         | ### ### |           /_  |  MONSTER     |
+    |         |      |         |         |          ---| |              |
+    |         | #  #+-----+    | ### ### |            //||              |
+    |         |     | ### |    |         |           //  \\             |
+    |         | #  #|     |    | ### ### |          +-------+           |
+    |         |     | ### |    |         |          | ## ## |           |
+    |         | #  #|     |    | ##  ### |          |       |           |
+    |         |  ## | ### |    | ##  ### |          | ## ## |           |
+    |         |  ## |   # |    | ##  ### |          |    ## |           |
+    |--+------+-----+-----+----+---------+----------+-------+------+    |
+    | /   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | \   |
+    |+---------------------------------------------------------------+  |
+    |                                                                   |
+    |-------------------------------------------------------------------|
+    +-------------------------------------------------------------------+
+
+You control your monster through the different cities.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is relatively complicated due to the various numbers of
+enemies.  In addition, you also score points for hitting buildings and
+collecting bonus and/or food items.
+
+            +-------------------------------------+-------------+
+            | ITEM                                | SCORE       |
+            +-------------------------------------+-------------+
+            +-------------------------------------+-------------+
+            | BAG OF LOOT                         |     100-500 |
+            +-------------------------------------+-------------+
+            | BOATER                              |         750 |
+            +-------------------------------------+-------------+
+            | BUILDING DESTROYED*                 |       2,500 |
+            +-------------------------------------+-------------+
+            | CAR (PARKED)                        |         100 |
+            +-------------------------------------+-------------+
+            | CAR (MOVING SLOWLY)                 |         200 |
+            +-------------------------------------+-------------+
+            | CAR (PARKED THEN TAKES OFF QUICKLY) |         750 |
+            +-------------------------------------+-------------+
+            | FOOD SUCH AS TURKEY, MILK, FRUIT,   |         175 |
+            | HAMBURGER, OR TOAST                 |             |
+            +-------------------------------------+-------------+
+            | EATING ONE OF THE CIVILIANS         |         500 |
+            +-------------------------------------+-------------+
+            | FLOWER POT                          |         500 |
+            +-------------------------------------+-------------+
+            | HELICOPTER                          |         750 |
+            +-------------------------------------+-------------+
+            | HOLDING DESIGNATED VICTIM           | 4,000-6,000 |
+            +-------------------------------------+-------------+
+            | LIGHT BULB (OFF)                    |         500 |
+            +-------------------------------------+-------------+
+            | MANHOLE COVER (PER HIT)             |         500 |
+            +-------------------------------------+-------------+
+            | MEGA-VITAMIN BONUS (EVERY 128 DAYS) |       5,000 |
+            +-------------------------------------+-------------+
+            | NATIONAL GUARDSMAN                  |          50 |
+            +-------------------------------------+-------------+
+            | NEON SIGN                           |       1,000 |
+            +-------------------------------------+-------------+
+            | PARATROOPER                         |          50 |
+            +-------------------------------------+-------------+
+            | PHOTOGRAPHER                        |         750 |
+            +-------------------------------------+-------------+
+            | POLICE CAR                          |         750 |
+            +-------------------------------------+-------------+
+            | PUNCH CAUSES PARTIAL BREAK IN BLDG  |          25 |
+            +-------------------------------------+-------------+
+            | PUNCH CAUSE FULL BREAK/HOLE IN BLDG |         225 |
+            +-------------------------------------+-------------+
+            | SAFE (AFTER OPENING)                |     100-500 |
+            +-------------------------------------+-------------+
+            | TANK                                |         200 |
+            +-------------------------------------+-------------+
+            | TELEVISION (OFF)                    |         500 |
+            +-------------------------------------+-------------+
+            | TRAIN (PER HIT)                     |         500 |
+            +-------------------------------------+-------------+
+
+* YOU WILL ONLY GET THE POINTS IF YOUR MONSTER DESTROYS THE BUILDING.
+  BUILDINGS DESTROYED BY THINGS OTHER THEN YOUR MONSTER WILL NOT EARN YOU THESE
+  POINTS.
+
+Games are played until your chosen monster runs out of energy.  You can insert
+another quarter, and continue your game from where you left off (if the machine
+is set up that way).  In addition, you can also keep your score (again, if the
+machine is set up that way).
+
+Other players can join the game to help or hinder you by inserting their
+coin(s) and pressing the appropriate jump button for the character they wish to
+play.
+
+No free men are awarded for this game.
+
+ ______________________________________
+/ 6.4  Specific Features of this Game /________________________________________
+--------------------------------------
+
+Rampage is unique in the fact that it has many different things that can either
+help or hurt your monster.  In addition to this, each monster also has an
+assigned victim which will be discussed later in this chapter.
+
+
++----------------+
+| 6.4.1  Enemies |-------------------------------------------------------------
++----------------+
+
+These are the things that will be actively opposing your monster.
+
+Helicopters:  This is the air support.  They usually swoop in and fire off a 
+              rapid burst causing serious damage.  They can also drop bombs
+              from high altitude.
+
+Lightning:  This is just a lazy cloud floating over the city firing off bolts
+            of lightning at your monster.  Causes some serious damage when it
+            hits.
+
+National Guardsmen:  These guys are all over the place.  They appear out of the
+                     windows to take pot shots and throw dynamite.  Some even
+                     carry demolitions to the base of buildings to destroy them
+                     and hopefully your monster.
+
+Paratrooper:  These guys land on buildings and are tasked to defend it at all
+              costs.  That means when you get on said building, they will fire
+              rapidly at your monster taking out some significant health in the
+              process.
+
+Police Cars:  Like tanks but they move and fire faster then tanks.
+
+Tanks:  Heavily armored, these vehicles are slow but they pack quite a punch.
+        They can knock your monster off buildings and even to the opposite edge
+        of the screen.
+
++-------------------+
+| 6.4.2  Bad Things |----------------------------------------------------------
++-------------------+
+
+These are things found in the buildings.  Grabbing and/or eating them can be
+detrimental to your monsters health.  This also covers damage that can occur to
+your monster not covered in the Enemies chapter.
+
+Bathtub with Person:  Some tubs have someone actually taking a bath.  Munch
+                      them down quickly or they will use a blast of water from
+                      their tub to knock you off the building.
+
+Cactus:  This plant from the arid regions of the world doesn't sit well in your
+         monster's stomach.
+
+Dynamite:  It seems that someone has squirreled away some sticks of dynamite in
+           the walls of the building.  If you find one, jump out of their
+           quickly or take a hefty amount of damage from the blast.
+
+Light Bulb:  Grabbing at it while it is lit up is a bad thing and will shock
+             your monster.
+
+Neon Sign:  Slugging at this can either give you points for breaking it or it
+            will shock your monster.
+
+Photographer:  These guys want a picture of you in your monster glory.  You
+               will encounter them while ravaging buildings.  One flash from
+               their camera and you will be knocked off the building.  Eat them
+               before that happens.
+
+Poison:  This is indicated by the "skull and crossbones" icon.  Don't grab this
+         unless you want to see a big decrease in your monster's health.
+
+Television:  When the boob-tube is on, don't grab it or be prepared for a
+             shocking experience.  If the TV is off, grab it to collect the
+             points.
+
+Toaster without Toast:  If there isn't toast in the toaster, don't grab at it
+                        or your monster will be shocked in the process.
+
+Toilet and Bathtub:  These two bathroom items are not only unsanitary, they
+                     also give no benefits when munched down.
+
++-----------------------+
+| 6.4.3  Healthy Things |------------------------------------------------------
++-----------------------+
+
+These are items that will increase your monster's health.
+
+Bowl of Fruit:  These bananas and apples will give your monster a slight health
+                increase.
+
+Hamburger:  These treats are usually found in the middle of the buildings you
+            are destroying.
+
+Milk:  For strong bones and muscles to ravage more cities.
+
+Toast:  Found in the toaster.  If you are patient, it will pop up for some
+        health giving relief.
+
+Turkey:  Found in windowsills cooling off.
+
++--------------------+
+| 6.4.4  Good Things |---------------------------------------------------------
++--------------------+
+
+These are items that will give you points.
+
+Bag of Loot:  Grab this for quick points.
+
+Civilians:  Give your monster big points.
+
+Flower Pot:  Find these sunflowers and hit them to knock them out of the
+             buildings and collect the points.  Can also be used to take out
+             enemy units.
+
+Manhole Cover:  When the sewer worker pops up, smash the cover.  Hit it
+                multiple times to take out vehicles and air units.
+
+Television:  Collect the points when the TV is off by knocking it out of the
+             building.
+
+Train:  You can smash the train back and forth for big points.  Use two
+        monsters to play "train pong".
+
+Safe:  Knock it out of the building to break it.  Then collect the goodies that
+       are revealed.  This also can be used to take out enemy units.
+
+Vehicles (Civilian and non-Civilian):  Smash these for points.
+
++---------------------------+
+| 6.4.5  Designated Victims |--------------------------------------------------
++---------------------------+
+
+These are people that your monster can grab from the windows.  While holding a
+designated victim, only the National Guardsmen quit firing.  The designated
+victims are:
+
+The lady in red is George's victim, the guy in the yellow shirt and white
+boxers is Lizzie's victim, and the guy in the suit is Ralph's victim.
+
+After you hold your victim for a random period of time, they will do a few
+uppercuts to your monster's jaw and force your monster to drop them.  You can
+then eat them form more points.
+
+ ________________
+/ 6.5  The Days /______________________________________________________________
+----------------
+
+In order to access these things, there are 768 days in this game.  Fortunately,
+you only will have to do 128 days before they repeat themselves again.  The
+days and specifics about them are discussed later in the chapter.
+
+This chart is a breakdown of how the days are set up.  It will include the
+number of buildings you need to destroy and any unique features (if any) of the
+day plus some of the enemies encountered.
+
+LEGEND:  BU=# OF BUILDINGS; FE=FEATURES; EN=ENEMIES (DOESN'T INCLUDE NATIONAL
+         GUARDSMEN OR HELICOPTERS WHICH OCCUR ON EVERY DAY)
+
+FEATURES LEGEND:  BR=BRIDGE; RI=RIVERWAY; PB=3 PIERS AND BOATER; TR=TRAIN
+
+ENEMIES LEGEND : TA=TANK; PA=PARATROOPER; PO=POLICE; LI=LIGHTNING
+
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+| DAY | CITY         | BU | FE | EN || DAY | CITY         | BU | FE | EN     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   1 | PEORIA       |  3 |    |    ||  44 | FRESNO       |  5 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   2 | JOLIET       |  4 |    |    ||  45 | BURBANK      |  5 |    | LI     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   3 | CHICAGO      |  6 | TR |    ||  46 | SAN DIEGO    |  5 | PB |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   4 | CHICAGO      |  5 |    | TA ||  47 | SAN DIEGO    |  6 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   5 | KALAMAZOO    |  4 |    |    ||  48 | LAS VEGAS    |  4 |    | PO     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   6 | DETROIT      |  4 | BR | TA ||  49 | PHOENIX      |  5 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   7 | DETROIT      |  5 |    | TA ||  50 | ALBUQUERQUE  |  5 | TR |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   8 | CLEVELAND    |  5 |    | TA ||  51 | AMARILLO     |  5 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|   9 | CLEVELAND    |  6 | PB |    ||  52 | LUBBOCK      |  4 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  10 | PITTSBURGH   |  6 |    | TA ||  53 | DALLAS       |  5 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  11 | PITTSBURGH   |  4 |    |    ||  54 | DALLAS       |  6 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  12 | BALTIMORE    |  4 | BR |    ||  55 | HOUSTON      |  5 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  13 | BALTIMORE    |  5 |    |    ||  56 | HOUSTON      |  5 |    | PA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  14 | PHILADELPHIA |  5 |    | TA ||  57 | BATON ROUGE  |  4 | BR |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  15 | PHILADELPHIA |  5 | TR |    ||  58 | NEW ORLEANS  |  5 | PB | PA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  16 | NEWARK       |  4 |    |    ||  59 | NEW ORLEANS  |  4 | TR | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  17 | MANHATTAN    |  4 |    | PO ||  60 | MOBILE       |  5 |    | LI, TA |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  18 | MANHATTAN    |  6 | PB |    ||  61 | TAMPA BAY    |  5 | PB |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  19 | BOSTON       |  4 |    |    ||  62 | MIAMI        |  5 |    | PO     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  20 | BOSTON       |  5 |    | PA ||  63 | MIAMI        |  5 |    | PO     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  21 | BANGOR       |  4 |    |    ||  64 | DAYTONA      |  4 | PB |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  22 | QUEBEC       |  4 | BR | TA ||  65 | SAVANNAH     |  4 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  23 | MONTREAL     |  5 | BR |    ||  66 | CHARLOTTE    |  5 |    | LI     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  24 | OTTAWA       |  4 | BR | PA ||  67 | RALEIGH      |  5 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  25 | TORONTO      |  5 |    |    ||  68 | RICHMOND     |  4 | BR |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  26 | MACKINAW     |  5 | PB |    ||  69 | CHARLESTON   |  4 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  27 | GREEN BAY    |  5 |    |    ||  70 | KNOXVILLE    |  5 |    | PA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  28 | MILWAUKEE    |  5 | TR | TA ||  71 | CHATTANOOGA  |  4 | TR |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  29 | MILWAUKEE    |  5 |    | TA ||  72 | ATLANTA      |  5 |    | LI, TA |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  30 | LA CROSSE    |  4 | BR | LI ||  73 | ATLANTA      |  5 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  31 | ST. PAUL     |  5 |    | TA ||  74 | TUSCALOOSA   |  4 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  32 | DULUTH       |  4 | BR |    ||  75 | MEMPHIS      |  4 | RI |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  33 | BISMARK      |  5 |    | TA ||  76 | MEMPHIS      |  6 |    | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  34 | CUSTER       |  4 |    |    ||  77 | NASHVILLE    |  5 |    | PO     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  35 | BILLINGS     |  6 | TR | TA ||  78 | NASHVILLE    |  5 | TR |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  36 | BOISE        |  4 |    | PA ||  79 | LOUISVILLE   |  4 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  37 | SPOKANE      |  5 |    | PO ||  80 | LEXINGTON    |  6 |    | PA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  38 | SEATTLE      |  4 | PB |    ||  81 | CINCINNATI   |  5 | BR |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  39 | SEATTLE      |  5 | PB |    ||  82 | CINCINNATI   |  5 |    | PO     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  40 | PORTLAND     |  6 |    | TA ||  83 | INDIANAPOLIS |  4 |    | LI     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  41 | PORTLAND     |  4 | BR |    ||  84 | ST. LOUIS    |  4 | BR | PA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  42 | SACRAMENTO   |  4 |    | PO ||  85 | ST. LOUIS    |  5 | TR | TA     |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+|  43 | SACRAMENTO   |  4 | BR | PA ||  86 | LITTLE ROCK  |  4 |    |        |
++-----+--------------+----+----+----++-----+--------------+----+----+--------+
+
++-----+--------------+----+----+--------+
+| DAY | CITY         | BU | FE | EN     |
++-----+--------------+----+----+--------+
++-----+--------------+----+----+--------+
+|  87 | TULSA        |  5 |    |        |
++-----+--------------+----+----+--------+
+|  88 | WICHITA      |  4 |    | PO     |
++-----+--------------+----+----+--------+
+|  89 | KANSAS CITY  |  4 | BR |        |
++-----+--------------+----+----+--------+
+|  90 | KANSAS CITY  |  6 |    | PO     |
++-----+--------------+----+----+--------+
+|  91 | DES MOINES   |  4 |    | LI     |
++-----+--------------+----+----+--------+
+|  92 | OMAHA        |  4 |    | TA     |
++-----+--------------+----+----+--------+
+|  93 | LINCOLN      |  6 |    |        |
++-----+--------------+----+----+--------+
+|  94 | BOULDER      |  5 |    | TA     |
++-----+--------------+----+----+--------+
+|  95 | DENVER       |  6 |    | PA     |
++-----+--------------+----+----+--------+
+|  96 | DENVER       |  4 | TR |        |
++-----+--------------+----+----+--------+
+|  97 | CHEYENNE     |  5 |    | TA     |
++-----+--------------+----+----+--------+
+|  98 | SALT LAKE    |  5 | PB | PA     |
++-----+--------------+----+----+--------+
+|  99 | SALT LAKE    |  5 | PB |        |
++-----+--------------+----+----+--------+
+| 100 | RENO         |  5 |    | PO     |
++-----+--------------+----+----+--------+
+| 101 | SAN JOSE     |  4 | BR |        |
++-----+--------------+----+----+--------+
+| 102 | LOS ANGELAS  |  5 |    | PO     |
++-----+--------------+----+----+--------+
+| 103 | LOS ANGELAS  |  6 |    | PO     |
++-----+--------------+----+----+--------+
+| 104 | HONOLULU     |  4 |    |        |
++-----+--------------+----+----+--------+
+| 105 | MAUI         |  5 | PB |        |
++-----+--------------+----+----+--------+
+| 106 | ANCHORAGE    |  5 |    | TA     |
++-----+--------------+----+----+--------+
+| 107 | NOME         |  5 | TR | TA     |
++-----+--------------+----+----+--------+
+| 108 | FAIRBANKS    |  5 |    | PA, TA |
++-----+--------------+----+----+--------+
+| 109 | SEATTLE      |  5 |    | PO     |
++-----+--------------+----+----+--------+
+| 110 | SAN DIEGO    |  4 |    | PO     |
++-----+--------------+----+----+--------+
+| 111 | NEW ORLEANS  |  4 | RI | TA     |
++-----+--------------+----+----+--------+
+| 112 | TAMPA BAY    |  5 | PB |        |
++-----+--------------+----+----+--------+
+| 113 | MIAMI        |  6 |    | PO     |
++-----+--------------+----+----+--------+
+| 114 | SAVANNAH     |  4 |    |        |
++-----+--------------+----+----+--------+
+| 115 | CHARLESTON   |  4 |    | PA, TA |
++-----+--------------+----+----+--------+
+| 116 | RICHMOND     |  4 |    | TA     |
++-----+--------------+----+----+--------+
+| 117 | PHILADELPHIA |  5 | TR | LI, TA |
++-----+--------------+----+----+--------+
+| 118 | MANHATTAN    |  5 |    | TA     |
++-----+--------------+----+----+--------+
+| 119 | BOSTON       |  5 |    | TA     |
++-----+--------------+----+----+--------+
+| 120 | MONTREAL     |  4 | BR |        |
++-----+--------------+----+----+--------+
+| 121 | TORONTO      |  5 |    | TA     |
++-----+--------------+----+----+--------+
+| 122 | DETROIT      |  5 |    | LI, TA |
++-----+--------------+----+----+--------+
+| 123 | GREEN BAY    |  4 | PB |        |
++-----+--------------+----+----+--------+
+| 124 | MILWAUKEE    |  4 |    | TA     |
++-----+--------------+----+----+--------+
+| 125 | CHICAGO      |  5 |    | TA     |
++-----+--------------+----+----+--------+
+| 126 | HOMEWOOD     |  4 |    | PA     |
++-----+--------------+----+----+--------+
+| 127 | AURORA       |  4 | BR | TA     |
++-----+--------------+----+----+--------+
+| 128 | PLANO        |  2 |    | PO     |
++-----+--------------+----+----+--------+
+| 129 | PEORIA       |  4 | TR | LI, TA |
++-----+--------------+----+----+--------+
+
+After day 128, the rest of the cycle will begin with day 129 and days 2 through
+128 will be repeated with more lightning and police.
+
+ __________________________
+/ 6.6  Humorous Headlines /____________________________________________________
+--------------------------
+
+These are the random headlines you may encounter during the game.  These head-
+lines appear when the next day begins.
+
+EX-MUTANT IS ARRESTED FOR STREAKING!
+LAB SCREW-UP WEARS OFF...FILM AT 11
+SPOUSE OF MUTANT FILES LEGAL ACTION
+FORMER BEAST SAYS IT MAY HAPPEN AGAIN
+STILL AT LARGE...VERY LARGE!
+IS THERE NO END TO THIS RAMPAGE???
+PROPERTY VALUES AT ALL TIME LOW
+YOUR AD HERE CALL NOW! 1-800-ZOO-KEEP
+JOB OPENINGS IN NATIONAL GUARD!
+REAL LIFE JEKYLL AND HYDE STORY!!
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+You start the game with your monsters at the bottom of the screen.  After the
+game starts, it is time for you to start the "urban renewal" process.
+
+-  After you start, you will start being attacked.  There is no real way to
+   avoid a lot of the attacks by the National Guardsmen due to the sheer volume
+   of fire they are laying down.  Your best bet is to keep moving and make your-
+   self a hard target to hit.
+
+-  To move quickly from building to building, jump toward the building and push
+   up to grab the building.  This enables you to use your monster's ability to
+   both jump and climb at the same time.
+
+-  To relieve some pressure from the National Guardsmen, climb up the buildings
+   and smash the windows where they pop out from or just eat them when they are
+   leaning out the window.  Move quickly since their buddies are still shooting
+   or throwing dynamite at your monster.
+
+-  Unless you are totally obsessed with points, let the National Guardsmen do
+   your work for you.  A great example of this is that about midway through a
+   day, a National Guardman will rush out from the side of the screen with
+   explosives.  They will place them at the base of a building.  This
+   demolishes the building and helps you along to the next day.
+
+-  Another way to destroy buildings it to weaken it up, then jump on the roof.
+   Your monster's weight will cause the building to collapse.
+
+-  The air units can be rather dangerous.  During the beginning days, the heli-
+   copters will overfly your monster, turn around, and then dive in for the
+   attack.  You can destroy the helicopters when they are coming in to prevent
+   their attack.  Also, when you are moving around, you make it harder for them
+   to get a bead on your monster.
+
+-  During the later days, helicopters will drop bombs.  Again, paying attention
+   to everything that is going on will allow you to easily escape the bomb
+   being dropped.  You can also entice the helicopter to drop a bomb when you
+   are on top of a building.  When the bomb is dropped, jump out of the way and
+   let the bomb do the damage to the building for you.
+
+-  Make sure that you either grab the food or eat the National Guardsmen to
+   keep your health up.  If you can hold out for 128 days, you will get all of
+   your health restored for that day and days 256, 384, 512, 640, and 768.
+   Also keep in mind that if you punch too fast, you may end up getting some-
+   thing that will harm your monster.
+
+-  Paratroopers can be a particular pain.  If you plan to attack a building
+   with a Paratrooper unit on it, make sure you quickly scale the building and
+   eat said unit.  It makes life a lot easier since their rapid fire can put a
+   major hurting on your monster.
+
+-  Ground units such as Tanks and Police Cars can be a real nuisance.  They
+   fire some pretty heavy shells which not only cause a lot of damage, but they
+   also can knock back your monster for quite a distance.  There are some ways
+   to combat these units:
+
+   -  Climb quickly up a building.  When the unit passes below you, jump down
+      and give it a good punch.
+
+   -  Time the shots and rush the ground unit in-between shots to get a good
+      punch in.
+
+   -  Use available weapons such as manhole covers, flower pots, or safes to
+      drop on them.  These things also allow you to hit them at a distance.
+
+-  Be sure and watch what your monster grabs at.  There are a lot of hazards in
+   the buildings and it is pretty bad when your monster buys the farm doing
+   dumb stuff such as grabbing electrical items such as toasters and light
+   bulbs.
+
+-  In addition to the above, dynamite is sometimes in the middle of buildings.
+   When uncovered, you have about two to three seconds to get your monster out
+   of there before they are blown off the building.  Eating it will only
+   decrease your monster's health so run far away when it is uncovered.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+This game was definitely a quarter eater.  It was fun to spend hours of mind-
+less entertainment just going around and destroying as much as you could.
+Without having to deal with bosses or some kind of complicated quest, Rampage
+proved its worth time and time again in letting one get out their
+"aggressions".  Since the premise of the game was simple plus you could
+cooperatively play with or against other players, it added a whole new
+dimension to the game.  I know when this game came out, it was regularly
+occupied so it seemed to have been rather popular.  Although this game wasn't
+very popular, it still was a lot of fun to play.  Unfortunately, it is very
+rare to find this machine anywhere.  However, through the miracle of emulation,
+a whole new generation is realizing what we "old" folks enjoyed those many
+years ago.  In addition, www.shockwave.com is bringing many of these classic
+games back.  Check out their site to see what ones are there.  I hope this
+guide helps you in being able to get the most amount of gameplay for this game.
+If you do have other ideas or thoughts, please e-mail me and share them.  Who
+knows, maybe I'll start a Q&A Chapter in this guide if enough people ask the
+same questions.  Anyway, thank you again for reading this guide.

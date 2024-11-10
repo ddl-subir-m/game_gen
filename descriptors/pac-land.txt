@@ -1,0 +1,470 @@
+Welcome to 'Pac-Land' for the NES, released by Namco in 1985.
+
+This is a port of the Arcade game, yet it is slightly different. The basics are
+more or less the same, but levels have been changed among other things. The
+other ports such as MSX and TurboGrafx-16 are also all different and worth
+checking out if you are a fan of the series.
+
+Suggestions, comments or errors - tell me about it. Enjoy!
+
+
+===============================================================================
+02.)                    BASICS                                       G0200
+===============================================================================
+
+Pac-Land consists of 16 levels, divided into four trips, in which you simply
+run from one side to the other and avoid enemies and jump over obstacles.
+Sounds like your basic platformer, but it comes with Pac-Man style features.
+Each level has a Power Pellet for you turn the ghosts into eatable ones and you
+may devour them. Additionally there are tons of secrets to be found. Once you
+beat all 16 rounds the game will continue but simply restart from the first
+round.
+
+
+Controls:
+`````````
+ ______| |____________________________
+|          .............              |
+|          .............   Nintendo   |
+|    _     .............              |
+|  _| |_   SELECT..START              |
+| |_ O _|  ..__.....__..    _    _    |
+|   |_|     (__)   (__)    (_)  (_)   |
+|          .............     B    A   |
+|_____________________________________|
+Even though there are two player controls, this is a single player game. There
+is no taking turns either, it is simply about having the choice of two control
+types.
+
+For Player 1>
+A        Move Right
+B        Move Left
+D-Pad    Jump, tap to run
+
+For Player 2>
+Right    Move Right
+Left     Move Left
+A/B      Jump, tap to run
+
+I highly suggest you play as Player 2 because the controls are so much more
+like a platformer. I myself got very confused trying to get used to the P1
+controls, but maybe that's just me...
+
+
+Display:
+````````
+ _____________________________________
+| ................................... |
+| .                                 . |
+| .  SCORE     HI-SCORE         cc  . |
+| .      xx      xxxxx    ROUND  x  . |
+| .  ooooo                          . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                                 . |
+| .                A                . |
+| ................................... |
+|_____________________________________|
+
+Pac will always be in the center of the screen, usually around A unless there
+is an elevation of some kind, or an obstacle.
+
+SCORE is your current score. See more about under scoring.
+
+The round circles underneath the score is the time left to complete the level.
+
+You get extra points depending how much you have left, but when you run out you
+enter a TIME OUT stage. During this time the Sue ghost will move much faster
+and you lose your bonus items (Helmet or Balloon).
+
+HI-SCORE is the top score of the game, but it is only kept for the current
+time. If you switch off the console this is lost.
+
+On the right there are small Pac-Man icons to show your current lives. Die and
+you lose one.
+
+ROUND indicates the current level, naturally. Note that after round 16 it will
+continue counting, but it really is round 01 again. This loop continues
+forever, going into the hex numbers and finally ending up at infinite 0s.
+
+
+Enemies:
+````````
+There are four ghosts you are probably very familiar with from other Pac-Man
+or Namco games:
+
+Clyde (Orange)
+Pinky (Pink)
+Blinky (Red)
+Inky (Blue)
+
+These four ghosts are always in vehicles. There are three types of vehicles:
+
+Airplane. Usually it just goes in a straight line, and slow-moving. However
+	  some daredevil pilots may decide to take a quick dive - be careful.
+
+Pogo-Stick. Hop and bounce around like crazy. Can be very annoying and slow.
+
+UFO. Flying up and down, a bit like the airplanes but more dangerous.
+
+There are also small monsters that get dropped from airplanes. They disappear
+when they hit the bottom of the screen. They are, however, equally hazardous to
+your health. Once you have the helmet you can eat these guys for points.
+
+Sue is the dark blue ghost. She follows you through the level so you don't
+slack off and sit around.
+
+Once you have eaten a Power Pellet all these ghosts turn into dark blue ones.
+You can eat them for points, and they will be gone. When you fail to eat them
+within a few seconds they will run away.
+
+
+Obstacles:
+``````````
+Hydrants, Logs and Cactuses. Jumping on them may reveal a secret item, and if
+they are movable then shift them all the way to reveal something even better.
+
+Clouds go up and down and you can use them to gain higher ground.
+
+Rotating logs speed up or slow down your movements in one direction. They might
+drop you off to your death if you aren't careful enough. Keep moving!
+
+Trampolines are used for far jumps. They can be tricky to get the hang of.
+
+
+Items:
+``````
+
+Helmet. With the helmet equipped you are no longer in harm from the small
+        ghosts. Even better, you get 300 points for each small ghost you catch!
+        Available in Level 1, 5, 8 and 13.
+
+Balloon. Worth 7650 points.
+         Available in Level 4, 8, 12, 16.
+
+Boots: Enables you jumping higher, and even higher as much as you want by
+       simply pressing the jump button while you are still in the air. This is
+       a gift from the princess.
+       Available in Level 4, 8, 12, 16.
+
+Flowers. There are four different kind of flowers. Purple drops down when you
+	 have run out of time and the TIME OUT has begun. It is worth 300
+	 points.
+         Collect three Yellow flowers for an 1UP power-up.
+         Orange flower falls from the sky after rotating the logs for more than
+	 four seconds. It is worth 1000 points.
+         Red flower...
+
+S-Pac, 1 UP. Gained after three yellow flowers are collected.
+
+L-Pac, all your time is refilled. After eating a Power Pellet you must eat four
+ghosts, then eat Sue as the fifth. This icon will appear as reward.
+
+Power Pellet: This is required to turn the evil ghosts into harmless ones so
+              you can eat them up for points. The more ghosts you eat in
+              succession the more points you get. When you are around the
+              Pellet you may want to try and lure some more ghosts in to the
+              area so you can get them in one swoop, as well as Sue who is most
+              likely on your tail.
+
+
+Scoring:
+````````
+As you may have noticed, simply walking along gives you 10 points per step.
+
+Collecting items are worth points. There are three types of fruit that change
+in value with each one you pick up, then it reverts to the initial one.
+Cherry: 100, 300, 500, 1000 points
+Strawberry: 300, 500, 1000, 1500 points
+Apple: 1000, 1500, 2000, 2500 points
+Fruit pop up once in a while as you walk along, but may also be triggered by
+standing on a scenery object, such as a fire hydrant.
+
+Helmet: 1000 points
+
+Once you have the Power Pellet you can eat ghosts. With eat continuous bite
+you get extra points:
+1st:   200 points
+2nd:   400 points
+3rd:   800 points
+4th   1600 points
+5th:  3200 points
+6th+: 7650 points
+
+After the round ends you are in the 'BREAK TIME' area. You will walk along and
+soon the screen stops and the next round stars. Before the screen stops you
+have the chance to jump. Depending on your status when the screen stops, you
+get bonus points.
+Slightly off the ground:  10 points
+Half-way off the ground: 100 points
+Mid-Air:                 300 points
+Just about to land:     1000 points
+Perfect landing:        7650 points
+
+
+Secret Warps:
+`````````````
+
+They exist, but I don't really know where. They seem quite complicated to
+activate and I haven't really heard much in detail. If you know specifics and
+can show me (gameplay footage?) then I would love to hear from you.
+
+
+Cheats:
+```````
+
+Infinite Lives: Set 003F at Value 5
+Infinite Time:  Set 0093 at Value 8
+
+Remember to switch off the time cheat after you have completed the level,
+unless you want the bonus point counter to go on forever. Nice way to "cheat"
+the high score I guess.
+
+
+===============================================================================
+03.)                    WALKTHROUGH                                  G0300
+===============================================================================
+
+For the hidden secrets you have to look at your current score and the current
+hi-score to calculate where it is. This is quite simply. Take the last two
+digits of the score (e.g. 30) and the last two digits of the hi-score (e.g. 20)
+and get 30+20=50. This will determine where they are hidden, in this case the
+Item (Balloon or Helmet) is at 1 and the Flower is at 4. The complete list for
+every round, keeping in mind that the items are only available in certain
+levels and that some levels do not have any hidden things at all:
+
+o-------------------o
+| No.  Item  Flower |
+|-------------------|
+|  00    2     1    |
+|  10    4     2    |
+|  20    3     4    |
+|  30    2     3    |
+|  40    4     2    |
+|  50    1     4    |
+|  60    3     1    |
+|  70    2     3    |
+|  80    2     1    |
+|  90    4     2    |
+| 100    3     4    |
+| 110    2     3    |
+| 120    4     2    |
+| 130    1     4    |
+| 140    3     1    |
+| 150    2     3    |
+| 160    2     1    |
+| 170    4     2    |
+| 180    3     4    |
+o-------------------o
+
+For the reason above, it is not easy to write a step-by-step walkthrough.
+Another one is that while you walk back and fourth through the level, the
+enemies will not come at you the same way. If you backtrack for a few seconds
+and then continue on, there will suddenly be three ghosts coming along whereas
+there might have been nothing if you simply continued on earlier. However, I
+will describe the hidden locations of the items and flowers as you go through
+the levels.
+
+
+****TRIP 1****                                                       G0310
+
+
+ROUND 01:
+
+As you start, jump over the first hydrant. The next hydrant you see is 1. If
+you have just started the game then you will have your score at 00 and the hi-
+score is 30,000. Thus, this is where you will find a flower after moving it to
+the left. Continue on and, again, if this your first game you will find a
+helmet when moving this 2 hydrant. The next two hydrants on the way are 3 and 4
+respectively. Watch out for the crazy flyer just before 4, he will swoop down
+on you. Moving on, after five more hydrants that aren't special in any way, you
+will see the Power Pellet slightly up in the air. It's small so don't miss it.
+If you run ahead you will find a few ghosts. This is nearly the end of the
+level already.
+
+
+ROUND 02:
+
+As you walk along, there are two logs next to each other. The first one is 1.
+When you leave the trees there is a lone log, which is 2. The one after
+re-entering the trees is 3 already. Run along to see a flying cherry in front
+of you. Hunt it down to make a whole row of them appear. The log here is also
+4. When you come to next clearing, grab the Power Pellet in plain sight and
+dash through the rest of the level.
+
+
+ROUND 03:
+
+Climb the mountain and carefully jump over the rotating bridge parts. The next
+mountain has three rotating logs you have to carefully jump over. Before the
+last one you will find the Power Pellet, you can hardly miss it. The goal is
+down the hill.
+
+
+ROUND 04:
+
+It certainly looks like the previous level backwards, but it has some slightly
+differences. When you are up the mountain you might be wondering where the logs
+are to get across. You have just received magic shows in the Fairy Land so you
+can use those to multi-jump across the gap. Be careful of the oncoming planes.
+Down the mountain you will find some logs. The right one is 1 and as you go
+along they will be 2, 3 and 4. The final mountain has the Power Pellet in
+mid-air. The goal is down the hill.
+
+
+****TRIP 2****                                                       G0320
+
+
+ROUND 05:
+
+You need to get your precision jumping in order starting from here on out. Also
+make sure you get plenty of a run-up to make it across longer gaps. You can use
+enemies or Sue to get up to higher ledges if needed. After two jumps there are
+two cactuses. They are both 1 and 2, but it seems you can only get one and not
+the other. After two more jumps there is a long cactus number 3. There is a
+short bit of dry land, and up on the next demolished building is the last
+moveable cactus 4. The Power Pellet is on the tiny bit of ruin and you cannot
+miss it. The rest of the jumps are nothing new and the dry land coming up is
+already the goal.
+
+
+ROUND 06:
+
+Start walking and the small cactus after the bush is number 1. Jump over the
+stacked cactus (large one) and find number 2 behind it. Take a long run up to
+the trampoline and jump near the end of it. It's a little tricky if you are
+new to the game, so practice this a bit if needed. The running part is very
+important, and it's too bad some annoying ghosts like the swirl around in this
+area a lot. On the other side of the pool is the Power Pellet, a good jump
+will automatically pick this up in mid-air. The next cactus is number 3. Do
+another running jump to get across the pool, but this one is much smaller. The
+first cactus after the water is number 4. A few more desert screens and the
+goal is reached.
+
+
+ROUND 07:
+
+The second log on the path is number 1. The fourth is number 2 and the one just
+before the clearing is 3 already. The one right after the clearing (not the
+one still in it) is number 4. That's is for all the secret stuff. You will find
+the Pellet in the third clearing and apart from multiple enemies there is
+nothing more to say here.
+
+
+ROUND 08:
+
+Back in town, there is nothing much for the start. After a long line of medium
+houses, there will be another large one with a hydrant in front. This hydrant
+is number 1. The next three are numbers 2, 3 and 4 respectively. Don't forget
+to pick up the Power Pellet between the last two, it's quite far up but not a
+problem with your recently acquired magic boots.
+
+
+****TRIP 3****                                                       G0330
+
+
+ROUND 09:
+
+Before the clearing there are two possible hidden things: the second log is 1,
+then last one is 2. In the second forest area you can move the tall log is 3 is
+your lucky number, else the last one is 4. There is a flying apple like the
+fruit you saw earlier, if you manage to catch it you will find a few more pop
+up around the area. The Power Pellet is at the start of the last forest area,
+it's a little higher up.
+
+
+ROUND 10:
+
+Climb up the mountain and time your jump onto the rolling logs so you can
+quickly jump to the next ledge. If you land on this it will most likely take
+you down into the abyss within a couple of seconds. When you make it across you
+will be rewarded with log location 1 and 2. Use the cloud to get across the
+ledges and find logs 3 and 4. This next rolling log platform is much easier to
+navigate across, but make sure you do a long jump to the high ledge afterwards
+as the low ledge is a trap. Soon you will reach a pool with small wood pieces
+floating back and forth. Take it easy here, it is not too hard but can be
+frustrating. Just when you thought the worst is over, the next pool has even
+smaller wood pieces, or rather turned over ones. Run/jump across the rotating
+bridge and grab the Power Pellet above the chasm. Jump far towards the moving
+logs and then you just have to run down the hill to finish this hellish level.
+
+
+ROUND 11:
+
+From the first building jump to the small ledge, then to the next building. It
+has two cactuses, they are both 1 and 2 but once again you can only move one.
+Continuing on you will soon find the Power Pellet on a small ledge. The block
+after this has the third secret cactus, and two buildings later you will find
+no. 4. You want to be careful of oncoming flyers here, they often get you in
+bad situations while you are stuck on a narrow platform.
+
+
+ROUND 12:
+
+Another pool level, but fortunately this time you can simply fly over all this
+rather use any trampolines. But first, the lone cactus at the start contains
+hidden item number 1. Now start flying and be careful of the all the foes that
+like to float around here. There is a short break in the water, enough for a
+cactus between two bushes that is hiding no. 2, then it's back to flying
+across the second part. On the other side you will find cactus 3 and 4 on the
+ground and the Power Pellet high up near a cloud.
+
+
+****TRIP 4****                                                       G0340
+
+
+ROUND 13:
+
+Ruin level, you know the drill by now. The first building has a cactus which is
+1 (the higher one), the second one has 2, the fourth has 3 and the sixth has 4.
+Easy enough to see as it goes building-ledge-building and so on. The Power
+Pellet is just at the end of the level, in the last ruined building.
+
+
+ROUND 14:
+
+You will see cactuses lined up near the start, and all but the last one are the
+hidden spots. You can guess which order they are in...because as usual they are
+1, 2, 3, 4. The rest of the level is just water. Head up onto the large cactus
+near the edge of the water and wait for an airplane to come across. Board it
+and fly along for a few seconds. Soon you will see some clouds. Jump on the
+first one and then follow the linear platforms towards the rotating logs. These
+can be tricky, wait for them to get a little closer. When you descend you will
+see the Power Pellet, which will get rid of the ghosts that hover above. Jump
+on the next few clouds and the large gap needs to be bridged by jumping on one
+of the planes. Jump down to the trampoline and make it far to the next logs.
+This is the last part of this tough level.
+
+
+ROUND 15:
+
+Climb up the mountain and use the cloud to get even higher. The first log you
+come across is also number 1 for hidden stuff. Time your jump REALLY well over
+the rotating logs, because if you do not you will land in the water and die.
+The log after the water is number 2. After a few easy ledges you will see the
+Power Pellet next the number 3 log. There are a few small puddles to cross, but
+with a good running start you can jump right over them. The log in the middle
+of the water has the last log though, if you are up for number 4. The last
+chasm is a dead-end until a ghost catches up with you that you can use as a
+ride across.
+
+
+ROUND 16:
+
+This is the easiest level, even easier than the first. You have magic boots to
+fly around, but you can also just dash through if you aren't interested in
+collecting many points. All the ghost vehicles drop flowers worth 1,000 points
+each. You can stay as long as time permits. Just one note: do not get stuck on
+a roof by mistake, the enemies still kill you when flying into you.
+
+
+Now the game returns to the same round as Trip 1, so read up if want to play on
+using the walkthrough.
+
+However, you can consider this game beaten already at this point.

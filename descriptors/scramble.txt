@@ -1,0 +1,372 @@
+Welcome to my FAQ for Scramble.  Since the game has you continuously going
+through six areas until all your men are killed, there is no walkthrough per
+se.  Instead it will be broken up into the game itself and strategies for
+survival.  Input is appreciated along with constructive criticism.  If you wish
+to e-mail me thoughts on this FAQ, better ways of doing things, other
+strategies, etc., feel free.  Make sure you put Scramble as the subject.  If
+you don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Scramble was Konami's first successful video game breakthrough.  Although it
+still dealt with the lone starship in battle with the aliens, this game had a
+different twist to it.  You go through different areas that not only have enemy
+hazards, but terrain hazards as well.  In addition, a little piloting skill is
+required to get through some areas.  This game, along with Super Cobra, put
+Konami on the map in the area of arcade games.  Konami, of course, would go on
+to expand into the home game arena.  Good luck in penetrating the Scramble
+system.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Scramble is a two-dimensional, scrolling shooter style game.  You are the pilot
+of a rocket that must penetrate the Scramble system.  The system consists of
+five areas before you get to the base.  The areas you are going through,
+though, won't be easy.  With danger from all sides, both enemy and terrain, you
+will have to keep a sharp eye and have quick reflexes to get through some of
+the more difficult areas of this game.  In addition to worrying about danger,
+you must constantly keep your rocket fueled or it will crash.  This means you
+will have to devise tactics that keep your rocket somewhat out of danger while
+at the same time getting the fuel tanks.  Of course, after you get through the
+Scramble system, many more are behind it.  Looks like it's time to ask for a
+raise.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  An eight-way joystick
+
+-  A fire button
+
+-  A bomb button
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Scramble actually consists of three playing fields although there are six
+areas.  It's the way the terrain changes and the enemies encountered make for
+unique screens.  I have put examples of the four basic screens below (and also
+given them my own names since there aren't really names assigned to them).
+Also note the screen shown here is bigger then the actual display.
+
+                               +-------------+
+                               | MOUNTAINOUS |
+                               +-------------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |          +------+------+------+------+------+-------+             |
+    |          | 1ST  | 2ND  | 3RD  | 4TH  | 5TH  | BASE  |             |
+    |          +------+------+------+------+------+-------+             |
+    |          |      |      |      |      |      |       |             |
+    |          +------+------+------+------+------+-------+             |
+    |     _                                                             |
+    |     \_____|\                                                      |
+    |      -----|/                                                      |
+    |     /_                                                            |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                        _           MYSTERY        |
+    |                                       / \    /\      BASE         |
+    |                         _____        /   \  /  \      |           |
+    |                FUEL -> /FUEL \      /     \/    \     V           |
+    |                TANK    \_____/     /             \    /\          |
+    |                        _/___\_____/               \  /__\         |
+    |                       /                            \_/__\__      /|
+    |\                     /                                     \    / |
+    | \    + <-MISSILE    /                                       \  /  |
+    |  \   +       /\    /                                         \/   |
+    |   \_/_\_____/  \__/                                               |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+                                   +------+
+                                   | CITY |
+                                   +------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |          +------+------+------+------+------+-------+             |
+    |          | 1ST  | 2ND  | 3RD  | 4TH  | 5TH  | BASE  |             |
+    |          +------+------+------+------+------+-------+             |
+    |          |      |      |      |      |      |       |             |
+    |          +------+------+------+------+------+-------+             |
+    |     _                                                             |
+    |     \_____|\                                               +      |
+    |      -----|/                                               +      |
+    |     /_                                                    / \     |
+    |                                                                   |
+    |                  +----+    +------+                               |
+    |                  |    | +  |      |                               |
+    |                  |    | +  |      |                               |
+    |----+    +    +---+     /_\_       |  _____         +-----+    +---|
+    |    | +  |  + |                    | / FUEL\        |     |    |   |
+    |    | +  |  + |                    | \_____/        |     |____|   |
+    |    _/_\_ _/_\_                    +--/---\---------+              |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+                                  +-------+
+                                  | CAVES |
+                                  +-------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |          +------+------+------+------+------+-------+             |
+    |          | 1ST  | 2ND  | 3RD  | 4TH  | 5TH  | BASE  |             |
+    |          +------+------+------+------+------+-------+             |
+    |          |      |      |      |      |      |       |             |
+    |--------  +------+------+------+------+------+-------+  -----------|
+    |     _                        |                 |                  |
+    |     \_____|\                 |                 |                  |
+    |      -----|/                 |                 |                  |
+    |     /_                       |                 |                  |
+    |                              |                 |                  |
+    |------------------+           |                 |             +----|
+    |                  |           |                 |             |    |
+    |                  |           |                 |             |    |
+    |                  |           |                 |             |    |
+    |                  |           |                 |             |    |
+    |                  |           |                 |             |    |
+    |                  |           +-----------------+             |    |
+    |                  |          ____  ____  ____  ____           |    |
+    |                  |         /FUEL\/FUEL\/FUEL\/FUEL\          |    |
+    |                  |         \____/\____/\____/\____/          |    |
+    |                  +----------/--\--/--\--/--\--/--\-----------+    |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+                                   +------+
+                                   | BASE |
+                                   +------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |          +------+------+------+------+------+-------+             |
+    |          | 1ST  | 2ND  | 3RD  | 4TH  | 5TH  | BASE  |             |
+    |          +------+------+------+------+------+-------+             |
+    |          |      |      |      |      |      |       |             |
+    |          +------+------+------+------+------+-------+             |
+    |     _                                                             |
+    |     \_____|\                                                      |
+    |      -----|/                                                      |
+    |     /_                                                            |
+    |     KONAMI                                   +----------+         |
+    |   +-------+                                  |          |         |
+    |   |       |                                  |          |         |
+    |   |       |                                  |          |         |
+    |   |       |                                  |          |         |
+    |   |       |                                  |          |         |
+    |   |       |                                  |          |         |
+    |   |       |      +--------+      BASE        |          |         |
+    |   |       |      |        |       |          |          |         |
+    |   |       |      |        |       V          |          |         |
+    |   |       |      |        |    +----+        |          |         |
+    |   |       |      |        |    |____|        |          |         |
+    |---+       +------+        +----|----|--------+          +---------|
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control your rocket through all six areas.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty simple:
+
+Missile on ground:   50 points
+Missile in air   :   80 points
+UFO              :  100 points
+Fuel Tank        :  150 points
+Mystery Base     :  100, 200, or 300 points
+Main Base        :  800 points
+
+10 points/second of flying
+
+You start with 3 rockets and get a bonus rocket at 10,000 points.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your rocket will be at the left side of the screen.
+Keep in mind, this is a scrolling game.  This means you can go no faster then
+the right side and no slower then the left side.  You can, however, vary your
+speed in-between by pushing the joystick back and forth.  The biggest key in
+getting through this game is learning how to use the joystick to speed up and
+slow down because you will sometimes be put into some very tight areas that
+will require precision joystick control.  What I have done is break down the
+areas and some strategies for getting through them.  There is no break between
+the areas, but you can pretty much tell what area you are in by the landscape
+and/or the enemies.
+
+ ________________
+/ 7.1  1st Area /______________________________________________________________
+----------------
+
+This is a basic introductory area.  It will allow you to get used to the
+controls while the threat level remains relatively low.
+
+-  Learn how to vary your speed and you can drop bombs with pinpoint precision.
+   You can only have two bombs on the screen at any one time.  You will have to
+   go close to the surface to really make a difference.  The biggest threat is
+   the missiles that rise up to meet you.
+
+-  Fuel is a very precious commodity in this game.  Don't take a chance trying
+   to bomb a fuel tank.  It's better, if you have a flat section, to take out
+   what's under your rocket, and strafe the rest of the way.  This way, you
+   ensure you can hit the fuel tank or tanks.
+
+-  Watch the terrain.  Sometimes you may be cruising when a mountain will
+   appear suddenly requiring quick reflexes and space you may not have.
+
+ ________________
+/ 7.2  2nd Area /______________________________________________________________
+----------------
+
+This is probably one of the easiest areas to go through.  You will have to deal
+with a "chain" of UFO's in your path.
+
+-  This involves more of a timing pattern then anything else.  Get into a 
+   omfortable position relatively close to the lands surface.  This way, you
+   can bomb fuel tanks and also shoot down UFO's.  If you get the timing
+   correct, no UFO will ever get close to your rocket.
+
+-  Another nice thing about this area is that the missiles do not fire so you
+   don't have to worry about them.
+
+ ________________
+/ 7.3  3rd Area /______________________________________________________________
+----------------
+
+This area is a little trickier since you now have fireballs coming at your
+rocket.  They cannot be shot down.
+
+-  You will be staying in the valleys most of the time in this area.  This is
+   a good time to shoot things up on the ground since again, the missiles won't
+   fly up at your rocket.
+
+-  Timing again is important in this area since there are hills in the valley
+   you must cross over.  Of course, the tops of these hills are exposed to the
+   fireballs.  Time it so that right after a fireball passes over a hill,
+   accelerate and drop into the next valley.  Then decelerate in preparation
+   for the next hill.
+
+ ________________
+/ 7.4  4th Area /______________________________________________________________
+----------------
+
+Now things become more of a challenge.  You get to go through a city with
+missile silos.
+
+-  Sometimes, the tops of the buildings are scraping the bottom of your rocket.
+   Unfortunately, missile silos are also directly under your rocket.
+   Accelerate and decelerate frequently to force the missiles to rise either
+   before or after you pass the silo.
+
+-  You will have to be extremely precise with your bombs if you hope to hit a
+   missile in its silo.  It can be done but it requires a lot of patience and
+   practice.
+
+-  Again, fuel is a precious thing and sometimes fuel tanks are located on the
+   other side of tall structures forcing you to both decelerate and drop down
+   at the same time.  A very hard maneuver to perform.  Its best to stock up
+   on fuel where the buildings flatten off a bit and don't get into a 
+   desperate situation where you have to get fuel as I described above.
+
+ ________________
+/ 7.6  5th Area /______________________________________________________________
+----------------
+
+This is the area that will get most players.  The movements have to be precise
+in the caves or you will end up part of the wall.
+
+-  Learn quickly when to accelerate and decelerate within the caves.  Right
+   when you come to a ledge, push the joystick all the way back and start
+   lining up for the next cave.  Accelerate quickly through it, decelerate and
+   repeat this pattern.
+
+-  Don't worry about running out of fuel in the caves, there are plenty of fuel
+   tanks to top your rocket off.  Plus, you will need all that fuel for not
+   only navigating through the caves, but also the base since it doesn't have
+   any fuel tanks.
+
+ ____________
+/ 7.7  Base /__________________________________________________________________
+------------
+
+This is the second hardest area that gets a lot of players.  You have to be
+very precise in your movement plus you need to plant a bomb at the right
+instant to hit the Main Base.
+
+-  See my picture in Chapter 6.2.  You will see the KONAMI sign atop one of the
+   buildings.  Once you see this, you need to decelerate rapidly and drop down
+   quickly to the shorter building next to the base.  Once you almost clear
+   that building, you will have to rapidly decelerate, drop down, toss a couple
+   of bombs, and rise quickly to avoid the building on the right.
+
+-  If you fail to destroy the base on a pass, the screen will repeat itself
+   until you either destroy the base or run out of rockets to use on it.
+
+Once you have completed the Base, the action goes back to the 1st Area again.
+Things, however, will speed up.  Fuel consumption is quicker and the enemies
+also are faster.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+I recall when this game came out, not too many of us were sure.  It was an
+interesting concept, side-scrolling that is.  We were used to the "static"
+space games such as Space Invaders and Galaxian.  Once, though, you started to
+play the game, once found it was quite addictive.  Especially since it not only
+required a certain degree of luck, but it also required a certain degree of
+skill to get through the game.  A lot of things on the game never seemed to
+happen the same way.  It all depended on how or where you flew you rocket.
+Everybody had their own ways of doing things.  Some worked and some didn't but
+that was the challenge of this game and the replayability factor as well.  Un-
+fortunately, it is very rare to find this machine anywhere.  However, through
+the miracle of emulation, a whole new generation is realizing what we "old"
+folks enjoyed those many years ago.  In addition, www.shockwave.com is bringing
+many of these classic games back.  Check out their site to see what ones are
+there.  I hope this guide helps you in being able to get the most amount of
+gameplay for this game.  If you do have other ideas or thoughts, please e-mail
+me and share them.  Who knows, maybe I'll start a Q&A Chapter in this guide if
+enough people ask the same questions.  Anyway, thank you again for reading this
+guide.

@@ -1,0 +1,569 @@
+---------------------
+                          Defender of the Crown
+                          ---------------------
+                             Strategy guide
+                        for the Macintosh version
+                             by Paul Lujan
+
+September, 1149. The assassination of the King of England has plunged the nation
+into a time of darkness. Saxon and Norman lords blame each other for the king's
+murder, and are gathering armies to fight each other. Worse still, the crown has
+vanished. You, a brave Saxon warrior, must reunite England and restore the
+crown. The Normans have several advantages, but you also have an ace up your
+sleeve: Robin Hood will provide support to your cause at key times. Can you save
+the kingdom?
+
+Defender of the Crown is an unusual hybrid game, combining strategic planning in
+using your armies to conquer territories with action-based scenes in jousting,
+sieges, and raiding enemy castles. You must develop proficiency in many
+different areas (along with a bit of luck) in order to triumph. Be careful --
+the Normans are tough opponents, and although the other Saxon knights are
+supposedly your allies, they're not entirely trustworthy; if you leave your
+castle undefended, you might find yourself attacked from an unexpected
+direction!
+
+Defender of the Crown was originally released by Cinemaware for the Amiga in
+1986, and was praised for its exceptional graphics and sound. However, the game
+was released before all of the intended features could be completed; after the
+success of the initial version, it was ported to a wide variety of other
+systems, including the PC, NES, Macintosh, Apple IIgs, Atari ST, and Commodore
+64. These ports often included new features that were not in the initial
+version, so although the central gameplay concept is the same, there are often
+substantial differences between the versions.
+
+IMPORTANT NOTE: This strategy guide applies specifically to the Macintosh
+version. I've noted differences from the original Amiga version in a section
+below, but be aware that, as mentioned above, the different versions can play
+quite differently. Although I've never played it myself, I hear that the IIgs
+version is also quite similar (and in fact used the IIgs reference card for help
+in writing this), but the advice here may not apply to other versions.
+
+To play this under emulation, I highly recommend Mini vMac, which runs the game
+very well. However, by default Mini vMac runs at a higher speed, so make sure to
+change the speed back to 1x (Control-S, then Z), otherwise the jousting and
+raiding will be way too fast!
+
+-----------------
+Table of Contents
+-----------------
+
+To find a given section, just search for S followed by the section number. This
+FAQ is pretty short, though, so you probably won't need that.
+
+1. Gameplay Overview (S1)
+2. Tournaments (S2)
+3. Conquest and Battles (S3)
+4. Sieges (S4)
+5. Raids (S5)
+6. Rescuing Ladies (S6)
+7. Winning and Losing (S7)
+8. Tips and Strategies (S8)
+9. Version Differences (S9)
+10. About This FAQ (S10)
+
+-------------------------
+1. Gameplay Overview (S1)
+-------------------------
+
+First, you must select one of the four brave Saxon knights. Each knight has
+different ratings for jousting, leadership, and swordplay as follows:
+
+Saxon Knight              Jousting    Leadership  Swordplay
+-----------------------------------------------------------
+Wilfred of Ivanhoe        8           7           6
+Wolfric the Wild          10          5           5 
+Geoffrey Longsword        6           6           9
+Cedric of Rotherwood      7           10          3
+
+You will battle against three of five Norman knights. For comparison, here are
+the ratings for the Normans:
+
+Norman Knight             Jousting    Leadership  Swordplay
+-----------------------------------------------------------
+Brian de Bois-Guilbert    10          8           8
+Edmund the Grim           5           10          8
+Phillip Malvoisin         8           7           6   
+Roger Falconbridge        8           8           9
+Reginald Front-de-Boeuf   7           5           10
+
+Then, you will first view the map of England. You will begin in one of the three
+castles in the north of the map, along with two other Saxon lords (the Saxon
+starting castles are marked with * on the map below). Three Norman lords will be
+chosen, and will occupy the three castles in the south (marked with a + on the
+map). As you can see, the Norman knights have a significant starting advantage
+both in abilities and in having richer territories. But don't despair! You're
+smarter than them, and you've got a few extra tricks available to you.
+
+Here's a rough text representation of the map. The number in parentheses
+indicates the gold income of the territory:
+
+     *Cumbria (3)     Yorkshire (2)
+
+     Lancashire (4)  *Nottingham (2) Lincoln-
+                                     shire (3)   +Nor-
+Gwynedd (2)         Leicester (2)       Cam-      folk (6)
+         *Clwyd (3)          +Bucking-  bridge (5)
+Glamorgan (1)  Gloucester (7) ham (8)   Essex (6)
+
++Cornwall (8)  Dorset (4)     Hampshire (3) Sussex (7)
+
+Sherwood Forest is also located on the map, between Yorkshire and Nottingham.
+It's not a regular territory like the rest, but if you click on it while
+selecting a target for battles or raids, it will have the same effect as
+choosing the "See Robin" option.
+
+Next, your turn begins. On your turn, you may take ONE of the following actions:
+* "Hold Tournament". In the tournament, knights will compete against each other
+in jousting for fame and land. Winning a tournament can greatly strengthen your
+position in the game. See Section 2.
+* "Seek Conquest". This allows you to move your campaign army, transfer men to
+and from your army, and attack new territories. See Section 3 for more details.
+* "Go Raiding". This allows you to raid a castle (either Saxon or Norman) to try
+to steal their treasure. See Section 5 below.
+* "Buy Soldiers". This allows you to purchase new soldiers (1 gold each),
+knights (8 gold each), catapults (15 gold each), or castles (20 gold each).
+Everything you buy, except castles, will be placed at your home castle. When you
+buy a castle, you will be prompted to choose the territory you want to put it
+on. Hold down the mouse button if you want to buy a lot of soldiers at once.
+
+You can also choose to end your turn without doing any of the above, but
+generally it's a good idea to do at least something.
+
+You can also use the "Read Map" option (under "Seek Conquest") to get various
+information about the current state of England. This does not count as your
+action (and indeed it's a good idea to check things before taking action!), so
+you can use the "Continue" option to return to the main menu to take another
+action.
+* "Territory" gives you basic information about a territory, including its
+current owner (if any), number of soldiers, and monthly income.
+* "Spies" shows the current composition of each player's campaign army and its
+location. Although the manual claims that this will cost you gold, this doesn't
+actually appear to be the case.
+* "Show Lords" shows the basic abilities of each lord, as well as their current
+income and treasure.
+
+Finally, you may use the "Quit/Save" option to save your game at any point,
+restore a saved game, or quit.
+
+After you finish your turn, then all of the other lords take a turn. The game
+continues in this manner until you win or lose (see Section 7, "Winning and
+Losing").
+
+At the beginning of each turn, various random events may occur. These include:
+* Robin gives all Saxon lords 25 gold
+* Norman rogues sabotage your catapults (the message says "best catapult", but
+it appears to destroy all of the catapults in your campaign army)
+* Some of your troops desert to the Normans
+* Viking raids kill some of your men at your home castle
+* Danish raids cause you to lose one territory
+* A kidnapped lady needs your help (see Section 6 below)
+* German knights join your army
+
+-------------------
+2. Tournaments (S2)
+-------------------
+
+Tournaments offer you the chance to joust with other lords for fame and glory.
+To start a tournament, just choose "Hold Tournament" as your action in a turn.
+This costs 5 gold. Occasionally, other lords will choose to hold a tournament
+during their turn, in which case you automatically join the tournament.
+(Attendance is mandatory, even if you're a bad jouster and would rather skip the
+tournament.) You cannot call a tournament if there already was a tournament last
+turn.
+
+In a tournament, first select your opponent. You then choose the stakes: if you
+choose "Fame", then you will gain 1 leadership point from your opponent if you
+win, and vice-versa if you lose. If you choose "Land", then you choose a
+territory that you would like to gain if you win, and your opponent does the
+same. Note that you cannot choose a home castle as the territory at stake; if
+either you or your opponent has only a home castle left, then you must joust for
+fame. Also, you can't go above 10 leadership points, so if you're already at 10,
+there's not much point to jousting for fame.
+
+The actual joust is pretty straightforward, but difficult. As your horse rides
+towards the opponent, your lance will bounce around, and you want to keep it
+focused on the center of the cross in your opponent's shield. Once your opponent
+is close, click to thrust. If you've done it right, your lance will flash. Don't
+click too early, otherwise you'll just get a beep! This will take some practice
+to get right.
+
+If you're close enough to the center (depending on your and your opponent's
+jousting rating, and possibly also on how good your timing was), you'll
+successfully knock your opponent off his horse. If not, you will likely be
+unhorsed yourself, although if your opponent also has a bad jousting rating,
+then it's possible you'll both miss, in which case you circle around and make
+another pass (as many as necessary to decide a winner).
+
+In some versions, if you hit your opponent's horse, your dishonorable behavior
+will cause you to be stripped of all your lands. However, that doesn't appear to
+be the case in this version; no matter how bad your aim is, it seems like the
+worst that can happen is that you get unhorsed.
+
+The tournament continues until:
+* You lose, which ends the tournament (at least for you).
+* You win 3 rounds, in which case you become the tournament champion.
+* There are no opponents left (i.e., there were fewer than 3 other lords to
+start with and you defeated them all). In this case, somewhat strangely, you get
+the same message as when you lose.
+
+Even with Wolfric, jousting is quite difficult! See Section 8 for strategy tips.
+
+----------------------------
+3. Conquest and Battles (S3)
+----------------------------
+
+To conquer other territories, you must move your campaign army into them. To
+manage your campaign army, use the "Seek Conquest" menu option. This brings up
+several possibilities:
+* "Move Army" allows you to move your army from one territory to another. You
+can move up to four times; after that, your move and turn ends. You can move
+freely through your own territory. If you move into an unoccupied or enemy
+territory, your move ends and you attempt to capture the territory. If you move
+into a territory occupied by a friendly Saxon, you are given the opportunity to
+seek safe passage, which allows you to pass through the territory, or to attack.
+All Saxons start friendly, but over the course of the game, they become no
+longer friendly; I'm not sure what triggers this (obviously, attacking them
+will, but they can also become unfriendly on their own). Note that once you've
+started moving your army, using "Continue" will end your turn; you can't choose
+another action.
+* "Transfer Men" allows you to move men between your campaign army and the
+garrison in the territory. This is most useful at your home castle, so you can
+pick up newly purchased troops, but you can also use it to garrison your other
+territories. Transferring does not cost any action, and you can go back to the
+main action menu if you've transferred but haven't yet moved. For obvious
+reasons, you can't use this option if you're passing through friendly Saxon
+territory.
+* "Read Map" is described above.
+* "See Robin" will take you to Sherwood Forest to seek Robin's aid in the coming
+battle. This feature can be used up to a total of three times in the game. If
+you get Robin's aid, he will give you a number of men, ranging from 5 to 50, at
+the beginning of the battle. The amount seems to be greater as the game goes on,
+but there may also be a random factor.
+
+When you attempt to conquer a territory, one of the following things happens:
+* If you don't have any men in your campaign army, then you immediately retreat
+and your turn ends.
+* If the territory is unoccupied, then you capture the territory without a
+battle.
+* If the territory contains a castle, then if you have a catapult, you proceed
+to a siege (see Section 4, Sieges). If you do not have a catapult, then you
+immediately retreat to the territory you came from and your turn ends.
+* Otherwise, you begin a battle in the territory and the battle screen comes up.
+
+Note that all territories have a certain intrinsic number of soldiers (usually
+in the range 3-6) that serve as a garrison army for the territory. This number
+can be seen in the "Territories" option of the "Read Map" menu. You can add to
+the garrison, or transfer the garrison to your campaign army, using the
+"Transfer Men" option. It appears that when a territory is conquered, its
+garrison is automatically replenished. If no campaign army is present to defend
+a territory, then only the garrison will fight.
+
+In the battle screen, you see the current strength of your army and the enemy
+army, and the following tactics are available:
+* Ferocious Attack
+* Stand & Fight (you start with this one selected)
+* Bombard
+* Hold
+* Outflank
+* Retreat!
+Retreat will end the battle (after a short delay) and your army will retreat to
+the territory it came from. The others can be used to change your tactics. They
+are not very well documented (the Atari ST manual is the only one that has
+details, but I have no idea if it's the same in this version), but here's what
+I've been able to find:
+* Ferocious Attack may increase your odds of winning when outnumbered, but at
+the cost of more casualties. It is more effective with more knights.
+* Bombard brings the catapults into the battle, so if you have more catapults
+than your enemy this may be helpful (but that's pretty rare).
+* Outflank claims to increase the effect of leadership (on the other hand, the
+NES manual claims that Outflank is also useful when you have lower leadership
+but a larger army).
+* I can't find what's different between "Stand & Fight" and "Hold" at all.
+
+In practice, though, most of these seem to have a pretty marginal effect on the
+progress of the battle, so normally I just stick with the default Stand & Fight.
+
+If you win the battle, you capture the territory. If your army is wiped out,
+then you return to your home castle. It is possible for both sides to be
+eliminated; in this case, the territory becomes unoccupied.
+
+It is also possible for other lords to attack your army on their turn, in which
+case the battle proceeds the same way, except you can't retreat.
+
+--------------
+4. Sieges (S4)
+--------------
+
+To conquer a territory with a castle, you must first conduct a siege. In order
+to besiege a castle, you MUST have at least one catapult in your campaign army;
+otherwise, you will simply retreat to the territory you came from.
+
+When the siege begins, the siege screen is displayed. This indicates the current
+strength of each army, the castle strength, and your different kinds of catapult
+ammunition. A full siege lasts 8 days, and you have 6 boulders, 2 Greek fire,
+and 1 disease (so you will be able to fire everything except one item). The
+enemy castle starts with 90 strength. If you already have an overwhelming
+advantage and want to start the battle early, you can also click the "Start
+Battle" button to immediately end the siege and proceed to battle.
+
+Once you've chosen your ammunition, you then aim and fire your catapult. Click
+and hold the mouse button to pull the catapult arm down; then, when it's reached
+the desired tension, release the button to send the projectile flying towards
+the walls. Each projectile should be used slightly differently:
+* Boulders will knock down the enemy wall, reducing its strength. In order for
+the boulder to do damage, you must aim it at the top part of the (remaining)
+wall. Too high and it will fly harmlessly over, and too low and it will bounce
+off. As a result, you have to keep adjusting your aim after each successful hit
+to aim a little lower. Each hit reduces the strength by 10, so if you have a
+perfect run, in which you successfully hit with all six boulders (difficult, but
+not impossible), the enemy castle strength will be reduced all the way to 30.
+* Greek fire can be used to kill enemy troops. In order to do damage, it must be
+fired through a hole in the wall (if it goes over the wall, it will have no
+effect), but other than that, the precise position doesn't seem to matter. It
+will kill approximately 10% of defending troops.
+* Disease can also be used to kill enemy troops. It is extremely effective if
+used properly, but difficult. Like Greek fire, disease must be sent through a
+hole in the wall, and the earlier in the siege you use it, the greater effect it
+has. So the best you can do is to hit the wall with a boulder first, and then
+send the disease through that hole. If you do it perfectly (which will require
+some practice), you can kill nearly half the enemy troops with the disease!
+Note that only enemy soldiers are affected by Greek fire and disease; knights
+are immune.
+
+You can get a lot better at sieges with practice, so don't despair if you're
+terrible at first. See Section 8 for some aiming tips to help you become a siege
+master.
+
+When the siege is finished (or you end it early), a regular battle begins. The
+enemy will receive a boost from his remaining castle strength, but otherwise the
+battle proceeds as normal.
+
+If you conquer an enemy's home castle, they are immediately eliminated from the
+game. You gain possession of all of their territories, and their home castle
+becomes an ordinary (secondary) castle.
+
+If the enemy attacks your home castle, you will also fight a siege from the
+other side; since there's nothing to do on your side, it speeds up all of the
+catapult firing into one action. Note that if your campaign army is in an
+adjacent territory, you will have the chance to recall it to defend your home
+castle. Typically, the enemy will only attack when they have an overwhelming
+advantage, however, so your odds are probably pretty bad at this point. You
+don't see the battle if the enemy attacks one of your secondary castles, though.
+
+-------------
+5. Raids (S5)
+-------------
+
+If you find yourself low on cash, you can try raiding enemy castles. If
+successful, this can bring you a great amount of money, and a well-timed raid
+can bring you a huge advantage: if you steal 100 gold from an opponent, that's
+100 soldiers in your army and not his! To raid, choose "Go Raiding" and then
+pick a target. It's probably a good idea to check "Show Lords" first to see who
+has the biggest coffers (and also the weakest swordsmanship).
+
+The raid takes place in two stages. First, you fight outside the castle in the
+courtyard alongside one of your companions, and then you proceed into the
+interior against the captain of the guard. Once you defeat an enemy, move
+through the door at the right to continue; if you defeat both opponents and
+reach the inside of the castle, then you steal most of your opponent's money. If
+you are defeated, then you must pay a ransom (a fraction of your own money) in
+order to be freed. You can also retreat by moving to the left door (in either
+stage), in which case you neither gain nor lose anything, except time.
+
+Raiding is pretty straightforward. The key is not to click too frantically, but
+rather to click and hold so that you actually perform a thrust at your opponent.
+Moving back and forth also seems to help a bit, but as long as you have a decent
+swordplay ability, you shouldn't have too much difficulty. The overall
+difficulty of the fight is determined by the difference between your swordplay
+rating and your opponent's.
+
+When selecting a target to raid, you can also choose "See Robin", in which case
+he will help you in the fight. The effect of this seems to be to boost your
+swordplay ability for the fight; for most lords, you probably don't need this,
+but it can be a huge help with Cedric if you need to win a key raid.
+
+Norman lords will sometimes raid you, or other Saxon lords. (I haven't seen
+other Saxon lords do any raiding, though.) If you get a large amount of gold
+stolen from you, raid back! They won't have had a chance to spend it yet, so you
+should be able to get all that you lost and more.
+
+-----------------------
+6. Rescuing Ladies (S6)
+-----------------------
+
+Sometimes at the beginning of a turn, you will hear that a lady, a ward of one
+of your Saxon allies, has been kidnapped, and you're given the chance to rescue
+her. If you do, you fight a raid in the same way as above; this will take up
+your turn. Note that it appears that the difficulty of the raid is determined by
+the swordplay of the Saxon lord (maybe it was an inside job all along!).
+Refusing to attempt a rescue will cause you to lose a whopping 3 leadership
+points for your cowardice.
+
+If you win and successfully rescue the fair maiden, then two things happen.
+First, the other lord joins your cause -- all of their territories and castles
+become yours, and they disappear from the game. Second, you get a surprisingly
+racy love scene (at least by the standards of 1987), and she becomes your wife.
+There are four possible women to rescue:
+
+Rebecca of York
+Katharine of Nottingham
+Anne of Lancashire
+Rosalind of Bedford
+
+There's no difference between the four other than their picture.
+
+In the original Amiga version, having a lady will improve your success in
+battle. It's not clear if this is the case for this version; if so, it is a
+small effect.
+
+--------------------------
+7. Winning and Losing (S7)
+--------------------------
+
+You lose the game if your home castle is captured.
+
+In order to win, the following conditions must be satisfied:
+- All three Norman lords must be defeated
+- You must be in possession of all three Norman castles
+You do not need to defeat all the Saxon lords to win, but in the late game, they
+do have an annoying habit of capturing your territories, which probably includes
+at least one Norman castle, so if this happens, you'll need to either capture it
+back or just defeat them completely.
+
+---------------------------
+8. Tips and Strategies (S8)
+---------------------------
+
+----- What character should I choose? -----
+
+This depends a lot on your own personal preference. Wilfred is always a solid
+choice, since he's pretty good at all aspects of the game, and is probably the
+best choice for a beginner. I find Geoffrey to be a good pick, since raiding is
+a useful skill throughout the game, and is especially useful when you're behind
+-- it doesn't matter if your enemy is getting more income than you are if you
+can steal it all before he spends it. I'm not very good at jousting, but if you
+are, using Wolfric and calling lots of tournaments can allow you to get lots of
+territory very quickly. Cedric is probably the hardest character to play
+overall; Leadership seems to generally have less of an effect in this version,
+and his weak swordplay is really a disadvantage. (Rescuing a maiden with him is
+very difficult, although if you're lucky it will be Wolfric's ward who gets
+kidnapped, which will give you a decent chance.)
+
+----- Strategy tips -----
+
+* In the early game, it's critical to move quickly, since the Normans start out
+with a large advantage and you need to equalize as quickly as possible. Note
+that the computer generally prioritizes grabbing empty territories over occupied
+territories, so you can use this to your advantage to grab prime territories,
+especially since you get to move first. Also, the computer usually doesn't move
+a lot of people into their army at the beginning, so if you get the chance to
+attack the enemy's campaign army, do it! Not only will you get a territory from
+them, but they'll have to spend a turn rebuilding, slowing them down.
+
+* Use the Spies and Show Lords features extensively! Keep an eye on your
+opponents -- if you see their campaign army is weak, attack! And if you see
+their treasury is getting fat, then raid them. A well-timed raid in the early
+game can be a huge swing, and in the late game, it can be necessary to prevent
+your enemies from building up massive armies.
+
+* Don't forget to ask for Robin's help before a critical battle -- the extra men
+that he provides can easily make the difference in a close battle.
+
+* If you notice that the enemy's campaign army has wandered far away from their
+home castle, see if you can sneak around it to attack their home castle. This
+can be a great way to rid yourself of powerful opponents and gain a lot of
+territory in one fell swoop.
+
+* Be careful of your Saxon allies! They have a nasty habit of betraying you at
+the worst time. In particular, I've noticed that when I capture my second Norman
+castle, I always get attacked at my home castle if I haven't left enough troops
+there. So make sure that you keep a good garrison in your home castle when you
+reach this point in the game. Fortunately, the computer generally doesn't attack
+a castle unless it has very good odds, so usually 30 or so soldiers should be
+sufficient to defend it.
+
+* The game recommends a ratio of 3 soldiers to 1 knight when buying, but in
+general this doesn't really give your knights a lot of protection. I usually end
+up with closer to 10 to 1, at least until the end game when it's easier to
+accumulate large numbers of knights.
+
+----- Jousting tips -----
+
+Jousting is difficult, but with some practice, you should be able to win
+tournaments, at least with Wolfric. It's even possible with Wilfred or Cedric,
+once you get enough experience.
+
+* Obviously, pay attention to the jousting rating of your opponent; don't fight
+strong opponents unless you have to. If you are fighting a strong opponent, it's
+better to bet fame than land, since losing a leadership point is less harmful
+than losing a key territory.
+
+* To get the timing right, you can notice that as you ride towards your
+opponent, your lance will bounce down and then up a total of three times (along
+with the other jiggling it's doing, of course). The best time to strike is when
+it bounces up the third time, so try to get your lance in position so it'll be
+in the right place at that time. (This works perfectly for Wolfric; for other
+knights, you might have to click a little earlier in order to avoid being too
+late.)
+
+* If you are using a character who's bad at jousting and expect to lose, joust
+against one of your Saxon allies, so at least you're not giving leadership
+points to your enemies.
+
+----- Siege tips -----
+
+You can definitely improve at sieges with practice and strategy, so take the
+time to learn how to aim your catapult and your siege performance will get much
+better. The catapult requires a fair amount of precision -- you often have to
+get within a pixel or two in order to record a hit.
+
+* The ideal strategy is to hit the wall once, then throw in disease, then hit
+the wall 5 more times, and then throw in Greek fire with your last shot. Since
+Greek fire doesn't depend on time like disease does, you might as well make the
+gap as large as possible before throwing it in. Depending on the situation, you
+might want to save your last boulder and throw Greek fire with both of your last
+two shots.
+
+* A cheap but effective tactic against a strong enemy is to follow the above
+pattern with two Greek fires, and then start the battle and immediately retreat.
+This will significantly weaken his army, so he'll have to either come out and
+fight you outside the castle, or if he stays inside, you can repeat the tactic
+again next turn.
+
+* The best way to aim your catapult is to align the top of the basket with the
+dark crossbar in the catapult. There are three parts of this crossbar: the lower
+band (spotted), the middle part (vertical stripes), and the top band (solid
+black). There are also two types of enemy castles, which have slightly different
+ranges. The more common castle just has a large tree on the left, and here are
+the alignment points for each shot:
+1. a couple of pixels below the bottom of the bottom band
+2. at the bottom of the bottom band, or a pixel or two above
+3. at the top of the bottom band, or a couple of pixels above (this shot seems
+to have the greatest range of possibilities for you to get a hit)
+4. at the bottom of the top band
+5. at the middle of the diagonal brace on the left
+6. about 1/3 of the way down the diagonal brace on the left
+
+Occasionally you will encounter a castle that has a waterfall on the left side
+(actually this might be a thundercloud, as it was in the Amiga version, but it's
+hard to tell). In this case the wall is a little farther away, so you have to
+adjust your aim:
+1. several pixels below the bottom of the bottom band (once the corner of the
+basket is inside the diagonal bar below)
+2. a pixel or two below the bottom of the bottom band
+3. in the middle of the bottom band
+4. a couple of pixels below the bottom of the top band
+5. a couple of pixels above the top of the top band
+6. at the middle of the diagonal brace on the left
+
+----- Raiding tips -----
+
+* In the first stage, just try to knock out the enemy quickly. Keep thrusting
+while moving back and forth, and you should win without too much difficulty
+(unless your swordplay rating is much worse than your opponent). Make sure to
+hold the mouse button down when you thrust so you actually reach your enemy.
+
+* The second stage can be easily beaten: just advance until you're both on the
+staircase, and then you can hit your opponent without him being able to hit you
+back. You might need to move forward a little to get into the right position,
+but once you're there, winning is easy.

@@ -1,0 +1,508 @@
+1. Storyline
+______________________
+
+
+In Paperboy, you're a kid who wants to earn some money delivering papers for 
+the Daily Sun.  But the only paperboy route open is down the roughest, 
+toughest, most dangerous street in town.
+
+But of course, you signed on anyway.
+
+If you can successfully deliver papers without getting too battered (or losing 
+all your customers) for one week, you'll have enough money to last you a long 
+time.
+
+Any questions?
+
+
+___________________
+
+2. Controls
+___________________
+
+
+Okay, so you've never played Paperboy before.  That's understandable, I'm sure 
+that a lot of people haven't.  So, I guess you'll want to know the Controls:
+
+
+D Pad Up: Speeds up 
+D Pad Left/Right: Turns
+D Pad Down: Brakes
+
+A/B: Throws Paper
+
+Start: Pauses the game
+Select: Selects the Number of Players at the menu screen
+
+The Select button serves no other function used during the game.
+
+I hope you have these down, because they couldn't be any easier to understand!
+
+
+__________________________
+
+3. The Absolute Basics
+__________________________
+
+
+Okay, we've started the game and are prepared to deliver some papers.  Now 
+what?
+
+Well, first of all, at the beginning a picture of the street will appear, and 
+it will show red and blue houses.  The Blue houses are the ones that you 
+deliver papers to, and the Red ones you can leave well enough alone.
+
+The houses are their respectable red and blue colors both on the map, and 
+during the game.
+
+NOTE: White, blue, and yellow houses are all subscribers.  In other words, all 
+of the non-red houses are subscribers!
+
+Now you have to deliver papers to all of the blue houses.  That means getting 
+a paper in the mailbox or on the doorstep of each house.  Note that getting a 
+paper in the mailbox will earn you more points.
+
+Oh yeah, and if you miss a house, or break one of their windows, they'll 
+cancel their subscription!
+
+If you should make a perfect delivery, that is, get a paper to every 
+subscribing house, someone will resubscribe and you'll have another customer.
+
+But, as you might have expected, the street is full of enemies and obstacles 
+that are determined to make sure that this doesn't happen!  Your other job is 
+to avoid all of these hazards, making sure that you don't get a broken back by 
+crashing your bike into something.
+
+You can also have a little fun, too.  There are lots of windows to break, 
+garbage cans to knock over, and little trees to damage, which will earn you a 
+lot of points!  Just simply throw a paper, and if your aim is good, you'll get 
+some points.
+
+Just make sure you only break the windows on the red houses, not the blue!
+
+If you make it to the end of the street, you get to run through the Training 
+Course!
+
+And then, it's on to the next day.
+
+________________________
+
+4. Types of Houses
+________________________
+
+
+Of course, not all of the houses on the street are the same.  But there are 
+only 6 basic types of houses, three that start out red, and three that start 
+out blue, so I've listed some notes about them here.
+
+
+Blue Houses
+-----------------
+
+#1. The Small House
+
+Description: A small house with attached garage.  The doorstep is located in 
+the center, but the mailbox is on the other side of a window, located closer 
+to the garage.
+Notes: With this house, I usually aim for the doorstep.  Whenever you go for 
+the mailbox, there is a large chance that you might break that annoying 
+window, making you lose that house.
+
+
+#2. The House of Windows
+
+Description: A larger house, shaped like an L.  There are lots of windows on 
+every side.  The mailbox is right next to the doorstep, which is located at 
+the corner of the L.
+Notes: On this house, just aim for the doorstep, as there is a good chance 
+that you might make it in the mailbox.  If this house unsubscribes (turns red) 
+then start madly throwing papers, because it's easy to break lots of windows 
+on this house!
+
+
+#3. The Square House
+
+Description: The house itself isn't really square, it just seems that way.  
+There are lots of windows on the back of the house, and the mailbox and 
+doorstep are located on the front side, right next to each other.  There is a 
+large driveway, so you can ride your bike up close to the house and deliver 
+your paper.
+Notes: This is the easiest house to hit the mailbox!  Just ride right up 
+close, and throw right when you get to the mailbox.  It couldn't be any 
+simpler!
+
+
+The Red Houses
+------------------
+
+#1. The Slanty Z House
+
+Description: This house is laid out in the shape of a Z, only slanted a 
+little.  There are a few windows scattered around, and two tombstones in 
+front.  The doorstep is large and very easy to hit with a paper.
+Notes: This is the best red house to get for a resubscriber, as the doorstep 
+is easier to hit than the other houses.  There are only a few scattered 
+windows, so breaking them will take careful aim.
+
+
+#2. The Hidden Doorway House
+
+Description: This house is laid out in the shape of a slanted I.  The doorway 
+is tilted to one side, so it is impossible to see the doorstep.  The house 
+itself is very small, and has a large driveway, ideal for riding through.
+Notes: This is the worst house to get for a resubscriber.  As I said before, 
+the doorway is tilted so it is hard to see exactly where to throw the paper.  
+Try to get up close for a better shot, if the situation calls for it.
+
+
+#3. The Mansion
+
+Description: A larger house, it is built in the shape of a square, with 
+sloping roofs and twin towers next to the front door.  An easy to hit line of 
+windows is located to the right of the doorway.
+Notes: This is a great house to break windows on!  The line of the three 
+windows to the right of the doorway is perfect for breaking, and there are a 
+few other easy ones scattered around as well.
+
+
+_________________________
+
+5. Points and Scoring
+_________________________
+
+Here are the point values for various objects throughout the game.  The point 
+values stay the same in every level.
+
+
+Street
+================================
+
+Bundle of Papers: 50 Points
+
+Successful Delivery to the Doorstep: 300 Points
+
+Successful Delivery to the Mailbox: 700 Points
+
+Broken Window: 300 Points
+
+Trash Cans: 300 Points
+
+Small Palm Trees: 300 Points
+
+Stone Posts: 300 Points
+
+Tombstones: 300 Points
+
+
+Training Course
+================================
+
+Circular Targets: 200 Points
+
+Square Targets: 100 Points
+
+Time Bonus: 100 Points for every second remaining.
+
+
+If I've missed anything, email me about it.
+
+
+_______________________
+
+6. The Enemies
+_______________________
+
+
+Throughout the game, many people and things are always trying to gang up on 
+you to force you to crash, and then quit your job.  I classify an enemy as 
+"Anything that moves, but does not necessarily have a mind of it's own."
+
+Some of these enemies will not appear on Monday, and will instead be found 
+starting on Tuesday, and will continue to show up through Sunday.  This is 
+noted where applicable.
+
+
+Bicycle Tire
+These things roll around in a predictable square pattern.  Watch the pattern, 
+so that you won't be caught by surprise.  You could also hit it with a paper 
+to stop it rolling.  Don't you wish a real tire could roll forever without 
+falling down?
+
+Remote Controlled Car
+Like the Tire, the remote controlled car drives around in a square pattern.  
+You can also hit this one with a paper to stop it.
+
+Skateboarder
+Remember back in the 80s, when skateboarding was considered cool by all?  The 
+skateboarder in the game, however, pops out of nowhere coming down the 
+sidewalk at you at high speeds.  If you see him, drive on to the lawn of a 
+nearby house to get out of his way.
+
+Grandma
+Why would an old lady be so mad at the local paperboy?  As you speed by a 
+house, she'll pop out and start running after you with a rolling pin.  Just 
+ride away quickly to get away from her.
+
+Kicking Man
+The standing joke over at my house is that this guy is trying to put his pants 
+on while lying down in the middle of the sidewalk.  I usually just ride around 
+him.  If you hit this nut with a paper, he'll stop kicking, but he'll still be 
+in your way.  I've also heard that this guy is just break dancing.
+
+Construction Worker
+He just stands there, jackhamering away, not making any holes of any kind, 
+just jackhammering away.  He's also blocking your way!  Most people just ride 
+around him, like with the kicking man.
+
+Go Kart
+Some little kid has come out here to play with his go kart.  He just pedals 
+out of the driveway and stops.  Sometimes he blocks your way, sometimes not.  
+If he does, just ride around him.
+
+Dog
+This annoying mutt can be found alongside most doghouses.  If you ride by, 
+he'll start to chase you.  When he does, throw a paper at him to make him 
+stop!  If you don't, he'll keep following you, and will manage to attack you 
+if you make any left turns.
+
+Motorcycle Dudes
+At the two intersections, you can always find these guys driving along.  Brake 
+if you see them coming in front of you, and speed up if they're coming right 
+at you.
+
+Man in Sewer
+Some nut job is hiding out in the sewer, poking his head up in random 
+locations.  He's usually not much of a problem, as all of the sewers are on 
+the street, but he can catch you by surprise if he pops up right in front of 
+you.
+
+Running Kid
+As you ride by, kids will run across the sidewalk right in front of you.  
+They'll keep running until they go off screen.  If you see one coming, hit the 
+brakes!  Some also say that this mysterious figure is a lawn ornament that has 
+come to life, but no one really knows for sure...
+
+Cars
+All of the moving cars on the street are red, and they're headed in your 
+direction!  They are very hard to get around if you're in the street, which is 
+why I like to stay on the sidewalk.
+
+Dust Devil
+This little cyclone (tornado) will come up behind you and get in the way.  
+Pedal at full speed to avoid crashing into it!  The cyclone does not appear on 
+Monday.
+
+Death
+The Grim Reaper, much like the kid on the go kart, will walk into the middle 
+of the sidewalk, sometimes blocking your path, and sometimes not.  He does not 
+appear on Monday.
+
+
+___________________
+
+7. The Obstacles
+___________________
+
+
+I classify an obstacle by anything that does not move, but can kill you.  
+Houses are not counted as obstacles.
+
+
+Parked Car
+These green antiques are always parked right up next to the curb, so it's easy 
+to crash into them!  Be especially wary if you are riding in the street!
+
+Miniature Fences
+Is there a gardener in the house?  These little fences do nothing but take up 
+space in the front yards of houses, making them easy to crash into if you're 
+cutting across lawns.
+
+Drainage Grates
+Who crashes their bike when they hit one of these on the street?  Not me!  Oh 
+well, these must be special.  They appear right next to the paths between the 
+street and the sidewalk, so watch out for them!
+
+Trash Cans
+These always appear two at a time.  While you can crash into them, you can 
+also get 300 Points for hitting them with a newspaper!
+
+Miniature Palm Trees
+Like the trash cans, you can pick up 300 points for hitting these with a 
+paper, and they also come two at a time.
+
+Stone Posts
+They're small, they appear on the corners of yards, and they make a funny 
+sound if you hit them with a paper.  As a bonus, you'll also get 300 points.
+
+Tombstones
+Who would bury a person in their front yard?  Don't you need a special permit 
+for that?  Anyway, tombstones are found in front of most of the red houses.  
+You can pick up 300 points for knocking them over with a paper.
+
+Large Trees
+The larger, real trees can be found usually on the far left of the screen, 
+where no one ever goes.  With that in mind, we can safely say that they're 
+easy to avoid.  Of course, some also appear in the front of red houses, as an 
+alternative to tombstones.
+
+For Sale Signs
+Is every house on this street for sale?  Probably not, the game just needed 
+another obstacle!  These signs tend to get in the way, so watch out for them!
+
+Lawnmowers
+Remember those hand powered lawnmowers that they always had to use on TV in 
+the 80s?  Well, they're in this game!  When the lawnmowers appear, they're 
+always on the far left of the screen, and are easy to avoid.
+
+Doghouses
+Half the time, it's the dogs that are the danger, not the doghouses!  But, the 
+doghouses are still an obstacle blocking the lawn.  Be careful.
+
+Bushes
+The small lines of bushes appear on lawns.  Drive around them the same way you 
+did with the Miniature Fences.
+
+Fire Hydrants
+The little fire hydrants are always right next to the curb.  They're usually 
+easy to avoid.
+
+
+___________________________________
+
+8. Fun on the Training Course!
+___________________________________
+
+
+At the end of a hard days work, every Paperboy likes to have some fun and fine 
+tune his skills on the training course.  It's also a great place to earn 
+points!
+
+In order to get to the end (and get the final time bonus, no doubt!) you'll 
+have to pass by some tricky little obstacles.  Here's a list of them:
+
+
+Walls
+Walls are everywhere!  Watch out that you don't crash into them!
+
+Normal Ramp
+This is easy.  It's just a ramp!  You can use it to get some air, or you could 
+ride around it!  Just don't crash into the side of it.
+
+Cones
+There are a lot of these, and they get in the way!  Ride around those annoying 
+little things.  
+
+Jump the Pool of Water
+Basically, there's a little ramp next to a little pool of water.  If you can 
+successfully ride up the ramp at high speed, you'll jump over the pool of 
+water.  If you don't, you can either ride around the pool or crash into it.
+
+Moving Walls
+Every once and a while there will be a break in the wall.  Sometimes, there is 
+a little piece of that wall that magically moves back and forth.  You have to 
+ride around it.
+
+Moving Ramps
+These are a little trickier, but can be mastered with practice.  There will be 
+a wall, and a ramp that moves from side to side.  You have to ride up the ramp 
+to make it over the wall.  Make sure that you're riding in the angle of the 
+ramp, or you'll crash for sure!
+
+Jump the Wall
+This is exactly the same as above, only it's easier because the ramp doesn't 
+move.
+
+Targets
+You can crash into these things too.  They're not in your direct way very 
+often, so they're pretty easy to avoid.
+
+
+Point Values for Targets:
+
+Square Targets: 100 Points
+Round Targets: 200 Points
+
+
+Time Bonus
+-------------
+
+At the end of the Training Course (if you can even make it that far) you get a 
+time bonus.  That bonus is 100 Points for every second that you have remaining 
+on the clock.  You start off with 45 seconds.
+
+My best time for completing the Training Course is 19 Seconds.
+
+
+Tips
+
+-Don't worry, because if you crash on the Training Course, you won't lose a 
+life.
+
+-Every time you go over a ramp, your supply of papers will fill up.  So, go 
+over as many ramps as you can!  Thanks to CIDSK8@aol.com for pointing this 
+out!
+
+-You have an almost infinite amount of papers, so don't afraid to a let a few 
+random ones fly at a faraway target!
+
+-Aim for the big round targets; they're worth more points!
+
+-Take the left path for a quicker route, and a lot of targets to hit!
+
+-You can still hit targets while you're in the air.  Keep this in mind when 
+going over some of the ramps.
+
+-On the final stretch, there are a lot of square targets that are easy to hit.  
+They are located in the middle row.
+
+
+_____________________________
+
+9. Scoring & Survival Tips
+_____________________________
+
+
+-If you see a skateboarder coming, ride on to a nearby lawn, fast!
+
+-When you see a group of three windows in a row, throw a few papers.  You have 
+an excellent chance of hitting at least one of them.
+
+-When crossing the street, keep an eye out for bikers.
+
+-On Monday, try to conserve your papers.  To me, it seems like they give you 
+less extra papers that day.  Plus, you have a lot of houses to hit.
+
+-Don't be afraid to cut across lawns to get out of the way of an enemy.
+
+-If the dog starts to chase you, quickly throw a paper at it to get it out of 
+your hair.
+
+-When you see an extra bundle of papers, start throwing wildly before you pick 
+it up.  You might just score a few extra points.  Only do this if you are by a 
+red house so that you won't lose any subscribers.
+
+-Do the same thing with the last house on the road, if it's red.  Your supply 
+of papers always fills back up when you get to the Training Course, so try to 
+score some last minute points!
+
+-Try not to go into the streets.  Cars are always coming, and it's hard to get 
+away from them.
+
+
+_______________________________________
+
+10. A Little Bit on Two Player Mode
+_______________________________________
+
+
+When I say "A Little Bit," I mean a little bit!  Actually, there's not much to 
+tell.
+
+Basically, you and a friend each take a controller, and take turns delivering.  
+When one player crashes, it's the next persons turn.  Each player keeps their 
+own individual score.
+
+If you want to make things a competition, you could say that the person with 
+the highest score wins.
+
+There, all finished.  Told you there wasn't much!

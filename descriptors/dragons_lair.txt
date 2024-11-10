@@ -1,0 +1,349 @@
+===============
+A. Plot / What?
+===============
+
+The fair princess, Daphne has been seized by the evil dragon, 
+Singe and only Dirk the Daring can rescue her from his clutches. 
+On your quest, you must fight your way through the castle of 
+the dark wizard who has enchanted it with treacherous monsters,
+traps and other obstacles. Lead on brave adventurer!
+
+Dragon's lair is a full-motion video game. As scenes play out
+in front of you, you need to tap the proper action for Dirk to
+enact when the time requires. For example, if you're standing in
+a hallway and the wall begins to collapse from the right, you'll
+need to tap the left D-Pad direction once. Each scene requires
+one or more such timing-based direction/button presses. Success
+gets you to the next scene. Failure leads to death.
+
+
+========================
+B. Characters / Controls
+========================
+
+Dirk - "The Daring"
+ Our protagonist. A hapless knight who wants only to rescue the
+ fair Daphne and live happily ever after.
+
+ Since he's the guy you're controlling it might be helpful to
+ keep these tidbits in mind, especially for the walkthrough:
+  (U) = Move up or forward
+  (D) = Move down or backward
+  (R) = Move to the right
+  (L) = Move to the left
+  (S) = Slash (That's the A button!)
+ The game is all about tapping one of these at the right time.
+
+Daphne - "Voluptuous Princess"
+ She's hot and she's a princess, which explains why Singe would
+ kidnap her. She's a rather spoiled brat, but cute and likeable.
+ In the GBC version of the game, she has the only two spoken 
+ lines!
+
+Lizard King
+ Singe's henchman. He's the guy causing Dirk all sorts of 
+ trouble within the castle. If you're good, you'll give him his
+ just desserts about three-quarters of the way through the game.
+
+Singe - "The Dragon"
+ A giant, fire-breathing, magical dragon. Imagine Pete's Dragon,
+ only really ticked-off. He wants to oppress the land of 
+ Ethelred and keep Daphne as his prize.
+
+Everyone else:
+ The Goons
+ The Mud Men
+ Phantom Knight
+ Black Knight
+ The Spectre
+ Skeletons
+ Tentacles
+ Snakes
+ Sea Monsters
+ Vampire Bats
+
+
+==============
+C. Walkthrough
+==============
+
+The Game Boy Color version of Dragon's Lair features every scene from
+the arcade game. However, to fit the entire game into the tiny 4MB of
+space, a few scenes have been shortened and some actions removed. This
+walkthrough is based upon those changes.
+
+Although the Drawbridge and Corridor scenes always come first, the order
+of the rest is based upon how well you're doing in the game.
+
+As you progress through the game, you'll experience mirrors of many of 
+these scenes. When you do, you need to perform the contray of what's 
+shown here. (e.g. If it says L below, you'd perform R in the mirrored 
+version)
+
+To beat the Main Game mode, you'll have to solve each puzzle listed 
+below. Of the 30 scenes, eight will also be mirrored, meaning that 
+you'll actually have to beat ~40 scenes to complete the game. (The
+falling platform scene is used as a seque a lot) You have 5 lives. 
+The Tutorial mode only goes to the point where you meet the red 
+spectre in the baton room OR the Lizard King. E.g. play Main Game.
+
+
+Drawbridge:        After Dirk falls through the drawbridge, tap (S).
+                   This is ALWAYS the first scene.  Note: This area
+                   does not repeat.
+
+
+End of Corridor:   Dirk is facing three doors. The room will begin to
+                   crumble. Tap (R) when the floor begins to darken.
+                   This is ALWAYS the second scene, BUT repeats a lot
+                   during the course of the game.
+
+
+Closing Wall:      Dirk is in a purple bedroom. Suddenly the room
+                   begins to fill with green bricks. Tap (U). This
+                   stage OFTEN follows the above.
+
+
+Drink Me:          Dirk wanders into a room with a bottle on a table
+                   and a door on the right. A sign says "drink me."
+                   Tap (R).
+
+
+Haunted Hallway:   Dirk will be in a long yellow hallway with many 
+                   open doors. As you walk forward, skulls will
+                   pile out - tap (U). A hand will shoot out from
+                   a doorway - tap (S) when it does. More skulls
+                   will appear - tap (U). Another hand - tap (S).
+                   This time more skulls will pile out from behind
+                   and next to the hand - you need to tap in the
+                   direction of the open door. Usually this is
+                   (R) early on and (L) later. In the next room, 
+                   some skeletons will attack - (S)lash them.
+
+
+Dropping Platform: Dirk will walk through a door and onto a purple
+                   platform, which will then begin to drop. Right when
+                   you're level with the ledge or you hear the 
+                   "warning" sound, tap in the direction of the 
+                   ledge. This is usually (L) early on and (R) later.
+                   You can tell which way to tap by how Dirk is facing
+                   right when the platform drops. If he's facing right,
+                   you'll be tapping left. If he's facing left, prepare
+                   to tap right. Why? Why not?
+
+                                     
+Phantom Knight:    A horseman will charge towards Dirk. Your goal here
+                   is to move in the opposite direction spikes appear.
+                   The order is thorns(L), thorns(L), thorns(R). If you
+                   do it right, the horseman's sword will miss as you 
+                   leap into a cave.
+
+
+The Lizard King:   Dirk's sword was just taken by a green creature and
+                   now the Lizard King is after him! The key to this
+                   section is listening to sound and timing. To get
+                   from the room through the hallway, you're going to 
+                   want to do (L), (R), (R), (R), (R), (R). Don't tap
+                   right until you hear the tiny creature's second 
+                   squeak. Visually, that puts you half way down the
+                   hall. Once you reach the dead end, Dirk will
+                   automatically grab his sword. The Lizard King will
+                   attack.  Tap (L), then (S) right away, then tap (L)
+                   and (S) once again - he's toast.  NOTE: This room
+                   does not repeat.
+
+
+The Smithee:       You're in a golden room. Suddenly a glowing hot
+                   sword comes to attack. Tap (S) to parry. An anvil
+                   will appear, priming to fly at you. Simultaneously,
+                   a wall of molten liquid will appear to one side.
+                   You want to tap in the opposite direction, usually
+                   (L). This room can be reversed. Wow, it's missing
+                   4 moves from the arcade version.
+
+
+Cauldron Pot:      Dirk is in a blue/gray laboratory. The cauldron will
+                   bubble over with green goo. Tap (L) as it escapes,
+                   but not too soon. Dirk will examine a bottle. Tap (S)
+                   when you see a puff of smoke. The green monster will
+                   quickly reappear - tap (D), then (R).
+
+
+The Goons:         Dirk comes up through a trapdoor in the floor. To
+                   the right is a stairwell. A blue/purple Goon will
+                   come out of the door, tap (S). More goons will
+                   appear - you'll want to tap (R), (U), (L) to make
+                   it out of here.
+
+
+Pool of Water:     This room can be mirrored. If Dirk's sword is hanging
+                   from the left, the room will crumble on the right. If
+                   it's hanging from the right, the room will crumble from
+                   the left. Here's the solution for when the room begins 
+                   to crumble from the right. (L), (U), wait until the
+                   darts pass, (R), then (U). You'll be in water, tap (L).
+                   On the ledge, tap (U), then (S), wait until Dirk lands
+                   on the closing blocks, then (U). LURULUSU or RULURUSU.
+
+
+Bats & Stairs:     This room is so much easier than in the arcade version.
+                   Ignore the bats. Tap (L) when you reach the stairs (or
+                   when they glimmer). In the next section, same idea, but
+                   tap (R). The next part is just like the first, (L).
+
+
+Mudmen Field:      This one is all about timing. You'll get no audio cues.
+                   When the mudmen appear from the craters, wait. When the
+                   scene switches to the mud plume, tap (U). In the next 
+                   scene, tap (U) when Dirk nears the next crater. At the
+                   lava bridge in the next scene, tap (U) again. Nice, six
+                   less moves than the arcade.
+                 
+
+Burning Ropes:     Listen to the audio cues.  This room crops up a lot and
+                   can be reversed. If you're facing right, pause, then 
+                   tap (R). Wait until you hear a "tic" sound (your arm 
+                   will be extented) - tap (R). Do this three more times, 
+                   (R), (R), (R).  Obviously, if you're facing left, 
+                   you'll substitute in L's.
+
+
+Flying Horse:      Another common room, and often mirrored. Dirk will sit
+                   on a mechanical horse in a light blue room, which will
+                   of course suddenly come alive. You'll be hurled forth
+                   into four walls of fire. If the horse starts left,
+                   you'll tap (R), (L), (R), (L) - once for each new 
+                   screen. If it starts right, you'll do the reverse.
+
+
+Electrical Cave:   This scene began with Dirk trapped in a cage in the
+                   arcade. Here on GBC, though, he's just in a red, blue
+                   and green room. The middle blue section is most 
+                   prominent, and where he's going.  This one is all 
+                   about timing. Wait, when Dirk hops, tap (U). The 
+                   scene will change to chomping doors. When you hear the
+                   second chomp or see the electricity, tap (U), but not 
+                   TOO soon - try _just_ after the first "chomp" at the
+                   earliest. In the next scene, you'll be climbing a 
+                   bridge which is over a spouting geyser. Wait until Dirk
+                   looks behind himself, then tap (L) to cross. This is 
+                   roughly a second after he's on the bridge level with the
+                   geyser.
+
+
+Spinning Batons:   There will be two spinning cudgels, one yellow, one
+                   red. Tap (U) fairly soon, or you'll be smushed. Once
+                   passed, a ghost with a rod will attack. Tap (S) to
+                   kill him, then (D) when the thorns appear. The 
+                   solution is the same when mirrored.
+
+
+Tentacled Ceiling: A green tentacle will appear from the hole in the
+                   ceiling. Tap (S) to slice it. When more tentacles
+                   appear, tap (U), then (R). More tentacles, so tap
+                   (D), then (R), then (L), then (U). Don't do them
+                   too fast - but don't waste a second between presses
+                   either.
+
+
+Sliding Stairs:    If you see a blue sloped staircase, hit (L) ASAP.
+                   You'll slide down safely. Tap (S) to slash the 
+                   monster here. As the scene shifts, tap (L). Wait a
+                   split-second, then tap (L) again. If you see a gush
+                   of water, you failed.
+
+
+Checkerboard       This is one of those rooms it's good to know backwards.
+Floor Knight:      The Black Knight at the top will use his sword to send
+                   charges through the floor at Dirk. Each charge has an
+                   opening which you must jump through. Timing is 
+                   important here, as tapping too soon or too late will 
+                   kill you. It's best to tap once the field has 
+                   surrounded you and you see the opening. You'll do
+                   (L), (R), (U), (R), (L), (R), (L) or the reverse, 
+                   which is (R), (L), (U), (L), (R), (L), (R). Once you
+                   approach the Knight, finish him off with (S).
+      
+
+Electric Throne:   This room often appears right after the Checkerboard
+                   Knight stage. You'll be in a room where water is
+                   seeping across a carpet. This wouldn't be so bad,
+                   except there's an electrical cord hanging in it. The
+                   instant you see this room, tap (R). You'll need to
+                   tap (U) right after that, then wait until Dirk lands
+                   from his second jump and tap (R). When the throne 
+                   turns and you see the charge coming, hit (R) once 
+                   more. The timing is so cruel compared to the arcade
+                   version. You'll die here a lot.
+
+
+Whirlpools:        Dirk is in a boat flowing down a green underground
+                   river. You'll want to move in the opposite direction
+                   of each whirlpool - (R), (L), (R), (L). When you
+                   reach the calm, blue section, tap (U). Wow, it's half
+                   as long as in the arcade. You'll probably never fail
+                   this.
+
+
+Rolling Balls:     You ever play Marble Madness? Dirk's in a curved hall
+                   with red balls rolling around. A black ball will appear
+                   behind him. To pass this section, tap (D) right when a
+                   red ball passes in front of Dirk. 4x(D) will save the 
+                   day. Note: The Spinning Baton stage comes after this a 
+                   lot.
+
+
+Hurricane:         If you just followed Daphne and were sucked into a
+                   doorway, you'll find yourself in a room full of mist
+                   with a glowing orb. Wait a brief moment, then Tap (R).
+
+
+Snakes:            Two snakes will appear. Tap (S) each time. After that,
+                   tap (U) to leave.
+
+
+Room of Fire:      Dirk is in a blue room.  A bench drops.  When 
+                   lightning hits the floor, tap (R). When it leaves and
+                   blue lightning appears, hit (U). After that, more 
+                   yellow flames, so hit (L). Wait a brief moment, then 
+                   hit (L) again.
+
+
+Wooden Catwalk:    Dirk will be walking across a catwalk. There are
+                   two paths - one ahead and one to the right.  When the 
+                   platform begins to crumble, tap (U).  What? No bats?
+
+
+Checkerboard       A red and blue floor will vanish beneath Dirk's 
+Corridor:          feet! The proper key combination is (D), (U), 
+                   (L). Wait until the flame grows before you do the
+                   first down motion though.
+
+
+FINAL LEVEL - THE DRAGON'S LAIR
+
+The short form: (U) (L) (L) (D),  (D) (U) (D),  (S) (S)
+
+The long version:
+Singe, the Dragon, has Daphne stuck inside a crystal prison. Luckily 
+for you, he's asleep! Some treasure will sway, then you'll look at 
+the dragon, then the treasure will flash - tap (U) to grab it. Dirk 
+will look at the sleeping dragon again. Daphne will say "Dirk! Save 
+me!" Tap (L) to jump onto the treasure chest. The dragon will wake up 
+and spew fire - tap (L).  He'll wink at you.  Another batch of 
+expensive dinnerware will fall - tap (D) to catch it.
+
+From this point, Daphne will speak to you again, saying "Dirk, slay 
+the dragon! Get the magic sword!" In the next scene you'll be hiding 
+behind a piller and the dragon will try to crush you with his claws - 
+tap (D). You'll hear two tones, but you need only tap once. The dragon
+will follow you. When the scene changes from his behind to a flame, 
+tap (U) fast! In the next scene, he'll try to grab you behind a pillar
+again, so tap (D). The dragon will pursue.
+
+All you need to do now is get the sword - which Dirk will do 
+automatically. Tap (S) to parry the dragon's flame and then (S) once 
+more to finish him off.
+
+Congratulations - you've beaten the Game Boy Color version of Dragon's 
+Lair.  Max Possible Score = 78,000

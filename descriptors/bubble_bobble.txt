@@ -1,0 +1,983 @@
+() Introduction                                                         [2.0]
+
+                           NOW,IT IS BEGINNING OF A
+                            FANTASTIC STORY!! LET'S
+                               MAKE A JOURNEY TO
+                             THE CAVE OF MONSTERS!
+                                  GOOD LUCK!
+                                  
+These words in rather strange english greet you once you start playing Bubble 
+Bobble, which is a cool oldscool 8bit game on the Sega Master System.
+The game was released on several other Gaming Consoles but this FAQ deals 
+exactly with the SMS Version of the game. There are not that many differences 
+anyways.
+So, welcome to the FAQ. This FAQ was written as part of a FAQ Completion 
+Project that started on the GameFAQs contributor boards and aims to write a 
+complete FAQ for every Sega Master System game in the GameFAQs database. If you 
+want to help out our just want to know more just visit the following website 
+with the always current link the the projecttopic and other interesting facts, 
+stats and stuff:
+
+                      > http://selmiak.bplaced.net/sms
+
+
+
+
+
+
+  () Menues                                                               [3.0]
+
+There are not that many choices to make. 
+After you have seen the start screen with the Bubble Bobble logo you enter the 
+main menu. There you can chose to either start a new game with 1 or two players 
+or continue where you just died.
+Or you can input a password of a high level you noted down to continue from 
+there, this is all quite self explaining. At least I hope so. Button 2 enters a 
+letter and button 1 steps back one letter in case you entered the wrong letter 
+for the password.
+
+
+
+
+
+  () Gameplay and Controls                                                [4.0]
+
+You are one of the two dragons Bub and Bob (depending on the number of players 
+and which controller you are on. Player one is always Bub) and steer them 
+through the 200 levels of Bubble Bobble on the SMS.
+There are platforms in each level and you jump with the Button 2 and can change 
+your position by jumping or by walking around on the platform you are on and 
+dropping down to a platform below. Don't worry, you cannot die by dropping too 
+deep. Actually you can jump through the bottom opening and respawn at the top 
+of 
+the level in some levels. You can steer your jump and destination a bit in 
+midair, but not all that much, keep that in mind when jumping down and there 
+are enemies down there. Which brings us to the next part...
+
+While you are on your journey you meet some enemies. You have to trap them 
+inside your Bubbles and then jump against the bubble while the enemie is 
+trapped inside to get rid of the enemy and make some delicious items appear. 
+You shoot the bubbles with Button 1. 
+
+You can't jump on the heads of the enemies like in other jump run games, you 
+have to trap them inside the bubbles and then pop them open. Make sure to hit 
+the bubbles with your horn or your fins. That's the whole game. Of course there 
+are lots of levels with different layouts. 
+If you touch an enemy or rather an enemy touches you, you lose a life. You 
+start 
+with 3 lifes. The lifes you have left are shown in the lower corner of your 
+side of the screen indicated by the green squares.
+
+
+------- # Extra Scoring
+
+ If you pop 2 bubbles with enemies inside at once you score 2.000 Points
+  For popping 3 bubbles at once you score 4.000 Points
+   For 4 bubbles you score 8.000 Points.
+    For 5 bubbles you score 16.000 Points.
+     For 6 bobbles you score 32.000 Points.
+      And finally for 7 bubbles you score a fantastic 64.000 Points.
+
+
+------- # Extra Lives
+
+You can get an extra life either by completing the word EXTEND with the letter 
+bubbles. See the paragraph just below for more info.
+Or you get a life for a specific amount of points, that are:
+
+30.000, 100.000, 200.000, 400.000 and 1.000.000 Points.
+
+From 1.000.000 Points on you don't get extra lifes any more
+
+
+------- # Bonus Bubbles (EXTEND)
+
+Starting in level 4 there are bonus bubbles with letters on them coming from 
+the bottom opening in a level. If you pop one of these the letter gets added to 
+your side of the screen. They spell out the word EXTEND so try to finish this 
+word up to get an extra live.
+You can make these bubbles appear. For every 3 and more enemies you pop at once
+the extend bubbles will appear from the top in the next round IF the next round
+has an opening to the top.
+
+Here is the list of bubbles and enemies you have to pop at once:
+
+Pop 1 or 2 Enemies      0 bubbles
+    3 enemies           1 bubble
+    4 enemies           2 bubbles
+    5 enemies           3 bubbles
+    6 enemies           4 bubbles
+    7 enemies           5 bubbles
+
+Collecting a blue pearl necklace also grants you a random amount of letter 
+bubbles in the next level with an opening on top. The multiple enemies popped 
+at once add to this.
+
+
+------- # Special Items / Power Ups
+
+      _Orange Laboratory Flask
+
+Sometimes an orange laboratory flask will appear. GRAB THIS. This triggers a 
+bonus game.
+You have to collect dots against the time (or against the other player in 2 
+Player mode) and get 500 Points for every dot you collected and there is plenty 
+of time.
+
+      _Blue Laboratory Flask
+
+This triggers the same minigame as the orange flask but you have to collect 
+flowers. Each flower is also worth 500 points
+
+      _Green Laboratory Flask
+
+This triggers the same minigame as the orange flask but you have to collect 4 
+leaf clovers. Each clover is also worth 500 points
+
+      _Rainbow Laboratory Flask
+
+This triggers the same minigame as the orange flask but you have to collect 
+rainbows. Each rainbow is also worth 500 points
+
+
+      _Red Shoe
+        
+Gives you 100 Points and your Dino walks faster through the level
+
+
+       _Green Ramen Noodles
+
+I'm not sure this is supposed to be ramen, but it is something green in a brown 
+kind of cup. And when you pick this power up up you have machingun bubbles, 
+which is pretty nice to have.
+
+
+      _Blue Bust
+
+Collect it and you can shoot flash bubbles. You will find it in level 80 for 
+sure and maybe somewhere else too.
+
+
+      _Necklace
+
+Once you touch it the necklace turns into a star that bounces around the level 
+in 45° angles and kills everything it touches.
+
+
+      _Blue Book
+
+A blue swirl will start from the middle of the level and slowly work its way to 
+the outer rim of the level. Every enemy it touches is turned to ice. You don't
+even have to collect the enemy now, but every frozen enemy you collect gives 
+you 10000 points.
+
+
+      _Blue Chalice
+
+Stars fly all over the level and kill every enemy they touch. Looking nice and 
+helping a lot, but you get no bonus for it.
+
+
+      _Blue Cross
+        
+Fills the whole screen with some blue stuff and kills all enemies and turns 
+them even into items (diamonds) that give you 700P each.
+
+      _Yellow Cross
+        
+A giant flash crosses the screen from top right to bottom left until all 
+enemies are dead. Of course they just continue on their path but once they 
+touch the flash the die. Your dino is immune to the flash.
+
+
+      _Knive
+        
+It's raining fruit. Hallelujah! And these fruits kill all the enemies and 
+transform into diamonds. Great.
+
+
+       _Flashing Heart
+
+The red and yellow flashing heart with the symbol (of another dragon?) in the 
+middle of the level freezes all enemies so that they don't move around anymore 
+and you just have to bubble and pop them. Or just touch them, that also works.
+And you are faster as if you collected the red shoe. And you should be fast 
+enough to turn all enemies into precious diamonds as the effect last quite long 
+but not forever.
+
+
+      _Blue Umbrella
+
+The blue umbrella lets you skip 3 levels.
+
+      _Yellow Umbrella
+
+The blue umbrella lets you skip 3 levels.
+
+      _Red Umbrella
+
+The red umbrella lets you skip 5 levels.
+
+
+      _Blue Leaf
+
+Pick up the blue leaf and a pixe appears around your dino and circles around 
+him. Every enemy the pixie touches is killed immediately. This lasts for 3 
+stages and won't kill Baron von Blubba.
+I found it the first time in level 135...
+
+
+
+------- # Special Bubbles
+
+      _Blue Bubbles
+
+  Pop open a blue bubble and the blue mass will pour out and run through the   
+  level and grab everything it touches, be it enemies or your dino.
+  You can jump out of the flow every time and so use this power up to reach
+  hard to reach places and kill a lot of enemies at once.
+  
+        
+      _Flash Bubbles
+
+  Jump agains a green flash bubble and the flash will go horizontally across 
+  the level and kill everything it touches on its way. Most of the time the 
+  flashes only travel to the left which can be against what you want in some
+  levels.
+
+        
+      _Flame Bubbles
+
+  Open one of these bubbles and a single flame will fall out and drop down. But 
+  once this single flame reaches solid ground it unleashes its true power.
+  A sea of flames unfolds over a large area of this ground and kills every 
+  enemy the flames touch. If you touch the flames you don't die but you are 
+  stunned for quite a long time so watch out as this could be dangerous agains
+  certain enemies.
+  
+
+
+------- # Angry Enemies
+
+If you stay for too long in one level the enemies get angry that you haven't 
+killed them yet and turn red. The are now faster and attacking you a bit more 
+aggressive. You better finish this level before the next thing happens.
+
+
+------- # Hurry up
+
+After you've seen an enemy turn red and become angry some more time can pass 
+but sooner or later the sign 'Hurry Up' will appear. The music gets faster and 
+the enemies also get a speedboost again.
+Then again after some time Baron von Blubba, that looks like a white Monsta 
+will appear. He will move slow but with big moves when he moves. Baron von 
+Blubba can not be killed or be trapped in bubbles. And if he touches you, you 
+lose a life.
+If you manage to bubble all enemies before Baron von Blubba touches you the 
+level is done. If you get killed by an enemy Baron von Blubba disappears too 
+and the music is back to normal. But Baron von Blubba can reappear if you are 
+playing too slow again.
+Once you've seen Baron von Blubba you only get bad Items that are not worth a 
+lot of points in the next level. But after you play good again all the normal 
+good items will reappear.
+
+
+------- # Ingame Calculations for 'random' things to happen
+
+As you might have noticed from the quotes in the headline of this paragraph, 
+all events that appear to be random in Bubble Bobble are not random at all but 
+determined by some parameters that this paragraph will cover now. This will 
+help you to actively get some events to appear and happen.
+
+
+EVENT: Turn all bubbles on screen into candy/fruit
+       when the last enemy is killed
+
+This happens automatically on every 5th level starting with level 5 and when 
+you collect the treasure chest or candy cane item.
+But also happens seemingly randomly over the course of the game. But is it 
+really random? No, you can make it happen on purpose.
+
+But How? Just have the second to last and third to last digit of your score be 
+the same number when you kill the last enemie. For example 324110 points 
+(notice the 11) or 38660 (notice the 66) will do the trick and every bubble 
+still on screen will turn into something nice for you to collect.
+To get to this amount of points just burst some bubbles, this gives you 10 
+points each time and you can get to a double number pretty easy.
+It is even easier if you are playing with two players, so one player can set up 
+his score to be a double in the second to last and third to last digit and the 
+other playerer kills the last enemy.
+
+
+
+
+
+
+  () THE ENEMIES                                                          [5.0]
+
+The enemy descriptions are written by BSulpher and used with permission.
+
+
+        # Zen-Chan
+
+These are the wind-up baddies that populate many of the levels.  There only
+way of attacking is to touch you.  They can jump gaps, jump through floors,
+and walk around.  They first appear on stage 1.
+
+
+        # Mighta 
+
+These are very similar to Zen-Chans but they do not run around as much, and
+they shoot balls of slow moving fire.  They look like little guys in white
+robes.  These guys first appear on stage 6.
+
+
+        # Monsta 
+
+These are purple, flying whales that just fly around on a 90 degree angle.
+They can be very annoying to get in a  bubble since they can go where ever
+they please.  They first appear on stage 10.
+
+
+        # PulPul 
+
+These are floating elephant baddies who kind of move in long, sweeping motions
+horizontally while barely moving vertically.  They first appear on stage 20.
+
+
+        # Banebou 
+
+These are the spring baddies.  They hop instead of walking, which can make it
+exceptionally difficult to trap them at times.  They can jump over gaps, and
+they can jump through floors.  They first appear on stage 30.
+
+
+        # Hidegon 
+
+These fellows throw the first fast moving projectile (fireballs), and they can
+only do the jump through floors jump, not the regular jump for gaps.  They
+first appear in stage 40.
+
+
+        # Space Invader 
+
+These guys can only walk, and have no jumping ability.  This make them sound
+like pushovers, but they are usually strategically placed so you have to
+contend with their deadly laser projectiles.  They first appear on stage 49.
+
+
+        # Drunk 
+
+These guys are the smaller version of the big boss baddie.  He moves just like
+a Zen-Chan, but he also throws a wickedly fast boomeranging bottle.  This
+enemy is tied with the Space Invader as the most dangerous regular baddie you
+will have the misfortune of meeting.  They first appear in stage 49.
+
+
+        # Baron Von Blubba 
+
+This is the special enforcer for the Super Drunk.  He is kept in reserve on
+every level to come get you if you take too long.  First you will be warned
+with a very frantic sounding "HURRY UP!".  This will speed the music up, and
+about ten seconds later, HIS music will hit.  Baron Von Blubba is a skeletal
+Whale, and he will relentlessly follow you around while you desperately try
+to kill the remaining enemies.  He will speed up his movements, and his delay
+in between movements.  If playing with two players, two will appear.  The only
+way to get rid of him is to destroy the enemies, or to get hit by him (at the
+expense of your life reserves, so it is not the preferred method of dealing
+with him).
+
+
+
+
+
+
+  () ITEMS AND SCORES                                                     [6.0]
+  
+ sorted by amount   (if I missed some, feel free to write me an email and tell
+                     me about the item and in which level they appear)
+
+
+        Aubergine                20 P
+        Candy                   100 P
+        Pear                    150 P
+        Blue Ice                200 P
+        Lolipop                 250 P
+        Ice Cup                 350 P
+        Icecream Cup            400 P  
+        Bananas                 500 P
+        Golden Spike            500 P
+        Pizza                   600 P
+        Milkshake               650 P
+        Blue Ocarina            700 P
+        Cake on Plate           700 P
+        Cake                    700 P
+        Cherry                  700 P
+        Orange Fruit            700 P
+        Strawberry              700 P
+        Smiley                  700 P
+        Tuba                    700 P
+        Chicken Leg             750 P
+        Red Leaf                900 P
+        Burger                  950 P
+        Apple                 1.000 P
+        Cake                  1.000 P
+        Teapot                2.000 P
+        Popcorn               4.000 P
+        Sunflower             4.000 P
+        Hotdog                3.000 P
+        3 Diamonds on a rock  5.000 P
+        Magician Hat          5.000 P
+        Blue Diamond          7.000 P
+        Cup of Noodles        8.000 P
+        Neclace with Juwel    8.000 P
+        Medium Crown          9.000 P
+        Big Crown            10.000 P
+
+
+
+
+
+  () LEVELS  001-100                                                      [7.0]
+  
+
+        Levelnumber     Monsters     how many?          Password
+
+        Level 1         Zen-Chan        x3              IEWGKNY7
+
+
+        Level 2         Zen-Chan        x4              IEQGA394
+
+        
+        Level 3         Zen-Chan        x4              IEVGJDUS
+
+        
+        Level 4         Zen-Chan        x6              IEZGIOXR
+
+        
+        Level 5         Zen-Chan        x4              IESG5UDV
+
+        
+        Level 6         Zen-Chan        x2              IERG6XOZ
+                        Mighta          x2
+
+        
+        Level 7         Mighta          x4              IE7GMYNW
+
+
+        Level 8         Zen-Chan        x2              IE4GB93Q
+                        Mighta          x2
+
+        
+        Level 9         Mighta          x5              IEXGPRZO
+        
+        
+        Level 10        Zen-Chan        x4              IEUGTSVD
+                        Monsta          x3
+        
+     *  Make sure to catch the door to the crystal ball room.
+        See chapter 7.1 for more info
+        
+        
+        Level 11        Zen-Chan        x3              IE9GJ4QS
+                        Monsta          x4
+
+
+        Level 12        Monsta          x6              IEYGI7WR
+        
+
+        Level 13        Monsta          x7              IE3G5Q4V
+        
+
+        Level 14        Mighta          x2              IENG6W7Z
+                        Monsta          x5
+
+        
+        Level 15        Zen-Chan        x5              IEOGMZRW
+                        Mighta          x2
+
+        
+        Level 16        Monsta          x7              IEDGBVSQ
+
+
+        Level 17        Mighta          x2              IEMXPNEP
+                        Monsta          x5
+        
+        
+        Level 18        Zen-Chan        x6              IEBXT3LT
+        
+        
+        Level 19        Monsta          x7              IE5XFDHF
+
+
+        Level 20        Mighta          x2              IE6XCOGC
+                        PulPul          x3
+        
+
+        Level 21        Zen-Chan        x4              IEJXLUTL
+                        Mighta          x3
+        
+
+        Level 22        PulPul          x4              IEIXEXPE
+
+
+        Level 23        PulPul          x5              IEKXGYCG
+        
+
+        Level 24        PulPul          x7              IEAXH9FH
+
+        
+        Level 25        Monsta          x7              IEGXKR6K
+
+        
+        Level 26        Mighta          x7              IEHXAS5A
+
+
+        Level 27        Monsta          x4              IELXJ4BJ
+                        PulPul          x3
+        
+        
+        Level 28        Mighta          x7              IEEXI7MI
+        
+        
+        Level 29        Mighta          x1              IEFX5QA5
+                        Monsta          x6
+
+
+        Level 30        PulPul          x2              IECX6WK6
+                        Banebou         x5
+        
+
+        Level 31        Mighta          x7              IEPXMZIM
+        
+
+        Level 32        PulPul          x7              IETXBVJB
+
+
+        Level 33        Zen-Chan        x6              IEQHPN9D
+        
+
+        Level 34        Mighta          x7              IEVET3YO
+
+        
+        Level 35        Zen-Chan        x7              IEZHFDXN
+        
+        At first kill the 3 Zen-Chans on ground level. Then...
+        Stand in the middle and shoot bubbles to the left sides so the floor 
+        is filled with about 3-4 bubbles next to each other. Then jump and 
+        shoot a bubble when descending again so another bubble is next to the 
+        wall but above the bubble row on the floor. Then jump from a bubble 
+        close to the middle to the one close to the wall and from there you 
+        jump up and there you know what to do. Just have good timing with the 
+        Zen-Chan's movement above. When he starts going to the left you should 
+        start your move to the left too.
+
+        
+        Level 36        Banebou         x7              IESTCOU3
+
+
+        Level 37        Zen-Chan        x7              IERHLUOY
+        
+        
+        Level 38        Banebou         x7              IE7EEXD9
+        
+        
+        Level 39        Zen-Chan        x7              IE4HGY3U
+
+
+        Level 40        Mighta          x2              IEXAH9NX
+                        Hidegon         x5
+        
+
+        Level 41        PulPul          x7              IEUHKRV4
+        
+
+        Level 42        Hidegon         x7              IE9EASZ7
+
+
+        Level 43        Mighta          x2              IEYHJ4WR
+                        Monsta          x3
+                        Hidegon         x2
+        
+
+        Level 44        Hidegon         x7              IE3TI7QS
+
+        
+        Level 45        Zen-Chan        x7              IENH5Q7Z
+
+        
+        Level 46        Banebou         x7              IEOE6W4V
+
+
+        Level 47        Banebou         x4              IEDHMZSQ
+                        Hidegon         x3
+        
+        
+        Level 48        Big Mighta      x1              IEWABVRW
+
+        Grab the red cross on top of the level to be able to shoot flames at
+        the big mighta. Then hit him ~12 times and he is trapped in a bubble. 
+        Pop the bubble and he is gone.
+        After 10 hits he changes color so you know you are nearly done.
+        
+        
+        Level 49        PulPul          x7              IEBUPNLT
+
+
+        Level 50        Drunk           x7              IE5YT3EP
+
+     *  Make sure to catch the door to the crystal ball room.
+        See chapter 7.1 for more info
+                
+
+        Level 51        Drunk           x7              IE6UGDGH
+        
+
+        Level 52        Drunk           x7              IEJDB7BM
+
+
+        Level 53        PulPul          x7              IEIUKQKA
+        
+
+        Level 54        Mighta          x2              IEKYAWAK
+                        Drunk           x5
+        
+        Kill all Drunks on the lower part as fast as possible and don't let 
+        them get trapped in bubbles and rise as they will gather up there and 
+        this is bad.
+        To get up shoot a bubble towards the middle and bubblejump through the 
+        fat part of the levelstructure to then get off to the side before 
+        touching the monsters from below. Then get up the last bit with a good 
+        timed jump.
+        There is a Hidegon in this room for every Mighta in the Arcade version.
+
+        
+        Level 55        Zen-Chan        x4              IEAUJZJI
+                        Mighta          x3
+
+        
+        Level 56        Zen-Chan        x2              IEG4C9CF
+                        Monsta          x2
+                        Hidegon         x2
+
+
+        Level 57        Drunk           x7              IEHU5R56
+        
+        
+        Level 58        Zen-Chan        x4              IELY6S65
+                        Mighta          x3
+        
+        
+        Level 59        Zen-Chan        x2              IEEUM4MB
+                        Monsta          x3
+                        Hidegon         x2
+                        
+                     Speed              x5?
+
+
+        Level 60        Invader         x4              IEFDHOHG
+        
+
+        Level 61        Invader         x7              IECUPUPT
+        
+
+        Level 62        Drunk           x3              IEPYTXTP
+                        Invader         x3
+
+
+        Level 63        Invader         x7              IETUFYFC
+        
+
+        Level 64        Invader         x6              IEM4IVIJ
+
+        
+        Level 65        Hidegon         x2              IEVLLNUX
+                        Drunk           x3
+                        Invader         x2
+
+        
+        Level 66        PulPul          x4              IEZLE3XU
+                        Hidegon         x3
+
+
+        Level 67        Mighta          x2              IESPM4ZV
+                        Banebou         x2
+                        Invader         x3
+        
+        
+        Level 68        Hidegon         x2              IERPB7VZ
+                        Drunk           x4
+                        Invader         x1
+        
+        
+        Level 69        Mighta          x3              IE7LKQRS
+                        Banebou         x4
+
+
+        Level 70        Mighta          x7              IE4LAWSR
+        (Arcade Level 74)             
+        
+
+        Level 71        Zen-Chan        x2              IEXKFYDO
+                        PulPul          x2
+                        Banebou         x3
+        
+
+        Level 72        Banebou         x7              IEUKC9OD
+
+
+        Level 73        Monsta          x2              IE9L5RQW
+                        Banebou         x1
+                        Hidegon         x4
+        
+
+        Level 74        Banebou         x7              IEYL6SWQ
+        (Arcade Level 70) 
+
+        
+        Level 75        Drunk           x7              IE3PGDY9
+
+        
+        Level 76        Mighta          x1              IENPHO9Y
+                        Banebou         x1
+                        Invader         x5
+
+
+        Level 77        Monsta          x2              IEOLPUN3
+                        PulPul          x3
+                        Invader         x2
+        
+        
+        Level 78        Invader         x7              IEDLTX3N
+        
+        
+        Level 79        Monsta          x7              IEWKJZ47
+
+
+        Level 80        Big Hidegon     x1              IEQKIV74
+        
+        Grab one of the blue busts and you can shoot flash bubbles. Pop them 
+        and hit the huge Hidegon with the flashes. Whatelse. And don't let
+        the big guy and his flames touch you. As there are always some flames #
+        crossing the room on ground level you better stay up on this level.
+        Shooting the flash bubbles at the wall immediately releases the flash, 
+        so it is quite effective to just drop down from the top on the side he 
+        is currently not at.
+        
+
+        Level 81        Hidegon         x7              IE59LNHG
+        
+
+        Level 82        Drunk           x6              IE69E3GH
+                        Invader         x1
+
+
+        Level 83        Drunk           x6              IEJOM465
+                        Invader         x1
+        
+
+        Level 84        Invader         x7              IEIOB756
+
+        
+        Level 85        Invader         x7              IEK9KQIJ
+
+        
+        Level 86        Monsta          x7              IEA9AWJI
+
+
+        Level 87        PulPul          x7              IEG7FYTP
+        
+        
+        Level 88        Zen-Chan        x7              IEH7C9PT
+        
+        
+        Level 89        Hidegon         x7              IEL95RBM
+
+
+        Level 90        Hidegon         x6              IEE96SMB
+
+     *  Make sure to catch the door to the crystal ball room.
+        See chapter 7.1 for more info
+        
+
+        Level 91        PulPul          x7              RYCDXTY9
+        
+
+        Level 92        Zen-Chan        x7              RYPNUP9Y
+
+
+        Level 93        PulPul          x7              RYTYOHN3
+        
+
+        Level 94        Zen-Chan        x4              RYMR4MSR
+                        PulPul          x2
+                        Invader         x1
+
+        
+        Level 95        Drunk           x7              RYB4S647
+
+        
+        Level 96        Invader         x7              RY5RR574
+
+
+        Level 97        Zen-Chan        x3              RYZE9CGH
+                        Hidegon         x2
+                        Drunk           x2
+        
+        
+        Level 98        Drunk           x7              RYSCZJBM
+        
+        
+        Level 99        Monsta          x4              RYRTWA56
+                        PulPul          x1
+                        Drunk           x2
+
+
+        Level 100       Big Drunk       x1              RY7CQK65       
+
+        Even though it sounds like something your withdrawl experts might tell
+        you, but you have to defeat the big drunk. He always moves in 45° 
+        angles and so his movement can be predicted somehow. But the mean thing 
+        is he throws a lot of bottles at you. Dodge them all, grab the black
+        poison like icon on top and shoot the wall with your flashbubble to 
+        make the flashes shoot out pretty fast and hit him 10-11 times.
+        When he starts so flash in red you know you are almost done and need 
+        like 1-2 more hits.
+        
+        After you burst his bubble the 4 normal drunks that formed the Super 
+        Drunk turn to 4 6000 points diamonds and the door in the middle opens 
+        up for you.
+        
+        
+        So, you think it's over now?
+        
+        Wrong. Only in all other versions of Bubble Bobble the game ends at
+        level 100, but not the SMS version.
+        
+        Read on to find out how to continue.
+
+
+
+
+
+  () How to reach Levels 101+   (and 3 different endings)                 [7.1]
+  
+
+There are 3 different endings to the SMS version of Bubble Bobble.
+
+------- # Bad Ending
+
+If you just beat the Super Drunk on level 100 without having collected the 3
+magic balls before you get the bad ending.
+There is only text on screen telling you that you got the bad ending and you 
+have to collect the 3 magic balls in level 10, 50 and 90.
+
+
+------- # Normal Ending
+
+But if you manage to collect the 3 magic balls throughout the first 100 levels 
+and then you beat the Super Drunk on level 100 you will get to see the normal 
+ending. There is a wedding going on, you and your second player are marrying 
+your girlfriends, but again they are taken away by evil monsters, so you have 
+to continue playing the set of the next 100 levels to finally see the last 
+ending.
+
+So where are these 3 hidden magic balls you need to continue playing the levels 
+101-200? Okay, here they are:
+
+
+        # Level 10
+        
+Once you cleared the level the hidden door will appear in the top right of the 
+level and lead you to the red crystal ball.
+
+
+        # Level 50
+
+This door will always appear right from the start. Just get in it and you are 
+taken to an important room with the blue crystall ball in it.
+
+
+        # Level 90
+
+To make the door appear you have to grab the bonus item on the top right before 
+it disappears again and then the door will appear. It leads you to a room with 
+the green crystall ball in it.
+
+
+After you got all 3 of them magic balls and finished off the Big Drunk in level 
+100 you can continue playing the next 100 levels. There are even more hidden 
+doors to be found and all of them are explained in the chapter 8.0, right after 
+the levellist below.
+
+
+------- # Good Ending
+
+So of course you need the 3 magic balls from levels 1-100 for this, otherwise
+you are not able to enter levels higher than 100.
+But to finally see the good ending you have to beat the final Boss on the last 
+level, which is level 200 and collect 3 more collectibles and 1 useful item 
+from hidden rooms.
+
+And what items do you need to reach the good ending?
+
+        # Level 115
+        
+This door is hard to find and reach. You have to not kill any of the Hidegons 
+in the room until the Hurry Up appears. You can trap them in bubbles though.
+So you can bubble jump to the first reachable higher platform and wait in 
+there, the Hidegons won't touch you there. Once the Hurry Up message showed up 
+you can start killing the Hidegons. The door is on the right side right there 
+where there are 2 more of these hidegons running around in small space which 
+makes them even more evil.
+
+The bonus room includes only the magic key and no bonus items. But you need the
+key to make all the other doors to the bonus rooms appear in the second 100 
+levels and get all the other magic items for the good ending.
+
+
+        # Level 135
+
+If you have the magic key from the bonus room from level 115 this hidden door 
+will be right there on levelstart but it is rather fun to reach it.
+Just jump up on the left side, wait a bit until all enemies are on the other 
+side, then move under the door and jump up to just touch it.
+
+The bonus room features the red mirror. You need this item to reach the best 
+ending.
+
+        # Level 145
+
+The magic key is not enough, to make further hidden doors appear you need the 
+magic candle.
+To make the door on level 145 appear you have to kill all the drunks with 
+nothing but the flame bubbles. So no bubbling and popping, just burning. This 
+is a fun challenge and not as hard as it sounds.
+An important item than is not really neccessary for the secret doors in level 
+155 and level 195, but the revealed bonus rooms might help you reach the 1k 
+points for level 195...
+
+
+        # Level 155
+
+After some time into the level the blue chalice will appear. Pick it up and
+a black hole opens up sucking all enemies into it. Jump into the black hole as
+it actually is the gate to the blue mirror room.
+
+
+        # Level 195
+
+Close to the last level you have to get another hidden door. Here you actually 
+cannot do that much within the level but you have to have 1.000.000 points on 
+your pointcounter and the door will appear instantly. Otherwise not. Of you are
+playing a two player game it is good enough when you have the 1 million in 
+points combined.
+So get some bonus rooms before (you need the candle and other bonus items to 
+get to the gem rooms) to gather all the points.
+This bonus room is important as it contains the green mirror, the last item
+needed for the best ending.
+
+So, what happens in the best ending?
+You rescue your Girlfriends Betty and Patty and the forest turns back to normal 
+green and there is a lot of love in the air. And you made it! Well, after the 
+next 100 levels.

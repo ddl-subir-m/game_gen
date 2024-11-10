@@ -1,0 +1,290 @@
+Another generic fighting game. Except, you barely do anything in 
+this game, and turning can be confusing, if you ever see this game
+anywhere, either run away or sacrifice it to your local evil cult. 
+
+I'm sorry Ignition Entertainment, but this game just isn't worthy
+for the GBA, it would be better for the GBC. I'm sure you could even
+do a direct port to the GameBoy Color without hesitation, of course
+you'll just need to change the header files to the GBC headers.
+
+====================================================================
+-------------------------- 2. Game Basics --------------------------
+====================================================================
+
+====================================================================
+-                          2.1 Controls                            -
+====================================================================
+
+-------------D-Pad
+Move in the direction pressed.
+
+-------------A Button:
+Menus:     Select
+In-game:   Nothing
+
+-------------B Button:
+Menus:     Cancel Selection
+In-Game:   Nothing
+
+-------------L Button:
+Change game Speed
+
+-------------R Button
+Change game Speed
+
+-------------Start/Pause Button:
+Press the B Button to resume.
+Press the A Button to quit.
+
+-------------Select
+Nothing
+
+====================================================================
+-                          2.2 Menus                               -
+====================================================================
+
+-------------New Game
+This will allow you to start your game.
+
+-------------Password
+Enter a password for some special things to happen.
+
+-------------Options
+
+- Music Volume
+  Here you can change the music volume up or down.
+
+- Sound Volume
+  Here you can change the sound volume up or down.
+
+- Invert Y Axis
+  I suggest you keep it OFF or else it will play much differently
+  and much worse, if you can believe that!
+
+- View Credits
+  View the credits of the people who made the game.
+
+-------------Start/Pause
+Brings up a menu, you can choose to do a few things here.
+
+- Quit
+  Press the A button to quit the game.
+
+- Resume
+  Press the B button to continue playing.
+
+====================================================================
+-                          2.3 HUD                                 -
+====================================================================
+
+Otherwise known as the on-screen display.
+
+                ===================================
+                -        Standard Display         -
+                ===================================
+This is the area you usually play in.
+ __________________________________________________________________
+|    2.   #    2.   #    2.   #      3. LV      4. SPEED = ------  |
+|    OOOOOO    OOOOOO    OOOOOO         ##      5. TIME = ##       |
+|__________________________________________________________________|
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                               1.                                 |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                                        Not to Scale
+1. Area of Play.
+
+2. Displays the amount of points obtained.
+
+3. Displays the current level you are on.
+
+4. Displays the speed of the game. Press L or R to change the speed.
+
+5. Displays the time taken during the game.
+
+====================================================================
+-------------------------- 3. Walkthrough --------------------------
+====================================================================
+
+====================================================================
+-                          3.1 Overview                            -
+====================================================================
+
+Your aim is to be the final winner and get to level 100 (well the 
+end of level 99 anyway), I haven't been able to achieve it, but 
+that's just what I assume, it's either that or the room and 
+variables will just restart, meaning you'll restart the game.
+
+====================================================================
+-                          3.2 Strategies                          -
+====================================================================
+
+- Train, keep training, build up your skills as an International 
+  Karate person. Better skills means a better player.
+
+- Watch what the enemies are doing, you'll eventually notice a 
+  pattern, I pattern is different but they're all basically the 
+  same throughout each of the levels.
+
+- If the game is getting too hard, change the speed to BORING which 
+  will make it go very slow, during this speed type you can
+  see exactly what each enemy is about to do.
+
+- If the game is too easy, change the speed to TURBO, lets see how 
+  long you will last now!
+
+- Keep using the same attacks (well there aren't many anyway), this
+  will make the enemy move back and possibly fall to the ground.
+
+- The game is very repetitive, so just pay attention to the patterns
+  and you should be able to win quickly.
+
+                               THE END
+
+====================================================================
+-------------------------- 4. Move List  ---------------------------
+====================================================================
+ _________________ _______________ _________________________________
+|      Move       |    Buttons    |     Description                 |
+|-----------------+---------------+---------------------------------|
+| Walk backwards  |     Left      | Walk backwards or walk,         |
+|    or block     |    (D-Pad)    | anything else?                  |
+|-----------------+---------------+---------------------------------|
+| Reverse Face    |               | A back punch. You can also turn |
+| Punch and turn  |   Left & Up   | around while doing this move.   |
+| around.         |    (D-Pad)    |                                 |
+|-----------------+---------------+---------------------------------|
+| Jump Up         |  Up (D-pad)   | Hmmm... I wonder...             |
+|-----------------+---------------+---------------------------------|
+| Front Face      |   Up & Right  | Front punch. And turn around.   |
+| Punch.          |    (D-pad)    |                                 |
+|-----------------+---------------+---------------------------------|
+| Walks Forwards  | Right (D-pad) | Walk to the right.              |
+|-----------------+---------------+---------------------------------|
+| Shin Kick       | Down & Right  | A kick to the shins, ha ha!     |
+|-----------------+---------------+---------------------------------|
+| Foot Sweep      | Down (D-pad)  | Yes, clean the ground up (not)  |
+|-----------------+---------------+---------------------------------|
+| Crouching       | Left & Down   | Crouch, then punch, repeat!     |
+| Stomach Punch   |    (D-pad)    |                                 |
+|-----------------+---------------+---------------------------------|
+| Back Flip       |   A + Left    | Flip backwards?                 |
+|-----------------+---------------+---------------------------------|
+| Double Face Kick| A + Left & Up | Kick to the left and right      |
+|-----------------+---------------+---------------------------------|
+| Flying Kick     |    Up & A     | A kick that can fly!            |
+|-----------------+---------------+---------------------------------|
+| Head butt       | Up + Right & A| Grow a butt on your head (not)  |
+|-----------------+---------------+---------------------------------|
+| Stomach Kick    |   Right + A   | Kick a stomach (ouch)           |
+|-----------------+---------------+---------------------------------|
+| High Kick       | Down&Right + A| A kick that is high             |
+|-----------------+---------------+---------------------------------|
+| Reverse Foot    |    Down + A   | A fancy sweeping method!        |
+| Sweep and turn  |               |                                 |
+|-----------------+---------------+---------------------------------|
+| Reverse Face    |   A + Left &  | Turn around and kick a face,    |
+| Kick and turn   |      Down     | boo-yeah! I am so lame!         |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+====================================================================
+-------------------------- 5. Scoreboard ---------------------------
+====================================================================
+       ___________ _____________ _____________ _____________
+      | Position  |    Name     |     Belt    |    Score    |
+      |-----------+-------------+-------------+-------------|
+      |     01    |     JIM     |   Yellow 1  |   10,000    |
+      |     02    |     SU_     |   White 3   |     9900    |
+      |     03    |     BAG     |   White 3   |     9800    |
+      |     04    |     LEY     |   White 3   |     9700    |
+      |     05    |     BMP     |   White 3   |     9600    |
+      |     06    |     ABY     |   White 3   |     9500    |
+      |     07    |     JCB     |   White 3   |     9400    |
+      |     08    |     TUP     |   White 3   |     9300    |
+      |     09    |     MUM     |   White 3   |     9200    |
+      |     10    |     PAT     |   White 3   |     9100    |
+      |     11    |     NIG     |   White 3   |     9000    |
+      |     12    |     CRG     |   White 3   |     8900    |
+      |     13    |     DON     |   White 3   |     8800    |
+      |     14    |     DAV     |   White 3   |     8700    |
+      |     15    |     JEN     |   White 3   |     8600    |
+      |     16    |     PAT     |   White 3   |     8500    |
+      |     17    |     EDD     |   White 3   |     8400    |
+      |     18    |     GUY     |   White 3   |     8300    |
+      |     19    |     MRK     |   White 3   |     8200    |
+      |     20    |     LOL     |   White 3   |     8100    |
+      |     21    |     J.P     |   White 3   |     8000    |
+      |     22    |     V.J     |   White 3   |     7900    |
+      |     23    |     KEL     |   White 3   |     7800    |
+      |     24    |     ADM     |   White 3   |     7700    |
+      |     25    |     GBA     |   White 3   |     7600    |
+      |     26    |     JIM     |   White 3   |     7500    |
+      |     27    |     SU_     |   White 2   |     7400    |
+      |     28    |     BAG     |   White 2   |     7300    |
+      |     29    |     LEY     |   White 2   |     7200    |
+      |     30    |     BMP     |   White 2   |     7100    |
+      |     31    |     ABY     |   White 2   |     7000    |
+      |     32    |     JCB     |   White 2   |     6900    |
+      |     33    |     TAP     |   White 2   |     6800    |
+      |     34    |     MUM     |   White 2   |     6700    |
+      |     35    |     PAT     |   White 2   |     6600    |
+      |     36    |     NIG     |   White 2   |     6500    |
+      |     37    |     CRG     |   White 2   |     6400    |
+      |     38    |     DON     |   White 2   |     6300    |
+      |     39    |     DAV     |   White 2   |     6200    |
+      |     40    |     JEN     |   White 2   |     6100    |
+      |     41    |     PAT     |   White 2   |     6000    |
+      |     42    |     EDD     |   White 1   |     5900    |
+      |     43    |     GUY     |   White 1   |     5800    |
+      |     44    |     MRK     |   White 1   |     5700    |
+      |     45    |     ADE     |   White 1   |     5600    |
+      |     46    |     DLS     |   White 1   |     5500    |
+      |     47    |     AGS     |   White 1   |     5400    |
+      |     48    |     KEL     |   White 1   |     5300    |
+      |     49    |             |             |     5200    |
+      |     50    |             |             |     5100    |
+       ¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+- Theory
+
+I think each name on the score board is a member of the Ignition
+Entertainment staff, except the name's have been (almost) tripled.
+
+And I think I might be right, so yeah, explode with joy or whatever.
+
+====================================================================
+-------------------------- 6. FAQ ----------------------------------
+====================================================================
+
+If you have any questions e-mail me (The link is at the bottom and
+follow The guidelines)
+
+1. I don't understand your guide, what do I do!?
+A: Sometimes I might have gone a little bit further, just try to go
+   on with the game, if you still don't know what to do, e-mail me 
+   and I’ll revise the section(s).
+
+
+2. What's wrong with the graphics?
+A: If you have knowledge of programming then you will probably 
+   understand this; if you check the credits they don't have any 
+   design team, the only programming language (that comes to mind)
+   that doesn't need any of those fancy designers, just programmers
+   is OpenGL, I've used this before and the graphics look similar
+   (even though OpenGL can do much better). 
+
+   It's sad really, they should've really got a small design team,
+   at least that way it would look better.
+
+3. Why are there 2 names missing in the Scoreboards?
+A: I could never find out who they were, I went through that thing
+   like a million times to get it all, but the last 2 went by too 
+   fast for me to see who they were. So call them blanks for now.

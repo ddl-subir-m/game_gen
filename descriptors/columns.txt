@@ -1,0 +1,291 @@
+This section is just a look over all things in the game without going too
+in-depth.
+
+------------
+2.01. Basics
+------------
+
+Columns is a basic puzzle game that's similar to Tetris. Columns of different
+coloured or shaped blocks fall from the top of the screen, and you can
+change the order of these blocks as they fall. When that column rests on the
+bottom or above another column, you take control of another column that will
+fall. 
+
+The aim is to match up three or more of the same shape or colour
+blocks, either vertically, horizontally, or diagonally. When you have, they
+will disappear and points will be added to your score, and the blocks you just
+got rid of adds to your block total. The blocks above then fall down to rest 
+where the old ones were.
+
+The longer you play the higher the levels get - the higher the level, the
+faster the columns will fall. You will keep on going until the blocks the
+reach the very top of the screen, and when that happens, its game over.
+
+------------
+Magic Column
+------------
+
+Once you have made 300 blocks disappear, then you will get a magic column. This
+is a special column that when it lands on a block, all those of the same type
+are destroyed on the screen , regardless of location. For example landing the
+magic column on a red block clears the screen of red blocks.
+
+------------------------
+Changing the Block Order
+------------------------
+
+There are two ways to change the block order using the two buttons. Using
+button I you can cycle the blocks upward, and using button II you can cycle
+the buttons down. Here are some diagrams to show this -
+
+By pressing BUTTON I twice...
+
+ ##              --              ==
+ --     --->     ==     --->     ##
+ ==              ##              --
+
+By pressing BUTTON II twice...
+
+ ##              ==              --
+ --     --->     ##     --->     ==
+ ==              --              ##
+
+--------------
+2.02. Controls
+--------------
+
+Being a puzzle game, there isn't a lot to the controls...
+
+D-Pad     -  Move Columns / select different menu items 
+
+Button I  -  Changes block order upward
+
+Button II -  Changes block order down
+
+
+===============================================================================
+                                3. ONE PLAYER
+===============================================================================
+
+There are two modes within One Player. The Original and Flash modes.
+
+--------------
+3.01. Original
+--------------
+
+This is the main mode of Columns where you play for points.
+
+Options
+-------
+
+Before you start your game, there are a number of options that you can alter
+as you please. You will be asked this every time before you play. To change
+use the D-pad, then to proceed to playing the game press any button.
+
+Top Score:  This is your top score. Sadly they are not saved onto the cart, 
+            so when you switch the game off your scores are erased.
+
+Difficulty: You can change the difficulty here. You can change it to either 
+            EASY, NORMAL, or HARD. The difference between each one is that with
+            EASY there will be a range of 4 blocks, with NORMAL a range of 5, 
+            and HARD a range of 6.
+
+Level:      This changes the speed that the blocks come down at. You can set it
+            from 0 to 9 where 0 is very slow and 9 is lightning fast.
+
+Sound:      There are three different music tunes you can have while you play.
+            Pick either A, B or C.
+
+Blocks:     Change the types of blocks you play with. You can choose from -
+
+            Blocks
+            Gems
+            Playing Card Symbols
+            Dice
+            Fruit
+
+            The game doesn't change based on your choice. Although I think the 
+            Blocks are easiest to play with as they are simple block designs 
+            that are only different in colour.
+
+Game Screen
+-----------
+
+This is the game screen when you play.
+
++--------------------------------+    1 - The area of play.
+|          |          |  ______  |
+|          |          | |   2  | |    2 - Shows what column is coming next
+|          |          | |______| |
+|          |          |    ___   |    3 - How many points you got just for
+|          |          |   |_3_|  |        getting a combo
+|          |    1     |__________|
+|          |          |____4_____|    4 - Displays your score
+|          |          |__________|
+|          |          |____5_____|    5 - Displays how many blocks you got rid
+|          |          |          |        of
+|          |          |__________|
+|          |          |____6_____|    6 - Displays the level that you are on
++--------------------------------+
+
+
+------------
+ 3.02. Flash
+------------
+
+In this mode, you have several rows of blocks to begin with and a flashing
+block that's in the bottom row. This block flashes and is a colour, just like
+any other block. You have to work your way down to this block and destroy it,
+then you win that game.
+
+Options:    Before you start your game, there are a number of options that you
+            can alter as you please. You will be asked this every time before 
+            you play. To change use the D-pad, then to proceed to playing the
+            game press any button.
+
+Best Time:  This is your best time that you got destroyed the flashing block 
+            with. Sadly they are not saved onto the cart, so when you switch 
+            the game off your best time is erased.
+
+Difficulty: You can change the difficulty here. You can change it to either 
+            EASY, NORMAL, or HARD. The difference between each one is that with
+            EASY there will be a range of 4 blocks, with NORMAL a range of 5, 
+            and HARD a range of 6.
+
+High:       This is how high the columns are when you begin. The lowest us 2, 
+            and the highest is 9.
+
+Sound:      There are three different music tunes you can have while you play.
+            Pick either A, B or C.
+
+Blocks:     Change the types of blocks you play with. You can choose from -
+
+            Blocks
+            Gems
+            Playing Card Symbols
+            Dice
+            Fruit
+
+            The game doesn't change based on your choice. Although I think the 
+            Blocks are easiest to play with as they are simple block designs 
+            that are only different in colour.
+
+Game Screen
+-----------
+
+This is the game screen when you play.
+
++--------------------------------+    1 - The area of play.
+|          |          |  ______  |
+|          |          | |   2  | |    2 - Shows what column is coming next
+|          |          | |______| |
+|          |          |          |    3 - Displays the amount of time that you
+|          |          |          |        have played for
+|          |    1     |          |
+|          |          |          |    4 - Displays the level that you are on
+|          |          |          |
+|          |          |   ___    |
+|          |          |  |_3_|   |
+|          |          |__________|
+|          |          |____4_____|
++--------------------------------+
+
+
+===============================================================================
+                                 4. VERSUS
+===============================================================================
+
+I haven't actually played a two player with a friend, so the only information
+that I can provide is that from the manual. If you have played this in versus
+mode and have further information then please email me details about this and
+I will add it into the FAQ.
+
+Versus mode allows you to play against an friend. You will need a Game Gear
+each, a copy of Columns each, and a link cable. You can play both original and
+flash games in versus mode; however the twist is that you can add horizontal
+lines onto your opponents screen by destroying blocks. If you clear four
+blocks or two columns disappear then you add a single line to your opponents
+screen; if you clear five blocks or three columns disappear then you add two
+lines to your opponents. ALSO you don't just add a line your shift it from
+your side to theirs (so if you have 3 lines and they have 1, then you both have
+2 as you shifted one of yours to their side). The column that is falling also
+will disappear when a line is added.
+
+
+===============================================================================
+                              5. HINTS AND TIPS
+===============================================================================
+
+--------------------
+Basic Hints and Tips
+--------------------
+
+• When you are picking your options, pick a block type that you can easily
+  identify when you are combining during game play.
+• When you are more experienced at playing, try more complex combos to get
+  higher scores (see the section below).
+• Keep a close eye on what is coming next, so you can organise what can go
+  where in a more suitable way.
+• Don't panic - especially later on when the levels increase. Also, unless you
+  are very good, keep combos simpler in the later levels.
+• Playing on higher levels means you get more points.
+• Most of all, practice makes perfect. But if no one is perfect, why practice?
+  Hmmm. OK - the more you play, the better you get, just like in any game.
+  Especially puzzle games... ;)
+
+----------------------------------------
+Getting more than three blocks per combo
+----------------------------------------
+
+You can get combos that are more than three blocks. They don't have to be
+in a direct line either, they can stray from the line itself. If there
+are two blocks leading from a block, that's a combo - if one of them blocks
+has another two coming from it, it adds to the combo. Confused? ASCII time.
+
+These are standard three in a line combos -
+   __    __ __ __    __                __
+  |__|  |__|__|__|  |__|__          __|__|
+  |__|                 |__|__    __|__|
+  |__|                    |__|  |__|
+
+As you can see, each one of these blocks is connected to two others. That's
+how the game recognises a combo. So you could have more than one block
+connected to two others, and if you do, you get a bigger combo, meaning more
+blocks are cleared and you get a better score. Here is a few examples -
+ __ __ __          __    __    __
+|__|__|__|__      |__|__|__|  |__|__ __
+         |__|__   |__|__|__   |__|__|__|
+            |__|  |__|  |__|  |__|
+
+So when you playing, keep this in mind to get higher scores.
+
+
+===============================================================================
+                                   6. FAQ'S
+===============================================================================
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Q. Why do my scores / times not saved!?
+
+A. This game does not have battery backup, meaning that when you switch it off
+   your scores and times are gone. Forever. Its a shame really...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Q. How do I play Versus mode?
+
+A. You need an extra game gear, an extra copy of Columns and a link cable.
+   Seeing as this game is now fairly old, getting these items might be a tad
+   tricky and could prove expensive... but if you still want to go for it, then
+   I recommend something like eBay.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Q. Are they any secrets or Easter Eggs or anything?
+
+A. Yes there is. You can get an Alternate Ending. To see this alternate ending,
+   Start a new game in flash mode that is on normal difficulty and the height
+   at normal. Now quit the game after the demonstration mode to see the
+   alternate ending. Thanks to havok6188 for submitting this in the codes
+   section of GameFAQs.

@@ -1,0 +1,446 @@
+Capcom Bowling hit the Arcades in 1988.  I would tell you if it was a smash
+hit, or just another sorry arcade attempt, but unfortunately, I was only one
+year old in 1988.  I think it is a great game to play when you just want to go
+back in time, and leave all the 3-D games alone.
+
+I would have never known this game existed if it wasn't for a neat little
+invention for computers called MAME.  MAME allows you to play old arcade
+games.  The great thing about it is you don't have to waste your quarters.
+
+Once I downloaded this game for MAME, I decided to write a basic FAQ for it,
+so here it is.  Thanks for choosing my FAQ!  I hope this will help you out!
+
+
+    ----------------
+       What's New
+    ----------------
+
+Version 1.0 - This is the first version posted.
+
+
+    ------------------
+       Legal Notice
+    ------------------
+
+This FAQ is (c) 2003 to Michael Tincher.  It may not be used for your own
+profit or on any other site without my permission.  If you see this FAQ on any
+that is NOT on my Site Permission List, please contact me immediately.  If you
+would like to use this FAQ on another site, contact me and ask me if you can
+use it.  If I let you use it please don’t change anything about and give me
+proper credit.
+
+
+    --------------------------
+       Site Permission List
+    --------------------------
+
+GameFAQs           http://www.gamefaqs.com/
+IGN                http://faqs.ign.com/
+My Site            http://www.angelfire.com/games5/mtincher/
+
+
+
+==============================================================================
+/////////////////////////////     Section II     \\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+==============================================================================
+---------------------------------  Controls  ---------------------------------
+==============================================================================
+Section II: Controls Section II: Controls Section II: Controls Section II: Con
+==============================================================================
+
+    --------------
+       Joystick
+    --------------
+
+If you press the joystick upwards, you will roll the bowling ball.
+
+
+    --------------
+       Button 1
+    --------------
+
+If you look in the upper-left corner of the screen in the game, you will
+notice a "hook" meter.  By pressing button one, it causes the "hook" meter
+to move to the left.  This causing the ball to curve to the left once it has
+been rolled.  The higher the number, the sharper the turn in the roll.
+
+
+    --------------
+       Button 2
+    --------------
+
+If you look in the upper-left corner of the screen in the game, you will
+notice a "hook" meter.  By pressing button two, it causes the "hook" meter
+to move to the right.  This causing the ball to curve to the right once it has
+been rolled.  The higher the number, the sharper the turn in the roll.
+
+
+
+==============================================================================
+////////////////////////////     Section III     \\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+==============================================================================
+-----------------------------------  Tips  -----------------------------------
+==============================================================================
+on III: Tips Section III: Tips Section III: Tips Section III: Tips Section III
+==============================================================================
+
+------------------------
+   The Scoring System
+------------------------
+
+   - Every pin you knock down counts as one point.  For example, on your first
+     roll of a set, you knock down 7 pins.  Then on the second roll of the
+     set, you knock down two of the remaining three pins.  Your score for that
+     set will be 9.
+
+   - Knowing how the scoring system works for a spare is confusing until you
+     learn how it goes.  If you get a spare, you automatically get 10 points,
+     but you also get the amount of pins you knock down on your next roll
+     added to the 10 points.  Let's say that on the 5th set you get a spare.
+     Then on your 6th set you knock down 9 of the 10 pins.  This means that
+     your score for the 5th set will be a 19.  The highest score possible for
+     a spare is 20.  To get a 20, you must roll a strike after you roll the
+     spare.
+
+   - The scoring for a strike isn't as difficult as many people think.  If
+     you roll a strike, you get 10 points tacked on automatically.  Then, you
+     get the combined score of your next two rolls added to the 10 points.  An
+     example is you roll a strike on the 3rd set.  Then on the 4th set, you
+     roll yet another strike.  But when you get to the fifth set, you only
+     knock down five pins on the first roll of the set.  When calculated, your
+     score for set number 3 is 25.  The highest possible score for a strike is
+     30.  To get a 30, you will need to roll three strikes in a roll, also
+     known as turkey.
+
+##############################################################################
+
+     ---------
+        Key
+     ---------
+
+O - Bowling Pin
+
+@ - Bowling Ball
+
+^ - Gutter
+
+1 - Marks that are about
+    one-fourth of the way
+    down bowling lane.
+
+. - Marks that are placed at
+    the edge of the beginning
+    of the bowling lane.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|   O   O   O   O   |^^
+                                   ^^|     O   O   O     |^^
+     _______________________       ^^|       O   O       |^^
+    /                       \      ^^|         O         |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+
+##############################################################################
+
+-------------------------------------------------------
+   There are a couple of ways to get an easy strike.
+-------------------------------------------------------
+
+             ------------
+                Way #1
+             ------------
+
+   - The first way is to keep your hook set at "0."  Once you are sure it is
+     sat at "0," align your bowling ball in between the two middle "." marks,
+     which is aligning with the middle "1"
+
+     Once all of that is done, press and hold down forwards on your joystick.
+     This usuaslly causes you to roll a strike.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|   O   O   O   O   |^^
+                                   ^^|     O   O   O     |^^
+     _______________________       ^^|       O   O       |^^
+    /                       \      ^^|         O         |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |             *             |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                               @
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+             ------------
+                Way #2
+             ------------
+
+   - The second way just looks prettier than the first.  Set your hook to one.
+     If you sat the hook to the one on the right, then align your ball in the
+     middle of the 2nd and 3rd "." marks from the left.  If you sat the hook
+     to the one on the left, align your ball in the middle of the 4th and 5th
+     "." marks from the left, or in other words, the 2nd and 3rd from the
+     right.
+
+     After everything is aligned like I told you to above, press and continue
+     to hold forwards on the joystick.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|   O   O   O   O   |^^
+                                   ^^|     O   O   O     |^^
+     _______________________       ^^|       O   O       |^^
+    /                       \      ^^|         O         |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |                *          |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                             @
+
+                                    ######
+                                      OR
+                                    ######
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|   O   O   O   O   |^^
+                                   ^^|     O   O   O     |^^
+     _______________________       ^^|       O   O       |^^
+    /                       \      ^^|         O         |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |          *                |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                                 @
+
+##############################################################################
+
+-----------------------
+   Getting the Spare
+-----------------------
+
+             --------------------------
+                An easy to get Spare
+             --------------------------
+
+   - Some spares are easily gotten.  Such as when you have 2-3 pins closely
+     gathered, or when you have just one pin.  If you have three pins left
+     to knock down that are in a close formation, aim for the middle of the
+     three pins.  This will cause the middle pin to spin and hit the other two
+     pins.  That is if you hit the middle pin.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|             O     |^^
+     _______________________       ^^|           O       |^^
+    /                       \      ^^|         O         |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |             *             |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                                 @
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  -  When there are two pins that are close to each other, just aim in
+     between each pin.  The bowling ball will slightly knick each pin, but it
+     shall hit with enough force to knock the pins down.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|               O   |^^
+                                   ^^|             O     |^^
+     _______________________       ^^|                   |^^
+    /                       \      ^^|                   |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |             *             |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                                   @
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   - It should be common sense on how to knock down one pin, if there is only
+     one pin remaining.  However, for those of you that don't know, just align
+     your bowling ball up with the pin.  Then roll the ball straight towards
+     the pin.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+     _______________________       ^^|                   |^^
+    /                       \      ^^|         O         |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |             *             |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                               @
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+             ----------------
+                7-10 Split
+             ----------------
+
+   - The 7-10 split takes a lot of skills to master.  Out of all the possible
+     setups of bowling pins, this is the hardest setup to knock down.  If you
+     ever have a 7-10 split, align your ball at the edge of one of the
+     gutters.  Now, adjust your hook to the opposite side.  For example, if
+     you align the bowling ball on the right side, then adjust your hook to
+     the left.
+
+   - After all of the aligning is done, roll the bowl has hard as you can, and
+     hope that you get the 7 pin and 10 pin down.
+
+                                      ___________________
+                                   ^^|                   |^^
+                                   ^^|   O           O   |^^
+                                   ^^|                   |^^
+     _______________________       ^^|                   |^^
+    /                       \      ^^|                   |^^
+   /_________________________\     ^^|                   |^^
+  |                           |    ^^|                   |^^
+  |    3  2  1  0  1  2  3    |    ^^|                   |^^
+  |    |  |  | >O< |  |  |    |    ^^|                   |^^
+  |                   *       |    ^^|                   |^^
+  |___________HOOK____________|    ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|         1         |^^
+                                   ^^|       1   1       |^^
+                                   ^^|     1       1     |^^
+                                   ^^|   1           1   |^^
+                                   ^^|                   |^^
+                                   ^^|                   |^^
+                                   ^^|___________________|^^
+                                          . . . . . .
+                                       @

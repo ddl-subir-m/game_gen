@@ -1,0 +1,135 @@
+--------
+Controls
+--------
+
+ - D-Pad: Move marker
+
+ - 1 Button: Confirm choices
+
+ - 2 Button: 
+
+ - Pause/Start: Pause and unpause game
+
+
+-----------------
+Modes of the Game
+-----------------
+
+There are three modes in which you can play.
+
+ - Play the Game: This includes a full round of golf, straight from the tee to
+                  the hole, with no interruptions.
+
+ - Putting Green: Here, you are able to practice your putting, one of the key
+                  aspects in golf, as it is most often how you get the ball
+                  into the hole. This putting is exactly like it is in the main
+                  game. Go to the generalization of play for further details.
+
+ - Driving Range: Here, you are able to practice any non-putt shots; that is,
+                  any shot not made on the green, though this is 
+                  stereotypically use to describe practicing with your driver. 
+                  This is also like in the main game; see the generalization of
+                  gameplay for further details.
+
+
+--------------------
+Generalized Gameplay
+--------------------
+
+When you first begin an actual game, you'll first pick one of four courses, the
+number of players (one to four), their names, and, finally, levels.
+
+When you begin a hole, you will obtain various information on the hole. This
+will include hole number, player, par score, and wind direction. During this
+time, you can press Up/Down on the D-Pad to choose a golf club, as below, and
+Left/Right to adjust the desired trajectory. Use the 2 Button and the Topview
+to choose which is best.
+
+  O---------------------------O---------------------O-----------------------O
+  |      Golf Club Names      |  Approximate Range  |  Approximate Minimum  |
+  |                           |    on Grass Turf    |   Distance on Grass   |
+  O---------------------------O---------------------O-----------------------O
+  |  1W (One Wood or Driver)  |      300 yards      |       170 yards       |
+  |  3W (Three Wood)          |      260 yards      |       140 yards       |
+  |  5W (Five Wood)           |      240 yards      |       130 yards       |
+  O---------------------------O---------------------O-----------------------O
+  |  1I (One Iron)            |      230 yards      |       110 yards       |
+  |  2I (Two Iron)            |      220 yards      |       105 yards       |
+  |  3I (Three Iron)          |      215 yards      |        90 yards       |
+  |  4I (Four Iron)           |      200 yards      |        75 yards       |
+  |  5I (Five Iron)           |      190 yards      |        70 yards       |
+  |  6I (Six Iron)            |      180 yards      |        60 yards       |
+  |  7I (Seven Iron)          |      160 yards      |        50 yards       |
+  |  8I (Eight Iron)          |      140 yards      |        35 yards       |
+  |  9I (Nine Iron)           |      115 yards      |        25 yards       |
+  O---------------------------O---------------------O-----------------------O
+  |  PW (Putting Wedge)       |       85 yards      |        15 yards       |
+  |  PT (Putter)              |       20 yards      |         1 yard        |
+  O---------------------------O---------------------O-----------------------O
+
+Use of the 1 Button will begin your shot taking. Look at the lower-right orange
+meter. It is divided into two segments, as so:
+  _____
+ |  |  |   This top half is your power gauge, and the first used. As you hold
+ |  |  |   down the 1 Button initially, this will fill on the left side with a
+ |  |  |   white gauge. The higher, the more power. Release for the second
+ |__|__|   stage of shooting.
+ |     |
+ |_ _ _|   Then the rest fills, top heading down. In the lower half, you can
+ |     |   press 1 once more to shoot. If you're above the midline there, you
+ |_____|   shoot a hook ball, which heads right. Below the midline is a slice
+           ball, which curves left. The closer to the midline you are, the
+           straighter your shot.
+
+This generally will repeat for a bit until you reach the green near the hole.
+It gets a bit more specialized there.
+
+This is when you begin to putt the ball into the hole. Due to the usual flat
+nature of all courses, you can aim straight for the hole. Here, you'll only
+consider power and not timing. Therefore, look at how far you are from the
+hole and try to release the 1 Button during the shot at the equivalent level
+on the gauge.
+
+There are usually eighteen holes played throughout the course of a single
+match, and in a way similar to this.
+
+
+---------------
+Scoring Details
+---------------
+
+Each given hole will have a set "par" on it. The par is the number of shots it
+ideally takes to finish a hole. If you go under this, you earn points (your
+score is negative, but that's good), and if you go over, you lose points (you
+gain positive points). Hitting exactly par neither hurts or helps you.
+
+The number of shots you take can also be affected by two other things - water
+hazards and out-of-bounds area. Both are considered out-of-bounds. This bad
+shot will count against you, and you'll be penalized an additional shot. For
+example, if you hit the water on your first shot, consider the next shot you
+take your third and not the second.
+
+At the end of the hole, the number of shots you take, minus the par, is your
+score. If such is positive, you went over (bogey); if negative, you did good by
+going under (birdie, eagle, albatross). And, of course, par is neither good or
+bad.
+
+For the purposes of this game, you'll be using basic stroke play rules. That is
+to say, whoever has the better score at the end of eighteen holes wins. The
+only reason I mention this is that some use a win-loss basis rather than an
+overall score, and this is just to remove confusion.
+
+To the curious, the relatively official names for various shots:
+
+                     O----------------O-----------------O
+                     |  Name of Shot  |  Score Changes  |
+                     O----------------O-----------------O
+                     |  Hole-in-One   |    (Par) - 1    |
+                     |  Albatross     |        -3       |
+                     |  Eagle         |        -2       |
+                     |  Birdie        |        -1       |
+                     |  Par           |        ±0       |
+                     |  Bogey         |        +1       |
+                     |  Double Bogey  |        +2       |
+                     |  Triple Bogey  |        +3       |
+                     O----------------O-----------------O

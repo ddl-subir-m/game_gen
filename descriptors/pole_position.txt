@@ -1,0 +1,126 @@
+2. HOW TO PLAY THE GAME
+
+You've made it to the Fuji Speedway, one of the best tracks in the world.
+Your goal is to qualify for the main race by completing a fast lap in under
+73 seconds, and then complete four laps during the main race.  Buckle up and
+get ready to burn rubber!
+
+(Note: The difficulty switches, TV Type, and Game Select switches aren't used
+in this game.)
+
+Make sure your Atari 2600 is set up correctly, and the game cartridge is
+inserted properly.  Plug a joystick controller into the left jack, as this is
+a one-player game only.  Turn on the power switch.  If nothing happens, check
+that your system is set up properly, and that the cartridge is plugged in
+firmly, and then try again.
+
+To start the game, simply press the action button or toggle the Game Reset
+switch.  A fanfare will play, signalling that you are getting ready for the
+qualifying run.
+
+Acceleration is done automatically.  To apply brakes, press the action button.
+Push the joystick left or right to steer the car in that respective direction.
+Pull the joystick downward to shift into high gear (indicated by 'HI'
+underneath the large letter 'G' in the upper-left part of the screen.)  Push
+it upwards to shift into low gear (indicated by 'LO.')  Your speed is
+indicated by the meter underneath the indicators listed above.
+
+
+QUALIFYING RUN:
+
+In order to qualify for the main race, you must finish your qualifying run in
+less than 73 seconds.  Your lap time is indicated in the upper-right part
+of the screen underneath the large letter 'L.'  If you do qualify, you'll
+receive bonus points based on which position you earned during the qualifying
+run, and then you will be allowed to participate in the main race.
+
+If you don't qualify for the main race, you will still be allowed to drive
+untill your time (indicated in the upper center of the screen by the large
+letter 'T') runs out.  Then your car will stop and fifty points will be
+awarded for each rival car you passed on the course.  The game will then be
+over, at which point you can press the fire button or Game Reset switch
+to start a new game.  You start each qualifying run with 90 seconds.
+
+When you are nearing the end of the track, checkered flags will flash on
+either side of your score, indicating that you are near the start/finish
+line.  When your score reaches 10000, you will have successfully finished
+your run.  Your car will stop, bonus points will be awarded based on how
+well you did (see below for more details) and you will be ready for the
+main race.
+
+
+MAIN RACE:
+
+Three low tones will sound, kind of like a '3, 2, 1' thing, and then a high
+tone will sound, as if to say 'GO!'  You will have 75 seconds to complete
+your first lap around the track.  Completing a lap will earn you extra time
+to complete the next lap.  If you run out of time before completing four
+laps, then your car will come to a stop, and you will be awarded 50 points
+for each rival car you passed during the race, and the game will be over.
+
+If you successfully complete all four laps, your car comes to a stop, and,
+in addition to the standard 50 points per rival passed, 200 points are
+awarded for each second left on the timer.
+
+
+
+TRACK DESCRIPTION:
+
+The Fuji Speedway is fairly simple, but has a few spots to watch out for.
+
+After you start, you'll be on a straightaway for a moment, before
+encountering your first turn to the right.  You may want to shift into low
+gear when you're about to enter the turn to avoid losing control.  After
+you come out, you can shift again.
+
+You'll then take a short left turn, followed by another right turn.  After
+you come out of the right turn, be ready to shift into low gear again almost
+immediately, as you'll be going into a hairpin left turn in a moment.
+
+If you take the hairpin in low gear, you should be OK.  Otherwise, you may
+lose control and crash.  After taking that, you'll encounter a long, but
+easy, right turn that breaks into a straightaway briefly.  At this point,
+you should see the checkered flags flashing.  This indicates that you're
+near the finish line.  As soon as you come out of the turn, it's all
+straightaway from there.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+3. SCORING
+
+You earn 10 points for every moment that you're driving on the track.  One
+successful lap is worth 10000 points.
+
+Passing a rival car is worth 50 points at the end of the game.
+
+When the race is completed, every second left on the clock is worth 200
+points.
+
+The qualifying times and scores earned are as follows:
+
+STARTING        LAP TIME      BONUS
+POSITION        REQUIRED      POINTS
+   1            58"50         4000
+   2            60"00         2000
+   3            62"00         1400
+   4            64"00         1000
+   5            66"00         800
+   6            68"00         600
+   7            70"00         400
+   8            73"00         200
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+4. TIPS
+
+-Don't start in high gear, as it will take longer for your car to reach
+maximum speed.  Instead, start in low gear and let it build speed.  When
+the speed meter is in the middle, shift to high gear.  Shift down when going
+into a turn.
+
+-Don't worry about the brakes, just use the high and low gear to slow down for
+turns or to avoid a collision.
+
+-If you crash into another car, it will mean lost time, but the game isn't
+over.  As long as you still have time on the clock, you can keep racing.
+
+-And lastly, but most importantly of all, and I'm sure you saw this coming:
+HAVE FUN!

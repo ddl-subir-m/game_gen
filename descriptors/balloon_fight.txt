@@ -1,0 +1,915 @@
+- Balloon Fight -
+
+Balloon Fight is, in all honesty, a blatant ripoff of the original
+arcade game Joust by Williams. Which isn’t necessarily a bad thing,
+since Joust is an excellent classic, and Nintendo’s take on it stands up
+well on its own merit. Released in 1985 in Japan then in America the
+year after, it was a first generation NES game with graphics that paled
+in comparison to the later games...yet it combined fluid physics with
+addictive gameplay. It earned respectable popularity nesting deep in the
+hearts of classic gamers. Balloon Fight remains a charming token of
+simple fun-- classic gaming. 
+
+
+,----------------------------------------------------------------------.
+| 2) CONTROLS                                                          |
+'----------------------------------------------------------------------'
+
+
+Controller 1 - For playing alone
+Controller 2 - For second player in 2-player games
+
+
+A button
+   - Flap your arms once to fly (for precise control)
+
+B button
+   - Hold button to flap arms continuously (for more speed in rising)
+
+Directional pad
+   - Control the direction of the balloonist. Hold left or right while
+     flapping arms to control direction. Up and down are not used.
+
+Start button
+   - In game menu, press to begin the game
+   - During the demonstration sequence, press to recall game menu
+   - While game is in play, pause or unpause the game (the sprites
+        disappear while the game is paused)
+
+Select button
+   - In the game menu, move the balloon to the game you with to select
+   - During the demonstration sequence, press to recall game menu
+
+
+The key to this game is physics. Velocity, momentum, inertia... these
+are things you'll have to live with in this game. If you're flying fast
+to the right, it'll take more effort for you to change direction to the
+left.
+
+When you have only one balloon the physics of the game become even more
+prominent (you'll be bounced further my obstacles, etc). Mastering the
+controls of the game takes practice and effort.
+
+By the way, this may completely defy the laws of physics, but the screen
+"wraps" around. Meaning, go off the screen at the left side and you'll
+find yourself entering at the right. It's a mad world...
+
+
+,----------------------------------------------------------------------.
+| 3) HOW TO PLAY                                                       |
+'----------------------------------------------------------------------'
+
+
+Here we go again with the "How to play" section. Naturally this section
+is here for formalities' sake. For people who know how to play the game,
+this section will likely prove worthless. It contains information that
+you'd expect to find in the instruction manual. In fact I'm using the
+instruction manual as a reference! Bwehehehehe! Ahem, now let's get this
+over with...
+
+
+[NOTE: The plot in this game is essentially...zero. Yes, it's pure
+gameplay! Uh huh, there's a flattering way to put the game's lack of 
+story. >_> Anyway the absence of plot should in no way distract the
+fun of the game. Right? Right!]
+
+
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        <<<<<<<<<<<<<<<< GAME A: ONE PLAYER GAME >>>>>>>>>>>>>>>>
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+How to play? This game is has exactly the same gameplay as the classic
+arcade game Joust! Except instead of riding strange flying ostriches,
+you ride magical buoyant balloons, which is _slightly_ less weird.
+
+Basically, what you need to do is defeat all the enemies on a stage,
+then you can move on to the next stage, and this cycle goes on forever.
+
+
+DEFEATING ENEMIES
+-----------------
+   A stage beings with the enemies on the ground pumping up their
+   balloons, which takes about 3 seconds. They only have 1 balloon,
+   while you have a clear advantage with 2 balloons. Bwahaha!
+
+   Use the control pad and the A and B buttons to control your player
+   and bump into the enemy from above. You need to hit HIS balloons.
+
+   When you hit an enemy balloon, the balloon will pop and he'll come
+   floating down to the ground on his nifty parachute. So try to get him
+   before he even hits   the ground, so he'll drop into the water and
+   disappear!
+
+   If an enemy floats down with his parachute and into the water (or is
+   eaten by a fish), he will simply disappear and you will earn no
+   points for it.
+
+   If the enemy is allowed to reach the ground, he will pump up another
+   balloon and take off into the sky yet again-- even stronger than
+   before! So try to get him while he's on the land before he gets the
+   chance.
+
+   When an enemy sinks into the water, a bubble will float out,
+   apparently due to the gas exiting his horrible decaying corpse. Try
+   to pop this for some bonus points!
+
+   When an enemy hits your balloons, one of them will pop. Having only
+   one balloon makes it harder to keep control in maneuvering yourself.
+   If you get hit my an enemy again, you'll fall into the water and
+   lose a life.
+
+
+THE ENEMIES
+-----------
+There are 3 types of enemy ballooners: Pink, green, and yellow.
+
+   1) PINK is by far the easier...he just kinda floats around and makes
+     half-assed attempts at attacking you. They're also very slow to get
+     back up when you knock them down.
+
+   2) GREEN enemies are better than the pink ones, but only slightly.
+     They seem more determined to actually attack you this time.
+
+   3) YELLOW is the ultimate enemy. He comes at you quite aggressively,
+     and the AI is much, much better than the other two. He's a smart
+     guy and he'll try to get the higher elevation. Be careful around
+     him.
+
+
+OTHER OBSTACLES
+---------------
+   WATER/FISH - Every stage has water at the bottom. Don't be stupid and
+      fall into it, because you'll drown and die. In fact, don't even
+      get too close to the water, because a fish may jump out of there
+      and eat you!
+
+   LIGHTNING - If the game goes on for too long on one stage (30
+      seconds), a thunder and lightning storm occurs. The lighting will
+      bounce around on the boundaries of the screen. If you touch it,
+      you lose a life even if you have two balloons. The speed up on the
+      later stages...and there's nothing you can do about it, so hurry
+      up and finish that stage! It disappears when it touches the water.
+
+   FLIPPER - In the later stages of the game you'll have to deal with
+      yet another obstacle-- the propeller. Also known as the flipper.
+      If you touch it, it will spin uncontrollably... touch a spinning
+      propeller and it'll send you flying! (You may remember this item
+      from Super Smash Bros. Melee!)
+
+   PLATFORM/STALACTITE - I dunno if they should be considered obstacles,
+      but they do block your way, don't they? :P Anyway, platforms are
+      found around the stage, and stalactites sometimes hang from them.
+      Obviously you can't go through them. :P
+
+
+BONUS ROUND
+-----------
+   After every three stages of the game, you get a bonus round where
+   you can try to pop as many balloons as quickly as possible. Twenty
+   balloons will float, one after another, out of four pipes at the
+   bottom of the screen. A race against time to win points! If you only
+   have one balloon coming into the bonus round, your other balloon will
+   reappear.
+
+You lose a life if you sink into the water, are eaten by a fish, are hit
+by lightning, or lose both of your balloons. You can not earn any extra
+lives, ever. You get 3 lives before it's Game Over.
+
+So there you go. An extremely in-depth, long winded and probably
+unnecessary overview of every gameplay mechanic there is in the one
+player mode.
+
+TO SUM IT UP: Using balloons to float into the air and fly around, the
+                 player(s) try to pop the enemy's balloons!!!
+
+
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        <<<<<<<<<<<<<<<< GAME B: TWO PLAYER GAME >>>>>>>>>>>>>>>>
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+Here the basic idea is the same as in Game A. In fact, everything I said
+in the overview of Game A still applies in Game B. Only addition?
+Another player can join in the fun! This can either be a cause of great
+relief or unbelievable frustration, as there are two ways you may choose
+to go about this 2-player mode...
+
+Cooperation:
+- You may choose to cooperate with your other player and fight against
+  a common enemy. Work together for the greater good! Just be careful
+  not to hit your partner. There are many ways you can cooperate...
+  perhaps one player hits the enemy's balloons, the other player gets
+  them as they parachute down. Or perhaps you'd like to share both
+  responsibilities. It's up to you and it's all about teamwork (and not
+  screwing the other player over). When done successfully, cooperation
+  can make the game move quickly and result in a very high score.
+
+Competition:
+- Sometimes, the other guy just has to be a bastard, doesn't he? If you
+  choose to play in competition (or start off cooperatively and
+  gradually degrade into all-out war), you try to sabotoge each other
+  and do what you can to bring the other player down. Burst each other's
+  balloons! Block each other's flight! Kick each other's balls! It's
+  every man for himself, and the fight could get ugly.
+
+In bonus rounds, if one player bursts the balloons of another player and
+causes him to fall, no lives are lost. The player bounds right back up
+into the sky. So during these bonus rounds you can safely pop your
+friend's balloons to earn 1000 points and not really cost him a
+thing. ;)
+
+Also, bonus stage points are divided among the two players. So it's just
+about impossible to get the perfect score bonus.
+
+TO SUM IT UP: It's the one-player game...with two players!!!
+
+
+        wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+        <<<<<<<<<<<<<<<<< GAME C: BALLOON TRIP >>>>>>>>>>>>>>>>>>
+        mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+This mode is very unlike Games A and B, though the physics and controls
+remain the same.
+
+The scene drifts slowly from right to the left through an obstacle
+course of lightning balls. Avoid the lightning and try to pop as many
+balloons as possible. You also earn points just for staying alive. The
+objective here is to get as many points as possible...and the game goes
+on forever!
+
+Once in a while you will come across bubbles floating around...if you
+touch it, the scrolling will stop for a few seconds.
+
+During the game, your "ranking" position out of 50 people is displayed
+at the top-right corner of the screen. It doesn't make much sense to be
+calling it a "rank", actually, but the higher your score gets, the
+better your ranking becomes. Nothing really happens when you reach
+rank #1, the game just keeps going on.
+
+Supposedly you get a mega-bonus for popping 20 balloons in succession
+(at least that's what the manual says), but I honestly haven't done it.
+
+You lose if you sink into the water, are eaten by a fish, or get hit by
+lightning. You only get one life in this mode.
+
+TO SUM IT UP: Survive as long as you can to earn points in a game that
+                 never ends!
+
+
+,----------------------------------------------------------------------.
+| 4) SCORING SYSTEM                                                    |
+'----------------------------------------------------------------------'
+
+
+   Game A or B:
+   ------------
+                           ,-----------------------------------------.
+                           | Pink        | Green       | Yellow      |
+  ,------------------------+-------------+-------------+-------------|
+  | Pop enemy balloon      |  500 points |  750 points | 1000 points |
+  |------------------------+-------------+-------------+-------------|
+  | Destroy enemy parachute| 1000 points | 1500 points | 2000 points |
+  |------------------------+-------------+-------------+-------------|
+  | Kick standing enemy    |  750 points | 1000 points | 1500 points |
+  '------------------------------------------------------------------'
+
+
+           Pop another player's balloon........1000 points
+           Pop a bubble........................500 points
+
+
+
+   Bonus stage scores:
+   -------------------
+                                     ,-------------------------------.
+                                     | Pop 1 balloon | Perfect bonus |
+  ,----------------------------------+---------------+---------------|
+  | 1st bonus stage (green)          | 300 points    | 10000 points  |
+  |----------------------------------+---------------+---------------|
+  | 2nd bonus stage (pink)           | 500 points    | 15000 points  |
+  |----------------------------------+---------------+---------------|
+  | 3rd bonus stage (red)            | 700 points    | 20000 points  |
+  |----------------------------------+---------------+---------------|
+  | 4th bonus stage (red)            | 700 points    | 25000 points  |
+  |----------------------------------+---------------+---------------|
+  | 5th bonus stage (red) and beyond | 700 points    | 30000 points  |
+  '--------------------------------------------------+---------------'
+
+
+   Balloon trip scores:
+   --------------------
+
+           Pop a bubble........................500 points
+           Pop a balloon.......................300-700 points
+           Pop a bubble........................500 points
+           Pop 20 balloons in succession.......??? points
+
+[NOTE: In Balloon Trip mode, you earn 10 points about every half second]
+
+
+,----------------------------------------------------------------------.
+| 5) WALKTHROUGH                                                       |
+'----------------------------------------------------------------------'
+
+
+This is a stage-by-stage overview of the regular one-player or
+two-player games (see next section for Balloon Trip).
+
+Well, there's not that much that needs to be "walked through", so I'll
+provide a little ASCII map, statistics of the stage, and a little
+description to highlight some strategy and features for the stage.
+Think of it more as a commentary than a walkthrough.
+
+
+Legend:
+   w - Water               
+   # - Ground              
+   = - Platform            
+   | - Stalactite          
+   + - Flipper             
+   S - Your start position 
+   E - Enemy start position
+
+
+PHASE 1:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      3 enemies
+|                               |         (3 pink)
+|                               |      1 platform
+|                               |      1 cloud
+|                               |
+|                               |
+|           E   E   E           |
+|        ===============        |
+|                               |
+|                               |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+This is the first, and by far the easiest of levels. There should be
+no real trouble on this stage...it's just three enemies on a platform.
+When the stage begins quickly fly up to those enemies and try to get at
+least one before it takes flight. Then be quick to take out the other
+two before they fly up to the upper part of the screen. No problemo.
+
+
+PHASE 2:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      5 enemies
+|                               |         (3 pink; 2 blue)
+|        E                E     |      3 platforms
+|      =====            =====   |      2 clouds
+|                               |
+|                               |
+|           E   E   E           |
+|        ===============        |
+|                               |
+|                               |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+A bit trickier here, with the addition of two more enemies on two more
+platforms. But still, no biggie, right? Just don't be careless. Like
+before, be quick to get up there and kill one enemy before it finishes
+pumping its balloon. If you're fast enough, try to take out some more
+before they get to fly to the upper part of the screen. BUT once they
+really start flying, take position in the upper part. You don't want to
+let them get into a position where they could hurt you. No other major
+obstacles here...let's move on to the next stage...
+
+
+PHASE 3:
+--------
+ _______________________________
+|                               |   Statistics:
+|         E              E      |      5 enemies
+|         ==            ===     |         (1 pink; 3 green; 2 yellow)
+|                        |      |      5 platforms
+|                E              |      3 stalactites
+|               ===             |      2 clouds
+|                |              |
+|         E                     |
+|        ===                    |
+|         |     E               |
+|              ===              |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+Ok, here we have the addition of a slightly new obstacle, the
+stalactite. Basically it's a platform, but vertical. :P As the stage
+begins, quickly fly up and fly diagonally to the upper right to take out
+THREE enemies (the ones on the platforms growing stalactites) before
+they even begin to fly! Next up, try to take out the one at the
+upper-left since he's already high up on the screen. And finally easily
+take out the lower enemy before he gets high.
+
+
+BONUS 1:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      Green balloons: 20 * 300 points
+|                               |      Perfect bonus:  10000 points
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|         __                    |
+|    __   ||         __    __   |
+|    ||   ||         ||    ||   |
+|    ||   ||         ||    ||   |
+|###############################|
+
+The first bonus stage! You just have green balloons here, so they don't
+go that fast and you have a real shot at getting that 10000 point bonus
+for getting them all. Keep in mind that leaving the screen at the left
+makes you come out at the right, so take advantage of that to get to the
+balloons faster... meaning, as much as possible, try not to "change
+direction" when flying. You can keep going left for the whole thing and
+still get them all (which would mean 16,000 points for you).
+
+
+PHASE 4:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      5 enemies
+|                               |         (3 pink; 1 green; 1 yellow)
+|                               |      5 platforms
+|                 E             |      2 clouds
+|                ===            |
+|       E                       |
+|      ===    E          E      |
+|            ===        ===     |
+|                   E           |
+|                  ===          |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+Ooh, the land here is red! Which...doesn't...actually mean anything. But
+there you go. There are 5 enemies here, on 5 irregularly placed
+platforms. The placing of the platforms makes is hard to get any enemies
+before they take off, so just quickly get to the upper area and take
+them out one by one. As much as possible, go for the one that has the
+highest elevation, since it poses the greatest threat. Remember, take
+too long on stages and you'll soon have to worry about lightning, which
+is never pleasant. :/
+
+
+PHASE 5:
+--------
+ _______________________________
+|                               |   Statistics:
+|            E                  |      6 enemies
+|           ===                 |         (2 pink; 3 green; 1 yellow)
+|                        E      |      6 platforms
+|             E          =      |      3 stalactites
+|    E        =          |      |      2 clouds
+|    =        |                 |
+|    |                          |
+|                               |
+|           E       E           |
+|          ===     ===          |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+I suppose here it would be best to first go for the two guys on the
+lower platforms before they take flight. But then you'll have a lot of
+enemies in the air above you... Wait for a gap in the swarm to appear,
+then take the higher part of the screen. It's likely that you'll all be
+up there, so be careful and keep the elevation as high as possible when
+going for an enemy.
+
+
+PHASE 6:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      5 enemies
+|         E          E          |         (1 pink; 5 yellow)
+|        ====       ====        |      5 platforms
+|     E                   E     |      2 stalactites
+|     =                   =     |      2 clouds
+|     |                   |     |
+|                               |
+|              E                |
+|            ======             |
+|                               |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+All the enemies in this stage are pink and yellow! How fruity. o_0 First
+up, I'd go for the one on the left stalactite before he finishes pumping
+his balloon. It may be further than the one on the lower platform, but
+the one at the left is yellow (and if you haven't noticed, the yellow
+ones are much more aggressive at attacking than the pink ones). And
+it'll allow you to take the higher elevation first. Otherwise you'd have
+a hard time getting over the rest of your enemies. Anyway, once you've
+taken that upper strip of the screen, it's business as usual, hopefully.
+
+
+BONUS 2:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      Pink balloons:  20 * 500 points
+|                               |      Perfect bonus:  15000 points
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|         __                    |
+|    __   ||         __    __   |
+|    ||   ||         ||    ||   |
+|    ||   ||         ||    ||   |
+|###############################|
+
+Another bonus stage. This time the balloons are pink and rise a little
+bit faster, so it'll be harder to get that perfect bonus (which has been
+raised to 15,000 points now!). Use the same tactics as last time and
+you can finish with a possible 25000 points from this bonus stage.
+
+
+PHASE 7:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      6 enemies
+|  E                       E    |         (1 pink; 3 green; 2 yellow)
+|  ==                  E   ==   |      8 platforms
+|                  E   ==       |      1 propeller
+|                  ==           |      2 clouds
+|           E   +               |
+|       E   ==                  |
+|       ==                      |
+|   ==                          |
+|              ====             |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+This is the first stage with a propeller, though it's position hardly
+makes it anything to worry about. Also, there are 6 enemies here--
+that's a lot! So it would be a big help to take out as many as possible
+before they become a threat. When the stage begins, try to get around
+and fly towards the upper right corner, taking out enemies as you fly
+along...if you're fast enough you can get 4 before they start flying
+(I've done it!). As for the rest, just don't be stupid and fly around in
+the area below the platforms.
+
+
+PHASE 8:
+--------
+ _______________________________
+|                               |   Statistics:
+|     E                   E     |      6 enemies
+|    ====       +       ====    |         (2 pink; 2 green; 2 yellow)
+|                               |      6 platforms
+|         E           E         |      2 stalactites
+|        ====       ====        |      1 propeller
+|                               |      2 clouds
+|            E     E            |
+|            =     =            |
+|            |     |            |
+|                               |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+This is the first stage where the propeller may cause problems, as it's
+featured so prominently in the upper middle part of the stage. Keep out
+of its way! When the stage begins get those two pink ones on the
+stalactites before they begin to fly. Then it will be difficult to stay
+safe as there are so many enemies above you...and it may not be easy to
+get above them because of the propeller...so my only advice is to be
+careful and wait for an opening.
+
+
+PHASE 9:
+--------
+ _______________________________
+|                               |   Statistics:
+|                      +        |      5 enemies
+|                               |         (3 pink; 1 green; 1 yellow)
+|        +                      |      5 platforms
+|                E              |      2 propellers
+|               ===             |      2 clouds
+|       E                       |
+|      ===    E         E       |
+|            ===       ===      |
+|                   E           |
+|                  ===          |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+Here there are actually TWO propellers to watch out for. Start of the
+stage by going for the left-most enemy, then the one to its right. And
+if you can, try to defeat the yellow one (that starts at the bottom
+platform) before it gets the chance to fly high. Watch out for those
+propellers and take care of the remaining enemies.
+
+
+BONUS 3:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      Red balloons:   20 * 700 points
+|                               |      Perfect bonus:  20000 points
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|         __                    |
+|    __   ||         __    __   |
+|    ||   ||         ||    ||   |
+|    ||   ||         ||    ||   |
+|###############################|
+
+Whew! You've made it to another bonus stage. If you've lost one of your
+balloons, it'll be restored-- and you deserve it for making it this far.
+The balloons here are red, and are now worth a whopping 700 points each.
+That's more than double the points you'd get from the green balloons of
+the first bonus stage-- but they're a lot faster now too. Be quick, and
+go for that perfect bonus (now 20000 points). A perfect performance here
+will net you a smooth 34000 points.
+
+
+PHASE 10:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      5 enemies
+|              E    E           |         (2 green; 3 yellow)
+|              +    +           |      2 platforms
+|                        E      |      4 propellers
+|                        +      |      2 clouds
+|         +                     |
+|                               |
+|                               |
+|           E       E           |
+|          ===     ===          |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+Yes, there are FOUR propellers in this stage. Yes, the enemies are
+actually starting the stage on the propellers. And no, you cannot defeat
+these guys by hitting the propellers while they're on them. :p Start off
+by easily getting rid of the green enemies before they begin flying.
+Then you have 3 of those aggressive yellow enemies to watch out for.
+You'll need to be careful with them, because they're all at high
+elevation and they'll come after you hard. Wait for an opening then get
+up above them. What more can I say?
+
+
+PHASE 11:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      6 enemies
+|                               |         (2 pink; 2 green; 2 yellow)
+|                +              |      6 platforms
+|                               |      1 propeller
+|            E       E          |      2 clouds
+|        E   ==     ==   E      |
+|    E   ==             ==   E  |
+|    ==                     ==  |
+|                               |
+|                               |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+These guys are arranged so neatly with the propeller to top it all off.
+When the stage begins, be quick to fly up the left side of platforms...
+you can take out the entire left side of enemies before they even leave
+the ground! Afterwards, make the yellow enemy your priority since he
+poses the biggest threat. Take care of the rest, and always be careful
+around that propeller.
+
+
+PHASE 12:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      5 enemies
+|         E           E         |         (1 pink; 4 yellow)
+|        ====       ====        |      5 platforms
+|     E                   E     |      2 stalactites
+|     =                   =     |      2 clouds
+|     |                   |     |
+|              E                |
+|            ======             |
+|                               |
+|                               |
+|    S                          |
+|########               ########|
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+
+This is the LAST *UNIQUE* stage of the game, since after this one it
+just starts repeating. Well, calling it "unique" isn't exactly right
+since it looks exactly like stage 6. So just use the same strategy that
+you'd use in stage 6... Go for the yellow ones first, take higher
+elevation always, be careful crossing the street, etc.
+
+
+BONUS 4:
+--------
+ _______________________________
+|                               |   Statistics:
+|                               |      Red balloons:   20 * 700 points
+|                               |      Perfect bonus:  25000 points
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|         __                    |
+|    __   ||         __    __   |
+|    ||   ||         ||    ||   |
+|    ||   ||         ||    ||   |
+|###############################|
+
+Bonus time! Still red balloons, and they'll rise with the same speed
+they did in the previous bonus stage. Being red balloons, they'll you
+still get 700 points each for them, but the perfect score bonus is now
+25000 points.
+
+[NOTE: For all succeeding bonus stages, it will still be red balloons
+worth 700 points each, and the perfect score bonus will be 30000 points.
+The perfect bonus doesn't get any higher than that.]
+
+
+Congratulations, you've played through every unique stage of the game!
+Well, of course you didn't really finish the game, since it never ends.
+After Phase 12 it will say Phase 13, but in reality you've gone back
+to Phase 4. You'll continue cycling through Phase 4-12 for the rest of
+your Balloon Fighting lives. Bwahahaha!
+
+
+,----------------------------------------------------------------------.
+| 6) BALLOON TRIP                                                      |
+'----------------------------------------------------------------------'
+
+
+Ok, so here's a completely different game. Well, the physics and
+controls still work the same as in the regular mode, the you have a
+completely different focus here. The goal is simply to survive! For
+more info about the basic mechanics of Balloon Trip, see the "How to
+Play" section of this FAQ. In this section we'll be discussing strategy!
+
+At first the sparks will remain in their place on the screen and it's
+pretty easy to get by them. But after just a few seconds you'll
+encounter sparks that go up and down on the screen, and later the sparks
+will be going left and right as well!
+
+Here are a few tips to help you get through Balloon Trip:
+
+
+- My usual strategy is to get moving from the very start without
+touching the D-pad, so that you move at exactly the same pace as the
+screen is moving. This simplifies things greatly, as you'll only need
+to worry about going up and down rather than left and right. Just fly up
+and down to avoid sparks, and only move sideways when absolutely
+necessary.
+
+- Bubbles pop up from time to time, and when you pop one the scrolling
+of the screen will stop for a while. This is meant to allow you to
+collect some balloons, maybe get past a few sparks...but honestly every
+time I pop a bubble I just get disoriented and screwed over. I don't
+recommend getting out of your way to pop bubbles, and in fact I would
+recommend avoiding them.
+
+- Get those balloons! They're a great help to your score.
+
+- Be aware of the movement of the scene as it drifts slowly from left to
+right, and the lightning as it moves up and down.
+
+- You supposedly get a super high score if you "pop 20 balloons in
+succession" (at least that's what the manual says), but I honestly am
+not sure what's meant by that and I've never done it.
+
+- Don't get too close to the water. The big fish is still there waiting
+for you.
+
+
+When it comes down to it, Balloon Trip is just a test of skill and
+stamina. The best tip I could give is to PRACTICE.
+
+
+,----------------------------------------------------------------------.
+| 7) HINTS & TIPS                                                      |
+'----------------------------------------------------------------------'
+
+
+[NOTE: These are general tips for Game A and B. For Balloon Trip tips,
+see the above section.]
+
+
+GENERAL TIPS...
+
+- As much as possible, stay near the top of the screen. Obviously you'll
+be more vulnerable if you have enemies over your head. When you're at
+the top of the screen, defeat enemies as they come up after you. BUT
+if you get into a scuffle with an enemy at the top of the screen
+(especially a yellow enemy), just back away until he comes down,
+otherwise you'll run the risk of him popping you!
+
+- Especially avoid flying close to the water, or else there's a
+possiblity that the big fish might come along and eat you up for your
+stupidity.
+
+- Remember that crossing over the edge of the screen causes you to
+appear at the other side. This can be very disorienting. And also keep
+in mind that that enemies can also do the same thing!
+
+- At the beginning of every level, the enemies are pumping up their
+balloons and it takes them about three seconds before they begin to
+take flight. You can take advantage of this 3-second window to kick
+them dead while their vulnerable! Try to start every stage like this!
+
+- Lightning shoots out of the clouds if you take long to beat the stage
+(to be exact, 30 seconds). Try to get away from the clouds if you see it
+begin to flash! Actually, try to beat the stage as fast as possible to
+avoid the problem of lightning balls altogether.
+
+- While the propeller is, more often than not, an obstacle, you can
+actually try using it to your advantage. If you're in a tricky
+situation, use the propeller's power to launch yourself away quickly.
+Just be very careful in trying this!
+
+
+TIPS FOR GETTING A HIGH SCORE...
+
+- It's better to defeat an enemy while he's gliding down on a parachute
+rather than get him after he's hit the ground. On average, the former
+will get you 25% more points.
+
+- More advanced enemies are worth more points! So yellow enemies are
+worth twice as much as the pink ones. If you pop an enemies balloon but
+allow him to pump up a new one, he'll emerge as a more advanced enemy.
+The order is Pink -> Green -> Yellow.
+
+- Don't forget the bubbles! Every time you defeat an enemy and it falls
+into the water, it'll release a bubble worth an easy 500 points. In
+relation to this, try not to allow enemies to simply parachute into the
+water or get eaten by the fish, or else no bubble for you.
+
+- Bonus rounds are a great oppurtunity to increase your score. Don't
+waste it! And pop every balloon at the bonus rounds for a HUGE perfect
+bonus score. The later bonus rounds allow you to earn up to 44,000
+points!
+
+- Yes, you will get 1000 points for hitting your friend's balloon. :p
+But wouldn't you ultimately get more points if you worked together for
+a change? Hmm? :)
+
+
+,----------------------------------------------------------------------.
+| 8) COOL STUFF                                                        |
+'----------------------------------------------------------------------'
+
+
+- Just for the hell of it, it is possible to "annoy the shark" in the
+water. Just fly close to the water enough to tempt him, but just far
+enough so that he can't actually get you.
+
+- Believe it or not, it's possible to fly *under* the land in the first
+stage and make it out alive! Just approach the land at the right angle
+and with the right momentum (and pray the shark doesn't come and eat
+you)... If you did it right, a splash would indicate that you drowned,
+but you'll just keep on going and emerge at the other side of the water.
+
+- The highest possible score to get in the regular game is 1,000,000.
+But if you break that score, the display will just wrap around back to
+0...but the high score will continue to display whatever your score was
+before you broke 1,000,000.
+
+- Those enemy ballooners that are out to kill you are not actually
+bird people, as much as they look like it. Well, they don't really look
+like anything at all. But they're just people wearing what appears to
+be a helmet with a beak. o_0
+
+- There are a few tributes to Balloon Fight in Super Smash Bros. Melee
+(an excellent Nintendo Gamecube game). Among them are trophies of the
+Balloon Fighters and the Flipper.

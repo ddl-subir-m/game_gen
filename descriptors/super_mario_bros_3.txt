@@ -1,0 +1,2518 @@
+Welcome to my overhauled FAQ/walkthrough for the best-selling NES game of all
+time: Super Mario Bros 3. Previously, this section contained a couple of notes
+that were relevant to the walkthrough. They have been kept intact, but they
+have been moved to the beginning of the walkthrough section. That's probably a
+better place for them than the introduction to the FAQ.
+
+Everything about this guide that has been changed has already been explained in
+the update history, so there's no need to retread it here. If you have any
+questions, suggestions, requests, or complaints regarding this guide, please
+e-mail me at [round the wheel at g mail dot com]. Use the appropriate symbols
+instead, this is just a no-spamming tactic. It's all one word.
+
+Right now I'm undergoing the arduous task of taking a machete to the jungle
+that is my Hotmail inbox - there is mail in there dating back to mid-2003 and
+I'm trying to get the whole thing cleaned out so I can manage all my mail
+through Gmail - personal, GameFAQs-related, etc. So if you have a message for
+me, send it to my Gmail account, not Hotmail.
+
+That should be all, so let's get the ball rolling on this FAQ.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ========
+   3 | CONTROLS
+   = | ========
+
+
+Left/Right: Walk left and right.
+            Move left and right on the world map and in the N-spade game.
+            Cycle through items on a single page of your inventory.
+
+
+Up/Down: Move up and down on the world map and in the N-spade game.
+         Force increase or decrease in altitude while swimming.
+         Cycle through the four pages of your inventory.
+         Climb up and down beanstalks.
+         Hold Up when jumping on an enemy or note block to get a boost in your
+            jump.
+         Hold Down to duck.
+         When in the Tanooki Suit, press Down + B to turn into a statue that
+            renders you invincible for a short time.
+
+
+Select: Cycle between 1- and 2-player modes on the title screen.
+
+
+Start: Begin the game.
+       Pause the game.
+       Return to the title screen at the end of the game.
+
+
+B Button: Hold B while walking to run, or to swim faster.
+          Throw fireballs, hammers, or other projectiles.
+          Bring up inventory screen while on the world map. Press B to exit as
+             well.
+          Pick up turtle shells and white bricks, among other things.
+          Swing your tail if you are Raccoon Mario.
+
+
+A Button: Jump.
+          If your Power Meter is fully charged and you have a tail, tap A
+             repeatedly to fly.
+          If you have a tail, you can float down slowly on the way down from a
+             jump by tapping A repeatedly.
+          Enter a stage on the world map. (You will enter some levels, such as
+             Hammer Brother stages, automatically.)
+          Use an item from your inventory.
+          Turn over a card in the N-spade game.
+          Stop the movement of each row in the 1-up roulette game (the spade
+             icon on the map).
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | =====
+   4 | ITEMS
+   = | =====
+
+**This section and the bestiary were originally written by John R. Jones. Most
+  entries in these sections have been modified to explain the same point in
+  fewer words or to give the descriptions that were in place more clarity.
+
+
+Super Mushroom
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Found in "?" blocks as small Mario. The increased size allows you to break
+bricks from underneath with your head.
+
+
+Super Leaf
+¯¯¯¯¯¯¯¯¯¯
+When he is Super Mario, Mario can get the leaf to become Raccoon Mario. The
+tail can be swung to knock out most small foes, and with a running start, you
+can even use it to fly through the air for a short time. You can also slow your
+fall with the raccoon tail by repeatedly tapping A to glide.
+
+
+Fire Flower
+¯¯¯¯¯¯¯¯¯¯¯
+Nintendo Power's strategy guide to this game said, "There's nothing like good 
+old firepower." That couldn't be more true. Press the B button to send out a
+fireball.
+
+
+Coin
+¯¯¯¯
+Collect 100 coins to nab yourself a 1-up. These are also a part of the equation
+for treasure ships (explained further in section 7 - "Secrets and Extras").
+Comes in sets of 10 and 20 in the N-Spade game. 
+
+
+Starman
+¯¯¯¯¯¯¯
+Gives Mario the power of temporary invincibility. Being crushed or falling into
+holes or lava will still mean instant death, though.
+
+
+Goal Card
+¯¯¯¯¯¯¯¯¯
+At the end of most stages is a slot which alternates quickly between displaying
+a mushroom, a flower, and a star. You touch this box to end the level, and
+whatever picture is in the box at the time you touch it is the goal card you
+will receive. When you get three goal cards, you'll get a set amount of 1-ups
+based on what the goal cards are. Any three random cards will give you a single
+1-up; three mushrooms nets you two; three flowers gives you three; and if you
+get three stars, you'll get five extra lives.
+
+
+Frog Suit
+¯¯¯¯¯¯¯¯¯
+Not only does Mario LOOK like a frog in the Frog Suit, he exhibits the leaping
+and swimming characteristics of one as well. Because of the awkward land
+control, this one's best saved for underwater levels.
+
+
+Tanooki Suit
+¯¯¯¯¯¯¯¯¯¯¯¯
+Think Super Leaf, only now the only non-raccoon part of Mario is his face. 
+Press and hold Down, then press B to transform into an invincible crushing 
+Statue. Just don't do it over pits and lava (obviously). The statue's form can
+crush some otherwise unbeatable enemies. If you're not a rock at the time, you
+can fly in this suit. 
+
+
+Hammer Brother Suit
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+A rare but useful find, this suit gives Mario the power to throw hammers. The 
+hammers can clobber almost every enemy, and if you duck, the shell offers 
+protection against all but the strongest of flames. The only drawback is you 
+throw hammers the same way as the Hammer Brothers do, making aiming a bit of 
+a chore. 
+
+
+1-up Mushroom
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+This rare green 'shroom gives Mario an extra life, allowing him another chance
+to play a level if he dies somewhere. The word "rare" refers to them as often
+being hidden, sometimes in out-of-the-way places. 
+
+
+P-Wing
+¯¯¯¯¯¯
+This item enables Mario to fly at will for an entire stage, or at least until
+he loses his tail (e.g. if he gets hit or grabs a Fire Flower). If you grab a
+leaf or Tanooki Suit in the stage, you'll still have the "P" power for flight. 
+
+
+Anchor
+¯¯¯¯¯¯
+Only found in the secret white mushroom houses on Worlds 2, 4, and 6. This
+item, when activated, prevents the Koopa Kids' airships from escaping. If you
+have a lot of trouble on the airships, it can come in handy, especially as they
+like to park behind incomplete levels.
+
+
+Music Box
+¯¯¯¯¯¯¯¯¯
+The soothing melody of this tune box puts any Hammer Brothers and Piranha 
+Plants on the overworld map screens to sleep. There are very few practical uses
+for this item, so if it goes unused, it merely wastes inventory space that can
+be used to store other better items.
+
+
+Jugem's Cloud
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+One of the most useful items in the game, it's also pretty tough to come by.
+This allows you to pass by any level of your choosing, though if you die in
+the next one, you'll be sent back to the last level you played and completed.
+
+
+Hammer
+¯¯¯¯¯¯
+You'll be opening up new paths for Mario when you use this to break boulders
+on the map screens. Use it to access otherwise unreachable Toad houses, or to
+create a shortcut around a particularly tough level (e.g. World 6-7).
+
+
+Warp Whistle
+¯¯¯¯¯¯¯¯¯¯¯¯
+This mystic whistle summons a tornado that sweeps you to World 9, the Warp
+Zone. If you warp from world 1, you can access Worlds 2 through 4. Use it in
+worlds 2 through 6 to reach worlds 5, 6, and 7. Use it in worlds 7 through 9 to
+reach world 8. There are three of these in existence, but you only need two to
+reach King Koopa's world.
+
+
+Kuribo's Shoe
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+Only available in World 5-3, hit a Goomba that's donning one from underneath to
+obtain his green shoe. You can walk across almost all surfaces with this item,
+but if you get hit, it's gone. Stomping on most enemies once is enough to take
+them out, including Spinys and Piranha Plants. Unfortunately, it goes away when
+you complete the level. If only there was a way to keep it forever =(
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ========
+   5 | BESTIARY
+   = | ========
+
+
+   --- | -------------
+   5.1 | Koopa Troopas 
+   --- | -------------
+
+Red Troopa
+¯¯¯¯¯¯¯¯¯¯
+A regular walking turtle that often occupies a ledge, pacing back and forth. 
+Stomp one to send him into his shell for a while.
+
+
+Green Troopa
+¯¯¯¯¯¯¯¯¯¯¯¯
+Basically, it's a palette swap of the red one. The green Troopas only go in a
+straight line, only turning if something blocks their path.
+
+
+Red Paratroopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+These critters float rather slowly in the vertical plane. Just run under when 
+you have an opening, or stomp them when the time is right.
+
+
+Green Paratroopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The wings of this creature allow it to fly endlessly, though they often prefer
+to use them to bounce towards you. On some occasions, they may be seen flying
+back and forth horizontally. It takes two stomps to send them into their shells
+or just one fireball to send them off for good.
+
+
+Red Giant Koopa Troopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+This thing's about four times Mario's size, and seems to be quite intimidating
+... until you realize they're the same as a regular Troopa.
+
+
+Green Gargantuan Koopa Troopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Apparently, Bowser doesn't know that bigger heads don't mean bigger brains. 
+This monster's no tougher, faster, or smarter than any ordinary Troopa.
+
+
+Colossal Koopa Paratroopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Lucky for you, they can't do much flying at this massive size. They only
+bounce, so get the jump on them to clip their wings.
+
+
+Dry Bones
+¯¯¯¯¯¯¯¯¯
+The fortress version of a Koopa Troopa, they only crumble after being stomped,
+and that's only temporary. Unless you're invincible or have hammer power, you
+will only be able to crumble them down, but you won't defeat them.
+
+
+   --- | -------
+   5.2 | Goombas
+   --- | -------
+
+Goomba
+¯¯¯¯¯¯
+Back from the old days of SMB, they're just the same as before. It's their new
+relatives that might be a problem. Just use a stomp or anything else up your
+sleeve to beat them.
+
+
+Para-Goomba
+¯¯¯¯¯¯¯¯¯¯¯
+A darker shade of brown and a pair of wings heavier, this Goomba will flap 
+about at times, but won't really take off. It takes two stomps to beat them.
+
+
+Para-Goomba with Micro-Goombas
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+These rascals will take to the air, letting their kid brothers slow you down so
+they can do the damage. Watch the skies!
+
+
+Mugger Micro-Goomba
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The miniscule, pesky Goombas released from above, they will cling to you,
+greatly hampering your jumping and running abilities. Tap A and B rapidly to 
+shake them.
+
+
+Pile Driver Micro-Goomba
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Unlike the Muggers, these fellows hide out in bricks, waiting for you to come 
+close, then they strike with surprisingly high leaps. Hit the block they may 
+land on to beat them, as stomping's risky, and fire is useless ... or you 
+could try out your tail...
+
+
+Grand Goombas
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+The only thing being huge did for these menaces is to make them four times as 
+ugly as regular Goombas, but not a stitch tougher.
+
+
+Kuribo's Goomba
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Hops around in a green shoe. Hit him from below to claim it as yours. Found
+only in World 5-3.
+
+
+   --- | -------
+   5.3 | Beetles
+   --- | -------
+
+Buzzy Beetle
+¯¯¯¯¯¯¯¯¯¯¯¯
+Back in SMB, their fireproof shells made them quite tough to defeat. This time
+time around, they're also able to walk on ceilings. Of course, what goes up
+must come down, so watch your head. If you've got a tail to spin, do so.
+
+
+Para-Beetles
+¯¯¯¯¯¯¯¯¯¯¯¯
+Even worse than Buzzy, these red-shelled aviators must be used to cross wide 
+gaps at times. Fortunately, they only pop up on World 5-6. If you dare to try,
+swing your tail at their face to beat them.
+
+
+Buster Beetle
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+A few things set this guy apart from the Buzzy Beetle. They appear where it's 
+cold, they're quick, and they're not fireproof. They like to hurl white bricks,
+at Mario, which he can also pick up. Although this can be helpful at times,
+it's usually dangerous.
+
+
+   --- | ------
+   5.4 | Lakitu
+   --- | ------
+
+Lakitu
+¯¯¯¯¯¯
+Another one from SMB to return, the master of the skies does fly-bys, bombing 
+you with Spiny Eggs.
+
+
+Spiny Eggs
+¯¯¯¯¯¯¯¯¯¯
+In a few cases, you'll see green versions of the regular Spiny, which won't
+uncurl and will roll around on the ground until they move offscreen or fall
+into a pit.
+
+
+Spiny
+¯¯¯¯¯
+A familiar sight to veteran Mario gamers. They can travel along the ceiling as
+well. Fear not - that's a rare case, and you've got your tail at hand to stun
+and flip them, at which point you can pick up, carry, and kick them just as you
+would a Koopa-Troopa shell.
+
+
+   --- | --------------
+   5.5 | Piranha Plants
+   --- | --------------
+
+Piranha Plant
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+These come red and green varieties, but there are no differences in the way
+they act. They've got sharp teeth, so stomping is out of the question without
+some seriously tough feet. Hang out next to or on top of their pipes to keep
+them inside.
+
+
+Venus Fire Trap
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Despite their smooth heads, they aren't fazed by ordinary stomps. Their
+strategy is to breathe fireballs at passersby, and they can even aim to a small
+extent.
+
+
+Hanging Piranha Plant
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+These like to come out of upside-down or sideways pipes and munch on whatever 
+gets close. They won't stay in hiding if you get close to the pipe, so time 
+your moves carefully.
+
+
+Piranhacus Giganticus
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+For once, Bowser made sure size does matter. Unless you stand directly on the 
+pipe it uses, this plant will continue to pop in and out of them, making the 
+timing tougher for the unarmed. These, as well as the previous three, have a 
+red and a green variety. 
+
+
+Ptooie
+¯¯¯¯¯¯
+A walking species of Piranha Plant, it has a strategy of blow-juggling a black
+spiked ball with its mouth. Wait for an opening to jump past, or use whatever
+weapon power you've got to beat them. Unfortunately, this doesn't apply to
+statue stomping.
+
+
+Nipper Plant
+¯¯¯¯¯¯¯¯¯¯¯¯
+The small guys of the family, but by far the fiercest. They wait on land for 
+Mario to get close, and when he tries to jump over them, they strike. Statue 
+stomps have no effect, but your tail does.
+
+
+Munchers
+¯¯¯¯¯¯¯¯
+These black flowers stay to one spot, contentedly munching the air. They can be
+defeated by a tail, shell, or white brick, but they often cluster in spots that
+make this impossible. If there's a P-switch around, they will turn into coins
+when you hit it.
+
+
+Lava Lotus
+¯¯¯¯¯¯¯¯¯¯
+Classified officially by Nintendo as part of the Piranha Plant group, these
+deep-sea bloomers will blow out anywhere from one to five balls of lava at
+regular intervals. Watch their movements to know when they'll blow, and swim
+past. Fire won't affect them, but hammers will. If you want to risk it, the
+statue stomp will work, but the positioning is critical, making it better to
+just leave them alone.
+
+
+   --- | -------
+   5.6 | Aquatic
+   --- | -------
+
+Blooper
+¯¯¯¯¯¯¯
+The SMB squid patrol is back, though not as ugly as before. They move in the
+same way as they originally did, right down to it being safe to walk right
+under them. Flame them or avoid them.
+
+
+Blooper Nanny
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+A parental Blooper, it always has its kids trailing behind it, and can some-
+times scatter them for a widespread attack.
+
+
+Jelectro
+¯¯¯¯¯¯¯¯
+A high-voltage jellyfish, they often sit in tricky patterns, making swimming a
+chore for those without a Frog Suit. Nothing can defeat them, not even hammers.
+
+
+Cheep-Cheep
+¯¯¯¯¯¯¯¯¯¯¯
+Just as in the first SMB, there is a green variety as well as the faster red
+ones. The green pace about underwater, while the red prefer to jump out and get
+some air. You can stomp the red ones, but fireballs are safer for both of them.
+There is also a black variety in Pipe Land that swims even faster than the
+previous two.
+
+
+Boss Bass
+¯¯¯¯¯¯¯¯¯
+A huge, relentless fish, it is the only enemy capable of swallowing Mario, and
+to that end, the only one that can take a fully-powered Mario out of commis-
+sion. It's best to stay out of his water, but the tidal terrain makes that
+impossible at times, so you'll want to beat him if you have the equipment. Just
+don't try stomping him.
+
+
+Big Bertha
+¯¯¯¯¯¯¯¯¯¯
+She looks a lot like Boss Bass, but she won't eat you. Bertha prefers to swim
+about in tricky spots, sending her babies after you, then swallowing them back
+up.
+
+
+Baby Cheep
+¯¯¯¯¯¯¯¯¯¯
+Big Bertha sends it after you, and then she takes it back. Don't touch it, just
+beat it, unless you've got the firepower to deal with it. 
+
+
+   --- | ---------------
+   5.7 | Hammer Brothers 
+   --- | ---------------
+
+Hammer Brothers
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The twin turtles from SMB are back for more. Stomps are a risky venture since
+they toss their hammers in an arc above their heads, but you can hit them from
+below as well as with your tail or fireballs.
+
+
+Boomerang Brothers
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+These guys can toss two boomerangs at a time. The wide range of the boomerangs
+makes a close-range altercation a bad idea, but you can get them easily when
+they pause after the second toss returns
+
+
+Fire Brothers
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+They're able to spit fire in much the same way Mario throws his fireballs. Use
+your own firepower to give them a taste of their own medicine.
+
+
+Sledge Brothers
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Their massive girth causes tremors when they land from a jump, and the tremors
+will temporarily stun you. Jump to avoid this, then stomp them. Since they're
+more mass than muscle, they can't throw very fast.
+
+
+   --- | ---------------
+   5.8 | Fortress Family
+   --- | ---------------
+
+Boom-Boom
+¯¯¯¯¯¯¯¯¯
+The guardian of all fortresses in the game. After the first stomp, he shows his
+true jumping power, and after the second, he gets steamed and moves a lot
+faster. Fortunately, stomp number three is the end for him. Sometimes, he is
+known to sprout wings and fly. Five fireballs or one hammer are better and
+safer methods of doing him in.
+
+
+Roto-Disc
+¯¯¯¯¯¯¯¯¯
+Rotating around red hubs in the fortresses, they intend to block Mario's path
+To break them, aim a statue stomp at the flashing disc. Sometimes, they come in
+pairs, but it only takes one statue stomp to beat them both. 
+
+
+Thwomp Trap
+¯¯¯¯¯¯¯¯¯¯¯
+Big bad granite guardians, they wait silently for Mario's approach, then come
+down hard if he gets too close. Hammers will send them packing.
+
+
+Podoboo
+¯¯¯¯¯¯¯
+Back from Koopa's old castles, this flaming fiend is born of pure magma and
+evil magic. So naturally, a statue or the magic of Starman is required to
+stop them - that, or hammers. Otherwise, jump across lava pits with care.
+
+
+"Boo" Diddly
+¯¯¯¯¯¯¯¯¯¯¯¯
+These ghosts may look shy and innocent, and in fact, they are as long as you
+look them in the face. Turn your back, however, and they'll start pursuing you.
+Hammers will take them down. Their name is a pun on the name of the classic
+blues musician Bo Diddley.
+
+
+Stretch
+¯¯¯¯¯¯¯
+Two Boo heads occupy one strange long white block. You can use the blocks for
+standing purposes, but watch out for the heads. Have a Hammer Brother Suit on
+hand to deal with the ghosts.
+
+
+Hot Foot
+¯¯¯¯¯¯¯¯
+Much like Boo Diddly, these flames stand still when you face them but will
+chase you if you turn your back to them. A hammer will put these small flames
+out.
+
+
+   --- | ---------
+   5.9 | Artillery
+   --- | ---------
+
+Cannonballs
+¯¯¯¯¯¯¯¯¯¯¯
+These cannonballs are fired from cannons on airships and tanks. You can only
+beat them by stomping on them. Everything else goes right through them. Oddly
+enough, the giant cannonballs from Bowser's fleet can be beaten with anything
+but fireballs.
+
+
+Bullet Bill
+¯¯¯¯¯¯¯¯¯¯¯
+The Turtle Cannons are back from the first game, and so is their living bullet.
+He's a bit faster than in SMB, and with his tricky positioning, that serves to
+make the airspace hazardous. Stand at point-blank range to keep him inside the
+cannons. The cannon itself is harmless.
+
+
+Missile Bill
+¯¯¯¯¯¯¯¯¯¯¯¯
+Deadlier than the Bullet Bill, these flashing foes will actually turn around
+after one pass to pursue Mario. If you don't stomp it or get away from their
+Turtle Cannons immediately, they'll keep chasing you until the timer runs out.
+
+
+Rocky Wrench
+¯¯¯¯¯¯¯¯¯¯¯¯
+Though not a living weapon, they appear on airships and military vehicles.
+Their strategy is to throw wrenches at intruders, and they often appear in
+groups of three. Brown ones go down after one hit, but the yellow ones will
+keep coming back no matter how many times you pounce on them.
+
+
+Rocket Engines
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+These flames propel the airships, but also serve as an excellent defensive
+measure. If you want to beat them, use the statue stomp, but only if the flame
+points up or to the right. 
+
+
+Bob-Omb
+¯¯¯¯¯¯¯
+Originally from SMB2, this little guy's got quite the temper. They'll explode
+after being stomped, unless you use the statue. In World 8, you'll see shades
+of SMB2, as those Bob-Ombs will explode after a set time whether you stomp them
+or not.
+
+
+   ---- | -------------
+   5.10 | Miscellaneous 
+   ---- | -------------
+
+Spike
+¯¯¯¯¯
+A small green turtle, it attacks by throwing spiked balls at Mario. It often
+throws them in pairs, so think before you stomp.
+
+
+Firesnake
+¯¯¯¯¯¯¯¯¯
+A living chain of fireballs, it can jump through obstacles and walls at will. A
+whip from your tail will defeat them, but if you backtrack to where they were,
+they will re-appear.
+
+
+Chain Chomp
+¯¯¯¯¯¯¯¯¯¯¯
+A black ball chained to a wooden bolck, it's got a nasty temper and a bite to
+match. Since it's immune to all but the strongest attacks (hammers, statue
+stomps, and invincibility), you're better off avoiding them rather than picking
+a fight.
+
+
+Fire Chomp
+¯¯¯¯¯¯¯¯¯¯
+A Chain Chomp with fireballs for the chain, they fly and attack from the air at
+the worst possible times. They're weak to all forms of attack, but if you re-
+visit the area they came from, they'll be back. If they use up their whole fire
+chain, they self-destruct as a last desperate measure.
+
+
+The Angry Sun
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+Appearing once in Desert Land and again in Dark Land, the sun will weave about
+the sky and swoop down in an attempt to attack you. It can be taken out with a
+turtle shell.
+
+
+   ---- | ----------------
+   5.11 | The Koopa Family
+   ---- | ----------------
+
+Larry Koopa
+¯¯¯¯¯¯¯¯¯¯¯
+Larry Koopa is the first Koopa Kid you face, and has taken over the castle of
+Grass Land. He doesn't have any special abilities, but will jump very high
+after taking two hits. As with all Koopa Kids, it only takes three hits to make
+him bite the dust.
+
+Interesting tidbit: all of the Koopa Kids are named after popular musicians (or
+at least, musicians that were popular at the time). Incidentally, it is unclear
+as to exactly who it is that Larry is named after. Lawrence Welk - host of his
+own PBS show and a renowned accordion player - has been named as a possible
+candidate, but this is merely speculative and is not confirmed.
+
+
+Morton Koopa, Jr.
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The boss of Desert Land. Morton Koopa, Jr. has a white face and a star over his
+left eye, which is a reverse take on KISS member Paul Stanley, but he is named
+after pop/country singer Morton Downey, Jr.
+
+
+Wendy O. Koopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Wendy O. is the only female out of the seven Koopa kids. Unlike the others, the
+rings she shoots from her wand are perfectly circular and bounce around the
+room for the entire duration of Mario's encounter with her. She is named after
+Wendy O. Williams, the singer for the controversial punk band The Plasmatics.
+
+
+Iggy Koopa
+¯¯¯¯¯¯¯¯¯¯
+The bespectacled boss of Giant Land, he also has a modest shock of blond hair
+on his head, which is vastly different from the artwork in the manual, which
+depicts him with a tall rainbow mohawk and crazy big eyes. He is named after
+Iggy Pop, leader of The Stooges, an influential figure in the evolution of punk
+rock, and a moderately successful solo artist.
+
+
+Roy Koopa
+¯¯¯¯¯¯¯¯¯
+Roy wears horn-rimmed sunglasses similar to the musician he is named after, Roy
+Orbison, who at the time of SMB3's release was a member of the supergroup The
+Traveling Wilburys (he died while a member of that band). Roy is a heavyset
+fellow, and while the height of his jumps can easily be called pathetic, he can
+shake the ground with his girth in the same manner as a Sledge Brother.
+
+
+Lemmy Koopa
+¯¯¯¯¯¯¯¯¯¯¯
+Lemmy is borderline insane, to be blunt. He rides around on a green ball with a
+yellow star, and shoots the same ball from his wand. Because of his attachment
+to the ball, he does not jump at all. Lemmy is named for Ian "Lemmy" Kilmister
+of the band Motörhead. (Stands to reason that Bowser would like the hard rock,
+doesn't it?)
+
+
+Ludwig von Koopa
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The last of the Koopa kids you face; boss of Pipe Land. Like his brother Roy
+before him, Ludwig shakes the ground with his short but powerful jumps. Clearly
+he is named for classical musician Ludwig von Beethoven, and even shares his
+crazy hairstyle.
+
+
+Bowser Koopa
+¯¯¯¯¯¯¯¯¯¯¯¯
+The father of the seven Koopa Kids (which begs the question - who's the mom?).
+Now that his kids are old enough, he doesn't have to face Mario at the end of
+each world - only at the end of Dark Land in his castle. Bowser is quite a
+force to be reckoned with, but he can be taken down with 25 fireballs or five
+hammers. If you don't have either of those handy, then you can find a solution
+somewhere on the ground....
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | =================================
+   6 | WORLD MAPS AND LEVEL WALKTHROUGHS
+   = | =================================
+
+Before we jump into the walkthrough proper, a couple of important notes to
+consider:
+
+** This walkthrough is of course based on the original NES version of the game.
+   There are slight differences between this and the version in Super Mario
+   All-Stars; this guide will adhere to things that only appear in the NES
+   game.
+
+** World walkthroughs will go map first, followed by the level solutions. If 
+   there is a fork in the path and you can go to one of two levels, it 
+   shouldn't matter - they are all listed in numerical order.
+
+** Depending on any items you have, you may find an easier way to beat a 
+   level than what is listed here. This holds especially true if you are an  
+   avid user of items like P-Wings and Jugem's Clouds. I will be giving each 
+   level solution with the bare essentials of what you need to beat it - 
+   which means none of the fancy P-Wing or Hammer Brother Suit stuff.
+
+** Whatever a symbol means on a map, I'll only put what it means on the first 
+   place you encounter it. That means I'm not going to tell you what the 
+   symbol for a fortress is over and over and over and over... (Actually, in 
+   some worlds there are multiple fortresses, so I mark them on the map like 
+   F1, F2, etc.)
+     If you don't understand that, it means that if you can't figure out what 
+   a symbol means, go to the first world in the game where you see one of 
+   those objects and LOOK IT UP IN THE LEGEND. It only takes as much effort 
+   as you are willing to shell out to hold a mouse button down and scroll.
+
+Okay! Let's get rollin'!
+
+
+   --- | ----------
+   6.1 | Grass Land
+   --- | ----------
+
+GRASS LAND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+# (1-10)= Level Number (if applicable)
+MH = Mushroom House
+SH = Spade House (bonus level)
+F = Fortress
+L = Lock (what breaks when you beat the fortress)
+B = Bridge
+H = Hammer Brother
+C = Castle
+X = Starting Point
+o = one of those little knots on the map that you can stop on
+
+   
+               1----o--2--3----o
+               |       |       |
+               |       |       |
+          --X--o       o--4---MH
+               L       |
+               |       |
+               o---F--SH
+               |
+               |
+               o  MH---oB-H----C
+               |       |
+               |       |
+               5---o---6
+
+
+1-1: Get the mushroom at the beginning, then bop the Koopa Troopa and kick the
+     turtle shell into the "?" block on the ground to make a leaf come out.
+     Clear a path on the long straight stretch ahead, run to charge your "P"
+     meter, and fly up into the clouds, where you'll see a brick containing a
+     1-up.
+
+     Get another running start on the long row of clouds and fly right until
+     you see the top of a really tall pipe. Land on it, go in, and get all the
+     coins in the "3" formation. When you come out, you can go to the right and
+     exit the level, or go left to find a P-switch for a couple more coins.
+
+     NOTE: This is an easy level to try the Hammer Brother treasure ship trick
+           out on. See section 7 "Secrets and Extras" for the formula.
+
+
+1-2: Here we see some horizontal pipes from which Goombas emerge. If you have a
+     leaf, you can execute a trick to earn 1-ups here. Wait for two or three
+     Goombas to come out of a pipe, then jump on one and get maximum air by
+     holding A. At the peak of your jump, start tapping A to glide down slowly,
+     then land on the next Goomba. If executed properly, Goombas should keep
+     coming out of the pipe and you will be able to pounce them without ever
+     touching the ground. After accruing an ever-increasing amount of points,
+     you'll eventually start scoring 1-ups. Woohoo!
+
+     Once you're done fiddling with that, go over the pipe and down the hill to
+     two bricks. One of them contains a P-switch. Use the coins that turn into
+     bricks to get to the pipe and go in the pipe to get a block of coins. If
+     you stand on the right side of the pipe and jump before going down into
+     it, you will reveal a hidden 1-up.
+
+     Aside from that, there's a mushroom/leaf and a Starman hidden in some note
+     blocks, and then the level's over.
+
+
+1-3: Go forward to the mess of blocks that the red Koopa Troopa is walking on.
+     Stomp him and kick his shell to the left so that he breaks a huge portion
+     of the bricks. Hidden among the mess is a pink note block. Jump on it and
+     you'll be lifted to Coin Heaven, a scrolling cloudy paradise filled with
+     nothing but coins. If you have a leaf, you can even fly higher and find a
+     ring of coins surrounding a brick that has a 1-up in it.
+
+     When you leave Coin Heaven, you'll be dropped off near the exit. Now you
+     have two options: 1) head to the right and leave, or 2) get a super-secret
+     special item. If you want the special item, go left until you see a white
+     box. Stand on top of it and hold Down until you fall through it. You'll be
+     walking through the background now rather than the foreground. Run to the
+     right behind the black wall at the end of the stage. You will end up in a
+     secret mushroom house where you will earn a Warp Whistle. Awesome!
+
+
+1-4: This is the first of a series of levels where, if you obtain a set amount
+     of coins, a white Mushroom House will appear on the map. In this level,
+     you have to get all 44 coins situated throughout the stage.
+
+     After the groups of three coins each at the beginning, you will come to
+     some L-shaped brick layouts. At the small one that is made up of only
+     three bricks, press to the right of the screen and jump repeatedly at the
+     first brick to scroll onto the screen. It is a multiple coin block; hit it
+     as fast as you can to extract all the coins possible from it. Let the
+     wooden ledge fall at the column of eight coins so that you get them all,
+     then quickly jump into the middle and break bricks above you until you
+     happen upon the multiple coin block. After that, there are only three more
+     coins left in the stage. Proceed as normal to the end.
+
+     If you did everything correctly, a white Toad's House will appear when you
+     return to the map. Go inside to get a P-Wing.
+
+     There is one white Toad's House in each of the first seven worlds. In odd-
+     numbered worlds, you will get a P-Wing, and in the even-numbered worlds,
+     you will get an Anchor.
+
+
+1-F: Once you reach the question block near the Dry Bones that contains a leaf,
+     you can take one of two paths. If you go through the door to the right,
+     you will come to a room where the spikes descend slowly from the ceiling.
+     Hide in the necessary alcoves and wait for the door for the next room to
+     come up. You will fight Boom-Boom in the next room; stomp on his head
+     three times to kill him.
+
+     The other way out is to get the leaf, then stomp on Dry Bones to make him
+     crumble and give yourself some running room. Run until you have built up a
+     charge, then fly up to the wall directly above the leaf block and pull to
+     the right. You should land on the ceiling above the stage; go to the right
+     and press Up when you can't go any farther to enter an unseen door. In the
+     new room, you'll receive another Warp Whistle and the stage will end
+     without you having to fight Boom-Boom.
+
+     If you go the whistle way, the lock on the map will not break open. But,
+     seeing as it's not blocking anything important, it doesn't really matter.
+
+
+1-5: Slide down the hill at the beginning to get rid of the Buzzy Beetles in a
+     hurry, then go right and take the upper of the two paths. Jump against the
+     left wall of the hole that opens up to the surface to reveal a pink note
+     block; you should be able to tell where it is by the square of discolored
+     background. Play the Coin Heaven bonus stage, then when you exit, proceed
+     right to the end of the level.
+
+
+1-6: Shortly after the row of four bricks where the second one from the right
+     contains a 1-up, you will come to an area with a wooden lift that moves
+     when you drop down onto it. Ride that lift to the end of the level if you
+     don't have a leaf; if you do have one, you can skip the lift by getting a
+     running start from as far left as possible, then jumping and flying at the
+     far right edge. The screen will move up to reveal rows of three coins.
+     When you run out of flying power, float, but keep holding right. You
+     should be able to make it to safe ground, and from there to the end.
+
+
+1-C: Upon entering the level, you'll see that the king has been turned into an
+     apparently flea-ridden dog, and it's your job to transform him back by
+     getting his wand from one of Bowser's kids. Every world culminates with
+     one of these airship stages, but this one is the easiest - it's just a
+     matter of avoiding the cannonballs and Bullet Bills. Enter the pipe at the
+     end to face Larry Koopa.
+
+     All the Koopa kids require three stomps on the head or ten fireballs to
+     defeat. Larry has no special attributes that you have to watch out for, so
+     either bop him or send a barrage of fireballs his way. Also, watch out
+     when you stomp a Koopa kid's head; they'll retreat to their shell
+     momentarily and sail through the air before coming out (and in this state,
+     some of them can even shake the ground, so watch out).
+
+     When you defeat Larry, grab the wand. The king is changed back and the
+     inhabitants of Grass Land are happy once more. The Princess will send you
+     a letter with a P-Wing attached before you head off to the Desert Land.
+
+
+   --- | -----------
+   6.2 | Desert Land
+   --- | -----------
+
+DESERT LAND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+A = Angry Sun stage
+P# = P stands for pipe, and there are two of each number to indicate which ones
+     correspond with each other.
+PY = Pyramid
+R = Rock (only noted if located along a route)
+
+
+            SH----o----2    o----o  MH----o--4----oR--o--MH
+                  |    |    |    |        |       |       |
+                  |    |    |    |        |       |       |
+              o---o    o    o    3---H----A       H       H
+              |        |    |    |        |       |       |
+              |        |    |    |        |       |       |
+              |        F----o----o--P1    o  C    o       o----o
+              |                  |        |  |    |            |
+              |                  |        |  |    |            |
+              o  MH---P1         oR--o    5  o---PY            o
+              |        L             |    |       |
+              |        |             |    |       |
+      ----X---o----o---o            SH----o--o----o
+
+
+2-1: Get the mushroom/leaf at the beginning and watch out for the Micro-Goombas
+     hiding inside some of the bricks that will jump at you. Just ahead is a
+     Starman; get it and advance to the purple metal pipes. Go to the far right
+     edge and drop down the side, then break the brick to the left and go
+     inside the purple pipes to find a 1-up in a brick. Break the brick and get
+     back on top, then run from the right side to the left and fly to find a
+     pipe surrounded by bricks.
+
+     Inside is a P-switch that will reveal a few silver coins. The exit will
+     drop you off near the end of the stage. Go in the pipe closest to the
+     black background and hit the P-switch, then leave to find a few coins
+     between the pipes. If you're the patient sort, you can repeat this process
+     indefinitely for a 1-up or two, but don't hang around too long.
+
+
+2-2: Here you have another opportunity to reveal a white Mushroom House, if
+     you're interested in that sort of thing. This one will give you an Anchor,
+     which when used will keep the airship from moving all over the map if you
+     lose lives and it moves away from the castle.
+
+     Get the mushroom/leaf from the bouncy wooden block, then board the ledge
+     that moves over the water. After jumping over the Paratroopa, duck if you
+     are big and hit the two question blocks, but DON'T hit the P-switch that
+     comes out of the one on the right yet. Go forward and get all the coins
+     that are currently out, then swim back to the ledge and ride it again, and
+     this time, hit the P-switch. Ride and get the coins in the columns just by
+     standing until you come to the Paratroopa after them. When you first see
+     him, he will be flying away from you. Run and jump and bounce off his
+     shell, then position yourself as you're falling so that you get the last
+     four coins in a column in one fluid motion.
+
+     If executed properly, the white Mushroom House will appear when you exit
+     the stage.
+
+
+2-F: If you have a leaf when you enter this stage, you can pull a trick to get
+     a bunch of 1-ups in a hurry. Go forward and wait for all three Dry Bones
+     to appear on the screen at once. Bounce on one and get the highest jump
+     you can out of it, then float down onto the next one. As you jump on the
+     third one, the first one should be coming back to life. Repeat the process
+     until you're satisfied with your life count, then move on.
+
+     Go forward and then up through the pipe and run as fast as you can to
+     escape from the four Thwomps. In the next room, the spikes move up and
+     down. Take the low route for the first two groups of spikes, then jump
+     across the wooden blocks on the next one, and when the door rises from the
+     ground, enter it to face Boom-Boom once more. Three easy stomps will do
+     him in, but don't let him jump.
+
+
+2-3: Get the Starman at the top of the second orange pyramid and then head
+     right to the two large piles of bricks. Watch out for the Micro-Goomba
+     bricks as you head to the pile on the right. Stand on the left brick just
+     below the top one of that pile and jump; you should hit an invisible note
+     block. Jump right while on it to find another one and some hidden high-up
+     coins. Jump left while on it to find a series of hidden coin blocks which
+     end across from a couple of rows of bricks. In the brick on the left on
+     the top row of two is a P-switch. Hit it and drop down to get a boatload
+     of coins as well as a hidden 1-up (you should be able to spot it by the
+     fact that you can't get that coin, so hit it from underneath as you would
+     any brick). Use the Koopa-Troopas over to the right to clear out the
+     bricks that block the pipe to the exit.
+
+
+2-A: To get past the whirlwind in the middle of the level that takes you back a
+     few feet, run before coming to it, and then when you get caught in it,
+     jump to break free of its pull. When the Angry Sun starts trying to kill
+     you, find a Koopa-Troopa and bounce on it, then carry the shell until the
+     sun swoops down. At that point, kick the shell at the sun to kill it, then
+     run to the end of the level.
+
+
+2-4: With a leaf, fly up against the left wall at the beginning of the stage.
+     Break all the bricks as you fly and you'll end up above the stage at a
+     coin oasis of sorts. Jump in the water with the two rows of bricks sitting
+     just above it and hit the third from the left in the row on the right to
+     reveal a P-switch. There is another one in the mess of floating bricks to
+     the far right toward the end of the oasis. The descending note blocks will
+     lead you to the end of the stage, and there is a leaf in the last one.
+
+
+2-5: Move to the right past the Chain Chomps until you come to the several
+     orange background blocks with the riveted corners. There are many red
+     turtles here; take one of their shells past the blocks to the narrow
+     tunnels where at the bottom you find a pile of five bricks. Kick the shell
+     down there to reveal one that sends a beanstalk growing to the sky. Climb
+     it and hop the rows of clouds until you find a pipe to go in. Inside this
+     bonus room is a purple P-switch, found in the middle block on the bottom
+     row. There is also a leaf on the far right block along the same row. When
+     you leave this room, there is a leaf in the question block to the far
+     right. Get it, and from here you can hold right and float to the end of
+     the stage.
+
+
+2-PY: Enter the pyramid and get the leaf out of the question block you find.
+      There are three ledges you can jump to; hit the middle one and break
+      through the bricks with your tail, or with a Buzzy Beetle shell if you're
+      improperly equipped. From the pipe with the piranha plant, go up-left and
+      then up-right through another wall of bricks. Jump where you see the
+      discolored dots to reveal an invisible coin block that will allow you up
+      to the pipe, which takes you to a room where you can hit a P-switch for
+      coins and find a 1-up located out of sight above the stage.
+
+      When you leave that room, proceed up the slope to your immediate right
+      and watch out for the Buzzy Beetles crawling along the ceiling. When you
+      walk in close proximity to them, they drop off the ceiling and roll at
+      you. Either stomp one and use it to break the brick wall ahead or hurdle
+      them as they come at you and head for the pipe that takes you to the end
+      of this stage.
+
+
+Before proceeding to the castle, if you have the Hammer you got from one of the
+Boomerang Brothers in this world, you can use it on the rock in the upper right
+corner of the map (across from stage 2-4). This will open up a secret area with
+a Toad's House that gives you a Frog Suit and a Hammer Brother stage, where you
+will fight a Fire Brother duo for the third and final Warp Whistle. Of course,
+all of this is optional; if you feel like skipping it, just proceed to the
+castle after beating the pyramid level.
+
+
+2-C: This airship moves around a bit more than the previous one, and there's a
+     greater danger of getting crushed, especially in the area with the large
+     crates. Just before said crates, you can find a flower in a question block
+     that may be useful against the Rocky Wrenches toward the end, who, true to
+     their name, lob wrenches at you. These that you encounter are of the
+     yellow variety, which come back even after you kill them (as opposed to
+     the brown ones that go down in one hit).
+
+     The terrain in Morton Jr's lair is slightly more elevated, but his attack
+     style is no different from Larry's. Stomp on him three times to turn the
+     king back to himself once more. The Princess will give you a Jugem's Cloud
+     in her letter to you this time, which when used on the overworld map
+     allows you to skip one stage.
+
+
+   --- | ----------
+   6.3 | Water Land
+   --- | ----------
+
+WATER LAND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+DB = Drawbridge
+BT = Boat
+D = Dock
+
+
+    MH--o--o--3  MHDB-oDB-o--6B-o-7--H                D--MH
+        |     |       |   |  D       |
+        |     |       |   |  B       |
+        2     o       4---H  8B-o-SH-F2
+        |     |       |   |  |       L      SH--MH
+        |     |       |   |  |       |      |
+        o SH--F1--o---o   o  oB9-P3  P2     |
+        |     |       |   |              D--MH--SH
+        1     oLP1    5---oR-o-o-D-BT                          DB  C---o--P3
+        |     |
+    X--P1RSHR-H-P2
+
+
+3-1: Hold against the left side of the screen and drop straight down to find a
+     block containing a flower. Return to the top and swim right. At the wall,
+     you can take a shortcut by jumping up on top of it and traveling along the
+     top (you'll find another flower in a hole up here). Drop off the other
+     side, then go down until you see a Blooper Nanny.
+
+     There is a hole behind the Blooper Nanny that you can go down into.
+     Navigate your way through the bouncy note blocks to the ring of coins
+     surrounding a brick, which contains a 1-up. After grabbing it, swim
+     straight up and into the pipe before the Blooper that lies in wait is able
+     to ambush you, then clear the stage.
+
+
+3-2: In this level, if you have a Frog Suit from World 2, you can get down low
+     in the water and swim by the Cheep-Cheeps without getting hit all the way
+     to the end of the level. This same strategy also works in World 3-3 vs.
+     Boss Bass. (Thanks to Michael Malleson)
+
+     There is a chance in this stage for the repeat Starman trick. When you
+     first start riding the wooden platform, jump up to the L-shaped wooden
+     block ledge and bump against the wall. Stand on the column to grab the
+     star as it comes out, then quickly make it back to the rail platform and
+     hit each coin block along the path before your invincibility runs out.
+
+     If you run out of invincibility before making it to the next star, then
+     take out the Cheep-Cheeps by jumping on them during their "big hop" (their
+     pattern is two little hops, one big one). Don't bother with the flower at
+     the end - it's too close to the water.
+
+     When you go through the pipe to the last screen, be aware that there is
+     still one red Cheep-Cheep left.
+
+
+3-3: The main thing to watch out for here is Boss Bass, who patrols the water
+     below waiting for you to get low enough so he can eat you. No matter
+     whether you're big or small, Raccoon, Fire, or Frog Mario, if Boss Bass
+     eats you, you're dead. So then, the solution is obvious: stay on high
+     ground!
+
+     Fortunately, he's not invincible, and there are several ways for you to
+     temporarily keep him out of your hair. The best and easiest way is with a
+     Fire Flower. When he appears, wait for the level to go down low, then peg
+     him with a fireball. Continue until he pops up again, then fireball him
+     before moving on. If you do this, this level should be a breeze.
+
+     Even without a flower, you can employ other methods to get Boss Bass out
+     of your grill. Turtle shells work, as do the white bricks located near the
+     P-switch in the middle of the level. The P-switch also makes a row of
+     coins into bricks that you can run safely along. Use that time to make it
+     to the exit.
+
+     There is also a 1-up located to the far right of the exit .... unless
+     you're really good or really confident though, don't risk it!
+
+
+3-F1: Out of the nine doors in this stage, only three of them won't dump you in
+      the water upon entry. Starting from the left:
+
+      Door 5 takes you to a 1-up above the water. Stand on the left tip of the
+      ledge so that your foot hangs off a little, then jump and get it when it
+      moves off to the right.
+
+      Door 9 goes to a room apart from the water area. There are several
+      invisible coin blocks in this room along with the coins you can see.
+
+      Door 6 takes you to Boom-Boom. Jump on him immediately after the first
+      stomp, as now Boom-Boom can grow wings and swoop down at you from above
+      in order to attack. The usual three will work.
+
+
+3-4: Near the beginning, on the slope with the Goombas, you can slide down and
+     use the tiny ramp at the end to make a jump clear over to the high plateau
+     across the lake, thus avoiding the Cheep-Cheep. (There is also an
+     invisible coin block against the wall if you don't make it.)
+
+     After a slope with three green Koopa Troopas, you'll see two bricks
+     directly beneath a pipe. The one on the right contains a P-switch which
+     makes several silver coins appear. Grab those, then continue right to the
+     line of bricks, the second of which contains a 1-up. Avoid Lakitu's green
+     Spiny Eggs on your way to the exit.
+
+     Also:
+
+     If you're patient and willing, you can create a 1-up factory. Off the
+     third slope from the start (the one with three green Koopas), spare the
+     last for the time being. Killing the hanging Venus flytrap - same area as
+     the P-switch - is a huge plus for your survival. Go on until you cross
+     into the area where Lakitu would start to hover, and head back with him
+     tailing behind. Knock the surviving Koopa into its shell, and carry it to
+     where the P-switch was. Have Lakitu drop off some of his eggs and kick the
+     Koopa off. As it ricochets in between the wood blocks, whatever eggs are
+     in its way turns to 1-ups for you. The eggs, for the majority of Lakitu's
+     attempts, will never hit you, since the pipe is causing them to deflect
+     off and into the line of fire. Bail out when you're back to small Mario,
+     or the timer reaches 100. (Thanks to R. Deland Smallwood IV)
+
+
+3-5: Time to get your frog on! If you have a Frog Suit, put it on before coming
+     into this level. Stay low in the water as you move along, being careful to
+     avoid all enemies. Eventually, you'll come to a row of seven coins before
+     a pipe with bubbles shooting out. Only with the Frog Suit can you enter
+     pipes that emit these bubbles. When you go in this pipe, hold right on the
+     D-pad so you can reach the giant question block. This block contains three
+     1-ups. Stand to the right of the block after hitting it; the 1-ups will
+     bounce off the wall to the left and come to you.
+
+     After leaving this bonus room, lose your Frog Suit, since it won't do you
+     much good in the land-based levels ahead.
+
+
+3-6: Move with the natural rhythm of the level until you come to a white brick
+     on top of a Donut Lift (the pink things that shake and fall when you stand
+     on them). Grab the brick and let the Donut Lift fall, then step off to the
+     right and kick it at the block on the ground to extract a leaf.
+
+     After two lone ledges hanging in the air, you'll come to one where you can
+     take the high road or the low road. Take the low road and either use your
+     raccoon tail or one of the white bricks provided to hit the brick just to
+     your right, which contains a P-switch. Hit the brick between the wooden
+     ledges, then get the coins and head to the end of the stage. Watch out for
+     the spinning platform above the pipe.
+
+
+3-7: Someone else's solution, not mine, but I like it, so I'll use it:
+
+     "Midway through the stage is [a] setup of bricks with a vine (beanstalk) 
+     leading to the clouds. If you jump off the vine, but go RIGHT instead of 
+     left, you'll land on a lone cloud platform. Jump in the dead center of it
+     to make a Note Block of the pink variety appear, and you're off to a [Coin
+     Heaven]. The landscape here is different than that of the coin bonus in
+     Worlds 1-3 and 1-5, and there is not a 1-up at top center. But this
+     particular bonus leads to a Jugem's Cloud and the end of the level... by
+     taking the cloud from the small chest, of course." (Credit to John R.
+     Jones)
+
+
+3-F2: A short level. Use the flower in the middle of the first room to clear
+      out the Cheep-Cheeps. In the second room, go under the first two Stretch
+      ghosts, then stand on the third one. Go between the last two when there's
+      an opening. Through the pipe is Boom-Boom - three hits.
+
+
+3-8: Another Boss Bass level. This one's a bit tougher, so equip a Fire Flower
+     before going in. The level is peppered with question blocks containing
+     beanstalks, and best of all, you can shoot fireballs while sitting on
+     them. Get all the coins along the way, and when you get near the end of
+     the level, take the tunnel with the coins and the P-switch (get all the
+     coins before hitting the P-switch, of course). If you get 44 coins in this
+     level, you'll reveal a white Mushroom House.
+
+
+3-9: Make your way as far to the right of this level as you can. Along the way,
+     there is a Fire Flower in a note block you should get, along with a 1-up
+     in the H-shaped wooden block/white brick arrangement. The pipe will take
+     you down into a watery area. Swim all the way to the left over the large
+     blue wall you come to. Go as far left as you can and enter the pipe. Hold
+     right on the D-pad when you go in to make it to the giant question block,
+     which contains a Frog Suit. Leave the room and swim all the way to the
+     right, into the pipe which takes you to the end of the level.
+
+
+The Canoe: You've probably noticed a canoe on this world's map by now. There is
+           a Hammer Brother here who will give you a hammer if you beat him; if
+           you want to ride the canoe, use the hammer to break the rock that is
+           blocking it. You can access three Toad's Houses and two spade games
+           using the canoe.
+
+           HOWEVER! If you SAVE your hammer for World 4, you can use it to get
+           a Tanooki Suit from a red Toad's house next to World 4-1. It's your
+           choice, though.....
+
+
+3-C: The Frog Suit from World 3-9 is actually pretty well-suited to this air-
+     ship. You can't jump over the first column past the Rocky Wrenches and
+     Bullet Bill machine, so go under/around the cannons, then jump up and
+     stand next to that Bullet Bill cannon so it doesn't fire at you. Look for
+     an opening, then move through the four cannons (don't jump, just move
+     forward).
+
+     Keep jumping on the blue screw-type platform to stay above the flame-
+     blowing machines, then leap to the right when the wooden ledge appears.
+     At the next column that stretches to the top of the screen, you can jump
+     over that one, so do so and eliminate the Rocky Wrenches as they pop up.
+     From there, leap to the pipe.
+
+     Wendy O. is one of the more difficult Koopa Kids to fight. At the start,
+     she will pop a ring out of her wand, which will bounce around the room for
+     the duration of the battle. She will release another one each time you
+     jump on her. After two hits, she will start jumping very high in the air.
+     Stay near but on your guard and catch her on the way down. The Princess
+     will leave you a Music Box in her letter, which when used on the world map
+     will put all Hammer Brothers to sleep, allowing you to pass by them with-
+     out fighting them.
+
+
+   --- | ----------
+   6.4 | Giant Land
+   --- | ----------
+
+GIANT LAND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+             X--P1             MH--6--o--o  P2LF1---H--3--o--2
+             |                     |     |      |         |  |
+             |                     |     |      |         |  |
+             o              C---o -HBF2  H---o  o--SH    MH  o
+             |                     |     |   |  |            |
+             |                     |     |   |  |            |
+             P2                SH--5--o--o   o--4     MHRP1--1
+                                                |
+                                                |
+                                               MH
+
+**Where there is a gap in the map above, a bridge will appear there when you
+  beat the nearby fortress.
+
+
+4-1: Aside from the novelty of gigantic enemies, bricks, and pipes, this is not
+     much different than any other level. Go until you pass through a waterfall
+     between two sets of two pipes. Clear out the enemies past it, and then, if
+     you have a leaf, get a running start and fly up to a large pool filled
+     with water. Swim all the way to the left and go in the pipe to a room with
+     two 1-ups, making sure to avoid the two Big Berthas once in that room.
+
+     When you leave, jump out to the right and carefully proceed forward to the
+     end of the level.
+
+
+4-2: To get the anchor from the White Mushroom house in this level, go ahead of
+     the P-switch lying out the open and get those six coins first, then return
+     to the P-switch and hit it when the land is at its highest level. Drop and
+     grab the coins, then get the rest and avoid the Cheep-Cheeps soaring
+     through the air as you head to the right.
+
+
+4-3: Start this level off by equipping a Starman before you go in. This will
+     help you get by the Sledge Brothers, whose jumps shake the ground and will
+     temporarily immobilize you if you're caught on the ground during that
+     time. Stay in the air while facing them, then go in either pipe - they
+     both take you to the same place.
+
+     Inside, you'll have to use running jumps to get to most ledges since they
+     are spaced so far apart. Don't jump on the Spinys that fall from the roof,
+     either - they will still hurt when jumped on. Use a raccoon leaf and whack
+     them when they're near instead. You can then hold and kick them as you
+     would a normal shell.
+
+     When you come to a three-brick arrangement above you, hit the one on the
+     left for a 1-up, then follow it as it rolls along. Continue forward and
+     watch out for the wood blocks that bounce you back, then head out the pipe
+     and finish it out.
+
+
+4-F1: Watch out for the Hot Foot candles (which walk after you when you turn
+      your back to them) and the Thwomps that move side-to-side, and when you
+      reach the five light gray pipes, go in the middle one. Get the flower
+      from the row of question blocks, then find the discolored parts of the
+      background to the right and hit them from below to reveal hidden coin
+      blocks.
+
+      When you exit, you'll be situated right in front of Boom-Boom's lair.
+      Take him out in the usual three stomps, or you can use five fireballs if
+      you have the Fire Flower.
+
+
+4-4: If you still have a Frog Suit left in your inventory, put it on for this
+     level. Swim immediately down and past the bubble-shooting pipe to the left
+     to get to a pipe leading to a bonus room. This room has a huge payout to
+     collect courtesy of the two P-switches. Concentrate on each one separately
+     and then head out the pipe to the right. Once back in the level proper,
+     make a break for the exit, avoiding any Spinys Lakitu tosses in from
+     above.
+
+
+4-5: Although you can technically skip this level, there's a Tanooki Suit in it
+     for you if you play through it.
+
+     In this level you will encounter flashing Bullet Bills known as Missile
+     Bills. Instead of moving ahead and off the screen, they will turn around
+     and try to come back after you, staying up in your grill until you bounce
+     on them or move past them. Keep moving through them until you can see half
+     of a brick at the top of the screen. Use the momentum you get from jumping
+     on one of the Missile Bills to reach it, then use another one to jump up
+     to the beanstalk that comes up out of it.
+
+     Go in the pipe, get the Tanooki Suit from the giant block, then hit the
+     P-switch and leave the way you came in. Forget about trying to get all the
+     silver coins and just make a run for the exit.
+
+     With the Tanooki Suit, you can turn into a statue that is impervious to
+     all attacks by pressing Down + B at the same time.
+
+
+4-6: One unique thing about this level is that it has doors that allow you to
+     switch back and forth between giant and regular-sized enemies. If you have
+     trouble with the big enemies, the door is certainly helpful, but the level
+     isn't hard to begin with, so do what you like.
+
+     Just be sure not to miss out on the 1-up at the beginning (located in the
+     second brick from the right in the top part of the rectangle made of
+     bricks) or the Starman in the bounce-back wooden blocks toward the middle
+     of the stage. That's really all there is to this one.
+
+
+4-F2: Don't stand on any one Donut Lift too long here at the start. Take
+      running leaps to each platform until you reach the safe silver ground.
+      Move carefully around the myriad Dry Bones and hit the brick that reveals
+      a silver P-switch. When you hit it, you will see a few silver coins in
+      the shape of a door to your left. Stand where the "door" is and press Up
+      to make it to a secret room.
+
+      The directional lifts will move in whatever direction the arrow on the
+      yellow panel points when you stand on it. If it has a light bulb on it,
+      it will change direction each time you jump (it knows which direction to
+      go in, don't worry about that). After the first three lifts, there are
+      two pipes you can go up through. Go through the left one, then step off
+      to the right and go up through the next one.
+
+      You'll face another light-bulb lift. Go left, up, right, and up to the
+      pipe that will take you out of here. In the next room, stand on the left
+      side of the red pipe at the bottom and jump to reveal a coin block. Stand
+      on that one and jump to the left to reveal another, then stand on THAT
+      one and jump to get an out-of-sight 1-up.
+
+      When you leave through the red pipe, you'll be in a room with a large
+      question block. Hit it to get three 1-ups. If you can fly, you can crack
+      the column of bricks tucked away in the upper left-hand corner and grab
+      some coins - maybe enough for a fourth 1-up.
+
+      When you leave this room, you'll be surrounded by three Dry Bones and a
+      Rotodisc. Past them is Boom-Boom. You know what to do.
+
+
+4-C: Except for one Rocky Wrench who can be avoided by taking the lower of the
+     two paths, there are no enemies in this airship - only flame-blowers.
+     Interestingly, if you have a Tanooki Suit, you can stomp out the flames by
+     jumping over them, turning into a statue in midair, and falling on them.
+     If you do this, the machines will be permanently disabled, making this
+     airship much easier.
+
+     Toward the end is the hardest part. Wait for the first of the three flames
+     to shut off, then jump up to the second step and duck. Wait there for the
+     other two to go off at the same time before jumping through. If you don't
+     have any powerups to speak of, there is a question block to the right of
+     the pipe.
+
+     Iggy is like Wendy O. in that he starts jumping really high after you hit
+     him twice. He already has good jumping power anyway, and he can shoot two
+     sets of rings from his wand at once. Like all the others though, it takes
+     three bumps on the noggin to do away with him. The Princess will give you
+     a P-wing, and you'll be on your way to Sky Land.
+
+
+   --- | --------
+   6.5 | Sky Land
+   --- | --------
+
+SURFACE MAP
+¯¯¯¯¯¯¯¯¯¯¯
+ST - Spiral Tower
+
+                                o--2--MH  3--H
+                                |  |      |  |
+                                |  |      |  |
+                                1  P1 P1--o  o--ST
+                                |      |     |
+                                |      |     |
+                                o  F1--o  o--H
+                                |  |      |
+                                |  |      |
+                            ----X  o--SH--o
+
+
+SKY MAP                    
+¯¯¯¯¯¯¯
+
+                                            MH
+                                             |
+                                             |
+                                   P2*    o--5
+                                    |     |  |
+                                    |     |  |
+                                 oL-o--4--o SH
+                                 |           |
+                                 |           |
+                             SH--o-F2--o--7--o
+                                    |  |     |
+                                    |  |     |
+                           C--o--9--8  o-MH--6
+
+*P2 is not listed on the surface map because it leads back to the Spiral Tower.
+
+
+5-1: If you want a Music Box, use a P-Wing before going into the level and fly
+     straight up and into the pipe in the air. Duck and fly at the same time
+     into the narrow passageway that you normally would have to be small to get
+     through, then stand up. You'll be pushed into a room with a Music Box and
+     the level will end.
+
+     There is another pipe you can go through if you don't want the Music Box,
+     and it will take you to an area under the level with four 1-ups. Fly to
+     the right once you've gotten them, tail-whack the Walking Piranhas, and go
+     to the exit.
+
+
+5-2: There are two ways through this level.
+
+     The first is to bounce on the note blocks on the way down and stay on the
+     bricks, then make your way up to the vertical pipe. Go in it, then slide
+     down the slopes ahead. Go in the first pipe you see to find a large quest-
+     ion block with three 1-ups in it. When you leave, you'll be a bit farther
+     ahead and near the exit. It's an easy trip from here.
+
+     The second is to fall all the way down to the pond at the bottom and go in
+     the pipe in the middle. You'll be taken to a tacky green underground area.
+     The easiest way to avoid the Buster Beetles (the stumpy guys who walk up
+     and throw the white bricks) is to get close to them and duck. They throw
+     the white bricks in a pretty high arc, so if you duck, you can avoid them
+     pretty easily. Keep this up to the end of the level.
+
+
+5-3: Ahhh, the infamous Kuribo's Shoe level =)
+
+     To get the shoe on you, let a Goomba jump up onto a brick, then crunch the
+     brick from below and let it fall on you. With the Kuribo's shoe on, you
+     can jump on Spinys and Piranha Plants (but not their fireballs) to kill
+     them and walk on Munchers (the black piranha plants), which will allow you
+     to get a 1-up in the first half of the stage. Aside from that, it's a
+     straightforward level, no surprises.
+
+
+5-F1: This one's out of the way and not worth the effort, but if you must....
+
+      Have a raccoon tail or Tanooki Suit coming in. Go to the right to the
+      four bricks, clear them out, then go stand next to the lava back to the
+      left. Duck so the Rotodisc doesn't hit you, then when it passes, run to
+      the right and fly to the top of the winding tunnel. Go in the red pipe
+      there.
+
+      The coins form an arrow that points up. Fly around the top of the room to
+      find three 1-ups in hidden blocks. Leave through the pipe on the floor
+      and head to Boom-Boom's lair.
+
+
+ST: The first two rooms are pretty easy, dealing with Rotodiscs and Thwomps
+    respectively. When you exit through the pipe in the second room, you'll be
+    taken to the outside part of the tower. Here, if you still have a tail, you
+    can unearth several surprises, including a 1-up on the middle tower and a
+    few multiple-coin bricks. (You can also get a multiple-coin brick on the
+    other side of the wall if you make it this far with a P-wing, but it's not
+    worth it.)
+
+    After going through two more easy rooms, you'll be at the end of the line.
+    Once you come out the blue pipe, you can't go back. Go to the right and
+    jump up until you hit a block with a beanstalk in it. Climb it and go in
+    the pipe to reach the sky portion of Sky Land.
+
+    NOTE: If you go back through the pipe to the surface part, you'll just fall
+          a short distance out of one pipe and land on another, which you go
+          through to get to the world map. If you have a tail, you can whack
+          the brick to the far left near the cloud to reveal a 1-up.
+
+
+
+5-4: Come into this level as at least Super Mario (if you have a leaf or a
+     Tanooki Suit, use that). Get the leaf in the nearby question block if you
+     are just Super Mario, then get your running meter charged up from the
+     cloud you're standing on and fly up to find some clouds with coins on
+     them. Run along them, then run and float all the way to the end of the
+     stage.
+
+     Also, at the end of this stage, you'll have to deal with Lakitu at the
+     exit. If you wait near the goal card and wait for four Spinys to appear
+     onscreen at the same time, then if you grab the card at that time, you'll
+     get a 1-up. This works in any level that takes you to this screen at the
+     end.
+
+
+5-5: Lots of Donut Lifts here - don't stand in any one spot for too long! You
+     can get a white Mushroom House here as well, if you want a P-wing.
+
+     Near the beginning are two pipes covered by bricks. If you have a tail,
+     beat them away with it; otherwise, use a turtle shell to break them, then
+     go in the one on the right. Fall straight down to get all the coins, then
+     get the Tanooki Suit out of the giant question block.
+
+     If you want the white Mushroom House, backtrack and get the 17 coins to
+     the left. To get the ones under the Donut Lifts, stand on each one as it
+     falls, then jump to the next one as soon as you've gotten the coin under
+     it, repeating the process until you have them all.
+
+     Head to the right and go up into the wooden blocks and hit the brick on
+     the left for the last coin, then head to the exit. (Also, there are a lot
+     of leaves in various boxes in this level. Don't get them if you like your
+     Tanooki Suit!)
+
+
+5-6: When you stand on the backs of the red Parabeetles, they'll slowly gain
+     altitude. They make up the first half of the level; use a leaf so you can
+     make precision landings, as there's not much ground to land on. The second
+     half is inhabited only by a Fire Chomp and a P-switch. As soon as you get
+     to the long row of bricks, you'll see a smaller row at the bottom of the
+     screen. Go down and then hit the second brick from the right to reveal the
+     P-switch. It will last long enough to get you to the end of the stage.
+
+
+5-7: There are two easier ways to beat this one rather than just playing it
+     straight. Both involve using items before going in.
+
+     The first is to use a Starman prior to going in. Normally there are no
+     stars in the level, but by using one, it becomes one of those where if you
+     get to the coin blocks before your invincibility runs out, you'll get
+     another star instead of just a coin. There are five stars you can get: one
+     in each of the sets of three (spaced apart) at the beginning, two in the
+     area with the small pipe that takes you to an uninhabited secret area
+     (more on that area in a second), and one in the brick above the pipe where
+     you first get to Lakitu and the Bullet Bill crossfire.
+
+     The second requires a P-Wing. Make it to the small pipe with the small
+     green piranha plant. Go in when he retreats and fly through the area you
+     get to. There is a P-switch among the pile of bricks; collect the coins
+     from it, then fly over the blue wall to the far right to go instantly to
+     the end of the stage, thus avoiding the Bullet Bills and bouncing bricks.
+     Stay against the wall when falling, though, because Lakitu is there.
+     (Credit to R. Deland Smallwood IV)
+
+
+5-F2: A short but simple stage. When you get to the row of six question blocks,
+      hit the last one for a star. Get as far as you can before it runs out.
+      When you aren't invincible, watch the lava pits carefully. Here, the
+      Podoboos come out of both the lava pit below and the ceiling above. Time
+      your jumps carefully, then when you get to Boom-Boom, three hits.
+
+
+5-8: Get the power-up at the beginning (a leaf if you're already Super Mario).
+     Just ahead, Lakitu awaits. He's your main worry in this level. Usually, a
+     blind run will work in this level, and if you can get a good enough charge
+     while running, you can fly over most of it. There are no surprise twists,
+     however, so it's just a matter of making it to the end in one piece.
+
+
+5-9: Fire Flower, not P-Wing, is your best friend here. There are no super-
+     difficult jumps to make, the level is short, and the only enemies you face
+     are two Fire Chomps, both of which come from below. The first one is easy
+     to aim at and kill; the second one's a bit trickier in his approach. Avoid
+     his first flame by standing on the opposite side that it veers toward,
+     then run/jump to the next one, turn around, and try to fireball him. If
+     you miss, don't worry; generally, after that point, he stays on the outer
+     fringe and doesn't bug you much aside from the occasional flame. This one
+     is easier than it looks.
+
+
+5-C: This airship is pretty short but has a LOT of cannons, most of which are
+     situated against walls that you can walk on top of if you can reach them.
+     This is especially a good strategy against the eight-cannon assault at the
+     end. If you can, get a momentum boost from one of the cannonballs near the
+     beginning of the large wall and land on top of it. If this isn't possible,
+     walk slowly through the cannon fire - no jumping. Jumping will only
+     increase your odds of getting hit. After the large wall, thankfully, is
+     the pipe leading to Roy.
+
+     Roy doesn't have much jumping ability, but he makes up for it with his
+     ability to shake the ground each time he hits it. When you hit him, stay
+     up in the air as his shell jumps around. He'll hit the ground twice each
+     time he's in his shell; try to hit him again as soon as he comes out to
+     minimize his earthquakes. If you get immobilized by one of the tremors,
+     he'll zap you while you're down without exception. Hit him three times to
+     save the day and earn a Jugem's Cloud.
+
+
+   --- | --------
+   6.6 | Ice Land
+   --- | --------
+
+ICE LAND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯
+
+                         MH           P2-o o
+                          |                |
+                  o--2-oRP1           o-o--o   9--o--o
+                  |    |              |    |   |     |
+             X-1-SH F1BHL-o-P2 o--6-H F2Bo 8-o-o F3B-oL--oB-oB-o--C
+               |  |    |  |    |    |    |     |     |     
+              P1  oB-o-3 SH--4-H MH o-oR-o-7   o--o-10
+                               |  | | |    |
+                               o--5-o-o-SH-o
+
+
+6-1: Use either a leaf or a Tanooki Suit before going into this level. Whack
+     the first piranha plant, then go back to the start, face right, run, and
+     fly until you see an orange door on a wooden platform. Go inside and jump
+     to the top level. Run and duck to slide under the large ice blocks until
+     you get to the P-switch. (If you're in a Tanooki Suit, don't forget to let
+     go of the B button as you slide so that you won't turn into a statue.)
+     Pound it, then get to the bottom level as fast as you can and clear out a
+     path to the door.
+
+     When you exit through the orange door, you'll land next to a pipe. Proceed
+     to the exit, tailwhacking all enemies in your way.
+
+
+6-2: Since there are almost no slippery surfaces to speak of, this isn't really
+     a difficult level. It helps to have a tail for some of the parts where you
+     can whack through the brick columns, but the scrolling is slow and the
+     clouds have more than enough room for your landings. Don't miss the 1-up
+     near the end; you'll see it on the way down, and it will be above your
+     field of view by the time you can get to it, but it's an easy one to get
+     all the same.
+
+
+6-3: Bounce on the note blocks at the start until the wooden ledge comes to
+     you. Land on it and duck as you go under the ice column, then go forward
+     until you see three bricks, with a gap between the first and second ones.
+     The first contains a white beanstalk; use either a tailwhack or the shell
+     of the nearby Koopa-Troopa to open it up.
+
+     Climb the beanstalk and bounce off the note block next to it so you can
+     get up to the pipe. Inside is a giant question block holding a Tanooki
+     Suit. You can also fly up against the left wall and break the bricks to
+     get up to a higher level with coins.
+
+     Before leaving this bonus room, get a running charge and go up through the
+     pipe with the meter full and whistling. When you come out of the pipe, you
+     should retain the charge. Immediately fly to the right, and keep tapping A
+     when it runs out to float down slowly. If done correctly, you should land
+     right at the end of the stage.
+
+
+6-F1: If you still have the Tanooki Suit from 6-3, ride up the rail platform
+      here as a statue. Any Podoboos and Rotodiscs that run into you will die.
+      Jump off the rail when it starts heading down into the spike pit. Use the
+      statue form in the next room to kill/evade Rotodiscs, then stomp Boom-
+      Boom three times.
+
+
+6-4: To get the 1-up at the beginning easily, tailwhack it from the left side
+     and then jump onto the single ice block below it - that way it will come
+     to you. Ride the rails until you find a P-switch on top of a column of
+     bricks. Hit it, then book it, running past the Fire Chomp. Be careful of
+     the final spinning whirligig, as it can knock you into the pit if you are
+     not careful.
+
+
+6-5: You need a leaf to beat this level. A P-Wing is preferable as well.
+
+     Enter the pipe. If you don't have a leaf, go in the first vertical pipe
+     you see to get to a room where you can get one. If you're small, it will
+     be a mushroom; just come to this room again as Super Mario so it will be a
+     leaf in there.
+
+     As you can see, there are a number of holes in the ceiling. The exit to
+     this stage is up one of those holes. Find the area with three white bricks
+     in a column, a green Koopa-Troopa, another white brick, which a Buster
+     Beetle will come up and attempt to throw at you, and a column of four
+     regular bricks. Clear out every enemy and object there EXCEPT the Koopa-
+     Troopa.
+
+     When everything is clear, stomp the Koopa-Troopa and carry his shell. Get
+     your running meter to full, and then, with the shell in hand, fly up into
+     the hole in the ceiling located there and land on top of the brick pile.
+     Kick the shell into the white piranhas that are sitting there, then clear
+     out the other brick blocking the exit pipe.
+
+     If you beat this stage, you will gain access to a Toad's House where you
+     can get the coveted Hammer Brother Suit. Be sure to save it for a good
+     occasion!
+
+
+6-6: If you have a P-Wing, you can fly over the wall at the beginning and go
+     straight to the end of the stage. If not, enter the pipe to the cave.
+
+     If you're not wearing a suit item, take the top route at the fork to find
+     a flower (watch out for the Cheep-Cheep hopping from pond to pond). Return
+     to the bottom route and bop one of the wooden blocks from the side to find
+     a star. Grab it and run to the water.
+
+     When the tunnel you go into opens up into a wider area, swim up and go up
+     onto the shore. Jump where you see a discoloration in the background to
+     find a hidden 1-up. There's a flower in one of the question blocks which
+     will help you immensely; grab if it you need it, then swim to the end of
+     the maze. From here, it's a straight path to the end of the stage.
+
+
+6-7: If you get all 78 coins in this stage, you can reveal a white Mushroom
+     House. Ice Land is an even-numbered world, so it's just a boring old
+     anchor, but if you want it, here's how to go about it.
+
+     Enter the stage equipped with a Fire Flower. At the first Donut Lift with
+     coins below it, it looks like there are only two there, but there are
+     three. Jump to land as soon as you grab the third one, then go to the
+     Donut Lift near the top. A Fire Chomp will enter the level about this
+     time; deal with him, then stand on the third Donut Lift and grab all six
+     coins when it drops. 
+
+     Here the level starts scrolling to the right. Stand on the Donut Lifts as
+     they fall, jumping when you grab all the coins below them, and be sure to
+     get the coins in the question blocks as well. When you come to the block
+     that contains a flower alongside the bricks, get the flower, then jump up
+     to the next two Donut Lifts. Stand up against the ice wall and jump to
+     reveal a hidden 1-up. You will need to keep the flower all the way to the
+     end of the stage.
+
+     Now the screen will scroll up diagonally. Hit the Donut Lifts in order,
+     then fireball the Fire Chomp that appears at the top. At the end of this
+     run is a Donut Lift wedged between some ice blocks; do not ride it down
+     until the screen stops scrolling. Jump from the donut to the note blocks
+     and enter the pipe.
+
+     This is where you'll need the Fire Flower. Hit each ice block with a fire-
+     ball to melt it, allowing you to get the coin inside. There is also an
+     invisible coin block to the left of all the frozen coins, bringing the
+     total to 78.
+
+
+6-F2: If you have a Hammer Brother Suit, this is a good place to use it. The
+      hammer can take out Boo Diddly and Thwomp, PLUS it can kill Boom-Boom in
+      just ONE hit! (It can't kill Rotodiscs, though.) If you don't have it,
+      just be careful and don't slide on the ice too much. There's a leaf near
+      the beginning to help you out. Boom-Boom is also a little tougher than
+      usual because of the layout of his lair, so try to keep him in one spot
+      after you pounce him the first time.
+
+
+6-8: Hmm, a surprisingly tropical level...
+
+     There are a lot of white bricks in this stage, so expect some Buster
+     Beetles to appear. On top of the H-formation about halfway through the
+     level, stand on the top of the right column and jump to find a hidden
+     1-up, then take a brick and use it to take out the white piranhas ahead.
+
+     If you have a P-Wing, near the end there is a P-switch. Hit it and fly
+     straight up to find the coins. At that same spot where the P-switch is,
+     you can also fly under the green ground to the left. It's not productive,
+     it's just fun.
+
+
+6-9: This is another of those stages that you can fly over the top of to get to
+     the exit instantly. Just use a P-Wing, go over, get the 1-up, and head to
+     the end. If you're P-Wingless, however, go through the pipe to the level
+     proper.
+
+     It's a water level! There are several routes you can take in this level.
+     For my money, the easiest way is to come in equipped with a Fire Flower
+     and take the water route all the way to the end, blasting all enemies on
+     sight. If you have a Frog Suit, you can also use it in this level to get
+     past some bubble-shooting pipes to a bonus room containing three 1-ups and
+     a lot of coins. You can't be blamed for not keeping one in your inventory
+     this late into the game, though. When you get to the far right end of the
+     level, jump from the slope to the ledge above water to the left. Hop on
+     top of the pipe and jump into the one above you to get to the exit.
+
+
+6-10: Go forward and get the flower out of the first question block. Proceed to
+      the large wall and wait for the Buster Beetle to throw two white bricks,
+      then throw the last one at him. See the 2x2 brick arrangement to the
+      left? Toss the white brick you can get, then duck and slide under the
+      brick and hit it to reveal a beanstalk. Climb the beanstalk and hit the
+      brick on the far left to reveal a P-switch.
+
+      When you hit the P-switch, go right as fast as you can and find a small
+      pipe blocked by frozen Munchers. When you melt the Munchers with your
+      fireball, they will turn into coins under the effect of the P-switch
+      instead of into Munchers like usual. Go in the pipe to get a Hammer
+      Brother Suit.
+
+      When you come out, head to the right. If you can successfully avoid the
+      Buster Beetles, you should be able to get through to the end without
+      losing your fancy new suit.
+
+
+6-F3: If you still have your Hammer Brother Suit, it will come in really handy
+      here. The hammers can kill the Boo Diddlys, Thwomps, and Stretches (but
+      not the Rotodiscs, you may recall). Whatever item you have, proceed VERY
+      slowly and with much caution. This is a fairly difficult room to pass
+      through.
+
+      When you go through the door, you'll fall straight down to a floor which
+      will rise. Avoid the trio of Boo Diddlys and make your way to the right
+      side of the screen. When the floor meets with the door, enter. With the
+      Hammer Brother Suit, you can kill Boom-Boom before he even gets a chance
+      to move by running and firing a hammer as soon as you reach the part of
+      the room where the hallway opens up into the larger room. Otherwise, it's
+      the usual three.
+
+
+6-C: Keep jumping on the screw-type platforms to stay on top of them. As with
+     Iggy's airship, there are no true enemies on this one, only the cannons
+     that blow long flames at you. If you stay to the right side of the screen,
+     all of them are fairly easy to avoid.
+
+     Lemmy is like Wendy in that his wand doesn't shoot magic. He's a bit
+     easier though, because the balls that come out of his wand can be jumped
+     on. They also bounce around pretty slowly, giving you plenty of time to
+     escape from them. Bounce on his head three times to get him; hammers do
+     not work on the Koopa Kids.
+
+     The Princess will give you a P-Wing in her letter to you this time.
+
+
+   --- | ---------
+   6.7 | Pipe Land
+   --- | ---------
+
+PIPE LAND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+\/ - Piranha Plant Level
+
+
+                S--o--o    P3     P2 F1-SH--6   7--o--P7
+                |     |     |      L  |     |   |      |     P5
+                1-P1 P2    MH  P8-\/--o-P6 P7  SH--o---8--MH
+                                                       |
+                P1-P3     o--4-SH--o--5--P5    P8L-9---o--F2
+                |        |        |      |                |
+                2-P4    P6        3-P4  MH        C---oB-\/
+
+
+7-1: Go in the door to the level proper, then start making your way up. Once
+     you pass through the narrow gap between the two skinny pipes, you can get
+     a running charge if you have a leaf and fly up the left side of the screen
+     into a room full of coins. If you don't have it, head up the right side
+     and follow the path to the end.
+
+
+7-2: You'll need a Frog Suit to get the white Mushroom House from this stage.
+     Enter the first pipe that is wedged way down low between the high cliffs
+     and swim all the way to the left. Get all the coins before hitting the P-
+     switch, then swim as fast as you can to the right and get the two groups
+     of coins over that way. You can only get the P-Wing bonus if you get all
+     of these coins.
+
+     If you don't have a Frog Suit, ignore that pipe and go forward until you
+     drop into the low area with pipes you can go down through on either side.
+     Keep jumping in this area to reveal several hidden note blocks which form
+     a bridge. When they're all revealed, go down the pipe on the left and swim
+     left to another one that will take you back up to the top. You can also
+     find a hidden 1-up by doing a super-bounce off the sixth note block from
+     the right.
+
+     From here, keep going right until you find the pipe that will take you
+     down. Follow it to the end of the level.
+
+     (If you want the P-Wing, the Toad's House to the right of World 7-8 stocks
+      nothing but Frog Suits. Use a Jugem's Cloud to skip this stage, then come
+      back when you get the Frog Suit.)
+
+
+7-3: This level is easy if you can pull off the continuing star trick, but only
+     mildly more difficult if you can't. Start with the one that's right there
+     at the beginning with you. The next two are in the lower left question
+     blocks of their respective arrangements. The fourth one is in the brick
+     directly beneath the question block that you find as soon as you reach
+     Lakitu. Ignore the P-switch - the payoff isn't worth it. The last two are
+     on each side of the double-ended pipe that releases Goombas.
+
+
+7-4: If you come into this level with a P-Wing, you can fly over the wall for
+     two 1-ups. Unfortunately, you can't go to the exit, so fly back over and
+     go in the pipe to enter what is arguably the hardest pipe level in the
+     game.
+
+     Get the flower at the beginning if you don't have any projectiles. Being
+     able to fire at enemies will be immensely helpful for the first part of
+     the level. Watch out for the black Cheep-Cheeps that swim at a slightly
+     accelerated pace, and swim up when the screen starts to scroll up. The
+     hammers will give you a slight advantage since you can kill the Lava Lotus
+     with them.
+
+     The hardest part is swimming through the field of Jelectros unscathed. If
+     you don't have fire or hammers, it'll be tough to get by the Big Bertha
+     near the end of it. Swim through the open area of the jellyfish field and
+     then knock out the two Blooper Nannies before the screen starts to scroll
+     back down to the final part, which is essentially a mirror of the first
+     part. 
+
+
+7-5: Go in any of the three pipes at the start, then proceed until you get to
+     the third room. Kick the Bob-ombs away, then jump at the first two holes
+     above you to reveal a total of four hidden coin blocks. Jump up to that
+     ledge and go in the first pipe in front of you. Stand against the wall to
+     the right and jump to reveal a hidden 1-up, then go back down and up
+     through the pipe just to the left to get it. Head to the right.
+
+     Go down the pipe next to the single brick and use one of the Koopa-Troopas
+     for a jumping boost to get up to the pipe. In the next room, as soon as
+     you get out of the pipe, jump to the ledge to the right and jump to reveal
+     four hidden coin blocks. Go through the white brick wall farther to the
+     right and down the pipe behind it. Jump to reveal six coin blocks, then go
+     back the way you came and go along the top tier of the room, using those
+     four coin blocks as a bridge.
+
+     When you go down the pipe to the far right, you'll see that you can walk
+     along the six coin blocks you uncovered earlier. Go from here to the exit.
+
+     Once you finish this stage, the Toad's House nearby yields both Tanooki
+     and Hammer Brother Suits.
+
+
+\/-1: The first of the piranha plant levels is short but requires careful
+      steps. The Munchers come out of the pipes in alternating pairs. When the
+      first pair goes down, jump on the pipe, then go to the next pipe just as
+      the next pair is about to go down. Repeat this process until you're past
+      this part, then go to the end of the level. Go down in the short double-
+      ended vertical pipe. You'll get a P-Wing for your trouble.
+
+
+7-F1: If you have a tail already, go across the bricks to the door, then skip
+      down to the middle of the last paragraph.
+
+      If you don't have one, go down the steps. From the two gray blocks, go
+      four bricks over and crunch until you reveal a gray P-switch. Hit it. A
+      door will appear just to your left; enter it and go in the short pipe in
+      front of the horizontal one. When the P-switch timer runs out, you'll
+      fall and find a giant question block. It contains a Tanooki Suit. Get it.
+      You need it to beat this fortress.
+
+      When you exit, you'll come out the same pipe that you went in to get the
+      Tanooki Suit. Go in the pipe to the right, then go down and left through
+      the door you find. You'll be in a huge (but empty) room. To get to Boom-
+      Boom, go to the far left wall, face right, charge your meter, and fly
+      straight up as soon as it starts whistling. Go in the pipe you find.
+      Then, the usual three stomps.
+
+      Be sure to act quickly in this level, since your time in it is unusually
+      short.
+
+
+7-6: This is another one of those levels where you can use a P-Wing to fly over
+     the wall and go straight to the exit. Or, if you lack P-Wingage, go into
+     the door.
+
+     You can cross from one edge of the screen to the other merely by walking
+     into it, so walk left to get to the right side. Go up the steps and walk
+     left again, then go up to the light-bulb lift. Jump once to make it go
+     left, and cross all the way over to the coin block on the left. Hop on it
+     and use the note block to bounce up to the Koopa-Troopa on the Donut
+     Lifts.
+
+     Jump on the up-arrowed lift, staying out of the way of the coin blocks to
+     ensure that it doesn't disappear on you, and then to the one that points
+     left. Jump over the pipe as it crosses through it, then get back on it and
+     duck. Stay squatting until you wrap around the screen, then go up through
+     the pipe on the right side of the screen.
+
+     Jump four times to make the light-bulb lift go the right way, but make the
+     third jump as soon as you pass the row of coin blocks so you don't eat the
+     spikes above. When you cross through, use the appropriate directional
+     lifts until you reach the light-bulbed one. Go left and then up when you
+     are out of reach of the piranha plant. Jump one more time to make it go
+     right, then enter the pipe as you pass under it.
+
+
+7-7: This level is short but chaotic. You have to use the looping star trick in
+     order to beat it, or else you'll get caught by the Munchers. To give your-
+     self a leg up, hit the first one from the left side so that the star hops
+     to the right, then wait until it is bouncing along the row of Munchers to
+     get it.
+
+     Skip the first one - you'll have to slide to get it, unless you're small -
+     and bolt to the second one. Grab it, then jump between the opposing pipes,
+     preferably without leaning up against the sides of them. For the final
+     star, you'll have to jump over the wooden wall and work around it to get
+     the star. Try to get it before it bounces away on the Munchers. It's the
+     hardest to get, but thankfully the last. That's not all though; when you
+     run ahead, you'll come upon a severely lowered pipe that you'll have to
+     slide under if you're big. You have enough leeway to run into it once,
+     back up, then run and duck-slide if you mess up, though. After that, the
+     end is easy to get to.
+
+
+7-8: If you have a Hammer Brother Suit handy, this is a prime level to use it
+     in. The arc of the hammer will help you out greatly against the plants in
+     the upside-down pipes near the beginning. Just past that is a Starman; get
+     it from the question block and go forward until you find a white box, the
+     kind that you can hold Down on in order to hide behind the background. At
+     that white box, jump beside the right side of the pipe to reveal a pink
+     note block, which will take you to a Coin Heaven.
+
+     When you leave Coin Heaven, go to the right and get the coins from the
+     multiple-coin brick, then keep going forward until you cross the large pit
+     past the bridges with the Nippers below. Be very careful here; there's a
+     stationary Nipper that blows arcs of fire! If you still have the H.B. Suit
+     you can duck to deflect the fire. Stand at a distance and move forward as
+     you toss the hammer to make it go farther. Above where he sits is a 1-up;
+     get it and go to the end of the level.
+
+
+7-9: Go right until you see three note blocks. Bounce on them and go up three
+     tiers, then left through both white brick walls. Jump up through the hole
+     in the pipes and go right, past the area with the wooden blocks to an area
+     with five note blocks. From there, go left through the white bricks. Go
+     until you see two holes - one leading down, the other up.
+
+     If you have enough time for a quick detour, go down and left as far as you
+     can go until you reach a closed-in space that has two rows of coins
+     stretching from wall to wall. In the empty space between the two, duck and
+     jump to reveal a hidden 1-up, then return to the two holes and go up.
+
+     Go through both white brick walls, then up and right. From the question
+     block containing the flower, go down and left for a ton of coins, then
+     right through the bricks. You should now see the pipe that will take you
+     to the exit.
+
+
+7-F2: Definitely use a Hammer Brother Suit if you have one for this level. This
+      will help you take out several hard-to-reach foes with ease. If you don't
+      have that, use either a Fire Flower or a leaf depending on whether you
+      have a harder time avoiding enemies or reaching hard-to-reach platforms.
+      There are no hidden areas in this one; this level is more a test of your
+      platforming mettle than anything. Hopefully you're an expert by now....
+
+
+\/-2: Jump to the top thick pipe, then to the second thin one as the Muncher
+      retreats into it. From there, jump to the last narrow one next to the
+      thick pipe with the Venus Fire Trap, and then up out of the whole thing.
+      Use the note blocks to get across the next pit of Munchers, then go in
+      the tall middle pipe at the end. You'll only get a mushroom this time.
+
+
+7-C: It is often not necessary to ride the blue screws in this airship, even
+     though most of it is situated over air. If you wait for the screen to
+     scroll, you can usually make an easy running leap from where you are. The
+     only enemies on the ship are some Rocky Wrenches toward the middle. Use
+     the screws at the end, jumping up to each one as you can reach it, and
+     then duck into the pipe to fight the last Koopa Kid, Ludwig von Koopa.
+
+     Ludwig combines all the most annoying traits of previous Koopa Kids. Like
+     Roy, he shakes the ground when he lands on, but he also fires his magic
+     rings while he's moving around instead of just while you're immobilized.
+     As with Roy, stay in the air at all times and try to hit him just as he is
+     recovering from the last hit. Like all the rest, it only takes three hits
+     to do him in.
+
+     No reward from the Princess this time - the letter is from Bowser himself!
+     Time to go save your woman!
+
+
+   --- | ---------
+   6.8 | Dark Land
+   --- | ---------
+
+DARK LAND - FIRST MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+T - Tank Stage
+B - Boat Stage
+
+
+                                           P2
+                                            L
+                                  S    P1   o
+                                  |     |   |
+                                  o--T--o---B
+
+
+TS: These first few levels operate in much the same way as the airships. They
+    have all the same artillery, with the addition of cannons that spit out
+    Bob-ombs. There is a lot of crossfire to avoid, so be careful. At the first
+    tank with a propeller on it is a question block containing a leaf. If you
+    don't have something better, get it. Also toward the end is a giant cannon
+    that fires a giant cannonball at frightening velocity. It comes after a
+    moderately long stretch of flat ground (long by this level's standards,
+    anyhow), and is just behind a very small flat tank. Jump on the flat tank
+    and duck until it goes by, then make your way past it.
+
+    The tank behind the one with the giant cannon has a pipe on it. Go in to
+    face a Boomerang Brother. When you defeat him, you'll get a Starman, and
+    you'll get to go to the next stage.
+
+
+BS: There are three boats in this stage. You have to cross the first one, which
+    isn't too terribly hard, but after that, you can duck down into the water
+    and swim underneath the last two! Once you're under a boat, hold Right and
+    keep tapping A repeatedly. This allows you to pass up the onslaughts of
+    Rocky Wrenches, small and large cannonballs, and Bob-Ombs for the majority
+    of the stage. To get on the third boat, jump up onto it when the boat bobs
+    low. (Partial credit to Robert Glass)
+
+    There's no avoiding the ubiquitous Boom-Boom, however. Three stomps, as per
+    the usual.
+
+
+
+DARK LAND - SECOND MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+H - Hand Level (where the hand drags you in)
+A - Airship Stage
+
+
+                                          P1
+                                           |
+                             P4--A     P3L-o
+                                 |
+                                 o---H--H--H--P2
+
+
+H-1: The first hand level crams all the different Hammer Brother types into one
+     short stage. First is a Fire Brother; immediately jump and stomp him, then
+     move on to the Hammer Brothers. On the bridge past them are a Boomerang
+     Brother and a Sledge Brother. If you have a Fire Flower in your inventory,
+     equip it before coming to this stage.
+
+     At the end of each of the hand stages, you'll get a leaf upon completion.
+
+
+H-2: This level is a very short exercise. All you have to do is jump to each
+     bridge while avoiding the Podoboos. Couldn't be easier. Collect the leaf
+     at the end.
+
+
+H-3: This is probably the most annoying of the hand levels. As long as you keep
+     running at top or near-top speed though, you should stay ahead of the
+     pack of Cheep-Cheeps. Grab your third leaf at the end of the line.
+
+
+AS: This level scrolls very quickly. Don't worry so much about killing Rocky
+    Wrenches as avoiding flames and getting to platforms, several of which
+    require running jumps. The best solution is to use a Fire Flower to get
+    dead-on aim if you feel you must kill the Rocky Wrenches at the end. Boom-
+    Boom awaits you in the pipe on the last ship.
+
+    Use a P-Wing if you have to, although you should know that doing so can
+    seriously damage your old-school cred.
+
+
+
+DARK LAND - THIRD MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+                              P4--o P6--o--o--o
+                                  |        |  |
+                               o--1     F--o  P3 
+                               |        |
+                               2-P5--o--o--o--P5
+
+
+8-1: Enter this level with a P-Wing. Run back and forth a few times to get your
+     Fly straight up and hit the P-switch. Float back down and grab what silver
+     coins you can, then fly up and right to a very tall pipe. Enter to get
+     three 1-ups, then when you leave, fly to the end.
+
+
+8-2: An old enemy makes a reappearance here - the Angry Sun! Fortunately, there
+     is a way to bypass him, since he's difficult to get by with all the hilly
+     land and piranha plants in your way. At the beginning of the level, when
+     you get to the first quicksand pit, jump in it and allow yourself to sink
+     down.
+
+     You'll be taken to an area with a pipe on either side of you. The one on
+     the right takes you to a room filled with coins and is only really worth
+     it if you have a leaf so you can fly to get the ones you missed. The one
+     on the left takes you to a room with a leaf.
+
+     In any case, when you exit, you'll be met with piranha crossfire. Wait for
+     the one above you to retreat, then go up, slide at the top of the hill,
+     and bounce across the note blocks to reach the end of the stage.
+
+
+8-F: Enter the first door you come to in this fortress (the one situated way up
+     high, you have to use the coin block to get up to it). If you don't have a
+     leaf, go to the left in the next room to grab one. If you're small, you
+     can get the mushroom, then exit and re-enter the room to get the leaf.
+     When you have a tail, smash the bricks to the right.
+
+     Float across to where the Thwomp is and smash the bricks beside him with
+     your tail as he goes up, moving out of the way to keep from losing it.
+     Start making your way to the right over the lava. There is another leaf
+     along the way, and you can use the door to regenerate the question block
+     as you did earlier if you need to.
+
+     Once past the lava, smash the wall of eight bricks with your tail and go
+     right more. Go all the way to the end where the side Thwomp is, then go to
+     his left and hit both bricks you find. One has a P-switch in it. Hit it
+     and enter the door that appears at the far right end. Go in and stay
+     squatted, waiting for the P-switch's timer to run out. When you're past
+     the spikes, you'll face Boom-Boom once again.
+
+
+DARK LAND - FOURTH MAP
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+KC - Koopa Castle
+
+
+                               P6--T--o--o--o--KC
+
+
+TS2: This tank level is similar to the first one, except that you must also now
+     deal with cannonfire coming from both the ground and the ceiling. However,
+     the only enemies are the cannonballs, a few Bob-ombs, and Rocky Wrenches
+     of the one-off variety - there are no giant cannonballs. This level is
+     mercifully short, and at the end, you'll have your final encounter with
+     Boom-Boom.
+
+
+KC: Run past the three statues at top speed so that the lasers that they fire
+    don't hit you. Go up the steps and stand at the bottom of the vertical
+    corridor. A light blue platform will take you to the top. Walk over to the
+    Donut Lift and hold Right on the D-pad so that you walk off before it falls
+    in the pit. Make your way up to the top past the three Rotodiscs, then go
+    over to the right and jump to reveal a hidden 1-up. If you duck and jump up
+    into the small space above the block, you will be pushed through the wall
+    to the wide-open Donut Lift area.
+
+    From here, there are two different routes you can take to the exit. Stay
+    as close to the top as you can for the first one, and go in the door at the
+    very top of the room. You'll go through to a room with several statues like
+    the ones at the beginning, although only the first one fires lasers. You'll
+    have to cross a series of Donut Lifts situated above lava while avoiding
+    the retro Bowser fireballs, and at the end, you'll go in the door to face
+    Bowser.
+
+    The other route is similar to the first but is a bit longer. Stand on the
+    Donut Lift in front of the highest ledge, but let it fall. Before you go in
+    the lava, jump to the one between the bottom two paths and take the top
+    path; you'll see two Rotodiscs spinning around one hub if you're in the
+    right place. Lure the side Thwomp out of his place, then take the Donut
+    Lift down as he goes back. Jump across to each column, waiting for the
+    Podoboo to pass before going each time. The next room is similar to the
+    one from the previous route. Only the first statue will fire a laser.
+    Instead of crossing the lava on Donut Lifts, however, there are brick
+    platforms here. The door at the end will lead to Bowser.
+
+    Once you get to Bowser, there are several ways to beat him. He can be taken
+    down with several fireballs (~25) or with only five hammers if you still
+    have a Hammer Brother Suit by this time. If you don't have projectiles at
+    your disposal though, you'll have to go about it the regular way.
+
+    As you can see, you're standing on three rows of bricks. Without any
+    projectiles, you will have to make him crash through the bricks. He'll blow
+    fireballs for a little bit, then jump in the air and come down really
+    quickly, breaking whichever bricks he lands on. You have to make him crash
+    through enough bricks to fall to his death. If you find yourself unable to
+    get away from Bowser as he's falling, you can duck to spare yourself from
+    getting hit, since only his top half will damage you. (Credit to Michael
+    Malleson for the top half glitch and the hammer idea)
+
+    When Bowser breaks through and plummets to his death, the door to the right
+    will open up. Go through, rescue the Princess, and enjoy the ending cinema.
+
+    Congratulations on beating Super Mario Bros. 3!
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ===============
+   7 | 2-PLAYER BATTLE
+   = | ===============
+
+The battle element is an interesting addition to the 2-player game. (Or an
+annoying one. It all depends on who you play with, really.) During a 2-player
+game, players of course take turns playing levels. While one player is on the
+world map, the other player's position is represented by a lettered token - "M"
+for Mario, of course, and "L" for Luigi.
+
+The tokens are the key to entering the battle round. When one player stops on
+top of the other player's token, the other player can press A to suck him into
+a battle round reminiscent of the original Mario Bros. (not Super Mario Bros. -
+the OTHER one), in which the winner will get to play while the loser sits out
+for a turn.
+
+There are four different game types:
+
+
+BEST OF 5 ENEMIES. The most common battle game type, based on the original
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ Mario Bros. Five enemies total will come out of the pipes at
+                   the top of the screen. These five enemies will be a mix of
+Spinys, Fighter Flies (muscular flies that hop around), and Crabs. To kill an
+enemy, you must jump and hit the ground they are walking on from underneath.
+This will make them fall on their back. When an enemy is down on its back, you
+receive credit for killing it by going up and kicking it. To kick an enemy,
+just walk into it. It only takes one hit from below to put a Spiny or a Fighter
+Fly on its back, but Crabs require two hits; they start off red, and turn blue
+and move faster after the first hit.
+
+You can use the POW block in the middle of the screen to knock over several
+enemies at once, but they will only be knocked over if they are on the ground
+at the time you hit it. The POW block can be used three times.
+
+If you take too long to finish a match, fireballs will start materializing and
+moving from one side of the screen to the other in order to kick up the chall-
+enge a bit.
+
+Since there are five enemies, there is no possibility of a tie, and the person
+who kills at least three wins the match.
+
+
+BEST OF 5 COINS. The quickest of the battle games. All you have to do is run
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ around collecting the five coins scattered about the arena.
+                 Best three out of five wins.
+
+
+THE COIN PIPE. Each player stands on one side of a tall pipe that spits out
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯ both coins and flames. The first person to collect five coins
+               wins; or, if someone gets hit by a flame, the other player wins
+               by default.
+
+
+HIDDEN COINS. The rarest mini-game, but for my money, also the most entertain-
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ing. The players must search through an arena looking for coins
+              hidden in question blocks. To kick a block to see if a coin is in
+it, walk up against it and press B. The person who finds at least three coins
+wins.
+
+
+One additional aspect of the battle rounds is that your goal cards are at stake
+as well. If a player has any goal cards going into the battle, you can make him
+give one up by hitting him, either from below or by stomping on his head. When
+hit, the card will leap away from the player and into the open. Either player
+can take possession of it, whether he originally had it or not. If the battle
+round ends while there is a goal card out in the open, it vanishes permanently.
+The same rules for 1-ups earned by getting three of them apply - i.e. one extra
+life for a random combination, two for all mushrooms, three for all flowers,
+and five for all stars.
+
+Super Mario All-Stars has a Battle Mode where you can play the battle round
+apart from the game itself in a best-5-out-of-9 scenario.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+   = | ==================
+   8 | SECRETS AND EXTRAS
+   = | ==================
+
+Some fun little secrets and tricks that'll put a hop in your SMB3 step.
+
+
+28 P-WINGS
+¯¯¯¯¯¯¯¯¯¯
+Beat the game once and your inventory will be packed to the hilt with P-Wings 
+when you start over.
+
+
+HAMMER BROTHER AIRSHIP TRICK
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+In Grass Land, Water Land, Sky Land, and Ice Land (Worlds 1, 3, 5, and 6,
+respectively), you can turn a Hammer Brother on the world map into an airship
+that is filled with enough coins to amount to about three 1-ups (four if you
+enter with about 90 coins). Here's how to snag one.
+
+In any level in the four aforementioned worlds, obtain an amount of coins equal
+to a multiple of 11 (e.g. 22, 33, 77). Make the next-to-last digit of your
+score the same as the number in the amount of coins. The easiest way to
+accomplish this is by smashing bricks. Finally, when you beat the level, the
+timer has to stop on an even number. If all these criteria are met, one of the
+Hammer Brothers on the map will turn into the airship! At the end of the
+airship, you'll have to beat a Boomerang Brother, and you will receive a
+Starman when you beat him. Not bad!
+
+
+DIFFERENT THANK-YOU'S
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+If you are wearing one of the three suits (Frog, Tanooki, or Hammer Brother) 
+when you complete an airship level, you will get a different thank-you message
+from the king. They are as follows:
+
+FROG: "Oh me, oh my! You've been transformed! Shall I change you back with this
+wand?"
+
+TANOOKI: "Thank you, kind raccoon. Please tell me your name."
+
+HAMMER BROTHER: "Hey, you! Can I borrow your clothes? No dice!? What a drag."
+
+
+WHITE MUSHROOM HOUSES
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Certain levels will allow you to get special items from a hidden white Mushroom
+House if you get a certain amount of coins in a given level. This chart details
+each level where you have a chance to unveil a white Mushroom House as well as
+how many coins you need to trigger it. Such levels are also noted in the walk-
+through. In odd-numbered worlds, the white Mushroom House will give you a
+P-wing; in even-numbered worlds, an anchor.
+
+  1-4 - 44 coins
+  2-2 - 30 coins
+  3-8 - 44 coins
+  4-2 - 22 coins
+  5-5 - 28 coins
+  6-7 - 78 coins
+  7-2 - 46 coins

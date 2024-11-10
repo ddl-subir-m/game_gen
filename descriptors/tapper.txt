@@ -1,0 +1,415 @@
+INTRODUCTION
+
+    Tapper is really one of the classic video games out there.  Although 
+it has a PG-rated offshoot(Root Beer Tapper) it is the only game that 
+stands as a paean to drug use--contrast to NARC, which was a paean to 
+the war on drugs, well, sort of.  You control a bartender who moves 
+between four bars and serves beer to customers that run to the edge of 
+the bar.  If he serves a beer where there is no customer, you lose a 
+life.  If a customer reaches him, you lose a life.  If a customer is not 
+knocked back by the beer and returns the empty glass, and it falls, you 
+lose a life.  It's a simple concept and addictive and has the neat 
+feature that you can't just go blindly firing unlike other games.  The 
+challenge on the later levels is to multi-task correctly(hey, wait, 
+that's for executives, not bartenders!)  Although the game is slightly 
+unfair(see very bottom) the four bar environs and fun bonus rounds help 
+make the game quite good.
+
+  CONTROLS AND QUIRKS AND IRKS THEREIN
+
+    If you have an original arcade system, there is a tap you push down 
+and up to serve a beer.  You can move up and down in the conventional 
+ways although diagonal moving is not permissible.  Also, if you go down 
+from the bottom or up from the top, your bartender scrolls around.  This 
+"hyperspace" is quite useful at times.
+
+    If you are playing on an emulator or on a port, you will probably 
+have to get the timing of pushing the button down and releasing.  You 
+can't do it quickly as the beer will only be partially poured, and the 
+bartender will have nothing to sling.  If you do it slowly, of course, 
+you lose time, so you really need to get the timing down.  I linger as 
+fractionally as I consciously can before re-serving.  If it is done 
+right you can go pretty quickly and if you linger a bit longer you can 
+serve more than four beers in a row to an aisle with four people--
+perhaps very handy on later levels.  So quickest is not always 
+necessarily best.
+
+    Moving up and down is not immediately responsive so you will have to 
+give your bartender some leeway if he wishes to catch a beer at the last 
+moment.
+
+    Upon moving up or down you are placed by the keg where you can pour 
+and serve a beer.  This is useful because you can move towards the 
+customers to pick up a beer and move up to serve another beer quickly.  
+Specific examples of where this is nice include when two glasses seem 
+determined to crash on the floor at once.  Reach out to get one and hit 
+up.
+    You also return to the starting point in your aisle if you try to 
+pour a beer--the beer goes floating down too.
+    You can also pour a beer, move vertically, and then sling it down.  
+This is useful if you realize you've made a mistake and there's no-one 
+to serve;  you can save time serving some other folks.
+
+    One trick you can use at your peril is the sling-as-they're-about-
+to-finish.  Depending on the rate the person starts to drink their beer, 
+that's the rate they finish at, so you can sometimes sling them a beer 
+right away to get rid of them.  Misfire a bit, though, and you could 
+sling a beer nowhere, losing you a bartender.
+
+  POINT SCORING
+
+--50 for each saloon patron you send off his aisle
+--75 for each sports bar patron you send off his aisle
+--100 for each punk bar patron you send off the aisle
+--150 for each alien bar patron you send off the aisle
+--100 for each empty mug you pick up
+--1000 for completing a level
+--3000 for getting the bonus level right
+
+You get extra men at 20000 and then after each additional sum of sixty 
+points.
+
+  LEVEL STRUCTURE
+
+    The level locations and design repeat every 13 levels.  In fact, 
+from level 14 on, the people repeat;  however, for the first 13, you 
+slowly get more people in the bar at one time.  The customers slowly 
+approach you faster as you go through the levels.
+
+    Below are the first thirteen levels and the designs.  The 
+designation "x----" means the patrons are on the left and "----x" means 
+they are on the right.  Of course the number is how many patrons there 
+are.
+
+Certain patterns are clear, i.e. there is no formation with three kegs 
+on one side.  What you cannot see from the diagram is how the playing 
+fields get more trapezoidal as the levels advance;  1-2 has equal sized 
+bar aisles, but after 10-13 you see a pronounced centered set of aisles 
+with each lower aisle being slightly longer than the upper.
+
+    ****FIRST WAVE****
+
+      ****SALOON LEVELS****
+
+  LEVEL 1
+
+1----
+1----
+1----
+1----
+
+  LEVEL 2
+
+2----
+2----
+2----
+2----
+
+      ****OUTDOOR SPORTS BAR LEVELS****
+
+  LEVEL 3
+
+----2
+----3
+----3
+----3
+
+  LEVEL 4
+
+----2
+----3
+----3
+----4
+
+  LEVEL 5
+
+----3
+----3
+----4
+----4
+
+      ****PUNK BAR LEVELS****
+
+  LEVEL 6
+
+----2
+----3
+3----
+4----
+
+  LEVEL 7
+
+3----
+3----
+----4
+----4
+
+  LEVEL 8
+
+----3
+----4
+4----
+4----
+
+  LEVEL 9
+
+4----
+4----
+----4
+----4
+
+      ****ALIEN BAR LEVELS****
+
+  LEVEL 10
+
+----4
+4----
+4----
+----4
+
+  LEVEL 11
+
+4----
+----4
+----4
+4----
+
+  LEVEL 12
+
+----4
+4----
+----4
+4----
+
+  LEVEL 13
+
+4----
+----4
+4----
+----4
+
+    ****SECOND WAVE****
+
+      ****SALOON LEVELS****
+
+  LEVEL 14
+
+----4
+4----
+----4
+4----
+
+  LEVEL 15
+
+4----
+----4
+4----
+----4
+
+      ****OUTDOOR SPORTS BAR LEVELS****
+
+  LEVEL 16
+
+----4
+----4
+----4
+----4
+
+  LEVEL 17
+
+----4
+----4
+----4
+----4
+
+  LEVEL 18
+
+----4
+----4
+----4
+----4
+
+      ****PUNK BAR LEVELS****
+
+  LEVEL 19
+
+----4
+----4
+4----
+4----
+
+  LEVEL 20
+
+4----
+4----
+----4
+----4
+
+  LEVEL 21
+
+----4
+----4
+4----
+4----
+
+  LEVEL 22
+
+4----
+4----
+----4
+----4
+
+      ****ALIEN BAR LEVELS****
+
+  LEVEL 23
+
+----4
+----4
+----4
+----4
+
+  LEVEL 24
+
+----4
+----4
+----4
+----4
+
+  LEVEL 25
+
+----4
+----4
+----4
+----4
+
+  LEVEL 26
+
+----4
+----4
+----4
+----4
+
+  PEOPLE IN LEVELS
+
+Saloon(1-2):man with mustache and shirt/vest/bandana.  Most wear hats.  
+The woman wears a simple shirt.
+
+Sports bar(3-5):baseball(batting helmet, bat,) football(helmet/football) 
+and basketball(crewcut/ball) players and female tennis player with 
+racket and pony-tail
+
+Punk bar(6-9):man with triangular collar, man with mohawk and vest, man 
+with safety pin in head, and woman with triangular floppy hair
+
+Alien bar(10-13):a smart-alecky guy with a t-shirt with a diamond hole 
+that I call "Nregix," a koala bear looking alien that walks on the 
+bar(this may be the one female,) an alien with a snout, and an alien 
+with periscope eyes.  They are colored red, green, purple or blue with 
+an occasional orange or grey snout.
+
+  STRATEGIES FOR LEVELS
+
+  General stuff:  people reappear faster and closer to you as the level 
+drags on.  They also seem to close in faster.  So if you are able to 
+finish quickly, great.  That should be the object later in the levels.  
+Also, as you go up in levels, the top levels seem to get smaller in 
+width, meaning they are more imperative, although on the bright side 
+people that appear there are easily knocked back.  The dancing girls 
+also may not be worth it unless there are a LOT of people in play.  
+Often it is annoying to tell the people who have turned around from the 
+people who haven't--if you sling beers at folks who have, you lose a 
+man, of course.
+
+Levels 1 and 2 are pretty easy.  They are good practice for clean beer-
+slinging and if you go pretty quickly you shouldn't have to serve any 
+extra beers in level 1.  In level 2 you will probably need to serve 
+extra beers on the bottom row.  You're more likely to get a tip there, 
+though, in case you want to see the saloon girls dance.
+
+Levels 3-5 are a bit tougher.  Fortunately you can finish them off 
+quicker.  In general I prefer to sling as many beers as I can, move 
+down, etc. until I am back where I started.  Then I need to "multi-task" 
+picking up beers and serving them although it is not too bad--nothing's 
+too fast.  After slinging beers to the top row, you may want to go up 
+and take care of the third and fourth rows again.
+
+Levels 6-9 follow the same sort of regimen although you will really need 
+to get the sling-four routine down as most rows will by now have four 
+patrons.  Multitasking becomes more important here, and you'll have to 
+pick up a lot of beers and immediately serve and move up and down and 
+learn how to combine moves.  Only go to the top when there seems to be 
+an emergency there and the bottom customers aren't taken care of.  Only 
+pick up tips from the top.
+
+Levels 10-13 are much the same as 6-9.  If you don't have precise 
+pouring skills nailed down here, you are history as a bartender.  Sorry 
+for the cop-out but read the general information below for advice.
+
+  GENERAL STUFF
+
+    General stuff includes--NEVER wait around.  Always look for a beer 
+to sling and develop peripheral sight so you can see what is crashing 
+where.  On later levels you will need to pay special attention to people 
+not knocked back out of the aisle at the top--it means a beer mug will 
+be returned quickly.  Often you will want to sling a beer before running 
+to get empty mugs, or you may sling a beer, go up to get an empty mug, 
+and come back for the rest.  In general, if you play good "defense," 
+i.e. make sure mugs don't fall, and spend a lot of time sending mugs 
+off, you should be able to get through a level.  Although you are really 
+in the best shape if you can get through a level quickly--it's possible 
+up to the fourth punk bar.
+
+    Also, you should never run inwards after a mug that isn't halfway to 
+your side of the aisle.  There's plenty of time to do another chore and 
+come back.  Above all, DON'T PANIC.  There's usually a way to do a ton 
+of stuff at once.  When in doubt, defend(i.e. pick up glasses) but don't 
+put yourself in doubt if no glasses are close to falling.
+
+  BONUS ROUNDS
+
+    Bonus rounds appear after you have cleared all of one type of bar, 
+i.e. saloon, outside sports bar, punk bar, aliens' bar.  This means that 
+you get a chance for a bonus at levels 13x+2, 13x+5, 13x+9, and 13x+13, 
+x >= 0.
+
+    The closest thing to evil in this game appears to the left.  Your 
+bartender, magnified a bit unflatteringly and with his back to the 
+action over on the right, smiles obliviously as the masked black man 
+shakes up five of the six cans in the center.  He then bangs the table 
+and the cans start flipping around.  If you focus on your can you should 
+be able to figure out where it winds up, but a moment of inattention 
+will mess things up.  The cans get faster until level 9 when you have to 
+pay close attention indeed.
+
+    Success gets you 3000 and a "This Bud's For You."  Failure gets your 
+bartender a shower of fizz, a defeated look and an impromptu new hair 
+style.
+
+  END-OF-LEVEL ANTICS
+
+    Your bartender may do five things on completion of a level.
+
+  1.  throw a glass in the air and backheel and smash it, with a grin 
+and a wave.
+  2.  throw a glass in the air and backheel it and hurt his foot and 
+jump around.
+  3.  throw a glass in the air off the top of the screen, where it stuns 
+a bird that falls on his head.
+  4.  throw a glass in the air and have it land over his head
+  5.  throw a glass in the air and have it crash over his head, 
+frightening him a bit
+
+    He may also drink two beers instead of one.
+
+  MY STRONG OPINIONS
+
+    Although this game is easy to like it is rather unfair.  Although it 
+is probably too tough to get to the fourteenth level without extreme 
+practice, once you do, you only get fifty points for serving cowboy 
+fellows who are faster than the aliens(150 points.)  The bonus rounds 
+also don't increase even though the beers switch around faster.  
+Furthermore if you are extremely efficient you don't get anything 
+extra(i.e. clearing the board completely with only a few people 
+returning--if the game kept track of that and rewarded you, that would 
+be cool.)  Some of the controls are a bit unresponsive as well.  This 
+puts a small dent in the abundant humor you otherwise see in Tapper.

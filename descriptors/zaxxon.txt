@@ -1,0 +1,486 @@
+Welcome to my FAQ for Zaxxon.  Since the game has you continuously playing
+through rounds until all your men are killed, there is no walkthrough per se.
+Instead it will be broken up into the game itself and strategies for survival.
+Input is appreciated along with constructive criticism.  If you wish to e-mail
+me thoughts on this FAQ, better ways of doing things, other strategies, etc.,
+feel free.  Make sure you put Zaxxon as the subject.  If you don't, I'm liable
+to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Sega was in the amusement/entertainment field for a long time before this game
+came out.  They made a few arcade games in the 70's but these were overshadowed
+by games made by companies such as Taito, Atari, and Midway.  Sega, though,
+came roaring onto the scene in the early 80's.  One of their first big
+successes was Star Trek.  A game that featured colored vectors and pseudo-3D
+graphics.  This started a chain of other games such as Buck Rogers, Pengo, and
+Tac/Scan to name a few.  Zaxxon was one of the biggest sellers for Sega.  Using
+a right side and top perspective, Zaxxon added a feeling a depth to the game.
+In addition to the challenge of taking on enemy units, the player had to also
+ensure that their fuel supply didn't run out or their mission would end pre-
+maturely.  Zaxxon spawned a successful sequel Super Zaxxon which made getting
+through the game much harder.  Good luck in destroying Zaxxon.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Zaxxon is a three-quarter perspective, space shooter style game.  You must
+first go over a base on an asteroid.  Things located on this base include gun
+implacements, fuel tanks, radar stations, missiles, and fighters.  After you
+successfully navigate this base, you will be in space to tangle with enemy
+fighters and floating fuel tanks.  You then will have to navigate through a
+series of barriers on another asteroid in order to take on Zaxxon, the enemy
+robot.  After you do this, the cycle begins anew.  Sitting behind a desk
+pushing paper never looked so good.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  An eight-way joystick with a fire button. (The Y-axis are reversed so that
+   when you push up on the joystick, your fighter descends while pushing down
+   causes it to ascend)
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Zaxxon actually consists of three playing fields.  Two fields occur over the
+asteroid bases while one occurs in space.  After making it through these three
+areas, the next round has you go through the same areas again.  I have included
+an example of what these
+fields look like:
+
+                                 +--------+
+                                 | AREA 1 |
+                                 +--------+
+
+    +-------------------------------------------------------------------+
+    |                  /                                                |
+    |                /                                                  |
+    |              /                                                    |
+    |            /                                                      |
+    |          /                                                        |
+    |        /                                 /\                       |
+    |      /                                 /    \<-BARRIER            |
+    | |\ /                                  |\      \                   |
+    | | \                                   |  \      \                 |
+    |/| |         //<-YOUR FIGHTER          |    \      \               |
+    | |\|      /|//                         \      \      \             |
+    | | |     _|/_\                           \      \      \          /|
+    | | |                                       \      \      \      /  |
+    | |\|                                         \      \      \  /    |
+    | | |                 ___                       \      \     /      |
+    | | |<-ALTIMETER    ( ___ )                       \      \ /        |
+    | |\|               |     |<-FUEL TANK              \    /          |
+    | | |               |     |                           \/            |
+    | \ |                \___/                           /              |
+    |  \|                                              /                |
+    |                                                /                  |
+    |-------------------------------------------------------------------|
+    |  // //<-FIGHTERS LEFT               |\                            |
+    |                                     |/<-PRESENT LEVEL             |
+    |                                     |                             |
+    | FUEL  E>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>F                          |
+    +-------------------------------------------------------------------+
+
+                                 +--------+
+                                 | AREA 2 |
+                                 +--------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                           /|_                     |
+    |                                         _|/_/                     |
+    |                                         //                        |
+    |                                        // <-ENEMY FIGHTER         |
+    |                                                                   |
+    | |\                                                                |
+    | | \                                                               |
+    | | |         //<-YOUR FIGHTER                                      |
+    | |\|      /|//                                                     |
+    | | |     _|/_\                                                     |
+    | | |                                                               |
+    | |\|                                                               |
+    | | |                                                               |
+    | | |<-ALTIMETER                                                    |
+    | |\|                                                               |
+    | | |                                                               |
+    | \ |                                                               |
+    |  \|                                                               |
+    |                                                                   |
+    |-------------------------------------------------------------------|
+    |  // //<-FIGHTERS LEFT               |\                            |
+    |                                     |/<-PRESENT LEVEL             |
+    |                                     |                             |
+    | FUEL  E>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>F                          |
+    +-------------------------------------------------------------------+
+
+                                 +--------+
+                                 | AREA 3 |
+                                 +--------+
+
+    +-------------------------------------------------------------------+
+    |                  /\      \      \                                 |
+    |                /    \      \     /\                               |
+    |              /        \      \ /../ \<-HOLE IN BARRIER            |
+    |            /            \      \./   /\                           |
+    |          /                \      \  /   \                         |
+    |        /                    \      \      \                       |
+    |      /                        \      \      \<-BARRIER            |
+    | |\ /                            \      \      \                   |
+    | | \                               \      \      \                 |
+    |/| |         //<-YOUR FIGHTER        \      \      \               |
+    | |\|      /|//                         \      \      \             |
+    | | |     _|/_\                           \      \      \          /|
+    | | |                                       \      \      \      /  |
+    | |\|                                         \      \      \  /    |
+    | | |                 ___                       \      \     /      |
+    | | |<-ALTIMETER    ( ___ )                       \      \ /        |
+    | |\|               |     |<-FUEL TANK              \    /          |
+    | | |               |     |                           \/            |
+    | \ |                \___/                           /              |
+    |  \|                                              /                |
+    |                                                /                  |
+    |-------------------------------------------------------------------|
+    |  // //<-FIGHTERS LEFT               |\                            |
+    |                                     |/<-PRESENT LEVEL             |
+    |                                     |                             |
+    | FUEL  E>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>F                          |
+    +-------------------------------------------------------------------+
+
+You control your fighter through these three screens.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring is pretty straight forward in this game.  Some variable scoring does
+exist for a couple of things.
+
+Gun Implacements (Green and Gray)          :    200 or 500 points (random)
+Fuel Tank                                  :    500 points
+Radar Tower                                :  1,000 points
+Missile (Ground-to-Air)                    :    150 points
+Missile (Air-to-Air)                       :    200 points
+Fighters (on runway)                       :     50 points
+Fighters (in air)                          :    100 points + (50 points/level
+                                                    after level 2)
+Zaxxon (destroyed with missile in launcher):  1,000 points
+Zaxxon (destroying launched missile)       :    200 points
+Destroying all planes in space             :  1,000 points
+Satellite                                  :    300 points
+
+You start the game with 3, 4, or 5 lives.  You are awarded bonus lives every
+10,000, 20,000, 30,000, or 40,000 points.
+
+ _________________
+/ 6.4  The Areas /_____________________________________________________________
+-----------------
+
+The areas in Zaxxon are arranged in a specific order.  After you complete area
+3, you will start a new level back at area 1.  The differences are that you burn
+fuel faster, the openings in the barriers become smaller, and the enemy
+fighters move quicker and return for more action.  When I reference the
+altimeter, I will only be using the four full bars at the top to indicate
+altitude.  I won't use the lower half since you can't go below one unit on the
+altimeter.  Below is what is in each area:
+
++--------+
+| AREA 1 |
++--------+
+
+This is the run over the asteroid base.  You must navigate around many
+obstacles in order to make it through this area.  In addition, if you fly too
+high over the base (in other words, fly at maximum altitude), Zaxxon will
+launch an air-to-air missile at your fighter.  Below are the maps for this
+area.  I have made the maps overhead views and divided this area into two
+parts:
+
+The legend for all parts is:
+
+ O = Opening in wall (entrance or exit)
+ M = Missile Silo (for ground-to-air missile)
+FT = Fuel Tank
+ R = Radar Tower
+FI = Fighter
+ G = Gun Implacement (line indicates direction)
+EB = Electronic Barrier (fly at an altitude above one unit to clear)
+SW = Short Wall (fly above an altitude of one unit to clear)
+
+/========\
+| PART 1 |
+\========/
+
+This will take you from the entrance wall into the asteroid base to the
+electronic barrier on the base.  The entrance is at the top, left side of the
+entrance wall.  Altimeter should be at max (four units):
+
++-----------------------------------------------------------------------------+
+| | |        FT       G  M                                                    |
+|  0   M  M        SW |     FT     FT    M    FT  SW    M   G                 |
+| | |       FT     SW            R  --G           SW        |    FI           |
+| | |  M  M    FT  SW       M    M                SW           FI M M   M FT  |
+| | |     M            M         |       |     M    |M                FT      |
+| | |                       FT   G   M   G  M       G                         |
++-----------------------------------------------------------------------------+
+
+/========\
+| PART 2 |
+\========/
+
+This will take you from the electronic barrier to the exit wall.  The exit is
+at the top, middle of the exit wall.  Altimeter should be at max to exit (four
+units):
+
+
++----------------------------------------+
+|      G     G          FI            | ||
+|EB R  |     |   FI         FI        | ||
+|EB           M     M          M  FT   O |
+|EB          FT   M     |             | ||
+|EB    M  M             G   FT M  R   | ||
+|    FT                               | ||
++----------------------------------------+
+
++--------+
+| AREA 2 |
++--------+
+
+Area 2 puts you in space to take out the enemy fighters.  You will start with
+20 enemy fighters minus any you destroyed on the ground in area 1.  In
+addition, you have a chance to take out two satellites.
+
+To take out the satellites, go the maximum altitude (three units), and go all
+the way to the upper-left of the screen.  You should be able to pick off the
+satellite.
+
+To tangle with the enemy fighters, be at an altitude of two to two and one-half
+units.  Your gunsight will activate when an enemy fighter is at your altitude.
+
++--------+
+| AREA 3 |
++--------+
+
+This level is somewhat like area 1.  The main differences are you now have
+eight walls and/or electronic barriers to go through, missiles don't launch at
+your fighter, and you get to take on Zaxxon at the end of this area.  Below are
+the maps for this area.  I have made the maps overhead views and divided this
+area into two parts:
+
+The legend for all parts is:
+
+ O = Opening in wall or barrier
+ M = Missile Silo (for ground-to-air missile)
+FT = Fuel Tank
+ R = Radar Tower
+FI = Fighter
+ G = Gun Implacement (line indicates direction)
+B# = This is the barrier number.  It will be a "B" followed by the number (if
+     it has EB + B, that means there is an electronic barrier above the
+     opening.  In essence, creating a "hole" in the wall).  Specifics for
+     getting through that barrier will be listed below the map in this format:
+
+Alt = Altitude (only counting the four top blocks.  i.e. 2.75 is two full
+                blocks and three-quarters of the third block on the altimeter)
+Pla = Placement of opening (L=Left, M=Middle, or R=Right)
+
+/========\
+| PART 1 |
+\========/
+
+This will take you from the entrance wall to the sixth barrier.  The entrance
+is at the top, left side of the entrance wall.  Altimeter should be at max
+(four units):
+
+
++-----------------------------------------------------------------------------+
+| |      G   |           G  O M   FT   M  |  G              O    FT     G    O|
+| O FT   |   |           |  |     FT      |  |   FT         |  M        |    ||
+| |   |  FT  | M  FT FT FT  |       FT    O          FT     |          FT FT ||
+| |   G  R   O          |   |     M    |  |  |       M  --G |       M     FT ||
+| |          |     M    G   |          G  |  G              |                ||
+|                                                                             |
++-----------------------------------------------------------------------------+
+  B1       B + EB2          B3            B4               B + EB5          B6
+  Alt=4    Alt=1            Alt=2.75      Alt=Ground       Alt=1.5
+  Pla=L    Pla=M            Pla=L         Pla=M            Pla=L
+
+/========\
+| PART 2 |
+\========/
+
+This will take you from the sixth barrier to Zaxxon.
+
+
++-----------------------------------------------------------------------------+
+| O  M  G  FT   O M       G FT O   FT  FT            /                        |
+| |     |       |   FT FT | M  | M                   \                        |
+| |        |    |           |  |   FT                / ZAXXON                 |
+| |  M     G    |           G  |                     \                        |
+| |           R |              |                     /                        |
+|                                                    \                        |
++-----------------------------------------------------------------------------+
+  B + EB6       B + EB7        B + EB8
+  Alt=3         Alt=Ground     Alt=1.5
+  Pla=L         Pla=M          Pla=L
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your fighter will be in the middle at the bottom of
+the screen.  You will see an asteroid with a wall rising from it.  You will
+then see an opening in the wall.  This is how you will enter and exit areas 1
+and 3.
+
+ ______________
+/ 7.1  Area 1 /________________________________________________________________
+--------------
+
+This area is basically ground targets.  You may have to increase altitude to
+get over the short barriers but this is basically a ground attack area.
+
+-  The action starts immediately as soon as you go through the opening in the
+   wall.  Drop your altitude immediately to not only to avoid the Air-to-Air
+   missile, but to take out ground targets.
+
+-  Fuel is a precious commodity.  You must destroy the Fuel Tanks in order to
+   increase the amount of fuel in your fighter.  This won't be an easy matter
+   as you can see from the maps in Chapter 6.4, many of the Fuel Tanks are
+   covered either by Gun Implacements, Ground-to-Air missiles, or both.
+
+-  When you are flying along the ground to destroy targets, watch out for the
+   Gun Implacements and missile silos.  Both will fire upon your fighter at
+   every opportunity.  The missile silos will usually launch Ground-to-Air
+   missiles as soon as your fighter is over them.  Gun Implacements only fire
+   when you are at ground level.
+
+-  As soon as you "hop" over the short barriers, get down to ground level again
+   to do more destruction.  Try to hit the Radar Towers since they yield the
+   biggest points at this point.
+
+-  When you get to the airfields, try to destroy as many fighters as you can
+   (you can destroy a maximum of five).  The more fighters on the ground you
+   destroy equates to that many less you have to encounter in area 2.  This
+   also means you have a better chance at the 1,000 point bonus.
+
+-  Speaking of the airfields, watch out since there are many hidden missile
+   silos within them.  Keep moving around or you may be surprised by a Ground-
+   to-Air missile.
+
+-  Do not fly at maximum altitude if you can help it.  If you fly too long at
+   maximum altitude, your fighter will be met head-on by an Air-to-Air missile
+   which is very difficult to destroy (takes six shots).
+
+ ______________
+/ 7.2  Area 2 /________________________________________________________________
+--------------
+
+This is one of the easier areas of the game.  All you have to deal with are
+enemy fighters and satellites.
+
+-  The first thing to do is get up to full height and go all the way to the
+   left.  If you fire rapidly enough, you can take out the satellite.
+
+-  Keep an altitude between two and two and one-half units to take on the enemy
+   fighters.  Your gunsight will activate when an enemy fighter can be shot at.
+   If you miss, they will usually return again.
+
+-  In the later levels, enemy fighters that bypass your fighter will return
+   from where they exited.  This means you need to be ready for enemies behind
+   as well as in front of you.
+
+-  About half-way through, another satellite will go across the screen.
+
+-  The enemy fighters will usually make three to four passes at you before you
+   are out of this area.
+
+ ______________
+/ 7.3  Area 3 /________________________________________________________________
+--------------
+
+This is the area that gives players the most trouble.  Due to the small
+openings in the walls plus those openings being at different heights can really
+test a player's skill.  In addition, you must still take out Fuel Tanks in
+order to keep flying.
+
+-  In order to make sure that you will be able to pass through an opening,
+   continue to fire your gun.  If your laser fire doesn't go through, that
+   means you have to quickly adjust either your altitude or left/right
+   orientation.
+
+-  The barriers are relatively close together which means you have to get
+   through one and quickly adjust to where the next one is.  Over a period of
+   time, you will memorize where the openings in the barriers are and make your
+   trip that much easier.
+
+-  Many of the targets such as Fuel Tanks and Radar Towers are just on the
+   other side of the walls.  This means you have to drop and go left or right
+   very quickly to have a chance of hitting them.
+
+-  An added bonus of firing through the barriers (especially the ones at ground
+   level) is that you can knock off the targets on the other side of said
+   barrier making your life that much easier.
+
+-  Chapter 6.4 lists where the barriers are and recommended altitudes and di-
+   rections to get through them.
+
+-  After the last barrier, you get to tangle with Zaxxon.  To kill him every
+   time:
+
+   -  Set your altitude to two and one-half units.
+
+   -  Go to the right side of the screen.
+
+   -  When he starts to enter, start firing.  Adjust your fire so that you are
+      hitting the area where the upper right part of his body will be.
+
+   -  Once you see the Air-to-Air missile, start shooting at it.  The Air-to-
+      Air missile will turn red on successful hits.  Make six hits and you
+      destroy the missile within Zaxxon.  As a reward, you gain 1,000 points.
+
+Once you complete Area 3, the cycle begins anew.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+Zaxxon has to definitely be one of my all time favorite games.  The action is
+fast paced and even when you know what's coming, it didn't make a whole lot of
+difference.  Skill definitely played a major role in getting through this game.
+Skill, though, only got one so far.  Granted, you could destroy ground targets
+and navigate the narrow openings in barriers, it still sometimes came down to
+blind luck on how you managed to squeeze through a serious crossfire situation.
+The replay factor was high on this game and a lot of people used to tie the
+machine up for hours on end just trying to put higher scores on it.  Another
+factor, of course, had to be the graphics gave you the feeling of actually
+flying around causing hate and discontent.  Unfortunately,  it is very rare to
+find this machine anywhere.  However, through the miracle of emulation, a whole
+new generation is realizing what we "old" folks enjoyed those many years ago.
+In addition, www.shockwave.com is bringing many of these classic games back.
+Check out their site to see what ones are there.  I hope this guide helps you
+in being able to get the most amount of gameplay for this game.  If you do have
+other ideas or thoughts, please e-mail me and share them.  Who knows, maybe
+I'll start a Q&A Chapter in this guide if enough people ask the same questions.
+Anyway, thank you again for reading this guide.

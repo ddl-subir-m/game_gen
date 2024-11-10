@@ -1,0 +1,207 @@
+1. Overview
+2. Control
+3. Level 1
+4. Level 2
+5. Level 3
+6. Level 4
+7. Secrets
+8. Credits
+9. Legals
+
+===========
+1. Overview
+===========
+
+Welcome to another stonedwal FAQ.  The subject of today's FAQ is the much
+reverred Nintendo classic, Donkey Kong.  The game features a rather 
+disgruntled ape, who likes pinching people's girlfriends.  As Mario, as small
+time carpenter from New York, you must defeat Donkey Kong, and rescue your
+beloved Pauline.
+
+==========
+2. Control
+==========
+
+Left: Moves Mario to the left
+
+Right: Moves Mario to the right
+
+Up: Allows Mario to climb a ladder
+
+Down: Causes Mario to descend a ladder
+
+Button 1: Jump
+
+==========
+3. Level 1
+==========
+
+=-=-=-
+Part A
+=-=-=-
+
+After the introduction (How high can you get?), the game will display the
+first level, which in this case appears to be a construction yard.  At the top
+of the level is your arch enemy, Donkey Kong, as well as your dearly beloved 
+Pauline.  Between you and Pauline lies a large concoction of girders and 
+ladders.  To make matters worse, Donkey Kong has bounced up and down on the
+girders, causing them to bend downwards, so he can throw barrels down the
+girders to prevent you from reaching him.
+
+When you gain control of Mario, move immediately to your right, as Donkey Kong
+will drop a barrel right away.  This barrel will combine with the flaming drum
+at the bottom of the level to produce a fiery enemy.  This enemy will pursue
+you throughout the level, so you must act fast.  Continue to move right, past
+the broken ladder, and proceed to climb the ladder at the end of the platform.
+
+On the second platform, you have three options at your disposal for methods of
+advancing to the next platform.  First of all, we can grab the hammer.  The
+hammer is useful for those chasing a big high score, as you get 300 points for
+each barrel you smash, and it gives you an opportunity to dispose of the flame
+guy.  The second option is to take the middle ladder, being weary that a
+barrel may take that path.  Finally, you can take the ladder at the end.
+
+By now, Donkey Kong's first barrel should be about to hit you.  Jump over the
+barrel for 100 points.  Once you reach the third platform, you have two 
+options.  Run to the right, past the broken ladder, as it is completely 
+useless, and jump over any barrels in the way.  The first ladder is longer 
+than the other, but you reach it much more quickly.
+
+On the fourth platform, run left, past the broken ladder, and take either of
+the two unbroken ladders to the second last platform.
+
+On the second last platform, there is a hammer.  Take it, and clear a path
+through the barrels, and take the ladder at the end of the path to the top
+platform.
+
+On the top platform, jump any barrels, and climb the ladder to Pauline's
+platform.  Now watch in dispair as your flea ridden foe steals Pauline and
+takes her away again.
+
+=-=-=-
+Part B
+=-=-=-
+
+People who grew up on the NES version are probably shocked at the differences
+already, so this should be another suprise to add to the list.  This level
+is the final NES level.
+
+My strategy here is a little unorthodox, but it never fails.  You start at the
+bottom level of the structure.  Donkey Kong and Pauline are at the top.  The
+trick is to remove each of the yellow blocks from the structure, so that
+Donkey Kong will fall off the structure, so you can rescue Pauline.
+
+As was mentioned before, you start at the bottom.  Climb the ladder to the 
+second platform and steal the brick, being weary of the flame dude.  Jump over
+the gap you just created, and climb the ladder to the third platform.  Keep
+doing this until all the bricks on the right hand side are gone.
+
+By the time these bricks are gone, there will be 3 or 4 flame guys around, so
+must be careful.  The way to go about this is to remove the bricks in a manner
+which traps the flame guys in the middle platform, so they cannot threaten you
+(easily).  Once all the bricks are gone, Donkey Kong will be defeated, and you
+will have Pauline to yourself, or so you think.
+
+==========
+4. Level 2
+==========
+
+Unlike the NES version, stages are revealed gradually in the Arcade version.
+
+Level 2 is similar to Level 1, but adds an extra level to the mix.
+
+=-=-=-
+Part A
+=-=-=-
+
+This is practically the same as Part A of Level 1, except much harder.
+Barrels move faster, and are more prone to acting unpredicatbly.  Donkey Kong
+also throws the barrels in many different directions.  The level starts off in
+the same manner, except DK diagonally throws a flame barrel to the bottom
+right corner, so hold right as soon as you start the stage.  After this point
+things are relatively unpredictable, so stick to the strategy from last time
+and perservere.
+
+=-=-=-
+Part B
+=-=-=-
+
+This is the most frustrating level in the game, in my opinion.  It involves a
+series of elevators and a bunch of remote platforms, some connected by
+ladders.  To make matters worse, there are two flame guys, no mallets, and a
+ridiculous stream of bouncing springs.
+
+You start off on a platform in the middle of the screen on the far left.
+At the top of the ladder is an umbrella, which gives you a small points bonus.
+Next to this structure is an elevator going upwards, and next to that is a 
+small structure with two platforms, two ladders and a flame going up and down
+them.  Time your jump onto the elevator so you can jump onto the ladder
+platforms without any risk of contact with the flame.
+
+On the other side of the ladder platform is another lift, this time going
+downward.  Jump onto the lift, and take it down to a point where you can jump
+onto the next series of platforms.  These are somewhat like steps, so jump
+up them, avoiding the springs that are raining down, and climb up the ladder.
+You will notice that a flame is looming overhead, so do your best to avoid
+contact with this and the constant stream of springs, and work your way up the
+step-like platforms until you reach Donkey Kong's platform.
+
+Because the springs move so fast, you must be very careful when timing your
+run and climb up the ladder, as springs are likely to hit your bum if you are
+too slow.  Once you climb up the ladder, Donkey Kong snatches Pauline, and
+we go to the next part.
+
+=-=-=-
+Part C
+=-=-=-
+
+This is exactly the same as Part B of Level 1, except that the flames move
+faster and have greater numbers.
+
+==========
+5. Level 3
+==========
+
+=-=-=-
+Part A
+=-=-=-
+
+The same once again, but even faster.
+
+=-=-=-
+Part B
+=-=-=-
+
+The factory level which is missing from the NES conversion!
+
+You'll start on the bottom level.  Avoid being hit by the coal on teh conveyor
+belt, and make it to the "safe" platform.  Note that there are a shitload of
+flamies here, so avoid them, or jump to the next platform and gram the hammer,
+and put them out of their misery.
+
+You need to make it across to the right hand side of the screen, so you can 
+reach that conveyor.  Once the flamies are taken care of, climb the ladder 
+onto the conveyor, being wary of the coal, and climb the moving ladder.
+
+Make sure you don't climb the ladder when Donkey Kong is above you.  Upon
+reaching the platform, Donkey Kong will snatch Pauline again.
+
+=-=-=-
+Part C
+=-=-=-
+
+Rehash of Part B of Level 2, with faster springs.
+
+=-=-=-
+Part D
+=-=-=-
+
+Rehash of Part B of Level 1, with faster flames.
+
+==========
+6. Level 4
+==========
+
+From here on in, there is just a replay of the previous levels, getting
+progressively faster.  No new levels are introduced, so I will not be covering
+them.  The only difference is that the "How high can you get" gets larger.

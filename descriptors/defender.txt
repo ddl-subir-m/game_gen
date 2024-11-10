@@ -1,0 +1,248 @@
+Welcome to my FAQ for Defender.  Since the game has you continuously playing
+through waves until all your men are killed, there is no walkthrough per se.
+Instead it will be broken up into the game itself and strategies for survival.
+Input is appreciated along with constructive criticism.  If you wish to e-mail
+me thoughts on this FAQ, better ways of doing things, other strategies, etc.,
+feel free.  Make sure you put Defender as the subject.  If you don't, I'm
+liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Defender was created by a company that was, up to that time, more known for its
+pinball machines then electronic arcade machines.  A couple of years
+previously, Williams attempted to enter the arcade market but the game flopped
+badly.  Defender was different.  It was the first game to feature not only the
+joystick control, but five buttons to do various things.  At first, people were
+leery of playing this game and those that did found it to be very difficult.
+It must have been the difficult nature, though, that started the wave of
+popularity for this game.  It was to become one of Williams best time sellers
+ever and established Williams as a company to be reckoned with in the video
+game world.  The premise of the game was simple:  Make sure that you keep the
+humans safe on the planets surface.  Of course, there are a lot of enemies
+around to make that job difficult.  In addition to complexity, Defender was
+also the first to feature the "wrap-around" screen.  This basically meant you
+could fly your ship either way without reaching the edge of the screen.  This
+gave the illusion of a never-ending flight.  Of course, your view was only a
+small part of this area.  Good luck at dealing with the hazardous in keeping
+the humans safe.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Defender is a two-dimensional, shooter style game.  You have at your fingers
+the most advanced fighter in the arsenal.  With its array of weapons and the
+ability to maneuver quickly, this fighter is ideal for dealing with the enemy
+threats.  In addition, you can respond quickly to any threats by quickly
+reversing your motion and taking the quickest route to deal with said threat.
+You also can fly continuously in one direction or the other to make yourself a
+harder target to hit.  Be warned, though, that if you lose all ten humans, the
+planet will explode and you will be out in space against some pretty aggressive
+enemy units.  This is definitely a game of only the fittest survive.  To think,
+you volunteered for this duty.
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are pretty hard.  It will take a lot of practice to
+get used to them.  That is because you have five buttons you must keep track of
+and use at all times.
+
+-  A two-way joystick for moving up and down
+
+-  A thrust button
+
+-  A fire button
+
+-  A reverse button
+
+-  A smart bomb button
+
+-  A hyperspace button
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Defender involves battling either on the planet or in space if you lose all the
+humans.  The screen itself is a never-ending world since it "wrap-around" so
+there are no edges.  You only see what is within your limited view but you can
+see everything else via your radar.  I have included an example of what the
+playing screen looks like:
+
+    +---------------+-----------+-------+----------------+--------------+
+    |  \___ FIGHTERS|           |  --   |                |              |
+    |  \___ LEFT |- |           YOUR VIEW                |              |
+    |            |- |\      /\     /\_/\   /\_         _/|              |
+    |   250      |- | \/\__/  \/\_/     \_/   \/\/\___/  |              |
+    |____________^__|___________|_______|________________|______________|
+    |            |                                                      |
+    |           SMART BOMBS                                             |
+    |                 LEFT                                              |
+    |           /\_____                                                 |
+    |           +-----/                                                 |
+    |                                                                   |
+    |                            +--+                         +--+      |
+    |                           /    \                       /    \     |
+    |                          /      \                     /      \    |
+    |                         /        \                   /        \   |
+    |                        /          \                 /          \  |
+    |                       /            \_______________/            \ |
+    |                      /                                           \|
+    |                     /                                             |
+    |                    /                                              |
+    |                   /                                               |
+    |__________________/                                                |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control your fighter through this screen.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is relatively simple.
+
+Lander :   150 points
+Mutant :   150 points
+Bomber :   250 points
+Pod    :  1000 points
+Bomber :   250 points
+Baiter :   200 points
+Swarmer:   150 points
+
+500 points for saving a human from a Lander.
+
+Bonus at the end of each wave of Humans Left X 100.
+
+You get a bonus ship and smart bomb every 10,000 points.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+You start the game in the middle of the screen.  You can look at your radar to
+see where the various enemies are.  Get to learn the sounds of the game because
+they are an important clue as to what is going on out of your viewing range.
+
+-  First of all, learn how to use the buttons with proficiency.  You don't want
+   to be hunting around for the smart bomb or thrust button when you are in the
+   middle of a firefight.  Practice is what will make you proficient.
+
+-  Learn to use your radar screen and after a while you will only look at the
+   viewable area briefly to take care of business.  Each enemy has a unique
+   color on the radar so you should be able to easily identify what they are.
+   In addition, you will also learn how each enemy moves around.  This will
+   definitely become a great benefit in the later waves.
+
+-  As I've already mentioned, listen to the sounds of the game.  When you hear
+   a high-pitched chatter, that means a Lander has picked up a human in order
+   to create a mutant.  Use your radar and look for the green shape going
+   straight up; that's the lander.  Try to get over there as quickly as
+   possible.  Just shoot the Lander, not the human it has taken.  When you hear
+   what sound like something being put together, that means a Lander has become
+   a Mutant.
+
+-  Once you shoot the Lander, your job isn't over yet.  If the height is too
+   great, the human will fall and die on impact.  Fortunately, your fighter is
+   equipped for such emergencies.  All you have to do is fly over the human and
+   your fighter will pick them up.  Anytime you scrape against the ground, you
+   will set the human down.  Some players continuously ride around with a human
+   like this to prevent the planet from exploding.
+
+-  The planet will only explode when all ten humans are dead.  They you will
+   have to go through five waves of nothing but mutants and the other regular
+   enemies until you are back to a planet again.  Mutants are very dangerous to
+   deal with because they not only tend to swarm, they also fire a lot of shots
+   toward your fighter.  Of course, real good players just shoot all the humans
+   so they can have the challenge of going through these "mutant" waves.
+
+-  If you take too long on a wave, a saucer shaped enemy called a Briter will
+   appear.  The Briter is much quicker then your fighter and it has the
+   tendency to fire pretty accurate shots.  Try to clear waves as fast as
+   possible.
+
+-  Use your smart bombs only when your viewing area is crowded with enemies.  A
+   lot of players like to get all the Pods into their viewing screen then touch
+   off the smart bomb.  A quick way to get a few thousand points.  Another use
+   is to break open the pods so that Swarmers are all over then touch off the
+   smart bomb.  Again, more points.
+
+-  Speaking of Swarmers, they can outrun your fighter.  One of the tactics to
+   "throw" them off is to reverse quickly a couple of times.  This disorients
+   briefly and may even give you a chance to pick off a few of them.
+
+-  Use hyperspace only when you are in a totally desperate situation (like
+   getting swarmed by Mutants or Swarmers).  More times then not, the hyper-
+   space will put you somewhere else but destroy your fighter in the process.
+
+-  Watch out for the bombers.  Although they travel slowly, they have a bad
+   habit of leaving strings of bombs.  If you are not paying attention, you may
+   become another statistic if you attempt to fly through them.
+
+-  You can fly through and under the terrain.  Use this to your advantage when
+   maneuvering around.
+
+-  Since you "wrap-around" the screen, this gives you a little more maneuvering
+   room.  However, keep looking at your radar because the enemy that disappears
+   off the left side will show up on the right side.  Also, shots do not wrap
+   around the edge.
+
+-  Since you get a free fighter and smart bomb at 10,000 points, that should be
+   your constant goal.  As the waves get higher, though, things move a lot
+   faster making even getting 10,000 points a challenge.
+
+_______________________________________________________________________________
+
+jjt_defender@yahoo.com states:
+
+-  The most free fighters you can have is 255 displayed and smart bombs are at
+   254.  If you roll over these two value, you will end up with only the
+   fighter you are using and no smart bombs in the inventory.
+
+-  The highest score you can have is 999,999.  After that, it will roll over to
+   0 again.  You don't get any more ships or smartbombs after one million
+   points until you get to a certain WAVE depending on the gamming setup.  You
+   will then you start getting fighters and smart bombs again.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+I remember when I first played this game.  It was very frustrating because of
+all the buttons one had to learn about.  It wasn't enough just to have an idea
+of where they were, you had to instinctively be able to use them without even
+thinking.  This was part of the mystique of this game, hard enough to keep you
+interested but not so hard as to make you give up.  Replayability was great
+because the same things didn't happen twice even though the basic premise of
+the game remained the same.  One could spend a lot of quarters just to get
+comfortable with this game and a lot more to at least get a degree of
+proficiency.  Williams definitely did a good job on this video game.  Un-
+fortunately, it is very rare to find this machine anywhere.  However, through
+the miracle of emulation, a whole new generation is realizing what we "old"
+folks enjoyed those many years ago.  In addition, www.shockwave.com is bringing
+many of these classic games back.  Check out their site to see what ones are
+there.  I hope this guide helps you in being able to get the most amount of
+gameplay for this game.  If you do have other ideas or thoughts, please e-mail
+me and share them.  Who knows, maybe I'll start a Q&A Chapter in this guide if
+enough people ask the same questions.  Anyway, thank you again for reading this
+guide.

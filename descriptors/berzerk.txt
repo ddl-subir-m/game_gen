@@ -1,0 +1,216 @@
+Welcome to my FAQ for Berzerk.  Since the game is just a shooter that goes
+until all your men are killed, there is no walkthrough per se.  Instead it will
+be broken up into the game itself, strategies for survival, and some in-
+teresting quirks in the game.  Input is appreciated along with constructive
+criticism.  If you wish to e-mail me thoughts on this FAQ, better ways of doing
+things, other strategies, etc., feel free.  Make sure you put Berzerk as the
+subject.  If you don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Berzerk was an arcade shooter from the early 1980's.  It involves your man
+trying to escape from robots in a never-ending series of random mazes.  The
+game is simple in concept but it can be brutal depending on where your man
+starts from.  Good luck.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Berzerk is a simple two-dimensional shooter.  You control your character in an
+endless series of random mazes.  Your objective is to escape from each maze by
+whatever means are necessary.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+In order to become a master of this game, you must be familiar with the
+controls.  The controls are simple.  They consist of:
+
+-  An eight-way joystick:
+
+-  A fire button
+
+Pretty simple eh?
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+The playing field is a simple maze.  Since they are random, it is impossible to
+show all the different configurations.  I have, though, included an example of
+what one of the playing fields look like.
+
+
+                      +-----+------        -----+----+
+                      |     |                   |    |
+                      |     |                   |    |
+                      |     |                   |    |
+                      |     |                   |    |
+                      |     |      -------------+    |
+                                                   
+
+
+
+                      |     |      +-------------    |
+                      |     |      |                 |
+                      |     |      |                 |
+                      |     |      |                 |
+                      |     |      |                 |
+                      +-----+------+        ---------+
+
+Your character will start at one of the four entrances.  As you progress in
+the game, you will enter the next maze from the door you exited the last maze.
+For example, if you leave through the left door, you will enter the maze at the
+right door.
+
+ ___________________
+/ 6.3  The Enemies /___________________________________________________________
+-------------------
+
+The enemies in the game are simple to remember:  Robots and Evil Otto.  The
+robots, though, will improve as your score goes up.  Starting with the non-
+shooting yellow robots, they change colors and firing ability as your score
+goes up.  The breakdown is as so:
+
+             +---------------++---------------++--------------+
+             | POINTS SCORED || ROBOT COLOR   || SHOTS FIRED  |
+             +---------------++---------------++--------------+
+             +---------------++---------------++--------------+
+             |     0-  260   || YELLOW        ||      0       |
+             +---------------++---------------++--------------+
+             |   261- 1200   || RED           ||      1       |
+             +---------------++---------------++--------------+
+             |  1201- 3000   || LIGHT BLUE    ||      2       |
+             +---------------++---------------++--------------+
+             |  3001- 4500   || YELLOW-GREEN  ||      3       |
+             +---------------++---------------++--------------+
+             |  4501- 6000   || PURPLE        ||      4       |
+             +---------------++---------------++--------------+
+             |  6001- 8000   || YELLOW(2)     ||      5       |
+             +---------------++---------------++--------------+
+             |  8001-10000   || WHITE         || 1 SUPERSHOT  |
+             +---------------++---------------++--------------+
+             | 10001-12000   || LIGHT BLUE(2) || 2 SUPERSHOTS |
+             +---------------++---------------++--------------+
+
+The color system will repeat after the second set of light blue robots.
+
+At around 20000 points, the robots will stay LIGHT BLUE(2).
+
+ _______________
+/ 6.4  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty simple:
+
+-  You get 50 points per robot destroyed.  It doesn't matter whether you
+destroy them or they get destroyed some other way.
+
+-  You get a bonus of 10 times the number of robots in a maze if you clear it 
+   For example, if you destroyed all 7 robots in a maze, then your bonus would
+   be 10 X 7 or 70 points.
+
+-  On the normal machine set up, you earn a free man at 5000 and 10000 points.
+
+                               ****************       
+******************************** U N I T  III *********************************
+                               ****************       
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your man will be put at either the left or right
+entrance.  You will face anywhere from 1 to 12 robots.  Your goal, or course,
+is to get to the next maze.
+
+-  Quickly assess where you are at and destroy the closest enemies.  The first
+   3 sets of robots are pretty easy.  It's when they start firing those 3+
+   shots at you or the supershots things can get bad.
+
+-  Remember, your man is longer then he is wide; use this to your advantage.
+   Always try to exit the maze from the left or right exit so that you present
+   a small profile for the next maze.  If you enter from the top or bottom, you
+   present a bigger target.  Of course, there is no defense against being put
+   right next to a robot.
+
+-  There is a 1-2 second delay after you enter a maze before the robots come
+   after you, use that to your advantage.
+
+-  You cannot run and shoot in this game.  You have to stop and shoot.  Use the
+   joystick to aim and press the fire button.  Your guy may move a little in
+   that direction so don't try to shoot robots point-blank or you will destroy
+   the robot while the robot vaporizes you.
+
+-  When you get into the later rounds, luck will be as much a factor as skill.
+   This is especially true when the robots are firing supershots at you (these
+   shots travel twice the speed of normal shots).
+
+-  Evil Otto (the bouncing happy face) will appear from where your character
+   entered the maze.  Evil Otto's appearance is directly related to how many
+   robots you start with.  The lower the number, the faster Evil Otto appears.
+   Evil Otto cannot be destroyed.
+
+-  Let the robots do your work for you. Let them shoot each other, run into
+   each other, run into walls, etc.  Just don't take too long or Evil Otto will
+   ruin your day.  Of course, Evil Otto can help finish your work by also
+   destroying robots in his path.
+
+-  If the robot cannot hit you with laser fire, they will still try to kill
+   your character by attempting to run him over.
+
+-  The walls in the maze are deadly.  If your man runs into a wall, he is
+   vaporized.  The wall will light up if your man is too close to the wall.
+
+-  If you and a robot are in line and firing at each other, your shots will
+   negate themselves out.  In the later levels, this could prove deadly since
+   they can keep up with your firepower.
+
++=======================+
+| 8. QUIRKS IN THE GAME |======================================================
++=======================+
+
+Like all video games, this game has strange things that can occur.  Although
+they aren't detrimental to gameplay, they are interesting nonetheless.
+
+-  There is a one pixel space between your man's head and shoulders.  The game
+   doesn't register it as existing so if a robot's shot goes through that
+   space, your man doesn't die.  Kind of weird since I've had it happen in a
+   few games.
+
+-  The synthesized voice utters memorable lines such as, "Intruder alert,
+   Intruder alert..." and if you escape before destroying all the robots, it
+   utters, "Chicken, fight like a robot".  Sometimes when you escape as above,
+   it will just utter "Chicken".
+
+-  The robots have a blind spot.  You will realize this when you move toward a
+   robot and it doesn't respond.  Again, don't take too long or you may be out
+   of its blind spot and it will come after you.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 9.  CONCLUSION |=============================================================
++================+
+
+I remember spending countless hours and quarters on this machine when it first
+came out.  The simplicity of design was deceiving on how the game was played.
+It did become addictive as the synthesized voice seemed to be constantly in
+your head after playing a few hours on this machine.  Unfortunately, it is very
+rare to find this machine anywhere.  However, through the miracle of emulation,
+a whole new generation is realizing what we "old" folks enjoyed those many
+years ago.  I hope this guide helps you in being able to get the most amount of
+gameplay for this game.  If you do have other ideas or thoughts, please e-mail
+me and share them.  Who knows, maybe I'll start a Q&A Chapter in this guide if
+enough people ask the same questions.  Anyway, thank you again for reading this
+guide.

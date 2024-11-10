@@ -1,0 +1,1140 @@
+Hello, I am Mega Belmont presenting to you my FAQ for Vampire Killer, known
+today as Castlevania. Although this game was never been released in America,
+it was still released in Europe and Japan. Unfortidently, the MSX's lifespan
+was short due to the Nintendo Entertainment system so this was one of the few
+MSX games on it. The gameplay has Simon Belmont search for keys to unlock 
+doors and chests, which is very unique compared to the typical Castlevania 
+game. The graphics are very similar to the NES's and share most of the same 
+spirits. The music and boss's are basically the same as the NES.
+
+ ______________________________________________________
+|>----------------Section 3: Storyline----------------<|
+ \____________________________________________________/
+
+Note: This is from the European version of Castlevania: Chronicals. (Which
+is the same game just told a different way, kind of like fairy tails)
+
+"Transylvania, a small peaceful country in the heart of
+Medieval Europe.
+
+In this country, there is an old legend concerning Dracula
+
+"Once every 100 years, the power of Christ grows weak.
+Each time this happens, human beings with evil hearts
+begin to chant unspeakable prayers. Thus is Dracula, the
+prince of darkness. Ressurrected upon the face of the
+Earth. And each time he is manifested, his powers grow
+stronger."
+
+Once, long ago, Dracula was indeed revived in this
+manner. However, his ambitions to plunge the world
+into darkness and build a kingdom of evil were crushed
+by the hero Christopher Belmont.
+Following Dracula's demise at the hands of Christopher
+Belmont, the Transylvanian countryside slepy peacefully
+for 100 years. Then...
+
+One easter night, the townspeople were commemorating
+Christ's resurrection with a splendid carnival. But, in
+the ruins of the old monastery of the edge of town, the
+followers of darkness were holding a black mass to
+revive the evil count and give him eternal life. They
+poured a sacrifice of human blood over his remains. As
+they did so, an evil thundercloud enveloped the town.
+Suddenly, a single bolt of lightning pierced the
+monastery. In that instant, Dracula, the prince of
+darkness, returned to this world to begin a new reign of
+terror.
+
+But all was not lost. The successor to the Belmont family
+bloodline, a young man by the name of Simon was
+determined to rid the land of this terrible evil. Taking
+the mysterious whip left to him by his father, he ventured
+into Dracula's Castle to face the count - alone."
+
+Think of mixing the intro of Castlevania 4 with the Chronicals intro and you
+get this. Christopher Belmont is the father of Simon and passed down the
+'mystical whip.' Although there was probibly a different story back when this
+came out, try to think of the story told a differernt way but still has
+basically the same plot. (Vampire Killer, Castlevania, Chronicals, Super
+Castlevania 4)
+
+ ______________________________________________________
+|>------------------Section 4: Info-------------------<|
+ \____________________________________________________/
+
+ __________________
+| I. Screen Layout \ Here is what's desplayed on the screen during gameplay:
+|__________________/ 
+                                        # of
+                Display's  /_    # of  remaining
+Display's /____ what stage \ |  Hearts  lives     ___\
+your      \    |your on      |    /|\    /|\     |   / Sub weapons:
+current    ____|_____________|_____|______|___   |   Far left: Holy Water
+score     |    |             |    (\/)    |   |  |   Mid left: Shield
+          | SCORE-002300 STAGE-05  \/-12 P-02 |  |  Mid right: Hour Glass
+Simon's   |         ________   _   __   ____  |  |  Far right: Map
+HP  /_______PLAYER ||||||___| |+| |tf| |OUIC|____|
+    \ ______ENEMY  |||||||||| |   |           |
+  ___|  ______________________|   |______________
+\|/    |  |-----------------------------------|  |____
+Boss's |  |                                   |       |
+ HP    |  |_____                              |      \|/
+      \|/ |     \                             |     Keys
+     Main |      \_____                       | (Left is small yellow key or
+   Weapon |            \                      |  the lock pick and the big
+        _____O          \                     |  white key is on the right)
+    ___|  | (|--      ___\_    /V\_______________
+  \|/     | WW       /     \                  | \|/
+ Simon    |_/\______/_______\_________________| Enemy
+Belmont
+(I know he looks bad)
+ ______________
+| II. Controls \ Here are the default controls:
+|______________/
+
+Move left and right with the directional buttons
+Press down to duck
+Space bar jumps
+Press F1 to pause
+Press F2 to view the map
+Down + Jump = Go into a sewer pipe
+
+Or if your using a controller:
+  _____       _____
+ /  3  \_____/     \  1- Jump          4- Move right
+| 6   4        2    | 2- Attack        5- Duck/Go down stairs
+|   5   _____   1   | 3- Go up stairs  6- Move left
+ \     /     \     /
+  \   /       \   /
+   \_/         \_/
+
+ __________________
+| III. Sub Weapons \ Here are the replacement weapons for the leather whip:
+|__________________/
+
+
+
+Chain whip: Upgrates your whip to deal more damage
+Holy Water: Throw holy water while in the air (Jump + Right or Jump + Left)
+Hour Glass: Freeze enemies for a short time (Jump + Down)
+Axe : Very powerful but doesn't have a good distance. You must catch it when it
+returns or you lose it
+Crusifix: Not as powerful as the axe but has a longer throwing distance. Like
+the axe you must catch it on its return to use it again
+Dagger- Weak but has a very long distance. You can throw 2 at a time
+
+ _____________
+| IV. Items   \ Here is a list of the items:
+|_____________/
+ ____________________________________________________________________________
+| Name                | Description                                          |
+|---------------------|------------------------------------------------------|
+| Candle              | Whip it to obtain a small item like hearts           |
+|---------------------|------------------------------------------------------|
+| Large Heart         | Equals 5 small hearts                                |
+|---------------------|------------------------------------------------------|
+| Treasure Chests     | Contains helpful items like maps and power ups       |
+|---------------------|------------------------------------------------------|
+| Chain Whip          | Use a more powerful whip than the leather whip       |
+|---------------------|------------------------------------------------------|
+| Small Tan Key       | Opens blue treasure chests                           |
+|---------------------|------------------------------------------------------|
+| Large White Key     | Opens doors to the next stage or boss                |
+|---------------------|------------------------------------------------------|
+| White Boots         | Simon can walk faster                                |
+|---------------------|------------------------------------------------------|
+| Red Shield          | Get delt 1/2 damage with direct hits to the shield   |
+|---------------------|------------------------------------------------------|
+| Tan Shield          | Immune to all fireball attacks                       |
+|---------------------|------------------------------------------------------|
+| Blue Ring           | Kill everything you touch for a short period of time |
+|---------------------|------------------------------------------------------|
+| Blue Orb            | Makes you invincible for a few seconds               |
+|---------------------|------------------------------------------------------|
+| Red Spell Book      | Increases the prices for the Merchant                |
+|---------------------|------------------------------------------------------|
+| Grey Spell Book     | Decreases the prices for the Merchant                |
+|---------------------|------------------------------------------------------|
+| Candle (From chest) | Highlights where hidden blocks are                   |
+|---------------------|------------------------------------------------------|
+| Cane                | Picks the locks of all treasure chests               |
+|---------------------|------------------------------------------------------|
+| Tan Crusifix        | Kills all enemies on the screen.                     |
+|---------------------|------------------------------------------------------|
+| Boots               | Walk faster for the rest of the stage                |
+|---------------------|------------------------------------------------------|
+| Wings               | Jump higher for the rest of the stage                |
+|---------------------|------------------------------------------------------|
+| (More to be added)  |                                                      |
+|_____________________|______________________________________________________|
+
+
+ ___________
+| V. Points \ Back in the 80's, one of the goals wasn't to get to the end of
+|___________/ the game, but to get a high score. Here is a list that shows
+the number of points you obtain for an item or enemy:
+ ____________________________________________________________________________
+| Enemy               | Points obtained                                      |
+|---------------------|------------------------------------------------------|
+| Zombie              | 100                                                  |
+|---------------------|------------------------------------------------------|
+| Wolf                | 100                                                  |
+|---------------------|------------------------------------------------------|
+| Green Bat           | 100                                                  |
+|---------------------|------------------------------------------------------|
+| Merman              | 200                                                  |
+|---------------------|------------------------------------------------------|
+| Boss: Bat           | 2000                                                 |
+|---------------------|------------------------------------------------------|
+| Spear Armor         | 200                                                  |
+|---------------------|------------------------------------------------------|
+| Tan Bat             | 100                                                  |
+|---------------------|------------------------------------------------------|
+| Tan Medusa Head     | 200                                                  |
+|---------------------|------------------------------------------------------|
+| White $ Bag         | 5000                                                 |
+|---------------------|------------------------------------------------------|
+| (More to be added)  |                                                      |
+|_____________________|______________________________________________________|
+
+
+ ______________
+| VI. Enemies  \ Here is a list of enemies you may encounter:
+|______________/ (HP is 1 shot with the leather whip)
+ ____________________________________________________________________________
+| Stage | Name      | HP | Drops    | Description                            |
+|-------|-----------|----|----------|----------------------------------------|
+| 01    | Zombie    | 1  | Sm Heart | Has no attacks, he just runs at you    |
+|       |           |    | Lg Heart |                                        |
+|       |           |    | $ Bag    |                                        |
+|-------|-----------|----|----------|----------------------------------------|
+| 01    | Wolf      | 1  | Sm Heart |                                        |
+|-------|-----------|----|----------|----------------------------------------|
+| 01    | Green Bat | 1  | Sm Heart |                                        |
+|-------|-----------|----|----------|----------------------------------------|
+| (More to be added)|    |          |                                        |
+|_______|___________|____|__________|________________________________________|
+
+
+ ____________________
+| VII. Boss Tactics  \ Here are some stradigies to help you defeat the boss's:
+|____________________/
+
+To be added, see the walkthrough for now.
+
+ _________________
+| VIII. Maps      \
+|_________________/
+
+You can view a map by pressing F2 once you have acquired one. Once the map is 
+displayed, you will see a red arrow. You need to first find a white key, then
+go to the red arrow which will take you to the next stage. The white lines
+indicate platforms. Every screen is indicated by a 3X5 block in this map.
+Remember, you can only view a map a few times and then it disappears. Here
+are the maps for each stage:
+
+
+Legend:
+S = Start
+| = Wall
+t = Treasure Chest
+D = Door
+k = small key (Opens chests) (Lower case)
+K = Large key (Opens doors) (Upper case)
+/ or \ = Stairs
+_ = Platform
+m = Merchant (Person you buy items from)
+: = Loops
+p = Pit
+a, b, c, d, e = Sewage Pipe enterances (Stage 12 only)
+ _____________________
+| Stage 00            |
+|  _____ _____ _____  |
+| |                 | |
+| |                 | |
+| S_____ _____ _____D |
+|_____________________|
+
+ ____________________________
+| Stage 01                   |
+| _____ _____ _____ _____    |
+| |t _                   _D  |
+| |t_ \_ _        __ __k/ |  |
+| |k____ _\___ __/__ ____m|  |
+|  _____ __\__ _____ __/__   |
+| :         \_ _   _ _/_  :  |
+| :       _/    \_/   t_\ :  |
+| :_____ /____ k_|Kt _/___:  |
+|____________________________|
+
+ ________________
+| Stage 02       |
+|  ______ _____  |
+| :_t|m_  _ ___: |
+| :_____  _\  _: |
+| :  /     _\_ : |
+|  _/___ ______  |
+| S/_ m_  k_  _D |
+| |  __| |kk_  | |
+| |_/km| |ttk\_| |
+|  _\___ ____/_  |
+| |__\ _ _ _/ _| |
+| |          _K| |
+| pppppp ppppppp |
+|________________|
+
+ ___________________________
+| Stage 03                  |
+|  _____ _____ _____ _____  |
+| :  _      __ ____       : |
+| S_/t_   _/k_ _t|m_ _  k_: |
+| :k___\ /___\ _k|K_ _____: |
+|  ___/_   _____            |
+| |  /  | |BOSS |           |
+| |t/_  | |    _|           |
+| |t__\_D |___/_|           |
+|___________________________|
+
+ _____________________
+| Stage 04            |
+|   _____ _____ ____  |
+|  D_ _ _ _   _ _ _ | |
+|  |_ k | |k t| |  _| |
+|  |t | | | _ k |t/_| |
+|   _   _ ___/   / /  |
+|  ||   | | /|  /m/ | |
+|  |K_ _| |/_|k   __| |
+| S:_____ /_t|m _/__: |
+|_____________________|
+
+ _____________________
+| Stage 05            |
+|  _____ _____ _____  |
+| |              _ || |
+| D_____ __ __ _ _tK| |
+| |  _ _ _ k k ___tm| |
+|   /                 |
+| |/____ __  _ _____S |
+| ||  t    kk       | |
+| ||pppp ppppp ppppp| |
+|_____________________|
+
+ _______________________
+|Stage 06               |
+|                       |
+| |BOSS | |           | |
+| |_ _ _| D_____ ____k| |
+| ||_|_|| |         / | |
+|                  /    |
+|   |mk __ _____ _/__m| |
+|   |  _          _k__S |
+|   |t/t__ ____k ____K| |
+|_______________________|
+
+ _____________________
+|Stage 07             |
+|                     |
+| |                 | |
+| |  _       k _   _D |
+| |m/ __ _ / _ _\_t | |
+|  \                  |
+| | \     t k       | |
+| |t_\k     t_ _  _t| |
+| | ____ _____ __/_K| |
+|   \          _____  |
+| |  \__ _   k _m   | |
+| | /_     t_/      | |
+| |k____ _____ _____S |
+|_____________________|
+
+ _________________________________
+| Stage 08                        |
+|                          :::::  |
+|                t         K    | |
+|              _____ _ _ _ _  _|D |
+|              \            \__t| |
+|               \                 |
+| |_||           \_| | k__ _ _ _| |
+| S_|kt_ _ttk_ __/m| t /m     /_| |
+| |                | |ppp_ k:/::| |
+|_________________________________|
+
+ ______________________________________
+| Stage 09                             |
+|                                      |
+|                               |t__ | |
+|                               | /k | |
+|                               |/ _ | |
+|                                \     |
+| |                           k  _\|k| |
+| S__t__ _____ _____ _ _ _ __k|k \ | | |
+| |                  ppppp    |t _t| | |
+|                                \     |
+|                      |BOSS |  |t\  | |
+|                      |_    |  |_  K| |
+|                      |_|___|  D_\_m| |
+|______________________________________|
+
+ _______________________________________
+| Stage 10                              |
+|        _____ _____             _____  |
+|       :||||| |||||:           ||||||| |
+|       :||  | || ||:           ||||  | |
+|       :_____ _____:           |m____D |
+|          \   _____ ____   ____   \    |
+| :K      m \  ||||| | _     |||  t \_: |
+| S_ _ t __\k_ _|_ _ _/k _ t _|_ _ t _: |
+| :ppppp ppppp ppppp ppppp ppppp ppppp: |
+|_______________________________________|
+
+ _______________________________________
+| Stage 11                              |
+|                                       |
+| |       Kk                          | |
+| |       ttt  | |    t t| | |        | |
+| S_____ _m||| |||__ _t_m| ||t__ _____D |
+|_______________________________________|
+
+ _____________________________
+| Stage 12                    |
+|                             |
+| :_____ _____ _____:         |
+| :    _ _k_b_ _    :         |
+| S_a_|         |c_t:         |
+|                             |
+|  _____ _____ _____  |BOSS | |
+| |       tmb_ _|  K| |     | |
+| |_a___ _|    t_e__D |-___-| |
+|                             |
+|       :_____ _____:         |
+|       :   t_ _    :         |
+|       :_d|    |e|k:         |
+|                             |
+| :_____ _____ _____:         |
+| :_k_       _ _t  _:         |
+| :   |_ _d_|   |c| :         |
+|_____________________________|
+
+ _________________________________
+| Stage 13                        |
+|                    \::::        |
+| :_____ __        _ _\k|m:       |
+| :|\      |\    _/   _|| :       |
+| :__\__ _m||_ _/___ __|K_:       |
+|  \             /                |
+| |m\___ __ |_ _/k_|              |
+| |        \|  \_  |              |
+| S_____ __/|k ____k              |
+|                /                |
+|              _/k__              |
+|               \                 |
+|              k_\__              |
+|                /                |
+|      |t  __ _/         |        |
+|      |t_/      \__ ____|        |
+|      D_____  ___/_ ___m|        |
+|                      \          |
+|                    t _\_        |
+|                     _           |
+|                    __\__        |
+|                    :\:::        |
+|_________________________________|
+
+ _________________________________
+| Stage 14                        |
+|              :::::              |
+| |____          t|_ _____ _____| |
+| | \  _ ___ _ _K_    \ |    /  | |
+| D__\__ t|m\_ ___\_ _| |k _/___| |
+|                            /    |
+|              |  t|      |_/   | |
+|              | /|t _k _t|  \_k| |
+|              |:k__ _____|__/__S |
+|_________________________________|
+
+ _____________________________
+| Stage 15                    |
+|                             |
+| |BOSS | |                 | |
+| |-___-| |                 | |
+| |/___\| D_k __ _____ _pk_t| |
+|                  /          |
+|         :       /   :       |
+|         :t _t  /__k :       |
+|         :|  |t _/___:       |
+|                   /         |
+|         |K  __ __/tm|       |
+|         :  /        :       |
+|         :_/___ _____:       |
+|                   /         |
+|          |__ _ __/tm|       |
+|          |\ _       |       |
+|          |k\__ _____S       |
+|_____________________________|
+
+ __________________________
+| Stage 16                 |
+|                          |
+| |                        |
+| D_K___ t _ _ _ _ k ___   |
+| |                    _\_ |
+|                     /    |
+|                  _ /_    |
+|   tt K _ _ _ _ _     \   |
+| ppppppppppKppppppppppt\p |
+|__________________________|
+
+ ________________________________
+| Stage 17                       |
+|                                |
+| D__ |  __ K |mk                |
+|    \|  _ _     t               |
+|    /|   \_k _|t|               |
+|   /     /   \                  |
+| m/_|  _/_ k _\| t              |
+| |  \   _ t| |\ t|              |
+| |ppp\ _pp|t __\tm              |
+|              \                 |
+|             |t\__ _  __ _    | |
+|             | /|   \|    ___k| |
+|             | _|k _ |t  ___/_| |
+|               \            /   |
+|             | |\    |    _/  D |
+|             |t| \ k |__ _ -_ | |
+|             |p|t/ _t_|_ _\_Kp| |
+|________________________________|
+
+ _____________________________
+| Stage 18                    |
+|                             |
+| DRACULA                     |
+| |_- -_| |m__                |
+| |_- -_| |  \-_ _-k_         |
+| |_-_-_| D___\_ t  _\        |
+|                   \         |
+|                K |_\        |
+|                \_| \        |
+|                /_| /        |
+|                 / /         |
+|         :|tk   /t/ |:       |
+|         :| |-_ _/k |:       |
+|         :kt| / |- -_:       |
+|          \  /               |
+|          \ |/               |
+|          t\|_\              |
+|          /_|_\              |
+|           / \               |
+|          /k  \ _ __       | |
+|          t_\ _ _ k/_ __   | |
+|          ppp\p pppm| pp\__S |
+|_____________________________|
+
+ _________________
+| IX. Game Master \
+|_________________/
+
+*NOTE: THE GAME MASTER 2 WILL NOT WORK, ONLY THE GAME MASTER 1*
+
+For those of you that don't know what a game master is, think of it as a Game
+Genie/Game Shark/Codebreaker. It was created by Konami in 1986. (I guess almost
+everything for the MSX was created by Konami) With this it improved a few games
+by allowing you to cheat. All over I hear constant complaining about how tough
+this game is, so this is your chance to cheat without save states if your using
+an emulator. To run it, load the Vampire Killer disk in Cart A then put the
+Game Master in Cart B and reboot. Once it asks you to press the space key,
+press it and a menu will come up. This is what it looks like:
+
+ ________________________
+|       ---MENU---       |
+|                        |
+|  START GAME            |
+|  MODIFY STAGE NUMBER   |
+|  MODIFY PLAYER NUMBER  |
+|________________________|
+
+Obviously once you modified what you would like you would go to START GAME to
+start on the stage you selected and with the number of lives you desire.
+
+If you select MODIFY STAGE NUMBER you can choose what stage you would like
+to start on from 00-99. To imput the stage you type in the number on the
+keyboard (You can't use the D-pad to change the numbers) Once you have entered
+the stage you would like to start on press enter. NOTE: Vampire Killer only has
+stages 00-18, so if you enter a number higher than 18 you will automatically
+begin on stage 00.
+
+If you select MODIFY PLAYER NUMBER you can choose how many lives you will begin
+the game with. Since there are no continues or saves in this game, you should
+choose a high number if you have the chance. To imput the number of lives type
+in the number you would like with the number keys and press enter when you are
+done. NOTE: Since 00 is your last life in the game, the number that you enter
+will be subtracted by one in the game. You will still have that many lives
+since 00 is the last one. So if you enter 15 as the number, 14 will appear when
+you play the game. If you enter 99, 98 will appear in the game. IF YOU ENTER 00
+YOU WILL BEGIN WITH 100 LIVES, or it will appear as 99 in the game. So it is
+best if you enter 00.
+
+ ______________________________________________________
+|>----------------Section 5: Walkthrough--------------<|
+ \____________________________________________________/
+
+Here is a walkthrough to help guide you through Dracula's vast Castle. Remember
+that you begin with only 3 lives and there are no continues, so every second of
+gameplay counts. I will be breaking every 3 stages into levels, so after every
+boss there will be a new level. Here are a few tips before we get started:
+
+*You should be fimiliar with the Castlevania setting. If you never played a
+Castlevania game before you may experience some difficulties with the controls
+(Having no control while in the air may take some time to adjust to...)
+
+*Know the controls for using sub weapons, they are your friend:)
+
+*Refer to the maps or boss tactics if you need some extra help
+
+*Always, always, always remain focused becuase you cannot afford any errors.
+
+*Remember to pause (F1) when switching back and forth from the game.
+
+Simply put, remain calm and expect the unexpected. Now let's get on with the
+walkthrough.
+
+                     |^^^^^^^^^^^^^^^^^^^^^^^^^^^|
+                     | Level 1: Castle Corridor  |
+                     |___________________________|
+                      \                         /
+                       |-----------------------|
+                       |        Enemies:       |
+                       |                       |
+                       |        Zombie         |
+                       |         Wolf          |
+                       |       Green Bat       |
+                       |        Merman         |
+                       |-----------------------|
+                       |        Music:         |
+                       |                       |
+                       |    Vampire Killer     |
+                       |-----------------------|
+                       |         Boss:         |
+                       |                       |
+                       |      Phantom Bat      |
+                       |_______________________|
+                      
+
+Stage 01: Once you enter the castle game, take the time to practice the
+controls. If you are using the keyboard to control (I really pitty you) I
+highly suggest you review the controls. Also remember that F1 pauses and F2
+allows you to view a map if you have it in your possession. After you feel
+comferable with the controls, go right and whip all of the candles giving you
+12 hearts and a whip upgrade. There are no enemies until you enter the castle.
+Once you enter the castle, go immediately left. This will prevent you from
+getting delt damage from the zombies.It should look like your going
+back outside but actually the stage looped from the opposite side. Think of it
+more like a 3-d castle... Anyway in this room you should see a wolf at the top
+of the stairs. Ignore him and proceed left until your underneath the staircase
+above you. Around when your there that will trigger the wolf to go after you,
+but you won't get hit by him because he will run out of the screen. So continue
+going left past the staircase and into the next room. In here you will see
+another wolf, but you can afvoid him also by walking under the pilliar that he
+is laying on. After he also runs off of the screen whip the wall to your left.
+A big white key should appear. You will need this key to advance to the next
+stage. Pick it up and go right to the screen you were previously in. This time
+when you enter go up the staircase. As you do the wolf will run to its left,
+not leaving it as a threat. Whip the candles and continue up the next 2 
+staircases to the next floor. From here there is a merchant to the right, but
+you cannot afford what he has. You can whip the left candle, but avoid whiping
+the right one because the will trigger the wolf to go after you. So instead go
+left to the next room. Beware of the zombies inside AND DON'T WHIP THE CANDLES,
+one of them will jack up the prices for the merchant. Go up the staircase and
+right to the room you were in, but on the middle floor. In here you will see
+the wolf again and a key that will open a treasure chest. You can either go on 
+a side quest or continue on to the next stage. If you continue on, you will 
+have to fight the dog. Carefully walk over to the key and stop the second that 
+you pick it up. If you picked it up at its far left side you will have a good 
+shot at defeating the wolf. From there, jump tword the wold and immediately use
+the whip. You can now go to the next stage.
+
+*Side quest: Shield (Need a key)*
+This is optional but it may help you on your quest. The shield is the only good
+sub weapon in the first stage. After you picked up the key, (hopefully the wolf
+didn't come after you) go left 2 screens. Inside there go up the staircase and
+into the next room. Inside there you should see a key on the ground, a treasure
+chest on the middle floor and a chreasure chest on the top floor, and a very
+pesky bat that keeps comming back. Go up the stairs to the top floor, whiping
+the bat each time that you need to and then fall down to the middle floor. Open
+that chest and there will be a shield inside. Then fall down to the bottom
+floor and pick up the yellow key. Go 2 screens left avoiding the zombies and
+back up the staircase that leads to the wolf guarding the enterance to the next
+stage. Get close to the wolf then jump and attack him, and hopefully you will
+kill him. Then enter the next stage.
+
+Stage 02: From the start you can either go up the stairs on a side quest to get
+holy water and/or a map or you can go down to get to stage 3. If you don't want
+to get the holy water and/or map skip below the side quest menu.
+
+*Side Quest: Map (Need a key) and/or Holy Water (Costs 30 Hearts)*
+There are a few hearts, a key, and a merchant (selling another shield for 20
+hearts), if you wish to break through the walls in this room, but I only
+recomend breaking the middle floor blocks if you want to get hearts. Just
+remember that you will have to put up with a bat that keeps comming back.
+Whenever you are ready go up the stairs to the room above you. Up here go to
+your right or left (it doesn't matter) to the next room. In the next room, once
+you go up the stairs you will have a choice to go to the right or left. I would
+suggest only going to the left path because I already have drawn maps in
+section VII of the info section. The left path will lead you to the merchant
+selling holy water for 30 hearts. (Unless you picked up the  red book in the 
+first stage) The right path will take you to a treasure chest that will contain
+a map. Once you have the items you wish to get, return to where the level 
+started by going down the stairs.
+
+From where you started this level now go down the stairs to the bottom of this
+level. Beware of the Mermen as they randomly jump out of the water. Luckly,
+they cannot spit fire at you from a distance. Once you are down the stairs,
+whip the candle to your left. That will make you kill any enemy you touch for a
+short period of time. Also be sure to break that wall next to it to obtain the
+axe! The axe will replace your whip until you finish the level (not stage) or
+UNTIL YOU DON'T CATCH IT ON ITS RETURN. It is alot more powerful then the whip
+and it has a better distance. Now travel right to the next screen. There are 3
+ways you can get the big white key in this room. The easiest way to get it is
+stand on the platform where the bottom of the staircase is and throw your axe
+right. This will break that platform and reviel the big key. Just make sure
+you pick up your axe before it dissapears. Another way is if you have holy 
+water and stand on the high platform underneith the big staircase, jump and 
+press right in the air to throw the holy water. This will break the wall to the
+bottom right of you and reviel the big key. The final way to do it is stand 
+on the middle of the platform that has the bottom of the staircase and jump 
+to the lower left platform, then jump and whip the wall and jump up and get the
+key. Avoid the mermen and then go up the staircase to the next room. From
+there, beware of the bat that keeps comming across and you can either go into
+the door to the next level or go on another side quest.
+
+*Side Quest: Boots (Key), hour glass (Key), and lots of healing*
+If your almost dead your in luck, but it's going to cost you a very valuable
+item. If you wish to get the boots (Need a key), and the hour glass and
+sacrafice the discount to get healed from this room break all of the walls on
+the bottom floor. You can get some health back from the candle above you, but
+if you still need more health and you have 40 hearts to spend DON'T whip the
+top blocks and go see the merchant on the other side. If you don't need to go
+to the merchant, break the middle walls for a key. Whip him a few times for
+a good health fix. Or if you are in a desperate need of health and you have
+more than 15 hearts and already have a key (You can get one from the bottom
+wall but don't open any tresure chest down there!) you can carefully go to the 
+top floor (dont break the walls!!!) and open up the treasure chest containing a
+grey book. Go left to the merchant and whip him good to redeem some HP. Once
+you go back to the room you came from whip the candle to get back even more HP.
+Then go through the door to the next stage.
+
+Stage 3: This stage is going to be relitively short. From the start go left to
+the next room. In here break the bottom mid-left candle to become invincible
+for a few seconds. Just make sure you DON'T hit the far right one, which will
+give you a red magic book. Go left to the next room and break the wall to
+reviel a big white key. Now go left 2 screens killing the zombies as they come
+and go down the stairs. From here you can use a key on the bottom treasure
+chest to pick up a shield if you don't already have one or go into the door to
+the boss's room.
+                                      /\
+                         /\    /\    /  \    /\    /\
+                      /\/  \/\/  \/\/    \/\/  \/\/  \/\
+---------------------<======| Boss:  Phantom Bat |======>---------------------
+                      \/\  /\/\  /\/\    /\/\  /\/\  /\/
+                         \/    \/    \  /    \/    \/
+                                      \/
+Axe/Cross stradigies: If you picked up the cross (cruseifix) from the merchant
+in level 3 (Was optional) this weapon will work just as good as the axe. Please
+note, using this stradigy requires no sub weapons like hour glass's or holy
+water, but you will recieve about 1/4 damage on your life bar. So if your
+almost dead, refer to the boss tactics section for another alterative. This
+stradigy is for the bums who want an easy way to beat him. Once the boss battle
+begins, simply go to the bottom left section of the screen, (not where the
+platforms and stairs are, the left side of the screen) face right and duck
+down. If you have the shield that may prevent you from getting hit from the
+fireball that he spits at you, but it won't deal much damage so don't worry
+about it. After he does that he should fly down toward you. Let the fire ball
+hit you and as soon as you can attack again throw the axe/Cross at him. 
+The fireball may also miss and then he will just come after you, make sure
+you throw the axe before he hits you.It should damage him multiple times if 
+you threw it right. Repeat this effortless process about 5 or 6 times and the
+Vampire Bat will be vanished. And MAKE SURE you obtain the red orb that falls
+from the sky as soon as possible, because if you wait too long to get it you
+WON'T RESTORE YOUR HP BEFORE THE NEXT LEVEL.
+
+                     |^^^^^^^^^^^^^^^^^^^^^^^^^^^|
+                     |    Level 2: Castle Wall   |
+                     |___________________________|
+                      \                         /
+                       |-----------------------|
+                       |        Enemies:       |
+                       |                       |
+                       |      Spear Armor      |
+                       |     Medusa Heads      |
+                       |      Yellow Bat       |
+                       |      Bone Heads       |
+                       |      Bone Tower       |
+                       |      Blue Slime       |
+                       |-----------------------|
+                       |        Music:         |
+                       |                       |
+                       |        Stalker        |
+                       |-----------------------|
+                       |         Boss:         |
+                       |                       |
+                       |     Queen Medusa      |
+                       |_______________________|
+
+Stage 4: From the begining go left to the next room. Stop the second you
+enter. There will be a shpear armor guy comming at you. You cannot defeat him
+with your leather whip so your going to have to avoid him. This stradigy works
+every time, as soon as the sphear armor is directly over the far right candle,
+jump left to go over him. Then quickly run up the stairs, it may appear that he
+will run into you on the way up the stairs but he will turn around as you climb
+up. Pick up the key and go to up the next floor. There are no enemies in this
+room, so whip the 2 candles to get 6 hearts. Don't get the treasuse chest in
+this room which contains a shield, because there is a better item up ahead.
+Then go left to the next room. You will need to use this following stradigy to
+not take any damage in this room: As soon as you enter stand still for 1
+second. (This will set up the pattern for dodging the  medusa heads) Then jump
+over the platform with the far right treasure chest onto the direct left 
+platform. Go to the edge of that platform as fast as you can and by the time 
+you get there a medusa head should be almost drectly below you. Then jump left
+down to the platform with the sphear armor guy on it, but if you timed
+this right he will NOT hit you! Then jump up and left and unlock the treasure
+chest which contains an hour glass, then quickly go left to the next screen. In
+this room carefully jump over the first pit and whip the candle that's above it
+to obtain 5 hearts. Then very slowly inch your way to the left until you
+trigger the brown bat to fly at you. Once he flies in your range simply whip at
+him, you don't need to jump. Next whip the left candle and jump down to get 5
+more hearts. Then time the next jump so that you land on the platform with the
+key and then jump to the left to unlock that treasure chest which contains a
+grey spell book. Then fall down straight down (don't jump) to the next screen
+which will have a shear armor right away. Simply jump and press down to use the
+stop watch and whip as fast as you can at him. Beware though, if you whip the
+candle that's behind him a blue slime will appear. Keep your distance and whip
+him right away to not let him become a threat. Then walk left to the wall and
+whip it to reviel the white key. Next go right and pick up the key and fall
+down to where this stage began. Go left to the next screen again. In here you
+will need to time the sphear armor again. Once you enter the room don't move
+and wait for the sphear armor to be over the far right candle, then jump left
+and you will go right over him. You can go left to the next screen and get a
+lock pick, but I strongly don't advise you getting one because you will run
+into many keys anyway. The lock pick will cost you 20 hearts. I personally
+would go on and spend 15 hearts on a potion if you need one, or save the hearts
+for enemies later on if your HP is in good condition. Anyway from the room to
+the left of where you began this stage, go up the stairs to the next room. In
+here you can do a side quest if you wish:
+
+*Side Quest: Shield (Key required) and Potion (20 Hearts)*
+From this room drop down to the treasure chest and unlock it to get a shield.
+Then jump down to the platform underneath the left staircase. From this
+platform, jump left to the next screen and then run left to the following
+screen to not get hit by the sphear armor. You can pick up the key in this room
+(DON'T WHIP THE CANDLE!) and then go back right to the next room. Now the
+reason that the potion costs 20 hearts when it really costs 15 hearts is
+because you will need to use the hour glass (jump and down) to defeat this
+enemy without getting hit. Freeze time and whip the hell out of him. Then go
+right and whip the merchant to get your potion for 15 hearts if you want. Once
+your done go up the stairs to the next room where this side quest began.
+
+Go left to the next screen and you can now open the far right chest if you want
+to get an axe, but if you do be sure to quickly go right to the screen that you
+came from and reenter using the following stradigy. Once you enter freeze for
+a second then jump left the next platform and quickly jump to your left and
+you should avoid the sphere armor if you timed it right. Then simply jump left
+up to the next screen. In here jump over the first pit and be sure to avoid the
+brown bat that is waiting at the door but slowly creeping up to it and wait for
+it to fly toward you. Then whip it and you shouldn't have to jump. Finally go
+left to the door and enter. Phew, that's a long stage!
+
+Stage 5: Once you enter run as fast as you can to the next screen. Don't worry
+about the candles, if you run straight from the begining you should avoid the
+medusa heads. In the next room you will see a moving platform and 2 keys. The
+very second that you enter go left and fall (Don't jump) down to the platform
+with the right key. Wait for the first medusa head to pass above you from down
+there and then quickly jump to the platform with the second key. The second
+medusa head should pass under you and you should be able to go left to the next
+screen untouched. In the next screen there won't be any medusa heads, but there
+will be a sphear armor. There are 4 ways that I would use to avoid damage from
+him:
+1: Open the treasure chest to reviel a blue ring which you will be invincible
+for a few seconds and quickly run into him. But I suggest you save your key
+and use another step. Also, BE VERY CAREFUL JUMPING TO EACH PLATFORM!
+2: I would use this stradigy if you don't have an axe, whip the right candle
+and get 5 hearts. Then jump and press down to use the hour glass and freeze
+time and whip him to death.
+3: If you have the axe, simply stand on the far right platform and throw it at
+him.
+4: The most risky but can save you from using some items, simply jump over his
+head after timing the jump.
+
+Once you figure out the best stradigy to get around him whip the left candle to
+get a grey cross and go up the stairs to the next screen. Once again don't
+worry about the candles on this screen and as soon as you enter run up the
+stairs as fast as you can and run right to the next screen. The medusa heads
+shouldn't touch you if you're fast enough. In the next room immidately run
+right again it should be timed just right that you jump right over the medusa
+head and you will be able to get to the next screen not hit. Remember not to
+whip any candles in that room. In the next room whip the candle that's right
+infront of you to get 5 hearts. You will then notice 2 sphear armors and 2
+chests. You can hit the first guard with your axe, but if you don't have one
+freeze time and whip him to death. Open the bottom treasure chest to get holy
+water! Don't worry about the merchant in the wall because he is only selling
+an hour glass which you already (Or should...) have. Then go up to the top
+sphear armor and kill him with either an axe or use the hour glass and whip
+him. Don't worry about the top chest because it only contains money (points)
+and whip the wall behind it. There will be a white key there! Then go left to
+the next screen through the top floor. This room is one of my least favorite
+rooms, but it can be done simply if timed correctly. Like many of the rooms
+in this stage, as soon as you come from the previous room run like hell to get
+to the next room. But this time you'll need to be superman fast to get past
+this room without waiting about 20 l..o..n..g seconds for the 2 floating
+platforms to line up. Make sure in this room you never let go of the left
+button, even in the air. Anyway from the begining run left and jump onto the
+right floating platform. Continue running left and once you get to the edge of
+that platform jump to the left floating platform. If done correctly you should
+get on the left floating platform and you can go left to the next screen
+shaken but untouched. But if you jumped it wrong and fell down to the platform
+with the left key, get back up and try again. Remember, the hour glass won't
+stop the platforms from moving. In the final room, as soon as you enter run as
+fast as you can to the door. The candles are trapped with slimes, and remember
+to go as fast as you can right when you enter the room. This completes this
+stage.
+
+Stage 6: Once you enter go to the middle of the screen and defeat the 4 bone
+heads. They will come one at a time from each side of the screen. Once all 4
+are defeated, jump up to get the key if you need it (But more bone heads will
+come come out) and then go left, BUT DON'T GO TO THE NEXT SCREEN! On the bottom
+of this screen there will be blocks (walls) that you will need to whip to get
+the key for this stage. (You will need to crouch (Down) to break them. Beware 
+though when breaking the walls, because some contain blue slimes, take them 
+out 1 at a time until you reach the white key. Also more bone heads may come
+while your down there. Be sure to kill them also one at a time. Once you obtain
+the white key, go left to the next screen. Although it looks like you can duck
+under the middle chain, you can't. You have to time each chain by getting as
+close to it as you can without touching it, and wait for it to go up. Once it
+is up, go as fast as you can to the next chain and stop infront of it. Do that
+for each chain while ONLY whipping the far right candle for 5 hearts. These
+chains reduse your life bar by 1/2 without a shield, and 1/4 with a direct
+contact with the shield. In this room the only enemy is a bone tower. Go left
+and unlock the right treasure chest (You have no way around it) and you will
+get a blue ring. Go AS FAST AS YOU CAN up the stairs and if your still blinking
+red touch the bone tower to kill him. There is a merchant in this room but a
+dagger really would not be the best weapon against the boss. (Especially for 30
+hearts) Instead if you don't have the axe anymore get the key and unlock the
+treasure chest in this room to get a whip upgrate. (Also don't forget to whip
+all of the candles for hearts) Once your ready go up and right to the next
+room. In here just whip the far left and far right candles to get 2 hearts, but
+don't whip the center candle. Simply then go right to the next screen. The
+dreaded bone heads are back, but there is a merchant to the far right inside
+a wall. Whip it to let him sell you a potion for only 15 hearts. Get it if you
+wish or go up the stairs to the next screen. In this room wait as soon as you
+come in for the medusa head to appear at the bottom right of the screen. Once
+he appears run as fast as you can up the stairs, avoid getting the key because
+there aren't any more chests left in this stage and run left to the next
+screen. You should have avoided the medusa heads. In the final screen before
+the boss run from the begining as fast as you can to the left while running
+away from the medusa head that's comming at you. Since you can't outrun it to
+the door, duck when your over the far left pilliar in the background. After the
+2 medusa heads pass, enter the door to go to the boss.
+                                      /\
+                         /\    /\    /  \    /\    /\
+                      /\/  \/\/  \/\/    \/\/  \/\/  \/\
+---------------------<======| Boss:  Queen Medusa |=====>---------------------
+                      \/\  /\/\  /\/\    /\/\  /\/\  /\/
+                         \/    \/    \  /    \/    \/
+                                      \/
+This boss is very simple and is not a real threat at all. And to make the
+battle easier, there is a red orb in the far left candle. Her main weakness is
+holy water (Jump and left or right) and you can freeze her with the hour glass.
+(Jump and down) This is a funny stradigy:
+As soon as she moves, jump straight up and press down and left when the medusa
+queen is near the ground. If you timed it right, she will die in that 1 shot.
+It's that simple. Grab the orb and it's time for the next stage.
+
+                     |^^^^^^^^^^^^^^^^^^^^^^^^^^^^|
+                     | Level 3: Observation Tower |
+                     |____________________________|
+                      \                          /
+                       |------------------------|
+                       |         Enemies:       |
+                       |                        |
+                       |        Flee Man        |
+                       |        Skeleton        |
+                       |          Crow          |
+                       |       White Slime      |
+                       |      Medusa Heads      |
+                       |       Bone Tower       |
+                       |------------------------|
+                       |         Music:         |
+                       |                        |
+                       |      Wicked Child      |
+                       |------------------------|
+                       |          Boss:         |
+                       |                        |
+                       |       Two Mummies      |
+                       |________________________|
+                       
+
+Stage 7: Whip the candle to get a heart and then go left to the next screen.
+There will be 2 flee men waiting to get you once you enter. Instead stand still
+once you enter and wait for them to come to you. Once they do whip them once
+and they will die. Whip both candles and go left to the next screen. Once you
+enter go immideatly left and whip the skeleton until he dies.If you ran to him
+fast enough he shouldn't touch you. DON'T WHIP THE BOTTOM RIGHT CANDLE, because
+it has a red spell book in it. Avoid it and whip the rest of the candles which
+all contain 5 hearts inside. Also grab the key and go up. To the next screen.
+(Going right will get you the candle, but save your hearts for better items)
+Once you enter run up the stairs as fast as you can and then run right to avoid
+any bones that may hit you from above. By then the skeleton should have jumped
+down so get close to him and whip it as fast as you can. The treasure chest has
+a map, get it only if you don't want to use my maps above:(. You can then whip
+the bottom candle to get 5 hearts and then go up to the next screen. Once you
+get to this screen stop at the bottom of the stairs and wait for the crow to
+come down to you. Don't worry, it won't come directly down onto your head. Once
+it is in whiping distance and near you whip it once to kill it. Don't bother
+buying the shield from the merchant because you will get one from a chest in a
+little bit. Whip all of the candles and go right to the next screen. Once you
+enter once again wait for the crow to come to you. He should go to the bottom
+right until he lines up with you. Then he should go directly left at you,
+making it easy to whip. Whip the candles and jump to the middle platform and
+go right to the next screen. Once you enter wait for the skeleton to jump
+tword you and into a pit, and then drop to the floor below. You will then
+encounter another skeleton. Wait for him to throw a bone high or for him to
+stop throwing bones for a moment to get close to him and whip him to death.
+Once he is dead go to the wall behind him, jump and whip the wall to reviel the
+white key. Then go up the stairs to get the shield. Why did I make you go up
+and drop down instead of just going straight across? Because that way should
+have been less painful and you should have goten delt no or very little damage.
+Anyway go left to the next room and you will fight a skeleton right away. He
+should be easy to kill because he is right there, and a flee man should come
+up from behind. You may need to duck and whip him if he does small jumps. The
+third flee man should jump out of the screen above you if you stand right far
+enough. Whip the candles and go left to the next screen. In here don't open the
+treasure chest if you haven't already and pick up the key. Then go up the
+stairs to the next screen. Stand still and wait for the crow to come to you.
+Then attack it and go right to the next screen, avoiding the merchant. Once you
+enter stand still again and wait for the crow to come into whipping distance
+and attack it. Then go right to the middle platform and into the next screen.
+In here stand still until the skeleton jumps into the pit, then go into the
+door to the next stage.
+
+Stage 8: From the begining, don't whip the candle. When you get to the bricks
+in front of you jump and whip the top one. A white slime will come out so
+quickly run left to keep your distance, then turn right and duck. While
+ducking, whip him so that you don't whip the candle at the same time. A slime
+is in there. Then Jump over all of the bricks, DON'T WHIP THEM and right to the
+next screen. Beware of the medusa heads in here. First whip the far left blocks
+to reviel a treasure chest. Unlock it for a lock pick. Don't whip any more
+blocks and jump over them until you get to the middle candle which contains a
+chain whip. Then run right to the next screen. Inside here a skeleton will jump
+down, but you can kill him in 1 shot with the chain whip. DON'T WHIP ANY OF THE
+CANDLES, because one has a red spell book while the others only have 1 heart
+inside. The merchant in here is selling a tan shield, but I wouldn't get it.
+So go up the stairs to the next screen. In here wait for the crow to come 
+in your whipping distance and then kill him first. The floating block in the 
+middle has a treasure chest that has 5 hearts, but it's not worth it. Instead
+continue on right to the next screen. When you enter stay to the far left and
+duck. A crow should fly to the right of you and you should be able to kill it
+with no problem. Now for the bone tower, slowly inch your way to the edge of
+the gap, ducking before the 2 fireball's hit you. However if you bought the tan
+shield that the merchant was selling the fireballs won't hurt you and you can
+get to the bone tower easily. Once he is dead drop down the right hole to the
+next screen. Once you fall immidetely go left and fall down to the platform
+that the skeleton is on. Kill him and you may hit the candle that's behind him
+which contains a white slime so duck and kill that also. Whip the merchant and
+he will sell you an hour glass for 40 hearts. By now you should have more than
+enough so buy it. Don't bother to open the treasure chest so go right to the
+next screen. In here whip the candle that is at the bottom of the stairs to get
+5 hearts, then drop straight down the left hole. (To the right of the key if
+you haven't picked it up. This will loop you to the next screen and if you fell
+straight down you should have landed on the white key. You may have to go out
+of this room and come back in to kill the skeleton, just be sure to stop time
+(Jump and down) to not get hit by his bones. Then whip the right wall to get a
+dagger and 5 hearts, and don't whip any candles in this room. Go up the small
+stairs and left to the next room. Quickly walk left and drop into the right
+hole down to the next screen. Then in here quickly walk right to the next
+screen before the skeleton hits you with his bones. In here go to the platform
+that the bottom of the stairs is on. From there jump right to the next screen
+which will put you on a platform above the door to this stage. Break the blocks
+with the dagger and a white slime will come out. The best way to avoid him is
+as soon as you break the block, JUMP right and into the door. Now you will go
+to the last stage in this level.
+
+Stage 9: Once you begin dodge the medusa heads by either hitting them with your
+daggers, jumping over them, or ducking under them and unlock the treasure
+chest. However, the very second you pick it up run right to the next screen and
+don't let go of the right key. If you didn't pause from the begining or any
+time inbetween you will run into the bone tower and kill him before it wears
+out. If you hesitated duck and throw knives at him from a distance. After that
+run right to the next screen before the medusa heads hit you. Once you enter
+don't whip any of the candles and duck under the far left candle. This will
+possition you so that none of the medusa heads will hit you. While ducking,
+throw daggers at both bone towers until both of them die. After they die hit
+the mid-right candle to make you invincible for a few seconds. After you obtain
+that run as fast as you can to the next screen and jump over the 3 pits. You
+should make it over there without getting hit, and then go right to the next
+screen. As soon as you enter, duck and throw the daggers right as fast as you
+can to kill the bone tower and then the skeleton in the distance. Although it
+looks like the skeleton will hit you when he throws his bones high, they won't
+because they will dissapear when they hit the top of the screen. Use that as
+your advantage when you attack him from the distance. Don't hit the left candle
+yet and hit the right one to get 5 hearts. Pick up the key if you need to and
+then jump and throw your daggers at the side side of the castle wall. You will
+break it revieling another key. Now go back and whip the left candle, giving
+you a blue orb and go right to the next screen. Once you enter don't move, then
+throw 1 dagger across to the left flee man. Then jump and throw 1 or 2 daggers
+at the top one. If you did it fast enough they shouldn't haunt you, but if not
+walk out and then back into the screen and repeat this process. Don't worry
+about the treasure chest or the candles and just go up the stairs to the next
+screen. Once you enter you will see a skeleton throwing bones, but he cannot
+hit you yet. There are 2 ways you can approach him. One way is to use the hour
+glass (jump and down) where the stairs intersect, then run up and kill him. The
+other way is to go to where the stairs intersect. Once you get there you will
+be on the left side of the skeleton. The only direction that he will go is
+right so as he moves right, you move right. But make sure you always stay to
+the bottom left of him just a little. Once he jumps to the platform where the
+top of the staircase is, that's when you attack him with the daggers. If he
+jumps off to the right, you run to the left and next to the treasure chest (but
+don't open it) and wait for him to jump into the pit. after he does that drop
+into the pit to the right of the key (or the far right pit) to the next screen.
+Once in here fall right to the next screen. In here you should fall a little to
+the left of the white key. Walk right to pick it up, then jump and press down
+to freeze time. Throw your daggers directly across to the flee man and then
+quickly drop down to the skeleton and throw the daggers as fast as you can to
+kill him. There is a merchant selling a cross for 20 hearts, but the boss is so
+easy you won't need to buy it. (and you can save your hearts for the next
+level) But make sure you open the treasure chest in here to get holy water,
+will make the boss even easier.
+                                      /\
+                         /\    /\    /  \    /\    /\
+                      /\/  \/\/  \/\/    \/\/  \/\/  \/\
+---------------------<======| Boss:  Two Mummies |======>---------------------
+                      \/\  /\/\  /\/\    /\/\  /\/\  /\/
+                         \/    \/    \  /    \/    \/
+                                      \/
+Dagger stradigy: Duck from the begining on the far right platform and throw the
+daggers continously to kill the 2 mummies. You shouldn't get hit, what an easy
+boss! Get the red orb to go to the next stage.
+
+Cross stradigy: Do the same thing as the dagger stradigy but throw the cross
+instead.
+
+Holy water stradigy: If you want to have a little fun with these guys you can
+throw some holy water down to them and watch their HP dimolish. This does the
+most damage, but you may get hit more if you don't throw the daggers at the
+debris that comes off of the mummies.
+
+                     |^^^^^^^^^^^^^^^^^^^^^^^^^^^^|
+                     |     Level 4: Catacombs     |
+                     |____________________________|
+                      \                          /
+                       |------------------------|
+                       |         Enemies:       |
+                       |                        |
+                       |------------------------|
+                       |         Music:         |
+                       |                        |
+                       |   Walking on the Edge  |
+                       |------------------------|
+                       |          Boss:         |
+                       |                        |
+                       |    Frankenstein and    |
+                       |     Fleeman (Igor)     |
+                       |________________________|

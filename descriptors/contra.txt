@@ -1,0 +1,939 @@
+TABLE OF CONTENTS
+-----------------
+
+     1. Guide Opening
+          1.01  -  Version History
+          1.02  -  Introduction
+          1.03  -  Game Story
+
+     2. Controls
+
+     3. Game Basics, Tips and Tricks
+
+     4. Walkthrough
+          4.01  -  Level 1 The Jungle
+          4.02  -  Level 2 Base 1
+          4.03  -  Level 3 Waterfall
+          4.04  -  Level 4 Base 2
+          4.05  -  Level 5 Snow Field
+          4.06  -  Level 6 Energy Zone
+          4.07  -  Level 7 Hangar
+          4.08  -  Level 8 Alien's Lair
+          4.09  -  Ending
+
+     5. Weapon Powerups
+
+     5. Secrets
+
+     6. Guide Closing
+          6.01  -  Credits
+          6.02  -  Contact Info
+          6.03  -  Legal Disclaimer
+
+
+
+
+
+
+
+===============================================================================
+                              1. Guide Opening
+===============================================================================
+Welcome to my FAQ/Walkthrough for Contra.  Please, kick your feet up 
+and stay a while.  If you have anything to add that could make this document 
+better, or want to contact me for any reason, please do so.  Enjoy the guide!
+
+
+1.01  -  Version History
+-------------------------------------------------------------------------------
+
+Version FINAL - January 2007 - Third Release - FINAL VERSION
+Version 1.01 - September 2005 - Second Release
+Version 1.00 - August 2005 - First Release
+
+
+1.02  -  Introduction
+-------------------------------------------------------------------------------
+Contra is one of the best, and most well known games on the NES.  It was made
+by Konami, and was released February 1988 in USA and Japan.  There is no 
+denying that this surely is a gem of a game.  
+
+I was introduced to this game by my cousin when I was probably about 6 years
+old.  I really don't remember how old I was due to my young age, but there
+we were playing the game together.  We stopped playing this game when newer
+game consoles came out, but we recently rediscovered this game when I bought
+an old NES.  We played the game for hours when we were young, and now we're
+still playing this game for hours now that we're adults.  This is the reason
+why I have written this FAQ.
+
+For some reason, and I don't know why, Contra is the game that holds the most
+famous code ever: Up, up, down, down, left, right, left, right, B, A, Select,
+Start.  It seems that everybody that had an NES when they were young, still
+remembers this code for some reason.  I don't understand why this code is so
+memorable.  A band I know called the NESkimos even wrote a song called "Contra
+Code", where the only lyrics in the song are the code for Contra.  Most codes
+are easily forgotten, and need to be looked up time and time again, but gamers
+will always remember Contra's famous 30 lives code.
+
+I wrote this FAQ because I recently rediscovered this game, and I have been
+playing it a lot.  It is a game that I will love forever.  I hope you get 
+good use out of this FAQ.  Good luck.
+
+
+
+
+1.03  -  Game Story
+-------------------------------------------------------------------------------
+This is the Game Story for Contra.
+
+FROM THE INSTRUCTIONS BOOK
+--------------------------
+In 1957 a large object from outer space crashed into Earth's Amazon basin,
+near ruins of the lost Mayan civilization.  Scientists world-wide heralded
+the incident as a trivial cosmic occurrence, and thus the collision was soon
+forgotten.
+
+Now, thirty years later, rumors of an evil force have swept into the
+Pentagon's front office, and tales from frightened villagers of a hideous
+being with an army of alien henchmen are sending chills down the spines of
+top military brass.
+
+Unwilling to upset current political stability, an all-out assault on the
+region has been overruled, and instead, two of America's most cunning,
+courageous and ruthless soldiers from the Special Forces elite commando squad
+have been selected to seek out and destroy these alien intruders.
+
+Congratulations, pal, you're one of the chosen.  But before you take pride in
+being the best, be warned.
+
+You're about to come face to face against Red Falcon, the cruelest life-form
+in the galaxy.  He arrived on Earth thirty years ago (that's six months time
+in an alien's life) to establish a foothold from which he will attempt to
+conquer our world and then use it as a stepping stone toward his ultimate
+fiendish goal:  domination of the entire universe.
+
+Needless to say, playing hero won't be easy.  But you have no choice -- you
+must be a hero.  Because if you fail, life as we know it will cease to exist,
+and the vile Red Falcon will rule forever.
+
+If you succeed, well...it doesn't matter, because I doubt you will.
+
+
+
+
+===============================================================================
+                              2. Controls
+===============================================================================
+Having trouble figuring out which button operates which move?  This is the
+section for you!
+
+                       .------------------------.
+                      |                         |
+                      |    _   (Nintendo)       |
+                      |  _| |_            _  _  |
+                      | |_   _| === ===  ( )( ) |
+                      |   |_|             ¯  ¯  |
+                      '-------------------------'
+
+D-Pad: LEFT and RIGHT moves your guy in that corresponding direction.  UP is
+       for aiming and shooting upwards.  DOWN is for ducking.  You can also
+       aim and shoot diagonally too.
+A: Jump, press while ducking on certain platforms to fall underneath that 
+   platform.
+B: Shoot.  If you have a machine gun just hold it down for rapid fire.
+Select: Toggle 1/2 players.
+Start: Pause and resume game, Confirm 1/2 players.
+
+
+===============================================================================
+                       3. Game Basics, Tips and Tricks
+===============================================================================
+Here are some useful Tips and Tricks that you should know about when
+playing this game.
+
+
+LEVELS - There are 8 levels in the game.  Each level has a different theme, and
+  there is a BOSS fight at the end of each level.
+
+BOSSES - There are 8 bosses in the game, each Boss is waiting at the end of 
+  each level.  After defeating the boss, you will start the next level of the
+  game.  If you beat the World 8 boss, you will beat the game.
+
+PLAYERS - You can play a 1 or 2 player game.  A 1 Player game is self 
+  explanitory. A 2 Player game is played with 2 players on the same screen at
+  the same time helping you as you battle through the level.  A 2 player game 
+  is much more fun, and should be played using smart battle tactics.  With 2 
+  players, one player can shoot cover fire as the other jumps over a pit, or 
+  something similar.  Boss fights are also much easier with 2 players, for two
+  reasons. The first reason is that there is 2 times as much firepower.  The 
+  second reason is one player can concentrate on the boss, and the other player
+  can concentrate destroying the enemies that will randomly appear on screen. 
+  Obviously, two brains are smarter than one.
+
+POINTS - The amount of points you have is tallied as you progress through each
+  level.  Points can be acquired by killing enemies, bosses, and getting items.
+  You can see how many points you have after each level.  Also, for every 
+  20,000 points you get you will earn an extra life.
+
+LIVES - You start out with 3 lives.  3 lives can go quickly, making it 
+  extremely difficult to beat the game with only 3 lives.  However, you will 
+  earn an extra man after ever 20,000 points you earn, which takes roughly 2 
+  levels to earn that many points.  
+
+WEAPON POWERUPS - A player can earn Weapons Powerups, as he plays through the
+  level.  There are many different types of Weapon Powerups.  A Weapon powerup
+  can be found by shooting a traveling Weapons beacons, or weapons turrets, 
+  and rarely the can be obtained by shooting enemies in Base stages.  All 
+  Weapons are different, and have different properties to them, and different
+  amount of power per weapon.  
+
+CONTINUES - 3 Continues are given throughout the game.  So if you lose all of 
+  your lives in Level 5, you can use a continue to start back at Level 5 rather
+   than the very beginning of the game.  However, when playing with only 3
+   lives, you will probably use those 3 continues pretty quickly.
+
+
+
+===============================================================================
+                              4. Walkthrough  
+===============================================================================
+This is a full Walkthrough for the game Contra.  There is enough information 
+here to guide you through the entire game.  Enjoy!
+
+
+4.01  -  Level 1 The Jungle
+-------------------------------------------------------------------------------
+As you start off, you will be on a high grassy platform, with water underneath
+you.  You can drop into the water if you want, but I don't recommend it.  Walk
+to the right, shoot the soldiers that will appear, and soon you will see a
+still positioned soldier below shooting upwards at you.  Jump up, and hold down
+to shoot downwards and take him out.  Also be sure to shoot the still Weapon
+Powerup next to where the soldier was, and get the Powerup for a Machine Gun.
+As you proceed to the right, a moving powerup will fly by, so be sure to
+shoot it, which will reveal a Rapid powerup.  Get the rapid powerup, then 
+continue to the right to a mechanical bridge.
+
+The mechanical bridge will explode as soon as you walk onto it, but don't worry
+about it harming you, because it cannot harm you.  The reason the bridge
+explodes is so that you cannot cross it, but you can still get across it by
+jumping from the grass platform onto the bridge, then quickly jumping 3 more
+times across the bridge.  If you fall down into the water, no big deal, just
+proceed in the water.  If you got past the bridge, do the same thing to get
+past the next, 2nd bridge.  If you fall down into the water, no big deal,
+just follow the right paragraph below.
+
+If you crossed both bridges
+---------------------------
+After crossing the 2nd bridge, there will be a still standing soldier 
+immediately after the bridge, so watch out for him.  There will also be a
+soldier hiding behind the bushes, who will pop out occasionally to shoot you.
+A Weapons Powerup will fly by, which holds a Spread, so I highly recommend that
+you get the Spread, no matter what weapon you currently have.  Now that you
+have the Spread (hopefully, unless you let it slip by), proceed to the right
+onto a slightly higher grassy platform, and continue to the right.  Shoot the
+soldier that will pop out from behind the bushes, and kill him.  Continue to
+the right onto a lower grassy platform, and then onto one that is slightly 
+higher.  At the end of this platform, a big machine will pop out of the ground
+and shoot at you, so just duck to avoid its fire, and shoot back at him to 
+defeat him.  Now walk to the edge of this platform and drop down onto the lower
+grass platform to the lower right. (then skip the next paragraph)
+
+If you fell into the water
+--------------------------
+In the water, start walking to the right.  Remember, you can duck down 
+underneath the water, and nothing can hurt you there.  Proceed past a rotating
+machine enemy, I don't recommend trying to kill him, just walk past him.  You
+can't jump while in the water, so just proceed until you come to a grassy 
+platform, and walk up onto this platform.  There is a weapons powerup sitting
+stationary on a platform to the upper right, so shoot at it, and then be sure
+to get it, it will be a Flame weapon.  With the Flame, defeat the rotating
+robot enemy to the right, and then the next one.  Fall to the platform below,
+and continue to the right until a strange robot enemy pops from the ground, and
+starts shooting at you.  To defeat this enemy, simply duck so that you are out
+of the range of his bullets, and keep shooting at him until he is dead.  Jump
+over a few more pits to the right, you will see another robot enemy pop from
+the ground like the one you just killed, but it is above you, so don't bother
+with it. 
+
+This is where your paths rejoin.  There is a powerup sitting stationary in the
+box below.  Shoot at it, and it will reveal a Spread.  The Spread will fly
+into the air, and land on the platform to the lower right.  The best way to
+get to it is to walk to the right and don't jump when the platform ends, you
+will drop down onto it.  With the Spread, shoot the enemies that are still
+on screen, and continue to the right.  Two more traveling powerups will fly
+across screen, the bottom is a Laser (don't get the Laser if you just go the
+Spread), and top one is a Rapid fire.  Get the Rapid fire, then proceed over
+the next few pits to the right.  Another one of those robot enemies that pops
+from the ground will occur.  Face his direction, and shoot at him, and he
+will die.  Jump over the next pit, and take out the two small robot enemies
+underneath you, and then proceed a little more, and you will come to the
+boss.
+
+The boss of Level 1 is very easy.  It simply consists of two ball shooting
+turrets, a single soldier shooting you at the top, and a glowing part at the
+bottom that you must defeat.  This "boss" is simply a giant machine that
+kind of forms a wall because he is so big.  To begin, jump up onto the highest
+grass platform, and take out the soldier at the top.  Now you will have to 
+take out the 2 ball shooting turrets.  If you have the spread, just start
+shooting at it from a distance, but if you have any other weapon, you will
+have to stand on the left side of the 2nd highest grass platform to get out
+of their range, so you don't die, and shoot and them until they both explode.
+After the shooting ball turrets are done, duck on the lowest grass platform,
+and shoot the glowing part at the bottom until it is destroyed.  BAM!  This
+boss is done.  Now you will walk into the exploded part, and start the battle
+through Base1.
+
+
+
+
+4.02  -  Level 2 Base 1
+-------------------------------------------------------------------------------
+The Base1 stage consists of multiple rooms that you must fight through.  There
+are five different rooms that you must fight through, and then a Boss room, so
+six rooms total.  In each room, there is a wall that you must shoot at.  On
+the wall, there are enemies, orbs, and enemies shooting at you.  There is also
+a laser that restricts you from moving close to the wall.  In each room, you
+must shoot and destroy the orb.  Upon the destruction of the orb, the laser
+will break, and the wall will break, and you can move on through the area where
+the wall was, into the next room.  Here is a breakdown of all five rooms, and
+the boss room:
+
+Room 1:
+.-----------.
+|           |  Room 1 consists of a single orb in the center of the room.  Just
+|           |  stand in the very center and keep shooting at the orb.  
+|    (O)    |  Eventually, some soldiers will appear and start shooting at you,
+|           |  but as long as you stay standing in the middle of the room, the
+|           |  soldiers will always miss you.  So just stand in the middle of
+'-----------'  the room and keep shooting at the orb until it is defeated.
+
+Room 2:
+.-----------.
+|           |  The orb in Room 2 is on the left side of the room, and there is
+|           |  a gun turret on the right side.  The gun turret will shoot at 
+|           |  you, but as long as you are ducking, its bullets can never hit
+|(O)     (V)|  you.  The problem is that you will have to stand to shoot at the
+|           |  orb.  Stand up to shoot at the orb, but whenever a bullet from
+'-----------'  the gun turret is about to hit you, duck, then when the bullet
+               passes, stand back up to shoot back at it.  Continue this 
+               process until the orb is destroyed.
+
+Room 3:
+.-----------.
+|           |  Room 3 is very simple.  In the very center of the room, duck,
+|           |  and start shooting at the orb.  Continue doing this until the
+|           |  orb is destroyed.  At some points, a soldier might throw a
+|(V)     (V)|  grenade at you, if this happens, be sure to get up and move out
+|    (O)    |  of harms way.
+'-----------'  
+
+Room 4:
+.-----------.
+|           |  Room 4 has a row of slots on the bottom that rolling objects 
+|    (V)    |  will come out of, which will roll toward you.  If one of these
+|           |  rolling objects hits you, you will die.  To avoid the rolling
+|    (O)    |  objects, you can either jump over them, or shoot them to destroy
+| =-=-=-=-= |  them.  If you have any gun other than the regular gun, I 
+'-----------'  recommend shooting at them to destroy them, but if you have the
+               regular gun, I'd jump over them.  Also, keep an eye on the 
+               bullets that the gun turret will shoot at you. 
+
+Room 5:
+.-----------.
+|           |  Room 5 is the last room you fight through before the boss room.
+|    (V)    |  As you can see, the orb in the middle is much larger to 
+|    .-.    |  represent this, and it has more hit points, also.  There are
+|(V)([O])(V)|  three gun turrets that will shoot at you, and an increased
+|    `-`    |  amount of soldiers.  Just keep shooting at the large orb until
+'-----------'  it dies, then proceed into room 6 for the boss fight.
+
+Room 6/Boss Room:
+In the boss room, before you can fight the boss, you must first destroy the
+four glowing spots, then the boss will appear.  Just keep shooting at them
+until they destroy.  I recommend defeating the two shooting turrets before
+defeating the glowing spots, that way you wont have to deal with extra bullets
+being fired at you when the boss appears.  When the boss finally appears, he
+will float back and forth at the top of the screen, and shoot bubbles at you.
+The bubbles can be easily avoided, and you can also shoot them to destroy 
+them.  Just keep firing away at this boss.  With a decent gun, he will die in
+no time.  It will be harder to defeat this boss with an ordinary gun, because
+it'll be harder to shoot down the bubbles.  Just keep firing at him until he
+is completely defeated.
+
+
+
+
+4.03  -  Level 3 Waterfall
+-------------------------------------------------------------------------------
+The object of the waterfall stage is to climb your way to the very top of the
+stage.  Unlike other stages where you must go left to right, this one you
+must go bottom to top.
+
+Start the stage by jumping up about 6 or so ledges, and you will eventually
+see some falling rocks.  Yes, these rocks will kill you, so stay away from
+them if they're falling.  Soon, you'll see a powerup, which is a Flamethrower,
+get it if you want.  Jump up a few more ledges, and you'll see another powerup,
+which is a laser.  If you'd rather have the laser than the Flamethrower, then
+get it.  Now jump up a few more ledges to the waterfall area -- there will
+be a soldier standing stationary on the right side of this platform, and there
+is another soldier hiding in the waterfall, ready for an ambush.
+
+Kill the soldier standing still, then jump up a few more platforms.  By now,
+the soldier hiding in the waterfall will shoot up at you, so avoid his 
+firepower.  Continue up a few more platforms, and kill the gun turret to the
+right side of the screen, then jump up a few more platforms onto the platform
+with moving fire.
+
+When you jump onto this platform, two powerups will fly from the bottom of the
+screen, moving upwards.  If you shoot them, the left one is a Bionic, and the
+right one is a Rapid fire.  I recommend getting both, if possible.  If you got
+the Bionic, then you'll have no problem crossing the fire, but if you didn't
+get the Bionic, then be sure to jump over the moving fire, as it will kill you
+if you touch it.  Continue up a few more platforms, and shoot the gun turret 
+that is located on the left side of the screen.  Jump to where the gun turret
+was before you destroyed it, then use the moving rock plateau to get across to
+the ledge to the right.  From there, jump up a few more platforms, and use the
+2nd rock plateau to get to the small ledge that it leads to.
+
+From here on out, more and more random running soldiers will appear, and 
+although they do pretty much nothing but run, they will kill you just by
+touching you, and since there are so many, it can be difficult.  Destroy the
+gun turret to the left, then jump up a few more platforms, and you'll see
+a powerup, which contains a Spread gun.  Get the Spread gun, there are two
+soldies hiding in the waterfalls, they will shoot upwards at you as you
+pass overhead of them, so be sure to look out for them.  From here, jump up
+a few more platforms, killing gun turrets as you go.  A machine will pop out
+of the ground and shoot at you to the top right, so be sure to avoid that.
+There is also a powerup to the very top left, which is a Machine gun.  If you
+still have the Spread, I don't recommend getting the Machine gun, but do what
+you want.  Finally, use the moving rock plateau to get to the platforms above.
+
+From here, there will be many random soldiers, and one stationary soldier. Jump
+up a total of twelve platforms to the very top of the screen, and when you are
+at the very top, jump once more to make the screen scroll all the way to the
+top.  You are now at the boss!
+
+The Boss of level 3 is more difficult than that of level 1 and 2, but still
+not too difficult.  It is pretty much a giant alien, that looks very similar
+to the alien from the 1979 sci-fi/horror film "Alien".  With the exception of
+his mouth opening to shoot fireballs at you, his head does not move at all.
+He also has two wild arms, which shoot fireballs at you occasionally, and also
+flap around like crazy.  To defeat him, you must shoot him in the head when 
+his mouth is open.  That's all you really need to do.  His arms, however, can
+also be defeated, but do not necessarily need to be defeated to beat this
+boss.  However, if you destroy this boss' arms first, and then aim for his
+mouth, it will make this battle a lot easier.  So shoot at this boss's arms
+first, and when both his arms are defeated, aim for his mouth.  The boss will
+be defeated in no time.  
+
+
+
+4.04  -  Level 4 Base 2
+-------------------------------------------------------------------------------
+The Base2 stage consists of multiple rooms that you must fight through.  There
+are eight different rooms that you must fight through, and then a Boss room, so
+nine rooms total.  In each room, there is a wall that you must shoot at.  On
+the wall, there are enemies, orbs, and enemies shooting at you.  There is also
+a laser that restricts you from moving close to the wall.  In each room, you
+must shoot and destroy the orb.  Upon the destruction of the orb, the laser
+will break, and the wall will break, and you can move on through the area where
+the wall was, into the next room.  Here is a breakdown of all eight rooms, and
+the boss room:
+
+Room 1:
+.-----------.
+|           |  Room 1 is a simple room, but there are lots of small things that
+|           |  can cause this room to be harder.  The orb is in the very center
+|           |  of the room, but the orb is protected by a smooth armor patch,
+|(V) (O) (V)|  which you must destroy before you can begin damaging the orb. 
+|           |  There are two gun turrets on both the left and right side of the
+'-----------'  orb, so be sure to duck at their fire.  Another problem is that
+               soldiers will roll objects at you, and if they hit you, you will
+               die.  You can destroy these rolling objects by shooting them, 
+               or just avoid them by jumping over them.  After you have broken
+               the sheet of armor that covers the orb, begin shooting at the 
+               orb, and destroy it to go into the next room.
+
+Room 2:
+.------------.
+|            |  There are four orbs in Room 2, all four of them are situated on
+|            |  the ground, so you will have to duck to be able to hit them 
+|            |  while shooting at them.  Some soldiers will roll objects 
+|            |  towards you, which will kill you if they hit you, and other
+|(O)(O)(O)(O)|  soldiers will throw grenades at you.  Just defeat all 4 of the
+'------------'  orbs to get to the next room.
+
+Room 3:
+.-----------.
+|           |  This room consists of two orbs in the center of the room, and a
+|           |  gun turret above the two orbs.  Soldiers will roll the sheets
+|    (V)    |  of metal at you, so watch out for those.  Both orbs are 
+|  (O) (O)  |  protected by sheets of smooth armor, so you will have to destroy
+|           |  the armor before you can begin to damage the orbs.  After you
+'-----------'  have destroyed the armor, start shooting at the orbs.  After 
+               both orbs have been destroyed, everything will blow up and you
+               can go into the next room.
+
+Room 4:
+.-----------.
+|           |  Room 4 looks the same as room 3, except everything is a little
+|           |  bit lower.  Also, none of the orbs have armor, so you can just
+|           |  begin shooting at them and destroying them.  Watch out for the
+|    (V)    |  gun turret and the soldiers, as usual.  This really is a pretty
+|  (O) (O)  |  simple room.
+'-----------'  
+
+Room 5:
+.-----------.
+|           |  By now you probably have the concept down.  The soldiers roll
+|           |  the metal cylendars at you, which kill you on impact.  This
+|           |  room has a gun turret in the center of the room, and both orbs
+|(O) (V) (O)|  on the left and right side of the gun turret.  It's pretty
+|           |  much opposite of Room 1.  Shoot and destroy both orbs to move
+'-----------'  onto the next room.
+
+Room 6:
+.-----------.
+|           |  This is a simple room.  It has five slots on the bottom, which
+|           |  are used as ports for the metal cylendars to roll out off. 
+|           |  Oddly, the metal cylendars roll out in rows of 4, not 5, and
+|    (O)    |  they do not come from the slots, rather from in between the
+| =-=-=-=-= |  slots.  Oh well.  This is really a simple room.  There is only
+'-----------'  a single orb.  Just shoot at it.  When the metal cylendars 
+               appear, duck and destroy the one that is heading for you, then
+               continue to shoot at the orb, and repeat this process until the
+               orb is destroyed.
+
+Room 7:
+.-----------.
+|           |  This room is also pretty simple.  The orb is located up high,
+|    (O)    |  so you will have to jump and shoot your weapon in the air in
+|           |  order to be able to shoot that high.  There is a gun turret
+|    (V)    |  that is level to you when your standing.  I highly recommend
+|           |  destroying this gun turret first, as its bullets will be very
+'-----------'  hard to dodge if you ignore it.  After the gun turret is
+               destroyed, start jumping and firing in the air to destroy the
+               orb.  Continue doing this until the orb is destroyed, then 
+               proceed to walk into the final non boss room of Base2.
+
+Room 8:
+.-----------.
+|           |  This is the final non boss room of Base2.  As you can see, 
+|    (V)    |  there is a giant orb in the middle of the room as opposed to an
+|    .-.    |  ordinary sized one, which is used to represent the final room,
+|(V)([O])(V)|  and it has more hit points also.  There are also 3 different
+|    '-'    |  gun turrets surrounding and guarding this giant orb to give you
+'-----------'  a harder time destroying it.  If you want, you can destroy the
+               gun turrets first to make your time easier, but you do not have
+               to.  Some soldiers throw grenades, and others roll metal 
+               cylendars at you.  Just stand in the very center, and shoot at
+               the giant orb, and duck whenever you're about to get hit with a
+               bullet.  Continue this process until the giant orb is defeated,
+               and then proceed into the final room for the boss fight.
+
+Room 9/Boss Room:
+The Boss room is pretty tough.  But before you can fight the actual boss, you
+must destroy the 3 glowing spots.  You see them; they're the things that have
+the circular shaped glowing things in them, there are 3 of them.  There is
+also a shooting turret located above the middle glowing spot.  As soon as
+you take out the 3 glowing spots, the boss will appear, so I highly recommend
+destroying the shooting turret first, as the shooting turret will be a
+difficult extra obstical if it's still there when the boss appears.  Also,
+before the boss will appear, red and blue soldiers will appear to attack you.
+Four red soldiers will appear from above, and will shoot bullets at you, and
+then run off screen.  Then, four blue soldiers will appear above, but instead
+of shooting you, then will jump attack you!  If they touch you, you die, so
+be sure to either shoot them down, or avoid them to stay alive.  Both the red
+and blue soldiers can be killed easily.
+
+After defeating the 3 glowing spots, the boss will appear.  When the boss
+appears, thankfully the red and blue soldiers will not appear anymore.  The
+boss is similar to the boss of Base1 in the fact that he moves from left to
+right from above.  But this boss has two different heads, both in which you
+must destroy.  The boss heads can split apart into two different scanline
+versions, making 4 different scanlines.  However, the 2 boss headcs can
+only be harmed when the come together.  So this is what happens:  the 2
+boss heads will split apart into 4 different scanlines, rotate left and right,
+and then reform again back into 2 different boss heads.  This process
+will continue forever until they die.  Also, the boss heads shoot small bubbles
+at you.  These can be destroyed, but they are pretty small, and kind of hard
+to hit with your gun.  Just keep shooting at the two boss heads and eventually
+they will die.  Upon defeating the boss, you will go up the elevator to the
+left and right sides of the screen into Level 5 - the Snow Field!
+
+
+
+4.05  -  Level 5 Snow Field
+-------------------------------------------------------------------------------
+Start by walking to the right to the area where there are trees in the 
+background.  There is a stationary gunman here, so duck and shoot at him to
+take him out.  Cross the tree area, avoiding the two sets of grenades that
+will be thrown at you, then take out a 2nd stationary gun man, and cross two
+more sets of grenades.  Jump up onto the platform above.  The powerup below
+you is a Machine Gun, so get it if you want to.  Continue to the next platform
+and take out the stationary gunman there.  Proceed right past two more 
+stationary gunmen, taking them out as you pass them.  A powerup will hover
+from the left to the right side of the screen, which holds a Rapid Fire, so
+shoot at it and collect it if you want it.  Continue past another wooded area
+that has two sets of grenades coming from it, be sure to carefully avoid the
+grenades.  Proceed one more platform to the right, and cross another wooded
+area with grenades.  There is a large platform drop after this wooded area, so
+drop down below (be sure not to hit a grenade that will land down there).  
+Jump onto the platform to the right, the powerup above you will be a 
+Flamethrower, so get it if you perfer the Flamethrower to whatever you have 
+now.  
+
+Proceed to the right until you can see water below you.  3 powerups should
+hover from the left side of the screen to the right, one high, one low, and
+one powerup in the middle.  The high powerup holds a Rapid Fire, the middle
+powerup holds a Falcon autokill, and the low powerup holds a Spread gun.  
+Since it's pretty hard to get all 3 powerups, get whichever one syou feel 
+would help you the most.  
+
+Proceed to the right, jump over 3 platforms with water underneath, careful not
+to fall into the water, because you will die if you do.  There should be a
+gunman below, but you can't hurt him unless you shoot him as he attacks, so
+do this to defeat him.  Jump over one more water pit, and kill the stationary
+soldier there.  Walk a bit more to the right, and drop down onto the smooth
+platform.  Continue walking right on this smooth platform until a giant
+vehicle appears on screen.  When this happens, quickly walk back to the very
+left of the screen, and shoot to the right at him.  Be sure that you're on the
+right side of the screen, or this vehicle will be able to shoot at you.  But
+as far as you are standing as far left as you can, the bullets will miss you.
+Now start shooting at the vehicle, and it will eventually turn yellow, and then
+red.  After it turns red, it will drive toward you, and will kill you if it
+touches you.  The only way to avoid death is to destroy it before it drives
+all the way toward you, so be sure to kill him before that happens.  After
+you kill this vehicle, continue more to the right until the smooth platform
+you are on turns back into the rough rocky platform again.  
+
+Walk to the right until you see a stationary gunman, duck and shoot at him to
+take him out.  Then, jump over one platform and you will be back on the same
+smooth surface that you just got off of.  Walk to the right, and you will see
+another vehicle which is exactly like the one you just killed.  This one is
+no different, so defeat it exactly the same way you did the first one.  After
+defeating the vehicle, walk to the right and defeat a stationary gunman, then
+proceed back onto the rock surface platforms.  
+
+There will be trees in the background, and 3 sets of grenades will come from
+behind those trees, so avoid them all carefully.  After the trees, there is a
+powerup, which contains a laser.  Now proceed to the right, and 3 sets of
+grenades will appear from the distant land behind you.  There is a stationary
+gunman at about the point of where grenade 2 will land, so duck and shoot at
+him to take him out.  As you walk to the right, carefully avoid getting hit
+by the grenades.  After these grenades, drop down onto the smooth surface and
+walk all the way to the right to fight the boss.
+
+The boss is easy if you have a good weapon, particularly the spread.  The
+boss will appear on screen at random places, but he will always be above you.
+Just stand underneath him, whereever he may be, and shoot upwards.  The boss
+will drop fire at you, but if you are shooting up, then your bullets will be
+able to destroy the fire in midair so that it wont hit you.  The boss will
+also create mini versions of itself, which will leave him at the left and
+the right side, descend down to the ground to attack you.  Thankfully, they
+only take one hit to destroy, so their not too much of a pain.  Just keep
+shooting up at him.  If you have a regular gun, this will be a challenge, but
+with a good gun this fight is easy.
+
+
+
+
+4.06  -  Level 6 Energy Zone
+-------------------------------------------------------------------------------
+Walk to the right, and go up the 3 giant steps, avoiding the soldiers that will
+jump down from the steps as you do so.  At the top, walk to the right, and 
+defeat the stationary soldier, and you will see a powerup underneath you.  The
+powerup holds a Machine Gun, so get it if you feel that you want a Machine gun.
+Walk to the right edge of this platform, and duck and shoot, to defeat the
+stationary gunman that is across the gap.  Now, you can either drop down below,
+or jump across the gap.  Both options are equally challenging, so it really
+doesn't matter which you choose.
+
+Navigate to the right past 3 stationary gunman, one stationary soldier, and
+countless random soldiers, until you come to a pit.  This part is tricky.  You
+will see a powerup there, which contains a Laser gun.  LOOK UP at the ceiling,
+and you will see a puncture in the ceiling where a bit of flame is coming out.
+This part is very tricky.  It doesn't matter if you're on the top or bottom
+platform, because as soon as you jump the pit, a large flame will rip out of
+the small puncture in the ceiling, and will kill you no matter what.  There is
+only one way to do this without dying: You must jump halfway across the pit, 
+and then quickly reverse the direction of your jump and land back on the 
+platform that you started on (this will make the flame come out, but will 
+shortly go back in the ceiling), then quickly make a 2nd jump fully across the
+pit.  It's tricky, but as long as you have done this correctly, you shouldn't
+have lost any lives.
+
+After this pit where the first flame was, walk to the right and kill the two
+stationary gunmen.  If you're walking on the top platform, watch out for the
+next 2 flames that will ambush you from above.  From here on out, proceed with
+extreme caution, as a flame could jump out from pretty much anywhere and kill
+you.
+
+To the right, you will see a structure with 3 platforms and 3 flames (one for
+each platform).  To successfully cross this platform without dying, you must
+duck underneath the flames when they emerge from the walls.  When the time is
+safe, jump up to the top platform, and then drop down via the platform drop to
+the right.  
+
+There is another structure similar to the last one you just crossed, except
+this one only has 2 platforms and 2 flames, so bypass this one the same way
+you did the 1st one.  Once at the top of this platform, walk to the right edge,
+and shoot at the stationary soldier that is aiming his gun at you from across
+the platform gap.  This part is tricky.  There is a Bionic powerup underneath
+you, which is what you will have to get, but there are 2 flames that are 
+strategically placed to maximize the difficulty to get past this area alive.
+Though you don't necessarily need the Bionic powerup, my preferred way of 
+choice to get by is to get the Bionic powerup and then not worry about getting
+hurt by the flames.  So do this.  Shoot at the Bionic powerup, and grab it.
+With the Bionic invincibility, jump up the 3 platforms to the right to the very
+top, and then to the right some more, drop down two more platforms.  If you 
+don't remember how to drop down, you must duck, and press A and you will drop
+straight through the platform.
+
+This next part is loaded with stationary gunmen and random flames that appear
+from walls and the ceiling.  This is the ending part of the level, which means
+that it's the hardest part, so be extra careful here.  You will probably
+still have some Bionic left, so use as much of it as you can before you think
+it will run out.  Milk it for all it's worth!  After the Bionic runs out, you
+are on your own.  I'm not going to explain word for word every jump and every
+enemy, but I will give you a few pointers to get past this last area of Energy
+Zone before the boss.  You should proceed very carefully and with caution. 
+There are lots of stationary gunmen shooting at you, so duck and shoot at them
+to defeat them.  Be sure to stand next to each flame (but not too close) to 
+lure it out once so that you can get a good idea of exactly how far it extends
+so that you know where you are safe and where a flame could hit you.  When you
+finally get to the very end of this area, just keep walking to the right.  Soon
+enough, the ground will turn purple, and the boss will appear.
+
+The Boss isn't too hard, but he's probably a lot harder than most other bosses
+in the game.  Unlike every other boss in the game, this boss is in human form.
+He basically just jumps up and down a lot.  His primary attack is to throw
+spikes at you.  He will only throw spikes if he is standing on the left or 
+right side of the screen, and he will move his arms to throw the spikes, this
+split second that he moves his arms means that a spike or two is about to head
+your way, which gives you some time to react.  Also, the boss will walk back 
+and forth both sides of the screen.  Thought the boss seems large, you can jump
+over him.  In fact, you must jump over him when he does this to avoid death.
+As you attack this boss, he will turn purple, and then red.  When he's red it
+means that he's pretty much ready to die, so just a few more hits and he's 
+dead.  After you defeat the boss, you will go to Level 7 The Hangar.
+
+
+4.07  -  Level 7 Hangar
+-------------------------------------------------------------------------------
+The hangar has lots of claws that will drop from the ceiling.  If one of these
+claws hits you, you will die, so it's probably not a great idea to let one
+hit you.  
+
+Start the level by walking to the right.  When that platform ends you can
+either drop to the ground, or jump across the gap onto the next platform.  
+Both ways are about equally difficult, so it really don't matter which one.
+The top path has 4 claws and the bottom path has 5 claws that you must pass, 
+so memorize their patterns, and pass them.  After passing them, a powerup
+oppurtunity will appear from the left side of the screen and quickly soar up
+and down until it reaches the right side.  This powerup holds a Flamethrower,
+so if you'd rather have a flamethrower gun than the gun you have now, you
+know what to do.  After the powerup, you once again have a choice to go up
+high, or down low.  If you choose up high, you will have 2 claws to pass and
+a stationary gunman, but downlow only has 2 claws.  After crossing whichever
+path you choose, there is another powerup oppurtunity which holds a Rapid
+fire, which I highly recommend to get no matter what gun you currently have.
+
+After the Rapidfire powerup, jump onto the platform to the right, and a deadly
+spiked wall will appear from the ground.  If you walk too quick, this spiked
+wall can ambush you in a way and kill you.  To get past this spiked wall, just
+shoot at it until it is destroyed.  There is another spiked wall about a foot
+to the right of the first one, so destroy that one also.  Walk to the right
+and jump up onto the platform above, then destroy another 3 spiked walls right
+in a row.
+
+Here is another area where you can choose to go up high or down low.  Up high
+there is 3 claws, and 2 spiked walls on both sides of the walls.  Down low 
+there 5 claws.  After this area, to the right, you will see a powerup above
+two platforms, but the platforms are too high to jump onto, so you will have
+to first stand in a cart, and from the top of the cart, jump onto the 
+platforms.  Then shoot at the powerup to reveal a Bionic, and milk your Bionic
+invincibility for all it's worth.  
+
+To the right, navigate past two claws, and then drop down onto a cart.  Try to
+keep this cart alive as it will help you out if you can wheel it a bit more
+to the right.  Don't shoot at the cart because it will blow up.  This cart
+moves to the right, so follow it as it moves to the right.  Soon it will pass
+a 2nd cart that moves to the left, but you can shoot this one if you want. 
+Lead the 1st cart a bit more to the right, through one more doorway, and then
+jump ontop of the cart, and use it to jump onto the platform above.  Shoot at
+the stationary soldier there to kill him.  A powerup will appear from the left
+side of the screen which olds a Machine gun, so get that if you want.  Now, 
+to the right, there is a gap to the next platform.  The gap is not too far to
+jump but it's still pretty far apart, and a bad jump will result in falling to
+the platforms below (you don't want to do this).  Carefully jump across this
+platform.  3 spiked walls are there, so shoot your way through all 3 of them.
+The reason why you didn't want to go below is because there are 5 claws down
+there, and they all seemingly lower in completely random times, which makes it
+extremely difficult to get across without losing a life.  After you pass the
+3rd spiked wall here, drop down below, then walk to the right a bit more and
+defeat 3 more spiked walls.  
+
+After the 2nd set of 3 spiked walls, walk to the right, and you will see a
+set of 6 claws that descend in odd and even pairs.  Carefully navigate through
+these claws.  When you get to about the 4th or 5th claw, another spiked wall
+will appear just to the right side of the claws, sadly it does not give you
+enough room between the claws and the wall to stand.  So you might have to
+go back and forth underneath the claws if you can't defeat the spiked wall in
+time.  Now navigate to the right, and defeat 4 more stationary gunmen as you
+get to them, then proceed to the right the rest of the way to the boss.
+
+The boss is very easy if you have a good gun, very hard if you have died and
+have a regular gun.  The boss basically consists of two ball shooting turrets
+in the ground, many soldiers that will randomly run past you, and a spot on
+the wall that you must shoot at and destroy.  Though you can kill the shooting
+turrets in the ground, and the soldiers, the only thing you necessarily have 
+to do to beat this boss is destroy the spot on the wall to the right.  The
+soldiers and the bullets from the ground turrets can cause a major distraction.
+If you're playing 2-Players, have one player concentrate on the spot in the
+wall, and the other player concentrate on taking out random soldiers.  The best
+way to shoot at the spot in the wall is to press your body up against the wall,
+and aim diagonally up-right, then just keep shooting, if you have a turbo 
+button, you can destroy this spot in no time.  Just keep shooting at it until
+it's destroyed, and always keep an eye on the soldiers and the ground turrets
+which are a danger every moment they're alive.  
+
+
+
+4.08  -  Level 8 Alien's Lair
+-------------------------------------------------------------------------------
+Start out by walking to the right and jumping up onto a platform.  Soon, two
+powerups will appear from the left side of the screen and whiz to the right
+side of the screen.  The top powerup is a Machine Gun, and the bottom one is
+a Bionic.  Get whichever one you want.  
+
+Jump over the pit to the right, and continue to the right.  At about this time
+you will start to see baby aliens soaring all over the screen.  Shoot at them
+as they appear to kill them, then proceed all the way to the right until you
+see the mother of these baby aliens.  This is kind of like a mini-boss.  To
+kill it, press your body up against the wall underneath the alien, and shoot
+diagonally up-right at him.  When the baby aliens are about to hit you, take a
+break from shooting at the bother and take out the babys, but shoot at the
+mother whenever you have free time to shoot.  Soon enough, the mother will
+be destroyed, and the wall will also destroy, allowing you to walk past it.
+
+After this mini-boss, jump over the pit to the right.  You will start to see
+odd purple alien's on the ceiling, which will omit small white objects that
+look kind of like sparks from their odd black mouths.  These white objects
+will float for a bit, and then dart toward you.  It's recommended to destroy
+these white objects before they get the chance to dart toward you, because you
+must be pretty quick on your feet to avoid them once they dart at you.  
+Navigate past 2 pairs of these odd purple alien's on the ceiling, and then jump
+across the pit to the right.  At about this time, a powerup will emerge from
+the left side of the screen and whiz to the right side, which contains a Spread
+gun.  You're about to fight the last boss of the game, so how convienant a
+Spread gun just randomly appears.  I hightly recommend getting this powerup if
+you can.
+
+Jump across the 2nd pit to the right.  Take out the 2 purple aliens on the
+ceiling, and then continue to the right. Take out a set of 3 purple aliens that
+are on the ground, and then to the right some more a pair of 2 purple aliens
+that are in the middle of the ground and ceiling.  As you continue to the 
+right, take out a pair of 2 of these purple alien's on the ground, another
+pair in the middle of the ground and ceiling, and another pair on the ground.
+At about this time, you will see two more purple alien's on the ceiling, so
+attack them.  At about this time, odd alien's will appear from the right side
+of the screen that sort of resemble quick moving scorpion's.  You are really
+close to the Red Falcon here!  Continue to the right avoiding all alien's
+that will cross your path, and you will very quickly reach the Red Falcon,
+which is the infamous source of the alien's power that you must defeat to
+beat the game!
+
+The Red Falcon is actually not that hard.  I recommend taking out the odd
+purple alien that is in the ground to the left before anything.  That should
+be the first step.  As you can see, the heart of the Red Falcon is beating.
+The harder it beats, the closer you are to defeating it.  So naturally, it
+will start out beating very slow, but as you attack it, it will start to beat
+very quickly.  There are 4 pods that quickly spawn baby alien's, 2 underneath
+the heart and 2 above.  You can destroy the pods, which will reduce some 
+mini alien's.  The alien's that spawn from the top 2 pods generally swoop
+down at you for an attack, so beware of this.  The best way to defeat the Red
+Falcon is to press your body up against the bottom left side of it (it will
+not kill you, don't worry), and shoot diagonally up-right at it as quickly as
+you can.  A turbo controller would come in very nice at about this moment. 
+Just watch out for swooping alien's from above, and you are fine.  Like I
+said: The Red Falcon isn't that hard.  When you finally beat him, well 
+congratulations, because you just beat the game, and somehow the world.
+
+
+
+4.09  -  Ending
+-------------------------------------------------------------------------------
+The screen will change to a scene of an island.  A helicopter will fly away
+from the island, and for some odd reason the island will now blow up.  I'm
+assuming that you are inside the helicopter, and not left behind to be blown
+up with the island.  Wow!  What a great narrow escape!  The screen will go to
+black, and then you will get this message:
+
+CONGRATULATIONS!
+YOU'VE DESTROYED THE VILE RED
+FALCON AND SAVED THE UNIVERSE.
+CONSIDER YOURSELF A HERO.
+
+Then the ending credits will roll.  Congrats for beating Contra.
+
+After the credits roll, "Presented by Konami" will stay on screen for about 10
+or so seconds, then it will automatically restart the game back at Level 1, the
+Jungle.  You will start the new game with the same amount of lives you left off
+with and the same gun.  The 2nd time through will be a little harder, as random
+soldiers appear more frequently, and they will shoot much more frequently when
+you get to the later stages.  Try to beat this harder mode for an added 
+challange.
+
+
+
+
+
+===============================================================================
+                            5. Weapons Powerups  
+===============================================================================
+This is a list and brief description of all the WEAPON POWERUPS that you can
+get in the game Contra.
+
+REGULAR - This is the gun you start the game off with.  It isn't that good, but
+  then again, it's the weapon you start with, so it's not supposed to be that 
+  good.  You shoot a single pellet at a time, but you can rapidly press the B 
+  button to fire quickly.
+
+B - BIONIC - This powerup isn't too common.  It is only found a few times in 
+  the game.  Its effect is invincibility.  For approximately 15 seconds, you 
+  will be invincible.  Nothing will be able to harm you, short of falling into
+  a pit, and any enemy you touch will immediately die.
+
+F - FLAMETHROWER - A Flamethrower is a pretty good weapon, but it's not the 
+  greatest.  You use it to shoot a powerful flame at your enemies.  The flame 
+  will move very slow, but it spins around in circles as it soars to kill a 
+  much wider range of enemies.  It's a pretty good weapon, but there are 
+  others that are better.
+
+FALCON - This isn't a Weapon Powerup, it's simply just a powerup that you can
+  get that will destroy every enemy that is currently on the screen.  It only
+  appears once in the game, in Level 5, and the point in which it appears, 
+  there are not too many enemies on screen, so it really isn't that useful.
+
+L - LASER - The Laser is the most powerful gun in the game, but I still don't
+  like it, due to it's small range.  It shoots a very thin laser, which can 
+  take out stronger enemies quickly, but it's still probably below average 
+  compared to other guns.
+
+M - MACHINE GUN - This is one of my favorite guns.  You can hold down B, and
+  it will repeadidly fire round bullets.  You do not have to keep pressing B,
+  just hold it down, and it'll keep firing.  It doesn't have too wide of a 
+  range, but it's still very good.
+
+R - RAPID - The Rapid powerup is not a Weapons Powerup, it is just an ordinary
+  powerup. It is designed to allow you to shoot each gun a little faster.  
+  While a single Rapid powerup doesn't make much difference, an experienced 
+  player who collects several Rapid powerups without dying can make a 
+  difference.  But a single Rapid doesn't make much difference.
+
+S - SPREAD - Everybody loves the Spread.  The Spread will shoot many round  
+  bullets away from you, which will spread widely to cover a very wide 
+  shooting range.  Anybody who has this weapon can use it to easily use this
+  weapon to defeat any enemy or boss without being anywhere near them.  The
+  Spread will make this game much easier.

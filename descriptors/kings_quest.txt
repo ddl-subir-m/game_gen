@@ -1,0 +1,849 @@
+Three treasures which gave the kingdom of Daventry its power were stolen. The
+magic mirror had the power to read the future, the shield protected the kingdom
+from attack even against powerful armies and the chest had always remained full
+of coins. King Edward the Benevolent had ruled over the kingdom for many years,
+but remained without a son or daughter to inherit his throne. In his last days,
+the King summons his favourite knight Sir Graham to this throne room. He tells
+Graham about the treasures that were stolen, and that only the recovery of the
+three items will restore power back to Daventry. Graham is promised that he
+will become King over all of Daventry if he succeeds in this task.
+
+
+===============================================================================
+
+2.                                Walkthrough
+
+===============================================================================
+
+
+-------------------------------------------------------------------------------
+2.1.                            The Magic Mirror
+-------------------------------------------------------------------------------
+
+
+The game starts outside of Daventry castle, where a nearby bridge leads over a
+moat containing two vicious alligators. Our first aim is to cross the bridge.
+Start by using the arrow keys to move Graham down toward the bridge. Pressing
+the same arrow key a second time stops Graham walking in that direction. Make
+sure to walk onto the bridge from the top side, and not from the right side
+which will often make Graham fall into the water. If it makes things easier,
+you can use the end key and page down to walk diagonally over the bridge.
+
+After safely making it over to the other side of the bridge, continue west to
+the next area. Walk up the carpet in front of the castle and OPEN DOOR to enter
+the main hall. Go north to the corner and then west to the throne room.
+Approach the bottom step in front of the old King and BOW to him. TALK KING and
+he will explain that he wants Graham to prove himself worthy of the throne by
+bringing three items back to the castle: A magic mirror, a magic shield and a
+magic chest. Press any key to return to the game.
+
+Walk east and then south twice to exit the castle. Walk west across the bridge,
+remembering to stay at the top of the bridge to avoid falling into the water,
+and then continue west to an area with a rock in it. Walk behind the rock and
+PUSH ROCK to reveal a hole in the ground. Make sure not to push the rock from
+the front as it will crush Graham. GET DAGGER from the hole and then walk north
+to the tree in the next area. CLIMB TREE to see a golden egg in a nest. Before
+doing anything else, save the game by pressing F5.
+
+With the game saved, walk carefully across the branch making sure to stay away
+from the edges. Graham will not die if he falls from this branch, but saving
+the game prevents you from having to climb up the tree again. The page up key
+can be used to good effect here to walk diagonally up the branch. If you do
+fall down from the tree at a certain point, F7 can be used to restore the game.
+GET EGG from the nest in the middle of the tree. With the egg in the inventory
+you can now walk off the branch to fall to the bottom of the tree.
+
+Walk east, then north to a peaceful lake area where an elf should be walking
+around. If he doesn't appear, leave and return the area until he does. TALK ELF
+ELF and he will give Graham a ring that has the power to turn its owner
+invisible. Before he leaves, the elf warns that the ring can only be used once.
+Walk west twice to the well area. Walk behind the bucket in the well and CUT
+ROPE using the dagger from the hole. The bucket will be added to Graham's
+inventory. Walk to the top-right corner of the well and LOWER ROPE.
+
+The rope is now dangling down into the darkness of the well, so CLIMB ROPE and
+then press the down arrow key to descend into the well. The rope ends above a
+pool of water at the bottom of the well. Continue down to the bottom of the
+rope to fall into the water. As with all calm water in the game, Graham will
+splash about helplessly until you tell him to SWIM. With Graham now calmly
+swimming in the water at the bottom of the well, DIVE into the water.
+
+An old bottle and a can litter the ground at the bottom of the pool, but they
+can't be picked up. The hole at the bottom-left corner of the water looks more
+interesting, so swim into it. Graham exits the water to find himself in the
+cave of a fire-breathing dragon. Walk east to the water area to refill the
+bucket and then return to the cave. Type the command to THROW WATER but don't
+enter it yet. Walk up close to the dragon and then press enter to throw the
+water over the dragon. The dragon leaves the cave, moving a big boulder on the
+way. With the dragon gone, GET MIRROR near the boulder.
+
+
+-------------------------------------------------------------------------------
+2.2.                            The Magic Chest
+-------------------------------------------------------------------------------
+
+
+The bucket is currently empty as it was used to extinguish the flames of the
+dragon, so walk back through the hole at the right side of the cave to fill it
+up with water again. Swim west back into the cave. Walk west through the hole
+at the side of the boulder and then continue west to exit the cave. Outside,
+walk south twice to arrive in an area with a stump. LOOK IN STUMP to see an old
+pouch inside. GET POUCH. OPEN POUCH to see diamonds inside.
+
+Walk west once to see a calm lake. You shouldn't need to get too close to the
+edge of the lake, but if you do fall in then just start swimming. Walk north
+twice from the lake area and then west once to arrive in a field with a group
+of clovers. Walk to the four leaf clover and GET CLOVER. Walk south to the next
+area. A fairy may appear in this area to cast a spell on Graham, protecting him
+temporarily from the effects of monsters. If the fairy does not appear, just
+keep exiting this area and returning to it until she does.
+
+Walk west and GET CARROT from the garden. Walk north twice to an area with
+rocks near a river. Be careful not to drop into the river, as it is flowing too
+fast for Graham to be able to swim in it. Walk west to the next area and GET
+BOWL on the grass. Don't read the word in the bowl or you won't be able to
+finish the game with the maximum points. Walk west again and GET WALNUT below
+the tree. OPEN WALNUT to see that it contains a nut made of gold.
+
+From the walnut tree, walk north one screen and then east one screen. Walk onto
+the beach near the powerful river and GET PEBBLES. Walk north and west three
+times. Enter the house and GIVE BOWL TO WOODCUTTER. He is puzzled why Graham
+has placed an empty bowl on his table, so say the word FILL to fill the bowl
+with stew. Very grateful, the woodcutter and his wife offer their fiddle to
+Graham. GET FIDDLE from the corner and then exit the house.
+
+Walk south twice to see a gingerbread house in a clearing. Walk to the front
+of the house and EAT HOUSE. OPEN DOOR to enter the house. Quickly walk over to
+the bedroom at the right side of the house and wait in the bedroom. A witch
+should enter the house. If the witch doesn't appear, exit the house and then go
+back into the bedroom again until she does. The witch will move over to the
+stove after she enters the house. Walk up to the witch and PUSH WITCH. With the
+witch gone, the house is now safe to explore.
+
+OPEN CUPBOARD. GET CHEESE on the shelf. Walk into the bedroom and GET NOTE on
+the table. Exit the house and walk west once and south twice to the area with
+the goat pen. OPEN GATE and enter the pen. SHOW CARROT to the goat and he will
+start to follow Graham. Exit the pen and walk south three times and west once
+to see a bridge. Cross the bridge and the goat will butt the troll off the
+bridge. The bridge is now safe to cross, so continue west to the next area.
+
+An old gnome will be walking around in this area. TALK GNOME and he will
+challenge Graham to guess his name in three tries. An old fairy tale had a
+character named Rumplestiltskin that also asked that his name be guessed in
+three tries. Entering this name, the gnome mentions that the guess is close
+but not quite right. Read the note found in the gingerbread house, which
+mentions that it may be wise to think backwards. Rumplestiltskin backwards is
+Nikstlitselpmur, which still doesn't work. The key is to reverse the letters
+of the alphabet, so that A would become Z for example. When this method is
+used on the word Rumplestiltskin, the gnome's name is found.
+
+Tell the gnome that his name is IFNKOVHGROGHPRM and he will be astounded that
+his name was guessed. He exits the area, leaving some beans on the ground. If
+his name was not guessed, he leaves a key on the ground. GET BEANS or GET KEY.
+Walk east twice to an area where flowers are growing in the soil. If you have
+the beans, PLANT BEANS to see a beanstalk grow. CLIMB BEANSTALK and prepare
+for one of the most difficult sections of the game. In the first screen Graham
+will not die if he falls, but there are another three screens above this where
+Graham will die if he falls from the beanstalk. Save frequently, and at the top
+of the beanstalk Graham will step onto the Land of the Clouds.
+
+If you didn't guess the gnome's name, then a different route has to be taken to
+reach the Land of the Clouds. From the beanstalk soil, walk south twice to the
+area where the bird appears. Walk east three times to see a door built into the
+bottom of a mountain. USE KEY on the door to enter a cave with steps which lead
+up to the Land of the Clouds. It is very easy to fall off the edge, so be sure
+to save frequently on the way up. Use the page up key when walking up the first
+set of steps, and the end key on the second set of steps. Go through the cave
+exit at the top of the steps to enter the Land of the Clouds.
+
+The beanstalk route leads to a cloud at the west side of the land, while the
+mountain steps route leads to a cave exit at the east side of the land. From
+the top of the beanstalk, walk east twice, south and then east twice to see a
+hole in a tree. From the cave exit, just go south one screen to arrive in the
+area with the hole in the tree. LOOK HOLE to see a sling. GET SLING. Walk
+north, then west to see the fierce giant that guards the magic chest.
+
+Walk behind the tree at the top-left corner of the area and stay there until
+the giant falls asleep. It is easier to enter the area from the left side as
+the giant starts further away. There are other ways of getting past the giant:
+You can USE SLINGSHOT to fire the pebbles, or WEAR RING and then RUB RING,
+although both of these methods don't give as many points. Whatever way is
+chosen, the giant will fall onto the grass holding the chest. GET CHEST.
+
+
+-------------------------------------------------------------------------------
+2.3.                            The Magic Shield
+-------------------------------------------------------------------------------
+
+
+Walk east to the next area. Enter the cave and save at the top of steps. Use
+the page down key to walk down the first set of steps, and the end key to walk
+down the second set of steps. Exit the cave and then walk east to an area near
+a lake. If you didn't talk to the elf in this area earlier, then talk to him
+now to receive the magic ring. His main purpose in the game is to make things
+easier when waiting for the giant to fall asleep, but at this point in the game
+you may have already done that by hiding behind the tree. Collecting the ring
+is also required when going for a maximum points.
+
+Walk west four times, swimming through a lake on the second screen, to return
+to the exit of the cave where the mirror was found. Exit and return to this
+area until a bird appears and flies around the area. Walk behind the rock at
+the right side of the area and JUMP when the bird flies down above Graham. The
+bird carries Graham and drops him off in an area on the other side of a river.
+Walk west and GET MUSHROOM. Walk back to the east and fall down the hole.
+
+Graham lands in a cave after falling through the hole. Walk south and then west
+to see a rat running about in front of a door. The rat is dangerous, so save
+the game at this point. Walk up close and GIVE CHEESE TO RAT. It scrambles into
+a hole in the wall and disappears. OPEN DOOR to enter a room with two
+leprechauns that are under the power of the fourleaf clover that Graham is
+carrying. PLAY FIDDLE and the leprechauns will dance out of the cave.
+
+Walk south to the throne room. Before the fiddle was played, eleven normal
+leprechauns and the King leprechaun were here and the King's magic prevented
+Graham from getting close to him. After the fiddle has been played, only the
+King remains. Seeing that all of his followers have left the cave, he leaves as
+well, but forgets to take his sceptre with him.
+
+GET SCEPTRE and GET SHIELD near the throne. Walk west up the steps to see a
+small hole that Graham can not climb through due to his size. EAT MUSHROOM and
+Graham will shrink to the size of a mouse. Before the effects can wear off,
+walk through the hole to exit the cave. Almost immediately, Graham returns to
+his original size. Walk east, north twice and then east to return to the castle
+entrance. Carefully cross the bridge and then OPEN DOOR. Walk north and west to
+the throne room. Approach the steps and BOW to the King.
+
+In the ending, The King smiles and then rises from his throne. Graham walks up
+to the throne and the King commends him on recovering the three treasures. As
+the King walks forward, he stumbles and falls to the floor. In his dying words
+he praises Graham for being a good and faithful servant, telling him that his
+reward is well deserved and that the kingdom of Daventry is now his. Edward the
+Benevolent then dies, and Graham begins his reign as the King of Daventry.
+
+
+===============================================================================
+
+3.                              Character List
+
+===============================================================================
+
+
+BIRD
+  Found one screen north-west of the well. If Graham jumps under the bird, it
+  will carry him over to the other side of the Raging River.
+
+
+DRAGON
+  Found in the cave at the bottom of the well. Guardian of the magic mirror,
+  the dragon can have its flames extinguished with a bucket of water. It can be
+  killed with the dagger, but less points are given this way.
+
+
+DWARF
+  Found one screen north of the walnut tree, and on the steps leading up to the
+  Land of the Clouds. The dwarf will steal a treasure that Graham is carrying.
+  If no treasures are being carried, the dwarf will leave Graham alone.
+
+
+ELF
+  Found one screen north-east of the tree with the gold egg. When Graham talks
+  to the elf, he will give Graham a ring which can make the owner invisible.
+
+
+FAIRY
+  Found one screen south of the clover tree. The fairy casts a spell that will
+  temporarily protect Graham from enemies.
+
+
+GIANT
+  Found in the Land of the Clouds, the giant guards the magic chest. He can be
+  killed with the slingshot, although more points are given if he falls asleep.
+  This is done by hiding behind the tree at the top-left corner of the area.
+
+
+GNOME
+  Found on the other side of the bridge two screens north of the clover tree.
+  The gnome will ask Graham to guess his name in three tries. If the answer is
+  correct, magic beans are given. If the answer is incorrect, a key is given.
+
+
+GOAT
+  Found in the goat pen one screen west of the well. When shown a carrot, the
+  goat will follow Graham to an area where it will butt a troll off a bridge.
+  On the way, the goat can scare off many enemies.
+
+
+GRAHAM
+  The main character of the game. As the King's favourite knight, Graham has
+  been asked to retrieve three stolen treasures from the land of Daventry.
+
+
+LEPRECHAUNS
+  Found in the leprechaun cave, they are harmless when Graham is holding the
+  four-leaf clover. If he does not hold the clover they are deadly, as they
+  will kill him if they catch him. The leprechauns enjoy music.
+
+
+LEPRECHAUN KING
+  Sitting on his throne in the leprechaun cave, the leprechaun King will only
+  leave the cave when all of his guards have danced off due to Graham's fiddle
+  playing. He leaves behind a magic shield and a sceptre.
+
+
+KING EDWARD THE BENEVOLENT
+  Found in the throne room of the castle. This elderly King has requested that
+  Sir Graham should recover three magic treasures from the kingdom of Daventry.
+
+
+OGRE
+  Found one screen south of the area where the dagger was found. Graham can
+  stand in front of the bush or the tree stumps to avoid being caught. The ogre
+  will crush Graham if he catches him, but will stay away if he has the shield.
+
+
+SORCERER
+  Found one screen east of the witch's house. The sorcerer casts a spell that
+  freezes Graham to the spot, although he will be able to move again after a
+  while. Graham will be safe from the sorcerer if he has the shield.
+
+
+RAT
+  Found outside the entrance to the leprechaun cave. This hungry rat will run
+  off after he has been given a piece of cheese. A treasure can also be given
+  if Graham doesn't have the cheese, although this gives less points.
+
+
+TROLL
+  Found on all of the bridges surrounding the area with the gnome. He blocks
+  the way, but will not harm Graham. The goat can butt the troll off the edge
+  of the bridge. For less points, the troll moves when he is given a treasure.
+
+
+WITCH
+  Found one screen north of the well and in the gingerbread house, the witch
+  was responsible for stealing the magic chest. After hiding when the witch
+  enters her house, Graham can push her into the stove to defeat her.
+
+
+WOLF
+  Found one screen east of the well. A fast enemy, it is best to either avoid
+  the area that the wolf inhabits or to walk walk at the bottom of the area so
+  that an escape can be made if he appears. The shield will protect Graham.
+
+
+WOODCUTTER
+  Found in the house two screens south of the well. The man and his wife give
+  Graham the fiddle in exchange for a bowl that can be filled by saying a word.
+
+
+WOODCUTTER'S WIFE
+  Found in the house two screens south of the well. Sitting at the table with
+  the woodcutter, they let Graham have the fiddle in exchange for the bowl.
+
+
+===============================================================================
+
+4.                                Item List
+
+===============================================================================
+
+
+BEANS
+  Found by correctly guessing the gnome's name within three tries. They are
+  planted in the soil two screens east of the gnome to make a beanstalk grow.
+
+
+CARROT
+  Found in the garden one screen north of the castle entrance. It is shown to
+  the goat one screen west of the well to make it follow Graham.
+
+
+CERAMIC BOWL
+  The bowl is found two screens north and one screen west from the garden. It
+  is given to the people in the old house for the fiddle.
+
+
+CHEESE
+  Found in the cupboard in the witch's house. It is given to the rat in the
+  room with the door outside the cave with the leprechauns.
+
+
+CHEST
+  Found in the Land of the Clouds when the giant falls asleep. It is one of
+  the three treasures of Daventry that King Edward has asked to be recovered.
+
+
+DAGGER
+  Found in a hole under the rock one screen west of the castle entrance. It is
+  used to cut the rope attached to the bucket in the well.
+
+
+FIDDLE
+  Found by filling the bowl on the table in the woodcutter's house. It is
+  played in the leprechaun cave to make the leprechauns dance out of the cave.
+
+
+FOURLEAF CLOVER
+  The clover is found one screen north-east from the left side of the goat pen.
+  It is used to protect Graham from the leprechauns in the leprechaun cave.
+
+
+GOLD EGG
+  Found in a nest at the top of a large oak tree one screen north of the area
+  where the dagger was found. It is not used.
+
+
+GOLD WALNUT
+  Found by opening the walnut. Although probably valuable, the only purpose
+  in finding the gold in the walnut is for extra points as it is not used.
+
+
+KEY
+  Found by failing to correctly guess the gnome's name within three tries. It
+  is used to unlock the door one screen north of the tree with the gold egg.
+
+
+LEATHER SLINGSHOT
+  Found in a hole in a tree one screen south-east of the giant in the Land of
+  the Clouds. It can be used to fire pebbles at the giant.
+
+
+MAGIC RING
+  Found by talking to the elf one screen north-east of the tree with the gold
+  egg. It can be worn and then rubbed by Graham to hide from the giant.
+
+
+MAGIC MIRROR
+  Found in the dragon cave at the bottom of the well. It is one of the three
+  treasures of Daventry that King Edward has asked to be recovered.
+
+
+MUSHROOM
+  Found in the area one screen west from the location where the bird drops
+  Graham. It is eaten to walk through the exit in the leprechaun cave.
+
+
+NOTE
+  Found on the table in the witch's house. The note is read, and mentions a
+  clue that is helpful in guessing the name of the gnome.
+
+
+PEBBLES
+  Found on the beach one screen north-east from the walnut tree. They can be
+  fired at the giant in the Land of the Clouds using the slingshot.
+
+
+POUCH
+  Found in the stump one screen south-west from the well. The pouch is opened
+  to see that it contains a collection of diamonds.
+
+
+POUCH OF DIAMONDS
+  Found by opening the pouch. Although the diamonds are probably valuable, the
+  only purpose in viewing them is for extra points as they are not used.
+
+
+SCEPTRE
+  Found in the throne room of the leprechaun cave, the sceptre can only be
+  collected when the leprechauns have danced out of the cave. It is not used.
+
+
+SHIELD
+  Found in the throne room of the leprechaun cave. It is one of the three
+  treasures of Daventry that King Edward has asked to be recovered.
+
+
+WALNUT
+  Found on the grass one screen south-west of the beach where the pebbles are
+  found. The walnut is opened to make the gold walnut.
+
+
+WATER BUCKET
+  Found by using the dagger to cut the rope attached to the well. It is filled
+  with water from the bottom of the well and is then thrown on the dragon.
+
+
+===============================================================================
+
+5.                                Point List
+
+===============================================================================
+
+
+            THE MAGIC MIRROR
+            ----------------
+1      1    Open the door to the castle.
+4      3    Bow to the king in the castle.
+6      2    Push the rock from the north side.
+11     5    Get the dagger from the hole.
+13     2    Climb the large oak tree.
+19     6    Get the gold egg from the nest.
+21     2    Cut the rope on the well.
+22     1    Climb down the rope into the well.
+26     4    Dive into the water at the bottom of the well.
+27     1    Swim into the hole at the bottom of the well.
+29     2    Go back to the water and refill the bucket.
+34     5    Throw the bucket of water at the dragon.
+36     2    Go back to the water and refill the bucket.
+44     8    Get the mirror from the dragon's cave.
+
+
+            THE MAGIC CHEST
+            ---------------
+45     1    Look in the stump to see the pouch.
+48     3    Get the pouch from the stump.
+51     3    Open the pouch to see the diamonds.
+53     2    Get the four-leaf clover.
+55     2    Get the carrot from the garden.
+58     3    Get the bowl east of the walnut tree.
+61     3    Get the walnut on the grass below the walnut tree.
+64     3    Open the walnut to see that it contains gold.
+65     1    Get the pebbles from the beach.
+68     3    Give the bowl to woodcutter in his house.
+70     2    Fill the bowl on the table.
+73     3    Get the fiddle from the woodcutter's house.
+75     2    Eat the front of the witch's house.
+82     7    Push the witch into the stove.
+84     2    Open the cupboard in the witch's house.
+86     2    Get the cheese from the cupboard.
+88     2    Get the note from the witch's house.
+93     5    Show the carrot to the goat in the pen.
+97     4    Watch the goat butt the troll off the bridge.
+98     1    Read the note from the witch's house.
+103    5    Correctly guess the name of the gnome.
+107    4    Get the beans dropped by the gnome.
+109    2    Plant the beans to make the beanstalk grow.
+111    2    Get the sling in the Land of the Clouds.
+118    7    Wait until the giant falls asleep.
+126    8    Get the chest from the sleeping giant.
+
+
+            THE MAGIC SHIELD
+            ----------------
+129    3    Talk to the elf to get the ring.
+132    3    Jump under the bird outside the dragon cave.
+133    1    Get the mushroom after dropping from the bird.
+135    2    Give the cheese to the rat in the cave.
+138    3    Play the fiddle to the leprechauns.
+144    6    Get the sceptre from the leprechaun cave.
+152    8    Get the shield from the leprechaun cave.
+154    2    Eat the mushroom at the leprechaun cave exit.
+155    1    Go through the hole to exit the leprechaun cave.
+156    1    Open the door to the castle.
+159    3    Bow to the king in the castle.
+
+
+===============================================================================
+
+6.                                   Maps
+
+===============================================================================
+
+
+MAP 1: DAVENTRY - WEST SIDE
+---------------------------
+
+       *1         *2         *3         *4
+     ___|___    ___|___    ___|___    ___|___
+    | Troll |  | Stone |  | Lake  |  |Woodcut|
+    |Bridge |--|Bridge |--|  (1)  |--| House |-*5
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___*20 ___|___
+    |       |  | Troll |  |       |  | Lake  |
+*19-| Gnome |--|Bridge |--|Beanstk|--|  (2)  |-*6
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    | Troll |  |       |  |       |  | Witch |
+*18-|Bridge |--| River |--|Meadow |--| House |-*7
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___*21 ___|___
+    |       |  | Lake  |  |       |  |       |
+*17-|Clover |--|  (3)  |--| Bird  |--| Witch |-*8
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    |       |  | Goat  |  | Goat  |  |       |
+*16-| Fairy |--|  Pen  |--|  Pen  |--| Well  |-*9
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    | Lake  |  | Lake  |  |       |  | Lake  |
+*15-|  (4)  |--|  (5)  |--| Stump |--|  (6)  |-*10
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+       *14        *13        *12        *11
+
+
+*1: Leads to the Lake (4) on map 1.
+*2: Leads to the Lake (5) on map 1.
+*3: Leads to the Stump on map 1.
+*4: Leads to the Lake (6) on map 1.
+*5: Leads to the Woodcutter's House on map 2.
+*6: Leads to the Hole on map 2.
+*7: Leads to the Sorceror's area on map 2.
+*8: Leads to the Lake (1) on map 2.
+*9: Leads to the Wolf area on map 2.
+*10: Leads to the Lake (2) on map 2.
+*11: Leads to the Woodcutter's House on map 1.
+*12: Leads to the Lake (1) on map 1.
+*13: Leads to the Stone Bridge on map 1.
+*14: Leads to the top Troll Bridge on map 1.
+*15: Leads to the Start Point on map 2.
+*16: Leads to the Garden (2) on map 2.
+*17: Leads to the Cliffs on map 2.
+*18: Leads to the River (1) on map 2.
+*19: Leads to the River (2) on map 2.
+*20: Climbing the beanstalk leads to the Beanstalk (1) on map 5.
+*21: Entering the cave leads to the Cave on map 4.
+
+
+MAP 2: DAVENTRY - EAST SIDE
+---------------------------
+
+       *1         *2
+     ___|___    ___|___    _______    _______
+    |Woodcut|  |       |  |       |  |Leprchn|
+*15-| House |--| Ogre  |--|Mshroom|--| Cave  |
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    |       |  |       |  |       |  | River |
+*14-| Hole  |--| Dwarf |--|Pebbles|--|  (1)  |-*3
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    |       |  |       |  |       |  | River |
+*13-|Srcerer|--|Walnut |--| Bowl  |--|  (2)  |-*4
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___*16 ___|___    ___|___
+    | Lake  |  |Mountn |  |       |  |       |
+*12-|  (1)  |--| Door  |--|  Elf  |--|Cliffs |-*5
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    |       |  |  Oak  |  |Garden |  |Garden |
+*11-| Wolf  |--| Tree  |--|  (1)  |--|  (2)  |-*6
+    |___ ___|  |___ ___|  |___ ___|  |___ ___|
+        |          |          |          |
+     ___|___    ___|___    ___|___    ___|___
+    | Lake  |  |       |  |       |  | Start |
+*10-|  (2)  |--|Dagger |--|Castle |--| Point |-*7
+    |___ ___|  |___ ___|  |_______|  |_______|
+        |          |
+       *9         *8
+
+
+*1: Leads to the Lake (2) on map 2.
+*2: Leads to the Dagger area on map 2.
+*3: Leads to the Gnome on map 1.
+*4: Leads to the Troll Bridge on map 1.
+*5: Leads to the Clover on map 1.
+*6: Leads to the Fairy area on map 1.
+*7: Leads to the Lake (4) on map 1.
+*8: Leads to the Ogre area on map 2.
+*9: Leads to the Woodcutter's House on map 1.
+*10: Leads to the Lake (6) on map 1.
+*11: Leads to the Well on map 1.
+*12: Leads to the Witch area on map 1.
+*13: Leads to the Witch House on map 1.
+*14: Leads to the Lake (2) on map 1.
+*15: Leads to the Woodcutter's House on map 1.
+*16: The mountain door leads to the bottom of the steps on map 5.
+
+
+MAP 3: CASTLE
+-------------
+
+ _______    _______
+|Throne |  |       |
+| Room  |--| Hall  |
+|_______|  |___ ___|
+               |
+            ___|___
+           |       |
+           | Hall  |
+           |___ ___|
+               |
+              *1
+
+*1: Leads to the Start Point on map 2.
+
+
+MAP 4: WELL
+-----------
+
+                            *1
+                          ___|___
+                         |       |
+                         | Rope  |
+                         |___ ___|
+                             |
+    _______    _______    ___|___
+   |       |  |       |  |       |
+*2-| Cave  |--|Dragon |--| Water |
+   |_______|  |_______|  |_______|
+
+
+*1: Leads to the Well on map 1.
+*2: Leads to the Bird area on map 1.
+
+
+MAP 5: LAND OF THE CLOUDS
+-------------------------
+
+ _______    _______    _______    _______    _______    _______
+|Beanstk|  |       |  |       |  |       |  |       |  |       |
+|  (3)  |--|Clouds |--|Forest |--| Giant |--| Cave  |--| Steps |
+|___ ___|  |_______|  |___ ___|  |___ ___|  |___ ___|  |_______|
+    |                     |          |          |              \__
+ ___|___               ___|___    ___|___    ___|___              \_______
+|Beanstk|             |       |  |       |  |       |             |       |
+|  (2)  |             |Forest |--|Forest |--| Sling |             | Steps |
+|___ ___|             |_______|  |_______|  |_______|             |_______|
+    |                                                           __/
+ ___|___                                                _______/
+|Beanstk|                                              |       |
+|  (1)  |                                              | Steps |
+|___ ___|                                              |_______|
+    |                                                __/
+   *1                                        _______/
+                                            |       |
+                                         *2-| Steps |
+                                            |_______|
+
+
+*1: Leads to the Beanstalk on map 1.
+*2: Leads to the Mountain Door on map 2.
+
+
+MAP 6: LEPRECHAUN CAVE
+----------------------
+
+                                     _______
+                                    |       |
+                                    | Cave  |
+                                    |___ ___|
+                                        |
+               _______    _______    ___|___
+              |       |  |       |  |       |
+              |Lprchns|--|  Rat  |--| Cave  |
+              |___ ___|  |_______|  |_______|
+                  |
+    _______    ___|___
+   |       |  |Throne |
+*1-| Cave  |--| Room  |
+   |_______|  |_______|
+
+
+*1: Leads to the Hole on map 1.
+
+
+===============================================================================
+
+7.                         Easter Eggs and Secrets
+
+===============================================================================
+
+
+ABOVE MAXIMUM POINTS
+--------------------
+
+It is possible to finish the game with 159 out of 158 points, one point above
+the maximum amount. When the bowl is found one screen east of the walnut, do
+not read the word inside it. If the word inside the bowl has been read before
+it is put in the table in the woodcutter's house, then you will receive one
+point for reading the word and no points for putting it on the table. If the
+word has not been read, then you will receive two points for putting the bowl
+on the table. So, do not read the bowl to get higher points.
+
+
+COUNTING FINGERS
+----------------
+
+Giving the cheese to the rat outside the leprechaun cave gives a message that
+says you might want to count your fingers. When this command is entered, a
+message replies that Graham is relieved to see that he still has all of them.
+The same message appears even if Graham hasn't give the cheese to the rat.
+
+
+KNIGHT RIDER GNOME
+------------------
+
+When the gnome asks Graham to guess his name, typing Mikel gives the message
+"What do you think I am, a car? This also won't get you a raise. Nice try.".
+This refers to the character Michael Knight in the TV series Knight Rider,
+which was made in the early 1980s. There is no more information on the raise
+comment, as it seems to have been a joke between people working on the game.
+
+
+===============================================================================
+
+8.                            Debug Information
+
+===============================================================================
+
+
+Hold Alt + D to access debug mode. Type "Get object" followed by a number to
+collect any item in the game, or "TP" followed by a number to teleport to a
+new location. "Pos" can be used to move Graham around in a room.
+
+
+ITEMS
+-----
+
+1  Dagger         8   Fourleaf Clover     15  Pouch of Diamonds   21  Shield
+2  Chest          9   Ceramic Bowl        16  Pouch               22  Fiddle
+3  Carrot         10  Full Bowl           17  Sceptre             23  Walnut
+4  Gold Walnut    11  Water Bucket        18  Cheese              24  Mushroom
+5  Key            12  Full Bucket         19  Magic Mirror        25  Beans
+6  Note           13  Pebbles             20  Gold Egg            26  Water
+7  Magic Ring     14  Leather Slingshot   21  Shield
+
+
+LOCATIONS
+---------
+
+1   Castle exterior east side            41  Bridge north from the gnome
+2   Castle exterior west side            42  Bridge south-west from the trunk
+3   Dagger below the rock                43  Lake south from the stump
+4   Lake west from the rock              44  Woodcutter's house exterior west
+5   Lake east from the stump             45  Woodcutter's house exterior east
+6   Pouch in the trunk                   46  Ogre
+7   Lake west from the stump             47  Mushroom
+8   Lake east from the castle            48  Leprechaun cave entrance
+9   Fairy                                49  Cave above the well water
+10  Goat pen west side                   50  Dragon cave west
+11  Goat pen east side                   51  Dragon cave east
+12  Well                                 52  In the well water
+13  Wolf                                 53  Castle throne room
+14  Base of tree with the gold egg       54  Castle hall north
+15  Carrot garden west side              55  Castle hall south
+16  Carrot garden east side              56  Land of the Clouds
+17  Lake west from the clover            57  Land of the Clouds west
+18  Elf                                  58  Land of the Clouds giant
+19  Door to Land of the Clouds           59  Land of the Clouds east
+20  Lake west from the door              60  Land of the Clouds south-west
+21  Witch                                61  Land of the Clouds south
+22  Dragon cave exit                     62  Land of the Clouds slingshot
+23  Lake east from the clover            63  Top of the tree with the egg
+24  Four-leaf clover                     64  Top of the beanstalk
+25  Bridge south from the gnome          65  Witch's house interior
+26  River north-east from the clover     66  Land of the Clouds cave steps
+27  Field west from the witch's house    67  Land of the Clouds cave steps
+28  Witch's house exterior               68  Land of the Clouds cave steps
+29  Sorcerer                             69  Land of the Clouds cave steps
+30  Walnut                               70  Beanstalk first screen
+31  Bowl                                 71  Beanstalk second screen
+32  River east from the bowl             72  Beanstalk top
+33  River north-east from the bowl       73  Leprechaun cave below hole
+34  Pebbles on the beach                 74  Leprechaun cave east from rat
+35  Dwarf                                75  Leprechaun cave rat
+36  Leprechaun cave exit                 76  Leprechaun cave with leprechauns
+37  Lake east from the beanstalk soil    77  Leprechaun cave throne room
+38  Beanstalk soil                       78  Leprechaun cave exit
+39  Bridge east from the gnome           79  Woodcutter's house interior
+40  Gnome                                80  Carried by the bird

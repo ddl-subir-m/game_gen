@@ -1,0 +1,404 @@
+Welcome to my FAQ for Robotron 2084.  Since the game is just a shooter that
+goes until all your men are killed, there is no walkthrough per se.  Instead it
+will be broken up into the game itself, strategies for survival, and some in-
+teresting quirks in the game.  Input is appreciated along with constructive
+criticism.  If you wish to e-mail me thoughts on this FAQ, better ways of doing
+things, other strategies, etc., feel free.  Make sure you put Robotron 2084 as
+the subject.  If you don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Robotron 2084 was one of Williams most successful games.  Based on a composite
+of other different games, Robotron 2084 stormed on the scene.  With its fast
+pace of action and constantly putting your man in constant peril, there wasn't
+a moments rest from the game.  With its innovative use of what I call "scoot
+and shoot", the use of two joysticks (one to move and one to fire) made this
+quite the game of skill.  With your man being the only hope to save the human
+race from the rebel robots, you have a tough job ahead of you.  Good luck.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+
+| 6.  THE GAME |===============================================================
++==============+
+
+Robotron 2084 is a two-dimensional shooter.  You control your man to wreak as
+much havoc on the robots as possible.  Of course, the robots are trying equally
+as hard to make it so you won't have a nice day.  Survival of the fittest is
+the motto of this game.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+In order to become a master of this game, you must be familiar with the
+controls.  The controls are a little complicated at first since you have to be
+able to move in one direction while shooting in another.
+
+-  One 8 way joystick that controls your man's movements.
+
+-  One 8 way joystick that controls which way you fire
+
+Combined, it enables you to independently move and fire in different directions
+at the same time.
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+The playing field consists of your man and a whole lot of robots to deal with.
+In addition, you have human families that you also need to rescue from the
+robot menace.  I have included an example of what the playing field look like
+(a little larger then normal):
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |              _                                                    |
+    |             [_]                                                   |
+    |             _|_                                                   |
+    |            |   |                                                  |
+    |            |___|                                                  |
+    |             | |                                _                  |
+    |                                              |   |                |
+    |                                                -                  |
+    |                                                                   |
+    |                                                                   |
+    |             _[]_                _                                 |
+    |            |    |              (_)                                |
+    |            |    |               |-                                |
+    |            |    |              / \                                |
+    |            |____|                                                 |
+    |            \oooo/                                                 |
+    |             ----                         /-\                      |
+    |                                         |   |                     |
+    |                                          \-/                      |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control the man to avoid robots and their bullets.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is actually a little harder.  The reason it is harder is
+that there are a lot of things that will earn you points.  Plus, there are a
+lot of different enemies on the screen.  Here it the breakdown using this
+format:
+
+         Score:
+  Missile Type:
+Characteristic:
+
++----------------------------------------------+
+| GRUNT (GROUND ROVING UNIT NETWORK TERMINATOR |
++----------------------------------------------+
+
+         Score:  100 points
+  Missile Type:  NONE
+Characteristic:  These are the red robots.  Although they don't fire, they
+                 overwhelm your man by sheer numbers.
+
++------+
+| HULK |
++------+
+
+         Score:  N/A
+  Missile Type:  NONE
+Characteristic:  The are the big green robots.  They are indestructible and
+                 there main purpose is to kill the humans.
+
++-------+
+| BRAIN |
++-------+
+
+         Score:  500 points
+  Missile Type:  "Snake-like" homing missile worth 25 points
+Characteristic:  These are the robots that are blue and have really large
+                 heads.  They "re-program" the humans into evil Progs who home
+                 in on your character.  The Progs are worth 100 points.
+
++----------+
+| SPHEROID |
++----------+
+
+         Score:  1000 points
+  Missile Type:  NONE
+Characteristic:  These are the red circles that travel around the game screen.
+                 They are the transports for the Enforcer robots.
+
++----------+
+| ENFORCER |
++----------+
+
+         Score:  150 points
+  Missile Type:  A semi-guided mine that looks like a six-point star worth 25
+                 points
+Characteristic:  These are the blue, "Robby the Robot" looking robots.  They
+                 tend to congregate in the corners of the game field.
+
++=------+
+| QUARK |
++-------+
+
+         Score:  1000 points
+  Missile Type:  NONE
+Characteristic:  The white boxes with an "X" in the middle that travel around
+                 the game screen.  They are the transports for the Tanks.
+
++------+
+| TANK |
++------+
+
+         Score:  200 points
+  Missile Type:  Bouncing bomb worth 25 points
+Characteristic:  These are the red robots that have tracked wheels underneath
+                 them hence making them look like tanks.
+
++----------------+
+| FAMILY MEMBERS |
++----------------+
+
+You get 1000 for the first human rescued. Then it will progress at 2000, 3000,
+4000, then 5000 for every human rescued after that.  This will last the entire
+wave or until you get killed.  If you get killed or go to a new wave, then the
+progression starts at 1000 again.
+
+You start the game with 3 men and receive and additional man for every 25,000
+points you get.
+
+ __________________
+/ 6.4  Wave Setup /____________________________________________________________
+------------------
+
+The waves (or levels) in Robotron 2084 are set up in a definite pattern.  Once
+you understand that pattern, you will be better prepared to deal with the
+enemies that the game throws at you.  Here is how the waves are set up.
+
+-  The SPHEROIDS make their appearance on the 2nd wave and every wave
+thereafter.
+
+-  Starting at the 5th wave and every 5 waves thereafter (i.e. 5, 10, 15, 20,
+   etc.) is a BRAIN robot wave.  These are also the waves you can amass a large
+   amount of points due to all the humans you have to rescue.
+
+-  Starting at the 7th wave and every 5 waves thereafter (i.e. 7, 12, 17, 22,
+   etc.) the TANKS will make their appearance.
+
+-  Starting at the 9th wave and every 5 waves thereafter (i.e. 9, 14, 19, 24,
+   etc.) you will have one of three alternating enemies to deal with.
+
+   -  On the 9th wave and every 10 waves thereafter (i.e. 9, 19, 29, 39, etc.)
+      you will have the "GRUNT" waves.  These waves put you right in the middle
+      of a large number of GRUNT robots.  In addition, the lit side edges are
+      removed to make the field look bigger.
+
+   -  On the 14th wave and every 20 waves thereafter (i.e. 14, 34, 54, etc.)
+      you will have the HULK waves.  These waves put you right in the middle of
+      a large number of HULK robots.
+
+   -  On the 24th wave and every 20 waves thereafter (i.e. 24, 44, 64, etc.)
+      you will have a combination TANK/ENFORCER wave.  These waves have you in
+      the middle of large numbers of SPHEROIDS and QUARKS before they deposit
+      their ENFORCER and TANK robots.
+
+-  On wave 28 and each wave thereafter, you will get a combination of SPHEROIDS
+   and QUARKS depositing their ENFORCER and TANK robots.  Before this, it was
+   only the SPEROIDS depositing their ENFORCER robots to make your life
+   miserable.
+
+-  These progressions will continue until you hit wave 255.  After that, the
+   waves roll back over to wave 1 and you start the cycle again.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your man will be in the middle of the playing field
+surrounded by various robots.  Depending on the wave that you are on will
+determine exactly what robots are ready to terminate your existence.  The game
+is straight-forward, take out all the robots (except HULKS) to advance to the
+next wave.
+
+-  It is vital for your survival that you learn how to "scoot and shoot".  If
+   you don't learn how operate the controls independently and run in one
+   direction while shooting in other directions, you won't survive very long in
+   this game.
+
+-  Equally important to "scoot and shoot" is your ability to be able to fire on
+   the diagonal.  It's easy firing up, down, left, and right, but it takes a
+   little more mastery to fire in the diagonal directions.
+
+-  Learn the different things the enemy robots do.  For example, the SPEROIDS
+   have a tendency to congregate in the corners.  This works to your advantage
+   since you can blast about 3 or 4 before they discharge their supply of
+   ENFORCER robots.
+
+-  Your main objective is to blast a path through the robots and get to the
+   edge of the screen.  It doesn't matter what edge, just get to one.  The
+   reason is painfully simple:  It give the robots one less direction to
+   assault you from, plus, you can lead them around in circles blasting them
+   and also cleaning out the corners from the abovementioned ENFORCERS.
+
+_______________________________________________________________________________
+
+Kevin McGovern's strategy:
+
+When dealing with the enforcers and the missiles they fire.  If the enforcers
+get out of their transports, I seem to have fairly good success in dealing with
+them by travelling in a counter-clockwise arc, generally hugging the edges and
+shooting as I go.  For the most part they seem to shoot their missles targeting
+the spot you are at, not where you are going (with some exceptions). Travelling
+in that arc tends to keep the missles behind you and a bit easier to deal with.
+
+_______________________________________________________________________________
+
+
+-  The only times where you won't want to seek the sides is during the BRAIN
+   and TANK robot waves.  The BRAINS fire a homing shot at your man so you need
+   as much room to maneuver as possible so going against the wall would
+   restrict that movement.  The same goes for the TANK robots which fire bounce
+   shots.  They may miss you initially but you might get hit by the shot as it
+   bounces up.  You are safer in the middle area where you have room to
+   maneuver.  Just watch out for other enemies (which will be very low in
+   number).
+
+-  Try to rescue the humans as long as it doesn't put your man in danger of
+   dying.  You can rack up some major points on the BRAIN waves since they are
+   loaded with humans for the BRAIN robots to "re-program".  Again, make sure
+   you have an avenue of escape.  Doesn't make sense to save a human, get the
+   extra man, then die.  You, in essence, gained nothing from that level.  You
+   can also shoot the HULK robots to push them away from humans also.  On the
+   BRAIN waves, make sure you pick off the BRAIN robots as soon as possible.
+   This prevents them from reprogramming the humans and leaves you more people
+   to get major points with.
+
+_______________________________________________________________________________
+
+Kevin Steele's strategy:
+
+The "Mikey" bug - on the first Brain wave.  There are a lot of Mommies and only
+one Mikey.  The Brains all go for Mikey - if you can protect him (don't pick
+him up, though!), the Brains will ignore all other humans, making for a point-
+fest if you can grab them all.  As soon as you die, however, the Brains will
+grab any human they find.  This actually works on all Brain waves, but in the
+other waves the "golden human" is a random Daddy or Mommy or Mikey, so you
+don't know who to protect.  It's a bug, but a cool one.
+
+_______________________________________________________________________________
+
+
+-  Since you don't have a limit on your shots, you can put up a "wall" of
+   energy in whatever direction you move.  This can have a very devastating
+   effect if applied right.
+
+-  Make sure you take a quick look at the wave to assess where the main threats
+   are.  You will have from 1 to 2 seconds to get ready for action.  If you can
+   survive the initial few seconds as you blast your way toward the edge, your
+   chances of survival will be that much greater.  Also be sure to remember
+   what each wave has in store for you, this also will give you a greater
+   chance of getting through the wave.
+
+-  If you get tired, you can take a break.  That's right, wait for a TANK wave.
+   Eliminate all of the robots except for one.  After firing a few shots, the
+   TANK robot will run out.  After that, it's just a matter of avoiding the
+   TANK and any other pesky robots.
+
+-  ENFORCERS, like their SPHEROID transports, tend to congregate in corners.
+   Use this to your advantage.  Every now and then one or two will zip very
+   fast across the field. Their main threat, though, is volume of fire.  When
+   you are on the edges, watch out since their shots tend to roll toward your
+   man.
+
+-  See all those pretty shapes on the playing field?  They are there as a
+   nuisance.  They will kill your man if he hits them.  They can, however, be
+   shot out of the way but yield no points.
+
+Andrew Schultz shares his thoughts and tips on getting the most out of your
+Robotron 2084 experience.  I am grateful for his input since he is also an "old
+school" gamer like myself.
+
+-  I found electrodes are useful as bunkers. They are the lowest priorities to
+   shoot right away especially as more and more grunts appear. I like to save
+   my shots to fire diagonally into the corner to pick off the SPHEROIDS.
+   Getting rid of those guys are good except when I'm in a brain wave and would
+   rather kill all the brains and leave just one ENFORCER.
+
+-  On the GRUNT wave, I found a good strategy was to run at a particularly
+   vulnerable area and retreat and keep firing. In theory, you might, say, run
+   up and then fire up/left, up and up/right. In this case I think the top
+   edges are a bit better to get to than the sides, just because they're
+   closer. After that I usually cycle around the edges for this board.
+
+-  Grunts don't quite go straight for you. They kind of zigzag back and forth,
+   and that can often cause you to miss something you thought you shot at. Also
+   as the level goes on they get a bit faster until they're as fast as you. If
+   you have some spare people still to pick up this can be a problem and one of
+   those ENFORCERS is better to have around last than a grunt.
+
+-  The edge isn't always a good place to go or stay, if there are ENFORCERS
+   you'll need to leave it a while.
+
+-  Because you only get three(or is it four?) shots, you will want to make sure
+   that you use them as rapidly as possible. You should be shooting constantly,
+   but try to run at enemies that are obvious targets and shoot them while you
+   spray bullets. A corollary here--you won't want to fire too often in any one
+   direction as once you've cleared a path that way your shots will go through
+   and take longer to hit the edge.
+
+-  Electrodes can be very nasty to shoot. If you go to the edge and fire at one
+   that's near the edge you're on, you can miss it and still be at risk of
+   being killed by it.
+
+-  I disagree with you about getting killed on a brain wave being a wash. Say
+   you pick up 12 humans. That's 50000 points. And say you have 8 people to
+   pick up and one grunt left, but it's running fast. Get killed. You'll be
+   able to get the 8 people with your next life for 30000 points.  The one
+   thing getting killed does is reset the bonus for humans, and that can be
+   nasty since you can lose up to 10000 points.
+
+-  People also need to develop an immediate impulse about where to attack and
+   where to cut through to get to the side. There's very little time for this
+   but once oyu learn it it's part of the excitement. On the downside getting
+   killed doesn't always leave you with something easier to restart with.
+
+Thank you Andrew for these tips.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+This game, unlike many of the other arcade games I played, would keep me spell-
+bound for hours at a time.  Since there are no continues on the game, you had
+to make the most out of the limited supply of quarters that you had.  The game
+play got intense enough, that one would be sweating up a storm although the
+A/C in the store was at 30 degrees.  I know I enjoyed the fast paced nature of
+the game and even when you knew what was coming next, the excitement level
+remained high.  It was also that time of proving yourself worthy by putting up
+the high score on the machine and everybody else challenging it.  If they beat
+it, you became the challenger.  Unfortunately, it is very rare to find this
+machine anywhere.  However, through the miracle of emulation, a whole new
+generation is realizing what we "old" folks enjoyed those many years ago.  You
+can also play this game at www.shockwave.com.  You will, however, have to do it
+using the keyboard.  A good way for setting it up is use the direction keys for
+movement and the WAZS keys on the right side to fire with.  If you're left-
+handed, reverse the order.  I hope this guide helps you in being able to get
+the most amount of gameplay for this game.  If you do have other ideas or
+thoughts, please e-mail me and share them.  Who knows, maybe I'll start a Q&A
+Chapter in this guide if enough people ask the same questions.  Anyway, thank
+you again for reading this guide.

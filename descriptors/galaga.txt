@@ -1,0 +1,86 @@
+Introduction
+This is a FAQ for the Atari 7800 game Galaga. It contains information on playing the game, including controls and strategies for winning.
+
+Galaga is a port of the classic arcade top-down shooter. In Galaga, you must defend yourself against wave after wave of the titular aliens.
+
+Getting Started
+One Player/Two Player
+Press Up/Down on the Joystick to select either a one or two player game.
+
+Novice/Advanced/Expert
+Press Left/Right on the Joystick to select the Novice, Advanced, or Expert difficulty level. I honestly cannot see a difference between Novice and Advanced. On Expert, you start on Wave 10 and the enemies are much faster.
+
+Starting the Game
+Press the Left Button when you are ready to begin playing.
+
+Basic Gameplay
+Controls
+Move Ship Joystick Left/Right
+
+Fire Missiles Left or Right Button
+
+Pause PAUSE
+
+Object
+The object of the game is destroy any and all alien invaders.
+
+The game is broken into "Waves". At the beginning of each Wave, the Galaga will do a flyby then take positions at the top of the screen. You can shoot Galaga during the flyby but on Waves 2 and higher they will shoot back!
+
+Galaga (Enemies)
+Drones
+Drones are the weakest Galaga. They can be destroyed with a single missile. They are colored blue.
+
+Hornets
+Hornets are the red Galaga. They can also be destroyed with a single missile.
+
+Flagships
+Galaga Flagships are the toughest enemy you'll face. Not only do they take two missiles to destroy, they are armed with a tractor beam capable of capturing your fighter!
+
+Captured Fighters
+Galaga Flagships can capture your fighter with a tractor beam. Once a fighter has been captured, the Flagship will carry it to the top of the screen.
+
+You can free your captured fighter by destroying the Flagship BUT a.) you must be careful not to hit the fighter or it will be destroyed and b.) you must destroy the Flagship while it is moving, otherwise the fighter will drop off the bottom of the screen and disappear forever.
+
+A successfully freed fighter will join its rescuer for double the firepower!!
+
+If you do not have any fighters in reserve to rescue a captured fighter then, that fighter will be considered lost and the game will end.
+
+Lives
+You begin the game with three extra lives. You lose lives when you are hit by an enemy missile or a kamikaze Galaga. If your final ship is captured (i.e. there is no one left to rescue it), then that ship is considered lost and the game is over. You can earn an additional ship by scoring 30,000 points.
+
+Challenging Stage
+Every few waves you'll encounter a "Challenging Stage". In Challenging Stages, the Galaga will not attack you! The goal is to destroy as many Galaga as possible to earn points. Destroy every Galaga to earn a whopping 10,000 bonus points!
+
+Strategies
+You can only fire two missiles at a time.
+Alternate between using the Left and Right buttons to prevent finger fatigue.
+Try to take out as many Galaga as you can while they are doing the flybys at the beginning of each wave.
+Try to clear out a side of the playfield at a time. That will give you a "safe area".
+Destroying a Flagship will cause the other Galaga to "mourn" its loss. During the brief mourning period, Galaga will not fire on you (they will still attack kamikaze style, though).
+The granddaddy of all video game stratagems: purposely allow a Galaga Flagship to capture one of your fighters! Once you free your captured comrade you'll have double the firepower!!
+Scoring
+Stationary Ships
+Drone 50 points
+
+Hornet 80 points
+
+Flagship 150 points
+
+Attacking Ships
+Drone 100 points
+
+Hornet 160 points
+
+Flagship in Flight
+with zero escorts 400 points
+
+with one escort 800 points
+
+with two escorts 1,600 points
+
+Challenging Stage
+Single Ship 100 points
+
+Destroy Entire Group 1,000 - 3,000 points
+
+Destroy all 40 Ships 10,000 points

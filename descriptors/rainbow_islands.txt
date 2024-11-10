@@ -1,0 +1,220 @@
+-----------------
+Getting Started
+-----------------
+A. Controls
+B. Strategy & Basic Hints
+
+---------------------
+Index - Walkthrough
+---------------------
+1. Level 1 - Castle
+2. Level 2 - Toy land
+3. Level 3
+4. Level 4
+5. Level 5
+6. Level 6
+7. Level 7
+
+---------------
+Miscellaneous
+---------------
+I. Special Items
+II. Secrets
+
+---------------
+A. Controls
+---------------
+
+Control Pad: 
+Right/Left arrows - Moves your Character (Bub) in whichever direction pressed.
+Up/Down arrow - Press and hold before landing on a rainbow so it does not
+break.
+
+A Button - Makes Character Jump
+B Button - Casts Rainbow
+
+Start Button - Pauses game
+Select Button - N/A
+
+-------------
+B. Strategy
+-------------
+
+1. Do not expect that this game is a side scroller.  There is no side scrolling
+at all in the game.  Its more of a Horizontal Scroller in which you jump from
+platform to platform as the stage progresses always trying to reach the top
+more or less a Ice Climbers-type scenario.  Also avoid being hit.  Once you're
+hit you're dead.
+
+2. First of all try and Collect the 7 different color jewels to spell the word
+"RAINBOW".  This can be accomplished by shooting a rainbow over an enemy's head
+and JUMPING on the rainbow causing it to fall on him.
+
+3. Try to collect 3 basic items to help your character through his adventure.
+the items are: 
+
+An Orange Jar - Fires rainbows at 2x the normal speed.
+A Purple Jar - Fires 2 rainbows instead of one.
+A Pair of Red Sneakers - 2x your regular speed.
+
+The effects of these 3 items remain on your character until you die, unlike any
+of the other power-ups found in the game. And note the effects of these items
+do not multiply by how many you have collected, so don't go dying trying to 
+grab another purple jar because you still will only be firing 2 rainbows.
+
+4. For a higher overall score, after you collect the 7 jewels per stage hit the
+enemies head on to get items that give you higher points than jewels.
+
+5. If you cannot collect the word "RAINBOW" on 1 single level do NOT worry
+because you still have the oppurtunity to collect the rest of the jewels on the
+next few stages up until you reach the boss.
+
+6. Everytime you complete the LEVEL with the word "RAINBOW" spelled you will 
+recieve a BIG JEWEL that corresponds with the letter.  For example when you
+beat the first level with the word "RAINBOW" spelled out you will get the Big
+Red Jewel.
+
+7. Also when you beat the first level with "RAINBOW" spelled you will also get 
+the selection of either Talking to whoever gave you the jewel or choosing a 
+treasure box.  My suggestion is to talk to the person standing there because
+not only are they there to help you understand the story, they at times offer
+some comic relief.  Although if you prefer you can choose to open a Treasure
+Box.
+
+8. If you chose the Treasure Box option then good luck.  You have to choose
+between two chests; one has an Item such as a Orange or Purple Jar, free life,
+or a timed power up (these will be discussed later in the FAQ).  The other box
+contains nothing, nadda, jack squat! You get nothing and you can't talk to the
+the character who gave you the Jewel...Sucker=)
+
+9. DON'T DAWDLE!!! Even though you don't see a timer the game does have one,
+and if you are running out of time you will get a message saying hurry up and
+the level slowly fills with water.  If you get stuck in the water then you're
+dead.
+
+10. And my last tip would be good luck! This game is fun, but can get extremely
+frustrating at times.  My suggestion is to stick with the game ESPECIALLY if
+you are a fan of the Classic Bubble Bobble series because as you reach the end
+you will understand why it is called "The Story of Bubble Bobble 2".
+
+----------------
+
+------------
+Walkthrough 
+------------
+
+LEVEL 1 - Castle
+
+Stage 1:
+
+Part 1: When the game begins I suggest you get a feel for it.  The controls
+are not that difficult, but as with any game an alert gamer is an alive gamer.
+The stage looks like you're on the outside of a castle.  First of all kill the
+animals on the stage, I suggest firing a rainbow over its head and then procede
+to jump on it with out pressing up or down so the Rainbow breaks and falls on 
+the li'l bug guy.  You should collect in the first part the Red speed up shoes
+and the orange pot (doubles your rainbow speed).  Destroy all enemies and
+continue to the top of the screen.
+
+Part 2: Oh no its looks like there are alot more enemies in this part, but 
+don't worry because just like most of the other monsters in the game these guys
+are complete idiots.  The first or second monster you kill should be your
+purple jar (doubles the amount of Rainbows you fire).  Kill the rest of the 
+monsters (preferably by the Rainbow over the head trick*) and voila once you 
+reach the top of this level you are done.  Congratulations you've completed
+your first stage of Rainbow Islands!
+
+*this trick will be know known as the ROTH technique.
+
+
+Stage 2:
+
+Part 1: Now this should be fun.  This level try and complete your jewel
+collection by using the ROTH technique.  So start out by killing the 5 guys on
+the 5 platforms and slowly make your way up.  Kill the 2 lady bugs and 2 bees
+and watch out for the Caterpillar coming down from the left side of the screen.
+Once these guys are despatched head to the top of the level.
+
+Part 2: When the stage starts you'll notice a caterpillar and a Lady bug
+falling from the right side of the screen.  Try to kill them while they are 
+still in the air because the Lady Bug is pretty quick on its feet.  As you 
+continue to climb and use the ROTH technique to collect your Jewels you may 
+come across some of the new helper items, which at this point can include 
+orange and yellow stars that fire tiny stars in all directions when you collect
+them and a Red Orb that when you pick it up it kills all enemies on the screen.
+Kill the remaining Character and head to the top.
+
+Part 3: Thought you were done didn't ya? Well from now on most levels will
+atleast have 3 screens to climb, and sometimes even more. Now be very cautious
+because the enemies will not stay on their platforms, but they will fall down 
+towards you.  Fire off a few rainbows and drop a few baddies.  If you've been
+collecting Jewels you may finish the word around this time and the game alerts
+you by a tone and the words nice scrolling up the screen.  Head to the top of 
+the stage and you are finished with the second Stage.
+
+
+Stage 3:
+
+Part 1:  A darker level that starts off with another Caterpillar and Ladybug
+dropping in from the left side of the screen.  If you've allready collected the
+word Rainbow quickly dispatch them with a rainbow to the eye and scroll up.  
+Beware of Spiders because they can cause problems.  You may find a item the 
+resembles a white ring with a green top.  Grab it and stars will rain down from
+the top of the stage killing anything they touch.
+
+Part 2: BE CAREFUL!..You'll have 3 guys heading for you right when you start
+the level.  Avoid them and head to the left climbing the platforms to the top
+of the screen, but watch out for the bees.
+
+Part 3: OOOH lots of plat forms! This isn't to difficult since the falling
+monsters get caught up on the tiny platforms.  Quickly dispose of them and head
+to the top of the screen and you're finished with the third stage!
+
+
+Stage 4:
+
+Part 1: The level starts off with Bub in front of a small castle and two
+spiders dropping down from both sides of the screen.  Run to one side and kill
+that spider and either wait for the other spider to come to you or continue up.
+Stick towards the left side of the screen and watch for a spider that could
+land on your head.  Continue up to the top.
+
+Part 2:  Run to the left side and completely avoid the falling enemies.  Once
+you climb the tower you'll reach a point with small pegs of land and you'll see
+a few spiders and bees.  Be careful because this can be a little difficult. 
+Either kill the enemies or run from them and go to the top.
+
+BOSS BATTLE: BIG SPIDER!
+
+So you've made it to your first boss battle! Congratulations...This is a pretty
+easy boss since he doesn't have much power.  Run to the left and climb the tiny
+pillars and start attacking him before he starts moving.  At most it will take
+you eight hits to defeat him and even less if you have a double rainbow.  
+Congratulations you have passed the first level!
+
+
+LEVEL 2 - TOY LAND!
+*Coming Soon*
+
+----------------
+
+--------------
+Miscellaneous
+--------------
+
+I. Special Items:
+
+1. Orange and Purple Stars - Collect these and stars will be shot out in every
+direction.  Orange stars fire out in 180 degrees and Purple Stars shoot out at
+360 degrees.
+
+2. Big white ring w/ Green top - Collect this and stars will fall from the top
+of the screen destroying every enemy they touch
+
+3. Red Orb - Collect this and it destroys every enemy on the screen.
+
+4. Glass Jar w/ green Liquid - Collect this and four circles radiate out of a
+Bub killing everything they touch.
+
+5. Feather or Guitar looking thing* (If you know what this item is E-mail me) -
+Collect this item and a fairy will circle around you.

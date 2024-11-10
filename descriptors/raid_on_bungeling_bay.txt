@@ -1,0 +1,302 @@
+1) You are at war!  However, the enemy country is made up of many islands, 
+   and that makes it quite difficult to mount a sustained attack on their 
+   bases and supplies.  This is where you come into the picture.  Although a
+   large scale attack would prove to be quite deadly to your forces as the 
+   enemy would be able to use weapons of mass destruction on your groups of 
+   forces on the islands.  However, by using bombing runs on the factories 
+   that produce these deadly weapons, and by using these tactics your 
+   country can gain the upper hand.  You have been selected to make these 
+   attacks, so it is just you in your attack helicopter with an aircraft 
+   carrier as support for you as you take the evil country down, starting 
+   with your mission of Raid On Bungeling Bay!
+
+----------------------------------------------------------------------------
+---------------------------------Controls-----------------------------------
+----------------------------------------------------------------------------
+
+2) This section will give you the controls that will lead you to victory 
+   over the hated enemy!
+
+
+D-Pad...: The movement of your helicopter are completely dependent upon this
+          section of the controller.  By putting full pressure on the UP 
+          direction, your helicopter will fly ahead at full speed.  By using
+          DOWN, your helicopter will slow down, and then start to reverse if 
+          you continue to hold DOWN (otherwise the helicopter will begin to 
+          hover).  LEFT and RIGHT control which way your whirly bird will 
+          turn when in the air.
+
+SELECT..: No apparent use.
+
+START...: Pauses/unpauses the game.
+
+B Button: This Button will deliver your high payload bombs into the 
+          factories below.  You get 9 of these ordinances assigned to your
+          helicopter, and this supply can be replenished on your aircraft 
+          carrier.
+
+A Button: This Button will fire off your machine guns (hehe, more like pea 
+          shooter) at the enemies.  You can only have one bullet in the air
+          at a time, but they are unlimited.
+
+----------------------------------------------------------------------------
+----------------------------Aircraft Carrier--------------------------------
+----------------------------------------------------------------------------
+
+3) This section will look at your Aircraft Carrier, as well as the info it 
+   sends to your helicopter as well as it's refueling duties.
+
+
+                            o-------------o
+                            | WHAT IS IT? |
+                            o-------------o
+
+The Aircraft Carrier is your base of operations for the "Raid On Bungeling
+Bay".  It has numerous purposes, so you should protect it at all costs.
+
+
+                          o------------------o
+                          | WHAT DOES IT DO? |
+                          o------------------o
+
+It's most important duty is restocking your bomb supply and repairing all
+damage received while flying your bombing runs on the enemies weapon 
+factories, but it also sends you data such as bombs remaining and damage
+ratings on your helicopter.
+
+The "D" represents damage, and the triple digit number beside the "D" is 
+the rating of damage you have sustained.  You can continue to fly safely 
+until that number enter the triple digit area (100 or over), at which point
+you will enter a tail-spin.  
+
+The "B" represents bombs remaining, and it will show a maximum of 9 at any 
+time.  The "F" represents factories remaining, which are your primary target
+to attack by using your bombs to disable and destroy them.
+
+The Arrow pointer shows which direction is the shortest path to your 
+Aircraft Carrier.  Use this to get back there whenever you need to.
+
+To achieve this restock and repair, you must land on the Aircraft Carrier as
+it forges forward between the enemies islands.  Come in slow (almost at a 
+near stop), press the A Button to land, and when the damage and bomb 
+information they send you has been reset to pre-flight conditions (000 
+damage and 9 bombs), press the A Button to take to the skies once more.
+
+
+                o-------------------------------------o
+                | IS THE AIRCRAFT CARRIER INVINCIBLE? |
+                o-------------------------------------o
+
+No, it is most vulnerable as it has only one defense, your helicopter 
+piloting skills.  Read the "Alert!" section for specific details on how to
+best defend your ship of origin.
+
+----------------------------------------------------------------------------
+---------------------------------Enemies------------------------------------
+----------------------------------------------------------------------------
+
+4) This section will review the behaviours of the enemy units, their damage
+   dealing abilities, and the points received for killing them.
+
+
+                            o--------------o
+                            | PATROL BOATS |
+                            o--------------o
+
+These guys are just watching for your helicopter so they can raise the Jet
+Fighters to come to their aid out over the water.  They have low grade 
+anti-aircraft shots that do 1 damage per successful hit.  Their projectiles 
+are invisible, so dodging them on purpose is not possible.  These beings will
+also keep an eye out for your Aircraft Carrier, and they will report the 
+location to the Jet Fighters.
+
+
+                       o------------------------o
+                       | RADAR SATELLITE DISHES |
+                       o------------------------o
+
+These installations have on purpose: to alert Jet Fighters to scramble when
+you are spotted on radar.  They do not fire any projectiles, so they can not
+damage you, and even if they are destroyed, they will be rebuilt rather 
+quickly by the enemy (in the same area too, so try to avoid them).
+
+
+                                o------o
+                                | TANK |
+                                o------o
+
+A red tank will often patrol the island, waiting for your helicopter to 
+attempt to attack the installations there.  It does not shoot visible 
+projectiles, so purposeful dodging is not an option, and it deals about 2
+damage points her shot landed.
+
+
+                           o----------------o
+                           | DEFENSE CANNON |
+                           o----------------o
+
+A powerful turret that can shoot in all directions, on almost every island 
+in the area.  They tend to be more concentrated on the shores of islands (as
+first defense) and around weapons factories (they will be grouped in twos 
+for extra safety).  They will fire combustible shells at your helicopter, 
+that explode after a certain amount of time away from the cannon.  If your
+helicopter is caught in this explosion, your helicopter will receive around 
+30 points of damage!  They are far less accurate the higher your rate of 
+speed, so just fly around them as you pick them off.
+
+
+                            o-------------o
+                            | JET FIGHTER |
+                            o-------------o
+
+These guys will not be involved in the fight until your helicopter has been
+positively identified by their defense network,  They will then take off on 
+the runways of the island under siege, which means you can try and pick them
+off then.  Once they are in the air, they will fly fast routes trying to 
+sneak into attack your helicopter with massive missile blasts.  When these
+connect, you will receive about 30 damage points per hit.
+
+----------------------------------------------------------------------------
+------------------------------Island Bases----------------------------------
+----------------------------------------------------------------------------
+
+5) This section will discuss the bases defenses, their toughness, and how 
+   many bombs are required to take a base out of commission.
+
+
+                         o--------------------o
+                         | PERIMETER DEFENSES |
+                         o--------------------o
+
+These will have a few Patrol Boats and Radar Satellite Dishes for you to try 
+and destroy/sneak past as you go to find weapon factories.  You may also see
+some Defense Cannons on the shores to trying to shoot your whirly bird down.
+It is best to try and find a more secluded path to the factories, so appraoch
+cautiously.
+
+
+                         o--------------------o
+                         | SECONDARY DEFENSES |
+                         o--------------------o
+
+Tanks and Defense Cannons form the next line of defense as these guys will
+relentlessly fire at you.  Take care of them quickly and find your target
+with great speed or you have to face...
+
+ 
+                        o---------------------o
+                        | SCRAMBLING DEFENSES |
+                        o---------------------o
+
+These are made up of Jet Fighters who will relentlessly swoop in to try and
+knock you out of the sky.  keep in mind that they can be grounded by shooting
+the planes on the runway before they can get airbourne and become a threat.  
+All of this is to defend...  
+
+
+                         o-------------------o
+                         | WEAPONS FACTORIES |
+                         o-------------------o
+
+Position yourself over the factory when the enemy noise is minimal, and drop
+your bomb payload to knock that factory out.  If you run out of bombs, go
+back to your Aircraft Carrier to get more and return to finish the job.  
+Keep in mind that the Bombs are more effective if spread out a little bit 
+over the entire factory as opposed to just bombing one section of it 
+repeatedly (you know you are close to victory when the lights shut off in 
+the factory cause you knocked out the electricity!).
+
+----------------------------------------------------------------------------
+---------------------------------Alert!-------------------------------------
+----------------------------------------------------------------------------
+
+6) This section will give some procedures to follow when this potentially
+   disastrous event begins.  
+
+
+                        o---------------------o
+                        | WHAT IS THAT NOISE? |
+                        o---------------------o
+
+That noise is your Aircraft Carrier calling you back to base as it is under
+bombing runs by Jet Fighters!
+
+
+                        o---------------------o
+                        | HOW DO I GET THERE? |
+                        o---------------------o
+
+Use the Arrow pointer to home in on your Aircraft Carrier's location.  
+Whichever direction the arrow is pointing is the direction you must go to
+find your Aircraft Carrier.
+
+
+                      o-------------------------o
+                      | HOW SHOULD I DEFEND IT? |
+                      o-------------------------o
+
+The best way to defend it is to first start flying a slower speed as you
+wait for a Jet Fighter to attack, at which point you should give chase at 
+full speed to destroy it.  Then return to do the same to the rest of the 
+attackers.  You may also wish to hover over your Aircraft Carrier as you 
+fire bullets as you turn to fend off approaching fighters.
+
+
+           o----------------------------------------------o
+           | WHY SHOULD I CARE ABOUT MY AIRCRAFT CARRIER? |
+           o----------------------------------------------o
+
+besides the fact it is your ally and piece of hardware, it is your home 
+base from which you fly your missions.  If you lose your Aircraft Carrier,
+you will have nowhere to repair damage OR refill your bomb suuplies (thus 
+making your missions impossible to complete!).  Definitely make sure to save
+it.
+
+----------------------------------------------------------------------------
+-------------------------------Strategies-----------------------------------
+----------------------------------------------------------------------------
+
+7) This section will give you a few combat strategies to use so you will 
+   succeed in your endeavours.
+
+
+a) Kill all Patrol Boats and Radar Satellite Dishes you see.  This may be 
+   annoying, but if you knock out their spyware, their ability to bring 
+   masses of Fighter Jets down on your helicopter and Aircraft Carrier.
+
+b) If you have been discovered by the watcher enemies (Patrol Boats and 
+   Radar Satellite Dishes), try to find the runway on the island.  If you do 
+   so before any Jet Fighters are airbourne, look for them attempting to 
+   take off.  This is when you should blast them as they are moving slow and
+   they can not fire at you.
+
+c) Destroy all the Defense Turrets you can as you find Weapons Factories.  
+   This will not only make your approach safer, but it will also make 
+   stopping over the factories that much easier and safer.
+
+d) Hovering directly over the Weapons Factories is the best way to assure 
+   your bombs of making connection with every single one.
+
+e) After bombing a factory, always make it a point to immediately return to
+   the Aircraft Carrier because you will not have enough bombs left to 
+   destroy another factory without re-supplying anyway.    
+
+----------------------------------------------------------------------------
+-------------------------------Final Word-----------------------------------
+----------------------------------------------------------------------------
+
+8) As is the usual, this walkthrough is copyright property of Brian P. 
+   Sulpher, 2004.  The only website, group, person, etc. to have access to
+   post it is www.gamefaqs.com, www.ign.com, www.retronintendo.com, and 
+   www.honestgamers.com.  You must ask for permission before posting this, 
+   as doing so without consent is a violation of international copyright 
+   law.
+
+   If you liked it, hated it, have anything to add, then please E-mail me at
+   briansulpher@hotmail.com.  You can also contact me through MSN messenger
+   through the same E-mail address.
+
+   A fun little game that may be a little poor graphically, but definitely a 
+   game not lacking in coolness for design.  A fun one to play for a bit, 
+   and I hope that this FAQ comes in handy for whoever might need some help
+   with maximizing your fun in the gaming experience.

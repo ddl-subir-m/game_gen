@@ -1,0 +1,508 @@
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+       -~- 1. Introduction -~-                                       [1000]
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Space Harrier is an amazing arcade game released on the SMS along with many 
+other systems. Years after it was released, a 3D version was even made for the
+Sony PS2. For me, Space Harrier was one of the funnest arcade games I've ever
+played. Fast-paced and intense, I loved it. 
+
+This guide should hopefully provide a good overview of the game along with
+giving hints and tips to help your struggle through the Fantasy Zone. This FAQ
+is made only for the SMS version of Space Harrier. 
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+       -~- 2. FAQ -~-                                                [2000]
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
++-----------------------------------------------------------------------------+
+  
+        [Q] Why does my character keep tripping?
+
+        [A] You're stepping over bushes. If you trip over a bush, you are
+            vulnerable to enemy fire.
+
++-----------------------------------------------------------------------------+
+
+        [Q] Why does it go back to Moot after I clear Stage 13?
+
+        [A] Well, technically you beat the game. However, you go straight back
+            to Moot once Stage 13 is cleared.         
+
+
++-----------------------------------------------------------------------------+
+
+        [Q] What exactly is this game's story?
+
+        [A] Wait on the opening screen for a bit. After some demos, the game's
+            story should appear. 
+
++-----------------------------------------------------------------------------+
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+       -~- 3. Controls -~-                                           [3000]
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+                                      #
+                                      ##
+                 ______________________#_____________
+                |    _____                           |
+                |  .'     `.                         |
+                | |  \ | /  |            _     _     |
+                | | -  O  - |          .' `. .' `.   |
+                | |  / | \  |          `._,' `._,'--------- 2 Button  
+                |  `._____.'             |           |
+                |______|_________________|___________|
+                       |                 |--- 1/Start Button
+                       |---- Control Pad
+
+Control Pad ~
+-----------
+     ~ Moves the player around the screen. 
+
+Start Button ~
+------------
+     ~ Start the game. 
+     ~ Fire weapon. 
+
+2 Button ~
+--------
+     ~ Start the game.
+     ~ Fire weapon. 
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+       -~- 4. Game Interface -~-                                     [4000]
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Below is a rough ASCII diagram of what the game interface is presented as. 
+Read the notes below it to see what each portion of the screen is. 
+
+    ,=====================================================================.
+    `====================================================================='
+     | TOP     1 0 0 0 0 0 0 [1]          SCORE     1 0 0 0 0 0 0 [2]    |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |           O                                                       |
+     |         <=|>  [5]                                                 |
+     |          / \                                                      |
+     |          ` '                                                      |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |-------------------------------------------------------------------|
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     |                                                                   |
+     | * * [3]                                             STAGE    4 [4]|
+     |                                                                   |
+    ,=====================================================================.
+    `====================================================================='
+ 
+     [1] This represents the top score or also known as the high score. 
+         Try for this number when playing.
+     [2] This represents your current score. The score meter will always
+         be going up, but can be boosted by destroying enemies.
+     [3] These icons represent how many lives you currently have. Getting
+         hit will relieve you of one. 
+     [4] This number represents what stage you currently are on. You can
+         tell when you enter a new stage as the words flash across the 
+         screen.
+     [5] This represents Harrier or the person you are controlling. Move
+         around and avoid enemy fire. 
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+       -~- 5. Walkthrough -~-                                        [5000]
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.1. Moot                     [5100]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship, Blue Orb
+                    Obstacles: Various Foliage
+                    Boss: Dragon
+
+The first level is very easy. However, you'll want to watch out for fast-
+moving enemies along with trees. If you hit a tree, you're as good as dead. 
+Watch out for the lines that the Battle Ships move toward you in. Occasionally,
+three Blue Orbs will appear on-screen. You cannot affect them while they are
+in their protected state. However, you can hit them when they open up to 
+shoot you. Move quickly before their mouth closes again. 
+
+The boss is very easy. When he starts moving in, avoid his blaze weaving 
+around the edge of the screen. After he gets close enough to you, he'll turn
+around leaving his rear end vulnerable. Send a bunch of shots into his rump
+and damage him. When the Dragon turns reddish, he is on the brink of death.
+Finish him off. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.2. Geeza                    [5200]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship, Lion, Green Bat
+                    Obstacles: Steel Pillars, Various
+                               Foliage
+                    Boss: Lion Wall
+
+The second stage is very difficult. First off, you still have to dodge foliage.
+You'll be meeting some flying Green Battle Ships and Green Bats. Along with
+that, Lions on the ground will race toward you. At the apex of their movement,
+they will jump up. Blast them out of the way before they hit you. Not too far
+into the level, you'll find some Steel Pillars of doom. Avoid these at all 
+costs. They cannot be destroyed. At a few points in this stage, the Lions will
+arrange themselves in fours. They act like the Blue Orbs of the previous stage
+except they can be destroyed even when not firing.
+
+The boss is not that difficult. Move around a lot or else you'll hit the Lion 
+Wall. You don't actually have to defeat it however. Just clear the Lions that
+get in your way. Try not to actually destroy the entire thing though or you'll
+be smothered by it. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.3. Amar                     [5300]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Jellyfish, Battle Ship, Flying
+                             Frog
+                    Obstacles: Tree Pillars, Various Foliage
+                    Boss: Two-Headed Snake
+
+Amar is a pretty lively level. Among the colorful mushrooms on the ground will
+be jellyfish flying through the air. You'll want to watch out for them as they
+move in pretty quickly. They won't shoot at you so there's no worrying about
+that. However, they move in extravagant pattersn which can become pretty 
+difficult to avoid. A few seconds into the level, you'll be seeing some Tree
+Pillars which are in destructable. They are similar to the Steel Pillars of 
+the last level except they appear in much less numbers. You'll need to move 
+around a lot in this level if you want to pass it.
+
+The boss in this levle is very similar to the boss you fought in the Moot 
+stage. However, the Two-Headed Snake obviously has two heads. With two heads,
+it will blast two different lines of fire at you. Stay along the corners of
+the screen and take a shot at the boss whenever you can. Like the first boss,
+the Two-Headed Snake will turn around leaving its rear end vulnerable. Take
+full advantage of that instance and blast its rear end. You will have to 
+destroy each head separately. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.4. Ceiciel                  [5400]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship
+                    Obstacles: Purple Pillars, Crystal Orb
+                    Boss: Battle Mechs
+
+This level is difficult and it isn't because of enemies. Right at the start,
+the ceiling goes down and limits your field extensively (although you can 
+still fly around). Purple Pillars will appear to mess with you. Likewise, some
+Crystal Orbs will appear on the ceiling. Both of these cannot be destroyed.
+During this portion of the level, focus on dodging the obstacles without 
+paying much attention to the few enemies. They won't be able to hurt you much
+anyway as long as you keep moving. 
+
+Eventually, the obstacles will clear out a little bit and you'll be back in
+the open. Now some Battle Mechs will begin to engage you. These guys move 
+really fast and their projectile weapon is difficult to avoid. Move around 
+through the screen to avoid most of them. If you don't destroy them quickly
+enough, they can run into you. This boss can be a bit difficult. However, you
+will be seeing these guys later. Occasionally, they might try to go kamikaze
+on you. Make sure they do not do this. 
+
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.5. Bonus Stage              [5500]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+A friendly inhabitant of Dragon Land has decided to aid you in your quest. 
+The idea here is to crash into as many trees as you can. Control the white
+behemoth through the field. At the end, the amount of trees you knock down is 
+multiplied by 50,000 which can result in quite a few points. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.6. Olisis                   [5600]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Mech, Missile Jet, 
+                    Obstacles: Tower Pillars, Various 
+                               Foliage
+                    Boss: Blue Shapes
+
+Once more, you enter another area full of enemies. The Tower Pillars scattered
+throughout can be avoided if you stick along the top of the screen. However, 
+Missile Jets will fly in pretty quickly and attempt to knock you down. If you
+sweep back and forth, you can avoid these projectiles barely. On the ground,
+Battle Mechs will also fire at you. Do your best to stay up in the air. 
+
+Eventually, you'll be greeted by a few peanut-shaped Blue Shapes. This has 
+probably got to be the easiest boss yet. Circle the screen flying around in a
+clockwise motion. Continually shoot at the center shape. They will attempt to
+shoot at you, but their shots are easily avoided. That's that for the boss.
+Onto the next stage. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.7. Lucasia                  [5700]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Elephantine, Green Battle Ship
+                    Obstacles: N/A
+                    Boss: Triangle Squad
+
+This stage is a very easy stage to get through. There are no obstacles so
+you don't have to worry about constantly moving out of their way. The best 
+strategy for this level would be to simply move your character around the edge
+of the screen shooting constantly. The Elephantine on the ground are easy to
+destroy and avoid. The only real enemies you'll be fighting will be a few 
+Green Battle Ships.
+
+The boss is also easy. Like the previous level, the boss here involves some
+random shape. The Triangle Squad will position themselves in a circle and 
+shoot at you. Move circularly along with them to avoid their fire. Keep your
+trigger finger down and kick their behinds. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.8. Ida                      [5800]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship, Lion, Brown Orb
+                    Obstacles: Steel Pillars
+                    Boss: Blue Cloud
+
+Ida brings back a bunch of old enemies from past levels. The Lions remake 
+their appearance. Most of the level is Lion stampedes that you should blast
+out of your way. Brown Orbs act just the same as Blue Orbs except they shoot
+three blasts with each opening of their eye. Watch out for that along with the
+various Steel Pillars rushing straight at you. 
+
+The boss is difficult in this stage. It starts out as a group of six clouds 
+with the main one in the middle. You'll have to destroy the surrounding clouds
+before you can affect the boss. The boss will make its pass and even when it
+turns back around, it will still be able to shoot you. Avoid getting hit and
+you should survive. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.9. Revi                     [5900]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship, Battle Mech
+                    Obstacles: Purple Pillars, Crystal Orb
+                    Boss: Ultra Mech
+
+This stage is difficult because you are moving so fast, it's almost impossible
+to dodge the obstacles. There will be a wave of a few Battle Ships here and
+there, but avoiding the obstacles will be the hardest part. Try to stay up
+along the top of the screen when the Crystal Orbs converge toward the bottom
+and vice-versa when they are on the top.
+
+The boss is easy for such a hard level. After a few waves of Battle Mechs, the
+special Ultra Mech will appear. Just avoid his rain of fire and shoot him
+out of the way into the next level. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.10. Minia                   [5010]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship, Jellyfish
+                    Obstacles: Tree Pillars, Various Foliage
+                    Boss: Purple Orbs
+
+In comparison to the previous level, Minia is actually pretty easy. You won't
+be moving as fast so the various Tree Pillars won't be difficult to avoid.
+However, Battle Ships will still appear in their wacky formations to shoot you
+down. At certain points in the level, Jellyfish will just fly in out of 
+nowhere. This is your cue to move around like crazy. 
+
+The boss is fairly easy although the Purple Orbs do have a rapid rate of fire.
+Circle them clockwise hitting them with your weapon fire. Don't let their 
+shots hit you and you should be fine. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.11. Parms                   [5011]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Mech
+                    Obstacles: Ice Pillars, Various Foliage
+                    Boss: Two-Headed Stone Dragon
+
+The enemies here consist of Battle Mechs so this stage will be somewhat 
+difficult. Luckily, the obstacles won't get in your way too much if at all.
+There will be Ice Pillar Walls along one side of the screen so make sure you
+don't accidentally run into them. Fly around the edge of the screens to avoid
+the Battle Mech fire. They shoot fast but if you have enough spunk (I love that
+word), you'll break through.
+
+The boss, luckily, is easy. It's basically a Two-Headed Stone Dragon similar
+to the Two-Headed Snake you fought a while ago. Sweep along the edge of the
+screen while shooting away. Avoid its fiery breath. You'll have to destroy
+both heads to defeat it. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.12. Bonus Stage             [5012]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+You know what to do here. Hit as many obstacles as you can and your score will
+skyrocket itself. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.13. Drail                   [5013]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Mech, Missile Jet
+                    Obstacles: Tower Pillars
+                    Boss: Central Core
+
+This stage is fairly simple to get through unscathed. Battle Mechs and
+Missile Jets make up the main enemy force. If you move along the edges of the
+screen, you should be able to avoid most or all enemy fire. By now, you should
+already be capable of taking down Battle Mechs as they come. Avoid the Tower
+Pillars.
+
+The boss is simple. Move in a clockwise pattern to avoid its fire. Converge
+your fire upon the Central Core. If you know what you're doing, none of its
+shots will hit you whatsoever. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.14. Asute                   [5014]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship
+                    Obstacles: Purple Pillars, Crystal Orb
+                    Boss: Jellyfish Head
+
+This is probably the hardest level yet. Asute takes the same format as Revi
+by limiting your area. This time, you are going super-fast so avoiding them
+will be a bit harder. The key to this stage is knowing that the less you move,
+the less you'll be hit. Try to stay in the center moving only when a Purple
+Pillar is going dead-center right into you. The Crystal Orbs should be a key
+as to where you should fly whether it be the top or bottom. Try to ignore the
+Battle Ships for the most part. 
+
+The boss is similar to the Blue Cloud boss you fought previously. Protected
+by five Jellyfish, the Jellyfish Head will attack you with some defense. 
+Lucky for you, the Jellyfish are easily defeated. Once you reveal the inner
+body, just shoot it down to destroy it. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.15. Vicel                   [5015]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Ship, Blue Orb, Battle
+                             Mech, Lion
+                    Obstacles: Steel Pillars, Power Grid,
+                               Various Foliage
+                    Boss: Stone Dragon
+
+Without a doubt, this stage holds many different types of enemies. You'll be
+meeting a squad of Blue Orbs at first. Defeating them might prove a bit 
+difficult as Steel Pillars line the ground. Eventually, they will be replaced
+by indestructable Power Grids which work as barracades. Don't run into them 
+or you'll die of course.
+
+Defeating this boss requires a tactic that you've been using since the first
+level. Just fly around the screen and wait for the Stone Dragon to make his
+passes. When he turns around, unleash a wave of fire on his butt. Fry him and
+advance. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.16. Natura                  [5016]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Battle Mech
+                    Obstacles: Various Foliage
+                    Boss: White Battle Mechs
+
+This is a very hectic level although it's fairly short. Battle Mechs will
+continuously appear in groups of two or three. These variants are much more
+dangerous and shoot much faster. Fly around often to hopefully stray some 
+shots away from you. 
+
+The boss is pretty easy to defeat. Basically, you have a giant Battle Mech
+generator. Just destroy the Battle Mechs as they come and you'll be fine
+at the moment. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.17. Nark                    [5017]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: Lion, Battle Ship, Battle Mech
+                    Obstacles: Purple Pillars, Crystal Orb,
+                               Tower Pillars, Various
+                               Foliage
+                    Boss: Crystal Glob
+
+This level is fairly difficult. It begins with a bunch of Purple Pillars and
+Crystal Orbs all over the place. Lions will appear and rotate in a clockwise
+motion. This portion of the level can be hard as you don't have much room to
+maneuver. Throughout the level, you'll be meeting Battle Mechs and various
+Battle Ships. 
+
+The boss of this level looks intimidating. However, it is really pretty easy.
+The boss himself is surrounded by a gigantic blob. Foliage will be thrown at
+you constantly and the two cat-like creatures on his sides will shoot at you.
+Destroy the Crystal Blob first and then concentrate your fire on the figure in
+the middle to destroy him. 
+
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                      5.18. Absymbel                [5018]
+                    -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+                    Enemies: N/A
+                    Obstacles: N/A
+                    Boss: Two-Headed Snake, Jellyfish Head, Dragon, Lion
+                          Head, Two-Headed Stone Dragon, Fire Snakes
+
+The final fight is an array of bosses. The first to appear is the Two-Headed
+Snake. Use the same strategy as before and blast him out of the way. Once he
+is down, you'll fight the Jellyfish Head who is the same as before. Clear the
+Jellyfish away from him and then focus fire on his head. Third, you'll fight
+the Dragon of the first level. Wait for him to make his pass while at the 
+same time, pounding his butt with weapon fire. After he's down, a whole new
+boss will appear. Defeat the Lion Head much like you defeated the Jellyfish
+Head. Beware as the Lions will charge you at the end. 
+
+Afterwards, the Two-Headed Stone Dragon will come in to do some damage. Move
+around and shoot down one head. Then concentrate on the other head to destroy
+it. The next monster appearing is the Blue Cloud. Destroy the blue clouds 
+surrounding the head. Afterwards, destroy the head. The boss after the Blue
+Cloud is the Stone Dragon you fought before. In the distance, you can
+probably make out the shape of the palace. 
+
+With the defeat of the Stone Dragon, the palace will crumble and you will
+be thrust into another battle. The best course of action with this fiery boss
+is circling the screen going clockwise. The fireballs they send in your 
+direction can be difficult to pinpoint. Aim for the heads of both Fire
+Snakes. Destroy both snakes to end them. Whew. 
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+       -~- 6. Hints & Tips -~-                                       [6000]
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+  ===========================================================================
+   ~ Space Harrier is a very fast-paced game. Therefore, you'll have to keep
+     moving if you want to avoid enemy fire. Try to have Harrier move around
+     the screen in circles or X-patterns to hopefully save yourself.
+
+   ~ Keep firing even when there aren't enemies on-screen. They come in big
+     numbers so having a quick trigger finger helps a lot.
+ 
+   ~ Observe the situation and choose whether to run on the ground or hover
+     in the air. Sometimes, enemies come flying through the air. To avoid
+     them, stick closer to the ground. Other times when fighting mech-like
+     creatures or bosses, it's best to hover above and rain fire from 
+     there.
+ 
+   ~ Watch enemy shots. Their shots are very large and easy to notice. Do
+     your best to fly away from enemy fire. 
+
+   ~ Although you should be moving at all times, don't move right into
+     enemy fire. That's just common sense. 
+  ============================================

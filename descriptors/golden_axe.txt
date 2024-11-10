@@ -1,0 +1,466 @@
+---
+1.) What is Golden Axe?
+---
+
+A two-player medieval hack-and-slash combat game. You control one of three 
+characters, and have to journey through 6-8 levels slicing enemies up. It 
+became popular in the arcades, and was one of the first Sega Genesis games to 
+be released. It's vastly similar to another early Genesis relase, Streets of 
+Rage. It was availible in three forms: 
+1.) A stand-alone cartridge.
+2.) As part of Mega Games 2, an early Genesis pack-in.
+3.) As part of Mega 6, a later Genesis pack-in.
+
+(Sega Genesis consoles can still be bought with the Mega 6 pack-in in Europe, 
+under the name Sega Megadrive, and  you'll still find second hand Mega Games 
+2, Mega 6 and Golden Axe cartridges all over the world).
+It spawned a sequel, called (predictably) Golden Axe 2, and a Master System 
+version.
+
+---
+2.)The Characters, and their attacks.
+---
+
+You can control one of three characters. All are similar, and no character 
+has a physical advantage over another. 
+The characters could be counted as the game's difficulty setting, as Tyris 
+Flare (red) is easier to use, Ax-Battler (blue) is quite hard to use and 
+Gillius Thunderhead (green) is somewhere in the middle. Each character has 
+roughly the same attacks.
+
+Performing The Attacks:
+
+Weapon Combo: keep tapping B at close range.
+Jump-Slice: C, then B in midair.
+Run: tap twice in the direction you are facing. You 
+cannot run Up or Down.
+Flying Attack: press B while running.
+Death-Jab: while running, perform a Jump-Slice.
+Show-off skill: B and C together.
+
+Description:
+Weapon Combo: close range hacking. Has various stages of effectivness: at 
+long range, will jab at the enemy, at medium range, will kick the enemy, at 
+short range, will throw the enemy.
+Jump-Slice: a straight slash down the front of the enemy.
+Run: useful for getaways.
+Flying Attack: one of the most widely used attacks, and mandatory for the 
+Two-Combo rule (see below).
+Death-Jab: instant death to weaker enemies, severe damage to stronger ones. 
+They tend to dodge away, though.
+Show-off skill: A powerful attack but very tricky to pull off, so many 
+players just use it to 'show off' their playing skill.
+
+Flying Attacks:
+Ax-Battler: an inaccurate shoulder barge.
+Gillius Thunderhead: a more reliable headbutt.
+Tyris Flare: a flying kick, almost never misses.
+
+---
+4.) Two Player Mode.
+---
+
+To get into this mode, press Start on the second control pad while on the 
+main title screen (not the game select screen). The levels are exactly 
+the same as One Player mode (you can also play Beginner mode), but having two 
+players makes them easier. Both players cannot choose the same character, and 
+although each of you have different magic bars, the amount of magic that you 
+can steal from Thieves stays the same, so it must be shared. And one more 
+thing: you can attackand kill the other player, so try not to get in the way 
+of their attacks. Duel mode is also playable: each player selects one 
+character and you battle in the style of conventional fighting games.
+
+---
+5.) The Enemies, and their attacks.
+---
+
+There are only seven main types of enemy, but they are colored differently to 
+indicate strength. The values beside the attacks indicate how many life 
+blocks are removed by them, and the letters beside the colors indicate the 
+strength and speed of the enemy (this may change their attack values).
+
+(Attack Level,Move Level)
+
+Heninger:
+This enemy uses a mace.
+Colors:
+Silver (D,C), Purple (D,C), Green(C,C) Red (A,B), Gold (C,B), 
+Dark (B,B), Bronze(B,C).
+Attacks:
+Weapon Combo (1/2)
+Flying Attack (1/2)
+Notes: Bear in mind that if you are in the vicinity of a Flying Attack, it 
+cannot be blocked in any physical way. Magic will stop it, but that is 
+inadvisable as you waste all the magic that you have.
+
+Longmoan:
+This enemy uses a spiked club.
+Colors:
+Silver (D,C), Purple (D,C), Green (C,C), Red (A,B), Gold (C, B), Dark (B,B), 
+Bronze (B,C).
+Attacks:
+Weapon Combo (1/2)
+Flying Attack (1/2)
+Notes: The Longmoan's Flying Attack can be blocked, but only by your own 
+flying attack.
+
+Amazon Women:
+They all use a one-edged axe.
+Colors:
+Purple (Storchinaya, B,C), Green (Strobaya, B,B), Red (Lemonaya, A,A), Dark
+(Gruziya, A,B).
+Attacks:
+Weapon Combo (1/2)
+Flying Attack (1/2)
+Notes: Flying Attacks can't be blocked.
+
+Skeleton:
+Uses a scimitar.
+Colors:
+White (B,B), Purple (Duel only, A,A).
+Attacks:
+Weapon Combo (1)
+Jump-Slice (1/2)
+Flying Attack (1/2)
+Death-Jab (2)
+Notes: The only enemy capable of using the Death-Jab skill. You can easily
+avoid it. Flying Attacks can be blocked. Cannot use Creatures.
+
+The following all appear as bosses or other big enemies.
+
+Bad Brothers, Sgt. Malt and Sgt. Hop, Gen. Heartland.
+These guys are dangerous. They use giant hammers.
+Colors:
+Green (Level 1, C,C), Silver (Level 3, B,C), Red (Level 6, A,C).
+Attacks:
+Hammerblow (2)
+Kick (1)
+Flying Attack (1/2)
+Notes: Cannot use Creatures (too heavy?). Flying Attacks can be blocked.
+
+Lt. Bitter, Col. Bitter, Gen. Bitter.
+Even more dangerous. They use giant swords!
+Colors:
+Silver (Level 3, A,B), Red (Level 5, A,A), Gold (Level 7, Genesis only, A,
+A).
+Attacks:
+Shield Strike (1)
+Sword Slash (1)
+Notes: Incapable of running due to heavy armor.
+
+Death Adder Jr. (A,B)
+Easier and weaker than Death Adder, he takes the place of Lt. Bitter at the
+end of Stage 3 in the Beginner game.
+Attacks:
+Axe-Slash (1)
+Electric Spark (1)
+Notes: No running attacks.
+
+Death Adder: (A,B)
+The boss of Level 6.
+Attacks: 
+Axe-Slash (1)
+Electric Spark (2)
+Notes: To stop the Electric Spark, just attack him. No running attacks.
+
+Death Bringer: (A,A)
+The final boss.
+Attacks:
+Axe-Slash (1)
+Multiple Electric Sparks (2 per spark)
+Dragon Rage (3)
+Anger Of The Land (2)
+Thunderbolt (2)
+Notes: This guy is capable of using your own magic against you! He'll cast a
+spell when he knocks you down with either of his other two skills. At the
+start, he'll use Gillius Thunderhead's Thunderbolt magic, when he's sustained
+a fair amount of damage he'll use Ax-Battler's Anger Of The Land, when he's
+almost dead he'll use Tyris Flare's Dragon Rage.
+
+---
+6.) The Two-Combo Rule (TCR)
+---
+
+This term is what I use to describe the trick used when there are more than
+one enemy on screen. If you try and enter into a Weapon Combo with one enemy,
+the others will see you as fair game and attack you. In two player mode, you
+can use the TCR as well! Combating the rule is quite simple. Refrain from
+Weapon Combos altogether (unless there is only one enemy on screen, or two
+enemies are on the same section of the screen), and instead try using flying
+attacks on enemies: while one is floored, attack the other, then as the first
+one gets up, attack him again. Then repeat with the second.
+
+---
+7.) Magic and Thieves.
+---
+
+In times of great need, you may use special powers known as magic to severely
+damage all enemies on screen. Magic comes in varying levels of strength, and
+is contained in pots that are carried by creatures known as Thieves (because
+they steal magic from sleeping travelers).You'll come across them running
+around the levels. To get the magic that is in their sack, attack them and
+they'll drop one pot. You start Level 1 with one pot of magic. After each
+level, the bonus round appears. Thieves steal some of your magic pots, and
+you must win them all back, plus interest! This is also the only place you'll
+find green Thieves, who carry meat that restores one life bar.
+
+Magic Guide:
+
+All of the names were made up by me, so you might see a few names that are
+used by other games, like Final Fantasy 7 and Pokemon. It's a homage thing.
+
+Gillius Thunderhead:
+The little dwarf uses Lightning Magic that's easy to build up, but not as
+powerful as the other two magics.
+
+Stage One: Thunder Wave:
+A bolt of lightning covers Gillius as waves of electricity move out to hit
+the enemies (similar to Death Adder's Electric Spark power).
+
+Stage Two: Thunderbolt :
+Two bolts of lightning move across the screen twice.
+(Death Bringer uses this skill).
+
+Stage Three: Electrocute: 
+Multiple bolts of lightning strike every enemy on screen, causing heavy
+damage.
+
+Ax-Battler:
+He uses Earth Magic, which has more levels than Lightning and is subsequently
+more powerful.
+
+Stage One: Tremor:
+The earth shakes a little, and lots of miniature nuclear explosions take
+place.
+
+Stage Two: Earthshaker:
+The earth shakes some more, and larger nuclear explosions appear.
+
+Stage Three: Quake:
+A lot of shaking goes on, and it looks like comets are hitting the earth.
+
+Stage Four: Anger of the Land: 
+A large nuclear explosion throws out lots of big rocks.
+(Death Bringer uses this skill).
+                             
+Tyris Flare:
+The tough girl uses powerful Fire magic that is more powerful than the other
+two, but has many more levels.
+
+Stage One: Ember:
+Small fires fly around the screen, burning all enemies.
+
+Stage Two: Lava Flow:
+Small-ish lava mountains erupt on the screen.
+
+Stage Three: Flame Demons: 
+Small fiery demons circle around the screen, then a larger demon flies across
+it.
+
+Stage Four: Great Balls O' Fire:
+Large flaming rocks move across the screen.                    
+
+Stage Five: Volcanic Panic:
+A volcano appears on the screen and fireballs erupt from it.
+
+Stage Six: Dragon Rage:
+My personal favorite and the best magic skill. A dragon appears and toasts
+everyone with it's fiery breath.
+(Death Bringer uses this skill).
+
+---
+8.) Creatures.
+---
+
+On your epic journey, you will encounter creatures that will help your quest.
+Most of them will be  'already taken' by enemies, but you can reserve your
+place by kicking them off it (note that they will not recieve any damage when
+you do this, but you do if they decide they want your creature!) If they get
+ridden on more than three times, they'll run away. Creatures have a special
+attack and some other skills.
+
+Special Skill: use the B Button.
+Run:  tap twice in the direction you are facing. You cannot run Up or Down.
+Flying Attack: press B while running.
+
+The Death-Jab skill cannot be performed, although you can do a high jump.
+There are three creatures, each is unique.
+
+Chicken Leg:
+Special Skill: Wagging Tail.
+
+Blue Dragon:
+Special Skill: Breath of fire (like a smaller version of Tyris's Dragon Rage
+magic).
+
+Red Dragon:
+Special Skill: Fireball.
+
+Most smaller enemies can also use creatures, but not bosses or skeletons.
+
+---
+9.) The Walkthrough.
+---
+
+Finally, we're here. This is where I tell you how to actually complete the
+game, from start to finish.
+
+[a.) Level One: The Wilderness.]
+
+First up, a Silver Longmoan and Heninger. Then, a Purple pair, followed by a
+thief and another Silver Heninger and Purple Amazon riding a Chicken Leg. You
+can only get to the ledge from this point, so jump up and get the thief on
+it, then the thief below. Following the ledge come yet another Silver
+Longmoan and Heninger, then the boss.
+
+[Boss: Heniger Green (x2), Bad Brothers.]
+
+One Heninger will be riding a Chicken Leg, so take it if you lost the
+previous one. The Bad Brothers won't attack unless you attack them, or until
+the Heningers are dead. Once they start to attack, use the TCR.
+
+Bonus Level: Thief with two magic pots.
+Notes: With the Purple enemies, I think the programmers screwed up the
+colors, as they are not mentioned on the credits at all!
+
+[b.) Level Two: Turtle Village.]
+
+There is a pit on this level, and you can push enemies off it. But they can
+also push you off. You'll start with a Red Heninger, then a Red Longmoan.
+Work your way down and forward to meet a Red Longmoan and Heninger using the
+TCR. The next screen has a Silver Heninger, and a Purple Amazon riding a Blue
+Dragon. Hitch a ride (haha) and get the thief's pots, and then see the boss.
+
+[Boss: Heninger Silver, Strobaya (x2), Storchinaya (x2), Skeleton.]
+
+One Storchinaya will be riding a Red Dragon. This boss is just a case of
+beating all the enemies.
+
+Bonus Level: Green thief and thief with 2 pots.
+Notes: Again, they screwed up the colors on the Purple Amazon. And it is not
+possible to kill the villagers, no matter how hard you try.
+
+[c.) Level 3: The Mainland.]
+
+Another 'pit' level. This time you'll have to fight a Silver Longmoan and
+Heninger, with a Storchinaya on a Blue Dragon. Crossing the pit, fight two
+Strobayas and Sgt. Malt and Sgt. Hop. Get more pots and then there is a boss.
+
+Boss: Heninger Gold (x2), Longmoan Gold, Heninger Silver, Longmoan Silver, 
+Lt. Bitter.
+
+Defeat the Gold guys and then use your magic on Lt. Bitter. Finally, finish
+him off.
+
+Bonus Level: Thief (x2), one pot each, Green thief (x2).
+Notes: If you only go towards the D.E.B door a little, only one Sargeant will
+come out at a time.
+
+[d.) Level 4: Fiend's Path.]
+
+Just one pit at the start to worry about, it's at the edge of the wooden
+platform. Two Red Heningers and a Red Longmoan to deal with, then a Skeleton
+(logical question: how do you kill something already dead?) and finally two
+more Skeletons and a thief.
+
+[Boss: Heninger Dark (x2), Longmoan Dark (x3), Skeleton (x3).]
+
+First up, one Heninger and two Longmoan, then one Skeleton and one Heninger,
+rounding off with two Skeletons and one Longmoan.
+
+Bonus Level: (I promise it'll be in the next update.)
+Notes: This one was very short.
+
+[e.) Level 5: Palace Gates.]
+
+A very large pit at the end and the edge of the narrow platform, a good way
+for dealing with unwanted bones. Following them up, a Storchinaya on a Blue
+Dragon, then a Red Heninger and Longmoan, finishing with two more Red
+Heningers and a Red Longmoan.
+
+[Boss: Col. Bitter (x2).]
+
+Easily dealt with by the TCR, but they are potentially deadly at close range.
+Stun them with magic if you feel like it, but you really be saving it for
+Death Adder.
+
+Bonus Level: None.
+Notes: The pits are far too convenient in this level.
+
+[f.) Death Adder]
+
+Stock up on magic, then straight into a boss fight.
+
+Boss: Longmoan/Heninger Red, Gen. Heartland, Skeleton (x2), Death Adder.
+
+Defeat Heninger/Longmoan and Gen. Heartland, then throw your best magic at
+Death Adder. The skeletons should die instantly, and then just hammer away at
+DA using Flying Attack and Death-Jab (if you time it right).
+
+INTERLUDE: Saving the King and Princess.
+They'll automatically come down and say a few words,then they'll tell you to
+go into battle once more, for two more levels. These levels were not in the
+arcade version.
+
+[g.) Level 7: The Dungeon.]
+
+More pits than ever before. A lot of Dark enemies show up, as well as the
+mysterious Purple Heninger and Longmoan. Just throw them all down the pits,
+but try not to do the same with the thieves.
+
+[Boss: Heninger Bronze, Longmoan Bronze, Skeleton (x2), Gen. Bitter (x2).]
+
+Easiest boss fight of the entire game. Just kick them all down the pits!
+
+Bonus Level: None.
+Notes: Easiest level of the game.
+
+[h.) The Battle with...?]
+
+Boss: Death Bringer, Skeleton (x2).
+
+Deal with DB the same way as you did DA. The Skeletons are indestructable, so
+just avoid their attacks. See the enemy guide for more info on this boss's
+magic attacks.
+Once he's dead, the Skeletons mysteriously vanish, and his own axe falls into
+him.
+Congrats, you've completed the game, and can now see the credits, which go
+into great detail about the height and weight of the enemies. Fascinating.
+
+---
+9.) Beginner Mode.
+---
+
+The Beginner mode is simply the first three levels of the Arcade game, but
+with easier enemies. This was designed as a warm-up for players who need to
+practice their skills before attempting the full Arcade game
+Other things to note:
+
+-Magic only uses two pots.
+-No credits at the end of Level 3.
+-Death Adder Jr. replaces Lt. Bitter as the boss of Level 3.
+-No bonus levels or map.
+
+---
+10.) Duel Mode.
+---
+
+This can be played in one or two player modes. In 1P mode, the player battles
+with enemies in 12 rounds, with an extended life bar. In 2P mode, both
+players fight eachother. If you don't complete a fight before the timer runs
+out, your life will go down.
+
+1P Battling List:
+
+1.) Longmoan Silver on Chicken Leg
+2.) Heninger Green x2.
+3.) Heninger Silver on Red Dragon.
+4.) Skeleton (x2).
+5.) Longmoan Red (x2).
+6.) Storchinaya (x2) both on Red Dragons.
+7.) Heninger Dark (x2), Longmoan Dark.
+8.) Skeleton Purple (x2) (unique colors).
+9.) Bad Brothers.
+10.) Lt. Bitter.
+11.) Gen. Heartland (x2)
+12.) Gen. Bitter (x2)

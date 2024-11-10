@@ -1,0 +1,276 @@
+Paradroid 90 - Manual
+SCENARIO;
+It is the year 2390. A fleet of space freighters have been despatched to the
+frontier world of Basmyth in response to urgent calls for military assistance
+following attacks from the bordering trimorg empire. These freighters
+carry a skeleton crew by various droids, ranging from simple cleaning robots to
+complex cyborgs capable of piloting a ship.
+The freighters are carrying a cargo of battle and security droids to help in
+the defence of Basmyth. Three days ago, sub-space messages were received from
+two distress beacons launched from the fleet. The crew of the U.S.F Paradroid
+reported being scanned from an uncharted asteroid feild, moments before the
+droids in the cargo deck mysteriously activated themselves, minutes later the
+bridge was under attack from the battle droids, and the onboard complement of
+crew also became hyper active. The captain of the U.S.F Paradroid reported the
+bridge bulkhead doors had almost been breached and that the remaining human
+crew were unable to reach the shuttle bay to abandon ship.
+
+Since the message was sent three days ago, we can only fear the worst. It is
+assumed that the rogue droids have taken over the ship, possibly under alien
+control, and will be used against the free planets. It is therefore imperative
+that the freighters be stopped immediately. It is too dangerous to beam military
+personnal aboard the freighters, but it is possible to use to use MKII prototype
+influence droid (I.D) is a small self-powered anti droid unit. It uses
+anti-gravity generators to hover about. It carries its own armament, a low
+powered plasma bolt sufficient to damage or destroy small droids, but unable to
+penetrate armoured battle droids. However, it`s main feature is its ability to
+render an enemys droids brain unit inoperative and control the droid
+itself, able to direct its weapons under the protection of its armour.
+
+The I.D is also able to recharge itself from the droids energy banks but the
+life of the slave droid is severly shortened as its brain unit attempts regain
+control, inevitably resulting in burning out and destroying the droid. At this
+point the I.D becomes a free agent once more. In order to keep itself charged
+up, the I.D must continually gain control of a new slave droid. More powerful
+droids are harder to take over, but offer a better platform for taking over
+droids. The droid libary on the ships onboard computer carries more information
+on the different droids likely to be found on the freighters.
+
+
+CONTROL MODE;
+Control is by keyboard or a joystick in either port, mouse control is not
+supported, select the control mode by pressing F1 to bring up the options
+screen at any point during the title sequence. Press F1 again to cycle through
+available modes. Other options shown on this screen are detailed later.
+
+Keyboard Controls are as follows;
+
+Up     --- O P Q W 1 2 0 or the up cursor
+Down   --- L;A S or the down cursor
+Left   --- M , Z X or the left cursor
+Right  --- . / C V or the right cursor
+Fire   --- ALT CTRL and either SHIFT key
+
+
+SEQUENCE OF PLAY;
+Press fire to play. The influence device is beamed aboard the selected start
+ship, initially only the first two ships may be selected, but any ship reached
+may subsequently be selected.
+
+The I.D will materialise over one of the ships transmat poits. It is armour
+protected and unable to fire for up to 4 seconds. Your task is to destroy all
+of the droids on the ship by shooting, ramming or taking control of them, as
+each deck is cleared, the lights dim on that deck to indicate that no other
+droids are present.
+
+You must use the lift network to travel from deck to deck and finally return to
+any transmat point and beam out once all the droids on the ship have destroyed.
+
+
+THE INFLUENCE DEVICE;
+The influence device (I.D) is moved around the deck in all directions by
+pointing the joystick (or keyboard equivalent) in the required direction. To
+fire the plasma bolt, jab the fire button while pointing in the right direction.
+It will not fire when the joystick is centred for too long.
+
+Additional functions are carried out by holding the fire button down while the
+joystick is centred. This is `transfer mode`, and is shown by a spark emanating
+from the I.D. Once the spark is visible the I.D can now move around in this
+mode, providing the fire button is held down.
+
+From the transfer mode you can; 1. Attempt to take control of other droids by
+                                   touching them with the spark.
+                                2. Access the ships onboard computer for extra
+                                   information.
+                                3. Operate the lifts to move to other decks.
+
+
+DROIDS;
+Every droid carries at least one method of sensing the player, as detailed in
+the droid library. Most droids have true visual awareness, and will see the I.D.
+if it is within its angle of vision and within its distance limit. Some droids
+have narrow angled vision, some wide, and some quite short distanced.
+Droids with aural sensors will only react if they hear the I.D. firing or if
+they hear the transfer spark. Some droids carry radar sensing equipment and can
+detect the I.D. anywhere in the vicinity.
+
+
+WEAPONS;
+Many droids carry or are fitted with weapons. Once successfully transferred to
+such a droid you may then fire it`s weapon. The weapon will always fire in the
+direction the droid is facing, regardless of the joystick direction.
+
+Two droids only carry a head mounted weapon, which may be fired in any
+direction, depending on the joystick and it is therefore independent of the
+droids actual facing direction. The weapon will not fire if the joystick is
+centred.
+Some droids carry no weapons at all, in which case the influence device`s own
+weapon is used, which behave like a head mounted weapon.
+
+
+DISRUPTORS;
+One droid carriers a sonic disruptor, this damages all susceptible droids in the
+vicinity over a short period of time. When fired it takes time to build up, then
+discharges, it temporarily scrambles the droids brains. It has no effect on
+humanoids, and some droids have protection circuits.
+
+
+POWER DOWN;
+When all droids, but not necessaryily raiders,are destroyed on deck, the onboard
+computer shuuts down the lights on that deck and bonus points are awarded. When
+the final deck is cleared, a message will indicate this and you should proceed
+to a transmat to beam off the ship.
+
+
+ENERGY;
+The influence device`s capacity to hold energy is slowly reduced as time goes
+by, as indicated by the inner dark bar of the energy display at the top right
+of the screen. The actual amount of energy held is shown by the outer bright
+bar of the energy display. This will normally obscure the inner bar, but damage
+incurred during the game from enemy shots or ramming will reduce the outer
+bar. To restore this energy it is necessary to stand under an energiser, an
+octgonal pulsing device, which are liberally spread around the ship. When a droid
+approaches, a ring of rotating lights activates and energy is gained, up to the
+maximum capacity for the droid. Not that the energiser may be destroyed by
+gunfire, preventing other droids using it.
+
+The only way the I.D can restore itself to full capacity is by temporarily
+taking control of another droid. This gives it time to replenish itself on the
+host droids energy supply.
+
+
+TRANSFER GAME;
+The transfer game involves the I.D. fighting the target droid for overall
+control. The central control bar is split into 14 elements, initially set to
+alternating yellow and on the first ship, red elements. Timer indicators-straddle
+the central bar, and various wires lead from each side of the bar to two
+outside tracks.
+
+You have a few seconds to select which side to wish to play on, while the time
+indicators rise from the bottom of the central bar to the top, your droid and
+target droid are shown on the relevant sides at the top. Move the joystick left
+or right to select your side. Initially you are on the left (yellow) side. Which
+side you select will depend on the arrangement of the wires and circuit
+components on each side. Once you have selected the side to play on, the timer
+will reach to the top and begin to count down. You have until the timer reaches
+to bottom to get the majority of the central bar elements over to your colour
+by firing your pulsers, shown on the very outside of the layout. This transmits
+power of your colour through the circuit to the central bar, changing the colour
+of the central element or elements reached to your colour. The spark under to
+dome at the top of the central bar shows the colour of side currently holding
+the most elements. The more powerful the droids involved, the more pulsers you
+get to start with.
+Pulsers enter the side tracks from the top and may be moved up and down with
+the joystick. Press fire and the pulser moves forward and transmits power along
+the wire for a few seconds before it burns out. Various components modify this
+power along the way to the central bar, and should be taken into account when
+choosing which lines to fire along, these are;
+
+1.  Splitters    - Power branches out into 2 paths
+2.  Joiners      - Power must arrive at both inputs to allow power through.
+3.  Auto-pulsers - Once activated by power, these will continue to produce power
+                   on their own until the end of the game.
+4.  Terminators  - Power cannot pass through and is wasted.
+5. Colour switches Power is converted to the opponents colour.
+
+These components may be arranged in very complex ways, but it is usually best
+to pick the side with the most splitters and auto pulsers and avoid too many
+joiners and colour switchers.
+Succesful takeover of the majority of the central bar at the end of the game
+will enable the I.D. to `hop over` to target droid, and the previous host will
+burn out and be destroyed. Failure to takeover a droid will result in the
+destruction of the target droid, and the I.D.`s current host, if present. If the
+I.D. was fighting the transfer game alone and loses it will be destroyed and
+the whole game is over. In the event of both sides having an equal control of
+the central bar, and the deadlock occurs the transfer is replayed.
+
+
+CHANGING DECKS;
+The lifts may be accessed by standing under a lift controller and activating
+transfer mode, the screen will dispaly a side view of the ship, highlighting the
+deck you are currently on and the lift shaft you are situated in. Move the
+joystick up and down to change decks, and press fire when the required deck is
+highlighted.
+
+
+CONSOLE ACCESS;
+Approach a console and its screen will light up. Activate transfer mode and the
+onboard computer will be activated. You will see a menu screen with 5
+options, accessed by moving the joystick up/down and pressing fire on the
+required option.
+
+1.  Log off           - Return to the game
+2.  Ship data         - Show a side view of the ship and overall ship status
+3.  Deck data         - Show a plan view of the current deck and deck status
+4.  Droid library     - Access data on all droids
+5.  In game statistics- Show current game data
+
+
+SHIP DATA;
+The ship name and outside view of the ship are shown.move the joystick
+left/right for a detailed display.note that some of the decks are behind others
+and are only shown while the decks are being drawn.the decks are colour coded
+as follows;
+
+Yellow -- Current deck, no other droids
+Brown  -- No other droids on deck
+Pink   -- Current deck - not yet cleared of droids
+Red    -- Not yet cleared
+
+The pink and the red will be different colours on ships other than the
+first. Move the joystick left/right to toggle between the two displays and
+press fire to return to the menu.
+
+
+DECK DATA;
+A small scale plan of the deck is shown. Your current position on the deck is
+marked and information is given regarding the number of droids remaining on the
+deck and ship. Press fire to return to the menu.
+
+
+DROID LIBRARY;
+Move the joystick left/right to view each droid in turn. Only those droids equal
+to or lower than your current host droid`s security clearence may be viewed. To
+view more data on a particular droid, move the joystick up/down. Pages of text
+will be shown, one at a time. Press fire to return to the menu.
+
+
+STATISTICS;
+Some in games statistics are provided for your convenience. The statistics for
+the previous game may also be viewed by pressing F9. During the title
+sequence, press fire to return to the menu.
+
+
+ALERT STATUS;
+Destruction of droids by any means results in the alert status of the ship
+arising. This slowly reduces with time. By destroying lots of droids quickly it
+is possible to change the alert status from normal green to yellow, amber or
+even red. This increased alert status yeilds bonus points each time the alert
+lights flash and the alarm sounds.
+
+
+RAIDERS;
+Raiders may beam into the freighter at any time. The onboard computer sounds a
+warning klaxxon as the raiders ship approaches. The raiders will beam in, looking
+for things to steal and destroy. It is imperative that they are eliminated
+quickly, although only droids need to be considered to complete the ship.
+
+
+CONVENIENCE KEYS;
+During the game press `Help` to pause, the `Help` or fire to resume game.
+
+During pause mode press `ESC` to quit game. You can pause the game when
+in the transfer game.
+
+During the title sequence;
+F1.   Change controls between joystick or keyboard.
+F2.   Select start ship (any previously visited ship may be started on).
+F3.   Switch the transfer game on/off.
+F4.   View previos game statistics.
+
+
+HINTS AND TIPS;
+Some droids cannot be transferred to. Don´t just destroy all easy droids early
+on, you may need them later on, when you get into trouble on a difficult deck.
+If your host droid is blown up, use the 4 seconds of armour protection wisely,
+it is better toescape and return to fight later than struggle on.

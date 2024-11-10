@@ -1,0 +1,259 @@
+Space Invaders was one of the first shooters created for a commercial video
+game.  It gained such popularity that quarter shortages were prevalent.  It
+also was a contributor to kids skipping school and administrators declaring
+video games an evil plague.  The game is simple in concept but the action can
+be extremely riveting, especially listening to the deep bass thumping sound the
+invaders make.  Good luck.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Space Invaders is a simple two-dimensional shooter.  You control your laser
+base against an endless stream of alien invaders.  Once you clear out one wave
+of invaders, another is just waiting to take your base out.  Of course, your
+objective is simple, eliminate the invaders before they eliminate you.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+In order to become a master of this game, you must be familiar with the
+controls.  The controls are simple.  They consist of:
+
+-  Either a knob to spin (on the older machines)
+
+   Two buttons for left and right (the newer machines that the spinner knob had
+   worn out on)
+
+-  A fire button
+
+Pretty simple eh?
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+The playing field consists of 4 buildings on the bottom, your laser base, and
+an array of alien invaders in an 11 x 5 formation.  I have included an example
+of what the playing field look like:
+
++-----------------------------------------------------------------------------+
+|                                                                             |
+|    _      _      _      _      _      _      _      _      _      _      _  |
+|   / \    / \    / \    / \    / \    / \    / \    / \    / \    / \    / \ | 
+|   ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    --- |
+|  // \\  // \\  // \\  // \\  // \\  // \\  // \\  // \\  // \\  // \\  // \\| 
+|   __     __     __     __     __     __     __     __     __     __     __  |
+|  /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \ |
+|  \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/ |
+|  /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \ |
+|   __     __     __     __     __     __     __     __     __     __     __  |
+|  /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \ |
+|  \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/   \__/ |
+|  /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \ |
+|   __     __     __     __     __     __     __     __     __     __     __  |
+|  /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \ |
+|  ----   ----   ----   ----   ----   ----   ----   ----   ----   ----   ---- |
+| /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \ |
+|   __     __     __     __     __     __     __     __     __     __     __  |
+|  /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \   /  \ |
+|  ----   ----   ----   ----   ----   ----   ----   ----   ----   ----   ---- |
+| /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \  /   \ |
+|                                                                             |
+|                                                                             |
+|     __________          __________          __________          __________  |
+|    /    ___   \        /    ___   \        /    ___   \        /    ___   \ |
+|    |   /  |   |        |   /  |   |        |   /  |   |        |   /  |   | |
+|    |__/   |___|        |__/   |___|        |__/   |___|        |__/   |___| |
+|                                                                             |
+|                  +-+                                                        |
+|               +==+ +--+                                                     |
+|               |_______|                                                     | 
++-----------------------------------------------------------------------------+
+
+You control the laser base at the bottom of the screen under the buildings.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty simple.  Here are the enemies:
+
+ _____
+/_____\ The saucer gets you anywhere from 100-300 points.
+
+    _   
+   / \ 
+   ---  = 30 points
+  // \\ 
+   __  
+  /  \ 
+  \__/  = 20 points
+  /  \ 
+   __  
+  /  \ 
+  ----  = 10 points
+ /   \ 
+
+
+-  On the normal machine set up, you earn a free base at 1000 points.  You
+   start with 3 bases.
+
+                               ****************       
+******************************** U N I T  III *********************************
+                               ****************       
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your base will be in the middle, at the bottom of the
+screen under the buildings.  Your goal is to blast the invaders into dust.
+
+-  Keep in mind that once the invaders make it to either the right or left edge
+   of the screen, they will drop down a row and head in the opposite direction.
+   You should plan your strategy to prevent them from making it to an edge.
+
+-  A good strategy is to start blasting out the columns on the opposite edge of
+   movement.  What I mean by this is if the invaders are moving right, the
+   start blasting out the leftmost columns first.  This way, their return trip
+   is longer and you have more time to deal with them.
+
+-  Do not attempt to hit the invaders dead center.  They fire their laser bombs
+   from dead center and your shots will collide, wasting your shot and letting
+   them move closer to an edge.
+
+-  Speaking of shots, you can only have one shot out at a time so make it count.
+
+-  Use your buildings to your advantage.  "Peek" around buildings to get shots
+   and blast a hole in the middle of your buildings to give you protection
+   while you knock out columns of invaders.  Keep in mind, this protection will
+   only last about 2 columns before the invaders blow open a hole wide enough
+   to destroy your base.
+
+-  Every other wave of invaders starts one row lower.  Eventually, the waves
+   will start one row above your buildings.  Be prepared to do some fast
+   shooting to keep them from getting any lower because once they reach your
+   level, the game is over.
+
+-  When you are down to taking out the last invader on a wave, that invader
+   will zip across the screen.  The strange thing is that the invader travels
+   faster going left to right then going right to left.  Keep this in mind when
+   trying to shoot it.
+
+-  The mystery saucer (or UFO) will appear at random times.  If you have a good
+   shot at it, try to hit it.  Don't go out of your way, however, to go after
+   it; it isn't worth the risk or time wasted.
+
+
++=======================+
+| 8. QUIRKS IN THE GAME |======================================================
++=======================+
+
+Like all video games, this game has strange things that can occur.  Although
+they aren't detrimental to gameplay, they are interesting nonetheless.  Also
+included are some tricks of the game.
+
++--------------------------+
+| The Hidden Message Trick |
++--------------------------+
+
+To get the hidden message, you must do the following:
+
+-  When the demo starts, you need to press the following keys at the same time
+   on the machine:  LEFT, RIGHT, FIRE, 1 PLAYER START, 2 PLAYER START.
+
+-  Continue to press these keys rapidly as fast as you can.
+
+-  If you are successful, a message will appear under the high score.
+
++---------------------+
+| Shot Counting Trick |
++---------------------+
+
+To get 300 every time you hit the mystery saucer.  It is named the "Furrer
+Trick" named after Eric Furrer who perfected it.  To do this trick, perform
+the following:
+
+-  Once the new level begins, start counting the shots from your base.
+
+-  When you have fired 22 shots, stop shooting and wait for the mystery saucer.
+
+-  Use the 23rd shot to blast the mystery saucer.
+
+-  After this, start counting shots again, this time count only to 14.
+
+-  Use the 15th shot to hit the mystery saucer.
+
+-  Continue using the 14 shot rule until the level is finished.
+
+-  At the next wave, start with the 22 shot rule, then use the 14 shot rule to
+   finish that wave.
+
+-  Remember, all shots count regardless of hits or misses.
+
+_______________________________________________________________________________
+
+Eric Furrer writes:
+
+Here's a variant of the counting trick that most people don't know and it's the
+exact trick I used to play that darn game for 36 hrs over 20 years ago.
+ 
+The shot count trick works great for level 1,2,3 but you can't use 22-14-14
+counts for mystery ships on the 4th wave because the invaders are too low.  If
+you wait around for the ship after 22-14, then the invaders will be down too
+quick and you will surely die.
+ 
+Most players at this point do a 22 count and abandon the remaining 14 counts
+and just clear the board.  This slows point accumulation.
+ 
+My solution is simple and the shot count works in progressions as well:
+ 
+On the 4th wave count 22, wait, and clobber the 300.  Now instead of counting
+14, shoot the 29 invaders in the bottom rows and get the ship.  Now the
+invaders are high enough to do two more 14's.
+
+Here's the grid for rolling the machine's score in about 6 minutes by the forth
+wave using 29.  Otherwise, you'd have to wait until the 5th wave.  Seems minor,
+but it saves 30 seconds per roll, which could mean a 30 minute lead against a
+good player on a head to head speed match, a difference of about 50,000 pts!
+ 
+1st wave - 22, 14, 14, 14, 14, 14 (bonus = 3000 + 990 = 3990 first wave) 
+2nd wave - 22, 14, 14, 14 (bonus = 1200 + 990 = 2190 total score now = 6180) 
+3rd wave - 22, 14, 14, 14 (bonus = 1200 + 990 = 2190 total score now = 8370) 
+4th wave - 22, 29, 14 (bonus = 900 + 990 = 1890 total score now = 0260 or
+           10,260)(if you counted 22, 14, you couldn't get the 3rd 14 without
+           severe risk of death row) 
+5th wave - 22, 29, 14 ** same as 4th wave 
+6th wave - 22, 14 
+7th wave - 22 14 
+8th wave - 22 
+9th wave - 22
+ 
+then back to the first wave!!
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 9.  CONCLUSION |=============================================================
++================+
+
+I remember when this game first came out, it definitely kept us addicted for
+hours on end.  Heck, I was 11 at the time so it didn't take a whole lot to keep
+me entertained.  With the low, thumping base and the endless stacks of quarters
+on the machine, I can understand how it became a major craze.  The game itself
+was simple in design and play but it was a test of stamina and, to a degree,
+strategy and luck.  Unfortunately, it is very rare to find this machine any-
+where.  However, through the miracle of emulation, a whole new generation is
+realizing what we "old" folks enjoyed those many years ago.  I hope this guide
+helps you in being able to get the most amount of gameplay for this game.  If
+you do have other ideas or thoughts, please e-mail me and share them.  Who
+knows, maybe I'll start a Q&A Chapter in this guide if enough people ask the
+same questions.  Anyway, thank you again for reading this guide.

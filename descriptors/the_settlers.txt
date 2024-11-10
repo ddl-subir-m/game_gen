@@ -1,0 +1,3142 @@
+Settlers, The - Manual
+Table Of Contents
+-----------------
+
+PREFACE
+
+ON THE RIGHT PATH
+ Computer Specifications
+ The Settlers - Presentation
+ Configuration
+ Hard Disk Installation
+ The Status Screen
+
+TO GET STARTED
+ Copy Protection
+ The Main Menu
+ The Game - The Commands
+ The Map
+ The Castle
+ Constructing Buildings
+ Constructing Roads
+ The First Settlers
+ Demolition
+ Saving And Ending The Game
+
+TRAINING
+ Game 1 - Rural Property
+ Game 2 - Construction Materials
+ Game 3 - Food
+ Game 4 - The Riches Of The Earth And There Exploitation
+ Game 5 - Fabrication Of Tools And Weapons
+ Game 6 - Attack
+
+THE ECONOMY
+ The Economic System
+ Your First Colony (Village, City)
+ About Statistics
+    The First Statistics
+    The Statistics Curves
+    The Supply Statistics
+ The Warehouses
+ Information About The Buildings And The Flags
+ The Distribution Menus
+
+RULES OF COMBAT
+ The Knight Returns
+
+TO CONTINUE
+ The Other Menus
+ Messages And Preferences
+ Renewable Games
+ Demonstration And Team Mode
+ The Options
+ Special Functions For The Map
+
+HINTS
+ The Most Important Rules: Be Observant
+ The Behaviours Of The Opponents
+ Hints And Tips: Professions
+ Need Help?
+ The End Of The Game
+
+ANNEXES
+ If You Have A Problem
+
+
+PREFACE
+-------
+
+Dear Blue Byte client. What you have in your hands is not simply a game
+manual. It is an adventure guide that will become an epic and that will
+probably lastingly change your life in the coming months, along with your
+attitude towards entertainment.
+
+"The Settlers" is a program that you can play as often as you like and that
+will teach you new things.
+
+After playing for a few hours, you will agree with us when we say that this
+game has no equal in terms of style or graphics.
+
+For the first time, users can enter a world so complex, so detailed, that
+they will literally want to plunge themselves into the game. With The
+Settlers, we have achieved the goal that programmers have set for
+themselves since the beginnings of video games: create a new world for the
+player, where the adventure never finishes and can continue, based on the
+desires of the players, to grow for years to come. The text in the box is
+very clear: if you have had enough of daily life and you would like to
+forget about it for a while, you no longer have to save up to buy yourself
+a new State. The Settlers will allow you to construct your own refuge, one
+that you can modify and enlarge as you like. We will be pleased if you can
+find the peace and calm in your realm that is missing from your daily
+existence. In fact, we are sure that vou will. This manual has been
+written to help you achieve this freedom; it will:
+ 
+1. allow you to install The Settlers on your computer.
+
+2. familiarize you with the basic principals that ... (see 3)
+
+3. you can apply and try for the first time
+
+4. give you general information.
+
+5. allow you to understand how the game functions.
+
+6. teach you new things if necessary.
+
+7. help you understand any areas that are not clear.
+
+8. address itself to users who want to know everything about the game,
+ right down to the last detail.
+
+At the end of this manual, we have included a troubleshooting guide along
+with an index that will be extremely useful. Don`t be intimidated by the
+bulk of information. We have designed this manual to be cleat. You don't
+need to be a student in economics in order to understand it. You can
+always find the information you need The Settlers is a game that will
+provide you with an enormous amount of pleasure and entertainment.
+
+The Blue Byte team. October 1993.
+
+ON THE RIGHT PATH
+----------------- 
+
+Computer specifications 
+
+The Settlers requires an Amiga or an IBM PC will or compatible (386
+minimum) with a hard disk. As this program will exploit each computer to
+the best of its capabllities, you do not have to worry about your
+configuration, especiaily if you are using a PC. Based on your computer`s
+memory capacity, the program will automatically use this memory as needed.
+If you have more than enough memory, the game will be even more enjoyable
+to play because you can play with the sound effects, music and other new
+possibilities of the game.
+
+The Settlers Presentation
+
+Congratulations! By purchasing The Settlers, you have just acquired an
+extraordinary program that will fully exploit the capabilities of your
+Amiga or PC. This is true whether you are using an Amiga 500 with 1 MB, an
+Amiga 4000 with 10 MB and a hard drive, or a PC 386 or DX2 486. The
+Settlers is an "intelligent" program that thinks for you and a game where
+you are not required to take care of everything yourself.
+
+The Settlers is a "linear timing" program: no matter what you do or what
+calculations are made by the computer, the settlers will always work or
+fight at the same speed. This is a new feature that does not exist for
+programs as complex as this one. You will decide where you want your
+settlers to construct buildings, how the roads will be made, where to
+search for raw materials, and where they will attack the enemy. You can
+also modify numerous parameters, that will affect the behaviour of your
+settlers.
+
+The computer will handle the execution of your decisions and it commands
+your numerous settlers. The men will build houses, cut down trees, work in
+the mines, construct weapons and tools, dispatch construction materials in
+the places where they are needed, defend their castles against enemy knight
+attacks, provide the miners with food, and many other things!
+
+The Settlers will allow you to play in several ways: alone, in teams or in
+training mode. Alone or in a team against the computer, alone or in a team
+against opponents controlled by the computer that you have chosen yourself,
+in 2 player mode and against opponents controlled by the computer, or just
+with players controlled by the computer in order to watch the world evolve
+without you having to intervene.
+
+The goal of the game is to build a prosperous and well organized city and
+to gain control of the enemy cities. This might initially seem simple to
+do, but in reality it is much more complex. If you consider all the game's
+problems inversely, that is from the end of the game first you will
+understand better.
+
+In order to conquer the enemy castles, you will need many knights. To keep
+their moral up, you will need gold, and for the weapons you will need iron
+and coal. These raw materials are found in mines. The mines must be
+provided with food and the raw materials must be melted in a foundry
+
+The food supply is insured by the fishermen and the farmers, but they need
+tools, as do all other workers. These tools are made by smiths. To build
+huts, houses, castles you will need construction materials and workers...
+ 
+But don't worry. you won't have to remember all this for the moment;
+everything will be explained along the way. We hope that you will enjoy
+this game.
+
+The Blue Byte team
+
+Configuration
+
+This paragraph concerns the Amiga version only.
+
+The program will try to use all the capabilities of your computer We
+recommend that you read the following paragraphs carefully to insure its
+proper functioning. If you are not familiar with computers and the words
+"Chipram" and "Fastram" don't mean anything to you do not read chapters 1.3
+and 1.5.
+
+a) General remarks about the configuration
+
+Do not forget that any program already loaded when the game is launched
+will take up memory space; memory space that might be needed by the
+Settlers game in order to run properly. We recommend, therefore, that you
+do not load other programs into memory if you are going to use the game.
+If several programs are automatically loaded when the computer boots up,
+use another startup sequence for The Settlers.
+
+b) Configuration for 512 KB of Chipram or 1 MB of total memory only.
+
+If you have 1 MB of Chipram and at least 1.5 MB of RAM total, you can skip
+this paragraph. The program uses Chipram memory for the screens, the
+animation, the sound effects and the music. If you have only 512 KB of
+Chipram, you will have to sacrifice something; you will hear only part of
+the sound erects, and no music at all. The sound effects are loaded based
+on the available memory. You can increase the available memory by:
+
+disconnecting unnecessary disk drives
+
+not activating the hard disk (if it contains Chipram)
+
+avoiding to launch other programs
+
+The rest of the available memory is used by the program for the data, the
+scenery, and the graphics. In order to use the scenarios with only 1 MB of
+memory, we recommend that you reread the points mentioned above.
+
+Hard disk installation
+
+If you want to use the game from floppy disks, you can skip this paragraph.
+
+PC:
+
+WARNING!!! Before using the original floppy disks,we recommend that you
+make a backup copy of them.
+
+1) Turn your computer on as usual
+
+2) When the system is operational, insert the first game disk into one of
+ the drives
+
+3) Enter the letter of this drive followed by a colon (;) and press the
+ Return key. For the internal drive, for example, enter the letter a:.
+ If you have a second drive, this is usually designated by the letter b:.
+
+4) Enter the installation program's name (INSTALL), then press the
+ RETURN key.
+
+5) When the program has been launched, you will have to specify the path
+ for the installation. If you want to change the path proposed by the
+ program by default, enter the new path and confirm by pressing the
+ RETURN key. The installation of the program will begin. To quit the
+ installation program before the end of the installation procedure, press
+ the ESCAPE key.
+
+6) When the installation program is finished, enter (SETTLERS) to launch
+ the game.
+
+AMIGA:
+
+WARNING!!! Before using the original floppy disks, we recommend that you
+make a backup copy of them.
+
+1) Start up your AMIGA as usual from the hard disk, When the Workbench
+ screen appears, insert the first disk (with the installation program)
+ into one of the drives.
+
+2) Open the disk by double clicking on its icon. A window will open
+ containing other icons. One of these icons, "Install", represents the
+ installation program for Blue Byte games.
+
+3) Launch the installation program by double clicking on its icon.
+
+4) In the installation program's window, you will see two dialogue boxes.
+ Enter the name of the drive where the installation program is located
+ in the upper dialogue box. This will normally be the internal drive
+ "DF0" and this is the drive indicated by the program by default. If
+ the installation floppy disk is located on the external drive, enter
+ the corresponding letter (DF1-DF3). Confirm by pressing the RETURN key.
+
+The lower dialogue box is only used for the target drive. As this disk
+normally carries the name "DHO:3", it is the drive selected by default If
+you want to install the program in another directory, enter the path
+corresponding to your configuration. As you have probably created a
+special folder for your games, you can also specify the directory in which
+you want to install the game, for example:
+
+dhO:games /bluebyte/
+
+If the specified directory does not exist, it will be created automatically
+by the installation program.
+
+Status screen
+
+As the PC version differs in terms of the utilisation of the systems
+capabilities, PC users can skip this chapter as the status screen will be
+of no use for them. When you launch the program, the status screen is
+displayed. It will tell you how the program is using your computer. It
+displays the following information:
+
+1. Workbench
+ 
+Indicates whether the workbench has been deactivated (which allows the user
+to free up memory), if the workbench has not been deactivated, if start up
+programs have been loaded, or if the workbench has not been opened.
+
+2. Program
+
+Indicates if the program is stored in Fastram. If this is the case, the
+program is much faster because it can work in tandem with the Blitter.
+
+3. Data
+
+Indicates, as for the program, if the data is stored in Fastram (thereby
+further increasing the speed of the program).
+
+4. Sounds
+
+Indicates if the sound effects (none or a part) are loaded or not into
+memory (based on the size of the Chipram memory available)
+
+5. Music
+
+If you have 1 MB of memory, the music must be loaded into memory.
+
+6. The game worlds
+
+The number indicates the maximum size of the game's world. This will
+depend on the size of the available memory and can be limited by the
+storage device (see 9) or the processor (see 8). You will find more
+precise information in the table at the end of this chapter.
+
+7. Missions
+
+You can undertake missions beginning with a size three world
+
+8. Processor
+
+Indicates the type of processor(s) installed in your Amiga.
+
+9. Storage device
+
+The games are saved on hard disk or floppy disk, The size of a games world
+is limited to 5 for floppy disks (size 7 represents 1.6 MB) Moreover, a
+size 5 world is already immense.
+
+If you play on a PC, do not worry about all this information. As indicated
+above, your computer will load all necessary data into its memory based on
+your system's configuration.
+
+TO GET STARTED
+--------------
+
+Copy protection 
+
+When the program is launched, the computer will ask you to enter a code.
+You will be presented with 16 different symbols. For example, if the
+program asks you which combination of symbols is found at the top of page
+18, look on the page in question and click with the mouse on the
+corresponding symbols in the correct order. If you click on the correct
+symbols, the program will continue.
+
+The main menu
+
+This is where all the preliminary parameters are displayed before the
+launching of the game. A maximum of 4 groups of settlers can participate
+in the game. A group of settlers is controlled by the player by the
+computer or by two players working as a team.
+
+To choose a game mode, click on the second icon from the left. The icon's
+graphic and the text will indicate the game mode chosen among the following
+modes:
+
+Mission: Orders fixed opponents controlled by the computer (1 player), or
+2 players in a team, with blue settlers
+
+Training: Orders fixed for new players (1 or 2 players in a team with blue
+settlers).
+
+1 player: Opponents that can be modified at will and game for 1 player or
+2 players in a team with blue settlers.
+
+2 players: Opponents that can be modified at will and game for 2 players
+against each other. One of the players plays with the blue settlers, the
+other with the red settlers.
+
+Demo mode: Here you are only an observer. You watch the computer colonize
+itself.
+
+In the lower half of the screen, you see the participants of the game. In
+the left part of the screen, you will see an image. On this image, you
+will see a friendly settlement (if this is the group of settlers that you
+control) or a less friendly adversary (the computer). If you do not see an
+image, this group of settlers does not exist in the game. The different
+opponents controlled by the computer have their own personalities, and can
+be aggressive or reserved, ready to take risks or preoccupied by their own
+security. You will find further on indications concerning the personality
+of these opponents. On the right side of the image, you will see three
+bars having the colours of blue, green and red. These indications are very
+important. The blue bar indicates the state of the stocks of a settlement
+(city) at the beginning of the game. A large stock allows for rapid
+expansion and procures ceriain advantages. A small stock creates problems
+when the city begins to expand. If you are a novice, make sure that the
+blue bar is always above the 50% level. The green bar indicates the
+intelligence level of the players controlled by the computer. This level
+affects the rapidity of their actions and reactions. For the players, the
+green bar is always at its maximum (we assume that you are extraordinarily
+intelligent....) and has no other signification.
+
+The red bar represents the growth rate. The higher it is, the faster your
+settlements will reproduce, and the faster you can expand Novices should
+try to keep this bar above the 50% level.
+
+According to the game mode chosen, you can modify certain other parameters.
+To start off, we recommend that you try the training game No1.
+
+Mission: You will see, in the middle of the screen, the current level
+(beginning 1), the password (at the beginning "START") and two arrows.
+When you accomplish a mission, the program will display the password that
+allows you to restart the game at the same level. Click on the password
+and enter the new password. Do not forget to press the Return key to
+confirm. If the password is incorrect, the message "FALSE" will be
+displayed. If the password is correct, you will see the level to which you
+will have access.
+
+With the arrows displayed to the right of the password, you can return to
+the levels already completed. You can also activate the team mode by
+clicking with the mouse in the left frame. You will see two mice. We
+recommend that you do not try the mission orders right away.
+
+Training game: there is no password for training. You can directly select
+each available training game by using the arrows. As for the missions, you
+can activate the team mode by clicking with the mouse.
+
+1 player, 2 players and demo mode: You can modify numerous parameters for
+these game modes. The size of the world is displayed in the centre. To
+modify it, click on the small or the large planet. Novices should probably
+not play with worlds with a size greater than 3, as they will be quickly
+submerged by the train of events... You can modify all data concerning a
+group of settlers:
+
+the blue bar for the state of the stocks
+
+the green bar for the intelligence (when the opponents are controlled by
+the computer).
+
+the red bar for the growth rate
+
+the button to activate or deactivate the opponents controlled by the
+computer
+
+the image of the adversary controlled by the computer, to choose another.
+
+The initial data is chosen randomly. If you are a novice, we recommend
+that you change the parameters to your advantage, especially where the
+stocks are concerned, because a large stock is very important. If you want
+to see the game in demo mode, you can increase the intelligence level of
+the players controlled by the computer, but reduce their stock. The
+combination of numbers displayed to the right is a randomly chosen number
+for the creation of a world. This number decides the location for the
+mountains, lakes, deserts, forests, etc. in this world. The same
+combination of numbers will produce, therefore, the same world. To change
+worlds, click on the icon to the left with the question mark and another
+combination of numbers will immediately be chosen. The icon remaining in
+the middle of the screen and the turning star, that you have perhaps
+already noticed, will be explained in the following section.
+
+In 1 player, 2 player, or demo mode, you will want to set the values of
+each participant at the same level. In the middle of the frame to the
+right, you will see a small arrow. Click on the icon and the data for the
+player (or the adversary controlled by the computer), which is located to
+the far right, will be the same for all the other participants. The player
+situated furthermost to the right is always used, because the only players
+that have modifiable levels of intelligence are those controlled by the
+computer.
+
+To launch the game, click on the "START" icon. The screen will fade to
+black and the computer will calculate the game's world. A red bar will
+inform you of the progression of the calculations.
+
+To reload a previously saved game, select the "LOAD" option. A few seconds
+later a window will appear with a list of files saved on disk or floppy
+disk. If you want to change floppy disks, insert the new disk and click on
+the change disk icon. Click on the name of the saved game and then on
+"load" to load the game, or on "Exit" to cancel. When a game is loaded, a
+message appears on the screen to tell you if the loading procedure went
+well or if there were any errors encountered. Click on "Exit". If the
+game was correctly loaded a new screen will be displayed and you will see
+all the opponents and all the values of the beginning of the game. This is
+important if you do not remember against whom you played, or the strength
+of your opponents. With the exception of the title, only the "Start" and
+"Cancel" icons remain activated. The "Start" icon allows you to continue
+the game, the "Cancel" icon to return to the main menu. To quit the game,
+click on the EXIT icon in the upper left corner of the screen.
+
+The additional options icon is discussed in paragraph 6.5
+
+The game - The commands
+
+You can play alone or with two players, with all functions being identical.
+The only differences are that in 2 player mode the screen is divided in
+two, the image of the world is smaller and the icons are closer together.
+As no additional explanation is generally required for the 2 player mode,
+it will only be rarely discussed in the information that follow. After
+launching the game, you will see a part of the world on the screen:
+perhaps some grass with some trees or a lake. To simplify explanaiions.
+this part of the world will be called the "screen" from now on. At the
+bottom of the screen are 5 different round icons that have different
+functions. They will be called the "Menu" from now on.
+
+As we have already mentioned, you will only see a part of a world on the
+screen. According to the size of the screen, the world can range from 10
+to 1200 times this size for giant worlds. To move around in a world, press
+the right mouse button and drag it in the desired direction. When you
+arrive at the desired destination, release the mouse button. Look at the
+scenery for a moment. You will see deserts, lakes, forests, mountains, and
+many other things.
+
+Perhaps you have noticed your pointer in the middle of the image when you
+launched the game. It is made of a central symbol and 6 surrounding
+points. You position this pointer where you want to activate one of the
+game options. If, for example, you want to construct a house or a road
+somewhere, you must first place your pointer on this area. To place the
+pointer on the desired area, just click on the screen with the left mouse
+button. The pointer's central icon, which is also displayed in the lower
+left of the menu, will probably change. We will discuss this in the
+following paragraphs.
+
+SPECIAL CLICK: further on in this manual, we will often use the term
+"Special Click". This means that you do not click only on the left button
+as usual but you must additionally press the right button. Therefore, a
+click on, the left button while pressing the right button is called a
+"special click". Why? Certain functions in the game are very powerful!
+For exanmple, an accidental click on the mouse could destroy an important
+building. This special click is more over often used for additional
+functions.
+
+The map
+
+In the middle of the menu, you will see a "map" icon. Click on this icon
+with the mouse. A new window will appear above the games world. You will
+see a geographic map with different icons. On this map, the prairies are
+indicated in green, the deserts in yellow, the lakes in blue and the
+mountains (according to their height) in brown and white. If you click
+somewhere on the map, your screen will move to the corresponding area and
+the world and map will disappear. Try clicking on a lake or a desert: it
+will immediately appear on the screen. You can similarly select a faraway
+area very quickly by scrolling through the world until you reach the area,
+as explained in chapter 6
+
+A world is "endless" which is to say that if you continue moving to the
+left you will eventually return to your point of departure. The world does
+not have, therefore, any "edges". You will understand this better if you
+select the map again and click on the icon located next to the magnifying
+glass in the lower right area. You will see slanted and horizontal lines
+that define the size of the world. For example if you have selected, size
+3, you will notice that the world is represented 4 times on the map, and 16
+times for a size 1 world.
+
+The different sections are connected to each other and this is why the
+game's terrain has no limits. The size 5 world will fit perfectly in the
+map section. The size 8 world is enormous. You will only see one eighth
+of the world on the map! With size 3 and larger worlds, you can move both
+the map and the screen: press the right mouse button and drag in the
+desired direction. Do not forget that this movement is not possible for
+smaller worlds (as they adapt themselves to the section of the map),
+
+With the magnifying glass icon, you can zoom in on the map. The other
+icons displayed at the bottom of the map are discussed further on in
+paragraph 3, because it is first of all necessary to have constructed
+something to see their utility.
+
+The castle
+
+At the beginning of the game, you begin by constructing your castle, which
+will serve as headquarters. The area where you place this castle is of
+utmost importance for the rest of the game. If you are a novice and you
+have a large amount of stocks, you will not run into any immediate problems
+and the location of the headquarters does not have an extreme importance.
+However, if you have limited stocks, a poorly placed castle can entail
+fatal consequences if you should lack certain materials when the enemy is
+already constructing weapons. To illustrate the most important aspects, we
+have established a list of conditions that are favourable to the
+construction of your castle:
+
+avoid narrow valleys in the mountains. Look for a relatively flat area.
+
+choose an area with raw materiais that are close to the castle for the
+construction of new houses (trees and grey granite)
+
+choose a terrain that has a large amount of underground riches
+
+The first two points can easily be verified on the screen. If there are a
+few trees and some granite, and if the environment is not too inhospitable,
+these conditions will be fulfilled. The underground riches are also very
+important. The underground riches are: gold, iron. coal and granite.
+They are found only in the mountains. To see how much underground riches
+are in the zone displayed on the screen, you can ask the geologist who will
+give you an overall estimation of the area's riches. The second icon to
+the left on the menu represents the geologist. Click on this icon to
+obtain the desired information. You will know what riches are present and
+where they are located, from top to bottom: gold, iron, coal and granite.
+
+All the values do not need to be at a maximum, but if there is no coal,
+iron or gold or only small quantities of the three, look for another area.
+Click on the Exit icon to back up a step. The importance of the
+underground riches also depends on your strategy. You will understand this
+as you read this manual. Often with the size 1 worlds, it is possible that
+certain riches do not exist at all, or that there are no mountains (and
+therefore no riches). In this case, do not look desperately for another
+area and forget about the riches. With the friendly geologist, you only
+have an estimation of the riches in the area, but you do not know exactly
+in which mountains they are to be found, or if you are going to find them.
+Your settlers will have to find them for themselves, later in the game.
+
+You have at last found a good place to construct your castle. The castle
+is a large structure that must be placed on a relatively flat and grassy
+area. To do this, click anywhere on the screen with the left mouse button
+and the pointer will be placed on this area. if a castle appears in the
+centre of the pointer the choice of area has been good. In the lower left
+of the menu you will see the "Construct a Castle" icon. If, after several
+tries, you have not found an area to construct your castle, use the
+"Construction help" icon: special click on the left menu icon (it does not
+matter what is displayed) the construction help function will become
+active. All areas where a castle can be constructed will be indicated on
+the screen. By clicking on one of these areas, you will cause the
+"Construct a castle" icon to be displayed in the lower left. Click on this
+symbol and your castle will be constructed in a few seconds. A flag with
+the players colour will be flown in front of the castle. The castle will
+be the only building that will be "freely" given to you. All the other
+houses will be built by your settlers. At a certain distance from the
+castle you will see a barrier of black and white poles, or of red posts in
+the water. They indicate the limits of your property and, therefore where
+you have the right to build other buildings.
+
+The geologist's help will be available to you only at the beginning of the
+game. Once your castle is built, you will have to manage by yourself.
+
+Constructing buildings
+
+You have taken the first step. Your castle has been constructed. You can
+now have your settlers build other houses. If you place your pointer some
+where within the limits around your castle, the central icon will tell you
+the type of buildings that you can construt:
+
+Two arrows: you cannot construct here
+
+Flag: you can only place a flag here
+
+Hut: you can construct any of the different types of huts (small
+buildings)
+
+Castle: you have enough space for all the buildings
+
+Mine: you can build a mine (only in the mountains)
+
+How do you decide which type of building can be built and where it can be
+placed?
+
+First of all, all buildings must be built on your land and there must not
+be trees or boulders on the area. All houses, huts and castles must be
+built on a green surface and the mines only in the mountains (but not in
+the snow). The type of building that can be constructed also depends on
+the slope of the terrain. For the large buildings, the ground must be
+level: their construction is impossible on steep slopes. If you are
+looking for an area that is well adapted for a large building, the
+"Construction help" option will help you to avoid clicking all around the
+screen to find a good location, as we explained for the castle. Special
+click on the left menu icon. You will immediately see the areas where you
+can construct a building on the screen. You can now choose an area. To
+deactivate the construction help, special click again on the left menu
+icon.
+ 
+Depending on which icon is in the centre of the pointer, you will also
+see other icons in the lower left of the menu: "Place a flag", "Construct
+a Hut", or "Construct a large building". When you click on these options a
+star appears above the construction symbol in the menu, along with a new
+window with a choice of buildings. To construct a large building, you have
+a choice among 20 buildings. As they do not all fit into one window, you
+can scroll through them by clicking on the "change page" icon. All the
+buildings are discussed in more detail further on in this manual. For the
+moment, chose one of them and click on it to give the order to construct.
+The window disappears and you will see the first stone of the construction
+or a cross on the screen. The first stone means that a house will be built
+in this place. The cross has the same meaning, but the ground must be
+levelled first so that it can provide a solid foundation for the large
+building that you have chosen.
+
+If you decide not to construct a building on the chosen area, click on the
+turning star and quit the construction mode. To transform a construction
+site into a finished building, you must construct a road between the castle
+and the site. We will discuss this in the following paragraph.
+
+Constructing Roads
+
+The settlers need roads so that they can access the different areas of
+their city. These roads always run from one flag to another. Your network
+of roads is very important. A good network ensures the rapid transfer of
+goods and, when there are problems with the transportation, allows you to
+more readily find other solutions. The flags serve as intersections. 6
+roads can begin at each flag to lead to other flags. There is a flag in
+front of each one of your buildings.
+
+In the beginning, you must construct a road when you want to build your
+first house. You will see a flag in front of the construction just like
+the flag in the front of your castle. Click on one of the two flags and a
+symbol for the construction of roads will appear in the pointer and in the
+lower left of the menu. Select the icon in the lower left of the menu. A
+turning star will appear and the pointer will contain two new symbols. You
+are now in "Road construction" mode.
+
+The different symbols around the pointer have the following significations:
+
+zone hatched in red and yellow: you cannot construct roads in this
+direction
+
+different slope symbols that range from red (very steep ascents and
+descents) to green (flat) and passing by the yellow: you can construct
+roads in this direction.
+
+Undo
+
+If you click on this icon, you destroy the last part of the road made. If
+you click on one of the slope icons and a part of the road appears, the
+pointer contains new symbols. Repeat this operation until the road meets
+the other flag. The star in the lower left disappears and the pointer
+takes its initial form. The road is constructed and you will quit the
+construction mode. The first settlers will begin to leave your castle. Do
+not worry about them for the moment. We will discuss them in the following
+paragraph. The meaning of the different slope icons is very simple: when
+you look from left to right, the icon indicates the slope of the terrain:
+a rapid ascent will be indicated for example, by a slope on the icon that
+climbs from left to right. The colour is an additional help. It allows
+you to see at a glance the slope of a road. Red indicates a steep slope,
+yellow a moderate slope and green a flat terrain. The flatter the terrain,
+the faster the merchandise can be distributed, because the settlers will
+tire much more quickly on slopes than on flat ground. It is often
+preferable to make a small detour if you can avoid a red, or very steep,
+slope. Novices will not have to worry too much about slopes. If you
+construct a road and then decide that you no longer want it, click on the
+turning star. You will quit the "road construction" mode and the road will
+be erased.
+
+If you want to branch off from an already existing road, you must place a
+flag on the road, Click on the desired area. If it is possible to place a
+flag there, a flag will appear in the pointer and in the left of the menu.
+If it is not possible to place a flag there, use the "construction help"
+function. It is possible that placing another flag in a road is impossible
+because there is already a flag on this road that is very short, right next
+to the chosen spot, or because there are trees in this spot. If you can
+create a new intersection, you will see the "Place flag" icon in the menu.
+Click on this icon to construct the new intersection. You also can prolong
+an existing road or complete the road with a special click and, if
+possible, a flag will be placed simultaneously.
+
+You can also construct water ways. Two flags must be on the banks of a
+lake for a water way to be built, Construct a Water way between the two
+flags in the usual fashion. Do not forget to connect this water way with
+your network of roads. The water way serves as a guide for the navigator
+who will use it later to transport merchandise It is clear that the other
+settlers cannot use a water way. This is why the water ways are used only
+for the transport of merchandise and are not very important for novices.
+When constructing your roads, make sure that a road runs on the land OR on
+the water, but not both at the same time!
+
+The first settlers
+
+When the road leading to the first construction site is built, the first
+settlers will begin to leave your castle. This paragraph will explain what
+they are doing.
+
+The first settler who leaves the castle is a transporter. He takes 100
+steps on the new road and looks and sees if there is some merchandise that
+needs to be transported. As soon as he sees merchandise on the road to
+transport, he will take it to the next flag.
+
+At the beginning of the game, you will have 20 settlers. Some of them
+already have jobs, others are waiting for jobs.
+
+If you want to build a large building, a settler with a orange helmet and a
+shovel (the leveler) will arrive and begin walking towards the construction
+site. Once there, he will begin to level the ground. When he has
+finished, the cross on the site will become the first stone and the settler
+will return to the castle.
+
+If you want to build a small building, a settler with a yellow helmet
+(construction worker) will arrive looking for his work area. He will ihen
+wait for the construction material to arrive so he can begin building the
+house.
+
+Another settler will distribute the construction material from the castle
+to the construction site: this will always be wood and, eventually, stones
+(according to what type of building is being built). The transporter will
+take the merchandise and carry it to the construction site. The
+construction worker will immediately begin working and soon you will see
+scaffolding and, eventually, the building itself. The small huts will be
+built very quickly; a castle takes longer.
+
+A worker returns to the castle as soon as he finishes his job. A worker
+will then arrive to start working in the new house. The occupation of the
+worker who moves in depends on the type of house that you built for him.
+The functions of each worker and of each building are explained further on.
+
+If you construct a water way, a settler with a boat will leave the castle
+and walk towards the new water way and wait for merchandise
+
+You do not have to wait for the construction of your house to be finished
+before doing other things. You can give orders to construct other things
+(houses, roads, etc.).
+
+Your settlers will go about their tasks automatically, which is to say that
+they will do their best to do the work with what they have at their
+disposal. This is true not only for the transporters and the construction
+workers that we just saw, but also for all the people that you will see
+later on in the game, such as the forest rangers, the lumberjacks, the
+carpenters, the quarrymen, the miners, the fishermen, the farmers, the pig
+farmers, the millers, the bakers, the butchers, the different knights, the
+casters, the locksmiths, the blacksmiths and the armorers.
+
+Demolition
+
+You may want to demolish a building, a road or a flag for a number of
+reasons. This operation is discussed in this paragraph. To avoid
+demolishing something by inadveriently pressing a mouse button, a special
+click is required when demolishing something.
+
+Demolishing buildings: Click on the desired building. The second menu
+icon from the left will transform into a ruin. Special click on this ruin
+to set the building on fire and burn it down. If a settler is living in
+the building, he will return to the castle and wait for a new job.
+
+Demolishing roads: Click anywhere on a road and the "demolish road" icon
+will appear in the menu. Special click on this icon to remove the road.
+The transporters that worked on this road will return to the castle and
+wait for a new work. The other settlers on this road will run towards the
+next flag and continue on their way.
+
+Demolishing flags: You can demolish a flag only if it does not belong to a
+building and if it is not yet connected to something else by a road, or if
+there are exactly two roads leading to the flag. The reasons are simple;
+if one road leads to the flag, it would lead suddenly into nothing, whereas
+three or more roads can intersect without needing a flag. When there are
+two flags, the flag can be removed and the two roads will merge into a
+single road. Click on the flag that you want to remove and a ruin will
+appear in the menu (if the flag's demolition is possible).
+
+New construction: If you want to Construct a new building in the place of
+another, you do not have to demolish the old building, wait for it to burn
+down and then give the order to construct. You can directly give the new
+order to construct in the desired location by placing the pointer on the
+old building and selecting the construction function as usual. For
+security reasons, you will have to choose the building with a special click
+to avoid accidentally destroying an important building. The old building
+will be burned down and you can order the construction of a new building.
+
+Saving and ending the game
+
+In 2 plaver mode these options can only be activated by the player on the
+left. Click on the right menu icon and new options will be displayed. For
+now do not pay attention to the upper icons, but only to the "SAVE" options
+and "END" at the bottom of screen.
+
+To quit the current game, click on the "End" option. The program will ask
+you to confirm. If you have been playing for more than one minute or if
+you have not saved the game for more than one minute the program will ask
+you to confirm a second time. You will then return to the main menu.
+
+The "SAVE" option allows you to access the saved file menu. The list of
+saved files will be displayed on the screen. If you want to change floppy
+disks, insert the new and click NEXT on the "Change Disk" option. To save
+the current game, click on one of the 10 areas and then on the "New name"
+option to enter a new name. You can also enter the date when the game was
+saved to avoid any confusion. If you want to save a game with the same
+name as a game already saved, you don`t have to enter a new name. Be
+careful! The game already saved will be erased by the new game. Click on
+the SAVE option to save the current game. Always read the floppy disks
+message to see if the game has been correctly saved. If you save onto
+floppy disk, we recommend that you format several floppy disks and that you
+put labels on them before beginning to play. We also recommend that you
+save the game onto two different floppy disks for additional security. If
+one of the floppy disks is defective, you will have only lost an hour or so
+of the game.
+
+If you want to load (save) from a floppy disk, insert the new floppy disk
+and click on the change floppy disk icon. The list of files on the new
+floppy disk will be displayed.
+
+Training
+--------
+
+You now know the game's basic principals and can begin with the first
+training games. Each building will be explained to you and the program
+will tell you where you should be careful. Each training game contains
+orders that will be specified in the instructions. You can then play and
+follow the game's progression on the screen. The paragraphs contain the
+corresponding explanations and you will quickly learn how to play and the
+game will become more interesting.
+
+In the training games, you have a large stock that allows you to obtain
+tools, food, construction materials and large quantities of settlers.
+
+Do not hesitate to save training (or other) games from time to time. If,
+in the instructions for advanced players, you find some useful information,
+you can use the saved games (which already contain many buildings) to test
+this information. When certain important events occur, you will be
+directly informed. You will hear a noise and a small blinking piece of
+paper will appear in the bottom left of the menu. The different events
+about which you will be informed will be discussed in detail in this
+manual. If you click on the piece of paper, a message will be displayed on
+the screen and the computer will move the screen to the place where the
+event is taking place. If you click on the hook in the window, the message
+will disappear.
+
+Game 1 - Rural Property
+
+Guard huts, watch towers, castles and the geographic map.
+
+Orders: have your settlers construct a guard hut, a watch tower and a
+castle.
+
+Explanations: After the beginning of a game, you will choose a location to
+build your castle. You dont need to worry about the fertility of the soil
+or the trees. Give the order to construct the 3 required buildings and
+wait (use the help functions for construction if you cannot find a good
+location right away). For the watch tower and the castle, a leveler will
+begin by levelling the ground. You will have to have the construction
+materials transported. While the hut requires only one delivery of wood
+and stones the castle will require at least 10. A second transporter will
+leave the castle to help his colleague. As soon as the guard hut is built,
+a knight will leave your castle in order to occupy it. When the first
+knight arrives in a guard hut, a watch tower or a castle your rural
+property will grow. Look and you will see its limits move. So that you
+will be informed of this growih (if you were looking elsewhere in the
+world), you will hear a noise telling you that you have received a message.
+Click on the piece of paper and you will learn that another building has
+been occupied by a knight. Next, some gold will be brought to the hut, but
+we will look at this a little later. A white flag will be flown in front
+of the guard hut. Later, flags will also be flown on the watch tower and
+on the castle towers. These flags have the following significations:
+
+The flags height indicate the building's occupation rate. A hut can
+contain 3 knights, a watch tower 6 knights and a castle 12 knights.
+
+- the icon on the flag indicates the enemy's distance. The white flag
+signifies that there is no enemy colony and that you will not be attacked
+in the immediate future. If, later, you play against opponents controlled
+by the computer or another player, you will see other symbols.
+
+When the enemy is closing in, a black stripe will appear on the flag and,
+when the enemy approaches, the stripe changes to a black cross. When the
+enemy is right outside your door, the flag has a very thick black cross, In
+the latter case, you will have to prepare for an attack. Your settlers are
+probably still in the process of constructing the watch tower and the
+castle, This is a good time to familiarize yourself with the geographic
+map. Click on the map icon and the map will be displayed. Outside the
+scenery, you will see several blue dots where your buildings (finished or
+still under construction) are located. To better see the size of the
+world, click on the right icon under the map. The left icon activates the
+presentation mode in one of the 3 following modes:
+
+scenery 
+scenery + property 
+property
+
+Click on this icon. After the first click, the map's image changes just a
+little. Around the blue dots (your buildings), you will now see a surface
+with dots that indicate the size of your property. If you click again on
+this icon the scenery disappears completely. Only your property is still
+displayed in blue, and the buildings are represented by little white dots.
+If you click a third time on this icon, you will return to the mode that
+you started with. If you are playing against other players or against the
+computer, their property will be hatched in their colour. Return once
+again into "Property" mode (in which we no longer see the scenery) and
+click on the second icon from the left.
+
+You will see your network of roads on the map. It is not important to see
+a road in great detail, but only to have a glimpse of it. If you click
+again on this icon, the roads will disappear
+
+The third icon from the right allows you to activate or deactivate the
+buildings on the map. Quit the map by clicking on the turning star. The
+map allows you to access two other special functions that we will discuss
+further on.
+
+Let's see what your settlers are doing. When the buildings are completed,
+a window will appear to let you know that the order was executed. You can
+now decide to continue your experiments or to move on to the next exercise.
+
+Game 2 - Construction Materials
+
+Forest House, a lumberjacks hut, a saw mill and a quarry
+
+Order: Fabricaie new construction materials, At least 5 units of wood and
+5 units of stone.
+
+Explanation: This time, you will have to watch the scenery very closely.
+Choose an area with trees and (especially) a few slabs of granite (the
+large grey boulders) and place your headquarters next to it.
+
+You must obtain stones and wood. These materials are necessary for the
+construction of buildings and are generally the first things that you must
+take care of in a new settlenment. The stones come from the slabs of
+granite that a worker will look for in a quarry. The wood is a little more
+complicated. You need a lumberjack to cut down trees and a carpenter to
+transform the trunks into boards. The wood can then be used. The forest
+ranger is described in this chapter because he is the one who plants the
+new trees.
+
+Place a lumberjack's hut near the trees, preferably in the middle of a
+snmall forest, and a quarry somewhere near the slabs of granite.
+ 
+Look for an appropriate location for the saw mill (which is a large
+building) and place the forest house where there are not too many trees.
+Connect the buildings with roads. If you have done everything correctly,
+your work is finished. The rest will be done by your settlers!
+
+They will progressively build huts, level the ground for the saw mill, and
+the workers will arrive after the construction.
+
+The lumberjack will go to his hut and leave it a little while later to find
+a tree to cut down. After cutting it down, he will lop off the branches
+and bring the trunk to his hut. He will then rest a while before returning
+to work. A transporter will see the trunk and will come and take it. As
+your sawmill is probably still under construction the trunk will be
+temporarily stored in the castle.
+
+The quarryman will climb on a slab of granite and hammer it with his
+pickaxe until he extracts a few stones. He will put them in front of his
+hut where, as for the lumberjack, a transporter will come and take them to
+the castle (if the stones are not needed on a construction site)
+
+The forest ranger is constantly in the process of planting new trees.
+After a while, the trees will grow and can then be cut down. If you cut
+the trees down without planting new ones, you will quickly find yourself
+confronted with a shortage of wood. You can directly place a forest ranger
+next to a lumberjack. The two complement each other very well. If there
+is no lumberjack next to the forest ranger, you will soon have a new
+forest.
+
+The saw mill will certainly be the last building to be completed as it is
+the largest of the four. The carpenter will go to the saw mill and wait
+for the tree trunks. They will be brought from the castle or directly by
+the lumberjack. He will cut them up and put the boards in front of the
+mill. These boards will be stored in the castle until they are used.
+
+You would like to know how you can have regular supply of granite? You can
+plant new trees, but this does not work for stones However, even when you
+have used all the slabs of granite there will still be some deposits of
+these extremely hard stones under the ground. We will discuss the mines
+later, in another scenario...
+
+As soon as you have fabricated the materials asked for, you will have
+accomplished your mission.
+
+Scenario 3 - Food
+
+Fisherman's hut, farm, windmill, bakery, farm, butchers shop and pipes for
+the construction of houses and roads.
+
+Objective: Fabricate 5 units of each of the following foods: fish, meat
+and bread
+
+Explanation: This time, you will need a lake for your fisherman that is
+located close to the castle. You will also need a large area for the farm,
+so that the farmer can grow his wheat. On the other hand, you will not
+need any underground riches or other raw materials.
+
+To allow your settlers to work during the following explanations, construct
+the 6 required buildings:
+
+the farm (a large building) preferably with a lot of free space, as the
+farmer needs land to plant the wheat.
+
+the fishermans hut, as close as possible to the lake.
+
+the pigsty, the bakery, the butchers shop and the windmill in the locations
+of your choice.
+
+If you connect the buildings with roads, be careful not to build roads on
+the banks of the lake because the fisherman will not stay on the roads as
+he does not want to hinder the transportation of merchandise. While your
+settlers start to work, we will give you some details on the food.
+
+You have 3 possibilities to make the foods:
+
+the simplest method is by fishing. A fisherman goes fishing and his fish
+can be used directly as food. One drawback: you need a lake and when
+there are too many fishermen on a little lake, it is quickly devoided of
+fish. As long as there are fish, they will reproduce. It is recommended
+not to "over fish" if you want to continue fishing for a long time.
+
+the second method is by making bread. The farmer grows the wheat When the
+wheat is mature, it will be harvested and a transporter will take it to the
+miller, who will transform it into flour. The sacks of flour are then
+taken to the baker who will use them to make bread. You will note that
+this method requires much more patience, but its return is better and all
+you will need is some farmland.
+
+The third method takes as much time as the previous method, but requires
+less space. The farmer will also provide the pig farmer with wheat, who
+will then use it to feed his pigs. When the pigs reproduce the farmer will
+remove a pig from his farm. It will be taken to the Butcher who will use
+it to make meat.
+
+But what is all this food for? It is used in other places, the mines For
+example, to feed the miners who work in the mountains, They will strike if
+they don't have anything to eat and will stop extracting raw materials.
+The miners eat fish, bread or meat. You will therefore provide the food
+that is easiest for you to fabricate. Looking at the game once again, your
+fisherman is already in action and the other Buildings are still under
+construction. Be patient: cultivating wheat and raising pigs takes some
+time. Let's use this occasion to look at some useful information
+concerning road construction. This is not very important for your current
+settlement, but it will be when you will have built 20 or more houses.
+
+Take a look at your settlement. There is often a lot of circulation in
+front of the castle. Later on, when you have constructed several
+buildings, you will have to place them strategically and build roads in a
+practical manner. For example, the transportation of wheat on a road
+between the farm and the mill that passes in front of the castle will
+likely slow down the transportation of construction materials. We
+recommend that you group all related buildings together and to build a
+system of roadways that does not pass in front of the castle. You can put
+a sawnmill near a lumberjack's hut, for example, As you did not know this
+when you were building your city, the screen will show you what you should
+not do. It is also very important to have a good network of roads.
+
+To accomplish this, you need to take several factors into account. The
+construction of an additional small connecting road can considerably
+improve the transportation of merchandise. It is difficult to give you
+precise advice about this because each method has its advantages and
+disadvantages. The experience that you will acquire after a few games will
+help you. But we will nonetheless give you a few tips:
+
+Avoid dark or light red (steep slope) sections of road: it is better to
+make a detour by using two other road sections because: the speed with
+which the merchandise is transported on a road always depends on the
+SLOWEST section of the road.
+
+Do not clog up a flag's 6 possible branches with a road (that for example,
+goes only halfway around the flag). You will otherwise have a hard time
+enlarging your network of roads. In this case try to construct a
+straighter road.
+
+It is possibie to construct two parallel roads between two flags When one
+of the roads is crowded, the other one will be used to transport the
+merchandise. This solution is not necessary if you construct several cross
+over roads, but it is very imporiant to have a good network. If certain
+lanes of transport are crowded and the merchandise begins to pile up, your
+settlers will be intelligent enough to transport the merchandise on
+another, less crowded, road - as long as it exists. The least efficient
+type of network is the one in the shape of a star beginning at the castle.
+In this case, all merchandise will be transported on one of the star's
+branches and will have to pass in front of the castie in order to access
+another branch. An efficient network is a "grided" network that looks like
+a piece of graph paper. There are many ways to go from one point to
+another. To simplify things: construct several connections between the
+buildings and your city will grow more quickly and with less effort. If
+you display the roads on the map in "Property" mode, you will clearly see
+the places where the "cross over" connections are missing.
+
+Let's look at our game again and the men at work:
+ 
+The fisherman sits on the bank of the lake and begins fishing Depending
+on the number of fish living in the lake, he will fish more or less
+rapidly. He might not catch anything. The fish are then taken to the
+castle and stored (before the construction of a mine) to feed the miners.
+
+the farmer spreads his wheat seeds, lets them grow and then harvests the
+wheat which is then taken to the windmill or to the pig farmer.
+
+As soon as the wheat is received, the miller will grind it and deliver the
+flour in sacks to the baker.
+
+The baker kneads the dough and makes bread, A thick smoke pours out of his
+chimney.
+
+The pig farmer uses the farmer's wheat to feed his pigs, and he will soon
+be able to sell some of the pigs to the butcher.
+
+The butcher cuts up the meat and hangs it up for storage.
+
+As you have seen, the farmer provides the pig farmer and the miller with
+wheat. His production might at times be insufficient and he will not be
+able to deliver his wheat to both of them, even though they are continually
+awaiting a new delivery. In this case, demolish the farm or the windmill,
+after ensurtng that the quantity asked for will have been produced and
+used. Wait for all the foods to be fabricated before moving on to the next
+game.
+
+Scenario 4 - The riches of the earth and their exploitation
+
+Gold mine, coal mine, iron mine, granite mine, gold foundry, iron foundry
+
+Objective: Search for the underground riches and find at least 5 units of
+gold and of iron.
+
+Explanation: the underground riches are extracted from the mines in the
+mountains. Gold and raw ores will be transported from the mines to the
+foundries. You will then have iron and unrefined gold. Iron is the most
+important raw material because it will allow you to forge new weapons and
+tools. Gold is also very important because it raises the moral of the
+knights. When the knight think about their future fortune, they will fight
+with more vigour, Coal is also very important. You will need coal for the
+foundries and to extract the gold and iron. The blacksmith will also need
+coal to forge the weapons.
+
+Granite is the least important raw material. However, if there are no more
+slabs of granite on the surface, the situation could change and a granite
+mine might become extremely important. You will always need stones for all
+the large buildings. As we have already explained the riches are found in
+the mountains. Put your headquarters in a mountainous region and do not
+forget to ask for the geologists help. Place your castle close to the area
+where you will find coal, iron AND gold. Immediately construct guard huts
+in the area in order to expand your rural property and prospect in more
+mountains to find underground riches. We can now move on to the first
+geological prospections. You must place a flag somewhere in the mountains.
+Connect this flag to the rest of the network and special click on it. A
+window with a few symbols will be displayed. Disregard them all except for
+the geologist's head, at the bottom.
+
+Click on the geologist and he will tell you that he has received his
+mission orders. He will then leave the castle and head off towards the
+mountains. Once there, he will examine the ground and take a few samples.
+If he finds any riches, he will jump for joy and plant a sign in the ground
+to indicate what he has found. This sign shows a small circle if there are
+small quantities of underground riches and a large circle if he had
+detected a large quantity of underground riches. The circle can be one of
+several colours: yellow for gold, red for iron, black for coal, and light
+grey for granite. If the geologist does not find anything, he will plant a
+blank sign. When he finds underground riches for the first time, you will
+recieve a message, because you will not always be there to watch him work.
+
+You can send the geologist towards any flag (as long as it is connected to
+the network of roads) and even towards the flags in front of buildings.
+The geologist will examine the area and return home if he does not find any
+mountains. To accomplish the goal of your training mission, you must find
+coal, gold and iron. Do not hesitate to send several geologists into the
+mountains and to expand your property by constructing guard huts if
+underground riches are not nearby. You have certainly noticed already that
+the guard huts cannot be constructed in the mountains. You will have to
+"surround" the large mountains with guard huts if you want to find a
+maximum of underground riches.
+
+Begin constructing a mine as soon as you have found a likely location. As
+soon as the mine is connected to the network of roads a mason will arrive
+and go to work.
+
+If you have given the order to construct at least one mine for the
+exploitation of gold, one for iron and one for coal, you must now begin
+thinking about building some foundries. Select a location near the castle
+and have your settlers construct the gold and iron foundries.
+
+Your settlers will construct the mines and the foundries while the miners
+are looking for the necessary raw materials. They will be fed by the
+castle. the raw materials that you find will be taken to the foundries
+where the unrefined gold will be transformed into gold and the iron ore
+into iron. As you don't need either of these raw materials for your city,
+they will be stored in the castle. We will give you some additional
+information while the game progresses.
+
+If your network of roads has been poorly constructed, you will see it in
+this training scenario. The mines will produce too many raw materials and
+if you have set up only one road (which will also be steep!) between the
+mines and the foundries, you will have trouble with the merchandise.
+
+Build other roads if your settlers cannot transport these raw materials on
+such a steep road. You will see that the new roads will be used and that
+the merchandise will get to its destination much more quickly. Underground
+riches are, naturally, not unlimited. When a deposit starts to run low,
+the miner will find fewer raw materials. The mine will become unproductive
+because: the miners that work in the mountains must be fed from the
+valley. You will receive a message as soon as a mine has been devoided of
+raw materials. If your food stocks are also low, demolish the mine. A
+miner who doesn't receive food will strike and begin marching in front of
+the mine to show his anger.
+
+The geologist's signs will progressively disappear. You can, however ask
+for a prospection at any time to see if there are any remaining underground
+riches in the areas surrounding a mine.
+
+If you are not in a hurry to build the mines, wait until the geologist
+plants several signs so that you can be sure to find a profitable deposit.
+On the other hand, if you are playing against other players or against
+opponents controlled by the computer, you should construct the mines as
+soon as you think a deposit might exist because each minute counts.
+Naturally, the chances of barking up the wrong tree are greater, and you
+will have fewer geologists and workers at your disposal. If the program
+denies your request for a geologist this means that you do not have any
+more workers or tools available. You must, moreover, wait for 2 seconds
+before asking for another geologist. We will discuss this topic further
+on. To conclude, here is a tip to better place your flags in the
+mountains. When you place a flag for a geologist, it is because you plan
+to construct a mine in this location later on. If there are underground
+riches, click on the construction help function and choose a location to
+build your mine Next place the flag next to this location, in the lower
+right. Later you will construct a mine next to the flag, and you will not
+need a new road or a new transporter and the mine will be built more
+rapidly.
+
+Scenario 5 - Making tools and weapons
+
+Blacksmith, iron worker, Ship maker and warehouses
+
+Objective: Make at least 1O weapons, 1O tools and 5 boats.
+
+Explanation : This game will allow you to see 5 new buildings. You will
+learn how to fabricate objects with the materials that you have extracted
+in the preceding chapter. The blacksmith will fabricate weapons with iron
+but he will also need coal. The iron worker will make diverse tools from
+wood and iron that will be used by the other settlers. The ship maker only
+needs wood to construct his boats. He is the least useful worker and is
+generally needed only in worlds containing large expanses of water. The
+warehouse is the last building discussed in this chapter. It will be used
+to store merchandise. It is also the place where the workers wait for new
+work (as at the castle). This is why the warehouse is, with the castle,
+the most important building.
+
+This time, you can choose a location without worrying about the richness of
+the ground because you already have the necessary materials stored in your
+castle at the beginning of the game. Choose any location that provides
+enough space for several large buildings.
+
+Construct a forge, a shop for the iron worker, a naval shipyard and a
+warehouse. While the men are working we will give you some useful
+information.
+
+The shipmaker will receive wood and deliver the first boats shortly after.
+The workers will then take these boats to the banks of the lake and
+transport their merchandise on this water way. This method of
+transportation is often quicker than the land routes.
+
+The blacksmith will be supplied with coal and iron, He will forge swords
+and shields that you will need for the knights that guard your castle and
+attack the enemy. The weapons will be delivered to the castle where each
+new knight will be able to take what he needs.
+
+The iron worker will receive wood and iron to make 9 different tools:
+hammer, saw, hatchet, shovel, scythe, pick, fishing pole pliers and
+butcher's knife. These tools will be delivered to the castle and used by
+the workers. According to their professions, they will need different
+tools. Some will not need any tools and others will need two:
+
+the leveler : shovel 
+the fisherman - fishing pole 
+the butcher - butcher's knife 
+the Farmer - scythe 
+the lumberjack - hatchet 
+the woodworker - saw 
+the miner - pickaxe 
+the quarryman - pickaxe 
+construction worker - hammer 
+the ship maker - hammer 
+the geologist - hammer 
+the iron worker - hammer and saw
+the blacksmith - hammer and pliers
+
+You might wonder why you must make the tools when the workers will
+automatically leave the castle with their tools in hand. It is because at
+the beginning of the game, you have a certain stock of construction
+materials, food and tools. For the training scenarios you will have a
+large stock to start off with and will therefore not have to fabricate
+tools or merchandise. We will explain this in detail later on.
+
+The warehouse is, along with your castle, the most important building
+because in a relatively large city, the castle will quickly reach its
+capacity without an additional warehouse. As soon as the warehouse is
+built, a settler will leave the castle and go to the warehouse. You will
+thereby have a sort of "second castle". If the expansion of your city
+continues, it will be difficult to control if you only have a castle. The
+workers will need too much time to go from the castle to the construction
+site, or they will produce so much merchandise that it will start to pile
+up on the road to the castle and the transporters will no longer be able to
+do their job. Evenly distribute the warehouses to avoid all this. The
+warehouse offers practically all the same benefits as your castle:
+
+When you receive new men, they will be divided up between the castle and
+the warehouse,
+
+Useless nmerchandise was brought to the castle up until now. It will now
+be taken to the nearest warehouse thereby cutting down on return trips.
+
+merchandise (on a construction site for example) will be ordered from the
+nearest warehouse having the required materials. The distance to the site
+will thereby be reduced.
+
+A worker will no longer return to the castle after his work is finished but
+will go to the nearest warehouse and wait for his next job. The trip for
+your workers to their worksite will therefore be reduced
+
+If a building requires the presence of a new worker, he will be hired from
+the nearest warehouse. His trip will thereby be shorter
+
+These various points demonstrate that an even distribution of warehouses is
+essential, As soon as your warehouse is built you will receive a message
+displaying the new warehouse.
+
+Scenario 6 - Attack
+
+objective: The conquest of several enemy buildings
+
+Explanation: The objective of this scenario consists of conquering certain
+buildings with your knights. Click on the geographic map and examine the
+locations of the enemy's buildings. Choose your location close to the
+enemy so that you will not have to travel very far to attack. Construct
+several castles, watchtowers and guard huts around your castle. While your
+settlers are working (the castle is the largest building and needs the most
+time to build), we will take a look at the knights.
+
+There are 5 kinds of knights in the game, and they are all different and of
+differing strength. When you receive a new knight, he will start at the
+lowest level. He can, however, receive training in the castle (or later in
+a warehouse) and change levels. A knight can also recieve training in a
+guard tower or in the castles, but he will progress very slowly as he will
+have to work at the same time. However, during his service (when he goes
+onto duty in a castle or another building, for example) he will not improve
+his skills if he sits down and does nothing in the guard hut. The
+advantages and disadvantages are clear: if you leave the knights in the
+castle, they will be well trained but your city will be poorly guarded. If
+you send your knights outside your buildings will be well guarded but the
+enemy will perhaps have more powerful knights that could pose problems for
+you. As you have built several castles and guard huts, your knights will
+rapidly go to them. In this training scenario, however, your opponents are
+still defenseless. Don't worry though...
+
+You will only attack castles, guard towers or guard huts belonging to the
+enemy. A knight must not attack a farmer or a fisherman. When you attack,
+your knights will leave their castles etc... and march towards the enemy
+buildings where they will prepare for battle. A knight will come out of
+the enemy building and the combat will begin One of the two knights will be
+victorious, After a while, either the attackers or the defending knights in
+the enemy building will be eliminated. If there are no longer any knights
+in the enemy building the attacker is victorious and will take control of
+the building. The frontiers of your city will be consequently modified.
+The eneny will burn any other building that it can. Such a defeat can be
+devastating for a city, If, for example, your only coal mine or warehouse
+is in flames, you will have problems.
+
+When you have built your first huts and they are occupied by knights, you
+will see flags with a thick cross. All guard huts that are located near
+the enemy's territory and that can be targeted for attack are marked by
+this cross. Special click on any enemy building having a thick Cross on
+its flag. A new window will appear allowing you to enter the number of
+knights that will attack it. The 4 numbers in the middle indicate the
+number of available knights: in the surrounding areas, far away, or very
+far away. The distance is not an essential factor but the knights will
+need more time to reach the enemy. If all the numbers are zeros, there are
+not enough knights in your buildings. You should know that all the knights
+that enter a castle cannot be sent into battle because some of them will be
+needed to defend the castle should it be attacked by enemies. Later on, we
+will explain how you can influence the outcome of the combats. Hold on a
+little and launch a new attack. The two arrows will allow you to modify
+the number of knights that will attack the enemy. Watch the battle to see
+the eventual outcome.
+
+If you have sent all your available knights into combat, you cannot launch
+other attacks. You will see, however, other knights immediately leave your
+castle to replace those who have left for battle. When you seize an enemy
+building, you will receive a message. A little later, your victory over
+the enemy will most likely be definitive
+
+If in the course of a game, an enemy counter attacks and the knights meet
+at a specific place you can expect a furious combat because each enemy
+knight will be attacked. We will see later how to send a troop of knights
+off to intercept the enemy and how to efficiently defend a guard hut with
+only 3 knights. Lastly, a final point that does not directly concern the
+knights, but rather your rural property: do not construct buildings
+(especially large ones, because of the long delays) near the enemy
+frontier. For example, if the enemy constructs a guard hut at the same
+time as you near the frontier and he finishes before you do, the frontier
+will be modified and you will have to burn down your construction. A
+castle situated near the frontier will be of no help to you because its
+construction will take much too long. You can construct a guard hut and
+try to finish it before the enemy or place your buildings in a safer
+location. You can naturally do the same thing to your enemy if he or she
+had the bad idea of constructing a warehouse too close to the frontier.
+This chapter, consecrated to the training scenarios, is now finished.
+
+You now know the basic principles of the game the different buildings, the
+various professions and merchandise, you know how to prospect for the
+underground riches and attack the enemy. We hope that you have begun to
+enjoy the game and we guarantee that it will provide you with hours of
+entertainment to come and that you will continually find new ways of doing
+things and new strategies. The following chapters address themselves to
+more experienced players who already know the game well.
+
+Have Fun!
+
+The Economy
+-----------
+
+The Economic System
+
+From now on we will no longer give you precise instructions on how to solve
+certain levels, just explanations, advise and many, many tips and new
+ideas. It is essential to know the economic context of each building to
+rapidly ascertain its needs and its production. Here is a brief summary:
+
+The food chain:
+
+. production of fish, meat and bread to feed the miners.
+
+The fisherman fishes for fish that can be eaten directly. The farmer
+plants and harvests wheat that is taken to the pig farmer who feeds his
+pigs with it, or ground by the miller in his windmill and transformed into
+flour. The pigs reproduce and can be slaughtered. The baker makes bread
+with the flour. In both cases, you will have food at your disposal.
+
+Merchandise:
+
+. fabrication of tools, weapons, boats, gold and construction of buildings
+
+The tools weapons and boats will be stored in the warehouses The gold will
+be guarded in the castle, the watchtowers and the guard huts. The tool
+maker needs wood and iron. The wood comes from the sawmill where the tree
+trunks furnished by the lumberjack are cut up. The iron will be worked on
+in a foundry. The caster needs ore and coal for the forge. These two
+materials are extracted from the miners. To fabricate weapons, the
+blacksmith needs iron and coal. The ship maker needs wood for his boats.
+For the construction of your buildings , you will need (in most cases) wood
+and granite. The use of iron, coal and wood for the fabrication of tools
+has already been discussed. The granite is found either above ground, in a
+quarry or in a mine. The gold is refined by a goldsmith from unrefined
+gold. The unrefined gold is extracted from the mines. Did you get all
+that? What follows will allow you to better understand the numerous
+factors that affect the game.
+
+During the first training scenarios you udubtedly thought that you could
+possess an unlimited number of settlements and merchandise, and that you
+could influence the games progression All the parameters are defined so
+that you will have no difficulty in completeing the required missions.
+More experienced players will want to influence the games progression more
+directly and know everything about the game, from the stocks at their
+disposal to the production capacities. All these aspects will be discussed
+in the manual.
+
+Your first large city
+
+You now know about all the buildings. You should be able to find a good
+location for each building and choose the right time to build it. A large
+stock will allow you to build the little buildings first as you will have
+enough materials to expand later on. If you have a small stock at the
+beginning oF the game, however, be very cautious right from the beginning.
+
+It is essential to build an "active" city. To do this, you will need all
+the buildings (except for rare occasions). Your stocks will not be as
+important as in the tratning scenarios. You will be responsible for the
+exploitation of the necessary raw materials and buildings. Choose the
+first scenario. You will play against a player controlled by the computer.
+You will experience an exciting adventure. Your level of intelllgence is
+rather low and you do not have large stocks. You will have to be careful
+right from the start of the game. We will tell you how to build a
+functioning city in the rest of this chapter. Or you could try to build a
+city all by yourself.
+
+The first thing to do is to find a good location for your castle. We have
+already discussed this in detail. Try to expand your rural property
+because if you see that you don`t have enough space when you are
+cultivating your land, you will have to wait before annexing new land.
+Place 2 or 4 guard huts near the frontier. The construction of watchtowers
+and castles requires more time and will slow down your expansion. Take
+everything you can without having to go into combat. Make sure that you
+have a good stock of construction materials because you will have big
+problems if you cannot build the necessary buildings. Place a lumberjack,
+a sawmill and a quarrymans hut in appropriate locations.
+
+After comnpleting these three tasks, the game will become more complex.
+Depending on the layout of your land, you can do certain things that we
+will discuss in general terms. As soon as possible, send the geologists
+into the mountains. Based on their findings, construct mines in the
+appropriate locations. Construct a gold or iron f a forge or a tool
+factory (based on the underground riches found). If you can rapidly
+fabricate weapons, you will have the advantage during combats. As soon as
+the geologists start prospecting in the mountains, think about how you are
+going to feed the mine workers. If there is a lake in the area, build a
+fisherman's hut. The fish he catches can be stored before the first mines
+are built. Meat production and the fabrication of bread take some time.
+When the castles wheat reserves (for the pigs and the windmill) run low you
+will have to wait for a farmer to plant and harvest more wheat. If no lake
+is in the area build a farm as quickly as possible. You will prefer meat
+or bread depending on the situation. If the enemies are still far away and
+you possess a lot of land, choose the bread. Place windmills and bakers
+close to the farmlands. The bread is the most productive food. If you
+dont have enough space, we recommend pig farming. You will need one farmer
+to supply the pig farmers with wheat. Dont forget that the lumberjacks
+will cut down all the trees and that you might realize this too late. Try
+to plant trees as soon as possible by using the forest rangers.
+
+If the region contains large lakes, take advantage of the speed of the
+waterways. You will eventually need a shipmaker if you are short on boats.
+
+Above all, do not forget to build warehouses. They will alleviate
+congestion on the roads and you will progress more rapidly.
+
+The guard towers and castles will be used essentially to protect important
+buildings, especially the warehouses. Depending of the progression of the
+game, a mine or a tool maker could also be very important (especially if
+you only have one of them!). Place your castles in these areas and don`t
+let the enemy destroy your economic system because of a small victory!
+
+Watch the enemy closely! Find a free moment in your schedule to see what
+your adversary is doing. Is he already in the process of making weapons?
+How Far away is he? Which lands should you occupy before the enemy annexes
+them? Which locations are poorly protected where an attack could be
+successful?
+
+Your first attempt to construct a city with several huts and different
+houses will perhaps not be entirely satisfactory. Don't be discouraged.
+The next time, you will better plan your city and you will not make the
+same mistakes. Experience will help you to resolve many problems Read the
+following chapters while playing at the same time.
+
+You will learn many new things in this way.
+
+About statistics
+
+The first statistics
+
+The statistics about a person, buildings and warehouses. In this chapter,
+we will look at these first statistics. They will allow you to quickly get
+an idea about all important areas. At the beginning of the game, the
+statistics will not be very interesting: you will, however have to look at
+them regularly during the course of the game to see for example, when you
+will be short on wood or food. We will first of all look at the statistics
+concerning people, buildings and warehouses.
+
+To see the statistics click on the second icon menu from the right. 8
+other icons will be displayed. Each icon corresponds to specific
+statistics. By activating one icon you can move from one statistic to
+another and from one menu to another. If you click on the middle icon, the
+buildings' statistics will be displayed. They will indicate the number of
+buildings that you have at your disposal. All the buildings cannot be
+displayed on one page and the bottom icon allows you to scroll through the
+pages and see the other types of buildings. If the number is followed by a
++ and another number, these buildings are still under construction. 2 + 1
+means therefore: two buildings completed and one under construction.
+These statistics will also allow you to foresee certain difficulties: if
+you have, for example, 10 lumberjacks, they will cut down a large quantity
+of trees and one sawmill will not be enough to cut all the wood. To quit
+the statistics and return to the 8 icons, click on "Exit."
+
+Click on the right icon, in the centre. You will see various heads and
+numbers. The statistics concern your settlers. Each head represents a
+profession, with the number of persons practising this profession. You
+will not recognize all the heads at the beginning but you will quickly
+understand their signification. The head with a question mark (in the
+lower right) indicates the number of settlers that do not have a profession
+yet. A good player will try (if the game's progression allows for it) to
+have a minimum of unemployed settlers in order to increase production and
+yield. The last number in the lower right indicates the total number of
+your settlers. To quit these statistics, click anywhere in the window.
+Then click on the left icon in the centre. These statistics represent your
+stocks. You will recognize the different types of merchandise more easiiy
+than the heads corresponding to the diverse professions. These statistics
+indicate the type and quantity of merchandise stored in your warehouses.
+The merchandise stored in the warehouses are not immediately important.
+But a large stock of wood and stones is a good sign because you will have
+enough materials for your constructions projects. On the other hand, if
+you have a lot of iron ore in your warehouses, this means that you do not
+have an iron foundry or no coal, in your city. You must always stay one
+step ahead.
+
+The statistic curves
+
+The statistics of comparison and of production
+
+These statistics will show you different values over a long period.
+
+In the selection of statistics, click on the bottom icon in the centre.
+You will see the comparison statistics, Above, the colour of the curves
+corresponds to the different players. Your colour will be sky blue, the
+same as your settlers. The scale to the right contains percentages that
+range from 0 to 100%, the scale at the bottom represents time. The curve
+changes over time, from left to right. The unit used is the hour (.5 hour
+= 30 minutes). You can choose the ditsplay mode for the statistics in the
+lower left of the screen: upper left = overall comparison: upper right =
+comparison of rural properties: lower left = comparison of the buildings:
+and lower right = combat power. The comparison of the rural properties
+will only indicate the size of your land compared to that of your
+opponents. The buildings will be evaluated according to their size and
+type, and not just according to their quantity. The combat power depends
+on the number, type, and motivation of your knights. The overall omparison
+allows you to obtain average curves based on these three values. This is
+not all however! In the lower right, you will see 4 other icons that
+correspond to the time. The 4 positions correspond to .5 hours, 2 hours,
+10 hours and 50 (!) hours. You will see that a large and energetic combat
+between different groups of settlers can become a long and exciting
+adventure...
+
+These statistics are the only way to obtain precise information about your
+adversary. You will know who has the most powerful army and who possess
+the most land. If the curves rise very quickly at the beginning of the
+game, do not worry. It is not an error, because the player who places his
+castle first will be momentarily the only person to possess land and a
+building (100%). This has no imporiance for the progression of the game.
+An icon will moreover allow you to see the statistics concerning the
+opponents in the game. To see the production statistics, click on the
+lower left icon. They will indicate the type and quantity of merchandise
+produced by your settlers. The scale to the right corresponds to the
+quantity, in units. The horizontal scale represents the time. In these
+statistics, the time counted is around 2 hours. At the beginning of the
+game, these statistics will be at zero (you have not produced anything
+yet). Later on however, you can choose at the bottom of the screen the
+merchantise that your settlers produce. From trees to tools, you will find
+all the different types of merchantise. If you have, for example, selected
+the trees at the bottom and the red surface of the vertical scale stays at
+1, this means that your lumberjacks will cut down around 1 tree per minute.
+This might seem rather uninteresting, but you will progressively learn how
+to better interpret these statistics. For example, if the tree curve
+descends, there will soon be no more trees to cut down. As this statistic
+is very important, look at it from time to time. It will save you from
+being unpleasantly surprised. These production curves are moreover
+"smoothed" to be clear and more readable.
+
+The supply statistics
+
+The food chain, the merchandise, the statistics about the professions.
+
+In these 3 statistics, small pointers will indicate the state of your
+supply. The food chain and the merchantise are the most important
+statistics if your city is relatively large.
+
+Lets begin with the statistics about the professions. Click on the upper
+right icon. As with the statistics for the settlers all the heads will be
+displayed, but with pointers. The pointers will indicate the number of
+settlers that you can use for the corrsponding profession. If none are
+available, the pointer will stay in the red. It will be in the centre if
+you have 3 settlers, and to the right if you have 20 or more settlers.
+Before building a forge, look at the statistics. If the pointer is in the
+red part and you need a blacksmith, no settler is available. Perhaps no
+worker is available or the tooIs that he needs are not available in the
+warehouses. The number in the lower right indicates the number of settlers
+who are waiting for work. If this number is 10 or greater, and a
+profession pointer is in the red, this means that you lack tools for this
+profession. We will explain how to better control the fabrication of tools
+later on. Certain professions do not pose any problems as they do not
+require the use of any tools (bakers or transporters).
+
+Let's look the food chain. You will see a diagram with heads, merchandise,
+pointers and arrows. Each head represents a profession. The merchandise
+is delivered by one profession to another profession, in the direction of
+the arrow. The diagram is presented as follows: the farmer (in the upper
+right) delivers the wheat to the miller and the pig farmer. The miller
+delivers the flour to the baker who, in turn delivers the bread. The pig
+farmer delivers pigs to the butcher who delivers the meat. The fisherman
+(in the lower left) delivers the fish. The bread, meat and fish are the 3
+foods that will be delivered to the 4 types of mines. The pointers are
+special in this diagram. There are two types:
+
+The supply pointer (for the Farmer or the miners for example)
+
+The dial is, from left to right: red (no supply) yellow (good supply) and
+green (excellent supply). This dial indicates the supply of the
+professions: the more merchandise they receive, the better off they are.
+The pig farmer prefers having a lot of wheat to feed his pigs rather than a
+meagre, or non existent, supply.
+
+The activity pointer (for the miller or butcher for example)
+
+This dial is, from left to right: red (no work), green (a lot of work) and
+yellow (too much work). This means that the ideal situation for the person
+receiving the merchandise is to receive neither too much nor too little.
+If the miller does not receive enough wheat, he will have no work and his
+windmiil will be useless. If he receives a normal delivery, his mill is
+active and he will be busy. If he receives too much wheat, however, he
+will not be able to keep up with the work. The mill will turn constantly,
+but the wheat will arrive too quickly and will begin to pile up. After a
+while, you will have to put this surplus in a warehouse. if you build
+another windmill, you can produce more flour. Later when you will have 10
+millers you will be able to see the average activity rate for all the
+windmills. These statistics will indicate potential problems and the
+buildings that need to be built along with the buildings that are
+functionally normal. you will see if the mines are well supplied, and if
+the pig farmer is recieveing enough wheat to feed his pigs. Chapter 6.1
+will explain how you can influence the delivery of merchandise. Don`t be
+surprised if you dont see a pointer at the beginning of the game, as the
+food supply for a mine cannot be indicated if it does not exist.
+
+Merchandise
+
+These statistics are identical to those for food, except that they
+represent all merchandise except for food. The suppliers of raw materiaIs
+are indicated to the left (miners, lumberjacks and quarry workers). The
+intermediate professions are in the centre (workers at the Forge and the
+mill). The users are to the right (knights, blacksmiths, iron workers,
+ship makers and masons). The arrows indicate the direction of the
+delivery, as explained above. The other function as for the food chain.
+The only difference is that certain professions (casters, blacksmiths, iron
+workers and masons) cannot do anything if there is iron but no coal...
+These statistics will also help you to foresee any difficulties.
+
+The Warehouses
+
+You already know how to build a warehouse. But there are also other ways
+of recieving information about the warehouses and of giving orders. If you
+special click on a warehouse (if there are none use a castle), a window
+will appear indicating the state of the stock in this warehouse. By
+changing the page with the arrow, you will see the settlers that are in
+this warehouse. The third page contains two having different symbols. The
+upper icon concerns the merchandise, the lower icon concerns the settlers
+located in this warehouse. The hook can be located in three places. Look
+at the merchandise first in the beginning the hook is at the top. The
+merchandise will be stored in this warehouse. When the hook is in the
+middle, no more merchandise can be stored in the warehouse: it can only be
+delivered. When the hook is at the bottom the warehouse will be emptied of
+its merchandise and nothing else can be stored there. For the settlers the
+signification is practically the same: when the hook is at the top they
+must go to the warehouse after work. If it is in the middle no other
+settler will be accepted. If it is at the bottom all the settlers must
+leave the warehouse. You can determine the state of the warehouse. With a
+special click you can activate the two lower options. What are these
+options for? If the enemy approaches your warehouse and you can no longer
+defend your position, you will lose all your merchandise in the ensuing
+fire. Only certain settlers will be able to escape. You will have to be
+able to retreat and fight if you want to minimize your losses. Dont forget
+that you will need time to empty a warehouse or evacuate the settlers. If
+you fight back too late when retreating, you will save only a few settlers.
+The warehouses are, moreover crucial for your economy. If a warehouse no
+longer accepts merchandise or settlers the others will be overstocked. The
+evacuation of the merchandise and settlers will have a negative effect.
+Think before deciding if it is better to retreat and fight. Do not build
+your warehouses too close to the enemy, or protect them with casties. If a
+warehouse appears not to be safe, stop the reception of merchandise in time
+so that you dont accumulate it for no reason, and to be able to save it in
+time.
+
+You will sometimes have problems when the unemployed settlers are in the
+warehouse and the weapons and tools are stored elsewhere In this case, your
+settlers will automatically go to a warehouse where tools are stocked and
+wait there for work. You will have similar problems with the tools when
+the pliers are in a warehouse and the hammers in another. No blacksmith
+can set up shop, as he needs both tools. This holds true for the iron
+worker (saw and hammer) and for the knights (sword and shield). In this
+situation, the tools and weapons will automatically be taken to the other
+warehouse.
+
+Information concerning the buildings and the flags
+
+The statistics will give you an overview of your total development. You
+might, at certain times, want to know specific things about the state of
+the stock in a particular building etc... You will see the available
+information for the buildings. This information is always activated with a
+special click.
+ 
+If you special click on a construction site, you will see the building
+that you are in the process of building, questions like "Where am I going
+to place my windmill?" Or "I don't remember where I built the farm....
+become extraneous because they don't carry much importance at the beginning
+of the construction phase, and you can therefore forget about what you
+wanted to construct and where. Special click on one of your mines. You
+will immediately see the mine's yield. The calculation will be made in
+function of the number of trips the miners made into the mine (with
+merchandise). Remember that it will require several trips into the mines
+before you can use this information. It is useful essentially in the
+future demolition of these mines, because if a mine no longer has a yield,
+the miner will eat the food (which can become rare, depending on the
+progression of the game) that will be needed in other mines. You will also
+see the food stock that a mine has at its disposal. As the miner will
+accept fish as well as bread or meat, this quantity is indicated by the
+meat icon, If nothing is indicated, there is no food in this mine and the
+miner will strike. If you special click on the castle, a guard tower or a
+guard hut, you can see the position of your knights. Most importantly, you
+will see the strength of the castle to be defended.
+
+As for the mines, you will also see the state of the stocks, but this time
+it concerns the gold. The guard huts receive a maximum of two units, the
+guard towers can receive a maximum of four units and the castles can
+receive a maximum of eight units.
+
+You will see the state of the stock for all of the following buildings:
+
+Naval shipyard (wood)
+Sawmill   (tree trunks)
+Farm land  (wheat)
+Butcher's shop (pigs)
+Mill    (wheat)
+Baker   (flour)
+Iron foundry  (iron ore and coal)
+Gold foundry  (unrefined gold and coal)
+Forge   (iron and coal)
+Iron worker  (iron and wood)
+
+You will not have to learn all that by heart. It just means that all the
+buildings need merchandise. The woodcutter huts, the forest houses, the
+fishermen huts, the huts for the quarrymen and farmers do not provide the
+same information because they deliver merchandise, they don't require or
+store any. You will also know if a settler is already working in a
+building. To conclude, special click on any intersection. You have
+already seen the geologist's window. In the upper section you will see a
+flag. In each direction, when a road branches out from the flag, you will
+see a hook or a line. If everything is normal, you will see a hook. If
+you click on a flag where large quantities of merchandise to distribute in
+this direction, but the settlers cannot get by, and the traffic jam will
+disappear after they have distributed all the merchandise that is blocking
+the road. You are not required to immediate alleviate a traffic jam but
+you can find other solutions so that the settlers can distribute the
+merchandise by making a detour. In locations that are often busy, take a
+close look at the network of roads and think about constructing a new
+warehouse. Do not wait until several flags are blocked up by the
+merchandise.
+
+Furthermore, you can construct a road that passes directly in front of the
+flag with a special function. An extra icon will be available when this is
+possible.
+
+This chapter covered how to obtain a multitude of information about your
+city. You learned how to access to the various informative statistics.
+Foresee eventual problems, or simply to watch the evolution of your
+kingdom. In this game, observing and learning are two important factors.
+If you expand and construct without understanding what is happening around
+you, you will not achieve your objectives.
+
+The distribution menus
+
+In the next 3 chapters, we will discuss the menus in detail. These menus
+allow you to modify various parameters and to influence the life of your
+city. To activate the menus, click on the lower icon. As with the
+statistics, you may activate several menus and return to the main
+selection.
+
+In each menu, a Default button allows you to reset all the parameters back
+to zero.
+
+The first 3 menus are distribution menus for merchandise. There are
+several types of merchandise (food, wood, iron, coal and wheat) which will
+be delivered to the different professions. The tree trunks will only be
+delivered to the sawmills, but iron will be delivered to the blacksmiths
+and ironworkers. Your iron stock will sometimes be low. and you will want
+to fabrtcate weapons rather than tools, and vice versa. You can modify
+these parameters in the distribution menus.
+
+Click on the top left icon. You will see the different foods displayed at
+the top of the scrcen, with the mine below, each with a "supply bar",.
+These bars show the food supply received by each mine. If you have a very
+small stock of food and you want to supply the iron and coal mines in order
+to continue fabricating weapons, lower the supply bar for the other mines
+to zero (Left), and raise the supply bar of the iron and coal mines to the
+maximum (right).
+
+The second menu allows you to organize the wood and iron deliveries. Wood
+is used for construction sites, tools and boats. If you have a ship maker,
+stop delivering wood to him if you don`t want him to construct any
+unnecessary boats. You will need more wood for the two other professions.
+The iron will be delivered to the blacksmith and iron worker. If you are
+short of iron, priorities will be established according to your evaluation
+of the situation and the condition of your stocks.
+ 
+The third distribution menu concerns coal and wheat. The coal will be
+delivered to the foundries and the blacksmiths. There too, the
+distribution will depend on the situation of the game. If you are short of
+coal, decrease deliveries to the gold foundry. The wheat will be delivered
+to the pigsties and the farms. Your preferences will depend upon your city
+and your plan of distribution.
+
+If you set one of the parameters at zero, the type of building selected
+will not receive any merchandise. If a bar is two times longer then
+another one, it means that the building receives twice as much merchandise
+as the other one. But your settlers are also thinking a lot too. If the
+merchandise is very rare, they will only deliver it to the most important
+building concerned. If the stock is somewhat higher, they will deliver a
+small amount of merchandise to the other buildings. If your stock is large
+enough, they will also deliver to the less important buildings.
+
+Rules of Combat
+---------------
+
+The Knight Menus
+
+Two menus allow you to modify various parameters for the knights. Click on
+the lower left icon in the menu, A new window will be displayed with 4
+icons on the left, and 2 texts relating to each icon. The left image shows
+the castles in various positions based on their distance from the frontier:
+
+- on the front line: your castles, watchtowers and guard huts located
+right on the frontier with the enemy are indicated by a thick black cross
+on their flag.
+
+- on second line: The castles, etc... located behind the front are
+indicated by a normal black cross on their flag.
+
+- on third line: The castles, etc... located far from the frontier are
+not treatened directly. Their flag bears a black stroke.
+
+- in the hinterland: The enemy is not visible, and the castles flag is
+white.
+
+In each case, you will have to decide how many knights will be placed in
+these buildings (castles, watchtowers and guard huts). The optimal
+occupation rate will be indicated next to the 4 images. The buildings
+located on the front line should be full, the ones on the second line
+should be well occupied, the ones on the third line moderately full, and
+the Castles in the hinterland should be rather empty. Your buildings will
+thus be better protected, and you will avoid a situation where most of your
+knights are located in the hinterlands, while there is only one in your
+castle located on the front line. The second word indicates the maximum
+acceptable drop of the occupation rate of the building should you decide to
+use knights to attack the enemy: "good" for the front liner "average" for
+behind the front, "weak" for the third line and "minimum" for the
+hinterland.
+
+Here are some examples: if you read "Full/good", this means that all
+buildings must be occupied to the maximum. If your troops attack the
+enemy, you will only send out a few knights, keeping enough of them inside
+to maintain a "good" occupation rate. If you choose "full/ Full", the
+knights will occupy the buildings equally, and none of them will leave for
+this attack. Your front line will thus be protected to the maximum. But
+in this case, the knights remaining in remote buildings will need more time
+to get to the front line, as the road to travel is longer. With
+"full/minimum", settings, all knights will leave the building to attack the
+enemy, except one. Of course, this means that your building will be poorly
+guarded. You can use such settings for the buildings located in the
+hinterland if you have many knights available. This will allow you to have
+more knights available in the event of an attack. But don't forget that
+your knights will be better trained if, they, stay inside the building...
+
+Do not use settings that could be too straining. If you dont have enough
+knights, your guard huts, etc... will be too empty sooner or later. To
+change these settings, click on the + and - signs. The upper setting
+(ideal number of knights) logically cannot be smaller than the following
+one (number of remaining knights), Change the second setting. It is very
+imporiant to IMMEDIATELY change these paranmeters. If you change the
+occupation rate setting from "full" to "minimum." in the castles located on
+the front line, all your knights will leave, except one. Think first, and
+click later. When your knights leave the castle to attack the enemy, they
+will immediately be replaced by new knights coming from the warehouses, as
+long as there are knights waiting for a job there.
+
+The second knight menu will allow you to change several other parameters.
+Click on the lower central icon. The "knights rate" will be displayed in
+the upper left corner of the screen. The default rate is 30% and you can
+modify it as you like. This rate shows the number of settlers that could
+become knights, provided that you have enough swords and shields. If you
+choose a medium setting (bar in the middle), half of your settlers will
+become knights. If you set the bar to the left, you will not receive any
+knights.
+
+The lower icons allow you to directly recruit unemployed workers to form
+new knights. The number of settlers available for recruiting is displayed
+to the right. This number depends mostly on the number of weapons
+available in your warehouses, But you also need enough unemployed settlers,
+of course. Another icon allows you to choose the knights who will attack
+the enemy. With the default settings, the weaker knights will attack the
+enemy, while the stronger ones will stay in defence. But you can also send
+the stronger ones on attack and keep the weak ones to defend your
+buildings. Both options have advantages and drawbacks. But it is usually
+better to send the weaker knights in combat and to maintain a good defence
+in your castles. You will decide which strategy is the best. An icon, to
+the right, allows you to organize your knights relief. When you click on
+this icon, one or more knights will leave your castles, etc... if the
+occupation rate is high enough (as explained earlier) and will go to the
+closest warehouses. New knights will replace them. The advantage of this
+is that the weakest knighs will go back to the warehouses to receive some
+more training, while the stronger ones will take their place. When you use
+this option you must consider the following factors:
+
+If you fear an attack in the upcoming minutes, wait. You will prevent a
+sudden drop in the occupation rate of your buildings during a short moment.
+
+Make sure you have enough well trained knights in your warehouses. If not,
+changing the settings is not useful.
+
+Your knights' strength depends not only on their training level but also on
+the amount of gold stored in their city. Your knights strength will always
+be the same when they are defending, but it will depend on their motivation
+during combats. They will be very motivated if your city shelters a lot of
+gold. At the beginning of the game, it is extremely difficult to win a
+battle. You did not extract any gold yet, and your knights are not trained
+enough. If you want to stand a chance to win, the ratio must be 4:1. Your
+loses will of course be higher than your opponent's, and you must carefully
+choose the place of the attack. If your attack allows you to take control
+over an enemy gold mine or his (or her) only food producing building, it
+can be profitable even if you suffer heavy losses, because:
+
+The ememy will suffer heavy damage
+
+The enemy knights will be weak at the beginning of the game, and it will
+also be very hard for them to recapture their lost territory.
+
+As soon as you have enough gold, your knights will be stronger, and they
+will be better in attack than in defence. You can then consider the
+complete destruction of your enemies. But be careful if you play against
+several opponents.
+
+You can know the motivation level of the enemy knights in the attack menu.
+Each gold unit stocked in a castler a watchtower or a guard hut will have a
+positive effect. While transported, the gold is not considered as being
+stored somewhere.
+
+You have probably already noticed that the attack menu displays not only
+the combat strength, but also the total number of goId units owned by the
+player. The number of knights defending the castle is displayed at the
+bottom of the screen. You can change this number by clicking on the
+arrows. If you think that your situation is hopeless, you can click on the
+white flag to quit the game.
+ 
+You can also attack an enemy castle. But don't forget that the enemy may
+have left more knights than usual in his castle. If you conquer the
+castle, it will be burned down, just like the warehouses, the winner will
+strike a decisive blow on his opponent, causing him to lose the merchandise
+and settlers that were in the castle. Futhermore, your knights moral will
+strengthen, while the enemy knights are really down. If you think you can
+easily conquer a castle, launch an attack. But if you loose a castle,
+don't give up. If enough well trained knights are available, you can win
+the battle, but it will not be a piece of cake!
+
+The attack menu allows you to specify the number of knights remaining in
+the castle to defend it. Don't forget that the castle is important not
+only for your troops' moral, but also because it is the only warehouse
+directly protected by knights, and thus much safer than the warehouses you
+constructed later in the game.
+
+To Continue
+-----------
+
+The Other Menus
+
+Tool fabrication, merchandise priorities and evacuation menu 
+
+In the menu, click on the central left icon. The 9 different tools will be
+displayed with a bar showing the number of tools manufactured by your
+workers. The default settings are as follows: high rate of hammers and
+picks, low rate for scythes and pliers. Masons, geologists, blacksmiths
+and iron workers need hammers but scythes are only needed by the farmers.
+You can modify the tool fabrication rate during the game. For example, if
+you urgently need a specific tool (you may have enough hammers, but you
+need pliers for a new blacksmith), you can speed up the manufacturing rate
+for the pliers while reducing that rate for the other tools. Don't forget
+to change these settings later on in the game. The length of the bars
+shows the number of manufactured tools. If the hammer bar is twice as long
+as the saw bar this means that your workers will manufacture two hammers
+for each saw. But as long as you don't have a blacksmith, this menu is not
+useful. If you want to avoid having to set priorities for the tools,
+manufacture as many tools as possible and as soon as you can. This will
+allow to more easily control the warehouse statistics.
+
+Click on the central icon to open the merchandise priorities menu. You
+will see a list of merchandise and icons. This menu allows you to define
+priorities for merchandise: some of them will be transported in priority
+by your transporters. The wood is the first priority in the default
+settings, because it is very important for construction works and must be
+delivered as soon as possible to the sawmills. Gold, inversely, has a
+lower priority level: even if it strengthens your troops moral, its
+transporiation is less urgent; and this will have no negative effect on the
+game. But you may also have your very own idea, and you can change these
+priority settings. Click on the desired merchandise. The small arrows
+allow you to lower or raise the priority level, the large one to place the
+merchandise directly at the top or bottom of the priority list. The upper
+left icon allows you to return to the initial settings. If you are
+fighting against the enemy, weapons should generally be transported in
+priority, before construction materials. The choice of the best strategy
+is up to you.
+
+The most important menu allows you to evacuate merchandise, and is
+activated by the central right icon: If the enemy gets too close to one of
+your warehouses and you decide to evacuate it, it would be a pity to save
+more wheat than gold. In this menu, you will decide the evacuation
+priority of the merchandise. This option works like the delivery
+priorities menu.
+
+Messages and preferences
+
+During the game, you will always know what the important events are with
+the messages displayed by the program. But you can also use these messages
+for playing the game. This chapter is related to the various messages sent
+during the game.
+
+You will receive a message for the following events:
+
+A new guard building is occupied for the first time by a knight. You will
+thus annex new territories and will be able to plan your city's expansion.
+
+A new warehouse has been constructed.
+
+A geologist discovered new underground riches.
+
+A mine yields no more ore and must be demolished as it consumes food for
+nothing
+
+You are attacked.
+
+You conquered an enemy guard building and gained new territories.
+
+One of your buildings has been taken over by the enemy.
+
+The enemy placed a hut near your territory, and you lost some land.
+
+Same as above, but you lost land and one or more buildings.
+
+The construction materials stock in your castle is too low. An emergency
+program is started, and the only construction works to recieve materiais
+will be the woodcutter huts, the sawmills and the quarries.
+
+The emergency program is stopped, the construction works mentioned above
+have been provided with materials, and their delivery has been carried on.
+
+You don't need to read all the messages when they arrive. The program will
+memorize more than 50 of them for you, so you wil have time to finish what
+you are currency doing, if for example you are creating new routes, To view
+a message, click on the hook in the window. If the message displayed
+doesn't interest you and there are some more, click on the sheet to view
+the next message. An arrow also allows you to come back to the previous
+message.
+
+"THE SETTLERS" also includes other options. For example, you can send
+yourself a message. How? The message will be delayed for several good
+reasons, This option is in fact a "recall" option, and you can use it in
+two ways:
+
+a) It allows you to be called to a certain place after a specific length of
+time.
+
+b) It allows you to be called in a menu or a warehouse after a spacified
+length of time. The different watches allow you to specify the length of
+time with brackets of 5, 10, 20, 30 or 60 minutes. When this time has
+expired, you will receive a message and you will be automatically recalled
+to the desired pIace or menu. Here are a few examples on how to use this
+option:
+
+You urgently need a certain type of tool and you decide to halt tthe
+manufacture of other tools with the production menu. But if you forget to
+change the production settings later on, no other tool will be
+manufactured, and you can easily foresee the consequences. Click on a
+watch in the tools menu. After the specified length of time, you will be
+informed that you still have something to do in this menu.
+
+Your mine workers are on strike and you urgently need food. You can modify
+the delivery priorities for the merchandise. Fish, meat and bread will be
+delivered in priority, before the construction materials, But when the
+problem is resolved, the recall option will allow you to change the
+settings again and set new priorities.
+
+You want to build new huts for fishermen in a certain place, but you have
+not yet annexed the land, and the guard huts are still under construction.
+Specify the desired length of time after which you will be recalled to this
+place. The situation may be different later on,
+
+You realize that the enemy is suddenly constructing many castles, and you
+want to keep an eye on him. You just have to precise the length of time
+after which you will be recalled to a certain place to see how the
+situation evolved.
+
+It is sometimes useful to use the recall option if you want to change the
+merchandisc all and/or settlers settings again later on in the game,
+
+You must also consider this: if you play in team mode with another player
+(blue settlers), the right player on the screen may not use the watches,
+and all the messages also arrive to the left player. But you're playing in
+team, right?
+
+Renewable games
+
+Back to the main menu. In 1 & 2 player mode and in demo mode, an icon will
+be displayed in the centre of the screen. We did not discuss this icon
+earlier in this manual. As you already know, the 16 digit number affects
+the world's appearance. Thus, the same number always produces the same
+world. If you click on this icon, the same combination will be used for
+your opponents. The turning star at the bottom of the screen indicates
+that the world AND your opponents are derived from the same combination of
+digits.
+
+What is the real advantage of this? For example, say you choose the
+6355174823325876 combination and a size 4 world. At the end of the game,
+if you consider that it was interesting and challenging, you can give that
+combination and the world size to a friend. He will be able to play the
+same game using the arrow icon, because the world AND opponents data is
+always based on the digits combination and the world's size.
+
+The 16 digits (between 1 and 8) allow about 270,000 billion combinations,
+but some are not interesting. Examine carefully your opponent's abilities,
+and decide if you want to accept this game or not. If you want to play
+another game, click on the arrow to obtain a new combination, and click
+again on the bottom arrow. You can do this as many times as you want. If
+another player gave you a combination, click on the dialogue box and enter
+the combination, which must include 16 digits. Don't forget to note the
+world size and the combination if you want to pass the game to another
+player
+
+If you find a fantastic combination, please feel free to send it to us here
+at Blue Byte, we also like to colonize, when we have some rare free time.
+
+Demo and team mode
+
+In demo mode, you can watch a game entirely controlled by the computerer.
+Even if you only watch the game, "THE SETTLERS", is an entertaining and
+interesting game, In demo mode, the statistics, the menus, the map and the
+usual buildings information are available like in a normal game. You may
+change some menus and statistics options, but you cannot change the
+settings or construct buildings or roads.
+
+Relax and watch the opponents fight for the control of the land,
+
+The team mode has been developed to allow 2 players to play together
+against computer controlled opponents. As both players control the same
+settlers group (the blue ones), the scenarios are identical. Team play has
+an adyantage: you will haye more time to think and decide, But there is
+also a drawback: you might experience some coordination problems from time
+to time... In team mode, the game is slightly different. Both players
+CANNOT activate the menus, the attack option and the geologist
+simultaneously. But this is not a real constraint, as the players are
+supposed to inform each other of any change in the settings.
+
+The Options
+
+Experienced players want to rapidly activate the options and avoid long
+mouse controls. "THE SETTLERS" allows you to define several extra options
+for each player. These options are activated when clicking on the icon on
+the main menu or the play menu.
+
+You can toggle the music on or off with the corresponding icon. You can
+also assign the sound effects to 2 different channels when playing in 2
+player mode. The left player will hear sound on the left channel, the
+right player on the right channel. In that case, no music will be
+available in the game.
+
+Messages: the game includes 4 different message display modes
+
+3) All messages are displayed.
+
+2) All messages are displayed, except the messages concerning newly
+constructed buildings and geologists.
+
+1) Only important messages are displayed (attacks, victories, defeats,
+building losses and emergency program).
+
+0) No message displayed.
+
+Scrolling when building roads: if you get close to the edge of the play
+screen while building a road, the world will scroll automatically and you
+will hear a sound,
+
+Fast construction click: If you click twice on the pointer, this will have
+the same result than clicking on the construction icon. Click twice on a
+flag to build a road, or on an empty place to construct a building.
+
+Fast map click: Double click on the right mouse button to display the map.
+Double click again to close it. If your right mouse button does not work
+properly, do not use this function, you could activate the map display
+while trying to scroll the playscreen.
+
+Special functions for the map
+
+The map includes a special option: display the map and special click on
+the buildings icon. A new window with buildings will be displayed. This
+window is identical to the statistics window,
+
+The change page icon allows you to see the other buildings Choose a
+building and click on it. The buildings will disappear and the map will be
+displayed
+
+A new icon is displayed at the bottom of the screen. The map will only
+display the selected building. This option allows you to quickly see where
+your warehouses, etc... are located. In very large worlds this option is
+very useful. The buildings currently under construction will also be
+displayed for your convenience, allowing a better planning. For example,
+if you look for the right spot to place a new baker, you can see where your
+windmills are located. When you close the map, the option is still
+activated, and the selected buildings will still be displayed on the map
+when reactivated.
+
+To return to normal mode, click "normally" on the icon. To select another
+type of building, special click again.
+
+You can also use the flag to select the type of buildings displayed on the
+map. Click on the flag. A new icon will be displayed below the map. But
+all flags will not be displayed, only the ones where all roads are not
+used. This allows you to see where your network is jammed by the transport
+of merchandise. Also, when a road is not used, there might be two reasons:
+
+No worker has arrived on this road. Or you just built it, and you have to
+wait a while. Or you do not have enough workers.
+
+There has been a traffic jam at this crossroad (read the corresponding
+chapter in this manual). With this option, you can immediately see where
+the transportation of merchandise is posing problems.
+
+Another special option will soon be essential for playing the game: the
+magnifying glass icon, next to the map icon, which allows you to zoom in on
+the game map,
+
+Hints
+-----
+
+The most important rules: be observant
+
+You have already understood that "THE SETTLERS", is a very special game.
+As soon as you change one of the settings. your settlers (small groups or
+hundreds of them) will act differently in order to follow your new
+instructions. A small change may have profound effects. It is wiser to
+carefully plan your construction schedule and your strategy, instead of
+building things haphazardly and constantly attacking your enemies. You
+should examine the situation carefully and analyze it before making a
+decision. The winner of the game is not the one who clicks quicker on the
+icons, it's the one who develops the best tactics and strategies. In this
+chapterr we will give you some more hints to play the game.
+
+Look at your statistics from time to time, analyze your development
+mistakes or the negative results of an operation, and find the best
+solution. You can solve a problem in many ways. Let's take an
+example:your construction works are halted because your wood supply is
+exhausted. Your analysis could be as follows: first you take into
+consideration the number of woodcutters chopping down trees, then you
+construct a new sawmill if enough carpenters are available.
+
+In case of a grave crisis, demolish a few roads to reduce merchandise
+deliveries to certain areas in your city. Some workers are using the wood
+needed for your construction works? Reduce deliveries to the ship makers
+or iron workers wood until the crisis is over. Do you have enough tools to
+allow this, or do you have more urgent problem to solve in this area? Bow
+will you do to have a sufficient stock of wood rapidly enough? Did you
+train enough forest rangers? Will you be able to solve the crisis more
+rapidly by cutting the trees down in a new forest? If there is no forest
+around, a new guard hut will allow you to annex new lands if you need one.
+Several factors play an important role in the game, and you will always
+find new tasks in "THE SETTLERS", because each game is different.
+
+Carefully examine your opponent's territory to determine what he is
+preparing and his leyel of strength. Determine his weak points so that you
+will be able to attack him. Bas he built only one iron mine, which will
+allow you to deprive him of his raw materials? Is one of his warehouses
+easy to take, or lacking food, and can you interrupt the production of the
+enemy? The problems posed by a city are the same for your opponents.
+There are several ways to freeze up his economy.
+
+Depending on the size of the world, the number of settlers is limited to
+the following number (sizes 1-8):
+
+500/1000/2000/4000/8000/16000/32000/64000.
+
+4 players, for example, face off in a size 5 world will each recieve
+additional settlers, fairly distributed. The birth rate does not influence
+the total number of settlers controlled by each player, but only on the
+frequency at which new settlers arrive.
+
+The behaviours of your opponents
+
+Adversaries have very different behaviours, as you will notice during the
+various events. Here is a brief presentation of the principal character
+types:
+
+1) Lady Amalie
+An inoffensive lady, reserved, who goes about her work peacefully,
+
+2) Kumnpy Onefinger
+A very hostile character, who loves gold above all else.
+
+3) Balduin, a former monk
+A very discrete character, who worries chiefly about the protection of his
+lands and his important buildings.
+
+4) Frollin
+His unpredictable behaviour will always take you by surprise, He will
+"pilfer" away lands that are not occupied.
+
+5) Kallina 
+She is a fighter who attempts to block the enemy`s food supply by using
+strategic tactics,
+
+6) Rasparuk the druid 
+His tactics consist in amassing large stocks of raw materials But he
+attacks slyly.
+
+7) Count Aldaba
+Protect your warehouses well, because he is aggressive and knows exactly
+where he must attack.
+
+8) The King Rolph VII
+He is a prudent ruler without any particular weakness. He will try to
+check the supply of construction materials of his adversaries.
+
+9) Homen Doublehorn
+He is the most aggressive enemy. Watch your buildings carefully, otherwise
+he might take you by surprise.
+
+10) Sollok the Joker
+A sly and repugnant adversary, he will try to stop the supply of raw
+materials of his enemies right from the beginning of the game.
+
+Hints and tips: professions
+
+This chapter contains other tips concerning the choice of location for
+buildings.
+
+Demolition: when you demolish a road, you interrupt the transport of
+merchandise passing in this direction. Try to figure out a way to always
+leave a road. and do not destroy the only important connecting road.
+Merchandise has to wait for the arrival of a new transporter before being
+transported on a new road. Any modification of your network affects the
+transportation of merchandise. Construct therefore, right from the start,
+a well organized network.
+
+Castle: you already know how to choose a good location for your castle,
+but observe also the positions of your opponents castles. Do not place
+yourself too close to a powerful adversary. The opponents controlled bv
+the computer can fight among themselves and consequently destroy
+themselves.
+
+Large buildings: the land for the construction of large buildings is rare,
+and consequently, expensive. Do not construct huts and small roads on land
+where you could construct a larger building.
+
+Ship maker: For the large lakes, a short cut by using a water way is very
+efficient to quickly transport merchandise.
+
+Fishermen: A lake that is as big as the game screen will contain enough
+fish for 3 or 4 fishermen. Make sure that the fishermen are spread out on
+the lake. If they all fish in the same spot they will finish by catching
+nothing.
+
+Farmer: he needs unoccupied lands in order to transform them into fields.
+The roads cannot be considered as unoccupied lands. Do not construct too
+many roads around a farm. To avoid the farmer losing time travelling to
+losing time travelling to his fields, do not have him use steep roads.
+
+Miller and baker: One miller and one baker are enough for several farms.
+But make sure that the roads used for transporting their merchandise are
+not too long.
+
+Butcher: he works quickly and in spite of his deliveries to the farmers,
+he generally does not have any problems with his work.
+
+Lumberjack and forest ranger: they complement each other perfectly. The
+forest ranger can replace the trees cut down after the passing of the
+lumberjack. Wood is the raw material with the highest demand. Use several
+lumberjacks and forest rangers. The forest rangers cannot plant trees on
+the roads. Do not place them, therefore, in the general vicinity of the
+castle or near the warehouses that require several roads for the
+transportation of merchandise. Place them a little way away, even in
+places that are not perfectly flat and that cannot be used for other
+things.
+
+Miller: One miller is sufficient for several lumberjacks. But you will
+have to quickly construct several sawmills.
+
+Ship maker: Make sure that the ship maker does not use up all your wood to
+build a fleet of boats. As soon as he has finished his work, do not give
+him any more wood.
+
+Miner: If he can no longer find anything, burn the mine down so you will
+not have to feed him. In the mountains, construct a network of roads with
+numerous branches to facilitate the transport of raw materials to the
+valley.
+
+Caster: The cast takes a little while and the caster cannot cast the ore
+of several mines fast enough without falling behind. But he will be able
+to catch up as soon as the deliveries slow down. Depending on the size of
+his backlog, you can hold back on new constructions.
+
+Geologist: When the geologists return home after their prospections, they
+will stay in the warehouses without anything to do. From time to time,
+send them back in the mountains to look for new underground riches. You
+might discover a new vein of gold that you had missed before.
+
+How do the settlers choose the road on which to transport the merchandise?
+It is a rather complicated procedure. It is important to know where the
+merchandise is needed. A mill can be very close and contains a of of
+wheat, even though the stock of another mill that is further away will be
+dried up. Moreover, certain merchandise is distributed according to the
+menu parameters. When a destination has been found for the merchandise,
+the settlers take the shorter route. The essential element is the number
+of roads that the merchandise will have to pass by: a very long road
+between two flags is faster than a shorter voyage with an intermediate
+flag. The player has, therefore, a great advantage, because he can
+influence the choice of road chosen for the transportation. Here is an
+example:
+
+You have placed a flag on each side of a warehouse and a road to connect it
+to your network. All merchandise that must transit through the warehouse
+is already keeping the crossroad very busy, and the merchandise transported
+from one flag to the other, and in both directions, blocks traffic even
+more. On the other hand, if you create a new connection between the two
+flags (even if it makes an apparent detour around the wanehouse), the
+traffic will no longer pass in front of the warehouse, but by the new road
+that allows you to avoid it. This principle allows you to construct
+complex networks around important warehouses or castles, which, in turn,
+allows you to transport merchandise more rapidly. Do not forget that any
+construction, demolition and transformation of road initially has negative
+effects on the transportation of merchandise. It is only when the settlers
+will be adapted to the new situation that the transporiation of merchandise
+will proceed normally. Your workers will often have to cross over enemy
+land to cut downtrees or harvest wheat. In the mines, you can take
+advantage of this situation and steal underground riches from the enemy.
+
+Other loading options
+
+If you know the CLI for the Amiga, you can launch the program with
+different options:
+
+-f: Save/Load to Floppy
+
+The files will be loaded and saved from the floppy disk drive. If you do
+not use the -f parameter, the files will be saved in the "THE
+SETTLERS\save\", directory.
+
+-s: Single player
+
+The game is limited to one player. This option is useful if you only have
+512 KB of RAM. If you play alone and if you want to use the memory for the
+sound effects. The game for 2 players in a team is not available if this
+option is activated.
+
+-mx: Force mapsize x
+
+X is a number between 1 and 8. It indicates the size of the games world.
+The program has a size 3 world by default, because this is the size of
+world used for the training scenarios.
+
+-n: Force NTSC
+
+If your system is in the PAL standard, the screen will be in NTSC mode.
+You will thereby save memory (the screen is smaller) and the program can
+load more sound effects if you haye more than 512 KB of RAM.
+
+-q: quickgrafix disabled
+
+The rapid graphics (that are reserved tor computers having 1 MB or more)
+take the priority over the music. This option allows you to give the
+priority to the music. If there is any space remaining, the program will
+use the rapid graphics.
+
+Need Help?
+
+During the game, you can sometimes find yourself in a "no way out"
+situation. For example, if you have lumberjacks but no more wood, the
+construction of a lumberjack's hut can pose a serious problem. All is not
+yet lost, however, because you can always send your knights into combat.
+If you do not have any stocks at the beginning of the game, you might end
+up quickly lacking materials. If you do not watch your production closely,
+you will see that you lack one unit of wood for the sawmill too late....
+and you will have to restart at zero.
+
+To avoid this, an "emergency program" is placed at the beginning of the
+game. This program is, in fact, a reserve of 2 units of granite and 7
+units of wood that allow you to construct a lumberjack's hut, a sawmill and
+a quarryman`s hut.
+
+If you need materials, these construction sites will receive them in
+priority order to ensure the minimal supply, because these three buildings
+will open all the doors. You can also find yourself in a dead end with the
+tool maker: if you don't have a tool maker, and all the hammers have been
+distributed to the construction workers and to the geologists, you can no
+longer send an iron worker to work and the fabrication of tools becomes
+impossible. It is for this reason that at the beginning of the game,
+certain settlers take the necessary tools. Early in the game, you will not
+have too many problems. Everything has been foreseen. But, later on, you
+will be the sole person responsible for your mistakes. You now know
+everything about the program, and your knowledge is sufficient to be able
+to confront the computer or to challenge another player.
+
+The end of the game
+
+The game finishes when there is only one city remaining in the game's
+world. You can quit a game when playing by clicking on the white flag. If
+the adversary controlled by the computer decides to quit, you can decide
+whether or not to continue the game. There might be instances when several
+cities remain in the game. In this case, the game will be a draw. This
+situation can happen when no city has enough knights and all the deposits
+of ore and coal are dried up, prohibiting the fabrication of weapons. In
+this case, there is no winner.
+
+Annexes
+-------
+
+If you have a problem.....
+
+Configuration problems concerning the Amiga version:
+
+Less than 20% of the sound effects were loaded!
+
+Cause: You do not have enough memory. Before launching the game,
+deactivate the resident programs or unplug unused floppy disk drives. They
+use memory that is needed by The Settlers.
+
+The music was not loaded, even though have 1 MB of Chipram and more than 1
+MB of memory!
+
+Cause: See above.
+
+The program or a part of the data does not go into Fastram as I would have
+liked.
+
+Cause: Verify the size of the available Fastram. Your extension has
+perhaps, a memory capacity of C000000. These extensions have been
+integrated in the Amiga 2000, and can be obtained in several versions (512
+KB, 1.7 MB) for the internal drive of the Amiga 500. These extensions are
+not REAL Fastram. But do not be discouraged: this only means that the
+program will function a little more slowly.
+
+Only a part of the data is in the Fastram, even though the list says "yes".
+
+Cause: a part of the Fastram is probably being used by other programs.
+
+The size of the world indicated in the list has not been reached!
+
+Cause: a part of the Fastram or Chipram is being used by other programs.
+You will find a complete list of possible configurations and of their
+effects on "The Settlers" on the following page.
+
+Configuration examples: This list allows you to see the different possible
+configurations and the performances of the program on the machine:
+
+Your Computer         Sound       Size         Fastram       Missions
+Chipram Fastram   Effects Music (in Screens) Program Data
+512 kb   512 kb    ca.25%   no    1-3 (37)     Yes    Yes      Yes
+512 kb    1 MB     ca.25%   no    1-5 (150)    Yes    Yes      Yes
+512 kb    2 MB     ca.25%   no    1-6 (600)    Yes    Yes      Yes
+512 kb    4 MB     ca.25%   no    1-8 (1200)   Yes    Yes      Yes
+1 MB      none     ca.25%   no    1-3 (37)      No     No      Yes
+1 MB      1 MB     all     yes    1-5 (150)    Yes    Yes      Yes
+1 MB      2 MB     all     yes    1-6 (600)    Yes    Yes      Yes
+1 MB      4 MB     all     yes    1-8 (1200)   Yes    Yes      Yes
+2 MB      none     all     yes    1-5 (300)     No     No      Yes
+2 MB      1 MB     all     yes    1-7 (600)    Yes   some      Yes
+2 MB      2 MB     all     yes    1-7 (600)    Yes   some      Yes
+2 MB      4 MB     all     yes    1-8 (1200)   Yes    Yes      Yes
+
+
+---
+Typed by SHaRD/N&B
+
+
+
+
+
+
+
+
+            The Settlers : Construction/Statistic/Prefs Manual 
+
+  After reading the documentation (Shard/N&B) and the Hints (Dyonic/TBC)
+  I decided that another handy construction manual was needed to succes-
+  fully understand and play this awesome game.
+
+  First off thanx to Shard and Dyonic for releasing these really helpful
+  dox. As I always don't wanna find out myself how a particular game works
+  I was really helped by these dox.
+
+  Back to this doc ... I'd like to share with y'all the construction charts
+  with the real names, and why they are used. Dyonic did this also in his
+  Hints doc but he didn't quite give the right information on how they
+  are called. This is typically annoying when you play the game for the
+  first time and you just don't know what kind of building they are
+  reffering to in the gamemanual. I experienced this problem myself when
+  playing the training (tutorial) games. I had never played the game before
+  and was really stuck sometimes when they reffered to a certain kind of
+  house/building.
+
+  Also included in this manual are the Statistics Menu and the Prefs Menu
+  (as I like to call them). Included in this section are the typical
+  icons and what they mean.
+
+  So let's begin this reference doc with the construction charts :
+
+    PAGE 1___________________________________________________________
+   |                                                                 |
+   |    QUARRY                                        GUARD-HUT      |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |  LUMBERJACK             FOREST-HOUSE          FISHERMAN'S HUT   |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |   WINDMILL                  FLAG                  SHIPYARD      |
+   |_________________________________________________________________|
+
+Quarry          : This hut will have a quarryman as a inhabitant. These
+                  men will (as soon as the hut is constructed) go to the
+                  nearest slab of granite to cut of some of it. This 
+                  granite is needed for the building of houses and castles.
+
+Guard Hut       : When the guard hut is contructed it will be inhabited
+                  by knights. Place these huts strategically around your
+                  main castle or around other castles. Knights will keep
+                  their good moral by transporting gold to them.
+
+Lumberjack      : Ah, the lumberjack ... He will go out to the nearest
+                  forest, and when he finds a suitable tree he will
+                  cut it down, and chop the branches off of it.
+                  He will then bring the tree back to the lumberjacks 
+                  house, and then a transporter will pick it up for use
+                  in construction and so on.
+
+Forest House    : When there's a lumberjack there is a forester.
+                  The lumberjack cuts down the trees, while a forester
+                  will plant new trees to keep a healthy natural environ-
+                  ment (so that the lumberjack can cut 'em down again)
+
+Fisherman's Hut : A fisherman will go out to the nearest lake to
+                  catch some fish. These fish are needed for the
+                  supply of food for the workers.
+  
+Windmill        : The windmill is needed for the processing of flour to
+                  make bread (in the bakery). Therefore some wheat must
+                  be delivered from a farm
+
+Flag            : A flag is merely a connection between pieces of road and 
+                  between houses and the main castle. Also a geologist can
+                  be sent to a flag to examine the soil surrounded by the
+                  flag.
+
+Shipyard        : Here boats will be built. Boats are sometimes needed to
+                  transport merchandise across the lakes.
+
+    PAGE 2___________________________________________________________
+   |                                                                 |
+   |    BUTCHER                                          FORGE       |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |  IRON-FOUNDRY                                     SAW MILL      |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |     BAKERY                                      GOLD-FOUNDRY    |
+   |_________________________________________________________________|
+
+Butcher      : At the butcher's you will see that the pigs, kept in the
+               pig-farm, are slaughtered and cut to eatable meat for the
+               workers.
+
+Forge        : Here, the metal beams made in the foundry's are converted
+               into weapons for the knights.
+
+Iron Foundry : Here, the raw iron material will be converted into real
+               usable iron for the forge and the iron-workers shop.
+
+Saw Mill     : Here the wood chopped by the lumberjack will be sawn into
+               planks used by contruction of buildings and boats/weapons.
+
+Bakery       : Here the Flour produced in the windmill will be used to make
+               bread for the workers.
+
+Gold Foundry : Here the raw gold from the mines in the mountains will
+               be converted into real gold suitable to give to the 
+               knights, in order to keep them happy and more ready
+               for battle.
+
+    PAGE 3___________________________________________________________
+   |                                                                 |
+   | IRON WORKERS SHOP                                     FARM      |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |     WAREHOUSE                                       PIG FARM    |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |     WATCHTOWER                                       CASTLE     |
+   |_________________________________________________________________|
+
+Iron Shop  : Here the tools used by the workers are made. Every
+             worker (lumberjack,forger etc.) has its own tool.
+
+Farm       : Here the wheat is grown for the pig farm (pig-food) and for the 
+             windmill (flour). The farmer will sow seeds first and after a 
+             while, when the wheat is ripe the farmer will harvest and the
+             full-grown wheat will be transported to either the pig farm
+             or the windmill (or to the main castle/warehouse if you don't
+             have a windmill or pig farm)
+
+Warehouse  : Here the goods that cannot be transported to the shops
+             or workshops will be stored in the warehouse for use later
+             on. Also a warehouse is, besides your main castle, a
+             distribution point. The transporters won't have to go back
+             all the way to the main castle but can transport between
+             the warehouse and the shops/work places. Also a warehouse
+             is, as is your main castle, a training-camp for your knights
+             they will get more strength remaining in the castle/warehouse
+             but the less knights you have on the watchtowers/guard huts,
+             the less safe they are.
+
+Pig Farm   : Here farmer will feed the pigs so that they will multiply and
+             later become food for the workers. The food is delivered from
+             the wheatfarm. (yes, the pigs eat wheat ehueh)
+
+Watchtower : When this tower is constructed a few knights will occupy it
+             and they will keep an eye up for eventual enemy attacks.
+             Also you can use the knights from the tower to attack.
+             Alas the tower will not be defended very good when you
+             send knights from it to the scene of the battle.
+
+Castle     : This building takes the longest time to build and is used for
+             keeping a large amount of knights. Yes, that means that your
+             complete army rests here. When you have chosen an enemy 
+             building to conquer, the knights will come from this building
+             initially (when all of your army is sent out for battle you
+             can still attack enemy buildings using the knights from the
+             guard huts and watchtowers)
+
+    PAGE 4___________________________________________________________
+   |                                                                 |
+   |    GRANITE MINE                                    COAL MINE    |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |                                                                 |
+   |     IRON MINE                                      GOLD MINE    |
+   |_________________________________________________________________|
+
+Granite Mine : This mine is set up when the geologist finds a granite
+               spot. It gets the raw granite out of the mountains and
+               then will be transported to the castle/warehouse(s) to
+               serve as construction material.
+
+Coal Mine    : When Coal is found by the geologist place a coal mine
+               on top of it to retrieve coal from the mountains.
+               Coal is used as heating material in the shops/work places.
+               
+Iron Mine    : Here iron has been found. Iron is used in construction
+               as in weapon/tool production. The raw iron will first be
+               transported to the iron foundry to be converted in metal
+               beams. Then the beams will be transported to the either
+               the castle/warehouse(s) or directly to the forge or to 
+               the iron workers shop.
+
+Gold Mine    : Here gold is found. The raw gold will be transported to
+               the gold foundry where it will be converted into real
+               bars of pure gold. Then it is used to give to the knights
+               as their payment.
+
+----------------------------------------------------------------------------
+Now follows an explanation of the statistics charts:
+
+
+    __________     __________     __________
+   1          |   2          |   3          |
+   |   Food   |   | Merchan  |   |  House&  |
+   | Curving  |   | Curving  |   |   two    |
+   |  Arrow   |   |  Arrow   |   |  Settlers|
+   |__________|   |__________|   |__________|
+ 
+    __________     __________     __________
+   4          |   5          |   6          |
+   |   Pig    |   |   House  |   |4 Settlers|
+   | Question |   | Question |   | Question |
+   |  Mark    |   |  Mark    |   |  Mark    |
+   |__________|   |__________|   |__________|
+
+    __________     __________     _____
+   7          |   8          |   9  _  |
+   |   Red    |   |  Curved  |   | |\  |
+   | Mountain |   |   Lines  |   |__/__|  __
+   |  Figure  |   |          |           |X |
+   |__________|   |__________|           10_|
+
+
+
+1> This icon represents the food chain. When clicked you will see
+   a figure with lines and vu-meters. There are two types of meters:
+        Supply Meter:    Important for for example Farmers, Miners etc.
+        ¯¯¯¯¯¯¯¯¯¯¯¯       When it's in red    = No Supply
+                                        yellow = Good Supply
+                                        green  = Excellent Supply
+                         Here it is important to keep the meter high.
+        Activity Meter:  Important for for example Miller,Butcher etc.
+        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯     When it's in red    = No Work
+                                        green  = A Lot Of Work
+                                        yellow = Too much work
+                         Here it is important to keep the meter centered.
+
+2> This icon represents the merchandise chain. This works the same as
+   the food chain.
+
+3> This icon represents a statistic about professions. (you will see some
+   settlers accompanied by 'vu-meters') The meters represent the number
+   of settlers to be used with the corresponding profession.
+   When the meter is on the left = 0 settlers, center = 3 settlers, right
+   = 20 settlers.
+
+4> This icon represents the stock (type and quantity) of the warehouses.
+
+5> This icon represents the building statistics. The number of buildings
+   at your disposal. Some times next to a number there will be a '+' sign
+   plus another figure (i.e. 2 + 1) the first figure means the amount
+   of buildings constructed and the other figure means the amount of
+   buildings under construction.
+
+6> This icon represents the division of employments under the settlers.
+   Each settler represent a profession. The settler with the questionmark
+   means the amount of unemployed settlers.
+
+7> This icon represents the indication of merchandise (type and quantity)
+   in a graphic figure.
+
+8> This icon represents the statistic curves. Each color of curve repre-
+   sents a particular player.
+    __________________
+   |                  |
+   |       __________/|
+   |   ___/ ______/   |
+   |  /____/          <---- Each line represents a particular player
+   | //               |
+   |/_________________|
+    ___     ___      _    1> Overall Comparison (against enemy)
+   |1|3|   |_|_|    |_|   2> Comparison of Buildings
+   |2|4|   |_|_|    |_|   3> Comparison of Rural Property
+                          4> Combat Power
+ 
+9> Use this icon to go to the preference menu.
+
+10> Exit
+
+-------------------------------------------------------------------------   
+Special Clicks on the Warehouses (right mousebutton together with left)
+-------------------------------------------------------------------------
+
+You will see 3 menus
+
+1-  A set of stock-figures. Means the state of stock in that Particular
+    Warehouse.
+
+2-  A set of settler-heads. Means the number of settlers (workers/knights)
+    present in the warehouse.
+
+3-  2 sets of big icons. 
+     __________    ___
+    | <---- /\ |  |  /|
+    |_______\/_|  |\/_| = You can store in the warehouse.
+    |  ___  /\ |  | _ |
+    |_______\/_|  |___| = No more storage, only delivery.             
+    | ----> /\ |  | _ |
+    |_______\/_|  |___| = Warehouse will be emptied, nothing can be stored.
+   
+     __________    ___
+    | <----  . |  |  /|
+    |________X_|  |\/_| = Settlers must go to warehouse after work.
+    |  ___   . |  | _ |
+    |________X_|  |___| = No other settler will be accepted.
+    | ---->  . |  | _ |
+    |________X_|  |___| = All settlers must leave.
+
+--------------------------------------------------------------------------
+The Preference Menu.
+--------------------
+    __________     __________     __________
+   1          |   2          |   3          |
+   | 3 Blocks |   | 2 Blocks |   | 2 Blocks |
+   |   with   |   |   with   |   |   with   |
+   |   Food   |   | Iron/Wood|   |Coal/Wheat|
+   |__________|   |__________|   |__________|
+ 
+    __________     __________     __________
+   4          |   5          |   6          |
+   |  Tools   |   |Merch with|   |Merch with|
+   |   with   |   | Settler& |   | House &  |
+   | a Settler|   |QuestionMark  |QuestionMark
+   |__________|   |__________|   |__________|
+
+    __________     __________     _____
+   7          |   8          |   9  _  |
+   |2 Settlers|   |    One   |   | |\  |
+   |   with   |   |  Walking |   |__/__|  __
+   |  Arrows  |   |  Settler |           |X |
+   |__________|   |__________|           10_|
+
+
+1>  Distribution of Food Icon. Allows you to divide the food in priorities
+    that you set.
+
+2>  Distribution of Iron and Wood Icon. Allows you to divide the iron and
+    wood in priorities that you set.
+
+3>  Distribution of Coal and Wheat Icon. Allows you to divide the coal and
+    wheat in priorities that you set.
+
+4>  Tool Fabrication Icon. Change when needed.
+
+5>  Merchandise Priorities Menu. To determine in which priority the trans-
+    porters will transport the merchandise.
+
+6>  Merchandise Evacuation Menu. To determine evacuation priority for the
+    merchandise. I.e. the gold must be evacuated earlier than the wheat.
+
+7>  Positions of Castles/Watch Huts from the border.
+
+     _______
+    |       |  (Right next to border)
+    |  /\  /|  FULL     =1st Line=  Adjust the amount of settlers
+    | |__|/ |  GOOD     =2nd Line=  Maximum drop of occupation rate
+    |____/__|                       of building, when using knights
+     _______                        to attack.
+    |       |
+    |  \   /|  GOOD
+    | |_| / |  AVERAGE
+    |____/__|
+     _______
+    |       |
+    | \    /|  AVERAGE
+    | ||  / |  WEAK
+    |____/__|
+     _______
+    |       |
+    | \    /|  WEAK
+    |     / |  MINIMUM
+    |____/__|  (The Hinterland - Farthest away from border)
+
+8> The Knight Menu. 
+   Adjust the upper slider to increase/decrease the amount of settlers
+   that are going to be knights.
+    _______________
+   | \ /   .  |   /|
+   |  X    X  |_\/_|  Change this parameter to choose which kind of 
+   |_/ \_  .  | __ |  knight is going to attack and which defend.
+   |_`_'___X__|____|  The upper one is weak and the lower one strong.
+
+    _______________
+   |  <-------- .  |
+   |____________X__|  This icon is used to send a knight back to the
+   |  --------> .  |  warehouses. This is useful when a knight is too
+   |____________X__|  weak to fight. He will get new training.
+
+   There are some other icons in this menu, but I don't know what they
+   exactly mean. But you can find that out while playing.
+
+9> Go to the Statistics menu
+
+10> Exit
+
+This concludes the explanation of the construction/stats/prefs, for further
+information concerning the strategy and overall gameplay I advise you
+to read the Settlers Manual by Shard/N&B or the Settlers Hints by
+Dyonic/TBC. These docs can be found on LSD Docs #46 !!!
+
+Oh and one hint : PLAY THE TUTORIAL GAMES FIRST! this will really help
+                  you understand the rules of the game better.
+                  (Obviously not if you already understand the game)
+
+Finally I would like to say that this quick reference chart was created
+with the idea that absolute beginners on this game would have problems
+understanding the construction and prefs/stats part in the game. This
+little manual should therefore be regarded as merely an addendum to the
+docs by Shard and the hints by Dyonic.
+
+But I hope that this manual will be of any use for you settlers fans.

@@ -1,0 +1,550 @@
+========================================================================
+********************************* CONTENTS *****************************
+========================================================================
+
+1) INTRODUCTION/REVISION HISTORY
+
+2) GAME INFORMATION
+
+3) GAME LANGUAGE
+
+4) FREQUENTLY ASKED QUESTIONS
+
+5) WALKTHROUGH
+
+=========================================================================
+************************ INTRODUCTION/REVISIONS *************************
+=========================================================================
+
+INTRODUCTION - The Hobbit on the Commodore 64 is a classic text adventure. 
+Although it is ancient and crude by today's standards, its one of the first
+games I became totally hooked on as a kid.  It's based on the novel "The
+Hobbit" by J. R. R. Tolkien, which was a prequel to the "Lord of the Rings"
+trilogy.  The game actually follows the plot of the book quite faithfully and
+if you have never read The Hobbit, I recommend you seek out a copy.  It's a
+wonderful, light-hearted fantasy adventure that sets the scene for the events
+of the darker books that followed.
+
+You play a hobbit called Bilbo Baggins, you are on a quest to retrieve treasure
+from an evil dragon called Smaug.  To help you in your quest is a dwarf called
+Thorin and the wizard Gandalf.  Along the way you will meet Gollum and discover
+the Ring of Invisibility that proves so important in the "Lord of the Rings".
+
+If you are at all into Commodore 64, ZX Spectrum or any other computer systems
+from the early eighties this is a classic you really must seek out.  I have
+found copies of it relatively easily in second-hand dealerships.  It also came
+out across several different formats in the various countries it was released
+in.  I have included a full list of platforms and variations in game
+information section of this guide.
+
+*************************************************************************
+
+REVISIONS - Version 1.0 (28/11/2001) Wrote up walkthrough and gameplay FAQ,
+command list and language guide and basic info on the game and its history.
+
+I hope to add more info on getting a 100% completion score and how the
+percentage scoring works in the next version.  Also hope to get more history of
+the game and the various versions.
+
+=========================================================================
+************************** 2) GAME INFORMATION **************************
+=========================================================================
+
+The Hobbit - Illustrated Text Adventure
+Date of first release: 1982 (UK)
+Platforms: Commodore 64, ZX Spectrum, Amstrad CPC, Oric - 1, MSX, BBC B
+Produced by: Beam Software
+Distributor: Melbourne House
+Written by: Philip Mitchell, Veronika Megler et al
+Adapted from: The Hobbit by J.R.R Tolkien
+Availability: Long out of production, but Beam Software has licensed it for
+distribution as Freeware.
+
+In the United States, the game was released under the title "The Hobbit
+Software Adventure". This was a longer version and was released on the
+Commodore 64, MS-DOS and Macintosh.
+
+=========================================================================
+************************** 3) GAME LANGUAGE *****************************
+=========================================================================
+
+The Hobbit had, for the time, quite an advanced language recognition system. 
+To progress though the game you have to use words from the game dictionary to
+interact with other characters and objects.  The following words are the only
+ones the game will recognize when used in conjunction with words from the game.
+ Some can be shortened, so for example instead of typing DOWN, you can just
+type D.
+
+GAME DICTIONARY
+
+Movements:
+DOWN D, EAST E, NORTH N, NORTHEAST NE, NORTHWEST NW, SOUTH S,
+SOUTHEAST SE, SOUTHWEST SW, UP U, WEST W.
+
+Special verbs:
+EXAMINE, HELP, INVENTORY I, LOAD, LOOK L, NOPRINT, PAUSE, PRINT,
+QUIT, SAVE, SCORE.
+DICTIONARY
+
+Action verbs:
+BREAK, CLIMB, CLOSE, CROSS, DIG, DROP, DRINK, EMPTY, ENTER, EAT,
+FILL, FOLLOW, GIVE, GO, KILL, LOCK, PICK, PUT, OPEN, RUN, SAY,
+SHOOT, SWIM, TIE, TAKE, THROW, TURN, UNLOCK, UNTIE, WEAR.
+
+Prepositions:
+ACROSS, AT, FROM, IN, INTO, ON, OUT, OFF, THROUGH, TO, UP, WITH
+
+Adverbs:
+CAREFULLY, GENTLY, QUICKLY, SOFTLY, VICIOUSLY
+
+
+COMMUNICATING WITH THE GAME
+
+You can only talk to the game in a certain way.  You have to use the words in
+the right order and be quite specific or the game will not understand.  Here
+are some examples, I have quoted them directly from the manual as I think they
+are quite sweetly written and do get the point across direct from the game
+designers mouth!  The designers invented a new name for this "computer speak" -
+INGLISH (not ENGLISH), I have NO idea why, but it sounds cool and it's not a
+misprint!
+
+****************************************************************************
+
+THE RULES OF INGLISH
+
+With the help of this program, your program is now able to talk
+to you in INGLISH.  What's more, you will be able to talk to the
+computer in INGLISH, and it will understand what you say!
+
+INGLISH is the most sophisticated natural language recognition
+program yet developed on any microcomputer, and Melbourne House
+are very proud to be able to bring this implementation to you in
+THE HOBBIT program.
+
+The rules of INGLISH are simple - you probably already know
+INGLISH without even being aware of it.
+
+- Each sentence must have a verb.
+   As a minimum sentence, you can have just the verb.
+   For example:  RUN
+                 CLIMB
+                 WAIT
+   These sentences are all fine.
+
+   The meaning of the verbs may be altered by the use of adverbs,
+such as
+           RUN QUICKLY
+        or VICIOUSLY BREAK THE DOOR
+
+- Normal grammar applies, and the order of the different parts
+of the sentence is not critical.
+
+   For example, the following two sentences are both valid, and
+both have the same meaning:
+    WITH THE SWORD CAREFULLY ATTACK THE TROLL
+    ATTACK THE TROLL CAREFULLY WITH THE SWORD.
+
+- Adjectives which describe objects must come before the noun.
+If it sound right, it probably is right.
+    OPEN THE GREEN DOOR is right.
+but OPEN THE DOOR GREEN is not.
+
+This is pretty obvious.  If it sounds odd to you, you can be sure
+the computer is likely to think so too.
+
+- Prepositions, such as WITH, UNDER, ON, OFF and so on, usually
+come before the noun in INGLISH:
+    ATTACK WITH THE SWORD.
+    PICK UP THE GOLD.
+
+There are some verbs where the preposition could go before or
+after, or where the more natural sounding sentence is with the
+preposition last.  For example in:
+   TURN THE LIGHT ON.
+   PICK THE GOLD UP.
+These are also acceptable.
+
+Use of AND
+
+You can use the word "AND" in all its normal meaning in INGLISH!
+This means, among other things, that you can enter more than one
+sentence at a time.
+
+The following sentences illustrates different meanings of the
+word AND:
+   TAKE THE LAMP AND THE ROPE OUT OF THE BARREL.
+   DROP THE SHORT AND THE LONG SWORDS.
+   TAKE THE MONEY AND RUN.
+
+With the use of INGLISH, your computer will be able to understand
+all the sentences correctly.
+
+Punctuation
+
+Different sentences should be separated by some sort of
+punctuation - use AND, commas, semi-colons, and full stops as you
+normally would.
+
+The only limitation placed by the computer on how many sentences
+you can enter at one time is a total limit of 128 characters.
+
+Of course, keep in mind that each time you do something, the
+other creatures may also decide to do something and you could end
+up with some unexpected results if you enter too many commands
+at once.
+
+Using ALL, EVERYTHING and EXCEPT
+
+It may not be convenient for you to enter the description of
+every object in the room if you should wish to pick everything
+up.
+
+Therefore you can generalise by the use of ALL, EVERYTHING and
+EXCEPT, just as you normally would.
+
+You may qualify what you actually want to manipulate - in other
+words you can say ALL DWARVES, or you can say EVERYTHING EXCEPT
+GREEN BOTTLES.
+
+The following are examples of valid sentences:
+
+   EAT EVERYTHING
+   OPEN ALL EXCEPT THE GREEN BOTTLE.
+   BREAK ALL BOTTLES EXCEPT THE GREEN ONE.
+
+Limitation of INGLISH
+
+- To describe an object, you can only use the objects name and
+its adjectives (if any).  For example, if you see that there is
+some delicious foaming beer in a bottle, you could say:
+   DRINK BEER
+or DRINK DELICIOUS BEER
+or DRINK FOAMING BEER
+or DRINK DELICIOUS FOAMING BEER
+or DRINK FOAMING DELICIOUS BEER
+
+All these would result in quenching your thirst.
+You cannot use the position of an object as its description.
+This means that a sentence such as
+   DRINK BEER IN BOTTLE
+is not acceptable.
+
+- You cannot have more than one indirect object in a sentence.
+Basically this means that you cannot specify doing one thing in
+more than one way.
+
+For example, you could say
+   PUT THE ROPE ON THE TABLE
+or you could decide to put it on the chair:
+   PUT THE ROPE ON THE CHAIR
+
+but you cannot put the rope on but the table and on the chair at
+the same time.
+
+You therefore can't say
+   PUT THE ROPE ON TABLE AND CHAIR
+
+This is a general rule, and means that you can't say things like:
+   ATTACK WOLVES WITH EVERYTHING.
+
+We feel that these limitations are fairly minor, and that you
+should be able to express yourself exactly the way you feel most
+comfortable.
+
+****************************************************************************
+
+MOVEMENT AND COMMUNICATION
+
+So that's how you use the games language system!  Sound more complicated than
+it actually is really.  In the same vein talking to characters is accomplished
+in the same way.  So if Gandalf appears and you need to talk to him just type
+in, SAY TO GANDALF "READ MAP".  He may say no, he may say yes, it's worth
+asking again if they refuse the first time.  Gandalf also has the tendency to
+appear and disappear just to annoy you, don't attack him no matter how tempting
+it seems, he will just kill you (boo).  You can use the command FOLLOW to chase
+after characters.
+
+If you want to move around you can only go in the directions offered to you. 
+So if you are in a place and the only exits are East and West, only the
+commands GO EAST or GO WEST (GO E, GO W) will let you move to another place. 
+You can also use commands like CROSS RIVER etc.
+
+The game also uses the passage of time, if you leave the game idle.  Time will
+pass, night will fall, day will dawn.  Some area's can only be passed at
+certain times of day.  Use the WAIT command to hang about until the time is
+right.  In general if you find yourself in a dangerous area, get out and wait
+for Thorin or Gandalf to turn up.  You are a Hobbit and you suck at fighting. 
+Get the tough guys to do your dirty work for you. For example, you are in the
+mountains and a VICIOUS WARG has appeared from the WEST, you can either RUN
+EAST or SAY TO GANDALF "KILL WARG", if you're lucky he'll kill it for you.  If
+not the WARG eats you and you die.  No one ever said being a Hobbit was easy!
+
+
+OK, that's how you actually play the game.  I recommend you have a go at doing
+it without the walkthrough to start with; otherwise you'll finish it in about
+30 minutes.  THE FAQ below contains specific puzzle related hints and tips. 
+When you feel you can't carry on without help, I have provided a basic
+walkthrough in the final section.  I have just listed the minimum steps you
+need to take to complete the game and not described too much other stuff (so as
+not to spoil to much).  Because there are certain random elements to the game,
+there are people and enemies that may or may not appear in the same places
+every time. But the guide below should get you from the beginning to the end
+without too much hassle.
+
+=========================================================================
+******************* 4) FREQUENTLY ASKED QUESTIONS ***********************
+=========================================================================
+
+Q: I haven't read the book "The Hobbit", what am I doing all this for?
+A: OK well the best way to introduce you to the adventure is to quote the
+original manual.
+
+"In THE HOBBIT program, you take on the role of Bilbo, the hobbit.
+You will be able to roam freely throughout Middle Earth, explore
+and discover this wonderful enchanted land.  You will meet all
+types of creatures, some friendly, others much less so.  Your
+adventure will be dangerous and exciting - it will be up to you
+to face the challenges which confront Bilbo.
+
+If you are unfamiliar with Hobbits, you should know that hobbits
+are a little people, about half our height, and smaller than the
+bearded dwarves.  Hobbits have no beards.  There is little or no
+magic about them.  For a fuller description you will have to read
+THE HOBBIT, but this description should be enough for you to
+realise that most other creatures you will meet in this
+adventure, including dwarves, will be bigger and stronger than
+you.  You will therefore need to exercise all your cunning and skill
+to survive.
+
+At the point where this Adventure commences Gandalf, who is a
+wizard, has talked you into entering a new and exciting adventure
+to help out Thorin, the dwarf.
+
+Your mission is to seek out the evil Dragon and return the
+treasure he hoards back to your home and place it for safe
+keeping in the chest.  As a secondary mission, you must look out
+after Thorin and protect him.  Should he be killed during the
+adventure, it is most unlikely you will be able to survive the
+dangers ahead of you on your journey!
+
+Best of luck Bilbo: may you return with wonderful tales to tell
+on a cold evening in front of a log fire."
+
+That's your mission, if you choose to accept it, chuckle!
+
+Q: Does Gandalf do anything useful??
+A: Not really, he will kill creatures for you.  But he is no help in the
+Goblins Dungeon, and not that helpful when you ask him questions.
+
+Q: If Thorin doesn't stop singing about gold, I'm going to kill him!
+A: Thorin is just bored, if you are spending to much time wandering in circles
+or staring at the screen, the passage of time doesn't stop.  Talk to him, keep
+him happy.  He is your ticket out of the Goblin's Dungeon
+
+Q: What are the Pale Bulbous Eyes?
+A: Something nasty that will leap on you and kill you.  Either run away, or
+wear the Ring if you have it.
+
+Q: Gollum asked me a riddle, what's the answer?
+A:  If you don't know the answer, just move away or ignore him.  Or he will
+kill you.
+
+Q: I am totally stuck, I looked at the walkthrough and a certain route listed
+doesn't exist, why?
+A: Go back to Elrond and ask him to read the map.  This opens up a route later
+in the game.
+
+Q:  Where is the ring?
+A:  In the Goblins Caves.  You can either go via the Goblin's Dungeon route
+(short way), or via Beorns House (longer way)
+
+Q: I broke my sword....
+A: Well I hope you saved because you need that sword later in the game and it
+also provides light in dark places.  Basically you are screwed with out it.  If
+you have to fight, try and get Gandalf or Thorin to do it.  If you have to
+break or smash something, use your hands.
+
+Q: I found a golden key while lost in the mountains, what's it for?
+A: Nothing, it just seems to add more to your percentage score at the games
+end.
+
+Q: How do I get out of the Elvenking Halls/Dungeon
+A:  Just use the Ring a lot, its effects last for about 3-4 turns.  You can
+keep using it.  Just follow the butler around and he will open the door to get
+you out of the dungeon.  Escape from the Halls requires some barrels jumping in
+the cellar.
+
+Q: I can't use the barrels? Why?
+A: You need empty ones, either wear the ring and hope the butler empties one
+for you, or open one up and drink the wine yourself then climb inside and let
+him throw you in the river. Alternatively throw the barrels in yourself and
+jump on top of them.
+
+Q: Where is the Bard?
+A: He's in the town by the Long Lake.  He may not be there on your first visit.
+ Keep going and coming back.  If he doesn't appear, then he's dead and you have
+to restart, TOUGH LUCK!
+
+Q: Why won't this damn bard come with me???
+A: Well bizarrely if you CARRY the Bard, it's a lot easier to get him where you
+want him, than trying to give him directions.  You need him to kill Smaug so
+don't irritate him.
+
+Q: OK, Smaug is dead, what now?
+A:  Make sure you have the treasure then run all the way home to your Hobbit
+hole and put it in that nice big empty chest.
+
+
+=========================================================================
+*************************** 5) WALKTHROUGH ******************************
+=========================================================================
+
+(You start in your Hobbit Hole, a "comfortable tunnel like hall")
+
+- READ MAP
+- EAST
+- EAST
+- NORTH
+- WAIT (until day dawns)
+- SOUTH
+- GET KEY
+- NORTH
+- UNLOCK DOOR
+- OPEN DOOR
+- NORTH
+- GET ROPE AND SWORD
+- SOUTH
+- SOUTH
+- SOUTH EAST
+- GIVE MAP TO ELROND
+- SAY TO ELROND "HELLO"
+- SAY TO ELROND "READ MAP"
+- WAIT (until Elrond gives you some lunch)
+- EAT LUNCH
+- SAY TO ELROND "GIVE ME MAP"
+- EAST
+- SOUTH
+- EAST
+- NORTH
+- NORTHWEST
+- NORTH
+- SOUTHEAST
+- DOWN
+- DOWN
+- DOWN
+- DOWN
+- EAST
+- GET GOLDEN KEY
+- UP
+- NORTH
+- WEST
+- SOUTH
+- EAST
+- NORTH
+- WAIT (you should be by a crack in a wall, WAIT until it opens and you get
+captured and thrown in the goblin dungeon!)
+- DIG
+- SMASH TRAP DOOR (keep doing it until it breaks, there is a CURIOUS KEY
+underneath.  Thorin will take the Key)
+- SAY TO THORIN "OPEN WINDOW"
+- SAY TO THORIN "PICK ME UP"
+- SAY TO THORIN "WEST"
+- SOUTHWEST
+- WAIT (until a goblin appears)
+- NORTH
+- SOUTHEAST
+- EAST
+- GET RING
+- NORTH
+- SOUTH
+- NORTHWEST
+- EAST
+- OPEN DOOR
+- UP
+- CLOSE DOOR
+- EAST
+- EAST
+- OPEN CURTAIN
+- OPEN CUPBOARD
+- GET FOOD
+- EAT FOOD
+- NORTHEAST
+- EAST
+- EAST
+- LOOK ACROSS RIVER (you should see a boat)
+- THROW ROPE ACROSS RIVER (may need to try more than once)
+- PULL ROPE
+- SAY TO THORIN "CLIMB INTO BOAT"
+- CLIMB OUT
+- EAST
+- SMASH WEB (until it breaks)
+- NORTHEAST
+- SMASH WEB
+- NORTH
+- WEAR RING
+- EXAMINE DOOR
+- WAIT (until the door opens)
+- NORTHEAST
+- SOUTH
+- KILL BUTLER WITH SWORD
+- GET RED KEY
+- UNLOCK RED DOOR WITH RED KEY
+- OPEN DOOR (if Thorin got captured earlier, he'll reappear now)
+- OPEN BARREL
+- OPEN TRAP DOOR
+- GET BARREL
+- THROW BARREL THROUGH TRAP DOOR
+- SAY TO THORIN "JUMP ONTO BARREL"
+- GET BARREL
+- THROW BARREL THROUGH TRAP DOOR
+- JUMP ONTO BARREL
+- EAST
+- PICK UP BARD
+- WEST
+- NORTH
+- UP
+- NORTH
+- NORTHWEST
+- NORTH
+- WEST
+- EAST
+- NORTHWEST
+- NORTH
+- WAIT (keep waiting until sun shines on the rock and opens the SECRET DOOR)
+- SAY TO THORIN "UNLOCK DOOR WITH CURIOUS KEY"
+- DROP BARD
+- EAST
+- SAY TO THORIN "WEST"
+- WEAR RING
+- EAST
+- GET TREASURE
+- EAST
+- WEST
+- PICK UP BARD
+- UP
+- DROP BARD
+- SAY TO BARD "GET STRONG ARROW FROM QUIVER"
+- WAIT (until Smaug the Dragon shows up)
+- SAY TO BARD "SHOOT THE DRAGON"
+- SOUTH x 3
+- DOWN
+- SOUTH x 3
+- WEAR RING
+- WEST
+- WAIT
+- WAIT
+- WEST
+- WAIT
+- WAIT
+- WEST
+- NORTH
+- SOUTHWEST
+- WEST x 4
+- SOUTHWEST
+- WEST
+- OPEN CHEST
+- PUT TREASURE IN CHEST
+
+(You're back in your Hobbit Hole and rich, rich, rich.  Congratulations!  Your
+final percentage score will reflect how much of the game you visited.  More on
+getting a 100% score in the next update)

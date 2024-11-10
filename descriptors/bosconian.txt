@@ -1,0 +1,307 @@
+Welcome to my FAQ for Bosconian.  Since the game has you continuously cycling
+through space battles, there is no walkthrough per se.  Instead it will be
+broken up into the game itself and strategies for survival.  Input is
+appreciated along with constructive criticism.  If you wish to e-mail me
+thoughts on this FAQ, better ways of doing things, other strategies, etc., feel
+free.  Make sure you put Bosconian as the subject.  If you don't, I'm liable to
+discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Bosconian was another in a long line of games in the partnership of Namco and
+Midway.  Bosconian took the space theme and created something a little more
+quickly paced.  It was the first game to feature the continue function.  This
+enabled players to go as far as they wanted as long as they had the quarters.
+The game itself never quite gained a real wide following since other Namco/
+Midway games were still drawing a lot of business.  A couple of these notable
+games were Pac Man and Galaga.  Still, the game play proved to be unique since
+one was able to "wrap around" the screen to the other side giving one the
+feeling that there were no size limits in the game.  Although the enemy
+fighters never fire on your ship, they move faster and attempt to ram it.
+Other hazards included asteroids and mines to ensure that this would be a
+battle to the death.  Good luck in fulfilling your mission.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Bosconian is a two-dimensional arcade shooter style game.  You are responsible
+for destroying all the space stations during a round.  To frustrate your
+attempts are enemy fighters, space debris, enemy formations, and the space
+stations themselves.  If you make it through that round, many more await you.
+Being an intergalactic hero isn't all that it's cracked up to be.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  An eight-way joystick
+
+-  A fire button
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+Bosconian consists of one playing field.  The playing field itself is broken up
+into parts.  You have the main screen that shows the small part of space your
+fighter is in.  On the right side is a radar display which only displays the
+positions of the space stations and any enemy formations coming to attack you.
+ Right above that is the current condition which can be GREEN, YELLOW, or RED.
+Above the left corner is the FORMATION heading.  When an enemy formation is
+detected, it will display that formations configuration.  The playing screen
+looks like this (of course, larger then normal):
+
+   +-----------------------------------------------------------------------+
+   |               ENEMY BASE                       |                      |
+   |                                                |                      |
+   |             /-\         /-\                    |                      |
+   |            |   |       |   |                   |                      |
+   |           / \-/ MISSILE \-/ \                  |                      |
+   |          / /  \   BAY    / \ \                 |                      |
+   |        /_\/____+--+V +--+___\/-\               |                      |
+   |       |   |___/   |/\|   \__|   |<-CANNON      |                      |
+   |        \-/\   \   |\/|   /   \-/               |                      |
+   |          \ \   +--+  +--+    / /               |                      |
+   |           \ \ /          \  / /                |                      |
+   |            \/-\          /-\ /                 |                      |
+   |            |   |        |   |                  | FORMATION            |
+   |             \-/          \-/                   +----------------------|
+   |                                                |  CURRENT CONDITION   |
+   |                                  \  /          +----------------------|
+   |                                   \/<-P-TYPE   |        RADAR         |
+   |                                       MISSILE  |                      |
+   |                                                |                      |
+   |             |                                  |                      |
+   |            /|\                                 |   .       .<-ENEMY   |
+   |             |<-YOUR FIGHTER                    |      .       STATION |
+   |                                                |             .  OR    |
+   |                                                |          .   ENEMY   |
+   |                                                |            FORMATION |
+   |                                                |            .         |
+   |                                                |                      |
+   |                                                |        .             |
+   |                                                |                      |
+   |                                                |                      |
+   +-----------------------------------------------------------------------+
+
+You control your ship through these screens.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is relatively simple:
+
+I-Type Missile (Looks like fighter)           :    50 points
+P-Type Missile (Looks like boomerang)         :    60 points
+E-Type Missile (Looks like Enemy Base Missile):    70 points
+Space Rocks                                   :    10 points
+Mines                                         :    20 points
+Spy Ship (announced by synthesized voice      :   200-400 points
+          stating "Spy Ship Sighted")
+Enemy Station Cannon                          :   200 points
+Enemy Station Missile (E-Type Missile)        :  See Missile Type scores
+Enemy Station                                 :  1500 points
+Enemy Formation                               :   500 or 1000 points
+Control Fighter in Formation
+(The off-colored fighter)                     :    90 points
+Other Fighters in Formation (One of the three :  See Missile Type scores
+                             types of
+                             missiles)
+
+You start the game with 1, 2, 3, or 5 fighters.  You get a free man (maybe) as
+follows:
+
+15,000 and 50,000
+20,000 and 70,000
+10,000,  50,000, and every  50,000 points thereafter
+15,000,  50,000, and every  50,000 points thereafter
+15,000,  70,000, and every  70,000 points thereafter
+20,000,  70,000, and every  70,000 points thereafter
+30,000, 100,000, and every 100,000 points thereafter
+
+ _____________________
+/ 6.4  Game Versions /_________________________________________________________
+---------------------
+
+There are five versions of this arcade game that were made.  Namco made three
+and Midway made two of them.  They are all the same except the new Namco
+version.  Therefore, I will refer to these as the new Namco and other versions
+(the two Namco and two Midway versions).  The reason I am mentioning this is
+due to the fact that the Enemy Base setup is different between these two
+versions although the strategies talked about in Chapter 7 are the same.  Both
+versions have the same Enemy Base setups, but they are in different order as
+the rounds go up.  This is also true regarding where your fighter starts at.
+For example, the setup for RD 4 on the other versions is the same as the setup
+for RD 6 on the new Namco.  Below I have put the radar pictures for the first
+five rounds of both the new Namco and the other versions.  This way, you can
+tell what version you are playing (x is where you start at):
+
++----------------+
+| OTHER VERSIONS |
++----------------+
+
++------------+ +-------------+ +--------------+ +--------------+ +------------+
+|            | |             | |              | |.             | |            |
+|            | |             | |              | |      .       | |            |
+|            | |             | |   .          | |         .    | |            |
+|     .      | |             | |   .  .       | |              | |      .     |
+|    .       | |    .        | |   .  .       | |         .    | |     .    . |
+|            | |       .     | |   .  .       | |        .     | | .  . . .   |
+|  .         | |  .          | |      .       | |      .       | |     .      |
+|            | |      .      | |              | |      .       | |            |
+|     x      | |             | |    x         | |   .          | |      x     |
+|            | |      x      | |              | |     .  x     | |            |
++------------+ +-------------+ +--------------+ +--------------+ +------------+
+
++-----------+
+| NEW NAMCO |
++-----------+
+
++------------+ +-------------+ +--------------+ +--------------+ +------------+
+|            | |             | |              | |              | |            |
+|            | |             | |              | |              | |            |
+|            | |             | |              | |  .           | |            |
+|            | |             | |      .       | |          .   | |     .      |
+|            | | .           | |    .   .     | |        .     | |   .   .    |
+|            | |        ..   | |  .   x   .   | |      .       | |  .  x  .   |
+|    .       | | .           | |    . . .     | |    .         | |   .   .    |
+|     .      | |             | |              | |      .       | |     .      |
+|    .       | |             | |              | |  .        .  | |            |
+|    x       | |      x      | |              | |       x      | |            |
++------------+ +-------------+ +--------------+ +--------------+ +------------+
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+The action starts immediately as soon as you start your game.  Your fighter
+will be put on the screen.  Your radar display will show how many space
+stations need to be taken out.  The radar doesn't show, though, all the space
+debris all over the place and the enemy fighters (unless they are in
+formation).  Your fighter stays in the middle of the screen.
+
+-  Be aware that the enemy missiles are faster then your ship.  This means you
+   will have to learn to use the joystick proficiently so that you can maneuver
+   away from these enemy missiles attempting to commit suicide on your ship.
+
+-  At the beginning of the round, quickly look at your radar to determine where
+   the Enemy Stations are.  Then quickly figure out a systematic way of
+   destroying them since time is one's enemy in this game.  Just because they
+   are lined up in a row doesn't mean that the missile bays are facing the same
+   direction.
+
+-  By that same token, your ship fires lasers from both the front and back.
+   This means if anything is trying to "sneak" up on you, they won't stand a
+   chance.
+
+-  Use the space debris to your advantage.  You score points regardless of
+   whether you hit the enemy, or if you use other means to assist, such as the
+   mines or rocks.  Just keep in mind that the space debris doesn't return
+   until the next round.
+
+-  The Enemy Stations can be destroyed two ways:
+
+   -  The first way is to fire a shot directly into their missile bay.  This
+      is easy to do on the first two rounds.  By round three, the missile bay
+      has a door which opens and closes to make it more of a challenge.  After
+      round three, the station will fire a missile if your fighter is in the
+      missiles path.  You can easily destroy this missile with your ship.
+
+   -  The other way is to destroy all six cannons around the space station.  This
+      method also enables you to get more points in the long run.  To do this,
+      though, means you will have to deal with more enemy missiles since you
+      have to constantly loop around to hit the cannons.  In addition, the pods
+      fire back on your ship.
+
+-  Enemy Stations can be oriented with the missile bay facing left/right or
+   up/down.  Keep this in mind if you are taking on multiple stations in one
+   area.  While you are pounding on one Enemy Station, three more may be firing
+   at your ship to prevent you from destroying your target.
+
+-  The warning conditions tell you how safe it is for the moment:
+
+   -  GREEN means no enemies within view.
+
+   -  YELLOW means enemies present.
+
+   -  RED means that you have taken too long and the enemy is now moving twice
+      as fast to ram you.
+
+   -  You will also hear synthesized voice prompts stating either "Alert,
+      Alert" or "Condition Red" regarding these conditions.
+
+-  At regular intervals, a formation of enemy missiles will head toward your
+   ship.  You can see what the formation of these enemy missiles are in by
+   looking at the area above the top, left corner of the radar.  This will show
+   you if they are in a line, checkerboard pattern, etc.  You will also see
+   this formation (represented by a red dot) on your radar screen.  Some quick
+   tips for tangling with formations:
+
+   -  Enemy formations always appear as a control missile with four missiles.
+
+   -  If you destroy the control missile, the other missiles will spread out.
+      You can still destroy them but it is much harder to get the points for
+      taking out the entire formation.
+
+   -  Try to maneuver in such a way as to be able to rapidly hit all the
+      missiles.  This is of course barring the fact there is no other things
+      (rocks and mines) in the way that can destroy these missiles.  This works
+      well when they are in a line.  If they are in a checkerboard pattern, you
+      will have to move back and forth so you can hit everything but the
+      control missile.
+
+   -  A synthesized voice stating "Battle Stations" will announce when a
+      formation is present.
+
+-  As mentioned before, if you take too long to take out the Enemy Stations,
+   the condition will go to RED and enemy missiles will pour into the area with
+   the only intent of ramming your ship.  You will know this also by the sound
+   the machine makes.
+
+-  Continue to fly erratic patterns (unless you are going after Enemy Stations
+   or formations) because the enemy missiles do move quicker then you do plus
+   you will probably be able to take them out more effectively.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+This was another one of those games that was relegated to a corner while the
+more popular games took center stage.  Considering the games that were out, it
+was no wonder that this game didn't get played a lot.  The game itself did
+prove to be a challenge.  The premise of the game was easy, it was just trying
+to execute that premise that was a real pain.  Instead of the quiet explosions
+of other games, the fighters and space stations on this game really did go out
+with a bang.  This couple with the fact that everything had one purpose during
+the game:  That purpose being to destroy your ship.  The action was fast paced
+and you couldn't let your guard down for a moment or you would end up as space
+debris.  It seemed like quick reflexes and just plain luck enabled somebody to
+survive.  I know I spent many hours playing this game because it could be quite
+addictive.  Unfortunately, it is very rare to find this machine anywhere.  How-
+ever, through the miracle of emulation, a whole new generation is realizing
+what we "old" folks enjoyed those many years ago.  In addition,
+www.shockwave.com is bringing many of these classic games back.  Check out
+their site to see what ones are there.  I hope this guide helps you in being
+able to get the most amount of gameplay for this game.  If you do have other
+ideas or thoughts, please e-mail me and share them.  Who knows, maybe I'll
+start a Q&A Chapter in this guide if enough people ask the same questions.
+Anyway, thank you again for reading this guide.

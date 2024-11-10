@@ -1,0 +1,666 @@
+INTRO
+=====
+SIMCITY first came out on PC back around the late '80's, early '90's when PC's
+were nearly ready for the SVGA monitors. Later, they came out with a bigger,
+better version called SIMCITY 2000. Then, when the SNES first hit the shelves,
+it came out for SNES as one of the first games to be released to the public
+to show off what the SNES could do. Then, came the hit SIMCITY CLASSIC which
+was SIMCITY, but with video animation and some nice video clips of crime,
+polution, and other neato stuff the original SIMCITY didn't do. They also
+remade SIMCITY for WINDOWS 3.1 and 95 for those of you who know about the game
+but missed your chance at getting it the first time. Well, since they redid
+the game, better hurry to your favorite pc gaming store and buy SIMCITY for
+WINDOWS. From what I can tell, the windows version is like only $15.00 so that
+is a farely good deal for a good game. The SIMCITY for windows also includes
+some other freebe stuff like a terrain editor which lets you edit the terrain
+of a city. You can create a new city, or load a city you were using and add
+more features to make your city become more realistic. If for some reason you
+can't get the terrain editor to work properly, it's because of the pentium
+computers. The terrain editor is a DOS application so it may not run properly
+if you are using a pentium system. This terrain editor will run on a 286 SX
+with 580K of conventional memory needed. The terrain editor will also work for
+the DOS version of SIMCITY as well. The SIMCITY for WINDOWS also comes with
+some free demos to some of the games they will be coming out with. Well,
+that's enough about that, lets get on with this FAQ shall we?
+
+
+
+HELPERS OF THIS FAQ GUIDE
+=========================
+When I showed the first FAQ guide to the public, I got some responces from
+people. This section is dedicated to the people who helped me out with the
+making of this FAQ guide. Without the help of these people, this guide would
+not be complete. This is just a section that shows that I support, as well as
+appreciate, the work they have done on their part to make this FAQ possible
+for people like you to read.
+
+Special thanks to Fetters at cfetters@willinet.net for helping me get the
+SNES cheat figured out. Since I was doing a FAQ guide which is for many
+systems, I figured I might as well go all out and do a FAQ for people who
+own these systems as well as this game. Thanks Fetters.
+
+A SUPER thanks goes to WadeAHeath for helping me with the MAC info that I
+needed. It's good to know that there are people out there who still own
+classical systems such as the MAC, AMIGA, TANDY, C64, and more. Thanks a
+bunch.
+
+
+MENTAL NOTES
+============
+In case you are wondering, STREETS OF SIMCITY is not the same thing. This is
+a game where you drive a car with weapons and DESTROY things in a SIMCITY
+setting. I just wanted to clear that up. Also, just in case you need to know,
+if you happen to have SIMCITY 2000, you can transfer your SIMCITY saved games
+to SIMCITY 2000 by simply changing the extention of the SIMCITY file to .SC2.
+This also applies for the game STREETS OF SIMCITY. No, they did not make a
+STREETS OF SIMCITY for SNES, sorry about that.
+
+(E.G. If your SIMCITY saved file is called NEWCITY.CTY, just rename it so it
+says NEWCITY.SC2 and then copy it to the SIMCITY 2000 directory and then load
+the game as you normally would. It will ask if you want to make the transfer,
+just say YES and it will automatically reformat the saved city to work for
+SIMCITY 2000.)
+
+For those of you who need to know about the memory requirements for the PC,
+here is a little memory info for you if you want to play this game for
+WINDOWS 3.1 or DOS. (For those of you who are not aware of this, anything that
+runs on WINDOWS 3.1 will work for WINDOWS 95, I just wanted to clear that
+up.)...
+
+DOS VERSION OF SIMCITY
+======================
+REQUIRED:286 SX / 580K RAM / DOS 3.0+ / MOUSE
+RECOMMENDED:386 SX / DOS 6.0
+
+WINDOWS 3.1 VERSION OF SIMCITY
+==============================
+REQUIRED:286 SX / 2MB RAM / WINDOWS 3.1 / MOUSE
+RECOMMENDED:486 SX / 4MB RAM / 8-bit Sound Blaster
+
+MAC VERSION OF SIMCITY
+======================
+REQUIRED:16 color, low resolution / Might also work for Monochrome monitors
+RECOMMENDED:16 color, high resolution
+
+Another thing I want to point out is that the requirements are not quite the
+same as the box might say, especially for thie WINDOWS requirements. Reason
+being is that WINDOWS has a way of using what ever memory you have as well as
+what ever color or palette setting you use and finds a way to make the
+programs work, regardless of memory. Although there are some programs that DO
+require 4 megs of ram, I know for a fact that SIMCITY will work for a 286 SX
+with that much ram as mentioned.
+
+One more bit of datail, although I am sure that some of the tips that are
+mentioned here will work, not ALL the tips will work for SIMCITY 2000. This
+game has a lot more features to offer than SIMCITY. So please bare this in
+mind when you read this.
+
+
+
+WHAT IS SIMCITY? (Obvious first question)
+=========================================
+SIMCITY is a city manager game where you control where to build things like
+comercial, residential, industrial, police & fire stations, roads, power lines
+and power supply, airports, and harbers. Plus, depending on what you do, you
+can also control the crime, population, frequient fires, and more. This is a
+game which is basically teaching you what it's like to be a mayor of a city.
+
+
+
+1.) HOW DO I GET STARTED?
+=========================
+Well, that is rather easy. Type the command in to start the SIMCITY game and
+then from the menu screen, use your mouse to click on START NEW CITY, then
+click on what difficulty setting you want. When you start a new game, you get
+a map of some terrain with water, trees, and brown colored dirt. Now you can
+start your game.
+
+
+
+2.) WHAT SHOULD I DO FIRST?
+===========================
+Hmmm, good question. Well, usually the first thing to do is to set your game
+options the way you want it so nothing goes wrong. Once you have set the
+proper options you want, get an idea of how you want your first city to look
+like. Usually the best thing to do first is to have the residential,
+commercial, and industrial stuff built first. Plus, also make sure you build
+enough police stations so you won't have citizens complaining about the crime
+rate in this city. You want to start with an idea of how the first city should
+look before you build your power plant and set power to your city areas.When
+you think you have a good idea of how you want your first city to look, then
+build your power plant somewhere away from the city and set power lines as
+needed to power your city up. Also, please make sure you build roads and they
+do need to connect to almost all builds you have made. It's also usually best
+if you have the game on PAUSE mode until you are done with building stuff.
+
+
+
+3.) HOW CAN I DO THAT, YOU DON'T START OUT WITH A LOT OF MONEY?
+===============================================================
+I realize that, your just gonna have to use your head. Just start small, the
+game will play itself out when you have given your city areas power and roads
+to do things. I know that starting small is not a great way to start out, but
+like all strategy games, you always have to start out small and then build up
+gradually to get the bigger, better things you want later in the game. Of
+course if you want to read further down, you can find some info on how to
+start out with more money than usual.
+
+
+
+4.) CAN YOU GIVE ME A SMALL EXAMPLE OF HOW A FIRST CITY SHOULD LOOK?
+====================================================================
+Hmmm, I guess that is a good idea. I'll show you a small example of how you
+should build a starting city and I'll let you work from that. Keep in mind
+that this is only an example, nothing more, this may or may not work out with
+the starting money you get, but I will exaplain in more detail later on why
+you would need to do this...
+
+    R = Residential Area
+    C = Commercial Area
+    I = Industrial Area
+    F = Fire Dept.
+    P = Police Dept.
+    E = Energy Plant
+    T = Power lines
+    = = Roads/Rails
+    S = Stadium
+      
+       ===============================================================
+       || --- --- --- || --- --- --- ||              || --- --- --- ||
+       |||   |   |   ||||   |   |   |||              |||   |   |   |||
+       ||| R | R | R |||| R | R | R |||              ||| I | I | I |||
+       |||   |   |   ||||   |   |   |||              |||   |   |   |||
+       || --- --- --- || --- --- --- ||              || --- --- --- ||
+       |||   |   |   ||||   |   |   |||              |||   |   |   |||
+       ||| R | P | R |||| R | P | R |||              ||| I | P | I |||
+       |||   |   |   ||||   |   |   |||              |||   |   |   |||
+       || --- --- --- || --- --- --- ||              || --- --- --- ||
+       |||   |   |   ||||   |   |   |||              |||   |   |   |||
+       ||| R | R | R |||| R | R | R |||              ||| I | I | I |||
+       |||   |   |   ||||   |   |   |||              |||   |   |   |||
+       || --- --- --- || --- --- --- ||              || --- --- --- ||
+       ===============================================================   
+       || --- --- --- || ----                                  ----
+       |||   |   |   ||||    |                                |    |
+       ||| C | C | C |||| S  |                                | E  |
+       |||   |   |   ||||    |                                |    |
+       || --- --- --- |||    |                                |    |
+       |||   |   |   ||| ----                                  ----
+       ||| C | P | C |||             
+       |||   |   |   |||             
+       || --- --- --- ||             
+       |||   |   |   |||             
+       ||| C | C | C |||             
+       |||   |   |   |||             
+       || --- --- --- ||             
+       =================   
+
+As you can see, this a very good way for you to build your cities in this form
+and nature. Notice how everything is nice and neat. (One thing I do want to
+point out is that the reason I did not use a Fire Dept. in any area is because
+I am assuming you turned off the disasters in the options menu. Personally, 
+by doing that, you will save yourself a ton of money so you don't have to pay
+for fundings for the Fire Dept.) Plus, as you can see, the police dept. are
+very close to each other and to the buildings so you shouldn't have much of a
+crime rate by making the city look something like this.
+
+
+
+5.) WHY DO YOU HAVE INDUSTRIAL AREAS SO FAR FROM THE OTHER AREAS?
+=================================================================
+Well, do you want to live next to polution making buildings? This is also the
+same reason I have the Energy Plant so far away as well. By keeping such stuff
+away from your residential and commercial, the people will not complain about
+polution so much. To put it more mildly, industrial and Energy Plants produce
+polution, and by keeping them away from clean areas, the people of the city
+will not complain so much.
+
+
+
+6.) OKAY, SO EXPLAIN TO ME HOW I CAN GET PEOPLE TO COME INTO MY CITY?
+=====================================================================
+Okay, this is easily accomplished when you have the number of residential that
+is EQUAL to the total number of commercial and industrial zones that you have.
+By doing this, you will create enough jobs for the people to work at and have
+the right amount of living areas (residential) so people can live and work at
+the same time. If you look at question 4 above, you will see that I have 16
+residential, 8 commercial, and 8 industrial zones. Basically, an EVEN amount
+of residential & commercial/industrial. One thing I must point out now before
+I say anymore. Any city you build will generate a population, but only by
+properly creating a well balanced city with enough police stations, an
+airport, a ship port, and some stadiums in the right place, will people REALLY
+thrive off your land that you create. The perfect example is question 4.
+Notice how nice and neat I did everything. Plus, as you can see, I kepted jobs
+rather close to the residential, including the industrial areas, but kept it
+so that the polution is at a safe level for the city to handle it.
+
+
+
+7.) HOW COME I DO THAT AND THEY STILL SEEM TO NOT STAY AND LIVE?
+================================================================
+Well, part of the trick is the jobs (commercial & industrial) have to be
+fairly close to living areas (residential). Plus, making sure you have roads
+that connect to every building so people can get to and from work. If you look
+at the example in question 4, you will see that I have the living area close
+to job areas. Also remember that people will not live next to places that give
+off polution, so keep industrial areas away from commercial and residential
+areas, but close enough so people will work for them as well.
+
+
+
+8.) WHAT IF I DO ALL THIS RIGHT, BUT THEY STILL ARE NOT COMING TO THE CITY?
+===========================================================================
+Then attact them with something, like a stadium. This can be a major helper
+if a certain part of the city is not growing. People get bored real fast if
+there is nothing near the city to excite them. Building a stadium near an area
+where residential or commercial is low will greatly improve that area for
+sure. So try building a stadium and that will help improve the locals in the
+city. For those of you who own the SNES version, you will sometimes get some
+special gifts like land fills, expos, parks, and more. Use these in the proper
+places can be a major helper for you. 
+
+
+
+9.) OKAY, I DID THAT, BUT PEOPLE ARE STILL NOT COMING IN, WHY?
+==============================================================
+Well, maybe you should check your status screen and see what the people are
+complaining about. If it's the crime, build more police departments where they
+are needed, if it's the polution, either stop building roads, or build the
+polution creating buildings away from the residential, if it's the taxes, set
+the tax to about 8%, that's the best you can do for taxes, if it's the housing
+costs, build a few more jobs for the people. Another factor is where you have
+your residential, commercial, and industrial located. The following is just
+general tips for getting more people to come to your city. Please excuse any-
+thing I might repeat, but I'm doing this as like a checklist for you so you
+will know what the trouble is...
+
+A.) Try to keep jobs close to the residential areas, people don't like to
+travel long distances to work.
+
+B.) Try to keep polution making buildings away from residential. Nobody likes
+to live near polution, or breathe it for that matter. Just think of the NIMBY
+system. (NIMBY = Not In My Back Yard)
+
+C.) Make sure you build a police station somewhere near or around each other.
+Crime can happen anywhere at anytime, so be prepared. It's best to build
+police stations no farther than 2-3 blocks or 4-5 buildings away from each
+other for best results.
+
+D.) Do not build more roads, rails, fire stations, or police stations than you
+have to. Please remember that YOU are paying for these to be in good shape and
+the more you build, the more you PAY for them. So only build them if you have
+no other choice.
+
+E.) Sometimes you can get much better quality buildings if you build them near
+trees, water, or by building a stadium nearby. This can be a contributing
+factor of 20-50 people or more.
+
+F.) Roads are a major problem and a hassle sometimes. Not just from traffic,
+but also the polution. That's why you sometimes hear people say "BUILD RAILS
+INSTEAD OF ROADS". In a way, although not realistic, that is the best solution
+to this problem. Sure, it sounds funny, but at least they can't complain about
+traffic problems or about the polution for that matter.
+
+G.) Don't build COAL power plants, they create polution and don't create
+enough electricity for the public, on the other hand, if you create a NUCLEAR
+power plant, you run the risk of having a meltdown, as well as spreading
+nuclear waiste around the surrounding lands, but at least you can power more
+areas than a COAL power plant. Plus, nuclear power plants are a little more
+cleaner.
+
+H.) Sometimes, when your residential status bar fluctuates, creating 1-2 more
+jobs will fix this a lot of times. I know that there will be an uneven number
+of residential versus commercial/industrial jobs, but realisticaly, people can
+own 2 buildings at one time. So try this if you have trouble with residential
+going up and down a lot, regardless if you have an even number of jobs vs.
+living areas.
+
+I.) When you are building your city, people will ask you for airports or ship
+ports. Do not build these until the game says that the people want these some-
+where on your map. Plus, although you don't have to, it's best to build a
+shipyard next to water to make it look good and try to build the airport, as 
+well as the shipport about 5-7 squares away from the other buildings. Main
+reason for the airport is polution, and have you ever seen what happens to a
+plane trying to take off, but doesn't have enough power to make it over tall
+buildings?
+
+J.) Keep your city together and close when your making your city. Reason is,
+if you try to make 2 different areas of the city and don't keep it close to
+each other, the people for some reason will not help the city grow. In fact,
+they will actually move away and you will be left with a lousey city for doing
+so. So when you make your city, keep most of the city together and not try to
+separate the buildings from each other.
+
+K.) When you are making your first city, it's usually best to make more
+industrial areas than commercial areas at first. The main reason why you would
+do this is because if your starting a new city, how is your people going to
+make things if you don't have factories to build tools, supplies, and other
+stuff. Also, in reality, where would your community be without factories?
+Factories are what makes tools and supplies, such as paper, pencils, pens, and
+other useful stuff. But one thing to remember, as your city grows, you will
+soon need to build more commercial areas than industrial areas. If you want to
+think of it another way, just ask someone for real about how supply and demand
+works in reality.
+
+L.) Try to keep your tax pretty low. People don't like to pay a lot of taxes
+in this game so remember that. The best number to use without people of the
+city complaining so much is 8%. Anything higher will cause your citizens to
+leave your city and find something elsewhere.
+
+M.) Unless you want to play a game of risk, you should turn off the disasters
+option so you don't have to pay extra money for fire departments, and so you
+don't have to waist your money on destroyed buildings.
+
+N.) If your one of those who wants to build roads than railways, you might
+want to make some extra room for the roads for future reference. I'm serious.
+As your city grows, so does the traffic, so you should plan ahead for more
+roads incase 2 or more areas get high traffic.
+
+O.) Just so you know, people will not come to live in your city until you make
+jobs for them. I mean, what's a city without a little business on the side?
+
+P.) Another thing to rememebr is if you build something like residential, and
+it does nothing for your city, then get rid of it. Reason being, if a certain
+area like residential is not building anything, they add to YOUR costs and
+expenses. So if something like that is not doing anything but sitting there,
+remove it and try something else. 
+
+Q.) As you know, residential and commercial areas build certain other types of
+buildings that can't generate people or much money for you. A perfect example
+is hospitals. (Only residential areas can have hospitals.) It's okay to have
+a few of them, but if for some reason you have like 10-15 or more, or if you
+see a lot of hospitals in one area, remove a few and rebuild a residential
+area to see if it will change. (For those of you who are not really sure,
+hospitals will look like buildings shaped like a cross with a RED CROSS on top
+of the building. Schools are commercial buildings and have a sorta U shape to
+them and a lot of them will be a green colored building.) Another thing to
+look for is churches which only a residential area can build. One more thing,
+DO NOT REMOVE ALL THE HOSPITALS, SCHOOLS, OR CHURCHES FROM YOUR CITY! Doing
+so will cause your people to move out and/or dezone your areas.
+
+R.) It is very good to follow the example in question 4. Main reason being, it
+keeps the city neat, organized, and people will quickly come into your city
+and help build a population because your smart way of showing how neat your
+city is. Plus, it's rather easy to commute to one place to another using this
+system.
+
+
+
+10.) I NOTICED YOU DIDN'T BUILD A FIRE DEPARTMENT IN QUESTION 4, WHY?
+=====================================================================
+Okay, 2 reasons why I didn't do that...
+
+1.) Just like the Police Department, they require funds, and you are the only
+person they will take the funds from. So by not building them, you will get
+more money by doing so.
+
+2.) By disabling the disasters in the options menu, then you won't need a Fire
+Department at all, and by doing so, will save you lots of money.
+
+Okay, that's why I didn't put Fire Departments in my city example in question
+4. Part of the trick to SIMCITY is to spend less and to give as little as
+possible to the public so you can get more money back from the people at the
+same time.
+
+
+
+11.) I DISABLED THE DISASTERS, BUT PEOPLE ARE STILL DEMANDING A FIRE DEPT.?
+===========================================================================
+That's people for you. People will complain about anything if they don't get
+what they want. Well, if you did disable the disasters, and they still ask for
+a Fire Dept., then just build ONE somewhere and that's it. Like I said, they
+require funds, and your the only person they will get the funds from. Please
+remember this, this is SIMCITY, and this is based on being a mayor, so you
+have to realize that people will complain about something, no matter what.
+
+
+
+12.) HOW COME YOU DIDN'T BUILD A SHIPYARD OR AIRPORT IN QUESTION 4?
+===================================================================
+That's because those buildings are not needed that early in the game yet. As
+mentioned earlier, the game itself will let you know when you need to build a
+harber or airport. When you start out with a small town, people require little
+things for their business or life style. One thing to point out, please make
+sure you don't build an airport or shipyard next to residential or commercial,
+these are polution making buildings. Please remember that.
+
+
+
+13.) HOW COME YOU HAVE 1 POLICE STATION IN EACH AREA LIKE IN QUESTION 4?
+========================================================================
+Well, there are a few reaons why...
+
+A.) If 1 police is in every section, like in the example, it will be able
+to to get to any of the crime areas quickly since the police is located right
+next door to every building.
+
+B.) Since you can't control the flow of crime with anything else, you have to
+use police stations to control it. Police stations are the only things that
+will control crime.
+
+C.) Although they are costly each year, they will quickly keep the crime rate
+at a minimum. That's why it's best to put 1 police station in the center of
+each area that you create. Plus, as mentioned, it keeps the city looking neat
+and not scattered.
+
+
+
+14.) I JUST CAN'T SEEM TO PLEASE THESE PEOPLE, WHY?
+===================================================
+Hey, even in reality, you can't please everyone. I'll explain in further
+detail about what people complain about in SIM CITY, and the way people
+complain in reality. If you want to find out what your people are really
+cmplaining about, just click on the WINDOWS, then click on the EVALUATION to
+see what people think about your idea of the city and more...
+
+SIM CITY = People complain about taxes being too high, regardless if you have
+           the tax rate at a very decent setting. (This is, in fact, the most
+           common problem in this game when you see your evaluation. Keep in
+           mind of course that I say this only if your city is maturing, but
+           you still have a few other things people want you to fix.)
+
+REALITY  = People ALWAYS complain about taxes, and what's worse, nobody wants
+           to pay for taxes in reality, but we have it and we complain about
+           it, so don't worry about it.
+
+
+SIM CITY = People complain about the housing costs.
+
+REALITY  = People ALWAYS complain about how high their rent or housing costs
+           are so don't worry about it.
+
+
+SIM CITY = People complain that the crime is a problem.
+
+REALITY  = People ALWAYS complain about the problems with crime or gangs so
+           don't worry about it.
+
+
+SIM CITY = People are complaining about the polution being so high.
+
+REALITY  = We have lots of people complaining about that, and none of us can
+           do much about it, so don't worry about it. (The only solution for
+           this is to try to keep your industrial away from your other areas
+           so there won't be too many complaints. Another solution is to build
+           park areas all over so there is more oxygen and this sometimes
+           helps to. Keep in mind of course that having high traffic will also
+           cause polution on the highways, and to fix that, replace roads with
+           rails.)
+
+
+SIM CITY = People are complaining about the high traffic rate of the city.
+           (Although this problem can be solved by creating rail roads instead
+           of highways. Although not realistic, it saves you from a complaint
+           or 2.)
+
+REALITY  = Hey, have you ever seen NEW YORK, BOSTON, DETROIT, L.A., CHICAGO,
+           DALLAS, HOUSTON, or any other city style place with lots of roads?
+           If you have, then you would know about this complain, especially
+           during rush hour and holidays. People don't like high traffic
+           either, but since there is little we can do in reality, your just
+           gonna have to deal with it.
+
+
+
+15.) WHY DID YOU MAKE EACH AREA SQUARE SHAPED IN QUESTION 4?
+============================================================
+Again, as mentioned, it makes the city look neat and it also makes it compact.
+Making a huge city takes lots of space. This is another reason why you want to
+make the city look like question 4. It makes the city have more buildings, and
+have a lot more people in your city. You see, that's the whole point to
+SIMCITY, having people come into your city, and make money from the people who
+live there. Of course if you want to just form a city the way you want to,
+then go ahead, I'd like to see how well you do. Making the city look different
+might be nice, but are you sure the people will be happy with the city you
+made? Trust me on this, making the city look something like question 4 will
+make the city neat, compact, and you will be able to control crime very easily
+this way.
+
+
+
+16.) COULD YOU GIVE ME A BETTER EXAMPLE OF HOW YOU WOULD DO QUESTION 4?
+=======================================================================
+Okay, this is a more compact version of question 4, but I'll add more to it
+to show you just how you would make your city look. Please keep in mind that
+this is not made to scale, remember that some buildings are bigger than
+others, so I cannot garantee that this will look the exact same way as the
+game might show it. You will just have to use your own judgement about placing
+buildings. Here is a much better example of how to make the best SIMCITY...
+
+  ROADS/RAILS  = --|     |---|---|---|---|---|
+  POLICE       = P       |RRR|RRR|   |III|E E|
+  RESIDENTIAL  = R       |RPR|RPR|   |IPI|-P-|
+  COMMERCIAL   = C       |RRR|RRR| F |III| E |
+  INDUSTRIAL   = I       |---|---|---|---|-|-----|
+  ELECTRIC CO. = E       |CCC|SRRR|    |III| P  A|
+  STADIUM      = S       |CPC|P PR|    |IPI|     |
+  FIRE STATION = F       |CCC| RRR|    |III|     |
+  AIR PORT     = A       |---|---|---|---|-|-|---|---|---|---|---|
+  WATER PORT   = W       |CCC|RRR|RRR|   |III|III|   |RRR|RRR|CCC|
+                         |CPC|RPR|RPR|   |IPI|IPI|   |RPR|RPR|CPC|
+                         |CCC|RRR|RRR|   |III|III|   |RRR|RRR|CCC|
+                         |---|---|---|---|---|---|---|---|---|---|
+                         |CCC|RRR|RRR|   |III|III|   |RRR|RRR|CCC|
+                         |CPC|RPR|RPR|   |IPI|IPI|   |RPR|RPR|CPC|
+                         |CCC|RRR|RRR|   |III|III|   |RRR|RRR|CCC|
+                         |---|---|---|---|---|---|---|---|---|---|
+
+Notice how everything is nice and neat for you to see as well as the jobs
+being close enough to home, but just far enough from industrial so there is
+little polution to bother the city. Plus. the police are just around the
+corner in each area so little crime can happen in that city.
+
+
+
+17.) WHAT IS THE STATUS BAR USED FOR, THE ONE WITH THE 3 DIFFERENT BARS?
+========================================================================
+You must be talking about the status bar that shows C R I on it with a bar
+that moves either above or below the line. Well, that bar represents what you
+need and what you don't need in the city. Let me explain more. Lets just say
+that you look at the bar and you notice that the R is high, but the C an I is
+low. (Incase you are wondering, R = Residential, C = Commercial, and the
+I = Industrial. Understand now) Well, what that means is that the R is in HIGH
+demand and the C and I are in low demand. This would basically mean, you need
+to build more Residential areas in your city and that should start to level
+out the other 2. To put it another way, that bar tells you wether you need
+more of something to make the others build back up, and/or you may need to
+fix your city so that all 3 of the bars are up. There are only 4 things that
+would cause the color bar to get HIGH or LOW, they are as follows...
+
+A.) If your R is starting to get low, building more jobs will help you out.
+
+B.) If your C is getting low, either build more residential, or more
+industrial to fix it.
+
+C.) If your I is getting low, then only build more Residential to fix this.
+
+D.) If both your C and I are moving back and forth, then definitely build more
+Residential. This would basically mean you have plenty of jobs, but not enough
+living area to support the workers. This is usually the most common problem.
+
+
+
+18.) HOW CAN I FIND OUT HOW MUCH POLUTION OR POPULATION I HAVE IN AN AREA?
+==========================================================================
+Okay, under your WINDOWS menu, there is one called MAP. Click on it with your
+mouse and you can get all sorts of info about your city. This map basically
+shows you a birds eye view of the city and options to see certain things, such
+as population density or growth, polution, see how much of an area the police
+are covering, and a lot more.
+
+
+
+19.) WHAT IS THE REAL DIFFERENCE BETWEEN ROADS AND RAILS?
+=========================================================
+Okay, I'll give a good side and a bad side to each type of transportation so
+you can easily see the real differences...
+
+ROADS = The only good I can say about roads is that you get to watch people
+drive on the roads and you also get to watch traffic jams and see some rush
+hour traffic at the same time. The bad thing about roads is that they can
+create a lot of polution, they can cause a lot of traffic jams, also leading
+to people being late for work and trouble for you too, and finally, there are
+only 2 ways to fix high traffic, make double lane highways, also leading to
+higher costs to raods, or replace certain highways with rails.
+
+RAILS = I can tell you a lot of good things about rails. They cause NO
+polution, there is never any traffic jams, no rush hour to worry about, and
+you don't have to make double lanes to keep traffic going. Although there is
+not much that is bad about it, the only pet peeve I have about this is that
+you can't build a train station. Personally, that's a very stupid thing to do.
+I mean, how can you have a train, but no train station for the train to stop
+at? That's about as bad as making roads, but although there are cars driving
+on the roads, who sells the cars?
+
+
+
+20.) WHAT IS THE REASON FOR USING TREES OR MAKING PARK AREAS?
+=============================================================
+Well, by keeping trees and by making park areas, you can reduce the polution
+in the air. It's usually best to build park areas around industrial areas, or
+in areas that has a high amount of polution. It's also a good idea to cover
+any area that is not being used with park areas. This not only reduces the
+polution level, but it will also raise the land value so you can attract more
+people into your city.
+
+
+
+21.) CAN I HAVE A MIX OF ROADS AND RAILS FOR MY CITY?
+=====================================================
+Well, go ahead if you feel like it. The main problem you would have by doing
+so is the funds. This would cost you a lot more than just having one or the
+other. I know that this sounds weird, but even I have run into costing trouble
+by doing so. Mostly because I wasn't sure what part of the city should have
+roads, and what part should have rails. All I will say is this, just use your
+best judgement and make your own ideas, but you will soon learn fast that you
+will only be left with only making one form of transportation for the city to
+use.
+
+
+
+22.) CAN I CROSS-LINK ROADS AND RAILS TOGETHER LIKE AN INTERSECTION?
+====================================================================
+Yes you most certainly can. You can cross-link roads and rails just as if you
+have a rail section crossing over a road like you see in the real world.
+
+
+
+23.) WHAT ABOUT CROSS-LINKING POWER LINES AND ROADS/RAILS?
+==========================================================
+Yes, you can cross-link power lines on roads and rails so you save money and
+space to get to the buildings that need power.
+
+
+
+24.) CAN I SET MY POLICE, FIRE, AND ROAD/RAIL FUNDS AROUND?
+===========================================================
+Yes, you can, but it's not a good idea to do such a thing. Main reason being
+is that police and fire departments needs all the funding they can get to make
+sure they will do their job right. The higher the funding, the better job they
+will do for the city. Same goes for roads/rails. If the funds drop lower than
+100%, the condition of roads/rails will start to go bad and you will often
+have to look around your city to find broken or cut off raods/rails and
+repair them. One more thing to note, if you have to pay to fix roads/rails,
+then you're paying MORE to fix roads/rails than if you were to keep the funds
+at 100%. So the best advice is to set the funds to 100% for the 3 types of
+funds.

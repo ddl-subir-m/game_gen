@@ -1,0 +1,875 @@
+================
+= Introduction =
+================
+
+"But, Klaej", you ask, "why would you randomly be writing an FAQ for such an old
+game so suddenly in 2010?"  Well, that's a good question.  Let me explain.
+
+When I was a very young boy, I would get to go to my older cousins' house every
+once in awhile, and I loved it.  I was a gamer more or less from the time I was
+born (brought into the world into a household with an NES) and going to my
+cousins' place meant getting a chance to play their Sega Genesis.  They had the
+ancient original Genesis model, the really clunky one from the late 80s.  They
+had a collectin of mind-blowing 16-bit games that were all wonderful to me such
+as Golden Axe, Space Harrier II and the brand-new Sonic the Hedgehog.  There was
+one more that was equally fun to look at and listen to when it was played on the
+magnificent blast-processing unit that was the Genesis, but was brutally
+difficult to us young gamers; it was the pack-in game for the very early days of
+the Genesis/Megadrive outside of Japan, a game by the name of Altered Beast.
+
+Now, about two decades later, I've gotten ahold of a perfectly emulated port of
+the game thanks to "Sonic's Ultimate Genesis Collection" for the PS3 (which I
+highly recommend), and I've been bent on mastering it once and for all.  And
+after a generations-long wait between sitting in that cool room in front of an
+old glass-screened TV with my cousin and hoping only to ever reach the end of
+Round 2 at best, I've finally done so.  If you ever read this, Brandon, you can
+consider this guide dedicated to you.
+
+In my ventures to beat the game as flawlessly as possible I got the sudden idea
+to make a guide detailing how I managed to finish each stage unscathed, barring
+accidents.  I figured there'd be little reason to as I was sure such a classic
+game would have a massive number of guides online, but upon looking I only found
+one single, solitary FAQ on GameFAQs that hasn't been touched in nearly ten
+years.  What's more, it would seem that this--what I thought up until now was a
+well-remembered game that still seems plenty fun to me in 2010--is a very badly
+reviewed clunker of a game by many peoples' standards.  I feel that I definitely
+owe it to this game and the role it played in my childhood and helping initially
+form my strong positive view of the Genesis and Sega itself, that holds strong
+to this day.  I've just gotta make a guide for it.
+
+
+=============
+  I) Basics
+=============
+
+-----------------------------
+  1-01  General Information
+-----------------------------
+
+Title: Altered Beast (International
+       Jyuouki [Beast King's Chronicle] (Japan)
+
+Developer: Sega
+
+Publisher: Sega
+
+Genre: Action/Beat 'Em Up
+
+Release Dates (Genesis/Megadrive):
+  Japan - November 27, 1988
+  North America - August 14, 1989
+  Europe - 1990
+
+
+---------------
+  1-02  Story
+---------------
+
+The setting is ancient Greece.  The great god, Zeus, is embroiled in a war
+amongst gods, and all of his soldiers are engaged in the conflict.  Using this
+as an opportunity, the demon lord Neff has captured Zeus' daughter, Athena, and
+made her into a hostage.  With no way of leaving his own post in his current
+situation and not a single warrior to spare, Zeus turns to you, a fallen soldier
+who died fighting for him in ages past, and bids you rise from your grave once
+more.  With a promise of immortality and the hand of Athena should you succeed,
+you advance toward Neff's lair, using the power of the sacred beasts to aid you
+in the fight against the demon hordes.
+
+------------------
+  1-03  Controls
+------------------
+
+(AS HUMAN)
+
+Basic Controls -
++ Control Pad: Moves your character left or right.
+A Button: Punch.
+B Button: Kick.
+C Button: Jump.
+Start Button: Start the game from the title screen, pause.
+
+Advanced Controls -
+Down + A: Crouching Punch (very fast).
+Down + B: Upwards Kick.
+A (in air): Aerial punch.
+B (in air): Aerial kick.
+Up + Jump: High jump.
+
+
+(AS BEAST)
+
+Wolf -
+A: Fireball
+B: Flaming Dash
+
+Dragon -
+A: Thunder Breath
+B: Electric Charge
+
+Bear -
+A: Stone Breath
+B: Roll
+
+Tiger -
+A: Wave Ball
+B: Vertical Dash
+
+(Note: All attack moves in all Beast forms perform the same way whether
+standing, crouching or in the air.  The one exception is the Bear's Roll attack,
+which propels you into the air from the ground, but simply falls when used from
+the air.)
+
+
+--------------------------
+  1-04  Gameplay Details
+--------------------------
+
+The basic idea of the game is that you're always moving from left to right as
+the screen slowly scrolls to reveal more of the stage all the while.  Monsters
+will attack you from above and below the ground and in the air but they always
+spawn in exactly the same pattern every time you play, so you can memorize how
+to tackle any given point in any stage with enough practice.  Occasionally you
+will find groups of three-headed wolves, usually (but not always) in a pack of
+two brown ones and one blue one.  Slaying the blue one will always yield a
+powerup, and collecting it will cause your shape to shift as your character
+shouts the memorable catch phrase, "Powerrr up!".  Every so often, you'll
+encounter Neff, the main antagonist, who takes the form of a ghastly pale bald
+man in purple rags.  Though harmless (and unharmable) in this form, he will
+summon a boss monster if (and only if) you have attained your Altered Beast form
+for the round by collecting three powerups.  Otherwise, he'll retreat and you'll
+be forced to play more of the stage until facing him again, during which time
+you must try and reach Altered Beast form once more or the same scenario will
+repeat.  The longer it takes you to face the boss, the lower of a bonus score
+you will receive at the end of the round.  After the boss is defeated, Neff will
+return and steal all your powerups before moving on to the next round, with you
+close at his heels.
+
+You will begin the game with three blue health bars, as seen on the bottom-left
+of the screen, and a total of two extra lives.  Each health bar will change
+color from blue to green to yellow to orange to red then disappear as you take
+damage, then go on to the next--though some attacks can erase an entire life bar
+at once, even if it's blue.  Lose all three bars (or fall into a pit in Round 3)
+and your extra lives will subtract by one, but you'll be allowed to start again
+exactly where you left off.  Lose all three of your lives and it's Game Over--
+and, as far as I know from playing this game many times now, it's impossible to
+ever earn more health or extra lives throughout the game, and your health isn't
+even refilled between rounds, so in order to win you'll just have to practice
+until you can finish the entire game with what is given to you at the beginning.
+
+
+---------------
+  1-05  Forms
+---------------
+
+The unique aspect about Altered Beast that sets it apart from other action games
+(of the era it was released, at least) is the fact that you can change forms,
+collecting powerups to grow from a modest human to an increasingly bulky hulk of
+a man and finally to an Altered Beast.  The Beast form you take varies by stage
+(known as Rounds in this game) but all of them are extremely fast and powerful,
+and offer abilities far beyond what was capable as a human.  The forms you can
+take are as follows;
+
+Human, Level 1: You begin each Round as a strong, but sadly ineffective human.
+You are capable of punches and kicks that can damage all normal enemies but most
+of them will take many hits to defeat in this form.  Grab a powerup as soon as
+possible.
+
+Human, Level 2: Once you've powered up a single time you will bulk up and your
+punches and kicks will glow with superhuman energy.  This form is quite
+identical to Human, Level 1 but is twice as powerful.
+
+Human, Level 3: Two powerups and you will burst out of your shirt, growing to
+immense proportions muscularly.  Your attacks are a bit slower in this form than
+Humans level 1 and 2 but the superhuman energy left by your punches and kicks
+will linger for a moment after delivering them, effectively creating a "wall"
+that damages enemies even more effectively than the most rapid punches or kicks
+from either previous form.  Your attacks also have a longer range due to your
+massive body, and you can walk around noticeably faster.
+
+Wolf: An Altered Beast form obtained in Rounds 1 and 5 after collecting a total
+of three powerups.  Not only do you run very fast, your punches now launch
+Fireballs which fly across the screen and your kicks have been changed into a
+charging move which envelops you in flames and launches you across the screen.
+
+Dragon: The Beast form of Round 2, you're capable of flying freely in any
+direction and no longer have the ability (or need) to crouch or jump in this
+form.  Instead of punching, your dragon will breathe a long-ranged electrical
+bolt, and in place of kicking you can blast a sheet of electricity that covers
+your entire body briefly.
+
+Bear: Round 3's unique Beast form is surprisingly extremely fast.  Your punches
+become short-ranged stone breath attacks that can petrify enemies before
+destroying them, and your kicks become a rolling attack that sends you in an
+invincible upward/forward arc then down again.  Used in the air, it will simply
+roll downward/forward.
+
+Tiger: This Beast form only found in Round 4 turns you into a tiger-man that's
+able to crouch extremely low to the ground.  Your punches will deliver a flying
+energy ball that's slower than the Wolf's fireball but weaves up and down as it
+travels, sweeping a much larger area.  Your kicks will cause you to dash
+straight up into the air then back down to the ground while an arrow-shaped
+shield of energy covers you.
+
+
+
+===================
+  II) Walkthrough
+===================
+
+This is a good time to point out that, in case you were wondering, there is no
+main menu, no option screen, nothing of the sort.  Simply press Start at the
+title screen (or wait, if you want to see a game demo first) and you're thrust
+into the action.
+
+There actually IS a way to access an options menu, but it's technically in the
+form of a secret code.  Simply hold the B button on the Genesis (or the Kick
+button if you're playing Sonic's Ultimate Genesis Collection) and press Start.
+This will take you to a menu where you can set the difficulty, health and lives
+you start with, though it also gives you access to a level select feature, which
+I'd heavily advise against using before you've actually finished the game at
+least once.
+
+Also, this walkthrough is designed to get you to the boss as early as possible,
+while taking as little damage as possible.  As of this point I have no plans to
+write about the parts of the stages past Neff's first appearance in them, though
+they shouldn't be any more challenging than the first part of the stage.  Don't
+expect to reach every boss on Neff's earliest appearance your first time through
+a given stage; though I would like this guide to help you, you will also need to
+practice on your own if you hope to finish.
+
+(Note: Difficulty ranges from 1 to 4 stars, 4 being more difficult)
+
+--------------------
+  2-01  Round 1 
+   BEAST FORM: Wolf
+   DIFFICULTY: *
+--------------------
+
+
+Zeus will summon you from the ground in one of the most memorable (and short)
+opening scenes in video game history, then immediately you're off on your quest
+as the screen scrolls and zombies start popping up to fight you.  Stay toward
+the left edge of the screen at first so no zombies will intercept you and damage
+you from below as they crawl upwards.  After three zombies, you'll reach a set
+of tombstones.  Break the first one and you'll see a blue wolf atop the graves;
+ignore it and focus your attention on breaking the second tombstone, THEN kill
+the wolf as it falls.  Killing it on top of the stones may cause the powerup to
+float higher than you can reach, and if you take too long at this part all of
+the graves can potentially turn into zombies which can be overwhelming.
+
+Once you've powered up for the first time, run to the right and jump-kick the
+Headless Horros as it enters the screen.  Duck and punch the brown wolf, run
+left to jump-kick the next Horror, then right to jump-kick yet another one.
+After this, duck and punch a blue wolf and collect the powerup.  Wait until two
+zombies have appeared around the Headless Horror to the left before you go and
+punish all three enemies with standing kicks.  Run right and dispatch another
+Horror with a kick, followed by a brown wolf (which may run into the same kick).
+High jump and punch the Skinny Orcus (little dragon enemy) then squat and punch
+at the blue wolf.  The powerup it drops may float around Neff who appears here
+and pushes you back harmlessly with a thunder spell.  If this happens, high jump
+into Orcus and you should grab the powerup as you're pushed back.  If you've
+achieved Altered Beast form by this point, it's time to fight the boss.
+
+
+/////////////////
+BOSS, ROUND ONE
+   AGGAR
+   DIFFICULTY: *
+/////////////////
+
+This freak looks like a massive, disfigured brown torso of a man with a hideous
+face and horns atop his head.  Sure scared me as a kid.  He just sits in the
+corner and attacks by tossing severed heads at you in sets of four.  He always
+tosses them to the top of the room so that you can see their formation before
+they fall onto you, and can position yourself thusly.
+
+The traditional way to battle Aggar would be to either simply attack him between
+"toss phases" then position yourself correctly when he starts to throw another
+set of heads.  Just use fireballs (punches).  You can also use the flaming dash
+(kick) attack to quickly dash out of a trouble spot and destroy heads on the way
+but make sure not to dash too far to the left, or you'll hurt yourself on
+Aggar's body.  A skilled player could dash into Aggar from a step to the right
+of the left edge of the screen, then dash left again and repeat, which would
+kill him more quickly as the flaming dash is much more powerful than the fire-
+balls, but doing so can be risky.
+
+There is a very easy, "cheap" way to defeat him without taking a hit, which is
+advisable if you simply want to go through the game taking as little damage as
+possible (which I'd recommend until you've at least finished it once).  As Naff
+is summoning (or transforming into?) Aggar, look closely at the background.  See
+that object in between the two sculptures?  Kinda looks like some kind of
+monitor, or television, or chalkboard?  Well, see that winged sculpture on top
+of it?  It's holding what looks to be a rectangular object with a sun emblem on
+the front.  At the bottom of that sun emblem, where it meets the "monitor/chalk-
+board" portion of the carving, you'll see a little "point" where the bottom of
+the sun juts out slightly.  I know it's a complicated description, but damn, the
+Sega boys really did a good job with the backgrounds in this game.  Anyway, you
+need to position yourself so that the very top tip of your wolf's ear is
+pointing upward juuust barely to the right of that lower point of the sun
+emblem.  Like, so that the sun is pointing down to the back of your wolf's head/
+hair or your shoulder.  If you positioned yourself correctly (the more times you
+fight this battle the easier it'll be to know how to correctly position yourself
+due to trial and error, anyway) you'll be completely immune to all of Aggar's
+heads.  That is to say, he'll never throw them in a pattern in which any of them
+will fall on you at that position.  Just hammer the punch button to shoot fire-
+balls until he's dead.
+
+After Aggar is defeated, Neff will reappear in the form of a giant head in a
+beam of light and steal all your powerups.  This happens at the end of every
+stage and there's no way to avoid it, so don't worry.  Your character will jump
+into the whole that Neff escapes to to reach the next stage, then you get to
+watch a strange bright purple "cinema scene" that consists of a single vague
+picture.  These indescribable... things happen after every round, though you can
+just press the Punch or Kick buttons to skip them.
+
+
+----------------------
+  2-02  Round 2
+   BEAST FORM: Dragon
+   DIFFICULTY: **
+----------------------
+
+Run to the right.  You'll see a Round Leech, the slime enemy.  Crouch and punch
+it a couple times as soon as you're in range; if it leaps high into the air,
+perform an upwards kick to try and deter it.  If you fail and it lands on your
+head, quickly tap left and right repeatedly to get rid of it.  Once it's taken
+care of, just keep heading right, and try to keep yourself just a bit to the
+right half of the screen, squatting and punching rapidly to take care of the
+wolves and two leeches that pop up.  Once you kill the blue wolf and grab your
+first powerup, head right to avoid the Rattle Tail and stay just to the right of
+the middle of the screen again, punching the next set of wolves and leech and
+getting another powerup.
+
+Now run to the far right, past both Rattile Tails, and deliver a standing kick
+to the Chicken Stinger just as it appears.  Run left after the Rattle Tails pass
+and squat just to the left of the middle of the screen this time, punching the
+wolves as they come, but don't run into the powerup until you wait for the leech
+to drop and destroy it.  Once you're a dragon, use your Kick button to release
+an electric charge all around your body, which should destroy a second falling
+leech.  Wait for the Rattle Tail to go by then fly right and up, shock the Orcus
+and fly down to shock the next leech.  Turn to the left and fire off a thunder
+breath attack to kill the Chicken Stinger; by this point, you'll be at the boss.
+
+//////////////////
+BOSS, ROUND TWO
+   OCTEYES
+   DIFFICULTY: **
+//////////////////
+
+This monster may seem less intimidating than Aggar at first; an egg-shaped bulb
+of a plant atop a stem, with a single eye peering at you.  That changes when he
+opens up to reveal a grotesque array of freakish eyeballs that multiply and
+spray outwards to overtake you.
+
+The strategy to defeat him would involve slipping past the projectile eyes and
+letting loose on the main oculus in the short opening between waves of attack.
+The boss and all his projectiles will flash red with assumed agony whenever you
+damage even a single rogue eye but as much as I've tested it this seems to not
+actually deal any real damage to the boss whatsoever; when you actually start
+hurting him he'll begin to "phase out' in that same eye-straining fashion Aggar
+did in Round 1 as he inches closer to death.
+
+Luckily, though, there's also a "cheap and easy" way to deal with this guy, that
+takes him from extremely challenging to laughable.  It can still be tricky to
+pull off, though; like with Aggar, you have to position yourself in just the
+right spot on the screen as Octeyes is being summoned, but this time it's more
+complicated since you have the Y axis to take into consideration as well.
+Basically, look at the background, to the roughly Y-shaped tree on the right.
+The left branch, which is pointing out toward the left side of the screen, is
+your goal.  You want to position yourself so that your dragon is sort of on top
+of/in front of it, so that your dragon's feet are touching the very edge of the
+branch and his body is "covering" the rest of it.  It can be hard to explain but
+once you've fought the boss a few times like this you'll get a feel for exactly
+where you need to position yourself and adjust it so that you're safe.  Anyway,
+start spamming the Kick button so as to spam your electric charge move and once
+Octeyes is on the screen he should be taking heavy damage immediately.  The
+severe damage he receives from the charges plus the fact that his attacks are
+slowed by them means you should defeat him without taking any damage yourself
+within just a few seconds.  If you take damage or are shoved backwards position
+yourself a bit higher and/or further back than your initial position and try
+again.
+
+
+--------------------
+- 2-03  Round 3
+   BEAST FORM: Bear
+   DIFFICULTY: **
+--------------------
+
+Squat down and await the Cave Needles (yellow ant/wasp guys) to drop in from the
+upper right.  Walk a bit to the right and punch forward so that the next set of
+Needles fall into your fist, or at least safely in front of you.  Run to the
+right quickly as soon as they're out of your way and run under the brown wolves
+leaping overhead.  After the second wolf, pay close attention to the above plat-
+form and high-jump + kick just as soon as you see the blue wolf so that you kill
+it without it escaping.  Grab the powerup then run to the right edge of the
+platform you're on.  Crouch and punch the air until the pair of Grave Masters
+walk into your fist and die.  Run to the far left of the screen, crouch, and
+punch to pre-emptively kill another Grave Master as well as a set of wolves just
+as they spawn.  A Grave Master will walk toward you from the right but will fall
+to his demise if you leave him alone and stay glued to the left edge of the
+screen until you reeceive your second powerup.
+
+Jump across to the rightmost platform just above the rock on the ground to the
+far right.  Tap left to turn around, then crouch and start punching the air
+again.  Watch the first Needle that approaches fall haphazardly to his death,
+then punch the next three.  A group of wolves will attack next but don't grab
+the powerup until the Stone Turtle has fallen and promptly killed himself on
+your fist.  Once you've become a bear, turn and jump to the right then destroy
+the Fossil on the left by crouching and using Stone Breath (punch button) which
+will freeze it then kill it.  Turn right, still crouching, and repeat this for
+the approaching Grave Master and Cave Needle, then you're at the boss.
+
+
+///////////////////
+BOSS, ROUND THREE
+   MOLDY SNAIL
+   DIFFICULTY: *
+///////////////////
+
+A gargantuan upside-down snail shell-like thing with a draconic head peering out
+from the top.  Certainly an interesting enemy, and a bit less disturbing than
+the first couple bosses.  He hides in his shell, with the head on the very top-
+right portion of the screen being his only weak point, which makes attempting
+Stone Breath on him very difficult.  He attacks by blasting highly-damaging
+strands of nuclear flame that coil around the room for a bit, and depending on
+his stance he will launch one in different ways.  His normal "looking forward"
+sort of face means he'll launch one high, whereas his "leaning back" face
+signifies that he'll fire a lower shot from the "navel" in front of his shell.
+
+Of course, yet again, there's a cheap way to defeat him, but as far as I know
+it's really the only way to defeat him regardless.  Basically, get just in front
+of Neff's lightning storm, as close as you can inch, then wait for him to
+summon.  Stand still until you guess the smoke is just about to clear and reveal
+the boss, then use a roll attack from the ground.  You'll hup up and into the
+shell, possibly damaging Moldy Snail in the process, and if you did it fast
+enough you'll surely avoid damage.  Once you've done this, just keep pressing
+the kick button as fast as you can and you'll either roll straight up from the
+shell to the boss's face, or be pushed out but immediately jump back in.  As
+long as you keep pressing kick he'll never be able to hurt you and you'll have
+him destroyed in no time.  It may be worth noting that instead of "phasing" as
+he takes damage he changes color, which is much less painful on the eyes.
+
+---------------------
+- 2-04  Round 4
+   BEAST FORM: Tiger
+   DIFFICULTY: ****
+---------------------
+
+First, run right and kick the zombies to death; remind you of Round 1 yet?
+Well, Round 4 has many of the same enemies but in much greater quantities, and
+more of the harder ones too.  Anyway, after the set of three zombies, crouch and
+punch the wolves as they come.  Before collecting the powerup, wait for the
+Headless Horror to fall down and jump-kick it.  Get the powerup and repeat this
+for the two to the left, then crouch and take out the next wave of wolves.
+Again, before collecting the second powerup, jump up and punch the Hammer Demon
+then drop and grab the sphere.
+
+Walk to the right edge of the lower platform and deliver a standing kick to the
+zombies, then run to the left edge.  Wait for the Horrors to drop and perform
+standing kicks to both of them.  Turn, jump and kill the next Hammer Demon then
+run to the right side of the screen and prepare for a Chicken Stinger to come
+out.  Kick it then turn left and kick the two Horrors to death.  Turn right once
+more and get rid of the Slow Foot then jump and punch the Hammer Demon out of
+the sky.  Drop down and kick the Horror before turning around to take out the
+wolves and claim your third powerup.  Jump into the air and shoot a wave ball to
+dispatch the last Hammer Demon before the boss.
+
+//////////////////
+BOSS, ROUND FOUR
+   CROCODILE WORM
+   DIFFICULTY: ***
+///////////////////
+
+As opposed to the rest of the bosses up to this point, Crocodile Worm is not
+gigantic, is not scary and is not even that mean looking.  He's like a cute
+little bluish dragon hugging a red orb (either that or he just has a fat round
+tummy).  What's funny about that is that he's by far the most difficult boss yet
+and also unlike the other bosses up to now, there's no cheap easy way to defeat
+him.
+
+Basically, he'll move up and down in a sort of crescent pattern on the right
+side of the screen and never moves in any other way.  Periodically he'll release
+a straight-line barrage of fireballs that moves left across the screen.  Then,
+after a bit, he'll belch up a little red dragonling that will fly around the
+room and attempt to ram into you until it's destroyed.  He'll then keep
+alternating between these two attacks, always moving along the same set path.
+Sound simple?  It isn't, at least not compared to anything you've fought up to
+now.
+
+It would seem safer to stay to the left and use wave balls but not only are they
+weak, slow, and hard to hit with, but his fireballs will absorb them.  The key
+is to use your vertical dash, but it's not easy.  Dashing directly into him will
+deal heavy damage to you, and accidentally mis-timing your dash so that you run
+into one of his fireball barrages means VERY heavy hurt.  You have to dash just
+to the left of him, just in front of him, so that the energy from the dash hits
+him but your actual doesn't come in contact.  It can be tricky to pull off over
+and over until you practice a bit.  Of course, you also have to get used to his
+timed pattern of shooting fireballs, so that you don't get roasted; a great tip
+to remember as well when fighting this guy is that his low, near-the-ground
+barrages can be avoided by crouching, putting the Tiger's ridiculously low
+crouching stance to good use.  The good news is that your vertical dashes will
+destroy the dragonlings before they have a chance to do anything, so have at it
+between fireball rounds.
+
+Like the Moldy Snail, Crocodile Worm will change colors as he inches closer to
+death.  He'll go from blue to purplish to completely red, but then at the very
+end he'll change once more to a ghoulish black and red, like he's perpetually
+stuck in his "being damaged" animation frame.  Once he looks like this, he'll
+only take a couple more hits before he's had it, so don't give up!
+
+
+--------------------
+  2-05  Round 5
+   BEAST FORM: Wolf
+   DIFFICULTY: ***
+--------------------
+
+Immediately run to the right, crouch, and punch.  The goat dudes may or may not
+fall victom to your assault but this will at least keep them at bay while you
+wait for the two brown wolves to leap overhead, and for the blue wolf to take
+the lower route straight into your fist.  Grab the powerup and finish the goats
+if you haven't, then turn around to face a Dark Unicorn.  Jump-kick to make him
+go splat then turn to the right, where a Rad Boar, the most fearsome normal
+enemy in the game, will approach.  Jump-kicks are the way to go but he can jump
+too if you take too long.
+
+Turn left, crouch and punch to stave off the goats until the wolves arrive.
+Kick or jumpkick away the remaining goats to grab the next powerup then turn
+right and high-jump + punch to get the Orcus out of the way.  Fall down to the
+lower level, ignoring the brown wolves up top, and immediately turn left to hit
+the blue wolf which, like the one earlier, takes the lower route.  Jump and
+strike the next Skinny Orcus, drop and dash through the Saw Fish then jump again
+to hit the last Orcus.  Fall to meet the final boss.
+
+
+////////////////////
+BOSS, ROUND FIVE
+   NEFF
+   DIFFICULTY: ****
+////////////////////
+
+Finally, the ultimate showdown with Neff himself... who, for some reason, turns
+into a rhinocerous instead of fighting you with his normal body like one would
+expect after all these flukes.  Well... maybe it's his own Altered Beast form?
+Anyway, he's got a lot of nasty moves that can combo you into a pulp from full
+health in a flash if you're not careful.
+
+The basic plan of attack is to punch a fireball at him one time, then high-jump
+and dash over his head once he charges at you.  It's possible to just barely
+scrape his head for extra damage from the dash, but it's very tricky to do and
+you're much more likely to accidentally run into his horn, which just pushes him
+back and pisses him off.  Just keep repeating the pattern; fireball, high-jump,
+dash, turn, fireball, etc.  Sometimes, if your timing gets off, you'll stop his
+dash too soon and he'll start trying to combo you.  You'll still be able to
+quickly high-jump and avoid it if he happens to perform a kick first but if it's
+a punch get ready to spam pressing the Kick button so you get out of it as soon
+as possible with a dash--which will also damage Neff, at least to pay him back
+for what damage he caused you.  It actually is possible to dash through his body
+from the ground to damage him without getting hurt yourself, but he tends to
+immediately turn around and combo you if you do that and it can throw off your
+pattern if you attempt it.  The only time I'd say it's worth even trying is if
+he's almost dead (he glows red, though not as deep a red as the bosses of rounds
+3 or 4), you have at least one extra life to spare, and you simply wish to
+finish the game at all costs.
+
+Once, and only once, I've gotten Neff to do some kind of continuous charge at me
+during which time it seemed like I could charge right througth his body over and
+over without him stopping until he ran into me standing straight up (as opposed
+to jumping over him or charing through him).  I'm not sure how to trigger this,
+but it would seem to be the key to unlocking the "cheap strategy" for him, if it
+is actually logically reproductable and wasn't just a bug.
+
+Once you defeat Neff, a blue bird will fly around and eventually shapeshift into
+Athena.  She walks up to you and you're greeted with the final purple "cutscene"
+which consists of Athena hugging up to your sexy wolf self.  Afterwards is the
+short credits sequence, and then you're prompted to pressy any button to "start
+the next rounds".  This puts you back at Round 1 with your score intact, but
+you're playing the next higher difficulty (so Hard if you just beat Normal, and
+Hardest if you just beat Hard).  This new difficulty boasts a much more
+challengin and action-packed placement of enemies across all rounds, but also
+much more potential for much higher scores.  Good luck!
+
+
+===================
+  III) Extra Info
+===================
+
+--------------------
+  3-01  Enemy List
+--------------------
+
+In order of actually seeing them.  Like before, difficulty ranges from 1 to 4
+stars, with more meaning more difficult.
+
+----------
+
+  Slow Foot
+  Difficulty: *
+
+Lumbering zombies in purple garb.  They're the first enemies you see in the
+game, immediately after you've risen from your own grave.  Hit them once to de-
+capitate them, again to destroy them (unless in any form higher than Human Level
+1, in which case they will die in one his regardless).  They have a habit of
+satisfyingly crumbling to bits when destroyed.  Watch out, though; if you touch
+one it'll explode and deal a full health bar's worth of damage!
+
+----------
+
+  Headless Horror
+  Difficulty: **
+
+Not counting the very first Blue Wolf which would look better situated after its
+companion anyway, this is the second enemy you'll face.  Carrying their heads
+around like a Dullahan from Castlevania, they're far smarter than their
+braindead cousins and actually make a valiant effort to avoid your attacks by
+standing just out of reach.  Attacking frontally against this defensive stance
+is just asking to take a hit from their long punch attacks, but they will gladly
+walk right into a nice jump-kick.  At Human Level 3, your normal ground kicks
+will out-range their punches and make them easy pickings.
+
+----------
+
+  Brown Wolf
+  Difficuly: *
+
+More numerous than any other enemy in the game, these guys are found in every
+section of every round.  But they kinda have to be, since they serve as the
+"guardians" for the powerup-filled Blue Wolves.  They leap across the ground and
+will occasionally stop between leaps, especially in Round 1.  Just crouch and
+punch fast to create a "wall of fist" they can't get past for an easy 1,000
+points, except in Rounds 3 and 5 in which case you may need to perform jumping
+attacks or well-placed upwards kicks if you want to take care of them all.  They
+take but a single hit, even as a Human Level 1.
+
+----------
+
+  Blue Wolf
+  Difficulty: *
+
+These special enemies are the only ones you'll ever see drop an item, the one
+and only item in the game, which I've so eloquently dubbed the "powerup".  They
+are every bit as weak and defenseless as their brown bretheren but tend to be at
+the back end of the pack, as they're usually being "protected".  Theere is only
+one I know of that doesn't travel with Brown Wolves, the very first one in the
+game, atop the graves at the very beginning of Round 1.
+
+----------
+
+  Skinny Orcus
+  Difficulty: *
+
+The first flying enemy you'll encounter, it's found every once in awhile in
+Round 1.  It flies along the top of the screen until it intercepts you
+vertically, at which point it'll slowly dive toward you.  Either high-jump and
+punch it from the front, or wait for it to descend and deliver an upward kick.
+
+----------
+
+  Grave Master
+  Difficulty: **
+
+Powerful yellow zombies that will only be found in Round 1 if you miss the first
+boss encounter chance, but you're sure to see them in Rounds 3 and 4 regardless.
+They're like much more aggressive and more offensively and defensively powerful
+Headless Horrors.  Their aggressiveness can be their undoing if you simply
+crouch and punch as they advance toward you, which is the preferred method of
+defeating them no matter what form you're in.  Otherwise, be prepared to deal
+with some very powerful and long-ranged punches.
+
+----------
+
+  Round Leech
+  Difficulty: **
+
+Little round piranha-faced pinkish slime creatures.  They'll bounce around and,
+once close enough to you, leap high into the air in an attempt to couple with
+your head.  Be aggressive and crouch-punch them before they're able to fight
+back (takes two hits as a Human Level 1).  If they do leap, try to intercept
+them with an upward kick.  If they attach to your head, tap left and right
+repeatedly to shake them off and kill them in the process.
+
+----------
+
+  Rattle Tail
+  Difficulty: **
+
+What appears to be a weird random rattlesnake tail poking out from the ground
+turns out to be an Eastern-style dragon that bursts out where the tail shook and
+then flies vertically in the opposite direction.  Take out the tails as soon as
+you see them to dispatch the Rattle Tail early, or smack their head while
+they're flying to cause the rest of the body to become harmless.
+
+----------
+
+  Chicken Stinger
+  Difficulty: ***
+
+These little guys seem easy enough but they can be an outright source of rage if
+they catch you into one of their little tail combos.  They basically just
+scuttle across the ground, looking like a mix between a bird and a reptile,
+until they get near you, then they hyperactively tail-swipe over and over.  The
+best way to deal with them is to deliver a well-placed standing kick from
+optimal distance (or an even safer and longer-ranged Beast form attack) but if
+they start attacking you and you get "caught" in the combo there's little you
+can do until you fall backwards.
+A couple words of note; first of all, you may recognize these guys if you've
+every played Golden Axe; this was their first appearance.  Also, this is the
+only enemy I was able to find the name of anywhere outside of Khaos' FAQ, but
+according to Wikipedia their name is "cockatrice".  That's boring, I like
+Chicken Stinger much better.
+
+----------
+
+  Cave Needle
+  Difficulty: **
+
+Fast-running bizarre insects that look like wingless wasps, or giant yellow ants
+with front-facing stingers.  They prefer to run like a human than walk like a
+normal insect, too.  They just run from one side of the screen to the other
+wildly, but this alone plus the fact they usually come in pairs can make them
+quite a nuisance.  Just squat and punch or get ready to jump over them.  It's
+too bad that the Bear, the Altered Beast you attain in the one round these guys
+infest, is like the least efficient form in the game for dealing with them,
+though rolling from the ground can avoid them quite well.
+
+----------
+
+  Rock Turtle
+  Difficulty: *
+
+A turtle with a rock for a shell, obviously.  They'll drop down in Round 3 about
+once per section.  They're slow and weak but their arrival from the top of the
+screen can catch you off-guard if you don't expect it through practice.
+
+----------
+
+  Fossil
+  Difficulty: *
+
+Like the Rock Turtles but it can be seen plain as day as a large rock on the
+battlefield.  Take it out quickly or it'll start hopping around you and stunning
+you.
+
+----------
+
+  Hammer Demon
+  Difficulty: **
+
+The only new enemy in Round 4.  It flies around the top of the screen just like
+the Skinny Orcus (which, interestingly, is the only Round 1 enemy missing in
+Round 4).  The difference is that this guy'll drop straight down on you like a
+ton of bricks if you don't react instantly with an upward kick.  The best way to
+deal with them is to just high jump + punch them as soon as you see them on the
+screen.
+
+----------
+
+  Gory Goat
+  Difficulty: ***
+
+The first of several new enemies you'll face in Round 5, these guys attack you
+as soon as you enter the stage.  They hop around left and right and attempt jab
+punches at you.  Crouch and punch to keep them at bay, and move in when you
+think you can intercept one as it leaps toward you.  Usually comes in pairs.
+The Wolf form's flaming dash move is extremely useful against them.
+
+----------
+
+  Dark Unicorn
+  Difficulty: ****
+
+For whatever reason this dude looks way more cartoony than any other enemy in
+the game, but don't let this lull you into any sense of security.  At first
+opportunity a Dark Unicorn will deliver a flying kick that's extremely painful
+and hard to dodge.  The way to avoid such a bad situation is to immediately
+assault one with a flying kick as soon as you see it.  It comically "splats"
+upon defeat, which has got to be my favorite enemy death animation in Altered
+Beast.  They can also leap onto higher platforms if they pass under them, so
+keep that in mind.
+
+----------
+
+  Rad Boar
+  Difficulty: ****
+
+Far and away the hardest non-boss enemy in Altered Beast, I'd say.  These yellow
+pigs are somewhat slow but take a lot of punishment and deal it back with
+powerful electrified swipes.  The one way to combat them without serious danger
+is to fight with jump-kicks.  Like Dark Unicorns, these can also leap onto
+higher platforms if you leave them alone long enough.
+
+----------
+
+  Saw Fish
+  Difficulty:  ***
+
+Looks like a buzzsaw, kind of like Silver Sonic from Sonic the Hedgehog 2 when
+he's rolled into a ball.  These guys zip around the ground left to right, and
+can be very painful if touched.  Just jump over them unless you have a few power
+ups; a good standing leg sweep can take them out, but the safest way is to use
+the Wolf's flaming dash if you have it.
+
+----------
+
+  Fish
+  Difficulty: *
+
+Not sure of the name of these guys, they aren't mentioned anywhere online that
+I know of.  They're only encountered in the later sections of Round 5, if you
+don't reach the boss after the first section.  Unlike the Saw Fish it has no
+dangerous armor and simply meanders slowly from the right edge of the screen to
+the left, along the ground.
+
+----------
+
+----------------------
+  3-02  Secret Codes
+----------------------
+
+Altered Beast may not have a main menu or any visible options menu to speak of,
+but it at least does host some secret codes that will allow you to roll with the
+punches of the sometimes-annoying difficulty and change some stuff around.
+All codes are performed at the title screen.
+
+----------
+
+  Options Menu
+  Hold B and press Start
+
+Takes you to a menu that, aside from one option, looks like it should have been
+available from the main menu.  You can alter the difficulty from Normal to Hard
+to Hardest (no Easy here, guys!), change your health meter to contain anything
+from one to five health bars, and allow yourself to start with anywhere from one
+to five lives (zero to four extra lives as shown on the upper-left of the screen
+during gameplay).  Also, and perhaps most notably, is a Round Select feature.
+(Note: You have to hold A and press Start at the title screen--which you return
+to after you press Start on the options menu--to actually begin at the round you
+selected.  Otherwise, you'll just start at Round 1 with the other options you
+selected in effect.)
+
+----------
+
+  Continue
+  Hold A and press Start
+
+Allows you to continue the game from the last stage you got a Game Over on, with
+three lives and full health.
+
+----------
+
+  Sound Test
+  Hold A, C, Up and Right and press Start
+
+Takes you to a sound test menu.
+
+----------
+
+  Beast Select
+  Hold A, B, C, Down, Left and press Start
+
+The ultimate code, and the hardest to pull off on any kind of controller... this
+allows you to change which Altered Beasts you earn with a third powerup on any
+level, which not only can make the game easier but also a lot more interesting
+once you've finished it.  Want the Wolf on every round?  Done.  Having trouble
+with Neff and want to be cheap and destroy him with the Dragon?  Done!

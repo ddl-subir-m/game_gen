@@ -1,0 +1,600 @@
+Spy vs Spy is a rather unique game.  There's really nothing else like it out 
+there.  Because of that, it is probably disorienting when you first start.  
+
+MODES
+There are three modes in Spy vs Spy that you can choose from.  The first is 
+training mode.  In this game, you only need the suitcase and one exit item in
+order to leave the building.  You can play on any level.  Also, the AI is 
+easier I believe.  The second mode is vs computer.  This is a normal game, and
+can be played on any level against the AI.  Finally, there is a vs player mode,
+which is 2-player (duh).  Use the Up and Down to choose your mode, and left and
+right to choose the level.
+
+HOW TO WIN 
+The goal of this game is to find the suitcase and four items.  The items are a
+key, a bag of money, a passport, and a plane ticket.  You cannot leave the 
+building unless you have all four items.  The items are hidden throughout the
+building within furniture that you must search.  You can only hold one item at
+a time, unless you have the suitcase.  Your goal, then, is to find these items,
+stop the other spy from getting the items, and escape.  Not too hard, right?
+
+BASIC CONCEPTS
+There's really not much to it on the surface.  You must travel throughout the 
+building, searching every piece of furniture.  You also have a map, which can 
+be helpful.  Besides the items mentioned above, there is also a club and a 
+dagger hidden.  These double and triple your attacking power, respectively.  
+But why do you need weapons if you're only searching for items?  Well, if the 
+other spy gets to one of them first, you have to take it away from him somehow.
+This can be accomplished in two ways.  The first is finding him and fighting 
+him, as mentioned above.  The other is to use booby traps to slow him down or 
+stop him.  These booby traps can be placed above doors, behind furniture, or 
+just in the room itself.  If the other spy is unprepared, he will die.  If a 
+spy dies, he is off the screen for 5 seconds, and loses 30 seconds of time.  
+Yes, there is a time limit.  It's not too hard to beat, unless you die often or
+are against a good player.  Anyways, back to booby traps.  If you need to get
+past a booby trap, there are remedies placed around the building.  All you have
+to do is bring that remedy to the furniture or door and you'll disarm it.  But
+you can't carry both a remedy and an item, so be careful.  It's confusing at
+first, but you'll get used to it once you play.
+
+
+
+IV.  Controls
+*************
+
+Spy vs Spy has a rather weird control scheme, so I figure I'd give it out for 
+those of you with emulators or bought it without the instruction manual.
+
+D-Pad - move
+Start - Pause
+Select - None
+A - Search furniture, place trap, remove remedy, open/close doors, fight
+B - Choose booby trap, See map
+
+To place a booby trap, cycle through them using B.  The order in which you 
+cycle through them is bomb, spring, water, time bomb.  To set the first two, 
+stand next to a piece of furniture and press A.  To set the water bucket, first
+close the door, stand next to it, and press A.  To set a time bomb, stand 
+anywhere in the room and press A.  If done correctly, your spy should giggle.
+
+To view your map, press B five times.  It will cycle through your booby traps
+and then show the map.  Press B again when you're done.  Careful, the timer 
+still runs and the other spy can still do stuff when you are viewing the map 
+(you can press pause though).  
+
+To remove a booby trap, stand next to the remedy furniture and press A.  Your 
+spy should now be carrying a remedy.  Then walk up to the booby trapped 
+furniture and press A.  If done correctly, your spy should giggle.  If there 
+was no booby trap, you should still have the remedy.  To get rid of the remedy,
+just stand anywhere and press A (or B, but B will cause you to cycle through 
+your traps).
+
+Fighting is nothing more than standing next to the other spy and pressing A as 
+rapidly as possible.  You can jump (press Up I believe, but I'm not sure), but 
+it's virtually useless.
+
+
+
+V.  The Items
+*************
+
+BOOBY TRAPS & REMEDIES:
+Bomb - Place Bombs behind furniture to set them.  When searched, the spy will
+       explode.
+  Water Bucket - These can be found in the red boxes on the walls.
+
+Spring - Place springs behind furniture to set them.  When searched, the spy 
+         will fly backwards (through open doors as well) and then die.
+  Pliers - These are found in the white boxes on the walls.
+
+Water Bucket - To place these, first close a door and then place the trap on
+               door.  The spy who opens the door will be electrocuted.
+  Umbrella - Find these in the umbrella racks.  One will always be at your 
+             starting place.
+
+Time Bomb - To place these, stand anywhere in the room and press A.  The next
+            spy to enter the room will turn blue and explode.
+  There is no remedy for this booby trap.  When your face turns blue, just exit
+       and then return, and the bomb will be defused.
+
+
+WEAPONS:
+The Club - A white stick or something.  This will double your fighting power.
+The Dagger - A black dagger.  This will triple your fighting power.
+
+There is only one of each of these in the level, not one for each spy.  If you 
+find the dagger first and then the club, the dagger will be lost completely 
+(you will not keep the stronger weapon).  
+
+
+SUITCASE ITEMS:
+The Suitcase - The big blue thing you carry around.  You cannot hold more than
+   one item at a time without it.
+Ticket - Your plane ticket.  It looks like a wallet with an airplane on it.  It
+   is in the top left corner of your inventory.
+Bag of Money - A bag with a $ on it.  It is in the top right corner.
+The Key - A black key.  It is in the bottom left corner of your inventory.
+Passport - It looks like a sealed envelope.  It is in the bottom right corner.
+
+
+
+VI.  The Maps
+*************
+
+This is probably the most useful part of this FAQ, so enjoy!
+
+LEGEND:
+B= Black spy's starting position
+W= White spy's starting position
+X1-4= The items one needs to escape the building.  1 is the upper left, 2 is
+the upper right, 3 the lower left, and 4 is the lower right object in your 
+status screen
+S= The Suitcase
+F1= Weapon 1, the club
+F2= Weapon 2, the dagger
+R1= Remedy for bomb (water bucket)
+R2= Remedy for spring (Pliers)
+R3= Remedy for Water bucket (Umbrella)
+L= Ladder (for floor 1), Trap door (for floor 2)
+x= One Way Doors (level 8 only)
+
+Doors look like this __ __, and the exit looks like this _    _
+Rooms with \\\\\ are empty and not in the game.
+
+
+      LEVEL 1
+ _____ _____ _   _
+| R3  |     |     |
+| B     X1     S  |
+|_X3__|_____|__ __|
+|     | R3  | X2  |
+| F1    W     X4  |
+|_____|_____|_____|
+
+
+
+            LEVEL 2
+ _   _ _____ _____ _____ _____
+|     |  R3 |     |     | R2  |
+|        B          X3    X1  |
+|__ __|_____|__ __|_____|__ __|
+|     |\\\\\| R1  |\\\\\|     |
+|  S  |\\\\\| F1  |\\\\\|  F2 |
+|__ __|_____|__ __|_____|__ __|
+|     |     |     |R2 R3|     |
+|  X2   R1         W  X4      |
+|_____|_____|_____|_____|_____|
+
+
+
+         LEVEL 3
+         FLOOR 1
+ _____ _____ _____ _   _
+|  R1 |     |     |     |     
+|  X1    L     L     X2 |
+|__ __|_____|_____|__ __|
+|     |     | R3  | R3  |     
+|           | B     W   |
+|__ __|_____|_____|__ __|
+|     |     |     | R2  |     
+|                   F1  |
+|_____|_____|_____|_____|
+
+         FLOOR 2
+ _____ _____ _____ _____ 
+|     |     |     |     |     
+|       S L |  L    R3  |
+|__ __|_____|_____|__ __|
+|     |     | R2  |     |     
+| X3     F2 | X4    R1  |
+|_____|_____|_____|_____|
+
+
+
+            LEVEL 4
+       _____ _   _ _____
+      |     |     |     |
+      |  F2             |
+ _____|__ __|__ __|__ __|_____ _____ _____
+|     |     |     |     |     |     | R2  |
+|        R2 |     | R3          X1    X3  |
+|__ __|_____|__ __|_____|_____|_____|__ __|
+| R1  |\\\\\|     |\\\\\|     |     |     |
+| X2  |\\\\\|  S  |\\\\\|           |  R1 |
+|__ __|_____|_____|_____|__ __|__ __|__ __|
+|     |     |\\\\\|     |     |     | R3  |
+|  R2    F1 |\\\\\|  R3       |        W  |
+|_____|__ __|_____|__ __|_____|_____|_____|
+      | R3  |     |     |     
+      |  B  | R1        |
+      |_X4__|_____|_____|
+
+
+ 
+                  LEVEL 5
+                  FLOOR 1
+ _____ _____                   _____ _____
+| F2  |     |                 |     |     |
+|  L  |  L  |                 |  L  |  R2 |
+|__ __|_____|_____ _____ _   _|__ __|__ __|
+|     | R2  |     |     |     |     |     |
+|       R3                          |     |
+|__ __|_____|_____|_____|_____|_____|__ __|
+|     |     |                 |R1 R3| R3  |
+|           |                 | B L   W X1|
+|_____|_____|                 |_____|_____|
+
+                  FLOOR 2
+ _____ _____                   _____ _____
+|     |     |                 |     |     |
+|  L  | L S |                 |  L    F1  |
+|__ __|__ __|_____       _____|__ __|__ __|
+|     |     | R2  |     |     |     |     |
+|     | R1    R3  |     | X4        | R3  |
+|__ __|__ __|_____|     |_____|_____|__ __|
+|     |     |                 | X2  |     |
+| R3    X3  |                 |  L        |
+|_____|_____|                 |_____|_____|
+
+
+
+                  LEVEL 6
+                  FLOOR 1
+ _____ _____                   _____ _   _
+|     |     |                 |     |     |
+|  S        |                 |  F1       |
+|__ __|_____|                 |_____|__ __|
+|     |     |                 |     |     |
+|        L  |                 |  L  |     |
+|_____|__ __|                 |__ __|__ __|
+| R3  |     |                 |     | R3  |
+|W X3       |                 |        B  |
+|__ __|_____|                 |_____|__ __|
+|     |     |                 |     |     |
+|        L  |                 |  L  |     |
+|_____|__ __|                 |__ __|__ __|
+|     |     |                 |     |     |
+|           |                 |       X1  |
+|_____|_____|                 |_____|_____|
+
+                  FLOOR 2
+       _____ _____       _____ _____      
+      |     |     |     |     |     |    
+      |  L    X4  |     |  X2    L  |
+      |__ __|_____|     |_____|__ __|
+      |     |                 |     |
+      |     |                 |     |
+      |_____|_____ _____ _____|_____|
+      |     |     |     |     |     |
+      |  L          F2           L  |
+      |_____|_____|_____|_____|_____|
+
+
+
+                  LEVEL 7
+                  FLOOR 1
+             _____ _   _ _____
+            |     |     |     |
+            |             X4  |
+ _____ _____|_____|__ __|_____|_____ _____
+|     |     | R2  |     | R3  |     | R3  |
+|              L  |     | W L         B L |
+|__ __|_____|_____|__ __|_____|_____|__ __| 
+|     |\\\\\|\\\\\|     |\\\\\|\\\\\|     |
+|     |\\\\\|\\\\\|  S  |\\\\\|\\\\\|     |
+|__ __|_____|_____|__ __|_____|_____|__ __|
+|     |     |     |     | R1  |     |     |
+|                       |  L  |           |
+|_____|_____|__ __|_____|__ __|_____|_____|
+            |     |     |     |
+            |       F1        | 
+            |_____|_____|_____|
+                  
+                  FLOOR 2
+ _____ _____ _____ _____ _____ _____ _____
+|     |     |     |     |     | R2  | X1  |
+|        X2    L           L    R3  |  L  |
+|__ __|_____|_____|_____|_____|_____|__ __|
+|     |\\\\\|\\\\\| R1  |\\\\\|\\\\\|     |
+|     |\\\\\|\\\\\| X3  |\\\\\|\\\\\|     |
+|__ __|_____|_____|__ __|_____|_____|__ __|
+|     |     |     |     |     |     |     |
+| R3     F2             |  L              |
+|_____|_____|_____|_____|_____|_____|_____|
+
+
+
+            LEVEL 8
+            FLOOR 1
+ _   _ _____ _____ _____ _____
+|     |     |     |     |     |
+|     |  F1                   |
+|__ __|__ __|_____|_____|__ __|
+|     |     |     |     |     |
+|  R2       |  L  |  L  |     |
+|_____|_____|__ __|__ __|__ __|
+|     |     |     |     | R3  |
+|        X2       |     x W X1|
+|__ __|_____|__ __|__ __|__ __|
+|     |     | R3  |     |     |
+|           x  B  |           |
+|_____|__ __|__ __|_____|__ __|
+|     |     |     |     |     |
+|  X3       | R2  |           |
+|_____|_____|_____|_____|_____|
+
+            FLOOR 2
+       _____ _____ _____
+      |     |     |     |
+      |     |  L  |  L  |
+      |__ __|__ __|__ __|
+      |     |     |     |
+      |        X4   R3  |
+      |_____|_____|__ __|
+      |     |     |     |
+      |  S    R1    F2  |
+      |_____|_____|_____|
+
+
+
+VII.  Walkthrough
+*****************
+
+First of all, a note about the walkthroughs.  They are general guidelines only
+and provide the quickest way to gain an advantage over your opponent.  Thus, I
+will not tell you how to get every item, as it is all there in the maps and at
+least one of them will probably be moved by the time you get around to getting
+it.  So basically, I'm telling you the quickest way to get a weapon 
+(preferably the knife, obviously) and/or the suitcase.  Once you have that, 
+the general tips will be more useful to you.  Because of the nature of the game 
+and the unpredictability of your opponent, the walkthrough may become quite 
+worthless as the game progresses.  Keep this in mind.
+
+
+LEVEL 1   Advantage: Even
+WHITE: From the room you start in, quickly go left.  Grab the club in the white
+dresser on the right.  Now go up and then right twice.  The suitcase, along 
+with the exit, is here, so grab the suitcase.  You can now concentrate on the 
+items, which are located in the other two top rooms and the bottom right one.
+
+BLACK: Basically, the same thing.  Go down and grab the club before the white
+spy gets it.  From there, grab the suitcase and then pick up the items.
+
+
+LEVEL 2   Advantage: White
+WHITE: First of all, seal the door to your left with a water bucket.  This will
+make life easier.  Next, grab the passport that is in your starting room.  Then
+go right and then up to find the dagger.  By now, the black spy will probably
+have the suitcase, so you are going to have to take it from him.  The door you
+sealed will make it easier for you to do this.  Every room is open to every 
+other one here, so make sure he doesn't maneuver around you (you can seal off 
+another door if you'd like, but it would probably make life harder for you to
+escape).  Once you hunt him down and beat him, collect all the items quickly 
+before he revives and starts to complicate your life.  
+
+BLACK: You've got it tough here.  First, grab the suitcase (move left and then
+down), and then the item one room below it.  If the white player has not found 
+the dagger, make a mad dash for it (ignore him if he comes to pick a fight) by
+moving all the way to the right and then up one floor.  If he does have it, you
+have to stay away from him.  If he's ignoring you, grab the club in the middle
+of the level.  If you can't get to it and escape without getting caught, ignore
+it.  Instead, work your way around the other spy, setting booby traps whenever
+necessary.  If he gets an item, hide the suitcase and booby trap it.  Good 
+luck.
+
+
+LEVEL 3:  Advantage: White
+WHITE:  All too easy.  Notice that you effectively start one room ahead of the 
+black spy.  Nice, isn't it?  Quickly go down one room and grab the club.  Now 
+race back up and hunt the black spy down.  He can only go up and then left a 
+few spaces, so it should be fairly easy to catch him.  Note that the first
+ladder room has a time bomb in it, which should slow him down.  This is only if
+your opponent does not know the layout of this level and stuff.  If you fear 
+that he does (the computer player doesn't count), ignore that step.  Now, no
+matter what skill level your opponent is on, go up the second ladder you come 
+to.  Grab the suitcase in the room and then follow the doors to get the knife.
+Now that you have the suitcase and the knife, pick up the other items at your
+leisure, watching out for booby traps.  In fact, if you know your opponent has
+read this FAQ, bring an umbrella with you when you go hunting for the knife (as
+he will just block you off).
+
+BLACK: Your actions here depend entirely on the white spy.  If he comes in to 
+attack you, make quick work of him and then follow the white walkthrough.  If
+he goes down, move as fast as you can up to the second staircase and grab the
+knife.  If he moves up, move right then down to grab the club.  Now follow him.
+If he goes up the first flight of stairs, grab the knife by going up the second
+flight.  If he goes up the second flight, resort to booby traps.  Place water
+on the door between the two ladder rooms and the door at the bottom of white's 
+starting screen.  If he forgot to bring an umbrella, he's stuck.  Once he 
+explodes, grab the suitcase from him (watch to see if he booby traps it), 
+quickly gather up some items, and escape while avoiding the white spy at all
+costs.
+
+
+Level 4    Advantage: Black
+WHITE: If playing against someone inexperienced or the computer, you need to 
+hurry in order to get the upper hand.  Quickly move up 2, left 4, up 1, and 
+left 2.  Grab the dagger in this room.  By this time, the black spy should be 
+catching up to you, so kill him just for fun.  Now go right once so that you 
+are in the room with the exit and go down twice.  Grab the suitcase.  Now that 
+you are armed and ready, pick up the items.  There are two on each side of the
+building.  Just remember that there is absolutely nothing in the rooms to the 
+left of white's starting position, so don't go there.
+Against people who know this level, you will have problems.  Chances are, he 
+will get both weapons and possibly the suitcase.  Since you will be creamed if 
+you go after it, ignore it.  Instead, let him get the suitcase.  Once he goes 
+that way, go to the room with the exit in it and seal the bottom door.  He's 
+dead now, so go grab an item while waiting for him to decide what to do.  
+Watch him, as he may booby trap the suitcase.  Now that you have the suitcase,
+pick up the rest of the items while avoiding the black spy.  Lots of booby 
+traps will be a necessity.  Good luck.
+
+BLACK:  This is painfully obvious.  Go up once, grab the club, go left, up 2, 
+right 1, and then up to get the dagger.  Now either kill the white spy or chase 
+him off so he doesn't trap you in the suitcase room.  Then go down and grab the
+suitcase.  At this point, just watch what the other spy does and take note of 
+all booby traps he places.  This should be easy, but don't be careless.
+
+
+Level 5:  Advantage: Even
+BOTH: No need for a separate walkthrough here, as it's basically the same 
+thing.  Your goal here is to get the other spy to walk down the second ladder
+first.  If you're white, you can hope the black spy goes up his ladder first to
+look around.  If you both read this FAQ, this can be a pretty boring game.  In
+any case, just run around the area you have, fighting the other spy if he's not
+moving in the general direction of the other ladder.  Finally, once he goes 
+down the ladder, he will be met by a time bomb.  Boom.  Now follow his remains
+to the top left corner room to get the dagger.  Chase your enemy down and kill 
+him, and use your extra time to go up the ladder in that corner, grab the item
+and suitcase, and go back down before he can get a time bomb in there.  Hmmm, 
+this one was pretty short.
+
+
+Level 6:   Advantage: White
+WHITE:  You should have a fairly easy time with this one.  First go down and 
+right, then up the ladder.  Move two floors to the right, avoid the time bomb, 
+and grab the dagger.  Now go back downstairs, back to your initial room, and 
+grab the item.  Wind your way up to the top left room and get the suitcase, 
+then go up the stairs you just passed.  Move to the right to pick up the second
+item.  Go back down, and then up the ladder that you went up initially.  Keep 
+moving to the right until you see another ladder.  You are now in black's 
+territory, so be careful here.  Grab the final two items and escape.  Of 
+course, if you don't think your opponent is all that great, you can grab the 
+suitcase and items first to save time.  However, that's slightly risky.  In any
+case, note that there's no remedies for bombs and springs here.  If your the 
+other spy does do something mean like planting a bomb on an item, kill him 
+before setting the trap off.  That way, he'll have less time to recover and 
+gain the upper hand.
+
+BLACK:  Start off by going after the dagger as well.  If your opponent is 
+smart, however, he will always beat you to it, so watch white's screen to see
+if he's going after it to.  If you do get there first, grab it and proceed to 
+beat up the poor white spy.  Then follow the rest of white's walkthrough.  If 
+not, then it's booby trap time.  Don't bother with doors this time.  Instead, 
+booby trap one of the two items (make sure you know where they are) on your
+side of the building.  Avoid the white spy until he unleashes the trap.  
+Continue this strategy whenever it becomes apparent that the white spy will get
+any item.  Your only hope is to kill him enough until you can grab everything 
+and leave.  With a little luck, you should be able to pull it off.
+
+
+Level 7:  Advantage: White
+WHITE: As usual, you can quickly gain the upper hand.  There are no time bombs
+in the ladder rooms, so don't be afraid to go up and down the ladders.  
+Thus, start off by going up the ladder in your starting room.  Loop all the way
+around the top floor by going all the way to the left, down two, and then one 
+room to the right.  There you will find the dagger.  Now that you are armed and
+ready for battle, continue on your set course until you get to the last room.
+Pick up the item here.  By now, the black spy is bound to be cooking something
+up, so be careful.  Go back down the first ladder you come to.  From there, 
+move to the left, then down, then right, and finally up one room.  There's the 
+suitcase, right in the middle of the level.  If the black spy hasn't been 
+around, go down, left, down, and right to pick up the club as well.  From here, 
+it's a simple matter of picking up the rest of the items.  But watch out, as 
+the paths are long and winding, and it's easy to get trapped by a booby trapped
+door.  Follow the other spy's screen closely, and make note of all remedies you
+pass.
+
+BLACK: If the white spy does not go up the ladder immediately and instead goes
+into the next room, move left.  Either beat up the white spy or run past him 
+and move into his initial room.  From there, just follow the white spy's 
+walkthrough, and you should do fine.  If he does immediately go up the ladder, 
+then you have problems.  Head up your own ladder, move down and then left, and 
+go down the ladder you find.  From here, head down and left to get the club, 
+then left, up, right, up to find the suitcase.  Playing against an intermediate
+player, you should have a chance here.  Stall the white spy while picking up 
+the rest of the items.  They are scattered all over the place, so be careful.
+
+
+LEVEL 8:   Advantage: White
+White: As usual, you can get a quick lead here.  Move left through the one way 
+door and then up one.  Watch out for the time bomb, and then go up the ladder.
+Move down two spaces to get the dagger, and then two to the left for the 
+suitcase.  That was easy, right?  Well, it's not over yet.  If the black spy is
+smart, you will have to commit suicide.  There's a time bomb in the other 
+ladder room, so if he doesn't set it off you will have to.  Booby trap the 
+suitcase beforehand (go with a bomb, as both remedies are easily accessible to
+the black spy and only the water bucket is to you).  After committing suicide, 
+watch what he does.  Charge after him if he gets the suitcase, and watch him 
+warily while picking up items if he doesn't.  Now then, onto items.  There are 
+two on the black spy's side of the level, one on yours (the starting place, 
+incidentally), and one upstairs.  Make sure you grab both of the ones on 
+black's side at the same time.  It is very easy to get trapped upstairs, as you
+will want to avoid crossing sides as much as possible.  After you grab the 
+suitcase, make sure to kill the black spy.  Quickly grab the two items, go back
+to your side, grab the final items and leave.  
+
+Black: Doesn't this guy ever get a break?  Actually, you are only one floor 
+behind the white spy, so you should be able to get the upper hand quickly if he
+is an amateur.  If the white spy moves either up or down in the beginning, 
+charge up (remember the time bomb), up the ladder, then down, right, and down 
+to get the dagger.  You should have an easy time mopping up the rest of the 
+items then, as he will have no leg to stand on.  If he does move straight for 
+the ladder (by going left and up), then do not go into your ladder room.  If 
+you do, just reset the time bomb in it.  Now, sit and wait until he comes down
+the ladder.  You might as well pick up an item while waiting, presumably the 
+one that's further away.  Make sure you watch his screen to check for booby
+traps.  Once he kills himself, grab the suitcase, go back down your flight of
+stairs, and grab the other item.  If you're feeling risky, try to get past the 
+other spy to grab the last item or two.  If not, and you don't mind a 
+stalemate, time bomb your ladder again.  If he does go down it, you win.  If he
+doesn't, well, a stalemate's nice.  He may not like you anymore though.
+
+
+
+VIII.  General Tips
+*******************
+1)  First of all, basic strategy.  There are three main objectives that you can
+go for in this game.  You can aim for the items and a quick win, the weapons, 
+or just booby trap stuff.  As you can see from my walkthrough, I consider the
+weapons to be the strongest one.  Why?  Because the others can be overridden.
+Your items can be taken, booby traps can be defused, but you will always win in
+a fight if you have the stronger weapon.  Since you will fight at least once in
+99% of the games you play, this just seems like the logical option.  With the 
+dagger, you can always kill your opponent directly if he has the upper hand.  
+
+2)  If you choose to booby trap, which should you use?  Time bombs are only 
+effective if your opponent isn't paying attention.  The exception, of course, 
+is ladder rooms.  Place these at the lower level of the ladder rooms and, if he
+comes down the ladder, he is dead.  Very effective, but very cheap.  Bombs and
+springs are identical.  Don't bother booby trapping everything, as it is only a
+waste of time.  Instead, booby trap chests where items are.  If the other spy
+didn't notice them, he is in for quite a surprise.  Water buckets are also 
+useful early on in the game.  Chances are, nobody will be closing the doors 
+behind them.  Thus, later on when the level is fully explored, a closed door 
+will stick out like a sore thumb.  On the other hand, it may take your opponent 
+some time to find an umbrella, so it may very well be worth it if you need some
+breathing room.  Early on, however, they are particularly deadly.
+
+2a)  So you chose to booby trap with the bomb or spring?  Which do you choose?
+Well, as I stated, both are virtually identical.  Thus, choose the one whose
+remedy is harder to find.  However, if you're booby trapping an item, you may
+want to make sure the remedy is somewhere, as you may need to get the item 
+eventually.  One thing is for sure: don't consistently use the same booby-trap.
+There's no reason that the other spy should get off easily because he knows you
+too well.  In any case, set it quikly.  Don't leave your booby traps out where
+your opponent can see them.  If you do it quickly enough, chances are your 
+opponent will not know which one you chose, and will have to guess.  Just make
+sure you know, of course.
+
+3)  If there is one tip that must be drilled into your head, it is this.  
+Always keep an eye on the opponent's screen.  Always keep tabs on what he is 
+doing, where he is going, what items he has, whether or not he's placed booby
+traps, etc.  All of this information is vital to your success, and I suggest 
+constantly glancing down at the other half of the screen.  This will make your
+life much easier.
+
+4)  Maps.  This one's quick.  Blue dots are items, yellow dots are booby traps.
+Don't be too reliant on the map though.  Items may be hidden by booby traps.
+Also, time still runs as you look at the map, thus allowing the other spy to do
+other stuff while you're contemplating.  The converse is true.  In fact, it's 
+quite useful to study your opponent's map while he has it up rather than bring
+yours up.  After all, they are the same thing.  In single player mode, however,
+there is a way around this.  Just pause the game when you have your map up.  
+Granted, you can do this in multiplayer as well, but your opponent might get 
+rather upset.
+
+5)  In the later levels, there are many booby traps already placed.  You should
+especially be suspicious about going down a ladder you did not come up.  I 
+mentioned the only major problem in the walkthrough section, so there shouldn't
+be any problems.  Just be careful.

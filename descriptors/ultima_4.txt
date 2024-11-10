@@ -1,0 +1,703 @@
++=============================================================================+
+| i. Introduction                                                             |
++=============================================================================+
+
+Ultima 4 is unlike every other RPG ever made.  A bold statement.  Instead of
+questing to remove some all-powerful evil, you are questing toward self-
+improvement to become an Avatar.  Sure there are battles along the way, but the
+true test of your courage is whether you can follow the Virtues, and eventually
+brave the foul Stygian Abyss and view the Codex of Ultimate Wisdom.
+
+In the game you have to follow the Virtues.  What does this mean, exactly?  No
+stealing, attacking innocent people (and creatures), talking with pride, etc.
+Plus you have to _increase_ your amount of Virtue by doing good deeds.  Giving
+money to beggars (no matter how much you give, they'll never stop begging),
+meditating at the 8 Shrines of Virtue.
+
+
++=============================================================================+
+| ii. Keyboard Commands                                                       |
++=============================================================================+
+
+Standard Commands:
+------------------
+A - Attack                    N - New Order
+B - Board                     O - Open Door
+C - Cast                      P - Peer at Gem
+D - Descend                   Q - Quit and Save
+E - Enter                     R - Ready Weapon
+F - Fire                      S - Search
+G - Get Chest                 T - Talk
+H - Hole up and Camp          U - Use
+I - Ignite Torch              V - Volume
+J - Jimmy Lock                W - Wear Armor
+K - Klimb                     X - Exit
+L - Locate Position           Y - Yell
+M - Mix Reagants              Z - Stats
+
+Spells:
+-------
+A - Awaken        - GR, GN      | N - Negate      - MR, GR, SA
+B - Blink         - SS, BM      | O - Open        - SA, BM
+C - Cure          - GR, GN      | P - Protection  - SA, GN, GR
+D - Dispel        - BP, SA, GR  | Q - Quickness   - SA, GN, BM
+E - Energy Field  - SA, SS, BP  | R - Resurrect   - SA, GN, GR, SS, BM, MR
+F - Fireball      - BP, SA      | S - Sleep       - SS, GN
+G - Gate Travel   - SA, BP, MR  | T - Tremor      - SA, BM, MR
+H - Heal          - GN, SS      | U - Undead      - SA, GR
+I - Iceball       - BP, MR      | V - View        - NS, MR
+J - Jinx          - BP, NS, MR  | W - Wind Change - SA, BM
+K - Kill          - NS, BP      | X - Exit        - BM, SS, SA
+L - Light         - SA          | Y - Up          - BM, SS
+M - Magic Missile - SA, BP      | Z - Down        - BM, SS
+
+Reagants -- GR: Garlic
+            GN: Ginseng
+            SS: Spider Silk
+            BM: Blood Moss
+            NS: Nightshade
+            SA: Sulfurous Ash
+            BP: Black Pearl
+            MR: Mandrake Root
+
+Note: using "Q" won't actually quit the game.  In Win95 use ALT-ESC to minimize
+      the window, then right click, and close (after saving it with "Q" of
+      course)
+
+
++=============================================================================+
+| iii. Creating a New Character                                               |
++=============================================================================+
+
+At the very beginning of the game you will be asked 7 questions by a gypsy
+woman.  Depending on your final answer will be the type of character you are in
+the game, and where you start the game.
+
+    Virtue:         Class:      Town:
+    -------         ------      -----
+    Compassion    - Bard      - Britain
+    Honesty       - Mage      - Moonglow
+    Honor         - Paladin   - Trinsic
+    Humility      - Shepherd  - New Magincia
+    Justice       - Druid     - Yew
+    Sacrifice     - Tinker    - Minoc
+    Spirituality  - Ranger    - Skara Brae
+    Valor         - Fighter   - Jhelom
+
+Don't just take class into consideration while choosing your virtue, also
+consider where you start and how hard it will be to get around.
+
+Levels:         exp:
+-------         ----
+   1            0-100
+   2          101-200
+   3          201-400
+   4          401-800
+   5          801-1600
+   6         1601-3200
+   7         3201-6400
+   8         6401+
+
+
+
++=============================================================================+
+| iv. Items                                                                   |
++=============================================================================+
+
+Reagants: (BD - Buccaneer's Den, P - Paws, SB - Skara Brae, MG - Moonglow)
+---------
+  Black Pearl         BD - 1   P - 7    SB - 8   MG - 9
+  Blood Moss          SB - 4   P - 6    MG - 6   BD - 9
+  Garlic              P - 2    MG - 6   BD - 9   SB - 9
+  Ginseng             P - 4    MG - 5   SB - 6   BD - 7
+  Spider Silk         MG - 3   SB - 6   P - 9    BD - 9
+  Sulfurous Ash       MG - 2   SB - 2   P - 3    BD - 6
+  *Nightshade         search during 2 new moons search at JF CO
+  *Mandrake Root      search during 2 new moons search at DC LC (or DG LG)
+
+  * - indicates that these reagants MUST be found
+
+Weapons: (as sorted from BEST to WORST)
+--------
+      Name:         Where:                     Who Can Equip:     Cost:
+      -----         ------                     --------------     -----
+  O - Magic Wand  - Buccaneer's Den          - MBD               - 5000 gold
+  N - Magic Bow   - Buccaneer's Den          - BDTPR             - 2000
+  M - Magic Sword - Minoc                    - FTPR              - 2500
+  L - Magic Axe   - Minoc                    - TP                - 1500
+  K - Halberd     - Minoc, Jhelom            - FTP               -  350
+  J - Flaming Oil - Vesper, Buccaneer's Den  - MBFDPTRS          -    5 (1 use)
+  I - Crossbows   - Jhelom, Buccaneer's Den  - BFDPTR            -  600
+  H - Bow         - Trinsic, Vesper          - BFDPTR            -  250
+  G - Sword       - Britain, Trinsic, Jhelom - BFPTR             -  300
+  F - Axe         - Trinsic, Jhelom          - BFPTR             -  225
+  E - Mace        - Minoc, Trinsic           - BFDPTRS           -  100
+  D - Sling       - Britain, Vesper          - MBFDPTRS          -   25
+  C - Dagger      - Britain, Vesper          - MBFDPTRS          -    2
+  B - Staff       - Britain                  - MBFDPTRS          -   20
+
+Armor: (as sorted from BEST to WORST)
+------
+      Name:         Where:                          Who Can Equip:    Cost:
+      -----         ------                          --------------    -----
+  G - Magic Plate - Jhelom                           - P            - 7000 gold
+  F - Magic Chain - Trinsic, Jhelom                  - FP           - 4000
+  E - Plate Mail  - Jhelom                           - FTP          - 2000
+  D - Chain Mail  - Britain, Trinsic, Jhelom, B. Den - FTP          -  600
+  C - Leather     - Britain, Paws, Buccaneer's Den   - BFDPTRS      -  200
+  B - Cloth       - Britain, Paws, Trinsic, B. Den   - MBFDPTRS     -   50
+
+  (M - Mage, B - Bard, F - Fighter, D - Druid, P - Paladin, T - Tinker,
+   R - Ranger, S - Shepherd)
+
+Mystic:
+-------
+      Mystic Robe  -- 4500 gold
+      Mystic Sword -- 3500
+
+Items: (all of these are in Vesper or Buccaneer's Den)
+------
+  A - Torches     - 50 gold (5 torches in a bunch)
+  B - Magic Gems  - 60 (5)
+  C - Magic Keys  - 60 (6)
+  D - Sextants    - 900 (technically not on the menu, but you can still buy it)
+
+Note: the best place to get Rations is Moonglow (not Britain as I had said
+      earlier)
+
+
++=============================================================================+
+| v. Virtues                                                                  |
++=============================================================================+
+
+Here is a list of things that increases and decreases your Virtues.
+
+Compassion:
+----------
+  +2 ... giving to beggar
+  +2 ... fleeing from Non-evil enemy
+  +1 ... letting Non-evil creatures flee
+  -5 ... attacking non-evil creatures
+
+Justice:
+--------
+  +2 ... being honest to herbs (reagants) woman
+  +2 ... fleeing from non-evil creature
+  +1 ... letting non-evil creatures flee
+  -1 ... stealing a chest
+  -3 ... attacking non-evil creatures
+  -10... cheating herbs (reagants) woman
+
+  Tip from Michael Roberts:
+    I was just working on my justice and compassion (the hardest virtues for me
+    because, at least for justice, you have to find non-evil creatures!  And
+    there just aren't many.) and I thought of something and just finished
+    testing it successfully.  There is one non-evil creature that is regularly
+    at one spot that you can fight and let escape.  Nate the Snake in Magincia
+    will come after you over and over again, just enter, fight, let him run,
+    and leave.  Then return.  If you have only one character in the party you
+    don't have to worry too much about poision.  And frankly, he's a jerk 
+    trying to "destroy the living" or what not, so he probably deserves the bad 
+    treatment.  I just managed to get justice in about 15-30 minutes of doing 
+    that and I just wanted to share the joy.
+
+Honor:
+------
+  +5 ... solving quests (finding items)
+  +3 ... giving to a beggar
+  +2 ... being honest to herbs (reagants) woman
+  -1 ... stealing a chest
+  -3 ... attacking non-evil creatures
+  -10... cheating herbs (reagants) woman
+
+Valor:
+------
+  +0/1 (random)... killing an enemy (evil)
+  -2 ... fleeing from enemy
+
+Sacrifice:
+----------
+  +5 ... giving blood at the healer
+  +1 ... getting killed
+  -2 ... fleeing from enemy
+  -5 ... not giving blood at the healer
+
+Honesty:
+--------
+  +2 ... being honest to herbs (reagants) woman (it is also rumored that if you
+         overpay that you will get even more points)
+  -1 ... stealing a chest
+  -10... cheating herbs (reagants) woman
+
+Spirituality:
+-------------
+  +(3 * cycle) ... meditating at a shrine
+  +3 ... talking the Hawkwind the Seer
+  -3 ... using wrong mantra at a shrine
+
+Humility:
+---------
+  +10... Talking unproud (humble)
+  -5 ... Talking proud
+  Note: Check General Strategies below for a list of people that you can talk
+        "Unproud" to.
+
+All Virtues:
+------------
+  +10... Throwing the skull of Mondain into the Abyss
+  -5 ... Using the skull of Mondain
+
+  Note: Non-evil creatures are: spiders, insects, rats, bats, snakes and
+        seahorses.
+
+
++=============================================================================+
+| vi. General Strategies                                                      |
++=============================================================================+
+
+The Fine Art of Talking to people:
+----------------------------------
+  Use "T" to talk to someone.
+  The Britannians have a great deal of information for you, all you need to do
+  is learn how to ask them for it.  So here's a little guide to help explain 
+  how to learn what you need to know from NPC's.
+
+Common Words to Say:
+--------------------
+  "Name" - they'll tell you their name
+  "Job"  - they'll tell you their job, quest, etc.
+  "Health" - they will tell you their health, if someone isn't well find out
+             why and try to help them! (beggars...)
+  "join" - asks the person to join your party
+  "Bye" - Ends the conversation
+
+Increasing Humility:  (from Stephanus Rudiyanto Natari)
+--------------------
+  Humility is one of the hardest virtues to increase, because you need to talk
+  to certain people.  But once you have found one, you can talk to her/him,
+  answer with unproud manner, and then talk to her/him again.  Repeat this at
+  much as you can, and your humility virtue will increase.
+
+  The hard thing, is to find those people.  Here is a list of them:
+  (The format is:   His/her name, his/her type, the town/castle he/she resides)
+
+       Talfourd, Druid, Yew
+       Flamis, Fire, Yew
+       Guards, Guard, Yew
+       Julio, Bard, Britain
+       Mentar, Shepherd, Britain
+       Silver John, Villager, Den
+       Gate Guard, Guard, Empath Abbey
+       Diane, Villager, Empath Abbey
+       Sir Hrothgar, Fighter, Jhelom
+       X, Fighter, Jhelom
+       Estro, Druid, Lycaeum
+       Katrina, Shepherd, Magincia
+       Faultless, Ghost, Magincia
+       Heywood, Ghost, Magincia
+       Slim, Skeleton, Magincia
+       Virtuebane, Devil, Magincia
+       Patric, Shepherd, Moonglow
+       White, Fighter, Skara Brae
+       Nameless Prisoner, Beggar, Britannia
+       Shawn, Shepherd, Britannia
+       Guards, Guard, Britannia
+
+
+
++=============================================================================+
+| vii. Shrines, Runes, and Mantras                                            |
++=============================================================================+
+
+Compassion: (FM IA)
+  Rune: In Britain's Inn at the End of the Hall (search)
+  Mantra: MU
+  Stone: Yellow, in Despise
+
+Honor: (MP FB)
+  Rune: In Trinsic SW corner by a Mage (search)
+  Mantra: SUMM
+  Stone: Purple, in Shame
+
+Spirituality: (enter the Minoc moongate at 2 full moons, BD KG)
+  Rune: Lord British's treasure room
+  Mantra: OM
+  Stone: White, on Serpent's Spine (balloon)
+
+Justice: (AL EJ)
+  Rune: In cell in Yew
+  Mantra: BEH
+  Stone: Green, in Wrong
+
+Valor: (OF CE)
+  Rune: In the secret passage around the city (SE tower)
+  Mantra: RA
+  Stone: Red, in Destard
+
+Sacrifice: (CN MN)
+  Rune: In the forge in Minoc
+  Mantra: CAH
+  Stone: Orange, in Covetous
+
+Humility: (NI OH) -- Need the Silver Horn first
+  Rune: In the mountains in Paws (SE)
+  Mantra: LUM
+  Stone: Black, double New Moon Moongate (Moonglow)
+
+Honesty: (EC OJ)
+  Rune: In Moonglow around Mariah's treasures (don't take those either)
+  Mantra: AHM
+  Stone: Blue, Deceit
+
+
++=============================================================================+
+| viii. Magic Spheres                                                         |
++=============================================================================+
+
+In the dungeons you will find little magic spheres which will raise your stats,
+but at the price of hitpoints.
+
+Where:            Levels:           Stats:          Damage:
+------            -------           ------          -------
+Covetous          3, 6              STR, DEX           400
+Deceit            3, 5, 6           IQ                 200
+Despise           4, 8              DEX                200
+Destard           3, 6              STR                200
+Hythloth*         5, 3, 1           STR, DEX, IQ       800
+Shame             1, 4, 8           STR, IQ            400
+Wrong             2, 6, 7           DEX, IQ            400
+
+* the spheres in Hythloth do not appear until you have gone to the eighth 
+  level, and are on the way out.
+
+
+
++=============================================================================+
+|                                Walkthrough:                                 |
++=============================================================================+
+
++=============================================================================+
+| 1. Part One, The Avatar                                                     |
++=============================================================================+
+
+This game isn't all that complicated, so the walkthrough isn't all that long or
+complicated either.
+
+You need to become an Avatar first off.  This is best done alone (no party
+members slowing you down, you'll need them later, but not now).  What we want
+to do is to gather up the 8 runes, and learn the 8 mantras.  Plus, of course,
+get all the other quest items.
+
+The following can be done in any order you want.  All you have to do to become
+an avatar is to go to each place and do good deeds (see the v. virtues section
+above).  Talk to the Seer to find out when you have mastered a certain virtue
+(called Partial Avatarhood), then go to that shrine and meditate for 3 cycles.
+Master all 8 to become the Avatar.  Don't forget to go to the shrines!  They
+aren't listed in the walkthrough, but you must get to all 8 eventually!
+
+a. Lord British's Castle (GL FG)
+------------------------
+  - Make sure to talk to Lord British and accept the Quest of the Avatar 
+    (otherwise this will be a very short game!)
+  - On the first floor, go into the room with all the guards, and in the NE
+    corner of the room on the east wall is a secret wall, go in and search for
+    the Rune of Spirituality (don't take the treasure).
+  - Give blood here to improve your virtues.
+  - Also any time you find yourself back at the castle, talk to Hawkwind, the
+    Seer who will not only tell you how close you are to Partial Avatarhoods,
+    but will also increase your spirtuality.
+
+b. Britain (GK FC)
+----------
+  - Iolo, a bard, will join you here.
+  - At the end of the hallway in the Inn is the Rune of Compassion.
+  - Talk to cricket about the MANTRA to get the Mantra for Compassion: MU.
+  - Give money to the beggar Sprite to increase your Compassion.
+  - Shapero tells you that the Shrine of Compassion is East 2 Bridges.
+  - Sebastian (injured man) tells you that Mondain's Skull is still around.
+
+c. Paws (JB GC)
+-------
+  - In the south part of town are some mountains, in a nook find the Rune of
+    Humility.
+  - Find the Magic Shop (secret wall in Armory East) and buy reagants, pay the
+    right amount to increase virtue.  (you are given to option to pay whatever
+    you want, and the blind person accepts anything, just be honest!)
+
+d. Trinsic (LI GK)
+----------
+  - Dupre, a paladin, will join you here.
+  - Talk to Terrin in the SE corner of town to learn that the Rune of Honor is
+    in the SW corner of town. (It is found by Virgil the Wizard)
+  - Kline knows the mantra: SUMM (in the tavern)
+
+e. Minoc (BE JP)
+--------
+  - Julia, a tinker, will join you here. (in the poorhouse)
+  - Also in the poorhouse are a lot of beggars... Give to them to increase your
+    virtues!
+  - Talk to Mischief of the Rune to learn it is in the forge, go in and get it.
+  - Singsong the bard mentions the mantra: CAH
+  - Alkerion tells of the Stone of Sacrifice
+
+f. Skara Brae (IA BG)
+-------------
+  - Shamino, a ranger, will join you here.
+  - Mitre knows of the White Stone and tells you to ask about it in the Pub in
+    Trinsic.
+  - Barren (kid) knows the mantra: OM
+  - Talk to the Ankh to learn that the Rune is in Lord B.'s castle, and to get
+    to the Shrine of Spirituality you must enter a moongate at 2 full moons.
+    (this only works at the Minoc moongate!)
+  - If you feel up to the challenge, stay at the haunted inn to get some info
+    on the White Stone.
+
+g. Jhelom (NC CE)
+---------
+  - Geoffrey, a fighter, will join you here.  (in the Inn)
+  - Aesop knows the mantra: RA
+  - You want to get into the walls to get the Rune.  To get in, go to the inn
+    and unlock the door (with a Key) to Lord Robert's room, search it for the
+    passage.  The Rune is found in the SE Tower.
+
+h. Vesper (DL MJ)
+---------
+  - If you don't have a sextant, buy one here at the Guild (option D, even
+    though you can't see it, it's there) for 900 gold
+
+i. Yew (CL DK)
+------
+  - Jaana, a druid, will join you here.
+  - The Rune of Justice is in a cell with a criminal.  To get into the cell, go
+    up to the Ruler of the Castle, and talk to him.  Tell him that you aren't
+    perfect, and serve your penance.
+  - You will also learn that the Green Stone of Justice is in Dungeon Wrong
+  - Some chanting druids (by a fire and with Jaana) are chanting: BEH
+
+j. Empath Abbey (DC BM)
+---------------
+  - Lord Robert will tell you a word: AMO
+
+k. Moonglow (IH OI)
+-------------------
+  - Mariah, a mage, will join you here.
+  - The rune is in the room with Mariah, by her gold.
+  - Cromwell the Paladin knows the mantra: AHM
+
+l. Lycaeum (GL NK)
+----------
+  - Search the library (in the 't' section, for truth) for the Book of Truth.
+  - Frasier tells you that part of the WORD is VER
+
+m. Serpent's Hold and surrounding Area (PB JC)
+--------------------------------------
+  - Talk to Sentri to get the Word: COR
+
+n. Magincia (KJ LL)
+-----------
+  - Katrina, a shepherd, will join you here.  Goodie.
+  - Since pride destroyed Magincia, and Humility is the opposite of pride, and
+    pride's mantra is 'mul' then humility's mantra is: LUM
+  - You need to pick up the Silver Horn to drive the demons around the shrine
+    away, it is at KN CN
+
+o. Cove (FK II)
+-------
+  - To get to Cove you either need to find and capture a Pirate Ship on Locke
+    Lake, or go through the Whirlpool.
+  - Search near the Ankh to find the Candle of Love.
+
+p. Other things to do:
+----------------------
+  Get the Bell of Courage at: NA LA
+  Get the Skull of Mondain at: PF MF (double new moons only)
+  Get a Magic Wheel (to improve your ship) at: NH GA
+  A Telescope is at: AC BG
+  After Becoming a full Avatar you can get these:
+    Also be sure to get the Mystic Armor at Empath Abbey (in the grotto): AE BG
+    And the Mystic Weapon at Serpent's Hold (on the mat): AP AI
+    Trick: If you need money, you can sell these, then go back and get them
+           again.
+
+When you become a partial avatar in each virtue you will be given a letter,
+all the letters add up to INFINITY.
+
+
++=============================================================================+
+| 2. Part Two, Dungeon Hopping                                                |
++=============================================================================+
+
+This won't walk you through the dungeons, but merely give you clues that you
+will need to get all 8 stones, the 3 part key, and conquer the Sygian Abyss.
+For this part you should have all 8 people in your party (you are considered
+one of the 8), be well equipped, have lots of reagants, and a good supply of
+items.
+
+Dungeon Locations: (from Stephanus Rudiyanto Natari)
+------------------
+  Deceit:    EJ PA
+  Despise:   ED FL
+  Destard:   KI EI
+  Wrong:     BE HO
+  Covetous:  BL JM
+  Shame:     GG DK
+  Hythloth:  PA OP
+
+  Hard to find dungeons:
+  - Shame (Although you know the entrance location)
+    To enter this dungeon, sail down the river from HF CA
+  - Hythloth (Easy Entrance)
+    'Jimmy Lock' a locked door behind Castle Britannia, and climb down the 
+    ladder.
+
+
+Stones:
+-------
+  White:  On top of serpent's spine, can only be reached via balloon (which can
+          be found outside Hythloth)
+  Black:  Search the Moonglow Moongate during a double new moon
+  Blue:   Seventh Level of Deceit
+  Yellow: Fifth Level of Despise
+  Red:    Seventh Level of Destard
+  Green:  Eighth Level of Wrong
+  Orange: Seventh Level of Covetous
+  Purple: Second Level of Shame
+
+Once you have the stones you must use them in the 3 rooms of principles to get
+the 3 part key.  These rooms are located at the bottom of dungeons.  Once in
+each room you need to use the stone on the altar, the following is a list of
+which stones go in which rooms:
+
+Rooms:
+------
+  Truth:      Blue   Green   Purple   White
+  Courage:    Red    Orange  Purple   White
+  Love:       Yellow Orange  Green    White
+
+
+Stygian Abyss:
+--------------
+You should now have all 8 stones, the 3 part key, the Skull of Mondain, and the
+3 artifacts of Principle (Bell of Courage, Candle of Love, Book of Truth).  
+Also be sure to bring as many reagants as you can buy.  You'll have to figure 
+out where to go on your own, but at the end of each level in the Abyss there is 
+a question to get to the next level:
+
+  1.  Honesty, Blue
+  2.  Compassion, Yellow
+  3.  Valor, Red
+  4.  Justice, Green
+  5.  Sacrifice, Orange
+  6.  Honor, Purple
+  7.  Spirituality, White
+  8.  Humility, Black
+
+You will now be at the final destination in your quest.  You will now be asked
+a series of questions, the answers are:
+
+  VERAMOCOR (the 3 part word)
+  Honesty
+  Compassion
+  Valor
+  Justice
+  Sacrifice
+  Honor
+  Spirituality
+  Humility
+  Truth
+  Love
+  Courage
+  Infinity
+
+Wow, what a great Avatar you are!  You won Ultima IV!
+
+
+
++=============================================================================+
+|                                 Appendices:                                 |
++=============================================================================+
+
++=============================================================================+
+| A. Moongates                                                                |
++=============================================================================+
+
+There are 8 locations of moongates, one for each town of virtue in the game.
+Based on the phase of the first moon, is when a moongate will open, and the 2nd
+moon's phase tells you where it will take you.  For example, when the first 
+moon first turns to the New Moon, a moongate will open at Moonglow and its
+destination will be Moonglow, when the 2nd moon changes phase it will take you
+to Britain, another 2nd moon phase change and it will take you to Jhelom.  Then
+the moongate will close.
+
+   Phase                Location      Destinations
+   -----                --------      ------------
+1. New Moon             Moonglow      Moonglow      Britain     Jhelom
+2. Crescent Waxing      Britain       Yew           Minoc       Trinsic
+3. First Quarter        Jhelom        Skara Brae    Magincia    Moonglow
+4. Gibbous Waxing       Yew           Britain       Jhelom      Yew
+5. Full Moon            Minoc         Spirituality  Trinsic     Skara Brae
+6. Gibbous Waning       Trinsic       Magincia      Moonglow    Britain
+7. Last Quarter         Skara Brae    Jhelom        Yew         Minoc
+8. Crescent Waning      Magincia      Trinsic       Skara Brae  Magincia
+
+
++=============================================================================+
+| B. Monsters                                                                 |
++=============================================================================+
+
+Below is a list of Monsters and the experience that you get by killing them.
+All the information in this section is from Stephanus Rudiyanto Natari.
+
+  Monsters:
+  ---------
+    Balron      16
+    Bat          4 exp
+    Cyclops      9
+    Daemon       8
+    Dragon      15
+    Ettin        8
+    Gazer       16
+    Ghost        6
+    Gremlin      4
+    Headless     5
+    Hydra       14
+    Insects      4
+    Lava Lizard  7
+    Lich        13
+    Mimic       13
+    Nixie        5
+    Orc          6
+    Phantom      4
+    Phyton       4
+    Rat          4
+    Reaper      16
+    Rogue        6
+    Seahorse     7
+    Serpent      9
+    Skeleton     4
+    Slime        4
+    Spider       5
+    Squid        9
+    Troll        7
+    Wisp         5
+    Wizard      12
+    Zorn        16
+
+  Non-Monster Creatures that normally you don't want to attack:
+  -------------------------------------------------------------
+    Bard         9
+    Beggar      13
+    Bull        11
+    Child       10
+    Druid       10
+    Fighter      7
+    Guard       13
+    Horse        9
+    Jester       9
+    Mage         8
+    Merchant     9
+    Paladin      4
+    Ranger       3
+    Shepherd     9
+    Tinker       9
+    Villager    13

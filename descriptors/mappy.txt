@@ -1,0 +1,794 @@
+Goro and his Meowkies have been up to their old tricks, robbing people
+   blind, taking anything of value, and stashing the goods in their 
+   Mansions.  Mappy, the mouse policeman, has had enough of waiting around
+   with nothing getting done about these criminal cats, so he has set out on
+   a vigilante mission, entering into the various Mansions, seeking to
+   recover the stolen merchandise himself,  However, the Mewokies and Goro
+   are onto his scheme, and once they know which Mansion he is in, they will
+   try to call in their hired hitman Gosenzo to assist them while they 
+   attempt to get the intrepid copper themselves.  Bounce wisely, open doors
+   shrewdly, and make use of the traps available, and Mappy will be able to 
+   recover lots of loot in his one man anti-crime spree!
+
+----------------------------------------------------------------------------
+--------------------------------Controls------------------------------------
+----------------------------------------------------------------------------
+
+2) This section will list all of the controls you will need to raid the
+   thief dens of the infamous Goro and his Meowkies!
+
+
+D-Pad   : LEFT and RIGHT will move Mappy in the corresponding direction
+          pressed. UP and DOWN and have no apparent use.
+
+SELECT  : No apparent use.
+
+START   : Pauses/unpauses the game.
+
+B Button: Open/closes doors.
+
+A Button: Open/closes doors.
+
+----------------------------------------------------------------------------
+---------------------------------Enemies------------------------------------
+----------------------------------------------------------------------------
+
+3) This section will examine the enemies in the game, looking at how they
+   behave and how they can kill Mappy.
+
+
+                               o----------o
+                               | Meowkies |
+                               o----------o
+
+These small kitties are the main body of Goro's gangs.  They will run around
+and attempt to use their sheer amount of numbers to trap and destroy Mappy,
+pursuing in a reasonably intelligent manner.  They are unable to get Mappy 
+when they both are bouncing/falling in the trampoline corridors of the 
+Mansions, so that is a temporary safe place for the police mouse to hide out
+in.
+
+                                 o------o
+                                 | Goro |
+                                 o------o
+
+The fat cat in charge of the Meowky thief gangs, he is actually quite a bit
+stupider than his cronies. In fact, Goro will often get distracted by the
+treasure he and his gang have stolen, and he will wander off to look at and
+hide behind these objects instead of pursuing Mappy. Like his Meowkies, Goro
+is not able to get Mappy when he both are bouncing/falling in the trampoline
+corridors of the Mansions, so the police mouse can hide here from him...
+temporarily.
+
+
+                               o---------o
+                               | Gosenzo |
+                               o---------o
+
+After the hurry up warning has come into effect, Gosenzo will be summoned 
+into the Mansion when the next hurry up alarm is heard. He will pursue Mappy
+around the Mansion like the Meowkies, but unlike the Meowkies and Goro, he 
+is able to kill the police mouse even when Mappy is bouncing/falling in the 
+trampoline corridors of the Mansions!  Finish the treasure collection off 
+quickly to avoid seeing this powerhouse in play.
+
+----------------------------------------------------------------------------
+--------------------------------Obstacles-----------------------------------
+----------------------------------------------------------------------------
+
+4) This section will examine the various obstacles in the game, looking at
+   how Mappy will have to interact with them.
+
+
+                             o-------------o
+                             | Trampolines |
+                             o-------------o
+
+Trampolines are the bouncy floors spread through out the Mansions. While 
+bouncing on them, Mappy is not vulnerable to Mewokies or Goro, and they are 
+the only way for Mappy to reach the highest ledges.  They start out coloured
+green, and with each successive bounce, they will wear, going through the
+following coloured progression:
+
+green --> blue --> white --> red
+
+If a red trampoline is bounced upon, the trampoline will break, sending 
+Mappy down to his doom (unless he lands on another trampoline, which is
+perfectly safe).  When in the Mansions, stepping onto a platform will cause
+the trampoline to go back to being green. However, when in the bonus rounds,
+the wear on the trampolines can not be reset, so bounce carefully to avoid
+falling through the red coloured trampolines.
+
+
+                                o-------o
+                                | Doors |
+                                o-------o
+
+Doors are randomly distributed through out the Mansions, blocking the 
+hallways. The doors can be opened/closed at quite a distance, and the side
+that has the handle on it will swing open to allow mouse or cat through.
+Note that the enemy are able to open regular doors (though not Microwave 
+Doors... see the Traps section for details). If Mappy or a foe open a Door
+when they are too close to the side with the knob, Mappy will be knocked
+backwards, while the enemy will be knocked backwards AND be stunned for a
+few moments (unless they land directly onto a trampoline, which will mean 
+they can keep moving), allowing Mappy to pass by without being defeated.
+
+----------------------------------------------------------------------------
+----------------------------------Traps-------------------------------------
+----------------------------------------------------------------------------
+
+5) This section will examine the various tricks that Mappy can use to 
+   temporarily disable any of the klepto cats that populate the Mansions.
+   Note that Gosenzo is invulnerable to these tricks and traps.
+
+
+                           o----------------o
+                           | Microwave Door |
+                           o----------------o
+
+These thick, brown doors will send a microwave across the screen in the
+direction that the handle on the door points, and take note that only Mappy
+has the power to open them.  Any Meowky or Goro caught up in the ensuing 
+wave will be carried along with it, yielding Bonus Points (see the Scoring 
+section for details).  Once a Microwave Door has had the power it contained 
+unleashed, the Microwave Door shall become a regular Door, meaning that any
+foe can open it as easily as Mappy can.
+
+
+                                o------o
+                                | Bell |
+                                o------o
+
+Located above the two extreme sides of the Mansion, Mappy must physically
+touch the bell to drop the heavy item down on the heads of the thieving cats
+below. This will cause the enemy to disappear for two seconds, followed by 
+their returning at the exact same spot where they were struck.
+
+
+                              o----------o
+                              | Trapdoor |
+                              o----------o
+
+These flashing spots in the floor will become deadly to both Mappy and the
+enemy after Mappy walks past, which removes the plate. It remains open for
+three seconds, during which any enemy (or police mouse) that steps into the
+hole shall fall down to the next level.  This will kill Mappy, and it will
+cause the enemy to lay there for two seconds while they are stunned, 
+followed by their getting to their feet and resuming their chase of Mappy.
+
+----------------------------------------------------------------------------
+---------------------------------Scoring------------------------------------
+----------------------------------------------------------------------------
+
+6) This section will examine the scoring found within the game.
+
+
+                          o---------------------o
+                          | Trampoline Bouncing |
+                          o---------------------o
+
+Each bounce on a Trampoline will yield 10 points, which sounds like a small
+amount, but Mappy will bounce on a lot of Trampolines through out the game.
+Just be careful to not break the Trampoline, as losing a life while farming
+points.
+
+
+                             o--------------o
+                             | Stolen Items |
+                             o--------------o
+
+Each item type has a base value, with two of each item found in each 
+Mansion.
+
+Radio.....: 100
+Television: 200
+Computer..: 300
+Painting..: 400
+Safe......: 500
+
+The game also awards a bonus for collecting the same item consecutively.
+The formula for the scoring is as follows:
+
+y = Item One value
+z = Item Two value
+
+y + (y x 2) = 
+z + (z x 3) = 
+
+The increase in the multiplier value will be by 1 for each set of Items 
+collected, reaching a maximum bonus multiplier of 6 for the last pair of 
+Items. By collecting the Stolen items from least to most valuable, each
+level has the potential for Mappy to score 8500 in each Mansion.
+
+
+                             o-----------------o
+                             | Microwave Doors |
+                             o-----------------o
+
+Microwave Doors send out a microwave which will ensnare any Meowky or Goro
+that gets in the way.  The points scored will depend on the number of 
+Meowkies and Goros ensnared (both will count towards the cat total):
+
+                            ___________ ________
+                           | # of Cats | Points |
+                           |___________|________|
+                           |     1     |   200  |
+                           |___________|________|
+                           |     2     |   400  |
+                           |___________|________|
+                           |     3     |   800  |
+                           |___________|________|
+                           |     4     |  1200  |
+                           |___________|________|
+                           |     5     |  1600  |
+                           |___________|________|
+                           |     6     |  2000  |
+                           |___________|________|
+                           |     7     |  3000  |
+                           |___________|________|
+                           |     8     |  4000  |
+                           |___________|________|
+                           |     9     |  5000  |
+                           |___________|________|
+                           |    10     |  6000  |
+                           |___________|________|
+
+Goro will not only add to the Cat total for the points scored, but he will
+also add a multiplier of 2 to the bonus score.
+
+6 Meowkies + 1 Goro = 7 Cats (3000 points)
+3000 points x Goro bonus (2) = 6000 points
+
+
+                                o-------o
+                                | Bells |
+                                o-------o
+
+Dropping a Bell on the head of a Cat will yield the following point totals.
+
+Meowky:  300
+Goro..: 1000
+
+These point totals will just be added to your score, so getting multiple 
+victims will not lead to multipliers.
+
+
+                              o-----------o
+                              | Trapdoors |
+                              o-----------o
+
+Removing the cover from the trapdoor will make it so Meowkies and Goro can
+fall through the opening to score Mappy the following point totals.
+
+Meowky:  300
+Goro..: 1000
+
+These point totals will just be added to your score, so getting multiple 
+victims will not lead to multipliers.
+
+
+                             o-------------o
+                             | Bonus Round |
+                             o-------------o
+
+There are two collectibels in the bonus round, which yield the following 
+point totals.
+
+Red Balloon.:  200
+Goro Balloon: 2000
+
+The points are only awarded at the end of the round.  If all 15 Red Balloons
+and the single Goro Balloon are collected, a bonus of 5000 points will be 
+added to Mappy's score, making the Bonus Round worth a cool 10000 points!
+
+
+                             o-------------o
+                             | Extra Lives |
+                             o-------------o
+
+Extra lives are obtained by reaching certain milestones in total score.
+
+                         ___________ ____________
+                        | Milestone |   Result   |
+                        |___________|____________|
+                        |   20,000  | First 1-Up |
+                        |___________|____________|
+                        |   70,000  | Second 1-Up|
+                        |___________|____________|
+                        |  140,000  | Third 1-Up |
+                        |___________|____________|
+                        |  210,000  | Fourth 1-Up|
+                        |___________|____________|
+
+Every 70,000 point increment after the Second 1-Up will yield an additional
+extra life for Mappy to try and retake as many Stolen Items as he possibly 
+can from the thieving cats.
+
+----------------------------------------------------------------------------
+------------------------------Stage Set-Ups---------------------------------
+----------------------------------------------------------------------------
+
+7) This section will examine the basic stage layouts for the level groups
+   and the Bonus Rounds.
+
+
+                o------------------------------------------o
+                | A Few Notes On the Mansions/Bonus Rounds |
+                o------------------------------------------o
+
+The following thinks all apply to each Mansion:
+
+   * The positions of the Stolen Items for each Mansion Type will be 
+     constant, including from stage to stage, so it is quite possible to 
+     have a pre-planned route to follow to get the multiplier bonuses with
+     greater ease.
+
+   * The positions of the Doors/Microwave Doors are randomized from stage to
+     stage, so the maps will not denote their presence.  However, they are 
+     there, so they require some on your feet planning to utilize them 
+     effectively.
+
+   * Trapdoors are also randomized (like the Doors/Microwave Doors) for the
+     3 stages of every 16 that they appear in.  Note their locations and 
+     make plans on how to lead a group of Meowkies to them to utilize them
+     effectively.
+
+   * On the first Hurry Up, two mroe Meowkies will join the fray.
+
+   * On the second Hurry Up, the Gosenzo will enter to hunt down Mappy 
+     relentlessly.
+
+   * On the wide open Trampoline lanes, sometimes a second trampoline can 
+     be inserted between higher floor sections/walls.
+
+   * Falling through a trampoline off the screen or onto a solid ledge is
+     fatal, except on the Bonus Round.  Although the Bonus Round will end if
+     this occurs, it will not cost Mappy a life reserve.
+     
+
+
+___________________
+KEY                |
+                   |
+ B  - Balloon      |
+ C  - Computer     |
+ G  - Goro Balloon |
+ L  - Bell Trap    |
+ P  - Painting     |
+ R  - Radio        |
+ S  - Safe         |
+ T  - Television   |
+xxx - Trampoline   |
+                   |
+___________________|
+
+                           o-----------------o
+                           | Mansion Type #1 |
+                           o-----------------o
+
+             +---------------------  ----------------------+
+             |      C                               R      |
+             |   ----------   ------------   -----------   |
+             |    S            P                           |
+             |   ----------   ------------   -----------   |
+             |                         T              S    |
+             |   ----------   ------------   -----------   |
+             |                  R                          |
+             |   ----------   ------------   -----------   |
+             |     P                    C     T            |
+             +xxx----------xxx------------xxx-----------xxx+
+
+Stages.: 1-2
+Enemies: 3 Meowkies/1 Goro
+Traps..: 4 Microwave Doors
+
+A simply enough layout, be sure to start off by going onto the Trampoline to
+the right of Mappy, as going left is a bad habit to get into (on the later 
+levels, Mappy lacks the foot speed to get to the safety of the next 
+Trampoline before a Meowky reaches him). Make use of the Microwave Doors to
+get the Meowkies as they pool behind Mappy, and just be careful to not start
+moving back and forth aimlessly on a ledge (allowing the Meowkies to get the
+police mouse in a run down).  Finally, use the doors to stun the Meowkies,
+making this easy challenge even easier.
+
+
+                         o---------------------o
+                         | Bonus Round Type #1 |
+                         o---------------------o
+
+                  +---|---+---+---+---+---+---+---|---+
+                  | B   B | B | B | B |   | B |     B |
+                  |  B    |       |     B |   | B     |
+                  |       |       |           |       |
+                  |   |   |   B   |           |   |   |
+                  |   |   |       |           |   |   |
+                  +xxx+   |   |       |   |   B   +xxx|
+                  |   |   |   |       |   |       | B |
+                  |       +xxx+   B   +xxx+           |
+                  |           |       | B |           |
+                  |           |   |       |   |       |
+                  | G         |   |       |   |       |
+                  +   |xxx+xxx+xxx+xxx+xxx+xxx+xxx|xxx+
+
+Stage: 3
+
+Follow these steps to achieve a perfect Bonus Round:
+
+   i) Bounce up to hit the first Balloon.
+
+  ii) Hold LEFT to break the Trampoline Mappy lands on, falling through to
+      collect the Balloon below.
+
+ iii) Hop to the left and bounce straight up to hit the third Balloon.
+
+  iv) Upon bouncing back up, time moving left to grab the Balloon while
+      transferring to the next Trampoline.
+
+   v) Bounce up to hit the next Balloon.
+
+  vi) Fall down and bounce up again, moving left onto the next Trampoline,
+      bouncing straight up to get the next Balloon.
+
+ vii) Hole LEFT to break the Trampoline Mappy lands on in a fast manner,
+      falling down through the next Balloon.
+
+viii) Immediately hop left onto the next Trampoline, bouncing high into the
+      air to snag the next Balloon.
+
+  ix) Fall and bounce up again, moving left to get the Balloon while
+      transferring to the next Trampoline lane.
+
+   x) Bounce straight up to pop the Balloon above.
+
+  xi) Fall and bounce up again, moving left to get the Balloon while
+      transferring to the next Trampoline lane.
+
+ xii) Bounce straight up to get the next Balloon.
+
+xiii) Hold LEFT to break the Trampoline, falling down to the next one to
+      move left one more Trampoline lane, bouncing upwards to hit the 
+      Balloon near the ceiling.
+
+ xiv) Fall down and bounce up once more, moving left to pop the lower of the
+      two Balloons.
+
+  xv) Hold LEFT to quickly break the Trampoline below Mappy, sending him 
+      falling down into the Goro Balloon.
+
+ xvi) Watch with great satisfaction as Goro goes flying up to pop the 
+      fifteenth and final Balloon of the Bonus Round for a perfect 10000
+      points!
+
+
+                           o-----------------o
+                           | Mansion Type #2 |
+                           o-----------------o
+
+              +   -----------------   -----------------   +
+              |      C                              R     |
+              |   -----------------   -----------------   |
+              |    S         P                            |
+              |   -------   -------xxx-------   -------   |
+              |                        T             S    |
+              |   ------xxx--------   -------xxx-------   |
+              |               R                           |
+              |   -----------------   -----------------   |
+              |     P                   C      T          |
+              +xxx-----------------xxx-----------------xxx+
+
+Stages.: 4-6
+Enemies: 4 Meowkies/1 Goro
+Traps..: 4 Mircowave Doors
+
+A few things to shake it up here, with some Trampolines partway through some
+of the elongated platforms (which are the ideal platforms to travel on to
+minimize the chance of a Meowky trap), some extra trampolines partway up the
+main Trampoline lanes, and the attic of the Mansion can be entered when 
+bouncing in the main Trampoline lanes.  Although it is quite possible to 
+grab all the Stolen items and obtain great bonus multipliers, the length of
+the platforms will make it a difficult feat to pull off without endangering
+Mappy.  Feel free to break the higher Trampolines that have a safety 
+Trampoline underneath, as it will not cost Mappy a life.  Make use of the 
+Microwave Doors to clear away the Meowkies as they group together, and clean
+out the three stages to reach the Bonus Round.
+
+
+                         o---------------------o
+                         | Bonus Round Type #2 |
+                         o---------------------o
+
+                  +---|---+---+---+---+---+---+---|---+
+                  | B   B | B | B |   | B |   |     B |
+                  |       |       |       |   | B     |
+                  |       |       |         B |       |
+                  |   |   |       | B         |   |   |
+                  |   |   |       |           |   |   |
+                  +xxx+   |   |       |   |   B   +xxx|
+                  |   | B |   |       |   |       | B |
+                  |       +xxx+   B   +xxx+           |
+                  |         B |       | B |           |
+                  |           |   |       |   |       |
+                  | G         |   |       |   |       |
+                  +   |xxx+xxx+xxx+xxx+xxx+xxx+xxx|xxx+
+
+Stage: 7
+
+Follow these steps to achieve a perfect Bonus Round:
+
+   i) Bounce up to hit the first Balloon.
+
+  ii) Hold LEFT to break the Trampoline Mappy lands on, falling through to
+      collect the Balloon below.
+
+ iii) Hop to the left and bounce straight up to hit the third Balloon.
+
+  iv) Upon bouncing back up, time moving left to grab the Balloon while
+      transferring to the next Trampoline.
+
+   v) Bounce up to hit the next Balloon.
+
+  vi) Fall down and bounce up again, moving left onto the next Trampoline,
+      bouncing straight up to get the next Balloon.
+
+ vii) Hole LEFT to break the Trampoline Mappy lands on in a fast manner,
+      falling down through the next Balloon.
+
+viii) Immediately hop left onto the next Trampoline, bouncing high into the
+      air to snag the next Balloon.
+
+  ix) Fall and bounce up again, moving left to get the Balloon while
+      transferring to the next Trampoline lane.
+
+   x) Bounce straight up to pop the Balloon above.
+
+  xi) Fall and bounce up again, moving left to the next Trampoline, bouncing
+      upwards to get the next Balloon.
+
+ xii) Fall down and hold LEFT to quickly break the Trampoline below, falling
+      through to get the Balloon.
+
+xiii) Move left to the next Trampoline lane, bouncing up to hit the lower
+      Balloon.
+
+ xiv) Do nothing to fall down and bounce up to obtain the higher Balloon.
+
+  xv) Hold LEFT when descending towards the Trampoline below, which will 
+      send Mappy careening into the Goro Balloon, which will fly up to hit 
+      the final Balloon, finishing off the Bonus Round with a perfect 
+      performance!
+
+
+                           o-----------------o
+                           | Mansion Type #3 |
+                           o-----------------o
+
+             + L ----------   -----   ----   ----------- L +
+             |      C                                R     |
+             |   ----------   ------------   -----------   |
+             |    S            P                           |
+             |   ----------   ----xxx-----   -----------   |
+             |                        T               S    |
+             |   ----------   ----xxx-----   -----------   |
+             |                  R                          |
+             |   ----------   ------------   -----------   |
+             |     P                   C     T             |
+             +xxx----------xxx------------xxx-----------xxx+
+
+
+Stages.: 8-11
+Enemies: 5 Meowkies/1 Goro
+Traps..: 4 Microwave Doors/2 Bells
+
+The strategy here is to try and clean out one half of the lower/higher
+portions of each floor area (ignoring the bonuses), working across the
+screen, using the Bell on one side, followed by moving back across to
+repeat the Bell kill.  The Meowkies will now be running at a great speed,
+so Mappy needs to get them gathered onto the Trampolines with him, faking 
+them out so he has enough time to sprint across the ledges to the safety of
+the next Trampoline.  Try to gather the Meowkies and Goro (if possible) onto
+the Trampoline where he is dropping the Bell, going right into the attic 
+when releasing the Bell (this takes out the cats for a few moments while 
+Mappy moves to the next area).  Just stay out of the attic if a lot of 
+Meowkies are still out and about when the Bell is dropped, as they are 
+likely in position to cut Mappy off, trapping him for an easy kill.
+
+
+                         o---------------------o
+                         | Bonus Round Type #3 |
+                         o---------------------o
+
+                  +---|---+---+---+---+---+---+---|---+
+                  | B   B | B | B |   | B |   | B   B |
+                  |       |       |       | B |       |
+                  |       |       | B         |       |
+                  |   |   |       |   B       |   |   |
+                  |   |   |       |           |   |   |
+                  +xxx+   |   |       |   |       +xxx|
+                  |   | B |   |       |   |       | B |
+                  |       +xxx+   B   +xxx+           |
+                  |         B |       | B |           |
+                  |           |   |       |   |       |
+                  | G         |   |       |   |       |
+                  +   |xxx+xxx+xxx+xxx+xxx+xxx+xxx|xxx+
+
+Stage: 11
+
+Follow these steps to achieve a perfect Bonus Round:
+
+   i) Bounce up to hit the first Balloon.
+
+  ii) Hold LEFT to break the Trampoline Mappy lands on, falling through to
+      collect the Balloon below.
+
+ iii) Hop to the left and bounce straight up to hit the third Balloon.
+
+  iv) When Mappy touches down again, bounce up to go left to the next 
+      Trampoline lane, bouncing straight into the Balloon above.
+
+   v) Land on the Trampoline below and hop up to go left again, bouncing
+      straight up to hit the next Balloon.
+
+  vi) When Mappy lands, hold LEFT to break the trampoline and fall into the
+      Balloon below.
+
+ vii) Bounce off the Trampoline and go up to move left to get the Balloon 
+      hovering over the column.
+
+viii) Land on the Trampoline and launch straight upwards to get the eighth
+      Balloon of the Bonus Round.
+
+  ix) After landing on the Trampoline, go left to get the next Balloon.
+
+   x) Bounce straight up to pop the next red Balloon.
+
+  xi) Move left through the opening in the column to use the next Trampoline
+      to hit the Balloon above.
+
+ xii) Hold LEFT when landing on the Trampoline below to bust it, falling 
+      into the next Balloon.
+
+xiii) Move left to the next Trampoline lane, bouncing up to hit the lower
+      Balloon.
+
+ xiv) Do nothing to fall down and bounce up to obtain the higher Balloon.
+
+  xv) Hold LEFT when descending towards the Trampoline below, which will 
+      send Mappy careening into the Goro Balloon, which will fly up to hit 
+      the final Balloon, finishing off the Bonus Round with a perfect 
+      performance!
+
+
+                           o-----------------o
+                           | Mansion Type #4 |
+                           o-----------------o
+
+             +   ------------------   ------------------   +
+             |      C                                R     |
+             |   ------------------   ------------------   |
+             |    S            P                           |
+             |xxx----   -----------   -----------   ----xxx|
+             |                         T              S    |
+             |-------   -----------   -----------   -------|
+             |                  R                          |
+             |   ----xxx-----------   -----------xxx----   |
+             |     P                    C      T           |
+             +xxx------------------xxx------------------xxx+
+
+Stages.: 12-14
+Enemies: 6 Meowkies/1 Goro
+Traps..: 4 Microwave Doors/2 Trapdoors
+
+This is by far the most aggravating Mansion design, as the floors are all 
+over the place, leaving Mappy in situations where he will have to sprint 
+across wide open floor areas, leaving him vulnerable to the Meowkies and 
+their now great speed.  Added onto that are the tough to snag Safes, as they
+are locate don dead end floors, so only go after them when the coast is 
+clear or it is the final Stolen Item left in the level.  Make careful use of
+the Microwave Doors, trying to take out enough Meowkies to buy Mappy a few 
+seconds where he can be aggressive in going after the Stolen Items.  Try to
+save the Trapdoors for when a large group of Meowkies are in hot pursuit of
+the police mouse, as sending multiple Meowkies down for a few seconds really
+throws off their game plan.  Although the attic is open here, it is not a 
+desirable place to go very often, so it is likely best to forget that it 
+even exists.  Compounding the issues here is that the Hurry Up times will
+arrive with minimal time to run around, so Mappy will have to face-off with 
+two extra Meowkies in addition to the Gosenzo (if it gets that far).  Going 
+for the bonus multipliers is not a good idea at all, so just grab the Stolen
+Items as the opportunities spring up for him to do so.
+
+
+                         o---------------------o
+                         | Bonus Round Type #4 |
+                         o---------------------o
+
+                  +---|---+---+---+---+---+---+---|---+
+                  | B   B |   | B |   | B |   | B   B |
+                  |       | B     |       | B |       |
+                  |       |       | B         |       |
+                  |   |   |       |   B       |   |   |
+                  |   |   |       |           |   |   |
+                  +xxx+   |   |       |   |       +xxx|
+                  |   | B |   |       |   |       | B |
+                  |       +xxx+   B   +xxx+           |
+                  |         B |       | B |           |
+                  |           |   |       |   |       |
+                  | G         |   |       |   |       |
+                  +   |xxx+xxx+xxx+xxx+xxx+xxx+xxx|xxx+
+
+Stage: 15
+
+Follow these steps to achieve a perfect Bonus Round:
+
+   i) Bounce up to hit the first Balloon.
+
+  ii) Hold LEFT to break the Trampoline Mappy lands on, falling through to
+      collect the Balloon below.
+
+ iii) Hop to the left and bounce straight up to hit the third Balloon.
+
+  iv) When Mappy touches down again, bounce up to go left to the next 
+      Trampoline lane, bouncing straight into the Balloon above.
+
+   v) Land on the Trampoline below and hop up to go left again, bouncing
+      straight up to hit the next Balloon.
+
+  vi) When Mappy lands, hold LEFT to break the trampoline and fall into the
+      Balloon below.
+
+ vii) Bounce off the Trampoline and go up to move left to get the Balloon 
+      hovering over the column.
+
+viii) Land on the Trampoline and launch straight upwards to get the eighth
+      Balloon of the Bonus Round.
+
+  ix) After landing on the Trampoline, go left to get the next Balloon.
+
+   x) Bounce straight up to pop the next red Balloon.
+
+  xi) Move left through the opening in the column to use the next Trampoline
+      to hit the Balloon above.
+
+ xii) Hold LEFT when landing on the Trampoline below to bust it, falling 
+      into the next Balloon.
+
+xiii) Move left to the next Trampoline lane, bouncing up to hit the lower
+      Balloon.
+
+ xiv) Do nothing to fall down and bounce up to obtain the higher Balloon.
+
+  xv) Hold LEFT when descending towards the Trampoline below, which will 
+      send Mappy careening into the Goro Balloon, which will fly up to hit 
+      the final Balloon, finishing off the Bonus Round with a perfect 
+      performance!
+
+
+                           o------------------o
+                           | Stage 16 Onwards |
+                           o------------------o
+
+The stages will loop after the first 15 stages are completed, following this
+pattern:
+
+   i) Mansion Type #1 (3 stages)
+
+  ii) Bonus Type #1
+
+ iii) Mansion Type #2 (3 stages)
+
+  iv) Bonus Type #2
+
+   v) Mansion Type #3 (3 stages)
+
+  vi) Bonus Type #3
+
+ vii) Mansion Type #4 (3 stages)
+
+viii) Bonus Type #4
+
+This means that every 16 stages will be another complete loop, and the 
+Meowkies will number 7 for each Mansion, right from the start.  if you 
+manage to finish 255 stages, the stage counter will reset back to 1, at 
+which Mappy will be back on the initial loop of the game (ie 3 Meowkies,
+enemies move at sloth like speeds, Hurry Up takes forever and a day to be
+announced).

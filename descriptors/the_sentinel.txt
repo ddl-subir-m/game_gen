@@ -1,0 +1,315 @@
+Sentinel, The - Manual
+In a strange universe of 10,000 worlds, where the only force is
+pure energy, a lone Synthoid does battle against the Sentinel and
+her agents, the Sentries.
+
+You control the Synthoid in his attempt to dethrone the Sentinel
+as the ruler of each of the 10,000 worlds.
+
+As you move about the individual landscapes, avoiding the
+withering stare of the Sentinel and the Sentries, you must gain a
+position from where you can destroy the Sentinel; her energy
+becomes yours and the landscape is complete.
+
+Drawing on your remaining energy, you must now Hyperspace to a
+new word where a fresh challenge awaits + only 9,999 words to go
+and victory will be yours.
+
+GETTING STARTED
+
+Upon loading being complete, the title screen will be displayed.
+Pressing either the mouse buttons or any key will access the
+Landscape Selection Screen.
+
+Each landscape, except the first, is reached via a 8-digit
+code. We will deal with how these codes work later in the manual.
+For now, just press the RETURN key and a representation of the
+first landscape will appear before you. This representation gives
+you your first information about the landscape that awaits. You
+will be able to get an idea of the terrain involved in the
+landscape, hills, valleys, plains, chasms and so on. It will also
+show you how many Sentinels and Sentries there are. Have a good
+look, as this is all the information that you will get.
+
+The screen will be prompting you to press any key so, press any
+key.
+
+You are now in the landscape.
+
+MOUSE CONTROLS
+
+Taking hold of the mouse, press the left-hand button and a cursor
+will appear on the screen. This cursor is your means of control
+and movement. We will now get used to its functions and their
+implementation.
+
+Move the mouse to the right and the cursor will cross the screen
+in that direction. When the cursor approaches the edge of the
+screen your Synthoid will turn in that direction. Now move the
+cursor to the left of the screen and left the Synthoid turn to
+the left and you will be returned to the view that you began
+with.
+
+Now move the cursor to the right of the screen and leave it
+there. The view will now pan round and will keep doing so until
+the cursor is centred. If you let the view move 21 times then you
+will have returned to the starting point.
+
+Now start moving the cursor to the top and bottom of the screen,
+so that your view pans upwards and downwards If you leave the
+view panning, either upwards or downwards, you will eventually
+reach a point beyond which you can look no further, the point
+which is almost vertical, either upwards or downwards. You will
+know if panning has stopped by looking the cursor, whilst panning
+is taking place, the cursor will flash. If it is not flashing,
+then the view is stable.
+
+By moving the cursor to the one of the corners of the screen, you
+will be able to achieve a diagonal pan. The screen does not
+scroll in a diagonal fashion, rather it moves the view first on
+the horizontal plane and then on the vertical, to achieve a
+diagonal effect.
+
+So now that you have discovered the principles of viewing the
+landscape, spend some time getting used to the mouse and changing
+the viewpoint of your Synthoid, as speed will become an integral
+part of the game-play.
+
+THE FUN STARTS HERE
+
+Now that you have become used to looking around you, we will
+start to discover how to move within the landscape, how to create
+and absorb.
+
+the Sentinel is a game of energy, and the units of energy that
+exist in the landscape have a variety of forms.
+
+One unit is represented by a tree and this is the building block
+upon which the rest of the game takes place. While you were
+looking around, you will have seen that there are many trees
+within the landscape. These are for you to take to build up your
+energy. We shall start by absorbing a tree.
+
+You may have noticed that below and to the right of the starting
+view (the view that you get on first arriving in the landscape)
+there is a tree. You should move three times diagonally and twice
+down, from the starting view, to look at the square on which the
+tree is standing. Ensure that the cursor is over the square on
+which the tree stands and press the left-hand button. You will
+see the tree disappear before your eyes.
+
+The tree, or at least the energy, still exists. If you look to
+the small figures above the screen, you will notice that there
+are currently three small Synthoids and a boulder (an inverted U
+). If you notices this section before, you will remember that
+there was a small tree where the boulder now is. This is because
+every object within the landscape has an energy value. These
+values are as follows:
+
+ 1 Unit:  a Tree and a Meanie
+ 2 Units: a Boulder
+ 3 Units: a Synthoid and a Sentry
+ 4 Units: a Sentinel
+
+(By now you will have heard a clunking sound, and possibly seen
+the box at the top right corner of the screen to fill with
+static. This means that the Sentinel is scanning you and
+absorbing your energy. This is because the action of absorbing or
+creating anything will start the Sentinel turning. If this has
+happened, then you will probably have died. (don't worry about
+this at present, we'll get on keeping you alive a little later).
+
+Now that you have absorbed an object, it is time to create an
+object. From the staring position, look around the landscape
+until you find a square that doesn't have anything on it. Then,
+with the cursor on the target square, press the 'T' on the
+keyboard of your computer and a tree will appear. You will notice
+that your energy indicator has dropped by 1 unit (ie. a tree).
+Now absorb the tree by pressing the left-hand button of the
+mouse. Having done that, press the 'B' key on the keyboard. This
+time a boulder will appear. Absorb the boulder as you would a
+tree, and press the key 'R'. You will see a synthoid appear. You
+are almost there.
+
+By now you will have died, so start again and use the techniques
+that you have learnt to start moving about the landscape.
+
+From the starting view, turn to a position from which you can see
+a square, as before, and, with the cursor on the chosen square,
+press the key 'R'. As before a Synthoid will appear. Now press
+the right-hand button of the mouse. For a moment the screen will
+turn blue and you will hear a five note tune. When the screen
+comes back, you will notice that things look a bit different -
+the reason is that you have transferred into the second Synthoid!
+
+When the transfer is complete you will be looking back at your
+old Synthoid. Absorb it as you would a tree and your energy level
+should be the same as before you moved into a new Synthoid.
+
+Now to put the technique to real use.
+
+From the starting position, find a square as before and create a
+boulder. Then, with the cursor still on the square, press the key
+'R'. You will see that a Synthoid has now been created at the top
+of the boulder. Press the right-hand button of the mouse and you
+will have transferred into the second Synthoid, but because you
+are also standing on a boulder, your position in the landscape
+will be higher.
+Beacuse of this higher position you will now be able to see much
+mode in the landscape; more trees to absorb, more squares to move
+to. You have now embarked on a unique gaming experience.
+
+MAKING IT WORK
+
+the Sentinel is a complex, yet simple game. By now you should be
+able to absorb and create objects, although you will probably
+have died many times. Now to deal with staying alive.
+
+As was mentioned earlier, when you make any kind of move other
+than panning, the Sentinel and the Sentries if they are there,
+will start turning to look at you. Their movement is akin to that
+of a lighthouse beam, turning steadily in one direction (either
+clockwise or anticlockwise). Should their view look upon ANYTHING
+that has an energy value that is greater than one, then, through
+the same process of absorbtion that you used, they will break
+down the object into single energy units (a Sentinel can't store
+energy as you can).
+
+So, to stay alive, your first aim is to avoid the Sentinel's
+gaze. There is no substitute for experiencem but follow these
+guidelines and you should get to grips with things pretty
+quickly:
+
+i)
+ Always make sure you know in which direction the Sentinel is
+turning, so that without looking at it you can anticipate when
+the withering stare will reach you, and react accordingly.
+
+ii)
+ Keep on the move, as it doesn't take the Sentinel long to turn
+full circle.
+
+iii)
+ When you move, always try to create a boulder and a Synthoid, so
+that every timee you move you will gain height and therefore your
+options will increase.
+
+iv)
+ To absorb a Sentinel, as with any other object, you MUST be able
+to place your cursor on the square on which she stands, so
+gaining height is of prime importance to completion of a
+landscape.
+
+v)
+ If you find yourself being scanned by the Sentinel, DON'T PANIC!
+Energy will be taken from you a unit at a time, and you may find
+that you have just enough time to create another Synthoid and
+move to a position of safety. If you feel that you don't have
+enough time to move, then there is the last way - HYPERSPACE. By
+pressing the key 'H' you will be transported to another, almost
+random point in the landscape to try again, at an energy loss of
+three units (this is because the loss of your previous Synthoid).
+If you have less than 3 units left, then Hyperspacing means
+suicide.
+The 'almost' random nature of the move is because the new
+position that you are moved to will only be on the same level of
+terrain or below. Beware: you bay end up in a position from which
+you cannot move any further. If this is the case then suicide is
+probably the only option.
+
+vi)
+ Absorb as many trees as you can, and always reabsorb your old
+boulders and Synthoids. Gain as much energy as possible.
+
+vii)
+ Rather than panning all the time, you can turn trough 180
+degrees by pressing the key 'U' (a U-turn).
+
+viii)
+ You can hide from the gaze of the Sentinel, either behing parts
+of the landscape or behind trees. If the Sentinel can't see you,
+she will just keep turning.
+
+This raises another aspect of the game - the Meanies.
+
+Meanies are created by the Sentinel or Sentries when they have
+spotted a Synthoid but cannot see the square on which he is
+standing to absorb him. The Sentinel or Sentry will look for a
+nearby tree and will transform the tree into a Meanie. The Meanie
+will then swiftly rotate until he can see the Synthoid and,
+hopefully, the square on which he is standing. If this is the
+case then you will be Hyperspaced. There is nothing you can do,
+other then absorb the Meanie before he looks at you, or move out
+of the way. If you don't have enough energy to Hyperspace, then
+the Meanie will destroy you.
+
+You will know if the Sentinel or a Sentry can see you in this way
+when the scanning box (top right) is only half-full of static,
+consequently this is known as half scan.
+
+ix)
+ Energy in the landscape is static, and though it can be absorbed
+and distributed, cannot be either created or destroyed. If a
+Sentinel breaks down a boulder and a Synthoid for example, the
+energy will not disappear, rather it will be redistributed as
+five trees elsewhere in the landscape.
+
+x)
+ As long as you have enough energy, you can place as many
+boulders as you like on top of each other, with a Synthoid on
+top. You can use this technique to dominate the landscape more
+quickly, but beware; if you are scanned whilsy on a top of such a
+stack you will almost certainly lose a lot of energy.
+
+xi)
+ There is a 'help' feature that can be used at any stage of the
+game that serves to give you an idea of where you are in the
+landscape. First, ensure that your Synthoid is looking into the
+sky, then press the HELP key. This has the effect of giving you a
+view of the landscape from the position of the sky which you
+looked towards. This also acts as a pause facility and can be
+very useful in providing you with valuable information about the
+landscape.
+
+These are the basic techniques to playing Sentinel; you'll
+probably discover your own as your experience of the game
+develops.
+
+ONE POINT IS LEFT - HOW TO WIN
+
+Your object is to absorb the Sentinel and any Sentries that may
+exist.
+
+Having done this, you must place yourself on top of the
+Sentinel's tower and then, satisfied with your achievement, press
+the Hyperspace key. After a few short seconds you will be given
+an eight digit code to a further landscape. WRITE IT DOWN and
+make sure you don't make a mistake!
+
+This is your only means of getting to any other landscape than
+#0000, and as such acts as a game save. When you load the game
+you can get to any landscape you wish, as long as you have the
+correct code.
+
+The way it works is as follows: when you are on the top of the
+Sentinel's tower and you Hyperspace the program calculates how
+much energy you have left (three units are taken away for the
+hyperspace) and gives you the code for the landscape that
+corresponds to your remaining energy. So, if you have just
+finished landscape #25 with 15 units remaining, you will be given
+the code to landscape #37 (25+15-3 = 37). Keep going like this,
+recording all your codes, all the way to #10,000!
+
+It is worth mentioning that once the final Sentinel has been
+absorbed, then nothing else within the landscape can be absorbed.
+However, you can still distribute energy, so you can chose the
+next landscape that you go to. Say you have just finished
+landscape #25 with 15 units remaining, rater than hyperspacing
+immediately, creating one tree will leave you with 14 units,
+giving you the code to landscape #36. You can use this technique
+if you have problems with a specific landscape.
+
+Supposing that landscape #37 is very difficult (no landscape is
+impossible), you could return to #25, complete again and try to
+end up with the code to another landscape, possibly higher than
+#37.

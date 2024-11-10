@@ -1,0 +1,280 @@
+Part 1: Basic information
+
+Marble Madness
+Copyright 1984 TENGEN
+Liscensed by Nintendo of America
+
+Marble Madness is a game where you control a marble as it glides through 
+6 mazes in a race against time.  I would recommend this game to anybody, 
+as it is totally nonviolent and incredibly absorbing.  You will love 
+this game.  Really, you will.
+
+Controls
+
+The controls are quite odd.  The A button and the D-Pad are the only 
+things you'll use.  The D-Pad controls your marble and the A button 
+moves you to a higher speed (you accelerate automatically with the D-
+Pad).  There are two control layouts - 90 degrees and 45 degrees.  90 
+degrees controls your marble as it appears on the screen, with down 
+moving the marble down and up moving it up.  45, however, requires you 
+to move the D-pad 45 degrees to the right, so that the gap between "up" 
+and "left" is facing towards the screen for the movements on the D-Pad 
+to be accuratly represented by the marble (what a sentance.)
+
+The Fairy: Every now and then (completly random, I think, e-mail me if 
+I'm wrong), a wand will appear out of nowhere and bless you with an 
+additional 10 seconds on the clock.  Very wrathful.  Of course, on 
+course 5, the silly race, the fairy takes time from you, so beware.  You 
+can't prevent it.
+
+The Obstacles
+
+Stuffed olives - So named because of their appearance, they slink around 
+like a slinky and try to jump on you, eating you.  This kills you 
+instantly, but the jump is easy to avoid.
+Found in: 2, 3
+
+Acid Pools - The green gobs.  They are evil.  When you touch them, you 
+are instantly disintigrated.  They move slowly, but they often bunch 
+together.
+Found in: 3, 4, 6
+
+Chutes - Run into it and pop out the other end.  Not a threat.  Fear it 
+not, for it shall not harm you.
+Found in: 2, 5, and a modified version on 6.
+
+The infamous rolling floor - You have to see this once to believe it.  
+This green stretch of platform may not see odd at first, mate, but it 
+will when you see it sweep up like an ocean wave and toss you over the 
+side.  It's not too hard to evade, but if you get caught in it, you can 
+lose up to 3 seconds.
+Found in: 3
+
+The Black Marble - These black marbles will come after you and ram you.  
+The ramming is never fatal unless it launches you off the side.  They 
+would be less dangerous if they weren't in such annoying places.  The 
+only enemy you can kill normally.
+Found in: 2, 6
+
+Piston Floors - Annoying.  They push up and launch you away, often off 
+the path.  But their patterns are predictable.
+Found in: 4
+
+Vacuums - You have to be REALLY dumb to get caught by one of these.  
+They suck you in, piece by piece, in a cool little effect.
+Found in: 4
+
+Punchy-Arms - I HATE THESE!  Somebody get a revolver and shoot them to 
+death!  They knock you off the side and backwards, typically into 
+another one.  They are REALLY annoying and it's almost impossible not to 
+die once here.
+Found in: 4
+
+The Catapult - Not much to say about this 'un, just run into it and you 
+get launched on a predetermined trajectory.  Simple.
+Found in: 4
+
+The MicroEnemies - On level 5, the silly race, you'll find mini-versions 
+of the Stuffed Olives, Acid Pools, and Black Marbles.  It's payback 
+time.  Run 'em down and get an extra 3 seconds.  But why is the black 
+marble bleeding. . . ?
+Found in: 5
+
+Flying Birds - What the purple onion waxer is this?  If one of these 
+flying purple birds rams you, you die.  But their trajectories are 
+predetermined and straight, so fear not.  They're not too much of a 
+threat.
+Found in: 5
+
+The Striped Floor - This floor is striped, and it has something akin to 
+thin, yet pronounced speedbumps.  Why this is supposed to slow down your 
+wrathful marble is unknown to me, because it's just annoying and will 
+throw you off.
+Found in: 6
+
+The Blue Floor - This ranks second as the most annoying feature, after 
+the punchy-arms.  Once upon the blue floor, you cannot change direction 
+and you are forced to move slowly.  One stretch of it even has little 
+cones to deflect you!
+Found in: 6
+
+The Red Floor – Thank you very much to Homer J Simpson (like that's your 
+real name) for enlightening me!  The red floor acts like ice (It reduced 
+your traction and makes you slip a lot.).
+Found in: 6
+
+The Magic Disappearing Floor! - Okay, I changed my mind.  This annoying, 
+wrathful, tricky, 20+ second eating freak of nature will make you scream 
+in terror and hate.  This disappearing floor, similar to something found 
+in IceMan's stage in Megaman and HeatMan's stage in MegaMan 2, will add 
+one new tile and remove another one every bit fo time (something like a 
+third of a musical measure).  Fear it.
+
+Part 3: The levels
+
+Level 1: The Practice course.  60 seconds
+
+Ahh, the practice course.  The only course with area that is useful only 
+as scenery.  Seriously, there is ground you can't visit in this level.  
+Anyway, we start at the top, with a beautiful cascading Q-Bert-like area 
+leading down until we flat out and enter a little tunnel that resembles 
+a bobsled track and you slide into the finish.  Although you get points 
+for this course, you don't carry time into the next level.
+
+Okay, my dear friend Robert A Pollack showed me that the area on the 
+side is NOT scenery, it is a place you can visit, and you can get up to 
+5,000 points depending on the number you land on.  Grazie!
+
+Level 2: The Beginner Course.  65 seconds
+
+The first level that counts.  You start at the top and fight past 
+rectangular areas until you reach a short flat area with a Black Marble.  
+Then, you take a slope down and left until you reach a short, flat area 
+with two paths leading down, one going down-left and one going down-
+right.  When you land, there are some stuffed olives there.  Just cruise 
+past them.  Then, you'll find a little bridge that changes position 
+occasionaly.  Wait for it to change, then charge across it.  From here, 
+there are two paths: The easy long path and the short hard path.  The 
+short, hard path is my preferred.  You slide down a chute, and go over 
+bumpy ground, first encountering a gap on the left, then the right, and 
+then you follow the path to the right.  There is very little to tell 
+about the easy, long path, as it is straightforward.  You will go down 
+another chute and into the game's first truly hard area, which I refer 
+to as The Reach.  It is indented in the middle, and will drive you off 
+the right side or into a hole on the other side of The Reach.  You have 
+to take this on the extreme left edge or you'll curve right and fall 
+into the pit.  It takes practice.  Then, turn right and finish the 
+level.
+
+Level 3: The Intermediate Course.  +35 seconds
+
+Having fun yet?  One of the shorter levels, it's more intense than the 
+previous level, but shorter.  Go down the ramp, and through the little 
+maze.  Then, slide down.  You might miss the slide.  Avoid the stuffed 
+olives, and keep following this path,  Dodge past the acid pools, this 
+is one of the worst places to encounter them because they clump 
+together.  Go down the chute, and swing left, then right.  Now, it's 
+choice time.  The easy route, or the hard route?  The easy route is VERY 
+straightforward, but it has the game's first uphill path.  The hard 
+route consists entirely of the Infamous Rolling Floor.  Tactics for 
+defeating this floor are detailed above.  Then, it's just down a curved 
+ramp and finish the level!
+
+Level 4: The Aerial Course. +35 seconds
+
+Oooh.  An odd shade of red and a haunting musical track.  This level is 
+scary and unique, in that it makes you jump and it has unique features.  
+First thing, WAKE UP!  You have to catch your marble here.  You begin on 
+a major slide that will send you to oblivion unless you stop it.  Then, 
+groove on past the vacuums and go across a tricky little slide (one of 
+the few times in this game where one side has an advantage, Player 2 
+gets the luck here.)  Then, head for the catapult.  Let it launch you, 
+it won't hurt you.  According to Robert A Pollack, sometimes there's a 
+black marble above the catapult area, but I've never found this.  Oh, 
+also according to RAP, if you get fairy'd while on the catapult, you get 
+stuck there…  Pick from two paths, once again the long and easy vs. the 
+short and difficult.  As always, I prefer to do things the hard way.  
+Avoid the pistons.  You have to gain up some speed for both jumps, and 
+you should wait until right after all the pistons pop up to jump the 
+first time.  The easy path is tricky and angular, but still easy.  
+Either way, you end up facing off with the punchy-arms.  With the 
+rightmost one being 1 and the leftmost being 4, this is the order they 
+follow (I think)
+
+1 2 3 4 34 12 34 12 13 24 13 24
+
+The best option is just to fling yourself across just as it does the 34 
+motion.  Don't fling yourself off too fast, mate, or you'll go flying 
+off the side.  Turn left, then left, and finish this stage!  You earned 
+it!
+
+Level 5: The Silly Course.  +20 seconds
+
+Everything you know is wrong...  Where have I heard that...  Oh yeah!  
+Weird Al Yanchovick!  Thanks, Homer!  Anyway, the worst thing about this 
+stage is the pathetic time-up you get (20 seconds).  Get used to it.  
+This level has a silly, happy, psychotic song, and the walls have polka-
+dots.  Well, this is a tricky stage.  Can you get used to your marble 
+moving uphill, cuz that's what it does?  Charge uphill.  Now, you see 
+some MiniEnemies.  Show no mercy and make them suffer.  Get three 
+seconds each time.  Then, charge up the little ramp and into the silly 
+chute.  Here, one side isn't definitly better, but it's different.  
+Player 1 gets a path that concaves (it goes in), player two gets a path 
+that convexes (it sticks out.)  I don't know which one I like better.  
+Anyway, once you're past there, you head up to a strange area.  The 
+birds fly from bottom right to top left, and will ice you if you touch.  
+So avoid them (just blaze past them) and head up a ramp.  Now, something 
+difficult appears.  You go down a ramp, but because physics along the Y-
+axis (up and down) have been inverted, it will try to push you up wen 
+you get on it!  So gain some momentum for this one, then slink over a 
+bridge (or dive off the right side, it won't kill you, thank you Robert 
+A Pollack) and ram into the goal and head for the ultimate challenge: 
+the Ultimate Race!  Ooh, my loins quiver with anticipation...
+
+Level 6: The Ultimate Race.  +20 seconds.
+
++20 seconds!  WTF!?!  Anyway, you'll end up with under a minute, 
+usually, and at worst case about 35 seconds.  You really have to hurry 
+through the silly race.  There's a neato space background and a cool 
+song here.  Well, get some momentum and charge up that ramp into the 
+modified chute. You'll come out in a different area for each player, but 
+they're the same, except player one starts with a striped surface and 
+ramps down to a red surface, while player two gets vice-versa, but the 
+floor is the same shape.  Anyway, head inwards over a small stretch of 
+blue surface to reach a larger spread of blue surface.  Go right at the 
+top, and go straight down.  You'll have to dodge the marble instantly, 
+and the screen will scroll down to reveal the disappearing floor, your 
+final challenge as a player.  
+
+Anyway, the first leg, going to the left side (this is shaped like a 
+diamond) is a straght line composed of three panels.  The second leg, 
+going to the bottom is the hardest, is only 2 tiles wide and from above 
+it looks like this:
+
+  
+     _
+    | |_
+    |   |_
+
+The third leg, going to the right side, 4 tiles wide, has a ramp, and 
+looks like this:
+
+                        
+       / /           
+     _/_/            
+     / /             
+
+
+The line denotes the apex of the ramp.  This part is dangerous because 
+of the fact that pieces of it dissappear.  The fourth leg is striped 
+floor, and looks like this:
+
+   _
+     \    
+      \   
+       \   
+
+Well, this area is only two tiles wide.  It lead to the finish line.  
+Congratulations!  You've won!
+
+SCORING
+
+Very easy.  After every race, add 2 zeroes to the number of seconds you 
+have left.  For example, 51 seconds becomes 5,100 points.  You get a 
+bonus for each completed race, but I forget how much that is.  If you 
+feel like hunting it down for me, please inform me!  I know that it's 
+1000 for the first race, but that's it.  Also, you seem to get points 
+added to your score slowly for no reason...  Why is that?  I think you 
+get 10 points every second.
+
+If you're playing 2 player, every time you fall a screen behind your 
+opponent, you lose 5 seconds, and the winner of each race gets an 
+additional 5 seconds at the beginning of the next race.
+
+At the final, it measures up your current score, adds 1000 points for 
+each second, adds 20,000 points (I found that out), and detracts 1000 
+points for every time you die (ouch...)  Today, my final score was 
+62,500.  Can you beat it?
+
+Okay, as of 10/31/00, My new high score is 118,250.  Can you beat THAT?  
+I had almost a minute left at the end of the game, that's what did it.

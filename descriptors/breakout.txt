@@ -1,0 +1,117 @@
+Table of Contents
+
+ (A) This Table of Contents
+ (B) Controls
+ (C) The Game
+  - (C-01) How To Play
+  - (C-02) Tips
+ (D) Experimental
+
+
+###############################################################################
+                                 (B) CONTROLS
+###############################################################################
+
+The default controls for this game are as follows:
+
+
+Left, Right - Move your paddle.
+
+Fire - Launch the ball.
+
+
+###############################################################################
+                                 (C) THE GAME
+###############################################################################
+                           Bricklayer J. Gastronomy
+
+
+This game involves moving a small horizontal paddle left and right in order to
+keep a ball bouncing and knocking out the bricks above you.
+
+
+###############################################################################
+                              (C-01) HOW TO PLAY
+###############################################################################
+
+You hit the "fire" button to launch the ball, then move your paddle left and
+right.  The idea is to get your paddle below the ball in order to knock it up.
+If you miss the ball, then you lose a life.  If you successfully bounce the
+ball, it will hit one of the blocks above and cause it to disappear.
+
+The goal is to get rid of all the blocks above you in this way, before you lose
+all five of your lives.
+
+
+The bottom two rows of blocks [blue and green] are worth one point per block.
+
+The third and fourth rows of blocks [yellow and brown] are worth 4 points per
+block.
+
+The fifth and sixth rows of blocks [orange and red] are worth 7 points per
+block.
+
+
+After about every 10 blocks, the ball speeds up.  So, you need to react a bit
+faster at these points.
+
+
+Once the ball touches the ceiling, your paddle shrinks down to about 2/3 it's
+original size.  This only happens once until you pass a stage or lose a life,
+then your paddle is at normal size until you hit the ceiling again.
+
+
+If you manage to completely clear away all the bricks, the stage fills with
+another 6 rows and you keep going.
+
+
+###############################################################################
+                                 (C-02) LAYOUT
+###############################################################################
+
+Each stage has the same layout, with 6 coloured rows above your paddle. Each
+row is also made up of 18 blocks like so:
+
+ -----------------------------------------------------
+|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|RD|
+|-----------------------------------------------------|
+|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|OR|
+|-----------------------------------------------------|
+|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|BR|
+|-----------------------------------------------------|
+|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|YL|
+|-----------------------------------------------------|
+|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|GR|
+|-----------------------------------------------------|
+|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|BL|
+|-----------------------------------------------------|
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                 O                                   |
+|                                                     |
+|                                                     |
+|          -------                                    |
+|                                                     |
+ -----------------------------------------------------
+
+
+###############################################################################
+                                  (C-03) TIPS
+###############################################################################
+
+The ball flies at a different angle depending on whether it lands in the middle
+area of your paddle or near the ends.  Use these angles to your advantage
+whenever possible.
+
+Don't wait for the ball to come back down before you move the paddle, always
+follow the ball with it.

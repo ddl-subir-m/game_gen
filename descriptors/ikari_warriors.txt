@@ -1,0 +1,2597 @@
+=============================================================================
+ I.  INTRODUCTION
+=============================================================================
+What is Ikari Warriors?  It was originally an arcade game by SNK that 
+featured two joysticks per player.  One was used for movement while the other 
+was used to aim.  This allowed a precision like no other game had before.  
+Not too many games used this two joystick model.  The most notable would 
+probably be Smash T.V.  The game was one of military survival.  You took 
+control of one of two soldiers, Paul and Vince, and guided them through enemy 
+territory.  All you had with you were your grenades, your machine guns, and 
+your wits.  It will be easier to follow the plot if you think of this game as 
+a Rambo clone of sorts.
+
+Ikari Warriors was ported to many home systems, one of them being the 
+Nintendo Entertainment System.  That is where this guide comes in.  There 
+were three Ikari Warriors games produced and this guide covers the first 
+game.  This FAQ/Walkthrough is intended for use with the NES version only.  
+If you are playing any other version, then this guide will most likely not be 
+of much use.  Ikari Warriors for the NES can be frustrating to play so 
+hopefully this guide will help people finish the game.  You can even finish 
+the game without dying if you follow this guide.
+
+
+=============================================================================
+ II.  FAQ HISTORY
+=============================================================================
+Version 1.00 (02/23/03) [162k]
+     Initial release
+
+
+=============================================================================
+ III.  STORY
+=============================================================================
+(from back of game box)
+You and a friend are warriors with secret orders to invade an enemy nation.  
+Working together as a team, you must fight for survival against a relentless 
+onslaught of enemies!
+
+
+(my version)
+Paul and Vince, the Ikari Warriors have crash landed into enemy territory.  
+Armed with only their guns and grenades, they must fight their way into the 
+heart of the enemy's base and destroy it.
+
+
+=============================================================================
+ IV.  CONTROLS
+=============================================================================
+Basic controls
+==============
+Up      :  move player up
+Down    :  move player down
+Left    :  move player left
+Right   :  move player right
+B       :  shoot
+A       :  throw grenades, enter a tank or chopper
+Select  :  select two player game
+Start   :  start game, pause/resume game
+A+B     :  exit a tank or chopper
+
+
+Other controls
+==============
+Aiming in the tank
+------------------
+To change the direction of your aim while inside a tank, just hold down the A 
+button and use the D-pad to change your aim in 8 different directions.
+
+Aiming in the chopper
+---------------------
+Aiming is by pressing in the direction that you want to fire in with the D-
+pad and pressing B button to fire guns and A button to fire 
+grenades/missiles.  Unfortunately, aiming and moving the chopper both require 
+the D-pad so you may want to just tap the direction instead of holding it 
+down to limit any unnecessary movement.
+
+
+=============================================================================
+ V.  GAMEPLAY
+=============================================================================
+Objective
+---------
+Your goal is to run through each area until you reach the end.  Then repeat 
+the process again until you have completed all 4 areas.  You do not have to 
+kill enemies along the way although survival without doing so is highly 
+unlikely.
+
+Player status
+-------------
+Information about your status is shown in the top left corner for the first 
+player and the top right corner for the second player.  Your current score is 
+listed first.  Below that are two numbers.  The top number is the amount of 
+grenades that you have left.  The bottom number is the amount of bullets you 
+have left.
+
+Lives
+-----
+You start out with 3 lives.  You can earn an additional life at 50,000 points 
+and another one at 100,000 points.  You will get an extra life every 100,000 
+points afterwards.  You'll hear a tone when you get the extra life.
+
+Scoring
+-------
+There are many ways to get points in the game.  Here are the different point 
+values awarded for different actions.  Enemies are killed while objects are 
+destroyed.
+
+*Soldier                         100 points
+Chopper                          600 points
+Destroying a wall/gate/door     1000 points
+Getting powerup                  200 points
+Gold box                        1000 points
+Gold clock                      2000 points
+Gold watch                      5000 points
+Grenade soldier                  200 points
+Little Athena              1500-5000 points
+Macho man                       1000 points
+Moving cannon                    400 points
+Oil drum soldier                1000 points
+Scorpion/killer bee              200 points
+Super tank                      1000 points
+Tank                             800 points
+Task force soldier              1000 points
+
+Clearing an area will give you 10,000 x # where # is the number of the 
+current area (i.e. area 2 gives you 20,000, area 3 30,000 and so on.  If you 
+continue playing after area 4, then finishing area 1 the second time around 
+will get you 50,000 points.  This cumulative effect will continue for every 
+level afterwards that you complete.
+
+*"Soldier" includes red soldiers, armored soldiers, green soldiers, etc.
+
+
+=============================================================================
+ VI.  ITEMS/POWERUPS
+=============================================================================
+Weapon Powerups
+===============
+These items will enhance your gun and grenades.  They are found by killing 
+red soldiers.
+
+B (bomb)
+Your grenades will cause a larger explosion area.  Tank shots will similarly 
+be upgraded to cause a larger explosion.
+
+F (fire)
+Your shots will now be colored red.  They will not be stopped if they hit a 
+target.  They will travel over walls and other obstacles.  They can even 
+destroy stone faces and bunkers.  Tank bullets will be upgraded to missiles 
+which can travel over walls.
+
+L (long range)
+Your shots will go farther.
+
+S (speed)
+It won't make you move faster but it will make your shots move faster.
+
+
+Green Soldier Item
+==================
+This item is found exclusively by killing the rare green soldiers.
+
+K (kill)
+All enemies currently on the screen will die.  This will not work on any 
+enemies underwater at the moment you get the K.
+
+
+Supply Powerups
+===============
+These items will replenish your bullet, grenade, and fuel (for tank & 
+chopper) supply.  They are dropped by gun turrets, bunkers, blockades, enemy 
+tanks, and fortress gates.
+
+Bullets (gun icon)
+Give you the max (99) bullets.
+
+Fuel (gas canister)
+Adds more fuel to your supply.
+
+Grenades (grenade icon)
+Adds 50 grenades to your supply.
+
+
+Secret items
+============
+The following items are all hidden and must be uncovered by shooting at the 
+correct spot.  Using any other attack other than bullets will not reveal the 
+item even if you are at the correct spot.  Tank shots will also work.  These 
+items only add points to your score.
+
+Gold Bars
+Adds 5,000 points to your score
+
+Gold Box
+Adds 1,000 points to your score
+
+Gold Clock
+Adds 2,000 points to your score
+
+Little Athena (girl)
+Adds 1,500, 2,500, or 5,000 points to your score
+
+
+Secret powerups
+===============
+The following powerups are all hidden and must be uncovered by shooting at 
+the correct spot.  Using any other attack other than bullets will not reveal 
+the powerup even if you are at the correct spot.  Tank shots will also work.
+
+Gold Heart
+The ultimate powerup.  It gives you the B, F, L, and S powerups.  You also 
+get the hidden powerups like SS, knife, and heart.  Your ammo will also be 
+fully replenished.
+
+H (super fuel)
+Refills both grenades and bullets to max values (99).  You will get 200 
+seconds of fuel for the tanks.
+
+Heart (retain items)
+You will not lose the powerups that you have if you die.  This only applies 
+to the first death after you get this item.  If you die a second time 
+afterwards, then you will lose all of your powerups.  Getting multiple hearts 
+will not cause a cumulative effect (i.e. you will still lose your items after 
+more than one death even if you get more than one heart).  You will lose your 
+items if you lose your last life and then resume play via the continue code.
+
+Knife
+You can kill enemies by touching them.  Will also allow you to touch 
+otherwise deadly objects like blockades.  The explosions from their 
+destruction can still kill you though.  Special enemies like the macho men 
+will no longer kill you by contact but you will not kill them either.  Lasers 
+will not kill you either.
+
+SS (super speed)
+You move faster.
+
+Triple Shot (3 dots)
+Lets you fire three shots out in three directions at once.  All other 
+powerups to your gun (F, L, S) will be cancelled out.
+
+
+Vehicles
+========
+You can acquire two vehicles to use against the enemy.  They both operate on 
+fuel and will self destruct when the fuel supply runs out.  Tanks can be 
+found lying around and by destroying other enemy tanks.  Choppers can only be 
+found lying around.
+
+Chopper
+Bullet proof and flies over enemies.  It can fire shots in three directions 
+or shoot tank shots (missiles).  It is vulnerable to everything except 
+bullets, normal soldiers, and other choppers.  Things like land mines, self 
+destruct soldiers, and explosions will destroy the chopper even though you 
+would think that you would be able to fly over them.  The chopper will self 
+destruct if it runs out of fuel.
+
+Tank
+Bullet proof and can run over enemies.  Shots are based on your grenade 
+total.  It is vulnerable to everything except for bullets (both regular and F 
+bullets).  The tank will self destruct if it runs out of fuel.
+
+
+=============================================================================
+ VII.  ENEMIES
+=============================================================================
+All enemies listed have been assigned unofficial names by me.  These names 
+will be used throughout this FAQ to refer to each individual enemy.
+
+Blue Soldiers
+=============
+There are a lot of different blue soldiers so here are the different kinds 
+you can encounter.
+
+Coward Soldiers
+These guys run at you and then run away when you get too close.  They do not 
+fire any shots.
+
+FL Soldiers
+These guys are powered up with fire bullets that travel long distances.
+
+Flame Thrower Soldiers
+These guys sit and fire flames out at you.  They will become grenade soldiers 
+if you walk past them.
+
+Fortress Soldiers
+These guys stand still and wait to toss B-grenades at you if you get too 
+close.  Primarily positioned in fortress areas, these guys can also be found 
+outside of fortresses.
+
+Grenade Soldiers
+These guys will walk around after you and toss grenades at you.
+
+Homing Missile Soldiers
+These guys fire missiles that come after you.  They will become grenade 
+soldiers if you walk past them.
+
+Kamikaze Soldiers
+These guys will chase after you until you die.  They walk in slow strides and 
+will follow you in the water even.  They will kill themselves and you by 
+touching you.  They can dive underwater too.
+
+Missile Soldiers
+These guys are armed with missile launchers and fire them at you if you get 
+near.  They will become grenade soldiers if you walk past them.
+
+Regular Soldiers
+These guys run around randomly firing.
+
+Self Destruct Soldiers
+These guys look like regular soldiers but will self destruct if you get too 
+close.  They tend to walk diagonally towards you and pause in their walk.  
+They can dive underwater too.
+
+Stationary Shooters
+These guys stand in one spot and fire shots spread out in different 
+directions without stop.
+
+
+
+Other Enemies
+=============
+Armored Fortress Guards
+Dressed in white body armor.  Throws B-grenades at you.
+
+Armored L Soldiers
+Dressed in white body armor and fires long range lasers.
+
+Armored Missile Soldiers
+Dressed in white body armor and fires missiles out while chasing after you.
+
+Armored Soldiers
+Dressed in white body armor and fires lasers out.
+
+Black Soldiers
+Dressed all in black.  Has no special powers and can be treated like regular 
+blue soldiers.
+
+Dead Body
+The "boss" of the third mission.  It is a corpse that sits at a desk.  
+Destroy it to uncover a secret.
+
+Fake Paul and Fake Vince
+These are soldiers disguised to look like you.
+
+Fake Red Soldier
+This guy looks just like a real red soldier.  However, he leaves no item 
+behind.  He'll also just stand stationary for a bit and just look around.
+
+Green Soldier
+These guys are rare and act like red soldiers.  They leave behind only one 
+specific item.
+
+Killer Bees
+Blue bees that fly at you
+
+Macho Men
+These guys move up and down, left and right swinging their clubs.
+
+Oil Drum Soldiers
+Hides inside steel oil drums and will shoot fire bullets out.
+
+Red Soldiers
+These guys move a few feet, pause, and then move again.  They will also fire 
+shots out.  They leave items behind when killed.
+
+Scorpions
+Will try to sting you.
+
+Skull Face
+Final enemy that is a big face against a wall.  It spits out red orbs that 
+explode like B-grenades.
+
+Task Force Soldiers
+These guys have shields to protect against bullets.  They move around like 
+the macho men and also take two grenades to kill.
+
+
+
+Enemy Vehicles/Hazards/Structures
+=================================
+Arrow Cannons
+Camouflaged to match the jungle terrain, this weapon fires arrows out.
+
+Blockades
+Small obstacle marked with a small skull and crossbones.  Rigged to explode 
+on contact.
+
+Brown Tanks
+A slow moving tank that fires either regular shots or missiles.
+
+Bunkers
+Marked with a skull and crossbones, this stone building will fire shots out 
+in three directions.
+
+Choppers
+A green chopper that fires three shots in a spread.
+
+Fortress Gates
+Giant doors that block progress through a fort.  Lined with explosives that 
+explode on contact.
+
+Green Tanks
+A faster version of the brown tank.
+
+Gun Turrets
+Small gun installations that fire shots out in a spread pattern.
+
+Homing Sensors
+A small detector that blinks will appear if you get within range.  Shortly 
+afterwards, a missile will be fired at the spot that is blinking.  The 
+missile will only fire if the detector is on screen for a few seconds.  A 
+missile that has been fired cannot be stopped.  The time before a missile 
+comes out varies between sensors.
+
+Land Mines
+Small gray boxes marked with "X"'s that explode on contact.  Mines can also 
+be found in the water.  They will move towards the player while in water.
+
+Missiles
+If you take too long to move the screen forward, missiles will be fired at 
+you.  This is useful to get out of places that you get stuck in like walls or 
+other obstacles.
+
+Moving Cannons
+Small cannon that moves along ceiling or floor tracks.
+
+Skull Doors
+Giant doors marked with a skull and crossbones that block progress through a 
+fortress.  Some doors are fake and will not open even after you destroy them.
+
+Stone Faces
+These rock carvings will fire three arrows out if you get too close.
+
+Super Tanks
+The most powerful tank of them all.  These will fire larger shots which 
+explode with B-grenade power.  They also take twice the damage to destroy as 
+opposed to regular tanks.
+
+Yellow Tanks
+Can move or be stationary.  Moving ones are identical to brown tanks.  
+Stationary ones fire missiles.
+
+
+=============================================================================
+ VIII.  WALKTHROUGH
+=============================================================================
+How to use this walkthrough
+===========================
+This walkthrough will guide you through the entire game from start to finish.  
+I will be using strategies according to how I play the game.  This does not 
+mean that I always take the best path possible although I try to.  The 
+walkthrough is divided into the four main areas.  Each area is further 
+subdivided into its different gates.  You'll know that you are at a gate 
+because the music changes.
+
+I assume that the reader already is familiar with the controls of the game 
+(see section "Controls") so I will not spend time explaining the controls.  I 
+also strongly advise that the reader be familiar with the enemies in the game 
+(see section "Enemies").  There is no official name for the enemies but I 
+refer to the different types constantly and it will be necessary to know my 
+naming convention in order to follow the strategy correctly.
+
+While dying is almost inevitable, it is possible albeit very difficult, to 
+finish the game without dying at all.  The strategies that I use don't depend 
+on having a powered up character although having one will make surviving and 
+hence winning a whole lot easier.  The walkthrough is intended to be used for 
+one player games but it can be adapted for use with two players too.  Just 
+follow the same strategy but make minor changes here and there like sharing a 
+vehicle (see "Secrets" section below on how to share a vehicle).  The second 
+player should make it easier since there is another person killing soldiers.  
+This walkthrough is intended to be read from start to finish so I can't 
+guarantee that all the strategies will work if you don't follow it from start 
+to finish.  Use as little/much as you need.
+
+Forward movement
+----------------
+Since the game encourages you to always be moving the screen forward, I 
+expect the user to also do be moving at a reasonable rate.  Reasonable in 
+this case means that you do not wait for the missiles to be fired although 
+there are some cases where this cannot be avoided.
+
+Hidden Items
+------------
+There are many hidden items in the game and I will try my best to find them 
+all.  It is to be expected that I may have missed some hidden items so do not 
+be worried if you unexpectedly find a hidden item that is not covered in the 
+walkthrough.
+
+Notation/Terminology
+--------------------
+Since the entire game is played with you moving north, I won't say to move 
+north or move up all the time.  I may say to "move forward" which should be 
+interpreted as moving north.
+
+When I refer state to move to the left, right, and center, I am talking about 
+moving east or west.  Movement going north and south will only scroll the 
+screen forward.
+
+Destroying enemy tanks will sometimes yield tanks that you can enter.  These 
+tank appearances are random.  I assume that the reader knows to enter them 
+when they appear and only if necessary (i.e. don't enter a tank if you 
+already have one).
+
+
+                       ##############################
+                       ##          Area 1          ##
+                       ##############################
+
+Start
+=====
+Your plane has just crashed.  Ok, it's time for Paul and Vince, our Ikari 
+Warriors, to fight their way through enemy territory.  Start your mission 
+with your guns blazing if you want.
+
+Just head up.  You don't have to shoot enemies yet because they don't shoot 
+and will run away after getting too close to you.  These are known as coward 
+soldiers.  You'll soon come to an enemy gun turret towards the left side.  It 
+will be firing a stream of three bullets.  You should be able to see a safe 
+spot to stand in between the middle and right shots that it fires.  Stand 
+there and toss a grenade to destroy the turret.  Watch out for enemy soldiers 
+now because the regular soldiers will shoot at you.  Shoot them if they get 
+too close for comfort.  The turret drops grenades.  Pick it up and continue 
+forward.  Start shooting enemies that you encounter.  While only one or two 
+will fire at you, it is best that you get accustomed to shooting enemies 
+quickly and efficiently now.  They may not all be firing for the time being, 
+but they will be soon enough so it's important to get as much practice as you 
+can.  Try to be able to fire in three directions quickly just like the gun 
+turret did.  Mastering this tactic will keep you alive longer.
+
+Keep going up and you'll soon see two tanks.  Enter one of them (press the A 
+button when you are on top of the tank).  Tanks need fuel to run so that is 
+shown by the gas tank icon below the grenades.  The number is how many 
+seconds you have before the tank runs out of gas.  In Ikari Warriors, running 
+out of fuel will cause tanks to self destruct.  Therefore, you will need to 
+grab fuel canisters along the way to keep yourself from running out of gas.  
+Tanks are bullet-proof and can run over soldiers.  However, they are 
+vulnerable to everything else ranging from grenades, mines, missiles, and 
+flames to arrows and explosions.
+
+Now that you are in a tank, you can destroy the other one for points if you 
+wish (or to keep the second player from getting a tank).  I'll assume that 
+you are in a tank for the next few areas.  While it isn't necessary for you 
+to be in one, you will tend to live longer and get farther than you would 
+without one.  Now move up and you'll see a red soldier.  These guys will drop 
+powerup items if you kill them directly.  This can be done either by firing 
+at, grenading, or running them over.  They will not drop anything if they die 
+from a secondary attack such as the explosion from a destroyed gun turret.  
+The red soldiers will run away if they get too close to you.  Fire at them 
+before this happens.  They will always run north.  This can be used to your 
+advantage by positioning yourself above them and then turning around and 
+firing as they run at you.  This is more of a show-off move rather than being 
+particularly useful.
+
+Kill the red soldier before he runs away.  He will drop an F.  Get it to 
+upgrade your shots so that they now go over walls and other obstacles.  They 
+won't stop after hitting a target.  They can even destroy gun turrets and 
+bunkers.  Your tank shells will also be upgraded to missiles.  Move to the 
+right side now.  Head up.  You'll soon see another red soldier.  He also 
+drops an F.  Move up and you'll see a bunker.  Destroy it with grenades or 
+tank shells.  It will leave fuel behind.  Be careful not to run your tank 
+into the explosion.  Get the fuel.  Right after the fuel will be a green 
+soldier.  He will appear and run away quickly so shoot him when he appears.  
+He'll drop a K behind.  Grab it to kill everyone on the screen which should 
+be a total of four soldiers.  This takes out the two flame thrower soldiers 
+on the left side.  Now head up and you'll see a blue soldier run down at you.  
+Kill him quickly because he is a grenade soldier.  Move towards him if you 
+are in a tank to avoid the grenades.  Move up and you'll face two red 
+soldiers.  They drop an S and an L respectively.  S will increase your 
+shots' speed while L makes your shots long range.
+
+Now head up the middle and fire while doing so.  You'll face a few grenade 
+soldiers.  You'll come to a stone face.  It will fire arrows out if you get 
+too close.  Never stand directly in front of it or the center arrow that it 
+fires will hit you.  Stand to one side of its mouth.  Then move close enough 
+that it starts firing arrows.  The arrows will miss.  Now destroy the face by 
+firing from the tank or by tossing a grenade.  Right past the face will be a 
+tank that you can use.  Be careful when approaching this tank because there 
+are two land mines placed in front of it.  They are designed to kill you and 
+to destroy the tank with their explosions.  Walk around the mines and enter 
+the tank.  Head up and you'll face a brown tank.  It will move left and right 
+while firing shots at you.  You should have the advantage since you picked up 
+the long range powerup.  Fire from the tank or toss a grenade to destroy it.  
+Get the fuel that it drops.  Head up again and you'll run into a bunker.  
+Destroy it and get the fuel it leaves behind.
+
+Continue forward to run into a red soldier.  He drops an L.  Now there should 
+be a red soldier approaching you from the right.  Move up enough until he is 
+directly to your right side.  Now turn your aim to the right (hold A button 
+and press the D-pad in different directions) and wait for him to come to you.  
+Fire when he gets close enough.  He'll drop an S.  Readjust your aim north 
+and continue forward.  You'll see a bridge with two stationary shooters on 
+it.  A red soldier appears from the north.  He drops an F behind.  Now don't 
+bother adjusting your aim.  Keep it aimed north and just run over the 
+soldiers on the bridge.  Then head across the bridge to the north.  Keep 
+going until you hit the water.  Now to the left will be a red soldier moving 
+towards you.  Quickly turn your aim left and let the soldier approach.  Kill 
+him when he gets out of the water and back on land.  He'll drop a B.  Grab 
+it.  B-grenades are very powerful.  Now you have a fairly powerful character.  
+Fire at the gun turret from afar to destroy it.  It leaves bullets behind.  
+Now to the left of the gun turret is a flame thrower soldier.  Shoot him from 
+a safe distance.  Don't pass him or he'll become a grenade soldier and chase 
+after you.
+
+Now head up across the suspension bridge.  Stay in the center of the bridge 
+to avoid the land mines to the right side.  Keep firing away as you move.  
+Your B-grenades and missiles will take out all comers.  You'll kill some red 
+soldiers while doing this.  They'll drop an F and a B.  You'll then see a 
+blockade at the end of the bridge.  Destroy it to find some bullets and 
+grenades.  Head up and you'll face kamikaze soldiers.  Kill them as soon as 
+possible because they will not run away if they get near.  Actually, they 
+will pursue you until they ultimately kill both you and themselves by 
+touching you.  Some of them even fire shots as they chase you.  You'll fight 
+a red soldier afterwards.  He drops an S.  Continue forward and you'll run 
+into missile soldiers.  Take them out from a distance.
+
+Then head forward and you'll see the first fortress gate.  There are two 
+fortress soldiers on either side of the gate.  They are armed with B-grenades 
+and will use them if you get too close.  Their attack range is just smaller 
+than your grenade range so get close to them and grenade them.  Your powered 
+up tank should have no problem taking them out.  Never attack the fortress 
+soldiers diagonally unless you have no other choice because their diagonal 
+attack range is greater than your diagonal grenade's range.  Take out the 
+gate once the fortress soldiers are dead.  You can simply run through it with 
+a tank.  Don't stop or you'll get caught in the explosion.  The safer and 
+preferred method is to toss a grenade or fire from the tank.  The gate leaves 
+bullets and grenades behind.  Head on up through gate 1.
+
+
+Gate 1
+======
+Now above you is a bunker and a tank that you can enter.  Take out the bunker 
+first.  It leaves fuel behind.  Then enter the tank even if you already have 
+one because it will start off with a fresh tank of gas.  Head up and you'll 
+see a green tank.  This tank is an upgraded version of the brown tank that 
+you encountered earlier because it moves a lot faster.  It still fires the 
+same shots but these shots can still kill you so quickly move backward once 
+it appears.  You should be able to avoid getting hit.  Now get within grenade 
+range and destroy the tank.  Then continue forward.  Watch out for a land 
+mine near the water.  Now head up on the land until you see the next green 
+tank.  It will be moving across a bridge.  Take it out fast.  Now you'll see 
+two tanks on the left side that you can enter.  Don't get too anxious yet.  
+Go across the bridge and you'll see a bunker.  Take the bunker out first 
+before you enter the tanks.  It leaves fuel behind that is just perfect for 
+the tanks.
+
+There is a catch to the fuel though.  A homing sensor is placed near the 
+location of the fuel.  The sensor will summon a homing missile very quickly 
+so grab the fuel and then move backwards.  You will be able to avoid the 
+missile's explosion.  Now get back to the right side by using the bridge.  
+Head up and you'll encounter a brown tank.  Destroy it.  Head up a little 
+more to fight another brown tank from the left side.  Get out of its range 
+and destroy it from a safe distance.  What looks like a red soldier will 
+appear as well.  This is actually fake red soldier.  He is fake because he 
+leaves no item behind and dies like all the other soldiers (i.e. body flies 
+away).  Continue forward and you'll see three real red soldiers.  They drop 
+an S and two L's respectively.  The red soldiers are accompanied by grenade 
+soldiers so take out the grenade soldiers first.  Letting the red soldiers 
+escape is better than losing a tank simply because you didn't kill the 
+grenade soldier first.  Head up and you face more grenade soldiers.  Take 
+them out quickly.  Now stay in the center of the screen.  You should hear a 
+"choop" sound as you head up.  Then a super tank appears.  This piece of 
+heavy artillery will fire B-shells out.  It will take two regular 
+grenades/tank shots or one B-grenade to defeat the super tank.  Stay out of 
+its firing path and quickly destroy it.  You'll need to time your grenades 
+throws here because the tank moves pretty fast.
+
+Continue up and you'll see a fortress soldier to the left.  I recommend that 
+you kill him because he'll be a nuisance later.  Now head up and you'll be at 
+the foot of the second gate.  Deal with it like before by taking out the 
+fortress soldiers first.  Then destroy the gate to get fuel.  Now above you 
+are two soldiers, one on each side.  They are both self destruct soldiers so 
+kill them fast or they will explode when they get near you.  This applies 
+even if you are in a tank so just kill them.  I suggest killing the right 
+side one first because he is closer than the left side one.  Now there is 
+another gate to destroy.  Take it out the same way as usual by killing off 
+the fortress guards first and the gate later.  You should be starting to get 
+the hang of it now.  I shouldn't have to remind you that the fortress guards 
+are armed with B-grenades but I'll do so anyway.  Get the fuel that the gate 
+leaves behind.  Then go up through gate 2.
+
+
+Gate 2
+======
+Head up and you'll see three rocks in a triangle formation.  Do not, I 
+repeat, do not go to the left side of the center rock.  There is a homing 
+sensor placed between the left and center rocks that will kill you if you 
+charge in there.  Go either to the far left side or the right side instead.  
+You'll now see a bunker.  Just destroy it while being careful to avoid 
+activating the homing sensor.  The bunker leaves behind bullets and fuel.  
+There is a homing sensor placed by the bullets and fuel so be extra careful 
+as you grab it.  Stick to the right side and head up until you see a blockade 
+by a bridge.  Don't blow it up yet.  Move up until you see a red soldier 
+appear.  Now wait for him to walk past the blockade before shooting him.  If 
+you had destroyed the blockade, the red soldier would have died via a 
+secondary effect (the blockade's explosion) and would not have dropped 
+anything.  The soldier leaves an F behind.  The blockade drops bullets.  
+Continue forward again.  Watch out for the soldiers in the area as a few of 
+them are kamikaze soldiers.  You should be able to tell them apart from the 
+other blue soldiers by the way they walk.  Another red soldier will appear as 
+you head forward.  Kill him for a B.
+
+Now head across the bridge and destroy the bunker at the left side.  You'll 
+get grenades and fuel.  There's a homing sensor planted under the fuel so 
+don't stop moving after you pick it up.  There are a few kamikaze soldiers 
+that will appear from the left side so take them out.  If you still have the 
+tank, you have to get out now.  Do so only when you've taken out the enemies 
+on the screen.  Then go to the center of the screen and try to stay to the 
+right side.  Head up and you'll see two self destruct soldiers swimming 
+diagonally to you from both sides.  You can only kill them if they surface 
+for air so make your shots count.  Quickly take them both out with grenades 
+and/or shots.  I personally kill the left soldier by shooting diagonally at 
+him.  Then I quickly move to the right so that the right soldier is directly 
+to my north and shoot him then.  If you fail to kill them before they get 
+within self destruct range then you will die unless you have the super speed 
+(SS) powerup.  Continue forward after you kill them.  Keep moving to avoid 
+the land mines that are following you.  Now in the center is a stationary 
+shooter.  Stand to the right side of his center line of fire and toss a 
+grenade to kill him.  It may be difficult to do with the mine chasing you so 
+first get past the mine before you try to get to the shooter's right side.
+
+Now above you is a gray chopper.  Do NOT grenade it or you will destroy a 
+valuable vehicle and the easiest way to beat the next part.  Approach it from 
+the chopper's direct south.  There are two land mines placed around the 
+chopper.  If the mines explode, then kiss that chopper goodbye.  You will 
+avoid the mines if you approached from the direct south.  Don't forget to 
+keep firing shots (but not grenades) to defend against oncoming enemy 
+soldiers.  Enter the chopper (press the A button) after you get to it.  You 
+have 28 seconds of fuel.  Now head forward and do not stop for anything and I 
+mean ANYTHING!  Do not engage the enemy.  Do not blow up enemy choppers or 
+you'll be destroyed in their explosion.  Do not touch land mines because they 
+can still kill you even if you're in a chopper.  Do not destroy the bunkers 
+because they don't provide fuel (the first one has bullets and grenades while 
+the second one has nothing).  Just keep pressing UP to head forward and B to 
+keep firing.  Don't press A or you might accidentally destroy an enemy 
+chopper and get caught in the subsequent explosion.  You can safely touch 
+enemy choppers so just fly through them.  You'll encounter 4 red soldiers as 
+you fly up.  They drop two B's and two F's between them.  You will kill the 
+first two as you fly up because they are in your flight path.  As you can 
+see, you would have had to fight your way through hordes of stationary 
+shooters if you didn't have the chopper.  If you don't have the chopper then 
+slowly kill the stationary shooters one by one and move slowly.
+
+Keep flying up and you'll then see a green soldier.  Do not kill him yet.  
+Just keep flying up and you'll chase after him.  Try to fly northeast (press 
+UP and RIGHT) until you are directly behind him.  You'll eventually see land.  
+Kill the soldier the second you see land or you can wait until you see the 
+first fortress wall but it's not necessary to wait that long.  Then fly up 
+but don't get the K that the soldier dropped.  Head up and you'll see two 
+stationary shooters.  Stop and get the K when you see them.  You will 
+probably take out everyone.  If a kamikaze soldier avoided the K by staying 
+underwater, then quickly touch him with the chopper or shoot him.  Then get 
+out and away from the chopper before it self destructs.  Destroy the gate and 
+you'll get bullets and grenades.  Then head through gate 3.
+
+
+Gate 3
+======
+Head forward and you'll see a tank.  Two red soldiers attack you.  Don't use 
+grenades or you'll destroy the tank.  Shoot the left one first.  Then run 
+south.  The right soldier should get caught in the fortress wall.  Now shoot 
+him if you have fire bullets.  Grenade him if and only if you have regular 
+grenades.  B-grenades will destroy the tank.  Now get the F and B that the 
+soldiers dropped.  Enter the tank quickly because two more red soldiers will 
+attack you.  Kill them to get another F and another B.  Head up along the 
+center of the screen and fire away as you move.  You'll destroy two brown 
+tanks that appear near the center of the screen.  Now try not to lose the 
+tank because you are armed with B-missiles which will make this next part 
+very easy to pass.  Head up and you'll see another brown tank.  Destroy it 
+from a distance.  The buildings on the left and right sides each have boarded 
+up doorways.  You can destroy the doorways with tank shots or grenades.  This 
+will get you points but is otherwise unnecessary.  Head up again and another 
+brown tank engages you.  Destroy this one and continue moving.
+
+You'll see two stationary shooters on both sides.  They can't do anything to 
+you since you're inside a tank.  So ignore them and move up to fight another 
+brown tank.  Destroy it.  Then turn your aim on the two stationary shooters 
+and shoot them to not only kill them but also to destroy the boarded 
+doorways.  Now move to the far right side and head up.  A brown tank will 
+appear towards the right side.  You should be out of its firing path as long 
+as you don't get too close to it.  Wait for an opening and fire when you see 
+it.  Now move to the center but slightly to the right.  Head up and a brown 
+tank comes down the center of the screen.  Back up and destroy it.  Then move 
+up a little and another brown tank appears.  Take it out and get the fuel 
+that it drops.  Now get in the center of the screen and fire away 
+continuously as you move.  You'll eventually fight 3 brown tanks that appear 
+in the center of the screen.  Firing away continuously will let you kill them 
+all without getting shot at.  Now go left until you are next to the grass 
+that is to the right of the left building's shadow.  If that sounds 
+confusing, then just leave a space that is a little more than half the width 
+of your tank between yourself and the left building's shadow.
+
+Head up.  Fire away if you want but don't waste all of your ammo.  You'll 
+soon see a green tank roll out at you.  Quickly take it down before it can 
+fire a shot.  Don't get caught in the explosion though.  Do not move up 
+anymore or you'll scroll the screen forward.  Go right and stand one tank 
+width away from the right building.  Now you must have B-powered shots or 
+this next trick won't work.  If you don't have B-grenades then just slowly 
+move forward and take each tank out one by one.  Otherwise, head up and fire 
+away with your tank.  Do not stop moving.  You'll destroy another green tank.  
+Keep moving up and firing.  A second green tank appears.  However, it gets 
+caught in the your shots' explosions is destroyed.  Keep moving and a third 
+tank appears.  Now the second tank's explosion will catch this tank and 
+destroy it in a chain reaction.  Continue moving up and a fourth tank 
+appears.  It will get caught in the third tank's explosion and be destroyed 
+as well.  Head up and you'll see four stone faces.  Destroy them all and get 
+the fuel in the middle.
+
+Stay to the left side of the screen and continue forward to find yourself in 
+front of what I call "the gauntlet."  This next area has arrow cannons on one 
+side and fortress guards all armed with B-grenades on the other.  As if that 
+wasn't enough, homing sensors and land mines are scattered around in the area 
+as well.  Start by going to the left side of the screen if you're not already 
+there.  Then move forward until you pass the firing path of the arrow cannon 
+to the right.  You will safely pass by before an arrow is even fired.  You'll 
+also activate two homing sensors while doing so but ignore them and move up 
+until you are out of the arrow cannon's firing path.  Stop moving up when you 
+activate a homing sensor near the left arrow cannon.  Now move right until 
+you are in the center of the screen.  The homing sensor to the left should 
+have been deactivated.  Move a little more to the right if it is not.  Now 
+the left arrow cannon is firing arrows by now.  Move up until you are as 
+close to the arrow's firing path as possible.  Then wait for it to pass by 
+and immediately move up when it does.  You should just barely pass by.  If 
+you are still in a tank then just keep moving up.  As long as you stay in the 
+center and keep moving up, you should be able to pass by the rest of the 
+arrow cannons.  You'll activate homing sensors while doing so but ignore 
+them.  This works for the most part but if you are worried or are not in a 
+tank then you'll need to move up and pass each arrow cannon one at a time.  
+You can also stand in the shadows to avoid the arrows but that requires you 
+to kill the soldiers guarding the shadows.
+
+You'll soon see two red soldiers appear to the right.  Do not chase after 
+them.  Their purpose is to lure you into the fortress soldiers' B-grenades.  
+They drop an S and L but it is not worth it.  Just keep moving up the center 
+until you clear the range of the left fortress guard's attack range.  Then 
+move to the left side until you are next to the far left wall.  Head up and 
+you'll activate a homing sensor by a triangular wall to the north.  The 
+missile comes out almost immediately after you activate the sensor so quickly 
+move through the opening to the left and up past the wall.  You'll avoid the 
+missile if you were close to the left side and reacted quickly.  Before you 
+head up, you can go right and shoot the shadows by the far right wall to find 
+a hidden knife.  You'll notice that there is a wide area of shadow under the 
+wall running horizontally and a very narrow strip of shadow by the far right 
+wall running vertically.  The knife is below the wider area of shadow.  Shoot 
+that narrow strip to find it.  The knife will be most useful against kamikaze 
+soldiers because it lets you kill enemies by touching them.  It is also one 
+of the rare hidden items in this level.
+
+Now head up and watch out for another homing missile by the wall.  You'll now 
+see flame thrower soldiers above you and a tank to the right.  Kill the 
+soldiers first.  You're probably at 50 fuel or less by now so I recommend 
+switching to the new tank to get a full tank of gas.  Head up and a gun 
+turret is in your way.  Destroy it to get bullets.  Then proceed up to a 
+suspension bridge.  Keep firing away to kill all the troops that come.  
+You'll also kill some red soldiers.  They leave two S's and two L's behind.  
+At the end of the bridge is an enemy chopper.  Be careful not to get caught 
+in its explosion as you destroy it.  Then head up and you'll face two super 
+tanks.  Stay to the side of one of the tank's firing path.  This will keep 
+both tanks firing directly south.  Now fire away if you're in a tank or use 
+grenades if you're on foot.  Destroy one tank before working on the other.  
+Head up once you've destroyed them both.
+
+You'll see a fortress.  There are two fortress guards on the right side but 
+only one on the left side.  Take out the left fortress guard out.  Then 
+scroll the screen up until you see the gate.  Stay to the left side and 
+slowly head up until you hit the north wall.  Then turn your aim northeast 
+and fire at the gate when you get close enough.  Fuel is left behind.  Head 
+through the gate.  You may activate a homing missile while doing so but only 
+if you were far back from the gate.  This shouldn't happen but I'm warning 
+you just in case.
+
+
+Gate 4
+======
+Head up and ignore the soldiers since they don't shoot.  You'll see one 
+soldier just standing in the center of the screen.  That is a fortress guard.  
+He's armed with B-grenades and will use them if you get close enough.  Take 
+him out carefully.  Then continue forward to find a bunker.  Destroy it.  
+You'll get the usual bullets and grenades.  Then go up and there are two 
+tanks for the taking.  Homing sensors are planted near each tank.  Do not get 
+the tanks unless you don't have one.  If you already are in a tank, then just 
+go the far left side around the rocks and skip them.  If you have to take a 
+tank, then get the left one because a homing sensor activates if you take the 
+right one.  Head up and you'll find a bunker and a missile soldier.  Destroy 
+the bunker to get bullets and grenades.  The missile soldier will die from 
+the bunker's explosion.  Now a red soldier appears.  Kill him for an F.  Head 
+up and two soldiers appear on either side of the topmost rock.  These are 
+both self destruct soldiers.  They can destroy tanks so kill them quickly.  I 
+recommend retreating backwards and then moving left to kill the left soldier.  
+Then turn your aim northeast to take out the right one.
+
+Head up to the water's edge next.  A kamikaze soldier will appear.  Don't 
+bother wasting ammo on him.  Just let him run into your tank and he'll kill 
+himself.  This is a handy little trick that will save you from many a 
+soldier.  Now get out of the tank and head up.  Do not scroll the tank off 
+the bottom of the screen.  Another kamikaze soldier comes at you.  You 
+probably already knew that since he was diving underwater.  Well just run 
+back to your tank and get in.  Let the soldier walk right to his death.  Then 
+get out and head up the middle.  Take out soldiers that get too close for 
+comfort or are in your attack radius.  If you have B-grenades, then use them.  
+You'll soon be attacked by a self destruct soldier from the northwest.  Turn 
+your aim diagonally northwest and take him out.  Then head up again.  Two 
+more self destruct soldiers will appear, this time from the right side.  
+Adjust your aim and shoot and grenade them.  Then head up again and a 
+kamikaze soldier attacks from the center.  Kill him and then continue 
+forward.  You'll see two arrow cannons in front of a fortress.  Move near the 
+first arrow cannon until it fires.  Then get your head close enough to the 
+arrows' firing path and wait.  Let an arrow pass and then immediately run 
+past the firing path.  You should make it without major problem.  Now grenade 
+the gate to destroy it.  It leaves bullets and grenades behind.  Then move up 
+and pass the other arrow cannon when you see the opportunity arise.
+
+
+Gate 5
+======
+Head up slowly.  Keep moving slowly until you see a self destruct soldier 
+appear.  Now run back and hide behind the left fortress wall.  The soldier 
+will get stuck against the wall where you can safely grenade him.  Head up 
+slowly until you see another self destruct soldier appear.  A fake red 
+soldier will also appear.  Ignore the red soldier and run back behind the 
+right fortress wall.  The self destruct soldier will also get caught against 
+the wall.  Grenade him and then move up again.  A kamikaze soldier will 
+appear.  Take him out quickly.  Then stay in the middle and head up to face 
+one more self destruct soldier.  Quickly shoot or grenade him.  Now move to 
+the far right side of the screen.  Then head up.  A lot of coward soldiers 
+will appear but ignore them.  Keep moving up.  You'll see an arrow cannon to 
+the left.  You'll also see a kamikaze soldier appear from the center.  
+However, since you were at the far right side, he'll get himself caught 
+against the rock in the water.  Now grenade him from a safe distance.  Then 
+head up the rock's right side to avoid the arrows.  You'll see a self 
+destruct soldier appear from the center.  Quickly run back and stand south of 
+the rock when you see the soldier.  If done correctly, he will be caught 
+against the rock where you can safely grenade him.
+
+Stand against the far right side again and head up.  Another self destruct 
+soldier will appear from the far right side.  Stop moving and just keep 
+firing north at him.  You will kill him before he gets close enough to 
+explode.  Continue going forward.  You'll soon encounter another self 
+destruct soldier.  This one approaches from the left side.  Adjust your aim, 
+stop, wait, and fire away.  You should be able to take him out.  Then head up 
+the middle.  You'll see a tank to the left and a gun turret in the middle.  
+Destroy the gun turret first.  Get the bullets it leaves.  Then enter the 
+tank and go across the suspension bridge.  Keep firing as you go.  You'll 
+take out two red soldiers who drop an L and an F behind.  Don't stop moving 
+as you go across the bridge because it is rigged with two homing sensors that 
+detonate soon after you activate them.  You'll now be facing a lot of blue 
+soldiers and red soldiers.  Some of the blue soldiers are grenade soldiers 
+and some are kamikaze soldiers so fire away at them all.  Shoot the ones far 
+away while you move left or right to dodge the grenades.  Run over the ones 
+closer to you.  The red soldiers will drop an L and an F each.  Head up and 
+you'll see red fortress walls.  This means you're almost at the end of area 
+1.  Don't get careless now.  Take out the fortress guards on both sides.  
+Then head up to the gate and kill the guards around the gate.  Destroy the 
+gate to find fuel.  Head up through it.
+
+
+Gate 6
+======
+You'll see another gate and another fortress guard.  A brown tank lies in 
+wait behind the gate but it can't reach you.  You can reach it though.  First 
+take out the guard by standing against the south gate wall and tossing a 
+grenade at him.  Then destroy the gate for some grenades.  Now stand against 
+the north fortress wall and toss a grenade at the tank.  It will reach the 
+tank and destroy it.  Now head up.  There are two more fortress guards and 
+another gate.  Take out the right guard first.  Then kill the left one.  Take 
+out the gate last.  Head up and you'll see another guard, another gate, and 
+another brown tank.  However, this tank is armed with missiles meaning that 
+it can hit you over the wall.  You'll need to be extra careful.  I suggest 
+moving to the left side and taking out the tank first.  Then kill the 
+fortress guard.  Take out the gate last.  Get the bullets it leaves behind.  
+Head up to find yet another gate and another pair of fortress guards.  Take 
+them out like usual and head on up through the gate.
+
+A gun turret blocks your path.  Clear it away with some grenades or tank 
+shots.  Then head up.  Another gate and three fortress guards stand in your 
+way.  Kill the lower left guard first.  Then take out the ones around the 
+gate.  Destroy the gate.  Now look to the right and you should spot a patch 
+of grass below the right wall.  Shoot that patch to find a hidden heart.  
+This heart will let you retain your powerups after one death.  Now go through 
+the gate and pick up the fuel on the way.  You'll face fortress guards on 
+both sides.  To the north are two stationary shooters.  If you have a tank 
+then simply stay in the direct center of the area and run up to the end of 
+the level.  Don't worry about the gate.  Just run through it with the tank.  
+You'll escape the explosion.  If you are not in the dead center of the area 
+then the fortress guards on either side will be able to hit you with their 
+grenades.
+
+If you don't have a tank then it will be a lot harder to pass this area.  
+You'll want to take out the two stationary shooters.  Doing so requires a hit 
+and run tactic.  We'll take out the left one first.  What you will be doing 
+is to stand next to his firing path, run up, and grenade him.  As you run up, 
+the left guard will toss a grenade at you.  Your grenade should have been 
+tossed before the guard tossed his.  Now you'll turn away from the fortress 
+guard and run away to avoid the grenade explosion.  You will get away if you 
+had perfect timing.  This is not easy to do so don't be surprised if you die.  
+Now that you know what to do, here's how to do it.  First, look at the mines 
+rigged in front of the gate to the north.  You'll see three mines.  Stand 
+under the center mine.  Now study the left stationary shooter's firing range 
+and note the safe spot between the center and right bullet streams.  You are 
+going to move in a circle going clockwise from the spot you are at now.  
+Throw your grenade during this clockwise movement.  You should be able to hit 
+the shooter with your grenade and escape the wrath of the left fortress 
+guard.
+
+Now let's deal with the other stationary shooter.  Stand to the left of his 
+center line of fire.  Now you will move up in an counterclockwise circle.  
+Toss your grenade during this movement.  You should be able to take out the 
+shooter and escape the right fortress guard's grenade explosion.  Now that 
+the opposition is dead, just stay in the center of the area and head up.  
+You'll activate a homing sensor.  Toss a grenade at the gate and then retreat 
+to avoid the missile that comes.  The missile will hit very soon so get back.  
+Then head up through the gate to finish area 1 and get 10,000 bonus points.  
+You should have 100,000 points or more if you didn't continue yet.
+
+
+
+                       ##############################
+                       ##          Area 2          ##
+                       ##############################
+
+Start
+=====
+You'll begin area 2 without any powerups unless you grabbed a heart from area 
+1.  If you didn't have a heart when you finished area 1, then say goodbye to 
+your powerups.  If you did grab a heart, you will keep everything but you'll 
+lose everything if you die once.  Therefore, proceed carefully until you find 
+another heart.  If you had nothing when you finished the last mission, then 
+the loss isn't so bad but still be on guard as you proceed.
+
+You'll be in the center of a rock formation.  Head up and you'll see a brown 
+tank.  It will approach you from near the center of the passage.  Grenade it 
+and move on.  You'll fight another tank that appears close to the center.  
+Destroy it and stand on the path that the tank was moving along.  Then take a 
+few steps forward.  You'll encounter a red soldier that appears on the same 
+path as the last brown tank.  Kill him to get an L.  Continue forward and 
+you'll fight a handful of regular soldiers.  Kill them or avoid them.  Then 
+keep moving along.  You can destroy the doorways of the buildings on either 
+side for points but that is up to you.  Now get ready.  Two red soldiers will 
+appear from the center as you pass by the doorways of the buildings.  Killing 
+both of them will not be necessary because they each drop B's.  Just kill the 
+one closest to you.  Watch out for their shots because they will kill you if 
+you aren't prepared.  Now head up and you'll see two missile soldiers 
+guarding a gun turret.  Do not approach or even get near the left one because 
+he is a homing missile soldier.  He fires missiles that chase after you and 
+are almost impossible to outrun.  He will fire them only if you get near him 
+so keep away.  B-grenade him if you have them otherwise just go to the right 
+side and take out the regular missile soldier.  Then destroy the gun turret 
+from an angle or stand to the right side and grenade from there.
+
+Head forward and you'll change the homing missile soldier into a grenade 
+soldier.  Now he is less of a threat so kill him.  Then get the bullets left 
+by the gun turret.  Head up across the suspension bridge.  You'll face the 
+usual coward soldiers as you head across.  Stay in the center of the bridge 
+to avoid land mines.  You'll hear a "choop" sound as you get near the first 
+mine.  That should clue you in on what you'll be facing next.  A super tank 
+will appear as you pass the second mine.  Quickly move to one side to avoid 
+its shot.  Then you'll notice four gray bars on the screen.  Stay below the 
+bottom two gray bars and you won't get run over by the super tank.  Now just 
+grenade away to destroy it.  Then continue forward across the bridge.  Stay 
+on the right side of the bridge.  You'll soon activate a land mine on the 
+left side of the bridge.  Keep moving up until you are directly to the right 
+of the mine (or between the middle set of the bridge's suspension cables).  
+Then an enemy chopper will appear left of the bridge.  Do not move and let it 
+pass by you.  It will fire a round of shots at you but they will miss and the 
+chopper will fly harmlessly by.
+
+Now keep an eye on the last pair of bridge suspension cables (the gray wires 
+connecting the wooden bridge and the long brown poles).  Another chopper will 
+appear right as you get next to the last pair of cables.  Now that you know 
+when it will appear, here's how to defeat it.  Just toss a grenade right as 
+you pass the cables.  It should land square on the chopper if you threw it at 
+the right moment.  Now head up and you'll see two soldiers underwater rushing 
+towards you.  B-grenades will serve you well here if you have them.  Kill the 
+left one first because he is a self destruct soldier.  Then quickly kill the 
+right one because he is a kamikaze soldier.  Ignore the fake red soldier.  
+Now stand above the left gray bar.  Then look at the top edge of the ground.  
+You'll notice that it is primarily flat and then it curves inward at the far 
+left side.  Shoot the ground south of this curve to uncover a hidden knife.
+
+Now head into the water.  Stay in the center of the screen.  You'll face some 
+regular soldiers.  You'll soon see a soldier approaching you from beneath the 
+water.  He is a self destruct soldier but since you were already in the 
+center of the screen, killing him should be easy.  Keep heading down the 
+center.  You'll come across a red soldier that appears in the center.  Shoot 
+him to get an L.  Then you'll see a bunker to the left.  Head over to it and 
+grenade it.  It leaves bullets and grenades behind.  Now you'll be on dry 
+land again.  Follow it as it winds to the right side.  There are some green 
+trees on the right side.  Stand next to them and head up.  Keep your eyes on 
+the green patch of grass (it's bigger than the smaller green spots) above 
+you.  A green tank will attack you as you pass the green patch.  Head back to 
+it as the tank appears.  That spot is safe from the tank's shots.  Now 
+destroy the tank with a grenade and then head up.
+
+Skip the first wooden bridge because there's a homing sensor placed at the 
+bridge's left end.  You'll see two blockades.  Destroy them both to get 
+bullets, grenades, and fuel.  A red soldier will appear as you get the items.  
+He is the most dangerous foe in the immediate area because of his firing 
+rate.  He drops an F.  Some of the soldiers in the river are kamikaze 
+soldiers so take them out.  You'll know it's them because of their erratic 
+walking pattern.  Hopefully you still have the knife powerup from earlier.  
+Kill them off and go to the right side before you head up.  A chopper appears 
+on the left side.  It can't reach you so move along.  Keep going up and 
+you'll see a soldier swimming towards you under the water.  He's a self 
+destruct soldier so I recommend that you stop moving once you see him.  Then 
+turn, aim, and keep firing.  Doing this will improve your chances of killing 
+him.  Now take a few steps over to the left so that you're not directly 
+against the far right edge of the screen.  Head up and another self destruct 
+soldier appears.  You won't have much time to kill him so I hope that your 
+aim is good.
+
+Continue forward and you'll see a red soldier.  Just watch out for his shots 
+and grenade or shoot him.  He'll drop a B behind.  Keep heading north and 
+you'll fight another self destruct soldier.  You should be very familiar with 
+the tactics used to defeat him by now which is to simply kill him as quickly 
+as possible.  If you haven't already noticed, there is more than one angle 
+that you can fire at when you face diagonally.  There is the typical 45 
+degree shot and a steeper 60 degree shot.  Being able to adjust quickly for 
+each will be a lifesaver.  Hopefully you haven't moved too far up that you 
+can see a soldier on the fortress wall to the left.  If so, then you should 
+be able to see the start of the fortress wall to the left.  If you don't see 
+it, then move up slowly until you do.  Eventually you should be able to spot 
+pipes on the right side of the wall.  Stand directly south of these pipes and 
+head up.  You'll see what appears to be a fortress guard.  However, he is not 
+a fortress guard.  No, he's more dangerous because he's an FL soldier.  
+What's an FL soldier?  Well, FL soldiers are equipped with F and L powerups 
+so their shots are red like yours after you grab the F powerup and long-range 
+thanks to the L powerup.  Don't worry about the F powerup that these soldiers 
+have because it only takes 1 shot to kill you anyway.  Tanks are able to stop 
+these bullets so the F powerup does them no good in that case.  The good news 
+is that the firing rate of FL soldiers is slow and they only fire single 
+shots at a time.  Since you stood under the pipes, you will be safe from his 
+line of fire.  Simply get within grenade range and let him have it.
+
+Then head up to find a gate.  The usual fortress guards will be around the 
+gate.  Take them down first.  Then destroy the gate.  Get the bullets left 
+behind and head up.  You will see another fortress guard on the wall to the 
+north.  Kill him and then turn left until you are facing the left side.  
+You'll see a path that looks like a dead end.  Shoot the ground to uncover 
+some gold bars.  Gold bars give you 5,000 extra points so get it and then 
+destroy the gate to the right.  It leaves grenades behind.  Head up and kill 
+the right fortress guard.  Then head left but stay as far to the south along 
+the south fortress wall to avoid getting grenaded by the other fortress 
+guard.  Watch out for a land mine in the middle.  Take out the guard and the 
+gate afterward.  You'll get some bullets.
+
+
+Gate 1
+======
+Head up and you'll face a macho man (he swings a club).  His only attack is 
+to run around and hit you.  He takes one B-grenade or two regular grenades to 
+kill.  You can also fire 10 F bullets at him as well.  It's hard to hit him 
+with two grenades so unless you have B-grenades I recommend avoiding him.  
+You will face two red soldiers afterwards.  They drop an F and L 
+respectively.  Continue up and you'll face a stationary shooter on the right 
+side.  You can just stay out of his way but killing him will make the next 
+part easier.  Head up and you'll face a brown tank.  You'll also see a tank 
+that you can use on the left side.  Killing the brown tank will be easy if 
+you took out the stationary shooter.
+
+Now head up and you'll see another tank that you can take for a total of two 
+tanks.  You'll also see a stone face by the tanks.  As you can imagine, 
+destroying the stone face will trigger a chain reaction that will destroy 
+both tanks.  So how do you get the tanks?  Well, you only need one so you'll 
+be taking the top tank.  Just stay on the far left side and head up.  The 
+arrows from the face will all miss.  Now enter the top tank.  Then move a 
+safe distance from the face if you are going to destroy either it or the tank 
+below so that you yourself don't get caught in the subsequent explosion.  
+Then head up and you'll see more stone faces.  There are four altogether.  
+Destroy them all but don't get caught in their explosions.  Continue forward 
+and you'll notice light colored spots in the ground.  If you don't then 
+you're probably not in a tank because these spots will only prevent tanks 
+from moving forward.  These "spots" are marshes.  What you need to do here is 
+to maneuver your tank around the marshes.  A good way to do this is to move 
+up and along the far left rock.  Then head across the bridge.  Shoot the 
+southwest corner of the center rock after you cross the bridge to uncover a 
+gold clock.  This item adds 2,000 points to your total.
+
+Now head up by going through the two rocks farthest to the left.  You'll see 
+a fortress guard.  I suggest getting out of the tank (if you have one) and 
+killing him on foot to save fuel.  There are three paths to choose from.  All 
+lead to the same place but tanks can only use the right path so take that 
+path if you're in a tank.  The marshes can be tricky to get through but keep 
+trying until you get past them.  You will see another fortress guard halfway 
+up the right path.  Kill him before you go any further.  Then head up and 
+you'll see two fortress guards, one on each side.  Kill the right one first.  
+Then go to the left and take out the one there.  Now stand against the left 
+fortress wall.  Then fire north to uncover a hidden heart.  This item lets 
+you retain all of your powerups after you die but for one death only.  
+Destroy the gate but be on guard for the homing sensor placed in front of the 
+gate.  Quickly head up and grab the fuel left behind.  Head through the gate 
+and fire away.
+
+
+Gate 2
+======
+The next area is full of grenade soldiers.  There are two red soldiers and a 
+macho man as well.  The red soldiers drop an F and a B.  If you kill the 
+macho man, the resulting explosion will kill off a red soldier.  Focus on 
+killing the red soldiers first.  Then take out the grenade soldiers.  
+Avoiding the macho man is the least important thing to worry about here.  Now 
+head up and kill the grenade soldiers.  You'll now come across some canopy.  
+You should spot 5 "notches" in the southern part of the canopy.  Shoot the 
+canopy on the right next to the second notch from the left to uncover a 
+hidden triple shot (looks like 3 dots).  This lets you fire three shots out 
+at once.  However, it can not be upgraded so do not get it unless you have no 
+powerups already.  Now shoot the canopy north of the second notch from the 
+right to find a hidden heart.  Then head up.  You'll face regular soldiers.  
+Then you'll see a river running horizontally.  Two red soldiers come out and 
+attack.  They drop a B and F behind.  Go across the bridge.  You'll see 
+something flashing under the canopy to the north.  That flashing object is a 
+tank that you can use.  Since it is a fresh tank, it will have max fuel so I 
+suggest that you switch tanks to get a full tank of gas.
+
+Head north until you see some walls.  This next area is full of walls that 
+block your path.  Fortunately, these walls that block your path can be 
+destroyed with a grenade.  It is pretty obvious where most are.  The center 
+path to your north is blocked by a wall.  You can destroy this wall by 
+grenading it.  The wall will drop fuel behind.  Now go up the middle path 
+until you hit the next wall.  Face left and fire at the far left shadows.  
+You'll uncover a hidden gold box.  It adds 1,000 points to your score.  Now 
+the wall to the right is blocking the path so destroy it.  Just be careful 
+not to get hit by the grenade soldier on the other side.  Then head up 
+through the right path.  Your progress forward will soon be stopped by a long 
+wall that runs halfway across the screen.  Notice how the left edge of the 
+wall is slanted?  Well that should tip you off that the right side can be 
+grenaded.  This is the case sure enough.
+
+Head up and another equally long wall blocks your path.  Grenade the center 
+of this wall to create an opening through.  Now you have two choices here.  
+You can take the right path by going through the opening that you just 
+created or take the left path that is already visible.  I'll take the right 
+path because it is safer.  Head through the opening and fire at the shadows 
+under the triangular shaped wall to the north to find some hidden gold bars.  
+Although we took the right path, there is a hidden knife on the left path.  
+There are two triangle shaped walls connected to each other in the center.  
+Notice the two small spots of shadow in between these walls?  The knife is 
+found left of the left shadow.  As a word of caution for those taking the 
+left path, there is a homing sensor placed by the shadows under the top left 
+wall.  You'll now find yourself at a wall that spans the entire width of the 
+screen.  The weak spot is in the center.  You'll get fuel afterwards.  The 
+next wall has weak spots on the far left and far right sides.  Turn right and 
+shoot the shadows to find a girl.  This girl is Little Athena, a character 
+from another SNK game, Athena.  All she does is add 2,500 points to your 
+score.
+
+Now go to the far left side of the wall.  Head up and shoot the shadows above 
+you to find a hidden heart.  Go right and watch out for the land mine.  You 
+can walk or move the tank around it.  There are probably several soldiers 
+stuck against the wall above you.  You should have noticed the ones that are 
+grenade soldiers.  The ones not firing are kamikaze soldiers.  Kill them all 
+before heading up.  You'll see a tank on the right side.  Get it if you need 
+a fresh tank of gas or if you don't already have one.  Head up and you'll be 
+attacked by several grenade soldiers.  If you want to save the tank, you can 
+always kill the soldiers on foot first and then get back in the tank.  There 
+is a homing sensor placed in the narrowest part of the grass.  Continue 
+forward and you'll face a gun turret.  Destroy it and move on.  You'll now 
+face two brown tanks on opposite sides of the river.  Take out the right one 
+first.  Ignore the left one.
+
+You'll see a soldier in the middle of the wooden bridge.  Stay away from him 
+because he is a homing missile soldier.  Beyond the bridge is a bunker.  You 
+can avoid the homing missile soldier by going to either side of the screen.  
+The bunker makes the right side a little more difficult route to take but you 
+should still have the tank with you so pass the soldier until he becomes a 
+grenade soldier.  Then take him out like usual.  Destroy the bunker to get 
+bullets and grenades.  Head forward and you'll see two red soldiers.  They 
+both drop B's behind.  Now stand above the wooden bridge so that you're in 
+the water.  Turn left and fire at the ground to find a hidden knife.  Now 
+head up.  You'll see three arrow cannons by the fortress gate.  Take your 
+time passing each one.  Destroy the gate for some fuel.  Then head up.
+
+
+Gate 3
+======
+You'll now be attacked by a lot of red soldiers.  There are four altogether.  
+They drop two F's and two L's between them.  There is a lot of marsh so 
+you'll have to really twist and turn to get your tank (if you have one) 
+through.  Keep going forward and you'll find a bunker.  You can skip this one 
+by moving along the far left side.  It has bullets and grenades but they're 
+not worth it.  Just be careful of a homing missile placed to the left of the 
+bunker.  Head up and you'll see two flame thrower soldiers.  Kill them both.  
+Now look to the right side.  You should see an opening between the trees.  
+Shoot that opening to find an H.  It will fully restore all of you ammo as 
+well as giving you 200 fuel for your tank.  Now destroy the gun turret to the 
+north for some grenades.  Destroy the other gun turret behind it to get 
+bullets.  Get to the far right side by the trees and fire north to find a 
+hidden heart.
+
+Head up and you'll face two macho men.  Avoiding them is going to be very 
+difficult so I hope you have a tank, B-grenades, or a knife.  If you do have 
+to avoid them, I suggest that you use the rock in the center as a shield of 
+sorts.  It will help to separate the macho men from each other.  Continue 
+onward and you'll be at the foot of a suspension bridge.  You'll hear the 
+familiar "choop" sound as you approach.  Stand to one side as you head up the 
+bridge.  You'll be attacked by a super tank.  Take it out like normal with 
+your grenades.  Continue ahead but watch out for two land mines placed near 
+the middle of the bridge.  You'll fight four red soldiers next.  They drop 
+two L's and two S's.  Now keep moving ahead to fight a chopper.  Destroy it 
+only if you're not in a tank.  Otherwise, just keep moving because you're 
+most likely running low on tank fuel.  You'll fight a second chopper 
+afterwards.  Repeat the same strategy from before.  Keep going ahead and 
+you'll face a third chopper.  Deal with it like before.  Then you'll approach 
+the end of the first bridge.  You'll hear a "choop" sound again.  Head up to 
+face a super tank.  Your tank should be making the ringing noise indicating 
+that you are low on fuel at this point.  Ignore it and keep going.  You'll be 
+able to kill the next two red soldiers.  They leave an F and a B behind.
+
+Get out of the tank now if you haven't already done so.  Then head up to find 
+a blockade.  Destroy it for some bullets.  Now stand in between the two gray 
+bars.  Turn left and shoot the left gray bar to find a hidden heart.  Then 
+head up to fight a macho man.  Try not to scroll the screen any further until 
+you pass this macho man because a second one will appear if you scroll up too 
+much.  Move up after you pass the first macho man to fight a second one.  
+Head up after you pass the second macho man and you'll see two buildings.  
+Stand next to the right building's left side.  Stop moving when you see a 
+green tank appear.  Do not move the screen up until you destroy this tank.  
+Then you should see a patch of grass in the center.  Stand to the right of 
+this patch and move up to fight a second green tank.  Destroy it before you 
+move up any more.  Now stand under the patch of grass and toss a grenade as 
+you head up.  It should land on and destroy a third green tank.  Now stand 
+against the left building and kill the stationary shooter.  Then head up.  
+Another green tank rushes out.  You'll be safe if you stayed against the left 
+building.  Destroy the tank and keep moving.  You'll see a stationary shooter 
+on the right.  Kill him.
+
+Then move up but don't stand in the center.  Stay a little to the right of 
+the center as you head up.  You'll fight a brown tank.  Destroy it and move 
+up to fight another brown tank.  Destroy this one too.  Now pass the right 
+building until you see the top of it.  Turn right and shoot the ground above 
+the right building to find a triple shot.  Unless you have no other gun 
+powerups I don't advise getting it because it removes all the other gun 
+powerups that you have.  Now stand against the left building and shoot up to 
+find some super speed (SS).  This item will make you move faster which makes 
+surviving the water areas a whole lot easier.  The next part will involve 
+several self destruct soldiers so I recommend that you retreat back after you 
+see them.  Fighting them on land eliminates the protection that they get 
+while underwater.  Now a self destruct soldier will appear near the right 
+side as you approach the water.  Kill him quickly.  Then slowly head up.  
+Another self destruct soldier comes at you from the center.  Kill him and 
+then move up.  Retreat back a little because two submerged soldiers come at 
+you.  The left one is a self destruct soldier while the right one is a 
+kamikaze soldier.  Both are dangerous so it doesn't matter who you kill 
+first.
+
+Now go across the water.  You'll soon come across a bunker and two red 
+soldiers.  They both drop B's.  The bunker has bullets and grenades but 
+they're not worth it unless you really need them.  Just steer clear of the 
+bunker by going around the right side of the rock in the water.  This will 
+help to jam the land mines that are chasing you.  The red soldier to the 
+right side is a fake.  You'll now see a red soldier approaching from the 
+left.  He drops an F.  Now stand directly north of the rock as you go up.  
+You'll fight a kamikaze soldier.  He'll be in your line of fire if you were 
+above the rock as you moved up.  Get on the island and you'll see a red 
+soldier and a self destruct soldier coming towards you.  The red soldier 
+drops an L.  Take out the red soldier first since he's closer.  Then quickly 
+kill the self destruct soldier afterwards.  Keep moving ahead and you'll see 
+another red soldier.  He drops an F behind.  Now go to the far left side.  
+Stand one body width away from the edge and head up.  You'll encounter an FL 
+soldier on the fortress wall.  Kill him and then stand next to the shadows of 
+the left fortress wall as you head up.  The left fortress guard is actually 
+another FL soldier.  Get within grenade range and kill him.  You want to keep 
+him firing directly south so don't get too close or he will start firing 
+diagonally at you.  Now the right soldier is a fortress guard so take him out 
+like usual.  Then destroy the gate if you haven't already done so.  It leaves 
+fuel behind.  Shoot the ground below the wall to the right of the gate to 
+find a triple shot.  Go through the gate now.
+
+
+Gate 4
+======
+Go north until you reach some walls.  Shoot the ground left of the left 
+shadows to find an H.  Now go up the right path and shoot the shadow in 
+between the wall to find a gold heart.  This item is the ultimate in 
+powerups.  It gives you the B, F, L, S, heart, knife, and super speed 
+powerups as well as fully recharging your ammo.  Go up and you'll see two 
+paths.  Take the right one and you'll see a large area of shadow.  Shoot the 
+left half of it to find a hidden heart.  Then go all the way to the left side 
+where you see two triangular shaped walls connected to each other.  Fire at 
+the shadow on the left side of the walls to find a triple shot.  Head up a 
+little and you'll have a left and right path to choose from.  Take the right 
+path because the left path has a homing sensor that will kill you.  Head up 
+until you see two triangular shaped walls connected to each other on the 
+screen.  A fake red soldier will be above the left wall.  An FL soldier will 
+be standing right next to him.  To the right will be a kamikaze soldier.  
+Keep your eyes focused entirely on the FL soldier.  Watch his shots and get 
+out of their way while you kill the kamikaze soldier.  Stand below the right 
+edge of the left wall.  You will also have a clear shot at the FL soldier 
+from here.  Kill him and then fire down the middle of the center path.  
+You'll uncover a hidden knife.
+
+Be careful as you go down the center path to get the knife because a homing 
+sensor is placed in the middle.  Just run up the center path until you hit 
+the wall above.  Then turn right and fire.  You'll uncover a hidden gold box 
+at the bottom of the right path.  Then head up the right path.  Some regular 
+soldiers will be running around.  Just hide behind the walls for cover.  Then 
+you'll see a large wall with a large area of shadow below it.  Go around the 
+right side of the wall.  Stand against the wall to your north.  Turn left and 
+fire to uncover an SS.  You'll now have two paths to choose from.  The left 
+path has a hidden triple shot and a homing sensor.  The triple shot can be 
+found by shooting spot above the homing sensor.  The right path is the safer 
+of the two.  Grab the SS that you uncovered and head through the right path.  
+You'll now see a wall spanning the screen.  Grenade the center to find an 
+opening and some bullets.  Then face left and shoot the shadows to the left 
+of the newly created opening to find a hidden heart.  Now there should be 
+some grenade soldiers stuck against the wall to the north.  Kill them first 
+and then head through the opening.  Then go around the wall from the left 
+side.  Kill any grenade soldiers that appear.  A red soldier will appear 
+above you.  He drops an F behind.  There should be some more grenade soldiers 
+jammed to your right.  Kill them while they're still jammed.
+
+Head up and two more red soldiers appear from the right side.  They both have 
+L's.  Go up.  I hope you have a knife because having one makes the next part 
+very easy.  If you have a knife, then just keep running up and skip this next 
+paragraph.  For those without knives, read on.  You'll now fight scorpions.  
+These pesky enemies will rush at you and run circles around you.  Their 
+method of attack is to run right into you like the kamikaze soldiers.  
+Although they don't run straight for you, they will still walk into you from 
+any direction.  Therefore it's best to avoid any sticky situations by 
+shooting them as they get near you.  Stay in the center and keep heading up.  
+Watch out for land mines scattered about.  The scorpions will soon be 
+replaced by killer bees.  These insects don't fire at you but they can fly at 
+you very quickly and (pardon the pun) make a beeline straight for you.  Well, 
+actually they fly down and then fly diagonally backwards before flying down 
+at you again.  You can think of their flight pattern resembling an "N" and a 
+reverse "N" shape.  This isn't dangerous except that they can hit you during 
+their diagonal flight.  Shoot them only if they are coming straight down at 
+you or are at a distance from you.  It's far safer to walk out of their 
+flight path if they are closer to you because it's very hard to hit them at 
+that range.  Just try your best to keep moving ahead.  You can always try to 
+wait out the bees, but this usually results in the missiles being fired.
+
+You'll now reach some water and fight soldiers again.  There will be a slow 
+moving soldier among the ones that appear.  That one is a self destruct 
+soldier so take him out fast.  As you get near the land's edge, a kamikaze 
+soldier will greet you from beneath the water.  Retreat and kill him on land 
+where he loses the water advantage.  Head up and you'll see a self destruct 
+soldier swimming towards you.  Run back and kill him as you gets out of the 
+water.  Now stand in the center of the screen and fire up into the water.  
+You'll uncover an hidden SS.  Get it and then stay one body length away from 
+the left side of the screen.  Keep going up until you see purple fortress 
+walls.  This is the final part of this mission.  First, you will see two 
+soldiers and a tank that you can use.  The left one on the wall is an FL 
+soldier.  The right one is a missile soldier.  If you took my advice and 
+stayed on the left side, then you will be in perfect position to take out the 
+FL soldier.  Then head east and take out the missile soldier.  Now do not 
+enter the tank yet.  First take out the fortress guard by the gate.  Now 
+before you enter the tank, please try your best to keep it intact because 
+finishing this last part is a lot more difficult without a tank.  With that 
+in mind, enter the tank and destroy the gate to find some fuel.  Stay on the 
+right side of the gate as you head up.
+
+
+Gate 5
+======
+To your north is another FL soldier.  His shots will not affect your tank.  
+Kill him and then turn your aim left.  Fire to uncover a hidden triple shot.  
+Now you have three paths to choose from.  However, only the right path will 
+let a tank through.  You'll need to zigzag around the marsh in an "S" pattern 
+to get past the marsh.  You'll see a fortress guard to your north.  Just kill 
+him and move up.  A green tank appears and moves sideways.  It fires missiles 
+so hiding behind the fortress walls will not help here.  Unless you have the 
+F and L powerups, I strongly suggest that you get out of your tank and 
+destroy the enemy tank on foot.  This will not only keep your tank safe, but 
+also help to conserve fuel.  Move the screen up a little after you destroy 
+the tank.  Do not move it up too far or you'll lose your tank.  Now another 
+green tank appears past the gate above you.  It is also equipped with 
+missiles.  Destroy it on foot and then take out the gate.  Then get back in 
+your tank.  Head through the gate and two soldiers on the wall await you.  
+The left one is an FL soldier while the right one is a fortress guard.  Take 
+out the fortress guard first.  Then turn your aim right and shoot the ground 
+to the right to find a hidden knife.  Now go left and take out the FL 
+soldier.  Your tank will provide cover against his shots.  Then destroy the 
+gate for some grenades.  Unless you found fuel from the green tanks, you will 
+need to hurry.
+
+Keep to the right side of the gate and go on through.  You'll see some 
+marshes and four red soldiers.  They drop two F's and two L's.  Ignore the 
+red soldiers unless you really need the F and the L.  Focus on getting past 
+the marsh as quickly as possible.  This is accomplished by moving up until 
+you are on top of the far left rock.  Then move right and up again to get 
+around the rock to the bridge.  Head up through the opening between the two 
+rocks farthest to the left until you get stopped by a marsh.  Now move left 
+and up to get around this marsh.  Then go right and you'll be in front of an 
+FL soldier.  Kill him and then you'll see that you have three paths to choose 
+from.  Unfortunately, only the right path allows tanks to pass through so 
+take that path.  You'll need to do the same "S" shaped movements to get by 
+the marsh.  You'll also fight another fortress guard as you head through this 
+way.  Kill him and head through the opening until you bump against the right 
+fortress wall with pipes on its left side.
+
+There are four soldiers altogether here.  The left and right soldiers are 
+each fortress guards.  You should have already noticed that the two in the 
+center are both FL soldiers.  Now you see why having a tank makes this part 
+easy.  First, kill the right fortress guard.  Then go left and down until 
+you're in the center path.  Then turn your aim north and fire to uncover a 
+hidden heart.  Now do not go left to kill the other fortress guard because 
+there is a land mine to the left that your tank can't get past.  Therefore, 
+just hug the right fortress wall and head up.  The FL soldiers' bullets will 
+be ineffective against your tank.  Get next to them and let them both have a 
+taste of your shots.  Then destroy the gate from a safe distance for some 
+fuel.  Watch out for a homing sensor placed in front of the gate.  Hug the 
+right wall as you head on up through gate to finish area 2 and get 20,000 
+bonus points.  You should now have over 200,000 points if you haven't 
+continued since the start of the game.
+
+
+
+                       ##############################
+                       ##          Area 3          ##
+                       ##############################
+
+Start
+=====
+You'll begin area 3 without any powerups unless you grabbed a heart from area 
+2.  If you didn't have a heart when you finished area 2, then say goodbye to 
+your powerups.  If you did grab a heart, you will keep everything but you'll 
+lose everything if you die once.  Therefore, proceed carefully until you find 
+another heart.  If you had nothing when you finished the last mission, then 
+the loss isn't so bad but still be on guard as you proceed.
+
+You're now indoors.  A lot of stuff is gray so get used to this drab color.  
+Bunkers and other objects will now be colored differently.  You'll face some 
+new enemies here as well.  Head up and you'll fight a red soldier.  He leaves 
+an F behind.  To your north is a bunker.  Watch out for the homing sensor 
+that's placed directly south of the bunker.  Stand southeast of the right 
+steel drum to get protected from the bunker's shots.  Then grenade it to get 
+fuel and bullets.  Go through the gap between the drum and the right wall to 
+avoid the homing sensor.  Continue forward and you'll see a fortress guard in 
+the center.  Two red soldiers will be on both sides.  The left soldier drops 
+a B while the right one drops an F.  Take the left path and you'll see a tank 
+that you can take.  Behind it is a brown tank.  This tank is placed to lure 
+you in to your death.  Instead of getting the tank, you will be destroying 
+it.  Then destroy the brown tank afterwards.
+
+Head up and you'll see another tank that you can take.  Shoot the oil drum 
+next to the tank to find a hidden knife.  Then kill the red soldier for a B.  
+Now enter the tank.  Head up but watch out for the homing sensor above the 
+oil drum.  Stay in the center as you head up.  You'll see a green tank 
+appear.  As you headed up, you went under a steel catwalk.  As long as you 
+stay just above this catwalk, you will be safe from the tank's shots.  Wait 
+for an opportunity to attack and destroy the tank.  Now keep firing north as 
+you head down the center.  You will destroy a second green tank that rushes 
+out from the center.  Now turn your aim right and fire at the shadows to your 
+right to uncover an SS.  Head up and you'll see two missile soldiers.  Kill 
+both and continue onward.
+
+You'll now see fake Pauls and fake Vinces.  These guys are nothing more than 
+regular soldiers disguised to look like you.  One shot will take them down.  
+Keep heading forward until you reach water.  A red soldier appears.  He drops 
+an L.  Across the water is a yellow tank.  Destroy it.  Now you will find the 
+part that is most annoying on this stage, stairs.  If you though moving in 
+water was slow, wait until you try climbing stairs.  The first step takes the 
+longest and leaves you vulnerable to enemy fire.  Your best bet is to have 
+the super speed (SS) powerup which makes navigating the stairs more 
+tolerable.  Head across the stairs and you'll encounter another red soldier.  
+He drops an S behind.  Many of the soldiers will be kamikaze soldiers so I 
+hope you still have the knife from earlier.  The good news is that they won't 
+shoot you.  You'll soon fight two more red soldiers from the right side.  
+They drop an L and S behind.
+
+A yellow tank will be attacking you from across the water.  Grenade it and 
+then go across.  Avoid the land mine because it can kill you as you're 
+climbing stairs.  Head up and there will be many yellow tanks on both sides.  
+Fortunately, they aren't operational.  You will be attacked by a yellow tank 
+coming down the center though.  A homing sensor will also be placed around 
+the center to avoid it.  Destroy the tank and head up.  A second yellow tank 
+should be attacking from the right side.  Grenade it and move on up to fight 
+a third yellow tank from the left side.  Destroy it and then look at the 
+floor.  You should see yellow pipes.  Look for the pipes that form a square.  
+It is found in the center of the screen, along the same horizontal line that 
+the third yellow tank was following.  Now above the square should be more 
+yellow pipes.  Shoot the pipes above the square pipes to find a hidden triple 
+shot.  A yellow tank should be attacking you from the right side now.  
+Destroy it and then look at the stationary tanks on the left side.  You 
+should see some gray floor tiles running between two of them.  Shoot those 
+gray tiles between the tanks to find a hidden SS.  The super speed will be 
+the most useful powerup in this mission so try not to lose it too soon.
+
+Now head up and you'll see some of the stationary tanks on both sides firing 
+at you.  Upon closer examination, there are only two stationary yellow tanks 
+that are actually firing.  Destroy them both.  Watch out for a homing sensor 
+placed in the center.  Head up and you'll see a red soldier.  He drops a B.  
+Now to the north are some bullets across the water.  The bullets are guarded 
+by a stationary shooter behind them.  There is also a kamikaze soldier in the 
+center to make things more interesting.  Getting the bullets is your choice.  
+I prefer not to get them because climbing the stairs sets you up for an easy 
+death by the land mine.  I choose to go up the left side and avoid the entire 
+mess altogether.  So go up the left side and kill the kamikaze soldier as he 
+gets on land.  Now you should be above the triangle wall to the left.  Turn 
+left and shoot the floor pipes to find a hidden heart.  Then you need to 
+hurry across the water to the north because the land mine will kill you while 
+you climb.  If the mine is too close then kill the stationary shooter to the 
+right and lure the mine away before you cross the water.
+
+There will be grenades on the other side.  Head up the left side of the green 
+piping.  You'll see a self destruct soldier in the water to the right.  He is 
+unable to climb the stairs and since you are behind the green pipe, his shots 
+can't hit you.  Give him a taste of your grenades.  Then head up and a 
+kamikaze soldier appears.  You can retreat back behind the pipes for cover 
+and kill him afterwards.  Then get the grenades.  Go up along the left side 
+and you'll see some green piping in the center.  In the middle of the green 
+pipes are yellow pipes.  Get over to the center by climbing up the sides of 
+the stairs.  The land mine will be your biggest threat here because it will 
+kill you if you don't move far enough away from it before you climb.  Shoot 
+the top of the yellow pipes to find a hidden SS.  Now walk along the left 
+side of the center island.  To the north on the left side will be a red 
+soldier.  He drops a B.  To the right are two soldiers stuck against the 
+green piping.  The top one is a kamikaze soldier while the bottom one is a 
+self destruct soldier.  Kill them both before you move up.
+
+To the north is a missile soldier.  Two red soldiers will be approaching from 
+the water.  They both carry F's.  Now a self destruct soldier will be rushing 
+down the center of the water.  Kill him quickly.  Behind him is a kamikaze 
+soldier.  Then head up along the left side and you'll see a green soldier run 
+down the center.  Kill him for a K.  Then get it.  Now there are several 
+small islands to the north.  An FL soldier is sitting on top of the center 
+island.  You'll need to kill him quickly if you didn't already do so with the 
+K.  Ignore the fake red soldier because he's not a threat.  Kill the FL 
+soldier quickly because behind him are two underwater soldiers.  The left one 
+is a self destruct soldier while the right one is a kamikaze soldier.  You 
+definitely do not want to engage them all at once.  If you do have to fight 
+them all, I suggest that you retreat back and take out the self destruct 
+soldier, kamikaze soldier, and FL soldier in that order.  Having the super 
+speed will allow you to move just as fast as the self destruct and kamikaze 
+soldiers.
+
+You'll see three equally shaped islands.  Go up through the left and middle 
+islands.  Turn left when you get to the end of the water and are at the foot 
+of the stairs spanning the entire screen.  Fire at the water to the left to 
+find a hidden gold heart at the far left side.  This little item should give 
+you the edge you need to win if you don't already have all the powers it 
+gives you.  Now head up the stairs and you'll see a bunker to the right.  
+Next to it are two tanks for the taking.  Here's how to get the tank safely.  
+First, you should see two drums on the left side.  Get under them so that 
+you're now left of the tank and bunker.  Turn right and fire at the bunker.  
+Your F bullets will destroy it.  The bunker leaves bullets and grenades 
+behind.  The tank will remain safe.  Now walk down and then right until you 
+are directly south of the tank.  You should see a drum directly north of the 
+tank.  Fire at that drum.  You will kill a oil drum soldier.  The tank next 
+to him also gets destroyed by the explosion but you only need one tank 
+anyway.  Now enter the tank and proceed.
+
+Head down the center.  You'll soon see a homing missile soldier to the right 
+side.  Quickly move back once you see him.  His range is very long and he can 
+destroy your tank if you charge in there unprepared.  You should have the 
+necessary firepower to kill him from a distance thanks to the gold heart from 
+earlier.  If you don't, then head up the left side to avoid the soldier 
+altogether.  Now you'll see a second homing missile soldier on the left side.  
+Unless you have long range shots or B-grenades, you may have to sacrifice 
+your tank in order to kill the soldier.  Head up after you kill them to find 
+a skull door.  These doors will now replace the fortress gates of the last 
+two missions.  They are still destroyed in the same way though.  The fortress 
+guards are here and they are ready to kill you.  Take them both out before 
+you destroy the door.  You'll get fuel for your tank.  Head under the gate 
+but stop short of passing through.  Move up enough until you see your hair 
+showing on the other side of the gate.  Then turn left and fire.  You'll 
+uncover a hidden knife.
+
+
+Gate 1
+======
+Now kill the red soldier on the screen for an L.  Head up and you'll see 
+another red soldier.  He drops an L as well.  To your right is a yellow tank.  
+Head over to destroy it.  Keep in mind that the dummy tanks will not provide 
+you cover because this tank is firing missiles.  Then go up and kill the next 
+red soldier for an S.  Then you will see another yellow tank moving across 
+the top.  This tank fires regular shots so you can take refuge behind the 
+other tanks if you need.  As you head up you will see green pipes and a lot 
+of gray domes.  Your path is split into three parts.  The right path is 
+suicide because of a homing missile placed along the path.  The center path 
+is safe but it doesn't have any items.  The left path is the recommended one.  
+The left path has three cones enclosed by green piping.  Look at the top two 
+cones that are close together.  Look to their right side and you should see a 
+small gray area.  Fire at that area to uncover hidden gold bars.  Then head 
+up the left path.  Now look for the topmost cone.  Then stand to that cone's 
+right side by going above it because there is a homing missile below the 
+cone.  Fire at the yellow piping to the right and you'll uncover a hidden 
+knife just above the green piping to the right.
+
+Now you'll see pools of water.  There are several paths to take but I suggest 
+sticking to the paths with floor tiles because you will move faster.  Falling 
+into the pool will leave you a sitting duck for all the kamikaze soldiers in 
+the area.  Stay on the floor tiles if you are in a tank because the tank will 
+fall down the stairs very easily.  Tanks cannot climb stairs.  In fact, the 
+only way to get back out of a pool after falling in is to back up and 
+"climb" up spots where there are no steps.  I suggest taking the center path 
+north until you see a homing sensor.  Then go right and you'll be under a 
+rectangular pool.  Shoot one floor tile left of the center of the northern 
+steps to find a hidden H.  To the north is a bunker.  Destroy it for bullets 
+and grenades.  Then go up and you'll see a pool north of the bunker.  Shoot 
+the left half of the water to find a hidden SS.  Now you should have already 
+been attacked by three red soldiers.  If not, then just move up until you see 
+them.  Ignore the right one because he is a fake.  The other two each drop 
+B's behind.  Now do not take the center path because there is a land mine 
+placed at the start of the path which is a pain for tanks to get around.  
+Take the far right path instead.
+
+You will see two homing missile soldiers as you approach the rectangular 
+pool.  I hope you have long range shots or B-grenades or you will not get 
+past these guys without dying.  Take them both out and then you will see two 
+paths going north.  You should also see a pool with stairs that form a 
+triangle in the middle of it.  If you are in a tank now, then I strongly 
+recommend that you park the tank on the right path so that it is positioned 
+to the right of the triangle steps.  Now get out and stand in the water so 
+that you are directly to the right of these steps.  Then head up.  You will 
+see two skull doors and three soldiers on top of the doors.  The left and 
+right soldiers are fortress guards.  The center soldier is an FL soldier.  
+You will be out of the FL soldier's line of fire if you are standing to the 
+right of the triangle steps.  Now take out the soldier.  Then destroy the 
+left skull door.  The right skull door is a fake and will not open if you 
+grenade it.  Grenade it anyway for some points.  Since the right door is a 
+fake, there is no need to kill the right fortress guard.  Just kill the left 
+one.  Then get back in your tank if you got out and get the bullets and 
+grenades from the skull door.  Head through.
+
+
+Gate 2
+======
+You'll see two paths.  A red soldier comes out.  He drops a B.  Behind the 
+soldier up on the catwalk is a moving cannon.  It fires missiles and moves 
+around so you'll need to time your grenades.  Now head up the left side.  
+Another red soldier comes at you.  He drops a B.  Two more red soldiers come 
+out, but they are on the right side.  Both drop F's behind.  Now do not fire 
+if you are in a tank or throw grenades if you are on foot.  To the north is a 
+tank that you don't want to destroy by accident.  You probably are running 
+low on fuel if you already have a tank.  Here's the perfect time to switch 
+tanks (or grab a new one).  The red soldier to the left drops an L behind.  
+You have two paths to take again.  Take the left side and head up.  Stop when 
+you reach the second pool.  Go left so that you are standing south of the 
+pool's water.  Face north and fire at the water.  A hidden gold clock will 
+appear.  Continue ahead.  The red soldier on the right side dropped an L if 
+you were curious.
+
+Now you will have two paths to pick from again.  A moving cannon will run 
+along the center and head right.  Take it out if you can.  Then take the left 
+path.  You'll see a flame thrower soldier.  Just stay out of his line of fire 
+and you'll be safe.  Take him out.  Then go left.  Above you on the wall is a 
+fortress guard.  To north on the right are two more flame thrower soldiers.  
+There's another tank that you can take.  The other soldiers stuck against the 
+walls are grenade soldiers so kill them through the walls if you can.  Go up 
+and you'll see another fortress guard.  Kill the soldier before entering the 
+tank.  Now head up.  You'll see a green soldier running towards you.  Kill 
+him and get the K that he drops.  Now the path will widen up and you should 
+see three floor tiles lined up diagonally.  Stand on the bottom tile and turn 
+left.  Fire at the ground to the left to find a hidden heart.
+
+Go forward and you'll see black soldiers.  Treat them like regular soldiers.  
+Now the area will be covered with catwalks making it hard to see.  Be careful 
+passing under them because there is a land mine placed on the left and right 
+sides.  Head up along the left wall to avoid all the mines.  A green tank 
+will rush out at you from the left side as you approach the shadows of the 
+walls to your north.  You will be safe if you say below the catwalk by the 
+left wall.  Destroy the tank.  Then on the left wall above you is a fortress 
+guard.  Take him down.  Then head up along the left wall.  You'll see another 
+green tank.  This one will be moving diagonally on the right side.  Destroy 
+this tank.  There is a fortress guard on the right wall but he is not a 
+threat so continue forward down the center of the area to avoid the land 
+mines.  Just don't get too close to the fortress guard on the right side.
+
+You'll see a red soldier in the center.  He carries a B.  On both sides are 
+fortress guards.  To the north in the center is a moving cannon.  Take out 
+the left guard first.  Then destroy the cannon.  Kill the right guard last.  
+Then head up but stay on the right side as much as possible.  You'll see a 
+land mine at the top of the passageway and two missile soldiers.  The left 
+one is a homing missile soldier while the right one is a regular missile 
+soldier.  Staying as far to the right as possible will help you avoid the 
+homing missiles.  Try to get as close to the right soldier without getting 
+hit by his missiles.  Then kill the homing missile soldier.  Kill the other 
+soldier afterwards.  You'll see a skull door to the north.  Two fortress 
+guards will protect it.  Take them out and then the skull door.  You'll find 
+fuel.  Now head on through the gate.
+
+
+Gate 3
+======
+You'll find yourself in oil drum country.  Well, it's actually oil drum 
+soldier country but who's counting?  This means that the area that you are 
+now in is filled with oil drum soldiers.  Of course, not all the oil drums 
+are oil drum soldiers but you won't be able to tell until you get close 
+enough.  Take the initiative and just grenade all the oil drums.  This is 
+more effective than running up to an oil drum and risk getting shot in the 
+process.  Stick to the left side for fewer oil drum soldiers.  Now you'll see 
+plenty of steps and only one path in the center.  Take the center path and 
+you'll see that the path sticks out to the right and left.  Shoot the floor 
+tiles of these right and left mini-paths to uncover a hidden triple shot and 
+an SS.  You'll then see a chopper that you can take.  A red soldier will 
+appear here too.  He drops a B behind.  The chopper will make surviving this 
+next part a lot easier.
+
+What you will now be doing is flying over water.  However, there are land 
+mines, kamikaze soldiers, self destruct soldiers, and choppers to pass.  Land 
+mines are easy to avoid.  This makes self destruct soldiers your primary 
+threat.  Rather than telling you which one is which, just keep away from all 
+the underwater soldiers.  If you want to know the order, soldiers 1, 3, 4, 5, 
+7, and 10 are the self destruct soldiers.  Keep in mind that this ordering is 
+based on the order that they appear with soldier 1 being the first underwater 
+soldier that you come across.  Keep firing as you fly up.  Stay on the left 
+side for the safest path through.  You'll see a red soldier as you fly up.  
+He drops an F.  You'll soon see a grenade in the center.  A fake red soldier 
+comes out but ignore him.  There should be an island left of the grenades.  
+Fire at the floor tiles on the island to uncover a hidden SS.  Continue on 
+and a chopper appears to the right.  Ignore it and keep moving.  You'll see 
+an island with one spot of water in the center.  Fire at that spot of water 
+to uncover a hidden heart.  An enemy chopper will appear above the heart.  A 
+green soldier runs out on the right side.  Don't waste your fuel by going 
+after him.  Just keep moving ahead.
+
+You'll soon come across three equally shaped island across from one another.  
+South of this trio is another island.  Shoot the center of this southern 
+island to find a hidden knife.  Then shoot the middle island of the trio to 
+uncover some hidden gold bars.  Your chopper should be out of fuel by now so 
+get out.  Take care of any self destruct and kamikaze soldiers in the area.  
+To the north will be two fortress guards.  Take them both down.  You will be 
+in front of three skull doors.  Destroy them all to find bullets and 
+grenades.  Behind the doors is a yellow tank.  Destroy the tank next.  Now go 
+through the right door only.  The other two doors both have land mines placed 
+under the doorway (the part where you can't see your character anymore).  You 
+can avoid them by staying to one side on the doorway but it's a lot easier 
+just to avoid them altogether.  You will see two fortress guards and two red 
+soldiers.  Run up until you are against the wall.  The red soldiers will 
+retreat but let them.  You will see them get stuck against the wall to the 
+north.  Just worry about killing the fortress guards first.  Now go up and 
+kill both red soldiers for an F and L respectively.  You'll then see a green 
+tank on the wall above and two skull doors.  Destroying the tank leaves 
+behind a tank that you can enter.  Too bad it's out of your reach.  The tank 
+just teases you by sitting outside your reach so just blow it up for more 
+points.  Then destroy the right skull door because the left door is a fake.  
+You'll find bullets and grenades.  Go on through the door.
+
+
+Gate 4
+======
+Go on through the door to find a bunker.  Destroy it for bullets and 
+grenades.  Past the bunker is a moving cannon.  Let it move to the right side 
+before you destroy it.  There is a tank past the cannon that you can use.  
+Head up and the red soldier that appears drops a B.  You should have noticed 
+that the catwalk to the right forms a square shape.  Shoot the floor in the 
+square's center to find a hidden SS.  Then go up to find a bunker.  Destroy 
+it for bullets and grenades.  You'll then see a blue soldier with a shield in 
+front of him.  This is the task force soldier.  Just think of him as a new 
+version of the macho man.  He takes 10 F bullets, 2 grenades, or one B-
+grenade to kill.  He also explodes with a B-grenade's explosion radius.  Head 
+up and watch out for kamikaze soldiers.  There will also be a moving cannon 
+about.  Destroy the soldiers and the cannon.  Head up and you'll see more 
+catwalk and more task force soldiers.  There are several here so do not move 
+the screen up until you pass each one.  Continue up and you'll see more 
+stairs and lots of soldiers.  Ignore the red soldiers because they are fakes.  
+Worry about the mob of blue soldiers though.
+
+You will come across two pools and a larger set of stairs above the pools.  
+Stand in the center of the two pools and shoot the north side of the northern 
+stairs to find a hidden heart.  Continue forward and you'll see two fortress 
+guards.  Kill them both.  Now you have two paths to take.  Take the left path 
+because the right path has two land mines to avoid.  There is a homing sensor 
+placed at the end of the left path but you can avoid it by staying on the far 
+left side of the screen as you head up.  You'll now be at another gate.  
+Killing the pair of fortress guards will be harder than usual.  The left one 
+dies easily but the right one is a pain.  The reason is that the cone to the 
+right blocks you from tossing a grenade at the soldier.  Your options can be 
+standing next to the cone and tossing B-grenades, using long range shots, or 
+trying a risky hit and run tactic with grenades.  Destroy the skull door for 
+fuel after you take out the guards.  Now fire up through the door as you go 
+through it.  You'll uncover a hidden triple shot.  Get it only if you don't 
+have any other gun powerups.
+
+
+Gate 5
+======
+You'll now see lots of stairs.  Head up and try to avoid the soldiers' shots 
+as best you can.  Kill the red soldier for an F.  Keep moving and you'll see 
+some fake red soldiers.  The real red soldier is the one on the right.  He 
+drops an L behind.  Follow the paths with floor tiles.  You'll soon see one 
+path through a large area of steps and two mini-paths that stick out to the 
+left and right sides.  Shoot the floor tiles between the two mini-paths to 
+find a hidden H.  Head up to the next pool and you'll see more red soldiers.  
+Two of them are real and they both drop B's behind.  Head up and you'll be 
+back to oil drum country again.  This time, you will need to pass a lot more 
+oil drums.  Keep to the same strategy like before which was to grenade every 
+oil drum.  If you see too many oil drums clumped together, then chances are 
+that some of them are oil drum soldiers.  Don't be afraid to use your ammo up 
+because the oil drum soldiers drop plenty of fuel.  There should be more than 
+enough for you to use against the oil drums.
+
+At the end of the oil drums will be a yellow tank.  Destroy it.  You may get 
+lucky and get a tank but it's random.  Now head up and two more yellow tanks 
+attack you.  Take them both down.  Then go forward and you'll see a homing 
+missile soldier on the island by the right side.  Kill him and then head up 
+along the left side of the screen.  Watch out for a kamikaze soldier in the 
+area.  Head up and you'll see two self destruct soldiers approaching you from 
+the left and right sides.  Kill them both quickly or you're toast.  Now 
+another self destruct soldier approaches from the right.  You will have a 
+little more time to kill him than you did for the last two.  Get the bullets 
+in the water.  There is an island in the center of the water.  Get on the 
+left side of it.  There is no hidden item in the center of the green pipes 
+this time.  Head up and watch out for the kamikaze soldier that comes at you 
+from the left.  Then fire up at the floor tiles at the northern tip of the 
+island.  You will find Little Athena (girl).  Two self destruct soldiers will 
+approach from the right side.  Run back to get them both stuck against the 
+green piping.  Then take them out while they're both stuck.
+
+Head up and you'll see a red soldier.  He drops a B.  Now stay to the right 
+side.  There are a lot of self destruct soldiers in the area.  They will come 
+at you from the left and center.  You should see a narrow strip of water 
+above the island on the right with green piping  Stand in this narrow strip 
+of water and turn right.  Fire at the water to find a hidden gold heart.  Now 
+you have all the firepower that you need so don't lose it.  Head up and a 
+kamikaze soldier will chase you from the left.  He shouldn't stand a chance 
+against you since you grabbed the gold heart.  You'll see three islands to 
+the north.  The left and right islands each have homing missile soldiers on 
+them.  The center island has a regular missile soldier.  Take out the homing 
+missile soldier on the right.  Then pass the other two so that they become 
+grenade soldiers.  Kill them off before you proceed further.
+
+There will be more green pipes separating the path forward.  A red soldier 
+comes out.  He drops a B.  If you kill the red soldier, don't immediately get 
+the B because there is a fortress guard in a perfect position to kill you as 
+you get the B.  Kill him first before getting the B.  There are two more 
+fortress guards to deal with in this area.  Anyway, go up the left path.  
+Stay to the left as much as possible to avoid the fortress guards.  Of 
+course, you are always free to kill them but it isn't necessary to do so 
+here.  You'll soon come to two skull doors.  There will be four fortress 
+guards on the wall above you.  Try to avoid dying here because you will get 
+stuck behind the green piping and will have to wait for the missiles to get 
+free.  Kill the left guard first.  Then I hope you have long range shots 
+because killing the center two guards is difficult without them.  Now ignore 
+the right fortress guard and head up through the left doorway.
+
+
+Gate 6
+======
+You'll see two green tanks above you.  You'll be safe as long as you stand 
+directly left of the oil drum.  Watch out for a homing sensor placed to the 
+left of the oil drum.  You'll be fine as long as you stay near the oil drum.  
+Kill the left tank first.  Then destroy the door and the other tank.  Get the 
+fuel that the door left behind.  Stop when you see the two fortress guards.  
+Killing them both is almost impossible without the necessary firepower so I 
+hope you have either F and L powerups or the B-grenades.  Head through the 
+doorway and you'll see a land bridge running down the center.  You've entered 
+the final area of this mission.  There will be plenty of soldiers in the 
+area.  The ones coming out of the water are all self destruct soldiers so 
+take them out first.  Then shoot the right column of floor tiles on the land 
+bridge to find a hidden heart.  A red soldier runs down the left side of the 
+land bridge.  He drops a B.  You will now see red carpeting down the center 
+of the screen.  Fortress guards will be on both sides of the carpet.  Take 
+them out one by one.  Kamikaze soldiers will be charging down the red carpet 
+so give them some star treatment with your guns.  Now you'll come to a skull 
+door.  This is the easiest part of this final area so enjoy killing the 
+fortress guards without problem.  The door will leave nothing behind.
+
+I hope you have either F and L or just super speed because you will not 
+survive this next part without one of these two.  As you head up through the 
+doorway, FL soldiers will rush out from both sides and take up positions by 
+the yellow piping near the red carpet.  Needless to say, there will be MANY 
+shots flying all over the place.  If you have super speed, then simply run up 
+down the middle and you will avoid all of the shots.  You must be in the dead 
+center of the red carpet or you will get hit.  If you have F and L, then 
+quickly run up and pick side to kill.  Then run diagonally towards that side 
+and fire away.  You should be able to pick off each FL soldier before he can 
+get a shot off.  Move to the side that you picked to avoid getting killed by 
+the FL soldiers that you didn't kill.  It is very hard to avoid death but it 
+is possible.
+
+After you pass the FL soldiers you will come to a desk with a corpse.  There 
+are four FL soldiers and two homing missile soldiers around the desk.  
+Between the six of them, almost every square inch of the screen is covered.  
+The only safe spot is directly in the center of the red carpet at the bottom 
+of the screen.  However, you must be under the gray floor tiles or you will 
+get hit.  As you can imagine, this spot is only accessible if you don't move 
+the screen up too fast.  The easiest way to get to it is to have run past the 
+FL soldiers earlier with super speed.  Then you just keep running up until 
+the last FL soldier goes off the screen.  Then immediately turn around and 
+head south.  Doing this will let you escape the homing missiles that get 
+fired as you headed north.  Now that you are safe, you are also pinned down.  
+Getting past this part alive is extremely difficult and everything must be 
+done perfectly to live.  Read the section below on how to do it.  This is for 
+experts only so unless you are very skilled at the game, I suggest that you 
+skip it and take the easier method below that.
+
+***  EXPERTS ONLY!  How to pass without dying.  EXPERTS ONLY!  ***
+Here's how to do it.  You must have super speed (SS), B, F, and L.  Having S 
+is helpful but not required.  You will run past the FL soldiers and then head 
+up the center of the carpet for the desk.  This next part is the critical 
+one.  You will be running up and turning northwest to fire shots at the left 
+homing missile soldier and leftmost FL soldier.  However, you will need to 
+throw a B-grenade diagonally at the right homing missile soldier a moment 
+before you do this.  Timing is critical here because one wrong move and the 
+left homing missile soldier will fire at you.  After you toss your grenade, 
+immediately turn northwest and kill the left homing missile soldier and FL 
+soldier by firing at a sharp angle (the sharper of the diagonal lines of fire 
+that you have).  Then you will take a step or two downward to avoid the three 
+remaining FL soldiers' shots.  Refer to figure 1 below on where to stand.
+
+Figure 1.
+
+F  FL soldier
+H  Homing missile soldier
+X  spot to stand after attacking
+/  red carpet
+
+    F _    _ F
+  F  |_\__/_|  F
+    H \____/ H
+        __
+       |//|
+     X |//|
+       |//|
+       |//|
+       |//|
+       |//|
+
+As you can see, the spot is exactly the third and fourth gray floor tiles 
+south of the left side of the desk.  Figure 2 below shows how the remaining 
+FL soldiers will be firing after you reach that spot.
+
+
+Figure 2.
+(not drawn to scale)
+
+F     FL soldier
+|     FL soldier's line of fire
+/     FL soldier's line of fire
+X     spot to stand after attacking
+DESK  location of the desk (was removed for clarity)
+
+       F       F
+       | DESK /  F
+       |     /  /
+       |    /  /
+       |   /  /
+       |  /  /
+       | /  /
+       |/  /
+       |X /
+      /|X/
+     / |/
+    /  |
+   /  /|
+  /  / |
+
+Now that only three FL soldiers remain, it is just a matter of waiting for an 
+opportunity to attack.  Take out the two on the right side first because it 
+is easier to dodge only one FL soldier's shots than it is for two FL 
+soldiers.  Then kill the left one and you've done the near impossible...live 
+through the final area end of mission 3.  Now skip over the next paragraph 
+below to find out how to finish the mission.
+***  end of section  ***
+
+There's no real way to get out of that safe spot without getting shot so I 
+suggest that you plan a kamikaze mission.  Your goal is to run up and take 
+out as many soldiers as you can but the priority will be the two homing 
+missile soldiers.  Run up and try to take them both out.  Doing so will be a 
+major plus.  Now you just have to take out the FL soldiers one at a time.  
+Expect to die a few more times while doing this.  Take advantage of your 
+temporary invulnerability after each death to take out one or more FL 
+soldiers.  There is a hidden heart just below the second FL soldier from the 
+right.  This part is almost impossible to pass without dying so don't be 
+discouraged if you die plenty of times here.  The missiles will not come 
+unless you scroll the screen far enough but you'll also lose your safe spot 
+if you do.  One word of caution though.  If you scroll the screen up until it 
+goes no further (you can see a skull and crossbones behind the desk), then 
+you can no longer use the continue code (see section "Secrets" below for 
+details) if you lose your last life.  Therefore, it is to your advantage to 
+not scroll the screen all the way up.
+
+After you take out all the soldiers, it will seem like there is nowhere to 
+go.  First grenade the corpse until it blows up.  Now you should see shadows 
+on the south side of the desk.  Move up or down until you are lined up 
+horizontally with the shadows.  Now you need to throw a grenade at the floor.  
+If you hit the right spot, a stairway will appear.  The spot is random each 
+game but the spot is always found somewhere between the floor tiles going 
+across the south side of the desk but between the two yellow pipes.  Usually, 
+you can find it in the shadows of the desk but occasionally you'll need to 
+grenade the gray floor tiles to the left and to the right of the shadows.  I 
+have yet to see it get past the yellow piping so I'm relatively sure that you 
+won't find them there.  Therefore, it is just a matter of systematically 
+tossing grenades at each square (10 squares total) between the two yellow 
+pipes until you find the stairs.  Note that you cannot find the stairs unless 
+the corpse is gone.  Enter the stairway to finish area 3 and get 30,000 bonus 
+points.  You should have nearly 400,000 points if you haven't continued since 
+the start of the game.
+
+
+
+                       ##############################
+                       ##          Area 4          ##
+                       ##############################
+
+Start
+=====
+You'll begin area 4 without any powerups unless you grabbed a heart from area 
+3.  If you didn't have a heart when you finished area 3, then say goodbye to 
+your powerups.  If you did grab a heart, you will keep everything but you'll 
+lose everything if you die once.  Therefore, proceed carefully until you find 
+another heart.  If you had nothing when you finished the last mission, then 
+the loss isn't so bad but still be on guard as you proceed.
+
+You should immediately have noticed that the background colors are different.  
+You are now in the inner fortress so you'll be fighting in darker colored 
+backgrounds.  Stay to the left side and go up to find a yellow tank.  A red 
+soldier appears from the right side.  He drops a B.  To the north is another 
+yellow tank.  It will move diagonally along the red floor.  Destroy it and 
+you will see another yellow tank to the right.  Destroy this one too.  Now 
+you should that the floor forms a black triangle just below where the tank 
+was.  Stand on the right side of the black triangle so that you are next to 
+the red floor on the right.  Then face north and fire upward to find a hidden 
+SS.  Head up and you'll see two fortress guards on either side.  In the 
+center is a red soldier.  He drops a B.  Between the two fortress guards is a 
+moving cannon.  Take out the fortress guards first.  Then destroy the cannon.  
+You'll see two more red soldiers as you head up the middle.  They both drop 
+F's behind.
+
+Now you will see a land bridge running up the middle.  Watch out for a land 
+mine at the foot of the land bridge.  There is a kamikaze soldier on either 
+side so take them out before you go up the bridge.  You'll soon come across 
+an intersection.  Shoot the floor to the left of the intersection to find a 
+hidden triple shot.  Continue across the bridge.  There will be a self 
+destruct soldier on either side of the bridge so lure them out to kill them.  
+There is a homing missile at the end of the bridge so you might want to walk 
+in the water to avoid it.  Two red soldiers will come down from the middle 
+after the bridge.  They both have L's.  Above you on the left is a fortress 
+guard.  Next to him is a moving cannon.  Try to nail them both with a B-
+grenade if you have one.  If not, then take the fortress guard out first.  
+Now head up the middle.
+
+You'll now see lots of tanks.  Most of them are inactive.  There will be 
+yellow tank attacking from the left.  It should be pretty obvious which one 
+it is.  Destroy it and then head up.  Watch out for a land mine near the 
+center.  You'll be attacked by two yellow tanks.  One comes down the middle 
+while the other is on the right side.  Destroy the middle one first.  Then 
+take out the other one.  A red soldier should have followed behind the middle 
+tank.  If you don't see him then you probably killed him when you destroyed 
+the middle tank.  It is no big loss because he only had an S.  You will find 
+a tank to take on the left side.  Do not enter it yet.  To the north are two 
+homing missile soldiers.  You will want to kill the left one before entering 
+the tank or he will destroy it.  You can just pass the other soldier and kill 
+him once he becomes a grenade soldier.  You'll now find yourself at the foot 
+of the first gate.  There are the same old fortress guards around the skull 
+door.  Take them out and then destroy the door.  Get the fuel and bullets 
+left behind and head on through.
+
+
+Gate 1
+======
+Fire at the yellow pipes directly north of the gateway to find a hidden SS.  
+You will be attacked by a yellow tank to the left.  Destroy it.  Then go up 
+but watch out for a land mine.  To the right is another yellow tank.  Destroy 
+it and head up.  You'll see a red soldier.  Kill him for a B.  Now in the 
+center is a fortress guard and a moving cannon.  Take your time and wait for 
+the cannon to come back to destroy it.  Kill the fortress guard in the 
+meantime.  Do not chase after the cannon because you will die easily.  Now 
+you have two paths to take.  Take the right path because the left has three 
+homing sensors placed very close to each other.  Head up the right path and 
+you'll see a red soldier.  He drops an F but don't worry about him.  On the 
+wall above you are two soldiers.  The left is an FL soldier and the right is 
+a fortress guard.  The FL soldier is your top priority.  Take him down before 
+you do anything else.  Then kill the fortress guard.
+
+Head up and you'll see four purple tunnels separated by pink piping.  Each 
+tunnel has two sections.  Take whichever tunnel you want but here is what is 
+in each tunnel.  I'll call the tunnels, 1-4 starting from the left.  So the 
+far left tunnel is tunnel 1 while the far right one is tunnel 4.  Each tunnel 
+has a hidden item that you can find by simply firing as you go through the 
+tunnel.  Tunnel 1 has a hidden knife and grenades in the first half.  Tunnel 
+2 has a hidden heart near the end of the second half but there is a homing 
+sensor near the heart.  Tunnel 3 has a triple shot in the first half.  Tunnel 
+4 has a gold box in the second half.  There are also two homing sensors at 
+the end of the tunnel.  Based on these descriptions, I would take the first 
+half of tunnel 1 for the knife and then switch over to tunnel 2 to get the 
+heart as well.  If you just want to blaze through without anything, then just 
+take tunnel 3.  Kamikaze soldiers will be chasing you in the tunnels but they 
+won't be a threat since you should be in a tank.
+
+You'll see a fortress guard in the center after you pass through the tunnels.  
+To his left is a red soldier.  He drops an L.  Kill them both and head up via 
+the right side.  You'll see an FL soldier on the wall above.  Kill him.  Then 
+head up going down the center.  You'll encounter two red soldiers.  Both of 
+them carry S's each.  Watch out for the self destruct soldier to the right of 
+the second red soldier.  I suggest retreating behind the FL soldier's wall to 
+get him stuck.  You'll then see a homing missile soldier in the center.  Take 
+him out carefully.  You'll then be at the foot of a gate.  There are three 
+skull doors but no fortress guards.  Destroy the doors.  The left door drops 
+fuel, the middle door drops grenades, and the right door drops bullets.  The 
+left and right doors both have land mines under the doorway so avoid them by 
+staying to the left or right side of the doorway as you pass under.  I prefer 
+to get the fuel to restock my ammo and then just taking the middle door since 
+there is no mines there (no one said you had to go through the door 
+completely).  You'll now see two fortress guards.  Kill them both.  Then 
+you'll see two more skull doors.  Above the doors is a fortress guard.  Kill 
+the guard.  Then destroy the right door because the left is a fake.  Get the 
+fuel and head on through.
+
+
+Gate 2
+======
+You will see water above you.  Do not enter it yet.  Look at the floor 
+between the gate and the water.  The top half should be purple floor tiles 
+while the bottom half is all black.  Go left along the black floor and fire 
+at the floor on the far left side to find a hidden gold heart.  Now you have 
+the firepower necessary to cross the water.  Now head up into the water.  
+Stay on the right side.  You'll soon see a kamikaze soldier above you.  Kill 
+him and move on.  You then see two red soldiers.  The left is real and 
+carries an F while the right one is a fake.  Head forward and you'll see 
+three things.  The first is a red soldier from the right side.  He carries a 
+B.  The second is the fortress guard on the island to your north.  The third 
+is the self destruct soldier heading towards you from the left.  Kill the red 
+soldier first because he's closer to you.  Then take aim and kill the self 
+destruct soldier.  This should be no problem thanks to the gold heart you 
+grabbed earlier.  Kill the fortress guard last.
+
+Continue onward and you'll soon see another kamikaze soldier.  The next 
+submerged soldier after him is a self destruct soldier.  You'll then see a 
+fortress guard on a small island in the center.  Kill him and head up.  A 
+green soldier runs out from the left while a self destruct soldier will 
+approach from the right.  Kill the green soldier for the K and use it to kill 
+the self destruct soldier.  Head up and you may see another self destruct 
+soldier depending if you got him with the K.  Kill him if you do see him.  
+You'll now find yourself in oil drum country again.  Just grenade every oil 
+drum and you'll kill them all.  Go wild with the grenades because the fuel 
+that the soldiers drop is more than enough for you to lay waste to the area.  
+Just remember, if there are too many oil drums grouped together, then you can 
+expect one or more of them is an oil drum soldier.  You'll encounter a red 
+soldier at the end of the oil drums.  He drops an F behind.
+
+Now to your left on the wall is a moving cannon.  A red soldier will come 
+down the left path.  He carries a B.  You have two paths to take.  Go with 
+the right path.  Stay against the right wall as you head up to avoid the land 
+mine.  At the end of both paths are flame thrower soldiers.  Just stay out of 
+their line of fire and you'll be ok.  Now above you should be an red octagon 
+shaped pattern in the floor.  Shoot the center of it to find a hidden heart.  
+Now to the left is a moving cannon.  It is hard to hit because it is moving 
+diagonally.  You'll need to get close to it to nail it with your grenades.  
+Then head up and you'll see a chopper to the left that you can take.  Two 
+moving cannons will be on the right side.  You'll need to destroy them both 
+before getting into the chopper.  The red soldier in the area drops an L.  
+
+Get in the chopper now.  You have 28 seconds of fuel left so there isn't much 
+time.  You will fly along the left side and make a beeline straight up.  Do 
+not stop for anything.  The only thing you need to watch out for are self 
+destruct soldiers and land mines.  Do not blow up enemy choppers or you'll 
+get caught in the explosion.  You'll encounter some red soldiers as you fly 
+across.  They drop F, B, S, and S in that order.  You can find a hidden 
+triple shot by firing at the yellow piping to the right of the first purple 
+triangle wall above the chopper.  Now just fly north but make sure that you 
+are all the way to the left.  You'll soon see an island in the center with 
+pink and yellow piping.  There will be underwater soldiers below you but 
+don't worry because they are merely kamikaze soldiers.  Now there should be a 
+narrow strip of land running up the left side.  It should be under you if you 
+are flying on the far left side.  Just keep firing north as you fly over this 
+strip of land and you'll uncover a hidden SS about halfway up.
+
+Now keep flying north.  A chopper passes down the center.  Ignore it.  Then 
+you'll see an island to the north that has mainly yellow piping on it.  Fire 
+at the center of the south side to uncover a hidden gold box.  Then continue 
+flying north.  You should see some small islands and another chopper.  A self 
+destruct soldier on the left side will be unable to kill you if you keep 
+flying up along the far left side.  You should run out of fuel right as you 
+pass the three small islands.  Head up the steps to the north to find 
+yourself in front of the third gate.  Go around the pink piping by way of the 
+left side.  Destroy both doors and you'll see the usual bullets and grenades.  
+Do not enter the left door.  That passageway is rigged with land mines.  You 
+can always just walk around them by hugging the sides of the passageway.  I 
+find it's easier to just take the right door and not have to avoid any mines 
+at all.
+
+
+Gate 3
+======
+Head up and you'll see plenty of tanks.  A yellow tank appears from the 
+middle.  Destroy it.  Then you'll see a yellow tank move across from the left 
+side.  Destroy it and then head left until you are standing between the two 
+left columns of tanks.  You should have triggered a land mine.  Shoot the 
+floor above the mine to find a hidden heart.  Now go north and stay between 
+the left tanks.  Now you'll see another yellow tank to your north and two 
+more yellow tanks on the right hand side.  A red soldier will also be there.  
+He drops a B.  Destroy only the left yellow tank.  Then head up until the 
+bottom tank on the right goes off the screen.  Now you only have one tank to 
+deal with.  Be careful when going near the center because there are land 
+mines and homing sensors placed in the center.
+
+You will see another red soldier approach from the center.  He has a B.  Now 
+there will be more purple tunnels to pick from.  There are five altogether.  
+I will label them 1-5 again starting from the left.  Tunnel 1 has a missile 
+soldier inside.  Tunnel 2 has nothing.  Tunnel 3 has a land mine at the end.  
+Tunnel 4 has nothing.  Tunnel 5 has a hidden knife.  Just fire up into it to 
+find it.  Based on this evaluation, tunnel 5 is the preferred tunnel if you 
+don't have a knife.  Otherwise go for tunnel 4.  Now you'll see an area split 
+into three paths by pink pipes.  The left path has a homing sensor at the 
+opening in the pink pipes to the left so don't take it.  Go for the middle 
+path instead.  If you are in a tank, then you are probably running low on 
+fuel.  Quickly navigate your way to the northernmost cone.  Shoot the yellow 
+pipes directly south of this cone to find a hidden H.  This will add 200 
+seconds of fuel which is far more than you need.
+
+Head up and you'll see a yellow tank.  Don't bother hiding behind the cones 
+because it is equipped with missiles.  Destroy the tank and head up by way of 
+the left side.  There is a homing sensor near the center so keep an eye out 
+for it.  You will now see four land bridges leading up.  Yellow tanks will be 
+patrolling every bridge except the far left one.  Take the left bridge.  This 
+means that you only need to destroy the left tank.  Then you can cross 
+without fear of getting shot.  You will see some water after you cross the 
+bridges.  There will be two red soldiers on the screen.  Kill them both for 
+L's.  Now I hope you haven't moved the screen too much.  You should still be 
+able to see the end of the four bridges.  Now look at the water between the 
+two bridges closest to the left.  Line yourself up so that you are north of 
+this water.  Then head up and fire at the second stream of water (the one 
+with the land mine) to find a hidden SS in the water.  If that sounds 
+confusing, then just stand on the land between the two water streams and then 
+stand on the fourth block from the left side.  Fire north and you'll find it.
+
+Now you'll see a yellow tank moving across the land bridge.  Destroy the tank 
+from the southern land bridge or you'll get hit by the mines in the water.  
+Cross after you've taken care of the tank.  Head up and you'll see stairs 
+that cover nearly the entire screen.  You don't have time to admire the 
+scenery though because a self destruct soldier will be coming at you from the 
+left side.  He is the one that runs down the left side of the steps near the 
+mine.  You might want to move left or right because he has difficulty 
+climbing stairs.  As an aside, if you get the self destruct soldier to 
+explode near the land mine, it will also be destroyed.  Anyway, head up along 
+the left side of the stairs and you'll see a second self destruct soldier 
+coming towards you from the right side.  Kill him and then get in the water.  
+Face north and fire at the steps.  You'll find a hidden heart.
+
+Now head up and you'll see more stairs and two tanks on a narrow path cutting 
+through the stairs.  Do not enter the bottom tank because there is a land 
+mine placed directly under that tank.  Take the top tank instead.  There are 
+two things to do before you enter the top tank.  First, get on top of it 
+first.  Then turn right.  Fire at the steps directly to the right of the tank 
+to uncover a hidden triple shot.  Now the second thing you need to do is to 
+slowly move up until you can see the two homing missile soldiers to the 
+north.  Do not move too far up or you'll lose the tank or get attacked by the 
+homing missile soldiers.  Now here's how to take them out.  You probably have 
+noticed that you automatically start sliding whenever you are on any stairs.  
+Well, you are going use this knowledge to your advantage.  Make sure that you 
+are out of the homing missile soldiers' attack range.  Now you will get on 
+the stairs, face north and start sliding.  Then fire and kill the soldiers as 
+they come into your line of fire.  Note that this tactic only works if you 
+have long range shots.  Otherwise you may have to sacrifice your tank to get 
+past them.
+
+Now you will see a land bridge zigzagging to the northeast.  The red soldier 
+in the water drops an F.  The submerged soldier is just a kamikaze soldier 
+which is nothing against your tank.  Head up and you'll see another submerged 
+soldier north of the land bridge.  This one is a self destruct soldier so 
+take him out while he's still in the water.  You'll now see a red soldier 
+coming from the center.  He has a B.  Don't go after the red soldier because 
+there are land mines on the bridge.  It is very easy to lose your focus and 
+land on the mine if you're too busy going after the red soldier.  It should 
+not be a surprise that the red soldier appears directly north of a mine.  Now 
+you'll see a bunker at the end of the land bridge.  Watch out for the mine 
+south of the bunker.  Destroy the bunker for bullets and grenades.  Now you 
+have two paths heading north.  Take the left one and fire at the floor tiles 
+as you head up.  You'll uncover a knife on the tiles left of the top right 
+pool.
+
+Now you'll be fighting black soldiers.  Don't worry because they die as 
+easily as regular soldiers.  You'll then be in front of four tunnels.  I'll 
+call them tunnels 1-4 starting from the left again.  Tunnels 1 and 4 are 
+safe.  Tunnels 2 and 3 both have land mines in them and there is no way to 
+walk around them.  Taking tunnels 1 or 4 would be the smart thing to do 
+right?  Well, tunnel 3 has a hidden triple shot in it.  It's not particularly 
+useful unless you don't have other gun powerups.  However, if you do choose 
+to get it, then you need to stop right after you get it because there is a 
+land mine directly above the spot it appears.  Now take either tunnel 1 or 
+tunnel 4 up to the gate.  You'll then realize why tunnels 2 and 3 both had 
+mines.  The reason was to make killing the two fortress guards by the gate 
+more difficult.  This isn't a problem for those with long range or B-
+grenades.  However, killing them without powerups requires good timing and a 
+little luck.  Take them both out and then destroy the skull door.  Then get 
+the fuel and head through the gate.
+
+
+Gate 4
+======
+You'll be greeted immediately by a fortress guard on the wall above you.  
+Clear the area of soldiers first.  The red soldier drops an S.  Grenade the 
+guard after you have cleared enough soldiers.  Now head up along the right 
+side.  Stay close to the right side the entire time.  You'll come across 
+another red soldier.  He also drops an S.  Now you'll see a very tight 
+opening between the purple walls on the right.  You should be able to see the 
+mine.  What you need to do is to carefully move into the small space between 
+the left of the mine and the purple wall.  It is tricky but possible to 
+squeeze through.  As you head up you will see an FL soldier on the wall to 
+the north.  Squeezing through the small space gives you a perfect vantage 
+point from which to kill the soldier.  The red soldiers that you see on the 
+screen both have L's.
+
+Carefully head down the center but keep an eye out for land mines.  Now stay 
+to the left side.  You'll see fortress guards on the walls on both sides.  
+Two flame thrower soldiers are between them.  Kill the fortress guards first.  
+Then pick off the flame thrower soldiers.  You'll need to do all this on 
+foot.  This also applies to those with tanks because the tank will not be 
+able to past the stairs so there's no point in staying in the tank any 
+longer.  There is a hidden heart under the left flame thrower soldier.  You 
+should have found it as you were killing the soldier.  After you wipe out 
+everyone, just head north.  Stay on the steps.  They may slow you down but 
+not as much as walking in water does.  Watch out for kamikaze soldiers as you 
+charge ahead.
+
+You'll soon come to two tunnels.  A fortress guard is positioned high atop 
+the wall between the tunnels.  Take him down first.  Now you have a choice.  
+The left tunnel has a hidden H in it while the right tunnel has a hidden SS.  
+Both are found by just shooting inside of each tunnel.  Unless you really, 
+really need ammo, I advise taking the right tunnel.  If you are careful, you 
+can get your cake and eat it too because you can move up to get the H and 
+then double back around to the right tunnel and be on your way.  Watch out 
+for a self destruct soldier in the tunnels.  Now on the other side of the 
+tunnel is the reason why we took it instead of the left one, the FL soldier.  
+He is high on the right wall.  If you had taken the left route, then he would 
+have had an easier time sniping you.  In the center is a fortress guard.  
+Left of him is a homing missile soldier.  Kill the fortress guard.  Don't 
+waste your time with the homing missile soldier.  Just head up the right 
+path.
+
+You'll now be at the foot of a gate.  Shoot the top of the oil drum to find a 
+hidden heart.  Now you have the same old fortress guards to take care of.  
+Kill the left one first because he's easier to kill.  Now the cone on the 
+right will make killing the right guard a pain.  Try to find a good angle and 
+let him have a taste of your grenades.  Destroy the skull door afterwards.  
+Grab the fuel and bullets that the door leaves behind.  Now move up slowly 
+until you see the next pair of fortress guards.  Killing these two will be 
+tough without F or L powerups.  If you have them both, then just run back to 
+the front of the gate, line up under them, and fire away.  If you don't have 
+these powerups then you'll need to quickly run up, turn and toss a grenade, 
+and then run back.  Hopefully, you will dodge the guards' B-grenades.  Now 
+head through the rest of the gate.
+
+
+Gate 5
+======
+You'll immediately see a red soldier.  He carries an F.  Then you should spot 
+a homing missile soldier on an island to the northwest.  Head down the center 
+of the screen and you'll see a self destruct soldier rush out from the 
+center.  You are in the perfect position to kill him so waste him before he 
+wastes you.  Head up and you'll now see a missile soldier to the right.  A 
+red soldier appears in the center.  He carries a B.  Now head up and you'll 
+see a stationary yellow tank on the left island.  Although the pink pipes to 
+the left prevent an easy grenade toss, it won't matter since you picked up B-
+grenades.  A red soldier will come at you from the right side.  He also drops 
+a B.  Head up the center and a self destruct soldier comes down.  Kill him 
+quickly.
+
+Now you should see that pink pipes split the path forward in two.  Do not go 
+up the right side.  It leads to a dead end.  However, if you stand on the far 
+right side and shoot north towards the water at the top, then you will find a 
+hidden heart.  Unfortunately, after you get this heart, the screen will be 
+too far up and you will be forced to die.  This renders getting the heart 
+completely useless and detrimental if you already had a heart because now you 
+will lose everything if you die again.  Save yourself the headache and take 
+the left side instead.  Now you should have already spotted the two yellow 
+tanks waiting for you ahead.  Destroy the left one by attacking from atop the 
+yellow pipes.  Then run up along the left side.  Turn right and destroy the 
+other tank.  Do not engage the other tank while you are in the water or you 
+will surely die.
+
+Head north until you see another yellow tank to the left.  It will be on top 
+of pink pipes.  Grenade it and then look at the island east of the one that 
+the tank was one.  It will have four purple floor tiles on it.  Shoot the 
+northern purple floor tile to find a hidden SS.  Head up the middle and 
+you'll see another yellow tank on the left island.  Stand to the right of the 
+leftmost pink piping and face north.  You'll be safe from the tank's missiles 
+at that location.  Then grenade the tank.  Now you have two paths to take.  
+Do not go right or you'll get stuck in a dead end and this time there is no 
+hidden heart there to save you.  Continue to head down the center.  You'll 
+quickly spot a self destruct soldier swimming towards.  Take him down and 
+continue onward.
+
+You'll see four land bridges leading up.  Two yellow tanks patrol the two 
+middle bridges.  You can destroy them both with one B-grenade by tossing it 
+in the center pool of water.  The explosion radius is wide enough to take 
+them both out.  Now head up through the middle pool of water.  A red soldier 
+comes at you from the right pool of water.  He leaves an L behind.  A self 
+destruct soldier will run at you from the left pool of water.  Killing him 
+will be easy since he has trouble scaling the steps.  Don't get careless and 
+get shot by him.  Now you will come across four tunnels.  I'll label them 1-4 
+starting from the left.  Tunnels 1 and 3 both have homing sensors in them so 
+take tunnel 4 instead.  Tunnel 2 is also safe but tunnel 4 is faster.  Now 
+you'll see three skull doors but no fortress guards.  Take out the doors.  
+The right door is the only one that drops nothing behind.  The other two both 
+have land mines in them so take the right door to avoid the mines.  You've 
+now passed through gate 6.
+
+
+Gate 6
+======
+You'll be immediately attacked by two moving cannons.  The right cannon will 
+be your immediate threat if you took the right door through the gate.  
+Destroy whichever cannon is closest to you.  Then take out the other.  Now 
+head up along the left side.  You'll see two more moving cannons on the right 
+side.  You should see a red octagon pattern on the left side.  Stand under 
+it.  Now wait for an opportunity to attack the left cannon.  Then you should 
+have noticed that the other cannon is nowhere to be found.  It actually went 
+up off the screen and will return in a little while.  Move over to the right 
+and wait for it to come back.  You can move the screen forward to help speed 
+things up.  Destroy the cannon after it reappears.  Then stand to the right 
+of the red octagon pattern and head up to fight a super tank.  It's been 
+awhile since you last fought one of these so take it out with some grenades.  
+Now head up.
+
+You'll see five tunnels.  I'll label them 1-5 starting from the left again.  
+Do not take any of them.  Every one except the middle one is rigged with a 
+land mine that is unavoidable.  Instead, stand in front of tunnel 4.  Then 
+shoot up through it.  You'll uncover a hidden heart.  Then head up.  You will 
+see a new enemy, the armored soldier.  This guy can be treated like a regular 
+soldier except for two differences.  The first difference is that he fires 
+lasers.  Although the lasers may look deadly, they will not kill you if you 
+have a knife.  The second difference is that the soldiers will explode 
+(regular grenade sized explosion) if you kill them.  This means that you 
+cannot use the knife powerup to kill them through contact.  Getting the 
+immunity from lasers more than justifies losing the ability to kill the 
+soldiers through contact.  Just keep away from them and you'll be fine.
+
+Now you should run up through the opening between tunnel 2 and the cone.  
+Then you will see two moving cannons.  You only have a second to quickly toss 
+a B-grenade up after you see them.  The grenade will destroy both cannons if 
+you threw it fast enough.  If you weren't fast enough, then you will need to 
+move left or right to avoid the missiles that got fired by the cannons.  Head 
+up and you'll see red carpeting going down the center.  This should clue you 
+in that you are in the final area if you haven't already figured it out from 
+fighting the armored soldiers.  Head up the center of the carpet and fire 
+away.  You'll find a hidden heart on the near the center of the carpet 
+between the second and third row of purple floor tiles on the sides of the 
+carpet.  Head up the middle and you'll soon see two more moving cannons.  
+Quickly toss a grenade to destroy them.  Now to the right is an armored L 
+soldier.  Think of him as an FL soldier.  Take him down.  Then head up and 
+you'll see another armored L soldier come out from the left side.  Take him 
+down as well.  You'll now be at a gate.  The left soldier above the gate is 
+an armored L soldier.  The right one is an armored fortress guard.  Take out 
+the L soldier first.  Then kill the fortress guard.  Destroy the door to find 
+fuel.  Head on through the gate.
+
+
+Gate 7
+======
+Start firing down the middle to find a hidden heart at the bottom of the 
+carpet.  Now I hope you still have a knife on you or the armored soldiers 
+will be difficult to pass.  Leave nothing to chance and waste everyone as you 
+head up.  Stay to the left of the carpet.  You'll soon come to gray flashing 
+floor tiles.  To your north are two armored missile soldiers.  These guys 
+will chase after you and explode with B-grenade radius if you kill them.  The 
+left soldier will be your immediate threat.  Quickly shoot or grenade him 
+from a distance.  Do not kill him in close range or the explosion will kill 
+you.  The other soldier should have been caught against a wall if you were 
+far enough to the left.  Run diagonally to him and finish him off.
+
+Now stand on the far left or far right side of the carpet.  I strongly 
+recommend the far right side.  Make sure that you are still on the carpet 
+however.  Then head up and you'll face the final boss of the game.  Since he 
+looks like a skull, why not call the boss "Skull Face?"  Now his attack is to 
+spit out two fireballs that explode like B-grenades.  However, his aim is 
+just like every other enemy in the game.  So if you stay to one side of his 
+face, you can dodge his shots.  Do not stand left or right of the red carpet 
+or Skull Face will shoot diagonally at you.  Standing directly in front of 
+Skull Face is obviously a suicide mission.  Before I forget, you can no 
+longer use the continue code once you start fighting Skull Face.
+
+Now if you look carefully, you should see six blocks in front of Skull Face 
+that look different from the other floor tiles.  These blocks cannot be 
+passed through.  This is the reason why you should stay on the right side of 
+the carpet.  If you look at it, you will see that you can approach Skull Face 
+from the right side without having to waste time going around the blocks.  
+However, heading up via the left side of the carpet will force you to go 
+around the block in your way.  Doing so will definitely cause Skull Face to 
+fire diagonally at you.  It should be apparent that the black and gray 
+striped lines running diagonally out from Skull Face are actually walls and 
+cannot be passed through.  It is also interesting to note that you can stand 
+on Skull Face himself without dying.  Only his shots can kill you.
+
+Anyway, just get within grenade range and toss grenades at Skull Face until 
+he blows up.  You need to be close enough or you'll get caught by Skull 
+Face's shot explosions.  His face will start to flash red after you inflict 
+enough damage.  It takes around 10-15 grenades to destroy him.  He will leave 
+a gold heart behind.  Now you have two options.  You can finish the game now 
+or continue playing from the beginning with your score intact.  If you want 
+to win the game now, then grab the gold heart.  You will get 40,000 bonus 
+points.  You should have over 500,000 points if you never continued since the 
+start of the game.
+
+If you want to keep playing then recall how you finished area 3.  Recall that 
+you found a hidden staircase by tossing a grenade at the right spot.  For 
+this part, the right spot is on the row of spaces directly above the red 
+carpet and below the six impassable blocks.  Just systematically grenade each 
+spot along that row and you'll find a hidden staircase.  The location is 
+different every time but it usually is around the center although it 
+sometimes can be found farther out.  Enter it to finish area 4.  You'll get 
+40,000 bonus points like usual.  Then you won't see the congratulatory 
+message.  Instead, you will start at area 1.  Your score will remain intact 
+as will your items if you still had a heart when you entered the stairs.
+
+
+Congratulations on finishing the game no matter what option you choose.  Now 
+I present the ending in all its glory.  Trust me it's not that great.  Yes, 
+the text is the exact message that is said.
+
+<begin quote>
+
+You have accomplished the mission.  You are the very prevailer that protect 
+right and justice.  I would express my sincere.  Thanks to you.  Take good 
+rest!

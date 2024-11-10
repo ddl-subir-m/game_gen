@@ -1,0 +1,363 @@
+Welcome to my FAQ for Qix.  Since the game has you continuously making boxes to
+get the required area in the game, there is no walkthrough per se.  Instead it
+will be broken up into the game itself and strategies for survival.  Input is
+appreciated along with constructive criticism.  If you wish to e-mail me
+thoughts on this FAQ, better ways of doing things, other strategies, etc., feel
+free.  Make sure you put Qix as the subject.  If you don't, I'm liable to
+discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Qix was created by a company that really does not need an introduction.  They
+took the world by storm in 1978 with Space Invaders.  After Space Invaders,
+they created such games as Lunar Rescue and Space Invaders II.  Qix was another
+innovation by Taito.  It went contrary to all the other games of the day
+(except perhaps Pac-Man).  It wasn't a space-shoot-em-up type of game, but one
+that actually required one to plan and think actual strategy to accomplish the
+game's objectives.  Although tournaments were held to see who was the master of
+this game, it really never took off.  This may have due to the very reason it
+was so innovative, it required people to actually think about the game instead
+of the mindless entertainment of shooting up aliens.  Have fun and good luck
+avoiding the Qix.
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Qix is a two-dimensional, overhead style game.  You are responsible for moving
+your Marker around the perimeter of the game screen.  At opportune moments, you
+need to create "boxes" to reclaim some of the area that the Qix is in.  As you
+continue to make these "boxes", the percentage area that you have claimed will
+go up.  Once you reach the threshold area, then you go onto the next screen.
+To keep you from accomplishing this area gain are various enemies:  The Qix it-
+self, Sparx, and Fuses.  After a certain time, the Qix will split and you will
+have to contend with two of them "running" around the game screen.  The action
+is continuous and sometimes the mental strain is great.  There is no time limit
+but the enemies make sure you don't have too much time to think.  Maybe it is
+time for more mindless entertainment destroying aliens.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  A four-way joystick for moving left, right, up, and down
+
+-  A slow button
+
+-  A fast button
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Qix involves just one screen.  I have included an example of what the playing
+screen looks like:
+
+    +-------------------------------------------------------------------+
+    |                                                        MARKERS    |
+    |                                                         LEFT->O   |
+    |              AREA YOU'VE     CLAIMED                  SCORE   O   |
+    | GRAPHIC OF   CLAIMED SO FAR->57% 75%<-THRESHOLD               O   |
+    | AREA CLAIMED ->------------------------------------               |
+    |  +---------------------------------------*---------------------+  |
+    |  |                                                             |  |
+    |  |                                                             |  |
+    |  |                       \ |                                   |  |
+    |  |                        \|                                   |  |
+    |  |                         |    /                              |  |
+    |  |                         |\  /                               |  |
+    |  |                         | \/ /<- QIX                        |  |
+    |  *<- SPARX                   / /                               |  |
+    |  |                          / /                                |  |
+    |  |                                    PLAYING FIELD            |  |
+    |  |                                                             |  |
+    |  |             +- YOUR MARKER                                  |  |
+    |  |             |                                               |  |
+    |  |             V                                               |  |
+    |  |         ___/\_____                                          |  |
+    |  |         |  \/    |                                          |  |
+    |  |         |      <-- CLAIMED AREA                             |  |
+    |  |         |        |                                          |  |
+    |  +---------+--------+------------------------------------------+  |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control your Marker through the screens.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+There are a couple of ways you earn points in Qix.  The first involves actually
+claiming areas.
+
+There are two buttons, slow and fast.  These buttons determine how fast your
+Marker goes.  In essence, going slow increases the risk of losing your Marker
+so it is obviously worth more points.  Here's how the points work out for
+making "boxes":
+
+Slow:
+
+It is a base 500 points multiplied by the percentage of area covered by that
+box.  For example, if you create a box that claims 3% of the total area, then
+points scored would be 500 X 3 or 1500 points.  This area fills in with brown.
+
+Fast:
+
+It is a base 250 points multiplied by the percentage of area covered by that
+box.  For example, if you create a box that claims 1% of the total area, then
+points scored would be 250 X 1 or 250 points.  This area fills in with blue.
+
+NOTE:  The above points may not be exact since the game rounds off the
+percentages to whole numbers for display but calculates them using decimal
+percentages.
+
+You also get bonus points for going above the 75% Threshold.  Any percentage
+above the 75% Threshold is multiplied by 1000 to determine your bonus points.
+
+During the split Qix screens, if you successfully split the Qix's into their
+own compartments, you will get a multiplier bonus that is applied to points
+scored when you are making boxes.  For example, if you had a 250 points and the
+multiplier was 3X, you now have 750 points.  This multiplier increments by one
+every time you successfully split the Qix's.  Of course, when you do this, you
+don't get the bonus points (if you had any).
+
+You get 3 Markers for the game.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your Marker will be at the bottom, middle of the
+playing screen.  It is now up to you to start creating boxes.  Keep in mind
+that you need to be constantly moving or the Sparx will take out your Marker.
+In addition, when you are moving your Marker around the perimeter, you can only
+move along the perimeter actually touching the Playing Field.
+
+-  First of all, you must be constantly aware of two things.  First, you must
+   know where the Qix is located at all times.  It moves randomly and can go
+   anywhere on the Playing Field that your boxes haven't blocked.  Last, the
+   Sparx are constantly moving around the perimeter of the Playing Field.  This
+   can set up a dangerous situation where one Sparx is coming at you from one
+   way and another from the other to make your Marker a "Sparx Sandwich".
+
+-  Once you have assessed the danger, it is time to start making boxes.  There
+   are a few things to note when you are making boxes:
+
+   -  When you start to draw the line, the Sparx cannot travel along the new
+      perimeter you are creating until it is filled in.
+
+   -  The Qix, though, is your primary concern.  If it touches any part of a
+      line before the box is filled in, you will lose your Marker.
+
+   -  The box must begin and end either at a filled box or on the side of the
+      Playing Field.  You cannot connect the line to itself.  If you try to do
+      this, you will go into what is called a "Spiral Death Trap" and a Fuse
+      will follow your line to your Marker and destroy it.
+
+_______________________________________________________________________________
+
+Here is what I am talking about in how to make boxes:
+
+       +---------------------------------------*---------------------+
+       |                                                             |
+       |                                                             |
+       |                       \ |                                   |
+       |                        \|                                   |
+       |                         |    /                              |
+       |                         |\  /                               |
+       |                         | \/ /                              |
+       *                           / /                               |
+       |                          / /                                |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       +________/\___________________________________________________+
+                \/
+
+-  Press either the Slow or Fast button and push the joystick up to start the
+   line creation.  Keep in mind, once you choose a speed, you are committed to
+   that speed until the box is made.
+
+       +------------------------------------------------------------*+
+       |                                                             |
+       |                                                             |
+       |                       \ |                                   |
+       |                        \|                                   |
+       |                         |    /                              |
+       |                         |\  /                               |
+       |                         | \/ /                              |
+       |                           / /                               |
+       |                          / /                                |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       *                                                             |
+       |         /\                                                  |
+       |         \/                                                  |
+       |         |                                                   |
+       |         |                                                   |
+       +---------+---------------------------------------------------+
+
+-  The Qix looks close so push the joystick to the right.
+
+       +-------------------------------------------------------------+
+       |                                                             |
+       |                                                             |
+       |                       \ |                                   |
+       |                        \|                                   |
+       |                         |    /                              |
+       |                         |\  /                               |
+       |                         | \/ /                              |
+       |                           / /                               |
+       |                          / /                                *
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |         ___/\_____                                          |
+       |         |  \/                                               |
+       |         |                                                   |
+       |         |                                                   |
+       +---------+--*------------------------------------------------+
+
+-  Now, we have to connect the last part either to the border of the Playing
+   Field or a filled in box.  Looks like we are close to the border so we will
+   connect it there.
+
+       +-------------------------------------------------------------+
+       |                                                             |
+       |                                                             |
+       |                       \ |                                   |
+       |                        \|                                   |
+       |                         |    /                              |
+       |                         |\  /                               |
+       |                         | \/ /                              |
+       |                           / /                               |
+       |                          / /                                |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |         __________                                          |
+       |         |        |                                          |
+       |         |        |                                          |
+       |         |        |                                          *
+       +_________|________/\____*____________________________________+
+                          \/
+
+-  Once you connect the last part successfully, the box will fill in either
+   brown or blue depending on the speed button selected.  Congratulations, you
+   have made your first box.  You continue to do this with varying sizes of
+   boxes (again, dependent on risk), until you get at or greater then the
+   Threshold.
+
+This is the "Spiral Death Trap":
+
+       +-------------------------------------------------------------+
+       |                                                             |
+       |                                                             |
+       |                       \ |                                   |
+       |                        \|                                   |
+       |                         |    /                              |
+       |                         |\  /                               |
+       |                         | \/ /                              |
+       |                           / /                               |
+       |                          / /                                |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |                                                             |
+       |         __________                                          |
+       |         |        |                                          |
+       |         |        |                                          |
+       |         |_/\_____+                                          |
+       |         | \/                                                |
+       |         |                                                   *
+       +---------+--------------*------------------------------------+
+                FUSE         
+
+-  Instead of connecting to the border or a filled in box, you attempt to
+   connect to the line you have drawn.  You cannot do this.  What will happen
+   is a Fuse will ignite where FUSE appears.  It will travel up to your Marker
+   via the line to destroy your Marker.  Another way the Fuse appears is if you
+   hesitate or delay in the middle of box creation.
+
+_______________________________________________________________________________
+
+-  After the fourth wave, the Qix will split in two.  Now you have two Qix's
+   bouncing around to deal with.  You major goal is to actually "split" the
+   Qix's into their own areas.  This means creating a series of boxes so that
+   each Qix will be in its own compartment.  See Chapter 6.3 for how this is
+   scored.
+
+-  For maximum points, you must do two things:
+
+   -  First, use the slow button as much as possible since this is where the
+      points are.
+
+   -  Try to claim as much area in each box as possible.  That percentage
+      multiplied by the speed value can yield some big point values.
+ 
+   -  Constantly try to split the Qix's (if you can) to get that bonus
+      multiplier even higher.
+
+   -  When you are close to the Threshold, find an area in the Playing Field
+      that hasn't really been touched and try to make a big box.  That way, you
+      will go over the 75% Threshold and claim a bonus.
+
+-  As the waves progress, everything gets faster and the game will become less
+   forgiving if you are less then committed to making a box.
+
+-  Also, listen for sounds in this game.  The only real sound you need to be
+   concerned with is what sounds like a fuse being lit.  If you are making a
+   box and you hear this sound, that means you are taking too long or you have
+   unfortunately gotten yourself into a "Spiral Death Trap".  In the case of
+   delay, once you move the fuse will go out.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+When this game came out, it was sitting by itself in a corner of the local con-
+venience store.  The attract noises are what first brought me over to the game.
+I watched a little of the demo but I figured that I would have to play the game
+if I was going to understand it at all.  At first, it was kind of difficult to
+figure out what I had to do.  With practice, however, one got better at the
+game by learning the nuances and strategies for survival.  It was the un-
+predictability of the game that kept it interesting and definitely increased
+its playability.  Unfortunately, it is very rare to find this machine anywhere.
+However, through the miracle of emulation, a whole new generation is realizing
+what we "old" folks enjoyed those many years ago.  In addition,
+www.shockwave.com is bringing many of these classic games back.  Check out
+their site to see what ones are there.  I hope this guide helps you in being
+able to get the most amount of gameplay for this game.  If you do have other
+ideas or thoughts, please e-mail me and share them.  Who knows, maybe I'll
+start a Q&A Chapter in this guide if enough people ask the same questions. Any-
+way, thank you again for reading this guide.

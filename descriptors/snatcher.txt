@@ -1,0 +1,868 @@
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+I. CONTROLS                                                              [CNTR]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Not surprisingly, for an FMV adventure, the control scheme is fairly simple.
+ There's no way to change the controls once you've started the game, however;
+ the only window of opportunity is when selecting 'New Game' from the main
+ menu. [Buttons without a function're omitted from list.]
+
+ A: Draw/holster blaster
+ B: Cancel
+ C: Shoot
+                                                     ________________________
+____________________________________________________/ II. WALKTHROUGH [WLKT] |_
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+01) ACT 1: SNATCH                                                        [WK01]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Snatcher is a menu-driven text adventure game, and as such, has a pretty low
+ learning curve. The story is separated into three acts, the first of which
+ introduces our protagonist, Gillian Seed. He's been recruited by the JUNKER
+ agency to fight Snatchers, mechanical beings masquerading as humans in order
+ to steal their identities. 
+
+ The walkthrough will list the minimal procedures to complete the story, but
+ to get the full experience, new players are recommended to inspect options
+ multiple times and dawdle a bit. Why? Because the script is very well-made,
+ and there's often new observations or conversations that play on repeat
+ searches. It's one of the crowning achievements of Snatcher, so don't pass
+ 'em by! [During the walkthrough's course, I'll note any interesting tidbits,
+ too, so don't worry about missing 'em. Also, the order listed isn't always
+ set in stone, so don't feel obligated to follow it verbatim!]
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • ENTER once
+ • TALK at OPERATOR (who introduces herself as Mika Slayton)
+ • ASK about JUNKERS, NEO KOBE, MIKA
+ • ENTER again (to start grand tour)
+ • Pick CHIEF'S OFFICE (you're rerouted here if you pick anything else)
+ • ASK about JUNKERS, then SNATCHERS
+ • ASK about JUNKER AUTHORITY, then NAVIGATORS
+ • ASK about JUNKER DUTIES and JUNKER STAFF
+
+ After exhausting the conversation options, Gillian obtains the JUNKER I.D.
+ card and some CASH, two items now available in the Possessions menu. Chief
+ Cunningham says Harry (in Engineering) has some equipment ready, so that's
+ the next stop -- although other places are available for exploration, too.
+
+ • EXIT to ENGINEERING ROOM
+ • EXIT to DETECTIVE'S ROOM -.
+ • EXIT to COMPUTER ROOM     |- Doable in any order
+ • EXIT to SHOOTING RANGE   -'
+ • EXIT to ENGINEERING ROOM
+ • ASK about NAVIGATORS to meet Metal Gear
+
+ Metal Gear is Gillian's navigation robot and, during adventures, his "partner
+ in crime." In addition to providing some much-needed humor, Metal Gear pulls
+ his weight function-wise: it has a videophone, savepoint system, flashlight,
+ and can carry evidence inside. [This is explained in a conversation below.]
+
+ • ASK about BLASTER to obtain the titular weapon (doesn't appear in inventory)
+ • ASK about METAL GEAR, BLASTERS, SNATCHERS
+
+ At this point, Metal should get a videophone call from Jean Jack Gibson, the
+ group's other "runner," or Snatcher-eliminator. He'll say he wants backup at
+ the abandoned factory.
+
+ • USE METAL GEAR to SAVE (recommended as it's the first chance to do so)
+ • ENTER TURBOCYCLE and pick FACTORY RUINS
+
+ABANDONED FACTORY
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • EXIT TURBOCYCLE
+ • LOOK or INVESTIGATE any option (x8) until a scream is heard
+ • ENTER the factory
+ • MOVE and ADVANCE
+ • LOOK at LITTLE JOHN
+ • INVESTIGATE LITTLE JOHN, then MEMORY CHIP
+ • USE METAL GEAR to REPORT ANALYSIS RESULTS on "LITTLE MEMORY"
+
+ Metal then says that his videophone transmissions are being affected by the
+ presence of Snow-9, a bio-engineered pollen with its own backstory. This'll
+ constantly play a part in the game, mostly serving to keep one from using the
+ videophone.
+
+ • MOVE and ADVANCE (x2)
+ • LOOK at BODY
+ • INVESTIGATE GIBSON's CORPSE (x2), then RIGHT HAND, to get HAIR & SKIN SAMPLE
+ • INVESTIGATE GIBSON's CORPSE again, then ORGANIC COMPOUNDS 
+ • INVESTIGATE GIBSON > CLOTHING (x2)
+ • INVESTIGATE the KEY and SCRAP OF PAPER to get them as evidence
+ • INVESTIGATE HAIR and SKIN SAMPLE
+ 
+ At this point, Metal's motion detector should go off, showing two shadowy
+ figures running off in the distance.
+
+ • MOVE and ADVANCE
+ • LISTEN
+ • LOOK and INVESTIGATE the FRONT
+ • INVESTIGATE the MOTION DETECTOR
+
+ Metal will hear a weird beeping noise. 
+
+ • RETREAT
+ • MOVE and RETREAT (x2)
+ • LOOK at LITTLE JOHN
+
+ The game will now remind the player about saving in situations like this.
+ Gillian gives an additional comment if he hasn't saved even once since going
+ inside, too.
+
+ • MOVE and RETREAT
+
+ At this point, Gillian will have his first actual battle, against insectors
+ (those spiderlike robots Metal mentioned). Luckily for those who used the
+ shooting range at HQ, all battles are in the exact same format. Gillian will
+ have to defeat the monsters as they appear (each occupies 1 of the 9 spots)
+ using his blaster, which must be drawn first with A-button. The fight probably
+ won't be that taxing, but just in case, that's what y'saved for. As a curio,
+ the outcome of this battle is referenced elsewhere, in the next section; if
+ Gillian gets a game over, Metal mentions it next time one's in the shooting
+ range (much to Gillian's chagrin).
+
+ • MOVE to the EXIT
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Gillian arrives here automatically after exiting the factory, and goes to
+ the Chief's office. In light of the circumstances, Gillian has options to
+ console some of the NPCs around.
+
+ • MOVE to ENGINEERING ROOM (scene removes Little John's MEMORY CHIP)
+ • LOOK at HARRY
+ • LOOK at BRANDY BOTTLE
+ • INVESTIGATE the BRANDY BOTTLE (the number 39-5644 is noticed)
+
+ Like Mika, Harry won't be in the mood for grunt work, so the chip's analysis
+ will have to wait 'til later on.
+
+ • MOVE to DETECTIVE'S ROOM
+ • INVESTIGATE the LOCKER
+ • INVESTIGATE Jean's COAT (finds chess piece)
+ • INVESTIGATE the CHESS PIECE (entered into evidence)
+ • INVESTIGATE NEAR DESK
+ • INVESTIGATE the DESK DRAWER to find it's locked
+ • POSSESSIONS > USE > KEY -- this opens the drawer
+ • LOOK at and INVESTIGATE the DISK (entered into evidence)
+ • INVESTIGATE the CAPSULE to learn its contents (Metal records findings)
+ • MOVE to FRONT
+ • ASK Mika about BUFFALO RESTAURANT (x2)
+ • ASK about NAPOLEON (x2)
+
+ Mika will suggest tracking down Jean's informant Napoleon, saying he must've
+ left a clue to his whereabouts, perhaps a videophone number...? Ahh, that's
+ right, that weird number we found on Harry's bottle! [There's a funny convo
+ if you call Napoleon immediately without being tipped off, or if you give the
+ password without looking it up, where Metal is suspicious of how Gillian knew
+ the answer.]
+
+ • USE METAL GEAR > VIDEOPHONE
+ • CALL 39-5644 to reach Napoleon
+
+ Napoleon will ask for a password based off the historical figure Napoleon,
+ which can be looked up at HQ's computer. [Metal suggests this if you fail the
+ first time.] Correctly input the last part of the informant's phrase -- either
+ (the 100-year) REIGN or (the revolution) IS ENDED -- and he'll establish a
+ meeting at Alton Plaza. Naturally that location's now visitable.
+
+ While leaving HQ, Mika will ask about the last time Gillian talked with his
+ wife. He'll be reminded her number's written down at home. This is entirely
+ optional, of course, but if you want to keep up appearances... The real leads
+ are the Napoleon and Jean Jack's desk items. Heading to his house is also
+ available.
+
+GILLIAN'S APARTMENT [OPTIONAL]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • MOVE > GO INSIDE
+ • LOOK at SHELF
+ • INVESTIGATE the PHOTO to learn Jamie's number (39-3444)
+ • USE METAL GEAR > VIDEOPHONE
+
+ At this point, you can talk about work, going on a date, that sort of stuff.
+ The conversation's length is left up to the player. However, now that you've
+ learned what a videophone number looks like, if you inspected the brandy
+ bottle at HQ, you'll realize those digits aren't random gibberish.
+
+GIBSON'S HOUSE
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • INVESTIGATE the HOUSE
+ • KNOCK on the front door
+ • TALK to the naturally suspicious Katrina
+ • POSSESSIONS > SHOW > JUNKER I.D.
+
+ At this point, Katrina will say a real Junker would know her father's age.
+ This hasn't been explicitly stated anywhere yet, and it requires going back
+ to Headquarters and looking up Gibson on the computer. [Input subsequent
+ wrong answers to the question and Metal will remind Gillian of this fact.
+ You can keep answering until you guess it right, too.]
+
+ • ANSWER QUESTION > GIBSON'S AGE > 55
+
+ Katrina will still be understandably cautious and ask another question, this
+ time about herself. Using the Jordan computer at Headquarters reveals all the
+ information needed. [Subsequent wrong answers will earn Gillian a reminder
+ from Metal, to which Seed wonders if there's other female info in Jordan's
+ databanks. Also, inputting lewd answers, such as "ass," may give a funnier
+ response from Katrina. The amount of incorrect answers seems to affect
+ nothing.]
+
+ • ANSWER QUESTION > ABOUT KATRINA > BIRTHMARK > HEART > THIGH
+
+ With that, Gillian gets entrance and can start the questioning. [Note that
+ if he hits on Katrina too much, she'll throw him out. The easiest way to
+ rectify the situation is by knocking on the door until she caves, at which
+ time Gillian can't hit on her any longer.]
+
+ • ASK Katrina ABOUT GIBSON
+ • MOVE to the STUDY
+ • LOOK at the WINDOW (unlocks Backyard Garden)
+ • SHOW Katrina the DISK from the inventory
+ • ASK ABOUT PC68
+ • INVESTIGATE the COMPUTER
+ • POSSESSIONS > USE > DISK
+
+ The ensuing scene reveals why snatchers are nocturnal creatures, and also
+ gives a checklist for outing them: (1) investigate their skin (2) smell the
+ skin; cancerous cells give off a pungent odor (3) the detection of Snow-9
+ biopollen typically heralds a snatcher's presence (4) year-round sunscreen
+ usage. Gibson states he also found the snatchers' skin treatment hospital,
+ but doesn't tell where...
+
+ • LOOK at DESK (opens up new options)
+ • LOOK at and INVESTIGATE BOTTLE (SUNSCREEN put into inventory)
+ • LOOK at and INVESTIGATE PHOTO (GIBSON'S PHOTO put into inventory)
+
+ After all this is done, there'll be a scene where the pet doberman Alice
+ starts barking in the backyard; Seed automatically moves there.
+
+ • LOOK or INVESTIGATE any option (x7)
+ • RETURN TO STUDY
+ • MOVE to LIVING ROOM, then EXIT
+ • ENTER TURBOCYCLE
+
+ If you've talked with Napoleon and established a meet, it's time to visit
+ Alton Plaza; if you haven't, see the previous Junker HQ section and square
+ that portion away.
+
+ALTON PLAZA
+¯¯¯¯¯¯¯¯¯¯¯
+ This popular hangout is where Gillian waits for Napoleon. Note that if one
+ watches the background's big-screen ad long enough, the number for Plato's
+ Cavern (69-1170) will appear. Same goes for the Konami (34-5678) number.
+
+ • LOOK or INVESTIGATE any option (x6)
+ • POSSESSIONS > SHOW > JUNKER I.D.
+ • TALK ABOUT GIBSON
+ • ASK about BUFFALO CUISINE RESTAURANT
+ • POSSESSIONS > USE > CASH
+ • ASK about BUFFALO CUISINE RESTAURANT
+ • ASK about OUTER HEAVEN
+ • ASK > OUTER HEAVEN > ABOUT CLUB
+ • ASK > OUTER HEAVEN > LOCATION OF CLUB
+ • POSSESSIONS > USE > CASH
+ • ASK about PLATO'S CAVERN, then the LOCATION OF STORE
+
+ Napoleon will say a club named Outer Heaven is the only place that serves
+ buffalo since the ban went into effect. However, one can't get in without
+ wearing a mask from Plato's Cavern. Since Napoleon doesn't tell the store's
+ location, there's only one thing to do.
+
+ • USE METAL GEAR > VIDEOPHONE > 69-1170
+ • ASK > LOCATION OF STORE
+
+ At this point, Gillian should have both the Cavern & Outer Heaven as available
+ turbocycle spots. [If for some reason you sent Napoleon home early, you'll
+ have to reorganize another meeting or just reload from the last save.] Before
+ leaving, there's a few more scenes to experience, optional though they are.
+
+ • LOOK or INVESTIGATE (x30ish) to unlock PICK UP WOMAN option
+ • PICK UP WOMAN (x4) for some hilarious girl trouble
+
+ You can also find the Cupid Love Line (55-6666) number and a fortune-teller
+ scene by repeatedly searching the crowd, too.
+
+PLATO'S CAVERN
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Remember, you have to call the number (69-1170) found at Alton Plaza in order
+ to reach this place! First, let's get the mandatory stuff out of the way.
+
+ • MOVE > ENTER STORE
+ • LOOK at WALL (x2)
+ • BUY > MASK > MUMMY or MOAI
+
+ If you want a little foreshadowing, ask about Gibson and show the clerk his
+ photo (if you got it from Katrina's house) to learn someone recently bought a
+ large supply of sunscreen... Hmmmm... Anyway, on the street there's a funny
+ optional scene where Gillian and Metal can try Neo Kobe Pizza:
+
+ • SMELL (x1)
+ • INVESTIGATE the FOOD STAND (x2)
+ • SMELL (x1)
+ • EAT NEO KOBE PIZZA
+
+ "My pizza! I want my PIZZA!" Truly those words echo in all of us at some
+ point! Heh heh... Now that a mask's been bought, it's time to visit Outer
+ Heaven and investigate that buffalo... Make sure you have Gibson's picture
+ or some backtracking'll be necessary.
+
+OUTER HEAVEN
+¯¯¯¯¯¯¯¯¯¯¯¯
+ • POSSESSIONS > USE > MASK
+ • MOVE > GO INSIDE
+
+ If you haven't gotten a mask at Plato's Cavern, the doorman won't allow Seed
+ passage; however, he does namedrop the store, so there's that lead.
+
+ • LOOK at DANCER
+ • CALL the DANCER (Isabella)
+ • ASK ABOUT GIBSON
+ • POSSESSIONS > SHOW > PHOTO > GIBSON'S PHOTO (x2)
+ • ASK ABOUT GIBSON
+ • ASK ABOUT THAT MAN
+ • ASK ABOUT THAT MAN > MAN'S DESCRIPTION
+
+ At this point, Gillian can ask Isabella about "the regular"'s facial shape,
+ type of eyes, nose, mouth, hair and age. Since she can't come down to the
+ station, the player has to remember the info to create the composite sketch
+ later on. Once all the questions've been asked, that ends the mandatory part
+ of the club scene.
+
+ But don't leave yet. Keep asking Isabella on a date (Ask > Videophone Number)
+ and she'll eventually spill the beans after six or seven attempts: 39-6004.
+ Other notable things include: (1) ordering food and drink for some enjoyable
+ scenes (2) looking at the customers dressed like circa-1994 Konami stars, and
+ the hilarious observations, particularly about Castlevania (3) flashing one's
+ Junker I.D., which gets Gillian kicked out of the club...not recommended if
+ you're still searching for info.
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ With details on Jean's suspect, it's time to create a digital sketch.
+
+ • MOVE to the COMPUTER ROOM
+ • USE JORDAN > USE CARD > CREATE MONTAGE
+ • FACIAL SHAPE > 3
+ • EYES > 6
+ • NOSE > 1
+ • MOUTH > 3
+ • HAIR STYLE > 2
+ • SCAN DATABASE
+
+ Gillian gives some clues about what Isabella said, but the player has to
+ remember most of it him/herself. If one creates a montage that doesn't fit
+ perfectly, no matches will be found. However, when one finally does hit the
+ jackpot, two suspects are located: Ivan Rodriguez and Freddy Nielsen. Their
+ apartments are available spots via the turbocycle, now.
+
+IVAN'S APARTMENT
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ In the grand scheme of things, this section of events must be done first.
+ Note: if Gillian hasn't called Jamie in this Act yet, neither suspect will
+ be at their apartment, and Metal will suggest resting at home (a subtle clue
+ to where Jamie's videophone number is). After having a conversation with the
+ wife, Ivan's events can be done.
+
+ • LOOK at AREA, then the FREEMAN
+ • ASK ABOUT IVAN
+ • POSSESSIONS > SHOW > PHOTO > MONTAGE PHOTO
+ • ASK ABOUT IVAN
+
+ Asking about the background is the only chance to learn the 30-2501 number,
+ the freeman's dad.
+
+ • MOVE to ROOM 301
+ • LOOK at AREA
+ • INVESTIGATE the METER
+ • LOOK at DOOR
+ • LOOK at and INVESTIGATE the PLATE
+ • KNOCK (x2)
+ • TALK (x2)
+
+ When Ivan opens the door, he'll be packing heat! Quickly draw your blaster
+ and disarm him like a pro.
+
+ • INTERROGATE (x2)
+ • LOOK at IVAN, AROUND ROOM, then at the TROPHY
+ • INVESTIGATE IVAN, his GUN, AROUND the ROOM, and the revealed GARBAGE
+
+ Gillian and his partner will then move into the bathroom.
+
+ • LOOK at SHELF and AROUND ROOM
+ • INVESTIGATE the BOTTLE and AIRBOARD
+ • LOOK at PLASTIC BAG, then INVESTIGATE it
+ • INVESTIGATE the BATHTUB RESIDUE
+
+ The ensuing scene will confirm what was patently obvious. Now it's off to the
+ next suspect...
+
+FREDDY'S APARTMENT
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Similar to the last pad, Gillian will get nowhere unless he's called Jamie
+ at least once. Remember, Ivan's place must be searched first, too.
+
+ • MOVE to ROOM 202
+ • KNOCK
+ • LOOK or INVESTIGATE any option (x7)
+ • KNOCK (x3)
+ • TALK (x2)
+
+ Gillian is let inside by Freddy's significant other, Lisa.
+
+ • LOOK at LISA (x3)
+ • TALK about FREDDY AS A SUSPECT (x2)
+ • POSSESSIONS > SHOW > PHOTO > MONTAGE PHOTO
+ • ASK ABOUT FREDDY (x2)
+ • ASK ABOUT FREDDY's RECENT BEHAVIOR, HEALTH and OCCUPATION, then ALIBI
+ • LOOK at WALL, then INVESTIGATE the MAP
+ • ASK about MEANING OF MAP and SNEEZE
+ • TALK about MONTAGE
+
+ The detectives step into the bathroom...
+
+ • INVESTIGATE the BATHTUB
+ • LOOK AROUND ROOM, and at the BATHTUB, SHELF and MIRROR
+ • LOOK at and INVESTIGATE the BOTTLE
+
+ Gillian will then be attacked by an actual snatcher! They're fought in the
+ same manner as insectors; however, snatchers are only hurt by headshots! An
+ accurate shot in this manner also negates the enemy's attack. After five hits
+ the robotic rapscallion is history.
+
+ • LOOK AT and INVESTIGATE REMAINS (automatically leave apartment)
+ • INVESTIGATE the DOOR, LOCK, then any other option (x3)
+ • OPEN DOOR
+ • Any option (x6)
+ • ENTER BATHROOM
+
+ There'll be a scene and a struggle, where Gillian faces off with the final
+ snatcher. The only way to end the fight is to aim directly upward (top-middle)
+ and fire a few times, which cues a scene with Random Hajile and his info
+ "acquisition" from Gibson. This ends the first Act! Save at the prompt, yo.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+02) ACT 2: CURE                                                          [WLK2]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ This act will involve locating the snatchers' hospital. As one soon finds out,
+ a lot of items and locations no longer pertinent to this chapter are removed.
+ The default stuff is Gillian's ID, cash, and the chess piece; default places
+ are just Gillian's Apartment and HQ. Almost like starting from scratch.
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ The duo recounts the events of the first Act to the Chief back at HQ, and
+ the boss mentions that Little John's memory may provide a clue to the clinic's
+ location.
+
+ • MOVE to ENGINEERING ROOM (Video Memory acquired)
+
+ Here, the only image salvagable from the databank is a picture that says:
+ Hospital Oleen. Harry suggests looking the place up on Jordan, but as Metal's
+ quick to mention en route, there's no such function. Instead, he thinks our
+ old informant can shed some light on the subject...
+
+ • USE METAL GEAR's VIDEOPHONE > 39-5644
+ • ANSWER PASSWORD > either REIGN or IS ENDED
+
+ The "usual place" is, of course, Alton Plaza.
+
+ALTON PLAZA
+¯¯¯¯¯¯¯¯¯¯¯
+ • LOOK at AREA, then SANTA CLAUS
+ • INVESTIGATE the SANTA CLAUS
+ • ASK about ILLICIT HOSPITAL (x2)
+
+ Napoleon mentions that all pharmaceuticals are manufactured on the island,
+ so the hospital is probably in the city. Furthermore, Jamie works for Kobe
+ Pharmaceuticals, so she might be able to help. (HINT, HINT)
+
+ • POSSESSIONS > SHOW > VIDEO MEMORY > LITTLE JOHN
+ • ASK about OLEEN
+ • POSSESSIONS > USE > CASH
+ • ASK about OLEEN, then OLEEN HOSPITAL
+ • POSSESSIONS > USE > CASH
+ • ASK about OLEEN HOSPITAL and SNOW-9
+
+ Napoleon then takes his magical bag of toys and leaves. Like the previous
+ visit, there's a few extra things to do here. Simply looking around will give
+ observations on Christmastime, and having to spend the holidays with Metal
+ being "the worst-case scenario." Metal will suggest leaving to visit Oleen
+ Hospital, but if you keep looking around the area, there'll be a hilarious
+ scene involving a ramen shop. But anyway, the new destination is added to
+ the turbocycle menu...
+
+OLEEN HOSPITAL
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • LOOK at HOSPITAL, BILLBOARD, WINDOW, NEON SIGN and DOOR
+ • INVESTIGATE the HOSPITAL and WINDOW
+ • MOVE > GO INSIDE
+
+ Gillian soon finds that this hospital ain't what he expected...
+
+ • INVESTIGATE AROUND ROOM
+ • LOOK at and INVESTIGATE the RECEPTION DESK
+ • LOOK at the NEARBY PEOPLE
+ • LOOK > SMALL ANIMALS > PARROT, PENGUIN, DOG and CAT
+ • ASK ABOUT SNATCHERS, HOSPITAL'S SPECIALTY (x2), then HOSPITAL'S DOCTOR
+ • POSSESSIONS > SHOW > VIDEO MEMORY > LITTLE JOHN
+
+ The partners leave once they realize it's just a simple veterinary clinic.
+ That makes the only usable lead Jamie, although this isn't that obvious (the
+ Chief nudges the player in this direction, if asked). For what it's worth,
+ this location can't be visited again.
+
+ • USE METAL GEAR > VIDEOPHONE > 39-3444
+
+ Jamie's pre-recorded message will says he's at work, and can be reached at
+ the Kobe Pharmaceuticals building (39-1009). A funny tidbit: if you call the
+ -1009 number first without seeing Jamie's funny message, the call won't go
+ through. Gotta do it in order! [Unlike some previous numbers...]
+
+ • ASK about UV HOSPITAL
+
+ That's the only mandatory option to pick, but it's fun to chit-chat with the
+ wife. If Gillian asked Jamie out on a date in the previous chapter, she'll
+ allude to it here.
+
+ The next time Gillian returns to the turbocycle, he'll get an urgent message
+ from Mika saying that Katrina may be imperiled. [Note: if Gillian called his
+ wife from HQ, he'll have to get in the turbocycle, go elsewhere, exit and
+ re-enter to get the emergency summons.] Once the message is received, it's
+ the only location one can visit.
+
+GIBSON'S HOUSE
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • KNOCK
+ • INVESTIGATE the DOOR
+ • MOVE > GO INSIDE
+ • INVESTIGATE the WINDOW, then the SHELF
+ • LOOK AT and INVESTIGATE the MODEL
+ • MOVE to the BACKYARD GARDEN
+ • LOOK at the AREA, THE SHADOWS, GROUND and COLLAR
+ • INVESTIGATE the AREA, THE SHADOWS and COLLAR
+ • MOVE back to the STUDY
+ • LOOK at and INVESTIGATE AROUND ROOM, PC68, and SOFA
+ • LOOK at or INVESTIGATE anything else (x1) to have Gillian sneeze
+ • CALL for KATRINA and ALICE (in any room but the Study)
+ • MOVE to the STUDY
+
+ There'll be a scene involving a window breaking, and Gibson'll automatically
+ leave to look for Katrina. This is one instance where it's good to have such
+ few options at the turbocycle, eh?
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • SEARCH FOR KATRINA (x3)
+ • LOOK or INVESTIGATE DOWNTOWN, the SHOP WINDOWS or NEARBY PEOPLE (x5 total)
+
+ Metal should notify Gillian that Katrina doesn't appear to be here. Still,
+ if you continue to search, Metal will recite some videophone numbers that're
+ of little to no use: the Snatcher hotline (256-128), police department (911),
+ fire department (119) and weather forecast (177). Fun little curios, but they
+ aren't recorded in Metal's memory banks.
+
+ As for the continuing search, if Katrina was at HQ, Gillian would have been
+ notified, yeah? So, that only leaves the remaining spot...
+
+GILLIAN'S APARTMENT
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Something seems amiss when the lights in Gillian's pad are on...hmm...
+
+ • LOOK at GILLIAN'S ROOM
+ • INVESTIGATE the DOOR
+ • MOVE > GO INSIDE
+ • LOOK at FLOOR
+ • INVESTIGATE FOOTPRINTS
+ • LISTEN and SMELL
+ • MOVE > ENTER BATHROOM
+ • LOOK AROUND ROOM
+ • INVESTIGATE SHOWER BOOTH (x4)
+ • OPEN BOOTH
+
+ And then the hideous intruder is revealed!!
+
+ • ASK ABOUT VIDEOPHONE
+ • INVESTIGATE the HOSPITAL LIST (x2)
+
+ Gillian can then search Metal's databanks for a name similar to Oleen, which
+ will narrow down the list of 3,000 names. Gillian will have to think of a
+ name similar to Oleen's block lettering, and repeated wrong answers will earn
+ clues, such as "there may be letters missing from the picture" and "what if
+ part of the neon sign is burnt out like the one in Alton Plaza". Repeated
+ wrong answers will hint that the chess piece might be releated...if that
+ doesn't spell it out, you might have brain sepsis!
+
+ • INVESTIGATE LIST > QUEENS
+ • INVESTIGATE LIST > HOSPITAL'S ADDRESS
+
+ And with that, the next destination is set.
+
+QUEENS HOSPITAL
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • INVESTIGATE the BUILDING, then the DOOR
+ • GO INSIDE
+ • LOOK at AREA
+ • INVESTIGATE the DOORS and RECEPTION DESK, then the SWITCHES
+ • USE SWITCHES > SWITCH 1, SWITCH 2 and SWITCH 3
+
+ All doors should now be open.
+
+ • MOVE to DOOR 3
+ • USE METAL GEAR > TURN ON LIGHT
+ • INVESTIGATE the drawer behind the desk
+ • INVESTIGATE the matchbook on the table (entered into evidence)
+ • LOOK at and INVESTIGATE the Cathedral of St. Basil portrait
+
+ There's some other stuff to look at, like a whiteboard and such, but it's
+ not that important right now. The main clue is the scrap of paper in the
+ drawer, which contains obscure Chinese characters. If only there was someone
+ who could read those characters... [Showing the Patient Record to colleagues
+ will nudge one in Napoleon's direction.]
+
+ • USE METAL GEAR > VIDEOPHONE > 39-5644
+
+ The out-of-order notification seems out of place though, and Gillian notices
+ the wolfman looks like the guy from Outer Heaven. And whaddaya know, it's
+ now an accessible location from the turbocycle.
+
+OUTER HEAVEN
+¯¯¯¯¯¯¯¯¯¯¯¯
+ • TALK (x2)
+ • INTERROGATE (x2)
+ • GIVE PROOF > BODY TYPE, VOCAL PATTERN, ACCENT, PERSONALITY and SMELL
+ • GIVE PROOF > SNEEZE
+ • ASK about NAPOLEON'S BACKGROUND
+ • POSSESSIONS > SHOW > PATIENT RECORD
+ • ASK > MEANING OF CODE
+
+ Napoleon says the characters represent elements from the periodic table. From
+ left to right: beryllium, nitrogen, sulfur, oxygen, and nitrogen again. Metal
+ figures out the code almost immediately.
+
+ • INFER > BENSON
+
+ The key to the code lies in the elements' English abbreviations. Putting in
+ tons of wrong answers earns clues from Metal, and maybe a bit of annoyance,
+ too. Once the name's been uncovered, the finger-pointing leads back to one
+ of Gillian's own... Dire straits, these be!
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Both possible suspects are out right now, so let the investigation begin!
+
+ • TALK about CONTENTS OF PATIENT RECORD
+ • ASK ABOUT HARRY > HARRY'S WHEREABOUTS and HARRY'S CONDITION
+ • ASK ABOUT CHIEF > CHIEF'S WHEREABOUTS and CHIEF'S CONDITION
+ • ASK about KYOTO SUMMIT
+ • MOVE to ENGINEERING ROOM
+ • LOOK at DESK TOP
+ • LOOK at and INVESTIGATE the MATCHES and MEMO (memo entered into evidence)
+ • MOVE to CHIEF'S OFFICE
+ • LOOK at PICTURE
+ • INVESTIGATE the PICTURE (x2)
+ • LOOK at and INVESTIGATE the PHOTO
+ • MOVE to FRONT > ENTER TURBOCYCLE
+
+ Jamie will call upon entering, revealing that records show Queens Hospital
+ had basement work done decades earlier. After picking the destination, the
+ 'cycle will undergo some...car trouble. [You can pick no destination except
+ the clinic at this point.]
+
+ • PULL EMERGENCY LEVER
+ • JUMP OUT or GIVE UP (x4 total)
+ • HIT CLIFF           -.
+ • DRIVE INTO SANDPILE  |- This is the shortest way to get the Pray to God
+ • PRESS BUTTON        -'  option, but you can try any new option twice to
+ • PRAY TO GOD             unlock it as well.
+ • HIT CONTROL PANEL
+ 
+ Enjoy the scene!
+
+QUEENS HOSPITAL
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Our new friend'll join the team for these proceedings...
+
+ • MOVE > GO INSIDE
+ • MOVE > DOOR 3
+ • USE METAL GEAR > TURN ON LIGHT
+ • LOOK at the floor rails, then the desk vase
+ • INVESTIGATE the vase
+ • PEEP
+ • INVESTIGATE the STAIRWAY and MOTION DETECTOR
+
+ Once in the basement...
+
+ • INVESTIGATE the RECEPTION DESK, then SWITCHES
+ • USE SWITCHES > SWITCH 1 and SWITCH 2
+ • MOVE to DOOR 1
+ • LOOK OVER
+ • LOOK & INVESTIGATE all available options at least once
+ • LOOK OVER
+
+ A snatcher will appear at this point. Draw your blaster and aim for the top-
+ -central part of its head to terminate its functions. After a small scene,
+ shoot the snatcher a few times in its abdomen to end its functions (Metal,
+ I thought you said they were terminated the FIRST time! Argh!).
+
+ • EXIT and MOVE to DOOR 2
+ • LOOK at SHELF, then the revealed CONTAINERS
+ • INVESTIGATE the SHELF, CEILING, DESK TOP and MONITORS
+ • EXIT
+ • INVESTIGATE the SWITCHES (maybe twice if not done earlier?)
+ • USE SWITCHES > 1 AND 2 AT SAME TIME
+ • MOVE to DOOR 3
+ • LOOK AROUND ROOM, then the WALL, REMAINS and DUCT
+ • INVESTIGATE the REMAINS and its ESTIMATED TIME OF DEATH
+ • INVESTIGATE the CAUSE OF DEATH, then the body's IDENTITY
+ • RECONSTRUCT CORPSE
+
+ There'll be a very long scene, and then...
+
+AIR DUCT / ABANDONED UNDERGROUND
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ There's no real order to do the next part in, mind you.
+
+ • USE METAL GEAR > TURN ON LIGHT
+ • LOOK at WALL
+ • INVESTIGATE the CEILING (x2)
+ • INVESTIGATE the SCRATCHES (x2)
+ • INVESTIGATE the GROUND (x3), then its SAND (x2)
+ • INVESTIGATE the POLLEN (available after Gillian sneezes (inv. 6-7 options))
+
+ Save your game at this point!
+
+ • ADVANCE
+
+ There'll be a bunch of insectors to take care of down the line, and there's
+ a lot more than seen previously. In fact, many people have claimed this is
+ one of the most annoying parts of the entire game! This may be because most
+ people playing are emulating, and many have found the reticle sticks in some
+ of the corners when shooting, usually allowing Gillian to be wounded. Either
+ way, the insectors come fast and furiously, so use the blaster's rapid-fire
+ capabilities to your advantage (no reloading remember!).
+
+ • LOOK at the FRONT, then BEHIND
+ • LISTEN (x3)
+ • TALK (x3)
+
+FREDDY'S APARTMENT
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ So that's where the secret passage is! Funny that they're three stories up
+ but there's easy ladder access...that probably irks the neighbors below!
+
+ • MOVE and GO TO LIVING ROOM
+ • LOOK or INVESTIGATE the MAP
+ • EXIT
+ • LOOK at the AREA
+ • INVESTIGATE the TAXI
+ • MOVE > RIDE IN TAXI
+ • TELL DESTINATION (x3)
+
+ Gillian will have to go all "Travis Bickle" on the taxi driver, so shoot him
+ once in the face to end his reign o' terror. [At least Metal made a joke out
+ of it...you silly robot, you!]
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Hmm, these tidings be grim...
+
+ • INVESTIGATE the SHUTTER
+ • LOOK and INVESTIGATE the AREA, DOOR, and BOOTH
+ • OPEN SHUTTER
+
+ In the hallway, there'll be another scene. Now it's time to search for the
+ snatcher culprit! Don't be fooled -- hardcore searching of each room isn't
+ necessary.
+
+ • MOVE to all rooms at least once (Hallway doesn't count)
+ • MOVE to the CHIEF'S OFFICE
+ • LOOK at the DESK
+ • LOOK at, then INVESTIGATE, the STAIN ON DESK
+ • SEARCH the CEILING
+
+ There'll be a short battle. Shoot the snatcher once for a small scene. It'll
+ have vanished in the quick power outage. The search begins anew...
+
+ • MOVE to all rooms (excluding CHIEF'S OFFICE)
+ • MOVE to HALLWAY
+ • MOVE to FRONT
+
+ The final battle of Act 2 will commence now. The snatcher will use Mika as a
+ shield, which means Gillian can only hit it when it's in the screen's corners.
+ Hitting Mika -- which shouldn't ever happen, really -- decreases one's health,
+ and slaying her is an automatic game over. Either way, five headshots will
+ dispose of the creeper and finish the segment.
+
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+03) ACT 3: JUNK                                                          [WK03]
+_______________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Just like any good movie, the third act is pretty short, and doesn't dawdle
+ about bringing a resolution. It's the most cinematic of 'em all, too.
+
+JUNKER HEADQUARTERS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ A short recap will commence after a scene, where Gillian answers questions.
+
+ • ULTRAVIOLET RAYS
+ • UNDERPASS
+ • SNEEZE
+ • SNOW-9
+ • MOSCOW
+ • ENTER TURBOCYCLE > CHURCH
+
+ With a little ingenuity, it's time to assault the snatchers' HQ! Exploring
+ other places, as you'd expect, is not possible.
+
+CHURCH
+¯¯¯¯¯¯
+ • INVESTIGATE the BUILDING and AREA
+ • GO INSIDE
+ • LOOK at the PORTRAIT
+ • INVESTIGATE the PORTRAIT and AREA
+ • CONTINUE BACK
+ • LOOK at AREA
+ • INVESTIGATE the CONTAINER
+ • LOOK and INVESTIGATE the SNATCHER
+ • INVESTIGATE the AREA
+ • CONTINUE BACK
+ • LOOK at the CYLINDER, then SNATCH PROCESS
+ • LOOK and INVESTIGATE the AREA (reveals Terminal and Door, respectively)
+ • LOOK and INVESTIGATE the DOOR
+ • INVESTIGATE the CYLINDER and TERMINAL
+
+ To do the transmission, Metal will have to leave; this means there's no saving
+ past this point! [People emulating can still use save states, though.] Either
+ way, Gillian immediately advances toward the Act's climax. First things first,
+ though, it's time for battles!
+
+ The first set of battles is against, well, "super insectors". These are just
+ like normal ones, except they do pull feints -- they jump towards one spot
+ but land elsewhere. They don't all do this, but needless to say, when there's
+ a crapload on the screen, the distraction's enough to let Gillian be damaged.
+ The button-mashing rapid-fire option does help, and there's still the fact
+ that when Gillian's damaged, the opposition can't capitalize on the face (the
+ damage is nulled for 1-1.5 seconds or so). People emulating will probably
+ want to save-state here, as dying in the next fight restarts the whole series
+ of fights.
+
+ Immediately afterwards, Gillian will square off with a horde of snatchers.
+ This fight tends to be easier, mostly because they only appear on-screen one
+ at a time. Of course, if a player's made it this far, s/he is aware these
+ meddling mechs can only be neutralized with a headshot -- anything else will
+ be ineffective. Snatchers' attacks do more damage than insectors, so there's
+ less room for error where reaction time is concerned -- the button-mashing
+ strategy should be shelved for pinpoint accuracy. There's about thirty to
+ kill.
+
+ For the last battle, don't fire at all. There'll be a VERY long set of scenes
+ from here on (about a half hour in length), before the finale sets in.
+
+ • LOOK at JAMIE
+ • TALK to MIKA (x3)
+ • TALK to KATRINA (x4)
+ • TALK to JAMIE (x2)

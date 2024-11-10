@@ -1,0 +1,747 @@
+Spy Hunter was released in 1983, the same year as Return of the Jedi, Michael
+Jackson's "Beat It," leg warmers, pastel suits, and great cars. Thirty-four 
+years later it's still a hell of a game. I grew up playing it, and for the 
+dozen people that read this, thank you. 
+
+==============================================================================
+
+
+
+
+
+.-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=.
+!                                                                            !
+.                         III. GENERAL TIPS                                  .
+|                                                                            |
+`-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-==-='
+                                                                        [0030]
+
+- Get used to high gear! You'll need it to enter weapons vans and outrun
+  enemies. It is one of your most valuable defenses besides your weapons.
+- Use high gear in VERY short bursts!!!
+- You can alternatively just drive in high gear the whole time, pressing the
+  accelerator halfway so your car stays in the middle of the screen, pushing
+  down to outrun enemies as needed. Just be very careful of when you have to 
+  slow down. This is the best way to play the boat stages.
+- Slowing down is also dangerous. If you get rear-ended while near the bottom
+  of the screen (that is, when nearly stopped), you'll explode. Plus, the 
+  ol' slow-down-to-get-behind-them trick doesn't work that well.
+- Oil slick is hands down the best special weapon. Use it in small taps rather
+  than holding the button down. Conservation is key!
+- You can call one additional weapons van per zone, so be sure to call one at
+  the very end to replenish your ammo.
+- You can also intentionally keep weapons vans in front of you (without
+  entering them) so you can restock and/or be taken out of danger at the exact	
+  right moment.
+- Weapons vans drop you off at the bottom of the screen. Drive alongside the 
+  road for a moment (till you're in the middle of the screen) and pull out
+  when you see it's safe. Otherwise, you might get rear-ended and explode.
+- You get one bonus car for making 10,000 points while the timer is running.
+  And you can get one more if you make 18,000!
+- You can utilize the invincibility glitch (see Glitches section) to avoid
+  tricky areas like icy roads.
+
+==============================================================================
+
+
+
+
+
+.-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=.
+!                                                                            !
+.                             IV. BASIC GAMEPLAY                             .
+|                                                                            |
+`-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-==-='
+                                                                        [0040]
+
+                                                                        [004A]
+A. CONTROLS  
+         
+Spy Hunter has two versions-- a stand-up cabinet and a sit-down. On both,
+there is an accelerator pedal on the floor, a gear shifter, and an airplane
+yoke with buttons and triggers to steer your car/use its weapons. 
+
+The "dashboard" of your car below the monitor has lights to indicate when a
+weapons van is available, as well as lights indicating what weapons are
+available to use.          
+           
+                                 
+WEAPONS VAN (CENTER)   -  Starts the game. Calls a weapons van when in an
+                          appropriate zone. Flashes when you first enter a
+                          weapons van zone and stays on to indicate you can
+                          call another one.
+
+LEFT TRIGGER (REAR)    -  Fires missiles when available.
+
+RIGHT TRIGGER (REAR)   -  Fires front-facing machine guns. Exits game
+                          instructions.
+
+LEFT BUTTON (TOP)      -  Releases oil slick when available.
+
+RIGHT BUTTON (TOP)     -  Releases smokescreen when available.
+
+ACCELERATOR PEDAL      -  Opens game instructions once a coin is inserted.
+                          Also accelerates your car, whoa!
+
+GEAR SHIFTER           -  Shifts between low and high gear.
+
+==============================================================================
+
+
+
+==============================================================================
+                                                                        
+                                                                        [004B]
+B. OBJECTIVE
+
+In Spy Hunter, you take the role of an unnamed spy behind the wheel of the
+G-6155 Interceptor, a state-of-the-art supercar outfitted with twin front
+machine guns, and also equipped with oil slick nozzles, smokescreen vents, and
+heat-seeking surface-to-air missile turrets. You are being relentlessly chased
+by the mysterious "M" organization, who'll throw everything at you from
+bulletproof trucks to bomb-dropping helicopters. They won't stop until you're
+dead, and neither will you-- it's a slow battle of attrition to the very end.
+
+Spy Hunter is a game of survival. There is no end; your enemies will hunt you
+down to the ends of the earth. It's up to you to incovenience/outrun them for
+as long as possible, to be an inspiration to all spies everywhere!
+
+[LIVES]
+When the game starts, there will be a timer at the top of the screen that
+counts down from 999. During this time, you have infinite lives. Once the
+timer runs out, you will have a finite number of lives. If you do not
+reach 10,000 points by the time the timer runs out, then you will have no 
+extra lives besides your current car. If you reach 10,000 points before the
+timer runs out, you will get one bonus life. If you reach 18,000 you'll have
+two bonus lives. At 30,000, you'll get another bonus car. From there on 
+out, you will be awarded one bonus car at 30,000; 60,000; 90,000; and
+120,000 points.
+
+
+[GAME OVER]
+The game ends when you've lost all your lives. You can die by:
+- Being rammed off, or veering into, the side of the road/water.
+- Colliding with a vehicle as it's exploding (only after the timer ends) while
+  travelling at full speed in either low or high gear.
+- Colliding with a vehicle while in high gear.
+- Getting your tires blown out by a Switchblade.
+- Getting your tire shot out by an Enforcer.
+- Running over a crater created by a Mad Bomber or being directly hit by them.
+- Hitting a barrel dropped by a Barrel Dumper.
+- Getting hit by a Dr. Torpedo.
+- Getting rear-ended when near the bottom of the screen. This can happen when
+  you're significantly slowed down, stopped, or if you get dropped off by a 
+  weapons van and immediately pull out to the main road.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [004C]
+B. SCORING AND BONUS CARS
+
+Your score is constantly counting up as long as your car is moving, so think
+of it as an odometer of sorts. You also get additional points for each enemy
+destroyed, or your score may temporarily stop accruing when destroying an
+ally.
+
+[SCORING]
+ROADS: 15 points/screen
+WATER: 25 points/screen
++ 150 points per Switchblade destroyed
++ 150 points per Road Lord destroyed
++ 500 points per Enforcer destroyed
++ 700 points per Mad Bomber destroyed
++ 150 points per Barrel Dumper destroyed
++ 500 points per Dr. Torpedo destroyed
+
+*Note: A screen is the minimum distance your car can move at any given speed.
+
+
+[PENALTIES]
+1 second pause/civilian destroyed (approx. 150 points withheld)
+2 second pause/weapons van destroyed (approx. 300 points withheld)
+3 second pause/tugboat destroyed (approx. 450 points withheld)
+In addition to this, you will not be able to call a second weapons van if in
+a weapons van zone.
+
+*Note: During this pause, you will not gain points for any enemies destroyed.
+
+
+[BONUS CARS]
+10,000 (if and only if reached before timer runs out)
+18,000 (if and only if reached before timer runs out)
+30,000
+60,000
+90,000
+120,000
+
+Caps at 6 bonus cars. You do not get any bonus lives from 120,000 and onward.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [004D]
+C. STAGES
+
+[NORMAL ROADS]
+EFFECTS: None.
+APPEARANCE: Temperate/desert roadscape
+WARNING: None.
+ENCOUNTER: All land-based enemies, civilians, weapons vans
+
+
+[ICY ROADS]
+EFFECTS: Significantly more sluggish handling
+APPEARANCE: Blue-tinted road
+WARNING: "Icy roads ahead" in middle of screen
+ENCOUNTER: All land-based enemies, civilians, weapons vans
+
+Once the timer runs out, you'll start potentially encountering icy roads. You
+cannot avoid them; they randomly appear and you cannot take an alternate turn,
+etc. to bypass them. You will hear a warning tone and the message "Icy roads
+ahead" will appear in the middle of your screen.
+
+Handling is a lot less responsive and of course, the road is a lot more
+slippery. Ramming vehicles off the road is absolutely NOT recommended. Even
+just swerving out of the way of burning cars can be dangerous. Ignore enemies
+as much as you can and just focus on getting out alive. Icy roads last for an
+entire weapons van zone and ends after the next fork.
+
+Note: if you enter a water stage from icy roads, you will be back on icy roads
+again once returning to land. As usual, they will end after the next fork.
+
+
+[WATER]
+EFFECTS: Your car turns into a boat. Islands in the middle are potential
+hazards. Weapons vans (or rather, boats) do not appear.
+APPEARANCE: Like water
+WARNING: "Bridge out ahead, use detour on left" in middle of screen OR there
+is a narrow road that diverges to left, usually after very curvy roads
+ENCOUNTER: All water-based enemies (including Mad Bombers)
+
+Once the timer runs out, you may also encounter water stages. They are at
+first optional, where you can voluntarily take a narrow detour road on the
+left:
+
+\    \.  .|              |
+ \    \. .|       / \    |
+  \    \. |        |     |
+   \    \.|        |     |
+    \    \|              |
+     \         TO MAIN   |
+     |            ROAD   |
+     |     __            |    
+     |    /\             |     
+     |      \            |     
+     |       \           |     
+     |                   |     
+     |  TO BOATHOUSE     |     
+     |                   |       
+
+Other times, water stages are unavoidable. You will hear a warning tone and 
+the message "Bridge out ahead, use detour on left" will appear in the middle
+of your screen. If you continue straight, the bridge will indeed be out and
+you will careen to your death. You will, however, respawn on the other side 
+of the bridge and bypass the water stage.
+
+On water, you will have to deal with Barrel Dumpers, Doctor Torpedoes, and Mad
+Bombers. These enemies can be dealt with with all conventional weapons, and
+enemy boats can also be rammed into the embankment on the sides of the screen. 
+There will also be islands of sand in the middle of the water, which your 
+boat can jump over if you're going at speed (that is, top speed in low gear in
+or in high gear in the middle/top of the screen). If any slower, your boat may
+run aground and explode. 
+
+There is no such thing as weapons boats, only tugboats to respawn you when
+you die. In order to exit a water stage, keep to the right. You will
+eventually be able to take a narrow access road on the right: 
+
+     |          | .  .   /    /
+     |   / \    |.  ..  /    /
+     |    |     | .    /    /
+     |    |     | .   /    /
+     |          |___./    /
+     | CONTINUE          /
+     | WATER STAGE       |
+     |                   |    
+     |                   |     
+     |          __       |     
+     |           /\      |     
+     |          /        |     
+     |                   |     
+     |  TO WEAPONS VAN   |       
+
+There is no overtly obvious change of scenery to indicate an exit is coming
+up, but the water and access road will be separated by a huge shoal. The 
+access road will take you to a van that gives you a special weapon and drops
+you back off on the road.
+
+==============================================================================
+
+
+
+
+.-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=.
+!                                                                            !
+.                         V. THE G-6155 INTERCEPTOR                          .
+|                                                                            |
+`-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-==-='
+                                                                        [0050]
+
+Hailing from weaponized cars the likes of James Bond's Aston Martin DB5 and
+Maxwell Smart's Sunbeam Tiger Mark I, the G-6155 Interceptor is fast, deadly,
+and damned stylish. It is a fictional car, but was based on the real-world 
+Isdera Imperator 108i (itself based on a Mercedes Benz concept car from the 
+1980s), only 30 of which were ever produced.
+
+
+                                                                        [005A]
+A. LOW AND HIGH GEAR
+
+FUNCTION: Accelerates your car to dangerous speeds.
+WEAPONS VAN SYMBOL: N/A
+AMMO: N/A
+GOOD FOR: All situations
+
+Despite supposedly being a state-of-the-art superspy supercar, every enemy in
+the game can catch up to and outrun you. And in fact, your car can't even
+catch up to weapons vans without shifting into high gear.
+
+High gear allows your car to go from the middle of the screen to the top 1/4
+of the screen at max speed, allowing you to go fast enough to outrun enemies
+and enter weapons vans. However, your car will explode should you collide with
+any other vehicle (which doesn't happen during your normal "low" gear). This
+dangerous speed is indicated by small flames shooting from the back of your 
+tires.
+
+USE HIGH GEAR IN VERY SHORT BURSTS!!! Either that, or drive in high gear the
+entire time, pressing your accelerator down only partway to stay in the middle
+of the screen and letting off/downshifting as needed. Put the pedal to the 
+floor to accelerate enough to overtake civilians and/or outrun enemies. Just
+be careful not to hit anyone or anything at high speed. 
+
+You will have to upshift to avoid Switchblades if you do not have oil slick
+or smokescreen. You can also upshift to avoid Road Lords and Enforcers if
+you'd prefer not to try fighting them. If they are off your screen for long 
+enough (more than a few seconds), they'll "disappear." If not, they will 
+eventually catch up to you from off-screen again, because they're just as good
+at giving chase as you are at running away. Also upshift to help better avoid
+Mad Bomber bombs.
+
+If you want the two bonus cars instead of one by reaching 18,000 before the
+timer, you will have to be speeding at every available moment. AGAIN, DO THIS
+IN VERY SHORT BURSTS!
+
+When on water, the exact same principles apply. Upshift to avoid Barrel
+Dumpers, and upshift to keep your distance from Dr. Torpedoes.
+
+***IMPORTANT***: If your car is going slow enough, or from a standstill, you
+must shift back to low gear in order to move. It's like your car stalling 
+out-- you can't launch in 5th!
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [005B]
+B. MACHINE GUNS
+
+FUNCTION: Twin front-facing machine guns
+AMMO: Infinite
+WEAPONS VAN SYMBOL: N/A
+GOOD FOR: All situations (except against Road Lords)
+
+Technically your car's only front-facing weapon, machine guns can destroy any
+vehicle on the road (or boat in the water) excepting Road Lords. There's no
+more satisfying feeling than gunning down a Switchblade or Barrel Dumper. 
+However, the machine gun should be used a little more incidentally than you 
+would think. That is, machine gun an enemy if you happen to find one in front 
+of you, but don't try to create opportunities to use it like slowing down to 
+get behind enemies. Also fire in very small bursts-- two bullets is enough,
+and immediately sweve out of the way of the wreckage.
+
+Enemies are smart enough that if you try to slow down to get behind them,
+they'll slow down too until you're both pretty much stopped. You can shoot
+them here, but the problem is, if you get rear-ended while your car/boat is 
+moving at very slow speed or stopped (i.e. near the bottom of the screen), 
+you'll explode. It's not worth risking losing a life for a few extra points. 
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [005C]
+C. OIL SLICK
+
+FUNCTION: Lays oil slick behind you, causing cars to run off the road and
+vaporizing boats.
+AMMO: 3 seconds of continuous use (can also be used in small bursts)
+WEAPONS VAN SYMBOL: Two black oil drums
+GOOD FOR: All situations
+
+Oil slick is a godsend, your #1 counter to Switchblades and any other car/boat
+that can threaten you. Use it in small bursts in order to maximize the ammo 
+you're given. Use the smallest tap possible; you don't need to lay down a long
+trail to get rid of enemies. This technique will give you a few dozen uses. 
+You may also need to shift into high gear/accelerate to get ahead of enemies 
+and lay down your oil.
+
+Once a target car touches your oil slick, it will wobble side to side and 
+eventually run off the road and explode. They stop being a threat the moment
+they get slicked. When on water, you leave a flaming trail of oil behind you
+that instantly vaporizes boats. Badass.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [005D]
+D. SMOKESCREEN
+
+FUNCTION: Releases a thick cloud of smoke behind you, enveloping chasing cars
+or boats.
+AMMO: 3 uses
+WEAPONS VAN SYMBOL: Grey popcorn (yes, I know it's a smoke cloud)
+GOOD FOR: Icy roads, water, curvy roads
+
+Smokescreen covers the road for three seconds, of which you get three uses.
+Since it covers almost the entire road behind you, you don't need to position
+your car directly in front of an enemy to use it effectively (unlike oil
+slick). It's best for icy roads, curvy roads, or water, where excessive 
+maneuvering can be dangerous. Since you get so few uses compared to oil slick,
+however, it is best saved for true emergencies.
+
+Smokescreen does not have friendly fire-- if you use it on a Switchblade and
+civilian at the same time, for example, they'll both disappear but you will
+not get penalized. 
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [005E]
+E. HEAT-SEEKING MISSILES
+
+FUNCTION: Locks on to and destroys Mad Bombers.
+AMMO: 3 uses
+WEAPONS VAN SYMBOL: A pink-and-white missile
+GOOD FOR: Mad Bombers only
+
+Heat-seeking missiles are your only weapon against Mad Bombers, and work only
+against Mad Bombers-- you cannot destroy anything on the ground with them.
+They don't have to be aimed, either! Fire when they are close to you for
+maximum chances of a hit. Basically, the closer Mad Bombers are to your car
+when the missile is fired, the higher chance of a hit. The farther away, the
+lower the chance. When they are near the top or bottom edge of the screen, it
+is pretty much a guaranteed miss.
+
+If a hit, missiles will appear to explode directly under the Mad Bomber's
+rotors. If a miss, it will explode just outside of their rotors. There will
+be a small delay following a hit, after which the Mad Bomber will spin and 
+explode (in the sky). Missiles are fairly accurate, and will hit 85% of the 
+time.
+
+==============================================================================
+
+
+
+
+
+.-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=.
+!                                                                            !
+.                           VI. ALLIES AND ENEMIES                           .
+|                                                                            |
+`-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-==-='
+                                                                        [0060]
+
+[ALLIES]
+
+                                                                        [006A]
+A. CIVILIANS
+
+APPEARANCE: Motorcycles, pink 1950s sedans, or baby blue VW Beetles
+TAGLINE: N/A
+SPECIAL ABILITIES: N/A
+OCCURRENCE: Common; none on water.
+POINT VALUE: 1 second penalty (approx. 150 points withheld); you will not be
+able to call a second weapons van if in a weapons van zone
+
+Don't crash into with motorcycles (they'll lose control and explode) and don't
+crash into/machine gun pink cars and Beetles. For some reason, enemies will 
+try to avoid civilians.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [006B]
+B. WEAPONS VANS
+
+APPEARANCE: Pink trucks with a brown trailer (yes, they're trucks even though
+they're called vans)
+TAGLINE: N/A
+SPECIAL ABILITIES: Grants special weapons, immune to enemies
+OCCURRENCE: Certain zones, after forks in road
+POINT VALUE: 2 second penalty (approx. 300 points withheld); you will not be
+able to call a second weapons van if in a weapons van zone
+
+At certain points in the road, usually after a fork, the weapons van light
+will flash to indicate you've entered a weapons van zone. A van will catch up
+from behind you and let its ramps down. Upshift to enter. The weapon they
+give you is indicated by the symbol on their roof. They'll drop you off on the
+side of the road, and now you have said weapon. You will be able to call one
+more van by pressing the weapons van button, which is now lit instead of
+flashing. You will not be able to call another one if you kill a civilian or
+weapons van.
+
+Weapons van zones appear directly after you reach a fork in the road and take
+either left or right. The road will now fill the entire screen; this is the 
+beginning of the zone. The road will then narrow/curve and transition into a
+new area, usually a bridge over water or the road straightening out again (but
+no longer filling the screen); this part is the middle of the zone. You will
+then reach another fork in the road-- this is the very end of the zone. A new
+weapons van zone (usually with a different weapon) begins after this fork. The
+roadscape will also change (e.g. from temperate to desert or some other 
+palette change) to indicate this.
+
+If you destroy a weapons van or civilian, you can no longer call them in that 
+particular zone, so be careful! Maximize their usefulness by calling one at
+the beginning of the zone and one at the very end to replenish ammo. You can 
+also deliberately keep one in front of you (without entering) so you can 
+replenish and be taken off the road at the exact right moment.
+
+Curiously, weapons vans are immune to enemy weapons. If you ram a Switchblade
+into a weapons van, their blades will disappear on the side that hit the van.
+You can kind of use this to help you more safely ram Switchblades off the road.
+Similarly, Enforcers can't destroy weapons vans. Mad Bomber bombs can't kill
+vans either. Not that this is a particular concern-- enemies only care about
+killing you and ignore all other friendly units.
+
+Also, beware: weapons vans drop you off at the bottom of the screen. If you
+immediately pull out to the side, you risk getting rear-ended and exploding.
+Drive on the side until you can pull out in the middle of the screen/when it's
+safe. If you get rear-ended in the middle of the screen, you won't explode.
+
+Weapons vans are also how you respawn. When you die, a weapons van comes and
+drops off a new car on the side of the road. You cannot re-enter this van and
+it cannot give you weapons.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [006C]
+C. TUGBOATS
+
+APPEARANCE: Red boat with smokestack
+TAGLINE: N/A
+SPECIAL ABILITIES: None.
+OCCURRENCE: Drops you off after dying on the water.
+POINT VALUE: 3 second penalty (approx. 450 points withheld)
+
+Tugboats drop off a new boat when you die on the water. You cannot enter these
+and they serve no other function. There are no such thing as weapons boats.
+
+==============================================================================
+
+
+
+[ENEMIES]
+
+
+
+==============================================================================
+
+                                                                        [006D]
+D. SWITCHBLADES
+
+APPEARANCE: Dark blue 1957 Chevy Bel-Air with an M on roof
+TAGLINE: "Never to be trusted"
+SPECIAL ABILITIES: Blades on both sides that can spin you off the road,
+can destroy other enemies/civilians on accident
+OCCURRENCE: Common
+POINT VALUE: 150
+
+The most common enemy is also the most deadly. One touch is all it takes to
+spin you off the road. Switchblades are best dealt with oil slick, 
+smokescreen, or outran by shifting into high gear. Remember, use high gear in
+short bursts! They can catch up to you after a bit, but keep upshifting and
+you'll eventually lose them.
+
+You can actually ram Switchblades off the road by carefully tapping them on
+the corners of their fenders, right above their blade. This is usually more
+effort than it's worth, but it's an option if you ever need to. You can also 
+do this to nudge them into other cars and destroy them, such as Road Lords or
+Enforcers. This also de-blades them on one side. Weapons vans cannot be
+destroyed by Switchblades. As far as I know, you do not get any points for
+doing this.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [006E]
+E. ROAD LORDS
+
+APPEARANCE: Purple rectangular SUV/trucks
+TAGLINE: "Bulletproof bullies"
+SPECIAL ABILITIES: Cannot be destroyed by machine guns
+OCCURRENCE: Common
+POINT VALUE: 150
+
+Road Lords' only weapon against you is the ability to ram you off the road.
+They're even smart enough to fake you out, such as slowing down and forcing
+you to miss when trying to ram them. They're most dangerous on narrow and 
+curvy roads, but depending on your playstyle you can choose to either outrun
+them or duke it out. As always, they can also be dispatched with oil slick or
+smokescreen.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [006F]
+F. ENFORCERS
+
+APPEARANCE: Dark blue limousines with an M on the roof
+TAGLINE: "Double barrel action"
+SPECIAL ABILITIES: Has a sniper-passenger that can shoot your tire out
+OCCURRENCE: Rare
+POINT VALUE: 500
+
+Enforcers have to line up with one of your tires in order to successfully 
+shoot them out and send you spinning off the road. If they miss and hit you
+anywhere else, you're okay. Do NOT let them stay alongside you for too long,
+letting them line up the perfect shot, and absolutely do NOT slow down as that
+will guarantee a hit. They are a little easier to ram off the road than Road
+Lords owing to their length, and doing this prevents the guy from popping out
+the window, but only for a split second. It's best to avoid them by upshifting
+and oil slicking/smokescreening, ramming only when you don't have any other 
+special weapons.
+
+Enforcers are usually parked on the side of the road, take their first shot
+at you when you pass by, and then start chasing you. This first shot won't hit
+you unless you are going slowly (i.e. below top speed in low gear). They may 
+also appear from behind like normal enemies.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [006G]
+G. MAD BOMBERS
+
+APPEARANCE: Light blue helicopters
+TAGLINE: "Masters of the sky"
+SPECIAL ABILITIES: Drops bombs that make craters, can also kill enemies/
+civilians
+OCCURRENCE: Uncommon
+POINT VALUE: 700
+
+You'll hear chopper blades as a warning that a Mad Bomber is about to appear.
+Mad Bombers drop bombs all over the road, which whistle as they come down.
+They can kill you with a direct hit. Any misses will make craters in the road/
+disruptions in the water, which will kill anything that runs over them 
+(including enemies). There is a delay between when the bombs are dropped and
+when they actually hit the ground, giving you some time to react. Stay to the
+sides of the road/water to draw their bombs to the sides of the screen; that
+way, the middle of the screen stays clear, and you have a lot more room to 
+maneuver around everything else. 
+
+Mad Bomber bombs affect everyone, so it's the only enemy that deals a
+significant amount of friendly fire. As far as I know, enemies destroyed by 
+Mad Bombers do not add to your score.
+
+Mad Bombers are the only enemy in the game that missiles are effective 
+against. Conveniently, in the beginning of the game, they spawn only in zones
+where you're also given missiles. Sooner or later, they'll start spawning 
+regardless of what weapons you're given, so your only choice is to outrun 
+them.
+
+Remember, the best time to fire missiles is when they are close to your car
+(i.e. when they're in the middle of the screen).
+
+Mad Bombers are also the only enemy that can attack you on both land and
+water. Follow the same protocol for water.
+
+==============================================================================
+
+
+
+[WATER ENEMIES]
+
+
+
+==============================================================================
+
+                                                                        [006H]
+H. BARREL DUMPERS
+
+APPEARANCE: Small black and teal speedboats
+TAGLINE: N/A
+SPECIAL ABILITIES: Drops explosive barrels behind them; attacks you from in
+front
+OCCURRENCE: Common
+POINT VALUE: 150
+
+Barrel Dumpers can appear from either the bottom of the screen or the top of
+the screen. They attack by dumping explosive barrels behind them, which kill
+you if you run into them. You'll really have to play with your accelerator
+here, so you can slow down to avoid barrels but speed up incrementally so you
+can machine gun them from as far as humanly possible. Also, avoid ever being
+in the same column as them. Swerve in to machine gun, and swerve the hell out
+of the way. They may also try to ram you into the embankment if they come from
+behind, so beware of that as well. 
+
+Boats are slightly easier to ram off the water, due to the fact that ramming
+them into the shoulder is sufficient to make them explode. Compare this to 
+ramming vehicles off the road, where you actually have to ram them all the way
+off into the bushes.
+
+==============================================================================
+
+
+
+==============================================================================
+
+                                                                        [006J]
+J. DR. TORPEDOES
+
+APPEARANCE: Wide blue two-man boats
+TAGLINE: N/A
+SPECIAL ABILITIES: Fires torpedoes forwards AND backwards
+OCCURRENCE: Rare
+POINT VALUE: 500
+
+Once you're on the water for long enough, Doctor Torpedo starts making his
+(or, well, their) appearance. They can fire their slow-moving torpedoes both
+forwards and backwards. It's a similar principle to barrels, except torpedoes
+will move down the entire column of water. NEVER, EVER, EVER be in the same 
+column as them. Finely play with your speed, try your best to machine gun them
+in between torpedoes from as far as possible, and swerve the hell out of the 
+way when they appear to let them pass. Even better if you can just oil slick/
+smokescreen them to oblivion.

@@ -1,0 +1,380 @@
+Alert the media. me frog is not doing a FAQ for a Nintendo game. HOLY CRAP!
+Really, this is probably the only game I'll ever do a FAQ for that's not for
+Nintendo. Actually, I MAY do some old Atari and arcade games later but not now.
+Anyway, this is a very brief guide giving you 20 KB worth of tips on the game
+of Centipede. Just when it looked like Atari was about to go out of business,
+one of their female developers came along with this new idea. She was like, "I
+have a great idea! Lets make a game with mushrooms where you have to run around
+shooting a centipede who is going absolutely nowhere!" Everyone loved it and
+Atari stayed in business. Centipede's legacy still remains today even,
+surprisingly. But hey, it's a great game to play.
+
+===================--------------------====================-------------------
+|                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                     |
+|                     |%%%%%         FAQ          %%%%%|           FAQ       |
+|                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                     |
+-------------------====================--------------------===================
+
+This part of the guide will give you many tips and advice on how to get far in
+the game of Centipede. First, your controls are simple: you have a roller to
+move your ship with. You can move your ship up, down, left, and right within a
+certain area. You use the single button to fire. Here's a map of the arena:
+
++----------------------------------------------------------------+
+|                                   M     C                 M    |
+|                 M                M      C            M         |
+|              M              M           CCM               M    |
+| M                                       MCCCCCCCCCM            |
+|                M                               CCCM            |
+|                       M                                        |
+|M     M                 M            M                          |
+|M     MM           M                                    M       |
+|M                M MMMM                       M                 |
+|M                                                          M    |
+|M                     M                   M        M            |
+|M                  M                 M                          |
+|                                           M                    |
+|             M                                                  |
+| M                 M            M                     M         |
+|                      M                                         |
+|  M                                                             |
+|       M                       MMMMM                            |
+|                                             M   M              |
+|                M                                          M    |
+|                                                M            M  |
+|                                           M                    |
+|\                    M         M                 M             /|
+| \                M       M                                   / |
+|  \          M                       M             M         /  |
+|  M\                      M                  M              /   |
+|____\______________________________________________________/____|
+|MAX BOUNDRY YOUR SHIP CAN STAY IN - MAX BOUNDRY YOUR SHIP CAN ST|
+|AY IN - MAX BOUNDRY YOUR SHIP CAN STAY IN  - MAX BOUNDRY YOUR SH|
+|IP CAN STAY IN - MAX BOUNDRY YOUR SHIP CAN STAY IN - MAX BOUNDRY|
++----------------------------------------------------------------+
+
++----------------------------+
+| KEY                        |
+|                            |
+| M = Mushroom               |
+| \ = Path Spiders enter from|
+| CCCCCC = Centipede         |
++----------------------------+
+
+That's pretty much how all Centipede games are laid out. The Centipede will
+always start from the top of the screen. At first, it is going straight down.
+However, there are many Mushrooms and you won't be able to destroy them all.
+Therefore, the Centipede will have to go around them. This can greatly change
+the route of a Centipede. For example, let's say that a Centipede is going
+straight down. It hits a Mushroom barracade. It'll switch to the left or right.
+This can be used to your advantage sometimes. For example, look at this:
+
+CCCC M
+   M M
+   M M
+   M M
+   M M
+   M M
+   M M
+   M M
+
+As you can see, the Centipede is heading towards the Mushroom. When it hits the
+Mushroom, the path will suddenly change to:
+CCCCCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+
+And you can use your firepower to shoot straight up into the path of Mushrooms,
+slowly destroying the Centipede section by section. Note that the diagram such
+as the one listed above is very rare; you'll rarely have Mushrooms stacked like
+that. But usually, it'll be wider and open up a better path. This is somewhat
+useful in the beginning levels, but the Centipedes are moving slow anyway then
+so it doesn't help TOO much. But it the later levels, when the Centipede begins
+to move faster and faster, this becomes very useful. However, don't consider
+yourself super lucky if the Mushrooms all appear in the single line that was
+shown above. The developers were clever enough to realize that something like
+that might happen so this is what they did: destroy a section of the Centipede
+and it becomes a Mushroom.
+
+So this is what can happen:
+
+CCCCCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+
+    |
+    |
+    |
+
+The | represents your firepower. Anyway, here's the result:
+
+CCCCCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MCM
+   MMM
+
+When you destroy the first section of the Centipede it creates yet another
+barrier. You need to VERY QUICKLY shoot the Mushroom as the Centipede turns
+around and starts going in the opposite direction. If you're lucky enough,
+you'll be able to destroy it and get in a few more shots before the Centipede
+actually escapes the area entirely. A Mushroom will take four shots to defeat.
+Usually, it takes about three seconds to fire four shots before your shots
+disappear completely. But if a Mushroom is close to you ship, then it'll be
+quicker. For example, look at this:
+
+         M
+
+
+       SHIP
+
+You can fire a shot at the Mushroom and since it's so close up, the lasers will
+dissapear instantly. Sometimes, the Mushrooms are so close up, it can take less
+than a second to defeat it. The Mushrooms are usually in the middle of the
+playing field and they take about two seconds to destroy one completely. The
+Centipede's speed varies. The first level it moves fast, the second level it's
+slow, the third level it's fast, the fourth it's slow, and so on and so forth.
+Sometimes you'll have two slow levels in a row or several fast levels in the
+row. Those (the fast levels) can be quite irritating, especially if there are
+many Mushrooms blocking the way. You do NOT want the Centipede to get down to
+the lower side of the map.
+
+Look at it this way:
+
++----------------------------------------------------------------+
+|     M               M         M                                |
+|           M     S                                  M           |
+|                     Y       CCCCCCCCCCCC                       |
++----------------------------------------------------------------+
+
++----------------------------+   If there's a Centipede coming at you from one
+| KEY                        |   side, the Spider is charging on the other
+|                            |   side, and there are Mushrooms littering the
+| M = Mushroom               |   area that gives you VERY few room to maneuver.
+| S = Spider                 |   That means that (1) you can't really
+| Y = Your ship              |   concentrate on destroying the Centipede and
+| CCCCCC = Centipede         |   (2) until the Centipede starts moving up to
++----------------------------+   the top of the screen you have a great risk of
+                                 being killed. If this ever happens, then first
+                                 destroy the Spider. Once that happens, move up
+                                 to a higher area and start destroying the
+                                 Mushrooms. Then wait until the Centipede
+                                 starts to move up to the second row of the
+                                 arena and then return to the first row and
+                                 start shooting at the Centipede.
+
+Very, very rarely the Centipede will make it to the bottom of the arena in one
+piece. It's rare that the Centipede even makes it to the middle in one piece.
+And it's uncommon that the Centipede gets three rows down before splitting.
+Yes, the Centipede can split which significantly increases the difficulty of
+the game. You'll now have to keep track of TWO Centipedes and along with the
+Spider, this can get hard. Especially when there are a lot of Mushrooms. If the
+Centipede splits into two (for example, a strand of seven and a strand of five)
+your first intention might be to destroy the shorter one first to get it out of
+the way. DON'T. If the longer one reaches the bottom of the level, then it'll
+probably have split up even more by then.
+
+That just means you'll have single unit Centipedes flying around. Let me show
+you how this would look like:
+
++----------------------------------------------------------------+
+|     M      M        M       C  M            M                  |
+|           M     S    C    M                  C      M          |
+|       CC             Y       C      C                          |
++----------------------------------------------------------------+
+
++----------------------------+   Look at that. Five Centipede heads flying
+| KEY                        |   around you and one two-piece Centipede. So
+|                            |   as you dodge the two Centipede heads coming at
+| M = Mushroom               |   you, you'll also have to dodge the Spider and
+| S = Spider                 |   the Cenipede head above you and you can't go
+| Y = Your ship              |   to the far right because (1) two Centipedes
+| CCCCCC = Centipede         |   are coming at you and trying to go over them
++----------------------------+   would be impossible because of the Centipede
+                                 and Mushroom and (2) if you were to even make
+                                 it to the right side by some astonishing
+                                 miracle then you'd have to deal with the
+                                 Centipede head over on the other side. If you
+                                 ever get stuck in a situation like this (and
+                                 belive me, during the later levels you WILL be
+                                 in these situations and they'll be the death
+                                 of you) then you need to first shoot whatever
+                                 is above you. That may be a Spider or a
+                                 Centipede. Mushrooms should be ignored unless
+                                 you absolutely need to shoot them. Just
+                                 remember that they take four shots to kill.
+
+                                 Once those are gone, it is safe to move up
+                                 towards the second row. There, shoot whatever
+                                 is in the third row. The chances of you dying
+                                 have gone from extremely high to you having to
+                                 be a bit unlucky.
+
+Now shooting the longer Centipede first is always a great idea. Of course, the
+shorter Centipede might reach the bottom but there will be less heads to deal
+with. On the way there, one Centipede might split on its own. This is not
+uncommon; if a Centipede drives straight into a Mushroom (that's not on the
+side, the Centipede has to charge straight into it) then it will separate and
+go in two separate directions. You may have a bunch of stray Centipede heads
+floating around the arean. This is not good news, especially when they're going
+extremely fast. You'll have to focuse on the ones that are closest to you and
+then slowly work your way up to the upper ones. Still, you're not going to be
+able to defeat all of them by the time they get down to the lower area.
+
+However, you should have taken out a great deal of them so you will only have
+to deal with one or two Centipede heads. Now there is one incredibly annoying
+thing that can happen. Once you get to at least level five, the Mushroom count
+will be insane. As in, something like this:
+
++----------------------------------------------------------------+
+|       M             M               M     M    M             M |
+|       M         M                M      M            M         |
+|              M         M     M           M M               M   |
+| M     M                                  M M  M M  M           |
+|      M          M                 M              MMM   M       |
+|                       M   M   M      M         M       M   M   |
+|M   M  M     M            M         M   M                       |
+|M     MM     M      M                       M M      M      M   |
+|M   M             M MMMM        M       M        M              |
+|M   M                              M       M                  M |
+|M         M       M     M                  M M    M    M        |
+|M                  M      M  M         M  M    M                |
+|      MM                      M             M  M      M         |
+|             M             M                MCM       M         |
+| M    M             M        M    M         MCCCCM        M     |
+|       M               M                  M    MC  M  M         |
+|  M             M  M                   M M     MC               |
+|       M               M        MMMMM         M C               |
+|          M M MM                                CM   M   M      |
+|    M            M       M M     M         M  M CC            M |
+|     M                               M          C M       M  M  |
+|       M                                    M                   |
+|\      M    M          M         M                 M     M      |
+| \       M         M       M                                   /|
+|  \          M                       M             M          / |
+|  M\      M                M                  M              /  |
+|____\_______M____________M_________________________________ /___|
+|MAX BOUNDRY YOUR SHIP CAN STAY IN - MAX BOUNDRY YOUR SHIP CAN ST|
+|AY IN - MAX BOUNDRY YOUR SHIP CAN STAY IN  - MAX BOUNDRY YOUR SH|
+|IP CAN STAY IN - MAX BOUNDRY YOUR SHIP CAN STAY IN - MAX BOUNDRY|
++----------------------------------------------------------------+
+
++----------------------------+
+| KEY                        |
+|                            |
+| M = Mushroom               |
+| \ = Path Spiders enter from|
+| CCCCCC = Centipede         |
++----------------------------+
+
+If you notice, the Mushrooms in the area on the right are so cramped together
+that the Centipede literally goes kamakazie and charges right through. This is
+good ONLY when it's all lined up in a neat row (like listed at the beginning at
+the guide). As you can see, however, these are all messed up but are still
+going vertical. When you get to level six, the Mushrooms will start appearing
+like that. They'll charge forward and reach the bottom of the level about three
+seconds after the level begins. Unless you're experienced and can take out many
+at once, you'll have a problem. However, you'll still be able to eliminate at
+least half of them. If it's a little more wide open, then it can actually be
+used toward your advantage if you've been playing the game for a while (by a
+while I don't mean days, I mean hours).
+
+But once you get to level seven, things get much more difficult. Let me show
+you an idea of how the Mushrooms will be positioned in level seven:
+
+    M
+  M    M
+    M M
+   M M M
+   MMM
+  M  M M
+ M M
+   MMMM
+   MM
+     M
+ M
+
+Now don't think that it's like that all the time. Usually, it's only a specific
+part of the level. About seventy percent of the time, it's on the right side. I
+don't know why, but it happened to me about twenty-nine times (yes, I DID keep
+an accurate count) in the forty times I played (I spent exactly ten bucks on
+this game, remember?). Let me show you how the Centipede makes its way through:
+
+
+    CM
+M  MC
+  MCCM  M
+ MCCM M
+ MCM M M
+ MCMMM
+ CCCCM M
+ MMM
+   MMMM
+   MM
+     M
+ M
+
+That may not seem that big but it can't get from the top part of the section to
+the bottom in about one second flat. Seriously. And usually the Mushroom row
+stretches from the top of the screen to the bottom. Since the Centipede always
+starts off by going to the right and since the Mushroom row is usually located
+to the right... well... put two and two together and you know. You have to be
+ready for this. Starting at level six (sometimes at level five, mostly level
+seven and up) you need to start each level by going to the right. Let's divide
+the playing field into four "rows," shall we? Each row makes up a fourth of the
+playing field. From left to right, the rows are one, two, three, and finally
+four.
+
+You'll always want to go to the middle of row three because that's where the
+Centipede usually charges. Okay, I must finally tell you an ultimate danger of
+the game. I like to call this the Trap and it GURANTEES your death unless you
+know how to escape it. The "Trap" is pretty dangerous during the slow levels
+and extremely dangerous during the fast levels. Here it is:
+
++----------------------------------------------------------------+
+|                               /<-CCC CCC ->                    |
+|                           S  /        <- C                     |
+|                  C ->      \/   Y   <- C                       |
++----------------------------------------------------------------+
+
++----------------------------+   This is just one example of the Trap.
+| KEY                        |   Basically, there will be a Spider and
+|                            |   at least three Centipedes involved. Two of the
+| M = Mushroom               |   Centipedes will be coming at you at the bottom
+| S = Spider                 |   row from opposite directions and the Spider
+| Y = Your ship              |   will be bouncing towards you from the left or
+| CCCCCC = Centipede         |   right. Trying to go up to avoid the two
++----------------------------+   Centipedes is a no-go because the Spider is
+                                 trying to kill you. You MIGHT have a chance,
+                                 but it's slim. If a third Centipede is coming
+                                 at you on the second row from the left or
+                                 right, then you're in a huge amount of
+                                 trouble. Luckily, getting in this situation is
+                                 rare, happening only about 10% of the time in
+                                 each of the fast levels. Getting OUT of it
+                                 requires quite a bit of skill and a small bit
+                                 of luck. You need to be able to quickly shift
+                                 to once side and take out the Spider, then get
+                                 out of the bottom row. If there are Centipedes
+                                 on the third row, then you're in trouble
+                                 unless you've seriously mastered the controls.
+
+                                 Staying in between two rows is made difficult
+                                 with the rolling ball you're given as the
+                                 controls. With that in mind, I hope you never
+                                 get into this situation. This is all the
+                                 advice I can give you. Other than that I can
+                                 say one thing: good luck.

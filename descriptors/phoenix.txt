@@ -1,0 +1,314 @@
+Welcome to my FAQ for Phoenix.  Since the game has you continuously playing
+through waves until all your men are killed, there is no walkthrough per se.
+Instead it will be broken up into the game itself and strategies for survival.
+Input is appreciated along with constructive criticism.  If you wish to e-mail
+me thoughts on this FAQ, better ways of doing things, other strategies, etc.,
+feel free.  Make sure you put Phoenix as the subject.  If you don't, I'm
+liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Phoenix was a partnership game between Amstar and Centuri.  Centuri tended to
+partner up with other companies such as SNK for Vanguard or Tehken for
+Pleiades.  Amstar was a little known company who mostly produced arcade
+gambling games.  Unfortunately, the video game crash of the early 80's claimed
+both of these companies as victims; Centuri in 1983 and Amstar in 1982.  This
+was another game that one played on multiple playing fields.  The scoring
+system was more unique in the fact it depended on things you did before you
+killed an enemy.  Good luck defending against the invaders.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Phoenix is a two-dimensional, space shooter style game.  While you are out
+patrolling in your sector, you run into an alien race.  The race you are
+tangling with are the Phoenix race.  Through a series of battles, you will
+eventually have to tangle with the Spacefortress.  Of course, once you have
+successfully beaten back these attacks, there are more enemies in the wings
+waiting to eliminate you.  It comes down to who has the stronger will to
+survive.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  A left motion button
+
+-  A right motion button
+
+-  A fire button
+
+-  A shield button
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Phoenix actually consists of three playing fields.  The first two fields are
+repeated so you actually will be playing on five fields.  Each playing field
+happens in the same exact order as the waves progress.  After you make it
+through wave 5, you go right back to wave 1 again.  I have included an example
+of what these fields look like:
+
+                              +---------------+
+                              | WAVES 1 AND 2 |
+                              +---------------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |         /\||/\                                                    |
+    |           \/                                                      |
+    |                                                                   |
+    |                     /\||/\<-PHOENIX FIGHTER                       |
+    |                       \/                                          |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                              |                                    |
+    |                           |/| |\|                                 |
+    |                             | |  <-YOUR FIGHTER                   |
+    |                           |/|_|\|                                 |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+                              +---------------+
+                              | WAVES 3 AND 4 |
+                              +---------------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |               _    _                                              |
+    |              / \/\/ \                                             |
+    |             //\    /\\<-PHOENIX BIRD                              |
+    |                \__/                                               |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                              |                                    |
+    |                           |/| |\|                                 |
+    |                             | |                                   |
+    |                           |/|_|\|                                 |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+                                 +--------+
+                                 | WAVE 5 |
+                                 +--------+
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |         /\||/\<-PHOENIX FIGHTER                                   |
+    |           \/                                                      |
+    |                                 _|_                               |
+    |                           _______|__________                      |
+    |                          /                  \                     |
+    |                         /      +---+         \                    |
+    |                   _____/_______|_P_|<-ALIEN __\____               |
+    |                   |________________________________|<-SHIELD      |
+    |                   \                               /               |
+    |                    \                             /                |
+    |                     \                           /                 |
+    |                      \                         /<-HULL            |
+    |                       +-----------------------+                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                              |                                    |
+    |                           |/| |\|                                 |
+    |                             | |                                   |
+    |                           |/|_|\|                                 |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control your fighter through these five screens.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring is a little complicated in this game due to the fact it depends on hits
+made and how close the Phoenix's are to your fighter.
+
+Phoenix fighters:  20, 40, or 80 points
+Phoenix birds   :  50 or 100 points/egg
+                  100 - 800 points/bird (depends on how many wings shot off and
+                                         distance from fighter)
+
+Spacefortress   :  1,000 - 9,000 points (depends on how close the Spacefortress
+                                         is to your fighter when you kill the
+                                         alien)
+
+You start the game with 3, 4, 5, or 6 lives.  You are awarded bonus lives at
+3,000 and 30,000 points, 4,000 and 40,000 points, 5,000 and 50,000 points, or
+6,000 and 60,000 points.
+
+ _________________
+/ 6.4  The Waves /_____________________________________________________________
+-----------------
+
+The waves in Phoenix are arranged in a specific order.  After you complete
+wave 5, it cycles again back to wave 1.  The only difference is in some of the
+scores and the enemies get faster.  Below are what is in each wave:
+
++---------------+
+| WAVES 1 AND 2 |
++---------------+
+
+These are the Phoenix fighter waves.  You will have to tangle with 16 Phoenixes
+per wave.
+
++---------------+
+| WAVES 3 AND 4 |
++---------------+
+
+These are the Phoenix bird waves.  You will have to tangle with 8 birds per
+wave.
+
++--------+
+| WAVE 5 |
++--------+
+
+You get to deal with the Phoenix Spacefortress.  In addition to the Space-
+fortress, you will also have to tangle with its 12 escorts.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your fighter will be in the middle at the bottom of
+the screen.  You will see a formation of enemy fighters at the top of the
+screen.  This is the beginning of wave 1.  A quick note about the shield.  It
+lasts a couple of seconds and takes about five seconds to regenerate again.
+
+ _____________________
+/ 7.1  Waves 1 and 2 /_________________________________________________________
+---------------------
+
+-  You will usually be attacked by multiple fighters at any one time.  The
+   movements of these fighters is pretty random.
+
+-  In addition to dropping bombs on your fighter, Phoenix fighters also tend to
+   try to ram your fighter.
+
+-  After you clear out a few fighters, they will reassemble at the top of the
+   screen.  They will then move in synch with each other as they creep to the
+   bottom of the screen.
+
+-  Sometimes a Phoenix fighter will hover right above your ship.  If you're
+   quick, you can get off a quick shot and move away before a bomb can be
+   dropped on you.
+
+-  If multiple Phoenix fighters are at your level, use the shield to clear a
+   path through them.
+
+ ____________________
+/ 7.2  Wave 3 and 4 /__________________________________________________________
+--------------------
+
+-  The Phoenixes in wave 3 enter the screen in a zig-zag pattern while the
+   Phoenixes in wave 4 arrive in a cross-over pattern of four Phoenixes per
+   side.
+
+-  Once they get large, they start to do erratic zig-zag patterns across the
+   screen.  At the same time, they are dropping bombs toward your fighter.
+   Your goal is to shoot off their wings.  If you do this, it forces them to
+   go straight down until the wing regenerates.  They will still be
+   dropping bombs, but at least they will be going straight down.
+
+-  If at all possible, try to hit the Phoenixes when they are close to your
+   ship.  Doing this gets you more points.
+
+-  In addition, try to shoot off both wings before destroying a Phoenix for
+   more points.
+
+ ______________
+/ 7.3  Wave 5 /________________________________________________________________
+--------------
+
+-  Your goal on this wave is to cut through the hull and shield and take out
+   the alien inside.
+
+-  Start firing as rapidly as you can to quickly cut through the hull.  It will
+   take quite a few shots to get to the shield.
+
+-  The shield rotates so you will have to hit it a lot of times in order to get
+   a wide enough hole in it to hit the alien.
+
+-  As all of this is going on, the Spacefortress is continually descending upon
+   your ship.  In addition, the escorts are constantly harassing you.
+
+-  A good strategy is that once you have cut a path through the hull and
+   shield, wait for the Spacefortress to be almost on top of your ship.  When
+   you take out the alien, you will get a lot more points.
+
+-  Destroying the escorts does not end this wave.
+
+Once you complete wave 5, the cycle begins anew.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+Looking at this game, it just seemed like another space shooter.  Even the
+demonstration play didn't negate that observation.  The only thing, before
+playing it, that made it look different was the fact that there were more
+enemies mentioned then what the demo showed.  After we started to play the
+game, we realized there was much more to it then met the eye.  The five waves
+concept was a pretty good idea and it definitely made the game a lot more
+enjoyable.  The variable scoring was also interesting since it provided a
+challenge to the player to get the most amount of points from objects in the
+game.  The Spacefortress proved to be a challenge just due to the fact that you
+had to go through several layers of it to get to the alien itself.  A lot of
+quarters were put into this machine, but it was worth it.  Unfortunately,  it
+is very rare to find this machine anywhere.  However, through the miracle of
+emulation, a whole new generation is realizing what we "old" folks enjoyed
+those many years ago.  In addition, www.shockwave.com is bringing many of these
+classic games back.  Check out their site to see what ones are there.  I hope
+this guide helps you in being able to get the most amount of gameplay for this
+game.  If you do have other ideas or thoughts, please e-mail me and share them.
+Who knows, maybe I'll start a Q&A Chapter in this guide if enough people ask
+the same questions.  Anyway, thank you again for reading this guide.

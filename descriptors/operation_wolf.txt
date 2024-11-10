@@ -1,0 +1,244 @@
+Welcome to 'Operation Wolf' for the NES, a light gun shooter released in 1989
+by Taito.
+
+Suggestions, comments or errors - email me about it. Enjoy!
+
+
+==============================================================================
+02.)                         OVERVIEW & CONTROLS           G0200
+==============================================================================
+
+Your main controller is the zapper gun. You can play without it, but it would
+be a futile attempt.
+
+Controller Pad: (in Port 1)
+```````````````
+
+ A Button:    Fire Gun
+ B Button:    Grenade
+ D-Pad:       Move gun sight
+ START:       Starts the game / Continue
+ SELECT:      Set gun sight speed
+
+Light Gun: (in Port 2)
+``````````
+
+ Trigger:     Fire Gun
+ Trigger
+  + B Button: Grenade
+
+Pull the trigger to START the game.
+
+During the game, use START to pause the game and resume later.
+
+
+How to play:
+````````````
+
+Each level has six missions. The object of the game is to defeat every enemy
+in a mission and advance to the next one. Each level has prisoners that need
+to be rescued. If you finish the Prison Camp without any rescued prisoners,
+the game ends.
+
+The levels are the same over and over again, but differ in difficulty such as
+enemy speed and accuracy.
+
+Getting hit by an enemy unit reduces your health bar. Collect health boosts to
+stay alive, and kill enemies quickly before they get the chance to shoot you.
+You get one continue per mission, but not in the Prison Camp or Airport area.
+
+You only have limited amounts of ammo. There are also boosts you can shoot to
+fill your supply. If you run out of machine gun ammo it will slowly count up
+to 1 to give you the chance to shoot another ammo supply icon. The ammo count
+is held over from mission to mission but you do get a full supply after the
+ammo dump mission. You start the game with 7 Magazines and 5 Grenades.
+
+Do NOT shoot the children, nurses or prisoners that come across the screen.
+You lose parts of your health bar if you do so.
+
+You rescue prisoners in the Prison Camp and Airport missions. They are
+automatically rescued when they safely walk across the screen from right to
+left but they can still die when they say "Thank You!". Knife Soliders will
+hunt them down so take them out first.
+
+
+Screen:
+```````
+ ___________________________________
+|                                   |
+.                                   .
+.                                   .
+|___________________________________|
+|  Score: 0000000                   |
+|   _   _   _   _    _   _   _   _  |
+|0 |1| |2| |3| |4|  |5| |6| |7| | | |
+|   ¯   ¯   ¯   ¯    ¯   ¯   ¯  | | |
+|        _______________________| | |
+| Damage|                         | |
+|        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+0: FREE bullet countdown
+1: Magazines
+2: Ammo
+3: Grenades
+4: Prisoners Rescued
+5: Enemies Units
+6: Enemy Helicopters / Gunboats
+7: Enemy Armored Cars 
+
+
+Items:
+``````
+
+You start the game with several magazines and grenades. You can hold a maximum
+of nine magazines and nine grenades.
+
+Chicken:     Shoot it for a grenade icon.
+Dynamite:    Blows up when shot.
+FREE bullet: 10 second rapid fire
+Grenade:     Extra grenade
+Magazine:    Extra 20 bullets
+Pig:         Shoot it for a magazine icon.
+Power Drink: Extra health
+Vulture:     Shoot it for a magazine icon.
+
+
+Points:
+```````
+
+Field Soldier:          50 pts. -> 100 pts.
+Motorcycle Soldier:    150 pts.
+Armored Soldier:       200 pts.
+Guerilla Soldier:      200 pts.
+Knife Soldier:         300 pts.
+Armored Car:          1000 pts.
+Gun Boat:             1000 pts.
+Helicopter:           2000 pts.
+General:              5000 pts.
+HIND Helicopter:      7000 pts.
+
+Mission Complete     10000 pts.
+
+After the airport mission, the president will talk to you regarding the number
+of prisoners you have rescued.
+
+0 Prisoners:         60000 pts.
+1 Prisoner:          70000 pts.
+2 Prisoners:         80000 pts.
+3 Prisoners:         90000 pts.
+4 Prisoners:        100000 pts.
+5 Prisoners:        110000 pts.
+
+
+Strategies:
+```````````
+
+When there are no nurses/children/prisoners around, shot the dynamite lying on
+the ground as they can take out a bunch of enemies at once.
+
+Do not fire randomly or keep firing all the time. Ammo is scarce. Watch your
+ammo meter, shooting icons regurarly is a must. You never know when there is
+a helicopter around the corner.
+
+Don't be silly and shoot civilians.
+
+Prioritize the enemies on screen. Go for the knife soliders first, enemies 
+about to throw a grenade and also take care of helicopters, cars or boats
+quickly.
+
+There are more foot soldiers than the number indicates, but you only need the
+required amount. This means that not taking out the armored units regularly
+will lengthen the scene with more soldiers coming on-screen.
+
+Prisoners walk across the screen from left to right. There is always a Knife
+Soldier after them. Sometimes close behind, sometimes very far behind. Kill
+them fast.
+
+
+==============================================================================
+03.)                         MISSIONS                      G0300
+==============================================================================
+
+During the missions you are sometimes detected by the enemy and need to battle
+a number of enemies on the road side.
+Enemies:       40
+Helicopters:   03
+
+
+Communications Center:
+``````````````````````
+
+Cut off the enemy communications. Don't let them call for help.
+
+Enemies:       55
+Helicopters:   04
+Armored Cars:  05
+
+Succeeded in demolishing the communication center and cut off the enemy from
+rescue.
+
+
+Jungle:
+```````
+
+Extract information about the prison camp location from the enemy.
+
+Enemies:       60
+Gunboats:      08
+Amored Cars:   08
+
+General
+
+The location of the prison camp was extracted from the enemy.
+<The general is holding a hostage so precision shooting is required.>
+
+Village:
+````````
+
+Defeat all the enemies and then take a rest.
+
+Enemies:       45
+Helicopters:   06
+Amored Cars:   03
+
+The village is freed and you recover from injury.
+
+
+Ammunition Dump:
+````````````````
+
+Take ammunition by force.
+
+Enemies:       50
+Helicopters:   07
+Amored Cars:   05
+
+The ammunition dump raid was successful. Now you have a new supply.
+
+
+Prison Camp:
+````````````
+
+There are 5 prisoners. Rescue them!
+<Remember you need to rescue at least one enemy!>
+
+Enemies:       75
+Helicopters:   12
+
+Succeeded in freeing the prisoners.
+
+
+Airport:
+````````
+
+Rescue the prisoners. Get away in the airplane.
+<The number of prisoners you rescued will walk from left to right to escape.
+Keep plenty of ammo and/or grenades for the HIND at the end.>
+
+Enemies:       85
+Helicopters:   11
+Amored Cars:   04
+
+HIND Helicopter
+
+Succeeded in freeing _ prisoners. A successful getaway.

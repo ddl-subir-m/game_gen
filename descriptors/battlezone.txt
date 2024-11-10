@@ -1,0 +1,303 @@
+Welcome to my FAQ for Battlezone.  Since the game is just a shooter that goes
+until all your men are killed, there is no walkthrough per se.  Instead it will
+be broken up into the game itself, strategies for survival, and some in-
+teresting quirks in the game.  Input is appreciated along with constructive
+criticism.  If you wish to e-mail me thoughts on this FAQ, better ways of doing
+things, other strategies, etc., feel free.  Make sure you put Battlezone as the
+subject.  If you don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Atari started to lose its dominating position when the 1980's arrived.
+Companies such Midway (a licensee of Namco), Taito, Cinematronics, and Stern to
+name a few were starting to put out arcade machines.  With this many competitor
+in the field, it wasn't any wonder why Atari was losing the market edge.  They
+needed a game to put them back in the spotlight again.  Battlezone proved to be
+just the game.  It was one of the first true three-dimensional games.  Pushing
+the CPU to the limit by using vectored graphics, Atari proved again why it was
+a leader in the cutting edge.  The game proved to be so popular and somewhat
+realistic, the army approached Atari about making a military version.  The
+programmers complained about writing code for a military application, but Atari
+went ahead and did it anyway.  The result was a tank simulator for use by the
+army's tank crews.  This, however, also spelled the beginning of the end for
+Atari since many of those programmers left for greener pastures as the decade
+wore on.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Battlezone is a three-dimensional shooter, vector-lined shooter.  You control
+your tank through obstacles and enemy units to ensure your survival.  Your job
+is to eliminate all enemy units which consist of tanks and missiles.  Of
+course, they are trying to do the same to you so it becomes the law of the
+fittest survive in this three-dimensional "paradise".  Good luck and good
+hunting.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+In order to become a master of this game, you must be familiar with the
+controls.  The controls are pretty easy to work.  You just have to play the
+game some to get used to them.
+
+-  Two two-way joysticks with firing triggers on them
+
+To move, you must move the joysticks certain ways:
+
+Forward :  Both joysticks forward.
+Backward:  Both joysticks backward.
+Left    :  Left joystick backward, right joystick forward.
+Right   :  Left joystick forward, right joystick backward.
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+The playing field consists of a three-dimensional landscape littered with
+various objects and enemy units.  In the background is a mountain range which
+even has an exploding volcano.  I have included an example of what the playing
+field looks like (a little larger then normal):
+
+    +-------------------------------------------------------------------+
+    | +---------------------+     +----+       +----------------------+ |
+    | |                     |    /\    /\      | \___/<-TANKS LEFT    | |
+    | |                     |    | \  /  |     |                      | |
+    | |                     |    |  \/   |     | SCORE                | |
+    | |                     |     \   \ /      | HIGH SCORE           | |
+    | +---------------------+      +---+       +----------------------+ |
+    |______________________________RADAR________________________________|
+    |___________________________________________________________________|
+    |-------------------------------------------------------------------|
+    |                                                         .         |
+    |                                                   .  .  .         |
+    |                                                      ._.       +--|
+    |   /\         /\                                      / \      /   |
+    |  /  \ /\    /\/\                 +----+       /\    /   \    /    |
+    | /    / +-----+  \               /     |\     /  \  /     \  /     |
+    |/    /  \ \/  |\  \             /      | \   /    \/      ___      |
+    |----+---|\++--|-+--+-----------+-------+--+-+-----+------/ O \-----|
+    |        +-|---+ |                            ENEMY TANK->+---+     |
+    |         \|    \|<-OBSTACLE                              +---+     |
+    |          +-----+                                                  |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control your tank through this landscape.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty simple:
+
+Regular Tank:  1000 points
+Super Tank  :  3000 points
+Missile     :  2000 points
+Saucer      :  5000 points
+
+Depending on the machine set up, you will earn a free tank in the following
+way:
+
+15,000 and 100,000 points
+20,000 and 100,000 points
+50,000 and 100,000 points
+100,000 points
+None
+
+Missiles will start appearing depending on what the machine is set up to:
+
+5,000, 10,000, 20,000, or 30,000 points
+
+You start with three tanks.
+
+                               ****************       
+******************************** U N I T  III *********************************
+                               ****************       
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, you will be put into a surrealistic landscape.
+Almost immediately, an enemy will appear on the screen.  You will know this by
+a warning sound the machine makes plus the enemy will show up on your radar.
+Now it's time to go to work.
+
+-  First of all, this game will be very different because you must look through
+   a periscope apparatus.  This is to give the feeling of being confined in a
+   tank.  Get used to limited movement of your head and use your eyes to
+   quickly take in the entire battlefield in a glance.
+
+-  You must be able to identify different sounds in this game.  Sounds you need
+   to know are:
+
+   -  The warning that an enemy is on the battlefield.
+
+   -  The sound of an incoming missile.
+
+   -  The sound of a shot being fired (by you or at you).
+
+   -  The sound of the saucer.
+
+   -  The joyous sound of actually destroying something.
+
+   -  The sound when your tank bumps into an object (enemy unit or battlefield
+      obstacle).
+
+-  Your field of vision is approximately 45 degrees.  This means you will have
+   to learn to use your radar effectively for anything out of your field of
+   vision.  The 45 degree wedge always faces forward (your line of site).
+   Enemies (except the saucer) will show up on your radar as a white dot.  Plus
+   you will hear the beep as the radar sweep continues to cross over it.
+
+-  Be not only aware of where the enemies are, but also where the obstacles are
+   also.  There's nothing more frustrating then having the perfect shot lined
+   up, or the perfect escape planned when you run into something.  This is
+   especially true when you are moving backwards.
+
+-  In order to line up with an enemy tank, you must turn your entire tank
+   toward the enemy.  The turret and tank are one piece versus being able to
+   turn the turret independently of the tank.
+
+-  You can only have one shot out at a time.  This can prove to be the
+   difference between life and death since if you fire a stray shot, you must
+   wait for that shot to disappear into the horizon before your tank is loaded
+   again.  This can take a couple of seconds.  On the same note, the enemy
+   tanks also work under this restriction.  In other words, make sure you have
+   your target lined up before taking a shot.
+
+-  The game starts out giving you the standard tanks.  These tanks move slower
+   then your tanks so they are pretty easy to kill.  After the 30,000 point
+   mark, however, the supertanks make their appearance.  These tanks are much
+   quicker then your tank so you have to take them out quickly.
+
+-  Tank killing isn't actually too hard once you get the rhythm of how to do
+   it down.  There are a few methods for killing tanks:
+
+   -  When the tank first appears on your radar, turn around so that you are
+      facing it.  The enemy tank will of course take a shot at your tank.
+
+   -  Now, move backwards and turn slightly in the same direction of where the
+      enemy tank is.  In other words, if the enemy tank is slightly to your
+      left, then go backwards while turning your own tank to the left. You may
+      even see the enemy's tank shot appear in your field of vision.  That
+      means you have the right angle on the turn.
+
+   -  At the same time you are moving backwards, the enemy tank will be moving
+      up to engage your tank.  Continue the above until the enemy tank is
+      practically on top of your tank.  Then rapidly turn left or right and hit
+      him with a point-blank shot.  Sometimes the enemy tank hits yours.  Just
+      like an obstacle, the enemy tank will back up and speed away.  Turn
+      rapidly to hit him before he can set up for a shot.  Again, the Super-
+      tanks recover much quicker then the standard tanks.
+
+   -  This will work on both regular tanks and Supertanks.  The difference is
+      the fact that Supertanks close the distance much quicker then regular
+      tanks.
+
+   -  Another way is to put an obstacle between yourself and the enemy tank.
+      When an enemy tank hits an obstacle, they back up and move quickly away
+      for a brief moment before they turn again to fire on your tank.  If you
+      are good, you can "lead" the target when they are backing up or going
+      forward and score a kill that way.  Of course, this method is much more
+      difficult.
+
+-  Don't attempt to outrun a Supertank.  They can easily catch up to you.
+   Plus, they like to get behind your tank to blast you from the rear.  Nothing
+   like not hearing the shot that destroys your tank.
+
+-  Another battlefield hazard is the missile.  The first missile is dependent
+   on the score setting.  It is an easy one that comes straight for your tank.
+   Just sit there and blow it apart.  After that, though, things aren't as
+   easy.  As with the tanks, there is a method and certain rhythm to taking out
+   missiles.
+
+   -  The missile will come down and take a hard turn to the right (as you are
+      facing it).  Then it will take a hard turn to the left.  Then another
+      hard turn to the right to hit your tank.
+
+   -  You can stay still and just turn your tank slightly.  When the missile is
+      turning to the left, fire ahead of it and you can destroy it.
+
+   -  Move backwards and turn toward your left.  That way the missile will go
+      across your field of vision before it makes its right turn again.
+
+   -  When the missile comes, move backward and take a "blind" shot.  You may
+      get lucky.  Even if you don't, moving backwards will enable you to get
+      another shot.
+
+   -  If you are really good, you can wait until it takes the last turn to the
+      right toward your tank.  Spin around and hit it like that.  This is a
+      very rough shot to execute.
+
+   -  If you mess up, sometimes you can move forward and to the right to cause
+      the missile to miss.  You also can usually cause a miss by putting tall
+      (not the short ones you can shoot over) obstacles in your way.
+
+   -  Regardless of method, make sure there are not obstacles between you and
+      the missile.  The missile is capable of jumping all obstacles and it will
+      also eliminate the missiles pattern.  Nothing like a missile jumping over
+      an obstacle and landing on top of your tank.
+
+   -  For multiple missiles, you will have to adjust your direction so that
+      when the next missile lands, it will be centered in your gunsight.  You
+      can also confirm this by using your radar.
+
+-  You will usually get a missile after about five tanks.  Missiles usually
+   come in twos or threes to make your life more exciting.
+
+-  Saucers are a great way to earn points.  They are, unfortunately, on the
+   battlefield when other enemies are present.  If you have a safe, clear shot,
+   then go for them.  If not, you can still take a pot shot at them.  This is
+   usually when you are spinning your tank around to deal with another enemy.
+   If a saucer happens to be in the way, take a shot at it.  You don't get
+   points, however, if an enemy tank takes out a saucer.
+
+-  Another great thing about this game is that you will only have to deal with
+   one enemy at a time.  For example, if the missile appears, then the tank
+   will disappear so you can concentrate on the missile.
+  
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+This has to rank as my all time favorite game.  I remember when it came out,
+you had to basically fight your way through the crowd to get a chance to play
+this game.  It definitely wasn't for the claustrophobic since you had to put
+your face to the periscope which gave you a feeling of being confined.  Also,
+the controls were easy to use and your tank responded quickly to any movements
+you made with the controls.  As the game progressed, it was the sheer
+excitement of hunting enemy units that would take control and the good players
+could stay on the machine hours on end.  Even the sounds and music were unique
+to the game and you would never mistake it for something else.  Although the
+graphics weren't flashy (as compared to today's standards), they were, in my
+opinion, more effective.  Even when you knew where the enemy was, it was still
+a challenge to get them before they got you.  Unfortunately, it is very rare
+to find this machine anywhere.  However, through the miracle of emulation, a
+whole new generation is realizing what we "old" folks enjoyed those many years
+ago.  I hope this guide helps you in being able to get the most amount of game-
+play for this game.  If you do have other ideas or thoughts, please e-mail me
+and share them.  Who knows, maybe I'll start a Q&A Chapter in this guide if
+enough people ask the same questions.  Anyway, thank you again for reading this
+guide.

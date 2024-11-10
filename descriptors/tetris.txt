@@ -1,0 +1,423 @@
+1) Introduction
+          2) Game Basics
+             > Controls
+             > Pieces
+          3) Game Modes
+             > Description of each
+             > Scoring          
+          4) Strategies
+          5) Codes
+             > In-game
+             > Game Genie
+          6) Common Questions
+          7) Copyright/Distribution/Reproduction Guidelines
+          8) Proper Credits
+
+-<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>-
+
+============================
+- 1) Introduction          -
+============================
+Many people wonder why and how Tetris became one of the greatest puzzle games 
+ever. It's simple - originality. Never before have we seen a game where random 
+pieces are spurt out, and the intelligence of the player is forced into play. 
+Tetris is basically about forming straight horizontal lines in a small playing 
+arena. You must get 10 small blocks to link directly across, and that line 
+will incinerate. Pieces are squirted out from above, and the dropping speed of 
+each pieces increases (depending on which game mode you're playing). 
+Eventually, the speed gets so fast that you do not have time to think on 
+where, or how to place the pieces. Thankfully though, Tetris allows you to 
+spin or rotate pieces using the simple Nintendo controller buttons. Thus, you 
+can fit pieces in certain places, or build up for unique strategies.
+
+However, the complete randomness is what makes the game very addicting. Since 
+pieces are selected at random, and you only have knowledge of the next block, 
+this gives you very little recon to use for provisions. Combine this with the 
+increasing speed, and you've got yourself one challenging mind game. 
+Sometimes, you'll desperately need a piece, and the game will constantly shoot 
+out the wrong pieces. You have to improvise. Quite frankly, it makes you 
+thankful that Soviet Russia produced one solid game.
+
+Here's a brief excerpt from the instruction manual (credit to Nintendo):
+
+   '/| WHAT IS TETRIS? |\'
+
+TETRIS is a new type of puzzle game from the Soviet Union that tests your 
+reflexes. It's really simple to play. Seven different shaped objects fall down 
+the game field one after the other. The object of the game is to keep the 
+blocks from piling up to the top of the game field. To do this, you can move 
+blocks left and right, and rotate them as they fall. If you can completely 
+fill in one horizontal line, that line disappears and you get points. If the 
+blocks pile up to the top of the game field, then that's the end of the game. 
+TETRIS is simple, easy-to-understand, but difficult to drag yourself away from!
+
+TETRIS originally came from the word "tetra" meaning the number 4. By 
+rearranging four squares, you can make seven different shapes which are the 
+pieces used in this game. With TETRIS, you can play two types of games: 
+endurance game A, and game B where you play for the highest score at the 25th 
+line.
+
+----------------------------
+
+_____________________
+##### GAME INFO #####
+//////////|\\\\\\\\\\
+Players: 1-2
+Developer: Nintendo
+Released: 1989
+Rarity: very common
+Special Features: n/a
+Cover Art on cartridge: 
+- Shows different blocks rushing towards a bottom chunk of pieces with a 
+blazing light from above
+
+-<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>-
+
+============================
+- 2) Game Basics           -
+============================
+The NES controller is quite possibly the best fit for Tetris because of its 
+simplicity, and lack of need for buttons. Simply put, your two buttons rotate 
+the pieces, and everything else is accomplished using the control pad. This is 
+like apples and oranges if you ask me.
+
+KEY representation for each button:
+
+             A = A button (red)
+             B = B button (red)
+   Control Pad = control pad (black, left)
+         START = start button (black, center)
+        SELECT = select button (black, center)    
+
+ ______________
+/Menu Controls/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+      START - advances through most menus
+          A - confirms selection
+          B - rejects selection
+Control Pad - navigates through menus
+
+ ______________
+/Game Controls/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+     SELECT - hides "next block" display
+      START - pauses game (blacks out puzzle to prevent cheating)
+          A - rotates clockwise
+          B - rotates counter-clockwise
+Control Pad - moves left/right, press down to speed up dropping speed
+
+- Rotating a piece clockwise will cause for it to shift in its right 
+direction. Most pieces can be shifted to four different positions, others 2, 
+and one cannot be rotated (square 2 x 2 block). The next block display gives 
+you a preview of what piece is going to be shot out next. Hiding it makes the 
+game more challenging. Pressing down will cause for a piece to quickly rush to 
+the bottom of the puzzle. Great for speeding up the gameplay.
+
+ _______
+/Pieces/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+As stated before, there are seven different pieces you will come across during 
+the gameplay of Tetris. Some people name them from letters in the alphabet, 
+while others simply remember them by their shapes. This section will detail 
+each of the pieces, along with their rotation animations, and usefulness 
+throughout the game.
+          ______________
+   ___    \ Line Block /
+  |   |   --------------
+  |___|   Probably one of the most useful pieces in the game. The line block is
+  |   |   the tallest available piece in the game as it is composed of four
+  |___|   blocks. It's almost necessary for gaining a "Tetris" four-line score,
+  |   |   and can easily fill in any long gaps during your puzzle frenzy. The
+  |___|   only true disadvantage is that its tall shape on higher speeds can
+  |   |   be fairly hard to rotate.
+  |___|    ___________________
+          | Usefulness: ****  |
+          |   Scarcity: ***** |
+          |  Rotations: 2     |
+          =====================
+
+            ___________
+   ___      \ L Block /
+  |   |     -----------
+  |___|     Although probably not as great as one would expect, L blocks do
+  |   |     have their frequent uses. In most cases, you'll use them to fill in
+  |___|___  gaps of two blocks or greater. Perfect for filling in single nudges
+  |   |   | in your lines, or rotating for the "7" shape.
+  |___|___|  ___________________
+            | Usefulness: **    |
+            |   Scarcity: **    |
+            |  Rotations: 4     |
+            =====================
+
+          ___________
+     ___  \ J Block /
+    |   | -----------
+    |___| Pretty much the exact opposite of the L block, the J block mirrors it
+    |   | to every proportion. Used in the same situations, except for left-
+ ___|___| handed scenarios. Again, you may find these useful throughout the
+|   |   | game, but there are much better pieces.
+|___|___|  ___________________
+          | Usefulness: **    |
+          |   Scarcity: **    |
+          |  Rotations: 4     |
+          =====================
+
+                ___________
+       _______  \ S Block /
+      |   |   | -----------
+   ___|___|___| Due to its resembling shape of an S, most people will find uses
+  |   |   |     for these small pieces. They can often fit into double-wide
+  |___|___|     gaps, or be rotated to fit along step-like shapes. Not too bad
+                of a piece.
+                 ___________________
+                | Usefulness: ***   |
+                |   Scarcity: *     |
+                |  Rotations: 2     |
+                =====================
+
+                ___________
+   ___ ___      \ Z Block /
+  |   |   |     -----------
+  |___|___|___  Again, the complete mirror image of the S Block. This is used
+      |   |   | in reverse situations when you want to reach left-shaded
+      |___|___| sections.
+                 ___________________
+                | Usefulness: ***   |
+                |   Scarcity: **    |
+                |  Rotations: 2     |
+                =====================
+
+            ________________
+   ___ ___  \ Square Block /
+  |   |   | ----------------
+  |___|___| One of the stiffer blocks that can anger certain players. Square
+  |   |   | blocks are pretty much leftover waste that nobody wants. They're
+  |___|___| the only block that cannot be rotated, and it's almost as if
+            you're forced to make room on your own puzzle for them.
+             __________________
+            | Usefulness: *    |
+            |   Scarcity: ***  |
+            |  Rotations: 1    |
+            ====================
+
+                ___________
+   ___ ___ ___  \ T Block /
+  |   |   |   | -----------
+  |___|___|___| Probably the most useful block in the game due to its shape.
+      |   |     T blocks can be placed in nearly every nook and cranny as the
+      |___|     step-like design fits well on most pieces. Almost like three
+                pieces combined to form a unique one.
+                 ___________________
+                | Usefulness: ***** |
+                |   Scarcity: ***   |
+                |  Rotations: 4     |
+                =====================
+
+-<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>-
+
+============================
+- 3) Game Modes            -
+============================
+The creators of Tetris decided to make it more challenging by adding two 
+different gameplay modes. Each of them can be ways of continuing the extensive 
+replayability of the entire game. The following section will briefly describe 
+the goal of each game, along with the scoring methods.
+
+ _______
+/Mode A/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This is basically your default, free-style Tetris. The objective of the game 
+is to score as many lines as possible, while getting the highest points total. 
+To increase your points total, you must score horizontal lines of 10 blocks 
+across. Get 10 blocks to line across in an entire line, and the line will 
+disappear. All blocks above the line will drop down 1. After you score 10 
+lines, the game speed will increase by one level. So let's say you're on level 
+0, and you score 10 lines, it will then increase to level 1. The process 
+repeats itself. The game ends when you touch the top of the playing arena with 
+blocks.
+
+    >> Before playing Mode A, you can select the starting speed (0 through 9).
+
+    >> You may also select a Music Type (1, 2, 3, or none).
+
+- None of your top scores are saved during Tetris, although you may be able to 
+input your name temporarily. 
+
+    ***ENDING: Most mode A endings involve creatures flying around a castle.
+               The highest score will show a rocket launching off the
+               ground. However, most people use Mode A to brag and show off
+               their highest Tetris scores.***
+
+ _______
+/Mode B/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This is a tad tougher, although lesser played mode of Tetris. It includes the 
+same rules as above, except the game speed does not increase a level after 
+gaining 10 lines. Instead, your goal is to score 25 lines within a certain 
+game speed, and with certain random blocks spawned on the playing arena. The 
+game ends if you reach the top of the screen with blocks, but you may also win 
+once you score 25 lines.
+
+    >> Before playing Mode B, you can select the starting speed (0 through 9).
+
+    >> You must select a height (0, 1, 2, 3, 4, or 5).
+     -> Height determines how high the random blocks spawn in the playing
+        arena.
+
+    >> You may also select a Music Type (1, 2, 3, or none).
+
+- None of your top scores are saved during Tetris, although you may be able to 
+input your name temporarily. 
+
+   ***ENDING: Certain creatures and Nintendo characters appear on the screen
+              on various ledges. Based on how high you score, more characters
+              will appear. Mode B is great for getting a taste of variety as
+              it can be VERY challenging on Level 9, Height 5.***
+
+ ________
+/Scoring/
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Points are rewarded for scoring lines in Tetris. However, more "bonus" points 
+are awarded for scoring multiple line bursts at once. For example, if you 
+destroyed three Tetris lines at once, that would be a triple. The following 
+table is the scoring totals for both games A & B.
+  _____________________________________________________________________
+ | LEVEL  |    0|    1|    2|    3|    4 |    5|    6|    7|    8|    9|
+ | Single |   40|   80|  120|  160|  200 |  240|  280|  320|  360|  400|
+ | Double |  100|  200|  300|  400|  500 |  600|  700|  800|  900| 1000|
+ | Triple |  300|  600|  900| 1200| 1500 | 1800| 2100| 2400| 2700| 3000|
+ | TETRIS | 1200| 2400| 3600| 4800| 6000 | 7200| 8400| 9600|10800|12000|
+ '`````````````````````````````````````````````````````````````````````'
+
+- Scores increase in the same way for levels 10 & higher:
+    Singles: +40
+    Doubles: +100
+    Triples: +300
+   TETRISes: +1200
+
+Actual Calculated Score for Mode B:
+
+        Clear Score = Real Score + Level # x 1000 + Height x 1000
+
+"That's basically how they calculate your final score on Mode B."
+
+-<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>-
+
+============================
+- 4) Strategies            -
+============================
+Even for a fairly simplistic puzzle game like Tetris, there are actually a few 
+strategies you can enforce that may help your gameplay skills. While some of 
+them may seem stupid or generic, try to memorize as many of the tips as 
+possible. Most of these tips will shorten your puzzle-solving time, along with 
+increasing your point totals.
+
+     ->) TETRIS Strategy (<-
+
+- This prototypical strategy basically relates to mode A. The idea is to score 
+as many four-line TETRIS points as possible. Because of the huge multiplier on 
+TETRISes, it becomes necessary to build up a huge stack of blocks, then 
+usually finish them off with a line block. On speeds 0-5, the player should do 
+the following:
+     
+     |                   |  <-- Place the LINE block in the left/right hand
+     |                   |      column to yield a TETRIS. Keep doing this until
+     | |#|#|#|#|#|#|#|#|#|      you reach the fast speeds above level 5.
+     | |#|#|#|#|#|#|#|#|#|
+     | |#|#|#|#|#|#|#|#|#|
+     | |#|#|#|#|#|#|#|#|#|      
+     =====================
+
+  From here on, you should have quite an extinguished points total. You can
+then focus on finishing off the remaining leftover bricks on your stack of 
+TETRIS buildup, and narrow it down. It truly becomes impossible on higher 
+speeds though because the bricks will be moving so fast that you'll barely 
+have time to navigate them left or right.
+
+
+     ->) Think Non-Linear (<-
+
+- Many Tetris players simply get overwhelmed with the entire theme that you 
+must "fill" everything to get a line. This isn't entirely true. As a matter of 
+fact, many players overlook an easy line all because they didn't recognize the 
+fact about dissapation. It's ESSENTIAL to remember that a line in Tetris will 
+vanish, and ALL blocks above it drop down one line. Thus, if you see an easy 
+line, take it. Here's what I'm trying to explain:
+
+     |                   | <-- Say for example that you receive a LINE block.
+     |                   |     In most cases, the blind player would simply
+     |#|#|#|#|       |#|#|     place it along the wall vertically. However, if
+     |#|#|#|#|#| |#|#|#|#|     you think for a second, just place it in the
+     =====================     four-block gap on the second row. That line will
+                               vanish leaving you with more points, and a
+                               decreased stack of blocks.
+
+  There are many other situations which you might come across. Use those L and 
+J blocks to their full use. Don't try to fill everything in like it's a 
+coloring book, but rather expound upon it as if it was a jigsaw puzzle.
+
+
+     ->) High Difficulty Mode B Tips (<-
+
+- Some of the extreme speeds (8 or 9) and Height (3-5) can seem like a real 
+pain on Mode B of Tetris. In many cases, people simply say it's impossible, 
+and is a waste of time. You're probably right, but Mode B can be one of the 
+more engaging modes if you get use to it. First of all, Level 9 Height 5 is 
+extremely hard, and your chance of completing it is like 2% out of every 
+chance. However, this means you shouldn't give up. Here are a few pointers for 
+completing Mode B.
+
+  @" BUILD OUTSIDE, then INWARD "@
+  
+     |                   | <-- Despite how random and awkward your height
+     |                   |     layout is, always build from the outside toward
+     |#|#|           |#|#|     the inside. On the high speeds, the blocks move
+     |#|#|#|#|   |#|#|#|#|     so fast that you actually may not have enough
+     |#|#| |#|#|#|#|#|#|#|     time to rotate them into place. This especially
+     =====================     becomes difficult when you have a large piece
+                               jutting out in the middle.
+
+  @" RANDOM LAYOUTS HELP "@
+
+- Simply put, you're not going to win them all. Each generated height is 
+always different. Sometimes you'll get one with so many skips that it isn't 
+funny. Other times you'll get one with large gaping holes that open up 
+opportunity. If your generated layout looks bad, expect to lose. It simply 
+comes down to luck in this one.
+
+  @" GET A PREVIEW EARLY ON "@
+
+- Right when Mode B starts, you'll notice that your first block is jabbed in 
+on the top of the screen. Quickly scan over the playing arena and input (in 
+your mind) where you could place certain blocks. This is sort of like a quick 
+recon report of the entire random layout, and makes valuable use of ANY spare 
+time you have. 
+
+-<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>--<>-
+
+============================
+- 5) Codes                 -
+============================
+Even puzzle games have ways of being cheated on. Nintendo decided to pop in a 
+few in-game cheat codes that can be used to help enhance the gameplay. The 
+following section will discuss any cheat codes along with Game Genie codes. 
+I'd like to give credit to:
+
+GameFAQ's Tetris Codes Page - http://www.gamefaqs.com/
+
+- for the following codes. Thanks to any people who submitted the code on the 
+site.
+     _____               _____
+     |?^?| 10 Level Warp |?^?|
+     =========================
+     - When you're at the Level Select screen (for either mode), press and hold
+       down the A button. Press it over the game speed you want +10 added to.
+       Now press start. Your game speed will be +10 on whatever default speed
+       (0 through 9) that you highlighted.
+
+     _____               _____
+     |?^?| Instant Clear |?^?|
+     =========================
+     - Open up a Mode B game, then start playing. Hold down select. When the
+       next brick hits the ground, you'll receive a Congratulations message.
+       The game will progress as if you completed the level.

@@ -1,0 +1,259 @@
+------------------
+Tidbits
+------------------
+This is actually The Last Ninja 2, which originally came out for the
+Commodore 64 console, but was ported over to the NES with some changes.
+1- Sound Effects when dealing damage
+2- Simplified Graphics (NES is not capable of rasterizing pixels like
+    a Commodore64 can, so graphics were simplified)
+3- Harder enemies, since it was too easy to avoid them with the
+    jump trick. This is done by just jumping to get around. Enemies
+    can NOT hit you if you are airborne and just will keep bumping
+    into you as you jump continuously. The sole exception is being
+    hit by a shuriken.
+4- New layout, some of the items and stages in the Commodore64 version
+    are absent in the NES version, namely The Basement stage was
+    simplified. Feel free to visit the Last Ninja Website
+    http://lastninja.c64.org/
+    Here you can see some walkthroughs for the Commodore64 versions.
+5- Easier to get items, far easier than the C64 version.
+
+-----------------
+Controls
+-----------------
+
+NOTE~ Movement is done in an isometric view, pressing up makes you go
+    walking at 45 degrees (i.e. at 1/2 between 1 and 2 on a clock)
+    This is opposed to moving the joystick on a C64 to turn, then
+    hold the direction to move.
+
+
+		LEFT	UP			 .
+		 *       *			/ \
+		  *     *		       /___\
+		   *   * 			| |
+		    * *				| | North
+		   *   *			| |
+		  *     *			| |
+		 *       *
+		DOWN	RIGHT
+[WHEN STILL]
+A~ Attack with held weapon, punch if none is held
+B~ Kick, use item, pick up an item
+D-PAD~ Movement
+A+SELECT~ Change items
+B+SELECT~ Change weapons
+
+[WHEN MOVING]
+A~ Jump
+B~ Nothing
+D-PAD~ Movement
+
+[UNIVERSAL KEYS]
+START~ Pause the Game
+
+
+------------------
+Noobie Tips
+------------------
+
+Jumps are difficult to perform until you get used to the view aspect.
+You are better off just running to your destination rather than fighting
+    each and every enemy. Your goal is speed, not enemy anilation.
+Use weapons to attack if you must do so.
+Jump into the enemy to try to walk past them when they walk past you.
+Do not ever use shurikens.
+Grab burgers when you can.
+Watch out for cops and thugs shurikens. They always throw them when you are 2/3's
+    or more across the screen.
+Remember you have to have collected the following items to beat the game
+    These can easily be skipped and cause you to get stuck in the last room or at
+    the Sewer stage, where an alligator guards the exit.
+    Number Code, Shurikens, Bottle
+
+------------------
+Items & Weapons
+------------------
+
+Bottle~ Does nothing on its own
+Bottle in Flames~ Used to kill the alligator in the Sewers.
+Burger~ Gives a life when picked up, useless in inventory
+Keys~ Used to open doors
+Key Card~ Same effect as a key
+Map~ This is a clue giving item that will flash certain things such as traps,
+    areas to unlock or items to pick up (but only when you enter the room)
+    This flash effect lasts for about 1/2 a second.
+Meat~ Does nothing on its own
+Meat w/Opium~ The panther dies when baited this
+
+Numbers~ The passcode used to open the lock
+Nunchukus~ Deals 25% more stun than a kick does
+Nunchuk Piece~ Does nothing on its own
+Shuriken~ You only get 9 in the game, deals a lot of damage but is integral
+	to beat the game. You are best never using them.
+Staff~ Deals 25% additional stun than a kick does
+Sword~ Deals 50% additional stun than a kick does
+
+-------------------
+Enemies
+-------------------
+
+Thug~ Weakest of them all, throws deadly shurikens if you are far from them.
+    Looks like a man in brown, unshaven and rugged.
+WeaponArtist~ Has more health than a thug, can deal a lot more at close range.
+    Holds either nunchukus or a sword.
+Cop~ Deals the most of all enemies, and is hardest to knock down. Looks like
+    a man in black with a cap, can also throw shurikens.
+
+Tip: You deal damage in relation to each persons position. You deal the most
+    damage if you hit your enemies back or side. You deal less if you are
+    hitting their front , you facing sideways.
+
+
+Walkthrough Section
+--------------------
+1~ Central Park
+--------------------
+From start go left and behind the curtains. In the next room you need
+to go up and punch the white button. Afterwards go back down and you
+will notice there is now a hole for you to drop down from. When you land
+go and get the key and then exit left, behind the wall. Now you reach the
+Central Plaza section. First go down and at the next screen go towards
+the box and pick up the 9 shurikens. Now go down and go through the gate.
+This screen features a juggler which will throw pins at you (they are
+knives in the C64 version). Just keep moving and they should never hit you.
+So just go down and fast! At the next screen, pick up the map, then scale up
+the wall (just walk right to it and keep pressing up or left). Go down to the
+next screen. Take care to not fall down or else you die and lose a life.
+Carefully(!) jump across the two gaps and then pickup the staff. For now,
+feel free to equip the staff as it deals enough stun to prevent most
+encounters from being tradeoff attacks. Now go back 3 screens to the screen
+where you picked up the shurikens. Go right one screen and then right one more.
+Go into the ladies bathroom and press B. Now that you have 1/2 of a nunchuk,
+go back left one screen then go up. Go left one then at this screen go to the
+burger stand and pick a burger up for an extra life. Go up and at this screen
+enter the ladies room and press B. Now you have a new weapon, nunchukus.
+Now go down 2 screens and at this screen with a locked gate, ready the key
+and press B next to the upper portion of the gate. Presto, it opened. Go left.
+Watch out in this screen, remember the aspect of your view when you attempt
+the jump. Try to jump onto the boat and then draw a diagonal line and wait
+until you can easily draw a line onto the next land area. Jump off the boat
+and onto the path, go down now. (this can easily frustrate players so
+just keep trying and eventually you should be able to make it)
+At this screen watch out for the killer bees. They hurt really bad if they
+land clean on you for any extended period of time. The best strategy is to just
+go left one screen then return back to this screen. Now quickly run up the
+walkway where the bees are and jump over them. Make your way up to the
+end where you see water and jump from the left most corner. If the bees
+manage to start hitting you, JUMP to move! Once you reach the next screen,
+ready your staff and at the edge nearest to the boat and press B to shove it.
+Go back via jumping across the water on the bottom of the screen. Avoid the
+bees and go left. Now this jump is critical. (It is FAR harder in the NES version than
+in the C64 version FYI since your destination is 1/2 it was in the C64 version)
+Align yourself against the fence and as soon as you can, jump onto the boat,
+then IMMEDIATELY jump again across. If you mess this part up, you will miss
+the landing area and end up having to either bump into the wall and fall
+or be forced to walk off the boat since you are now stuck. Once you make it,
+walk behind the wall up and enter the next stage.
+
+--------------------
+2~ City Streets
+--------------------
+From start, go up three screens. Make sure you walk near the curb in the 2nd or
+else you risk getting hit in the head by the flowerpot lady. Go right a screen
+after you reach the "EATS" buliding. Pick up the burger and proceed right. Now
+go and pickup the bottle of wiskey near the wall in the next screen.
+(In the C64 version, a drunkard stooped next to the bottle)
+Now go down and make your way left to the next screen. Now walk into the small
+portapotty (well it looks like one) and press B. Inside is a key.
+Make your way back to the "EATS" building and go up. Same deal here, avoid walking
+near the flowerpot lady or else... and go up one more screen. Now DON'T MOVE!
+Wait until the light just turns RED (look for it in the upper right corner
+of the screen), then walk across the street, or else you will be run over by a biker
+and INSTANTLY killed. Proceed left one screen and at the end of the hallway,
+kick the door and it will break down and you can enter, inside is the best weapon
+to use, the sword. Make your way back to the streetlight screen and go up 1 screen
+along the pedestrian way. Again, DON'T MOVE. This time wait until the streetlight
+turns green and cross. Go up, behind the building, into the alley. At the next
+screen, ignore the cop and just walk back down one screen. Use the key on the
+manhole (stand below it to its right) and drop in it.
+
+-------------------
+3~ Sewers
+-------------------
+This is a nasty level since one portion of it relies on luck if you do not
+know which way to go. There are NO clues and choosing a wrong way ends in death.
+From start go up one screen. Be CAREFUL to not approach a pair of gray stones.
+Doing so will make you be killed by a venomous spider that will drop on you.
+Now go left one screen, via the tunnel. Go right one screen into the next tunnel.
+Pick up the key and exit the screen. Now jump up the step and go left.
+BE CAREFUL at this screen. you can fall off any edge. Jump across the pillar
+and carefully walk across to the left, avoiding the stone, or else you die.
+At this screen, use the key to open the grating and drop down. Now watchout for
+the drunkard that approaches you. Go up one screen. Avoid the stone,
+(here is what I mentioned earlier about the frustration portion)
+and walk through the middle path. Walk left across the walkway into the next room.
+In the next screen, walk through the left most path, then in the next room...
+BE CAREFUL. Rats run down the path and instantly kill you if you touch them.
+Jump above them, making your way up into the next screen. Go right one screen.
+Quickly go to the leftmost path in the next screen. Now equip the bottle and
+use it near the torch to ignite the bottle. Go up one screen. Throw the bottle
+at the alligator and wait until it dies from the flames, the enter the tunnel.
+
+------------------
+4~ Office (this has a small portion of Basement but was edited out in NES version)
+------------------
+From start, take care of the thug and pick up the keycard and go up one screen.
+* lol, looks just like a MasterCard doesn't it :p *
+Now pick up the meat and go right one screen. Now dunk the meat into the box
+of opium and it becomes tainted meat. Go right one more screen. This needs some
+timing to prevent your death. Approach the panther, facing it and as it moves
+its face up, quickly drop the meat and the panther will eat it and not you.
+Now that its dead, use the keycard on the box near the door and enter the door.
+Go down one screen and enter the door to your left, look at the computer
+and obtain the number.(it would definately be wise to kill the thug first as
+its shurikens hurt more than the last boss himself! 2= 1 dead ninja)
+If you miss this step, you will be stuck at the final
+battle with no code and will be frustrated to death trying to guess the
+combination. Now exit this screen and go left one screen. Go through the left door
+and at this screen, hit the little dot on the table to reveal a hidden door.
+Enter and scale up the ladder in the next room. Enter the tunnel. Grab the burger
+and go left through the back door. Now walk as close to the wall as possible.
+RUN across the fan, do not stop or else you fall off and die. Open the grating and
+enter the hole. Jump across the gap to your left and proceed left. Go left one
+more screen and scale up the ladder. Do not bother trying to jump off and fight
+the cop, its not possible. Just run for your life across the edge and go right.
+Now just let the helicopter fly across, the jump onto the right edge and walk as
+much to the right as possible. Then you will automatically fall off and go onto...
+
+-----------------
+5~ Mansion 
+-----------------
+Walk up and at the next screen, walk until you can press right and drop
+into the window. Now go down 2 screens and then go into the door next to
+the closed door. Grab the key and get back out, then back up one screen and use it
+on the small door. Enter and grap the rope off the wall. Go back out and go up,
+back to where you started. Enter the door on the left wall and use the rope on
+the door way that appears black. Not doing this will cause instant death from
+the fall. Enter and grab the key. Exit down. Go out from this room and use the
+key on the door next to the entrance that you just came out from. Enter and
+now go down the stairs and turn on the lights, or else...
+In this room, avoid the walls as they cause instant death. Proceed through
+the next room and at the steam engine, unequip your weapon and PUNCH the right
+switch to divert the steam and enter the door. Congrats, it's time for the...
+
+----------------
+6~ Final Battle
+----------------
+To stand a chance at beating this level you need a few tools.
+At least one shuriken and the number code. Make your way up to the 
+worship room. Here is a pentagram with candles. The goal here is to unlock the
+safe (using the number code), pickup the orb, kill Kunitoki,
+and return the orb to the safe.
+To kill Kunitoki, first lure him to the center of the pentagram
+(you do not need to be perfect where he is, as long as he is clearly in it)
+Have a candle or two prelit before you hit Kunitoki with a shuriken
+(the only weapons that hurt Kunitoki) and then quickly press B beside the
+candles before his POWER gauge recharges. If all 5 are lit before he recharges,
+YAY! Return the orb and you won. If he recovered, you need to try again.
+If you run out of shurikens, you are just plain SHIT OUTTA LUCK.

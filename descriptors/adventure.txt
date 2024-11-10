@@ -1,0 +1,262 @@
+1: WHY A FAQ?
+=============
+     Well, I began to feel nostalgic. I wanted to produce a FAQ that would 
+help reproduce the fascination I felt as a child popping the game cart into 
+what was a relatively new medium at the time: the video game. For a game 
+produced in the late 1970's on a very limited machine (only capable of moving 
+two objects at once, for example), it's pretty amazing the depth this game 
+has. It's also easier to find a loose cartridge at a flea market or garage 
+sale than it is to find the actual instructions for 2600 games. For these 
+reasons, I decided the poor, forgotten, old Atari 2600 deserved better than 
+to fade away with so little documentation as proof of its existence. Thus, a 
+new series of FAQs is born! I hope you enjoy them; drop me a line and let me 
+know that someone is actually reading this! :-)
+
+
+2: GAMEPLAY
+===========
+
+ A) THE STORY OF ADVENTURE
+    Apparently, it's not *always* in the details. In Adventure, you play a 
+    nameless hero trying to set right the nasty deeds performed by a nameless 
+    evil magician in a nameless Kingdom. It seems the evil magician has stolen
+    an Enchanted Chalice from a Golden Castle. The Chalice is hidden somewhere
+    in the Kingdom, and you must find it and return it to its proper home. 
+
+ B) USING THE CONTROLLER
+    Assuming you are playing the actual game cartridge on an Atari 2600 (or 
+    Sears compatible system), hold the joystick so that red button is in the 
+    upper left corner. Pushing the joystick up, down, left and right moves 
+    your character in the same direction. To pick up an item, simply run into
+    it. To drop an item, press the red button. In Adventure, you may only 
+    carry one item at a time.
+ 
+ C) DIFFICULTY SWITCHES
+    Again, assuming you are playing the actual game cartridge on an Atari 2600
+    (or Sears compatible system), the LEFT Difficulty Switch will control 
+    "bite speed". If it is set to "B", the Dragons will pause before they bite
+    you. If it is set to "A", they will bite without hesitation.  The RIGHT 
+    Difficulty Switch, when set to "A" will cause the Dragons to run away from
+    the sword. 
+
+ D) CHARACTERS AND ITEMS
+    
+    1) HERO
+       This is your character. You're the most handsome square in the Kingdom.
+       :)
+    
+    2) EVIL MAGICIAN
+       This is the guy that stole the Enchanted Chalice. You'll never see him,
+       but he's responsible for all the Bad JuJu in the Kingdom.
+
+    3) YORGLE, GRUNDLE and RHINDLE
+       These are the three infamous duck-like dragons in Adventure. Bet you 
+       forgot they had names, didn't you? :) Yorgle is the Yellow Dragon. He 
+       is found in all three game variations, and is a bit slower than your 
+       character. He guards the Enchanted Chalice in Game Variation 2. In Game
+       1, he will be roaming around the Kingdom. Yorgle is afraid of the 
+       yellow key. He will not go near you if you are carrying it, and he will
+       not be found in any room in which it appears. Grindle is the Green 
+       Dragon. He travels at the same speed as Yorgle, but will chase you 
+       regardless of what you may be carrying.  He guards the Black Key, the 
+       Bridge and the Magnet. Rhindle is the Red Dragon. He is the fastest 
+       Dragon and travels at the same speed as your character. Thus, he is the
+       most difficult to evade. He mainly guards the White Key, but in Game 
+       Variation 3 he can be found guarding the Enchanted Chalice.. If any of 
+       the Dragons succeed in getting you between their jaws, all it takes is 
+       one direct bite and you will be swallowed whole. The only thing you can
+       do is move around a bit in the belly of the Dragon who has made you his
+       lunch, which is fun but not too helpful in finishing the game. You do 
+       have a saving move however; simply press the Game Reset switch and you 
+       (along with any Dragons you might have slain) will be reincarnated. Any
+       item you might have been carrying at the time of your demise will be 
+       where you dropped it.
+   
+    4) THE BLACK BAT
+       The Black Bat will be the cause of most of your misery. If you have 
+       never played Adventure before, be prepared for the frustration this 
+       little bugger will be causing you. The Black Bat is like a crow: he 
+       loves to pick things up. However, his taste is not limited strictly to
+       shiny objects. He will pick up anything he can find, including Dragons.
+       He also loves to trade things, giving you whatever he may be carrying 
+       in exchange for whatever *you* are carrying. It is not unheard of for a
+       player to be nearing a castle gate with the proper key, only to have 
+       the Bat come out of nowhere and exchange it for a Dragon! There are two
+       fairly good points about the Bat though. The first is that it can 
+       retrieve items that have become stuck in walls. The second is that you 
+       can catch the Bat and whatever item it may be carrying. For example, 
+       the Bat is carrying the sword. You may catch the Bat and carry it 
+       around until you find a Dragon. Maneuver the bat so that the sword 
+       stabs the Dragon, then let the Bat go. Chances are, it will drop the 
+       sword and carry the dead Dragon away (this is especially easy to do at
+       the start of Game Variation 2). The Bat moves at the same speed as the
+       player, and it does not appear in Game Variation 1. 
+    
+    5) THE KEYS AND CASTLES
+       There are  up to (depending on the Game Variation you are playing) 
+       three different colored keys: Yellow, Black and White. Each Key 
+       corresponds to the same color castle. At the start of the game, each 
+       castle is locked and can only be opened with the same color key. Like 
+       any other item, you may only carry one key at a time.
+
+    6) THE MAGNET
+       The magnet attracts any items that may be in the same room with it. 
+       I've never found it to be all that useful, although it is good for 
+       getting items that may be stuck in a wall.
+
+    7) THE SWORD
+       Fairly obvious, use the sword to kill the Dragons.
+
+    8) THE BRIDGE
+       The bridge is used to walk through certain walls (mainly in the mazes).
+       With the exception of the "Easter Egg" trick, I've never found it to be
+       that useful. To use it, pick it up by an end, place it over the wall 
+       you want to walk through (both ends of the Bridge must be on a area the
+       player can actually walk on), then press the button. A word of caution:
+       be careful when using the Bridge. As the game is set up so that 
+       touching an object causes you to pick it up, if you touch any part of 
+       the Bridge while walking through it, it is possible for you to become 
+       trapped within a wall.
+
+    9) THE ENCHANTED CHALICE
+       This is the Holy Grail of Adventure; the reason for playing. You must 
+       find it and return it to the Yellow Castle to win the game.
+
+ E) VARIATION 1
+    The easiest game. If you have never played Adventure before, start with  
+    this. There are only two Dragons (Yorgle and Grundle) to deal with, and 
+    two castles to explore. There is one maze (the Blue Labyrinth) to 
+    navigate. There is no Black Bat in this game and Yorgle roams freely about
+    the Kingdom. He *may* be guarding the Enchanted Chalice.
+
+ F) VARIATION 2
+    This game features all three castles, keys and Dragons. There are also two
+    more labyrinths that must be navigated; one in the White Castle and 
+    another in the Black Castle. The Black Bat makes his first appearance in 
+    this game. This variation has "fixed" settings. That is, all of the items 
+    and characters will always be in the same place every time you play. 
+    Yorgle guards the Enchanted Chalice.
+
+ G) VARIATION 3
+    This game variation is exactly the same as Variation 2, except that all 
+    object, key and character placement is now  completely random. Rhindle 
+    guards the Enchanted Chalice.
+
+
+
+ H) TIPS
+    1) TEMPT THE BAT WITH USED KEYS
+       Some players like to use a key to open a Castle gate and then place 
+       that key inside the Castle for safe keeping. I say, once you've raised 
+       the gate (you don't have to walk inside the Castle to do this) drop the
+       used key somewhere else in the Kingdom where the Bat can get at it. The
+       more used items scattered around that he can play with, the less likely
+       he's going to grab something you need.
+    
+    2) USE THE BAT TO DO YOUR DIRTY WORK
+       Just like the example I gave in the Black Bat section, grab that little
+       bugger when he's carrying around the sword. Use him to kill any Dragons
+       out in the open, then let him go to (hopefully) carry off a carcass, 
+       leaving you with the sword in the process.
+
+    3) LEARN THE MAZES!
+       They are not terribly complex, but as they are designed in such a 
+       manner that they can't exist in the 'real' world, they can be 
+       confusing. It's very easy to find yourself at a dead end when a Dragon
+       is in pursuit. Learn them, so that you can navigate them more quickly 
+       when you're in a hurry.
+
+    4) HELP! THERE'S A DEAD DRAGON IN MY WAY!!
+       Well, it's possible to get the bat to take the Dragon out of your way, 
+       but it doesn't happen very often. If possible, find and deposit two 
+       another item or two near the Dragon. The Atari 2600 had a problem with 
+       drawing too many things on screen at once, and the result is an 
+       annoying flickering that can enable you to actually walk through the 
+       Dragon.
+    
+    5) LOCK HIM UP AND THROW AWAY THE KEY
+       It is possible to lure the Bat into any of the castles and then leave 
+       towing the key behind you, thus locking the door and trapping him 
+       inside. Note that, although rare, he does occasionally manage to find 
+       his way out (by osmosis through the walls?) anyway. 
+
+3: THE HISTORY OF ADVENTURE
+===========================
+     In 1978, the climate for home video game design was fairly static. Sports
+and combat styled games (tanks and bi-planes) were common themes. The arcades,
+however, were a different story. That was the year that Tatio, a Japanese 
+corporation, had tapped into their (and our) country's increasing fascination 
+with UFOs and the possibility of life on other planets. Using this as a base 
+theme for a new game, they created a monster. The game was Space Invaders, and
+they sold 6 times (60,000 in the United States alone, distributed through 
+Midway) the normal number of units. Everyone saw these little goose stepping 
+aliens in their dreams, and the companies with home video game systems (at 
+that time Atari, Magnavox, Fairchild, Bally and RCA) saw gold. Space had 
+become the theme of the times, and Invader clones were at the front of the 
+pack. While Atari hadn't yet licensed Space Invaders for their VCS home 
+system, and while their in-house development team was given the freedom to 
+pretty much do what they want, this atmosphere becomes important later.
+     Enter Warren Robinett. Having joined Atari in 1978, he single handedly 
+(all the game developers worked alone back then) was responsible for 
+Adventure, from conception to creation. The policy at Atari at that time was 
+not to publicly give credit to their designers, for fear that the recognition
+and increasing popularity of credited designers would start bidding wars and, 
+thus, raise the designers' fees. As a result, many developers left Atari; most
+notably, David Crane, Larry Kaplan (who, ironically, was Robinett's boss at 
+Atari), Bob Whitehead and Alan Miller (who formed Activision, the world's 
+first software only company). Robinett would leave too, to form The Learning 
+Company (still in operation today; their latest hits are the Pokemon Blue and 
+Red Project Studio Print Shop programs for home computers), but not before he 
+exhibited his frustration with Atari's "no names" policy by creating the first
+ever "Easter Egg": his name hidden within the Adventure game. Surprisingly, 
+not only *didn't* Warren get into trouble over this, Atari apparently liked 
+the idea so much that they later created a series of games where the object 
+was to find hidden items: The SwordQuest series.
+     Jump forward to 1979. Home systems are inundated with space games when 
+Adventure arrives. While not the incredible hit it is made out to be now, it 
+is a breath of fresh air. A new genre is born and the release of The Legend 
+of Zelda seven years later for the Nintendo Entertainment System may have owed
+more than a little to Warren Robinett. 
+
+4: TRICKS
+=========
+ A) THE VERY FIRST "EASTER EGG" EVER
+    If there is anyone reading this who doesn't know what an "Easter Egg" is,
+it's simply anything hidden within the game; tricks, codes and messages all 
+are examples. If you have enjoyed any of these in any games over the past 21 
+years, you may thank Mr. Robinett. 
+Here's how to find his message in Adventure:
+
+    1) Start Game Variation 2 or 3
+
+    2) Enter the Black Castle. Make sure you have the Bridge handy.
+
+    3) Make your way through the maze until you get to an screen where 
+       everything begins to flash. As we know by the limited amount of objects
+       available on screen at once, this can only mean one thing: there is 
+       something else in this room.
+
+    4) Using the Bridge, enter a small square room at the bottom center of 
+       your screen. This room contains a small "dot" that is only 1 pixel in
+       size (by comparison, your character is 16 pixels in size; four wide and
+       four deep). The dot is not invisible; rather, it is the same color as 
+       the ground. If you want to make sure you have it, simply walk near a 
+       wall on the side you're carrying it. It should show up.
+
+    5) Take the dot to the room just below and to the right of the Yellow 
+       Castle. This is the room with a black band running up and down the 
+       right side. Drop the dot somewhere in the room.
+
+    6) Go and get two more objects and drop them in this room. The black line
+       should flash. Simply walk through the line and enjoy a little piece of 
+       history!
+
+  B) WALKING THROUGH WALLS
+     The Bridge can be a fun little time waster. Experiment a bit with it; it 
+     is possible to use it to travel to screens you shouldn't be allowed to 
+     travel to! :)
+
+  C) WALKING ON THE GAME SELECT SCREEN
+     On the game select screen, simply pull down on your joystick and your 
+     character will appear. Appropriately, you will be the same color as the 
+     border of the Select screen (depending on what number you have chosen).

@@ -1,0 +1,469 @@
+*Introduction*
+
+Kid Icarus comes from the Greek myth about a boy who made wings out of 
+feathers and wax. Unfortunately, he flew too close to the sun, melted his 
+wings, and fell to his doom. In the game you don't have to deal with these
+events. Instead, you must defeat Medusa and rescue Palutena from the Palace 
+in the Sky.
+
+Like Super Mario Bros. and Metroid, Kid Icarus is one of Nintendo's first 
+games. However, it is also one of their least successful games. It is unlikely
+that an N64 sequel will be developed anytime soon (if ever). But if you 
+haven't completed the original version of this classic, now is as good a time 
+as any. Featuring some recycled graphics from Metroid (or is it the other way 
+around?), not to mention the same annoying password system, Kid Icarus is a 
+challenging and engaging action-adventure.
+
+Pit starts out pretty weak. His life doesn't last long, and his attack power
+is extremely limited. It's also difficult to heal yourself because items 
+are so expensive and in short supply. As if getting through a stage wasn't 
+enough, Pit's endurance isn't refilled between levels. As you get familiar 
+with the game, though, you'll learn to deal with Pit's shortcomings.
+
+This FAQ will help you on your quest to defeat Medusa, but it shouldn't be 
+read casually. Since it is very thorough, you will be able to learn anything 
+you need to know by reading it. Therefore, using it when unnecessary may 
+reduce your enjoyment of the game. I'm sure all the tips, strategy, and hints 
+are applicable for all the quests in the game. There are at least 3 quests 
+(or three different endings if you will), though they are all identical, save 
+for a few differences (mentioned below). Until you've seen all the endings, 
+you can't consider Medusa down for very long. Check out the Unsolved Mysteries
+section after you've mastered the game to see if you can help me out with the 
+FAQ. Happy gaming.
+
+Special thanks to Brandon Marks (Blazemore) <blazemore@earthlink.net> for the
+passwords and general consulting on the FAQ.
+
+***
+
+General Strategy & Tips
+*Play Control*
+
+Practice your moves in the early stages. If you find yourself slipping off 
+platforms and ledges because of the imperfect play control, try pressing the 
+control pad in the opposite direction that you're traveling, or else press up 
+on the controller. This works particularly well on ice.
+
+It will take you a little while to get through certain rooms in the fortresses
+without getting hit. Study the pattern and move. In the vertically-scrolling 
+areas, don't jump to higher ground unless you're business is done at lower 
+levels. You may inadvertently scroll an important area off the screen (perhaps
+a chamber or item).
+
+*Fighting Enemies*
+
+When fighting the enemies in the game, you'll want every advantage you can 
+get. If they are standing above you on a platform, open fire on them from 
+below. Also try shooting enemies in the back (this works especially well with 
+the Reaper). Both methods reduce your risk of getting hurt by projectiles and 
+direct contact with monsters. Note that the Mallet is much more powerful than 
+your bow and arrow (it has the power of 5 arrows), but they are in short 
+supply so use them sparingly.
+
+Don't try to muscle your way through the game. Sometimes you should stay in 
+one spot practicing your moves and collecting hearts before moving on as you
+fight wave after wave of monsters. Battle as many enemies as possible to 
+increase your strength. Hide under ledges scattered about in the game and 
+attack enemies from there. If you are feeling overwhelmed, duck into a
+chamber. Your enemies will be gone when you return.
+
+Don't bother to fight Pluton and Pluton Fly (they are invincible, after all). 
+The best thing you can do is avoid them. If they make contact, they will steal
+your weapons (which is quite inconvenient, although you can buy them back at
+the Black Market). Wait until Pluton gets close and leap over him. Take care
+of Pluton Fly by jumping straight up (so that he can see you). This will cause
+him to fly horizontally off the screen. 
+
+Killing enemies can be difficult and tedious, but your job gets a lot easier 
+when you have the Protective Crystal. If enemies are raining down on you 
+(Rockman, for example), stand in a safe spot and let your Protective Crystal 
+do all the work. Then collect the hearts. Creatures that burrow in the ground
+(like McGoos and Holers) are also good prey. Simply wait in an area 
+that is infested by these monsters and crouch (to avoid their shots). Don't 
+duck on ledges that aren't solid! If you are close enough, your Protective 
+Crystal will kill the creature. Now just slide over, collect the hearts and 
+keep doing this over and over to build up your experience. 
+
+A slight problem emerges when you acquire the Sacred Bow. You'll be able to
+shoot your arrows much further, but if you shoot up, there is a chance that 
+any hearts that appear will remain suspended in mid-air where you can't reach 
+them. Keep this in mind when you are low on hearts.
+
+*The Marketplace*
+
+To lower the prices that merchants charge, press A+B on controller 2 at the 
+same time while in a store. This will only work in Stores; not at the Black 
+Market. Unfortunately, 1/5 times you try this, the merchant will RAISE prices
+instead. Too bad you can't attack merchants like in Zelda, eh? *If you have 
+completed the game at least once, *ALL* merchants (excluding those in the 
+Black Market) will lower their prices, so you can use this trick without 
+worrying about higher prices.*
+
+Although the Black Market is expensive, there are some advantages. You can 
+buy items stolen from Pluton and Pluton Fly (Protective Crystal 700; Fire 600;
+Sacred Bow 500) here. You can also buy on credit (after you have found the 
+Credit Card, of course). Unfortunately, you cannot buy anything else until you
+have paid back what you owe (it's automatic, and there is no choice of payment
+plans).
+
+You can buy multiple things at the Store, but not at the Black Market. If you
+want to purchase more than one item at a store, simply wait for the merchant 
+to prompt you again with his sales pitch. If you leave, the store will be 
+closed forever. (All chambers are accessible only once, except when in the 
+fortresses). 
+
+*Treasure Room Cheat*
+
+After you break seven of the pitchers in the Treasure Rooms without making the
+God of Poverty (Reaper) appear, you can break the eighth pitcher to find a
+valuable item. All the treasures will disappear if Pit sees the God of 
+Poverty. You need 5 hearts to break a pitcher. The Reaper appears in a set 
+pattern, and with this key you will be able to unlock the secret of that 
+pattern.
+
+Break pitchers 1, 2 and 8 in the Black Rooms.
+Break pitchers 2, 6 and 7 in the Blue Rooms.
+
+Given the number of Big Mallets that appear, you will be able to find the
+exact position of the Reaper. Break all the remaining pitchers, leaving the
+one with the Reaper until last. When you break this, it will reveal a special
+item, ranging from a bottle to the elusive credit card.
+
+1	6	
+2	7
+3   5	Door
+4	8	 
+
+Black Room				Blue Room
+
+# of Mallets	Reaper's Position	# of Mallets	Reaper's Position
+3		5			3		1
+2		7			2		5
+1		6			1		3
+0		4			0		8
+
+
+*Navigating the Fortresses*
+
+- You can't use your special weapons inside the fortresses. Only the Mallet 
+  and regular Bow and Arrow can be used.
+- Use the mallet on the statues in the fortresses to rescue Pit's friend. Now
+  you can fight the Fortress Gatekeepers together. Alas, the Centurian
+  doesn't have the endurance that Pit does, but he is still useful.
+- Get the Check Sheet and purchase the Pencil and Flaming Torch at the Store
+  if you want a map of your own in the game.
+- Go to the Hospital if you get turned into an eggplant.
+- Use the Hot Springs to refill your endurance.
+- The maps provided below don't tell you how certain rooms are divided, so 
+  you'll still have to explore a little bit (hey, you have to do SOME work and
+  you should build up your collection of hearts along the way). Visit all the 
+  rooms.
+- The (N)est of Monsters' rooms are good for getting hearts, points, etc.
+- There is NO Black Market (so you can't buy on credit) in the fortresses; 
+  only Stores. Getting hearts shouldn't be a problem, though. Defeat as many 
+  enemies as possible. You can revisit the stores, so work your way around the
+  fortresses a few times for extra points and hearts to purchase all you can.
+- Don't enter the Gatekeeper's room until you are ready to fight.
+
+*Endurance & Strength Levels*
+
+Pit starts off pretty weak, but if you acquire enough points, you'll be able
+to boost your endurance meter at the checkpoints. The following is a list of 
+the approximate point totals needed to earn more endurance:
+
+204,200 points - 5 Endurance Bars
+122,300 points - 4 Endurance Bars
+ 56,600 points - 3 Endurance Bars
+ 28,200 points - 2 Endurance Bars
+
+If Pit has defeated enough enemies, he can acquire extra arrows (Strength) 
+from a friendly god in the Sacred Chamber. To acquire more strength, Pit must:
+1) kill lots of enemies, 2) enter all chambers and defeat all the enemies 
+there, 3) acquire lots of items, and 4) receive as little damage as possible 
+from enemies. These all decide strength bonuses. Don't expect your 4th or 5th
+Arrow until you have completed the game once. Although points aren't really 
+used in tallying strength bonuses, the following is a rough list of the point 
+totals associated with higher strength levels:
+
+798,900 points - 5 Strength (Sacred Arrow/Light Blue)
+227,700 points - 4 Strength (Gold Arrow/Pink)
+167,000 points - 3 Strength (Silver Arrow/Blue)	
+ 18,800 points - 2 Strength (Bronze Arrow/Yellow)
+
+***
+
+Underworld
+*Stage 1-1*
+
+On the fourth level up you'll find the Sacred Chamber. However, it won't be 
+of much use to you at the beginning of the game. Sometimes arrows providing 
+increased fighting power (Strength) will be given to you here by a friendly 
+god after battling many enemies.
+
+On the ledges above you'll find a harp that will transform all enemies 
+into mallets. Collect the mallets quickly before the effect wears off (you'll 
+need them later), and move on. You'll find collecting the mallets will be more
+convenient than buying them in a store.
+
+When the path splits, choose the right-hand side. This will lead you to the
+Enemy's Lair, where you will be able to acquire a lot of experience. Collect 
+as many hearts as possible here by defeating Specknose. Sometimes Pit won't 
+be allowed to leave until all the enemies have been defeated.
+
+When you encounter the Reaper further up, a chalice will be just above him.
+You'll want to kill him, grab the chalice and enter the (Black) Treasure Room.
+If you enter the chamber first, the chalice will be gone when you re-emerge.
+Watch your jumps for the rest of the level, and you'll soon come to the end.
+
+*Stage 1-2*
+
+You'll find the Enemy's Lair a few levels above the entrance. Take care 
+navigating the icy platforms. Grab the chalice before you enter. The Black 
+Market (Bottle 480; Barrel 500; Feather 450) is the next chamber you'll come 
+across.
+
+Just above the Black Market, a Reaper is guarding another Enemy Lair. Don't 
+forget the chalice above him. A few levels up is a Store (Chalice 210; Mallet
+20; Feather 390 OR Bottle 350; Mallet 20; Feather 390). Further up, after 
+you've encountered those pesky Commyloose creatures, you'll come to the 
+Sacred Chamber. Just above is the exit to the level.
+
+*Stage 1-3*
+
+The first chamber is the Enemy's Lair. A short climb up is the Store (Chalice
+210; Bottle 350; Feather 390 OR Chalice 210; Mallet 20; Feather 390). You'll 
+then come to a split in the path. The right-hand side has more enemies (and 
+experience), but the left-hand side has poisonous bushes hanging on the walls.
+You can take either path to get to a (Black) Treasure Room.
+
+After a few waves of Commyloose, there will be a harp waiting for you. Soon 
+you will be making your way around several logs and come to the Black Market 
+(Bottle 480; Barrel 500; Feather 450).
+
+A Reaper is guarding the Sacred Training Chamber. Inside you should stand on
+the door (be careful not to accidentally jump out the door) and shoot up and 
+left at the attacking Monoliths OR stand on the lowest platform while walking 
+back and forth while shooting up the entire time (you'll have to do this in
+subsequent visits to the STC when the chamber door is blocked off). Eventually
+the god will reward you with a new weapon. You may choose either the Sacred 
+Bow (your arrows travel faster and further), Fire (your arrows will be set 
+aflame and will hit the enemy on target more often) or the Protective Crystal 
+(two crystals revolve around Pit's body and protect him from the enemy's 
+attacks). It's a tough call; all the weapons are helpful. I went with the 
+Sacred Bow and wasn't disappointed. You can always acquire the weapons you 
+left behind in later levels. Unfortunately, you won't be able to use your new 
+weapon until you can refill your energy in Stage 2-1 (and you can never use 
+these weapons in the fortresses). Of course, after you have all the weapons
+you don't have to endure any more training, but it is good for building up 
+hearts and points.
+
+*Stage 1-4 + Map*
+
+                    |S|                 / - Divided Room
+                     |                  G - Gatekeeper Room (Twinbellows)
+            | |-|E|-|E|-| |             C - Check Sheet
+             |           |              E - Eggplant Wizard(s)
+            | |         | | |H|         H - Hospital
+             |           |   |          N - Nest of Monsters (Ganewmede)
+        | |-|/| |1|-|N|-|C|-| |-|S|     R - Hot Springs
+         |   |           |   |          S - Store (Chalice 210; Mallet 20; 
+        | | | |-| |-|/|-| | | |           Bottle 350) 
+         |           |       |            OR
+    |R|-| |-| |-|N|-|E|-| |-|/|           - Store (Pencil 180; Chalice 210; 
+                             |            Torch 120)
+                            | |-|G|     1 - Entrance
+
+*Gatekeeper Strategy - Twinbellows (100)*
+
+Your energy should be relatively full when you face the boss. If not, visit
+the Hot Springs before you enter the Gatekeeper's Room. Also have a Bottle of
+Life on hand. You can get a maximum of 28 Centurians, so try to get as many
+as possible to make the battle a little easier. You should avoid getting hit 
+by jumping when he is firing projectiles at you. Hit Twinbellows with rapid 
+fire shots when he pauses. Try to get around him and attack him from behind. 
+He can take a lot of damage when retreating to the right side of the room.
+
+***
+
+Overworld
+*Stage 2-1*
+
+You will find a harp not far from the entrance. Next to the harp is a Store 
+(Bottle 350; Mallet 20; Feather 390 OR Chalice 210; Bottle 350; Feather 390). 
+In this level you will get a chance to soak in the relaxing Hot Springs and 
+fill up all your energy. Don't pass this chamber by. Farther down the path 
+you'll need the endurance to face Specknose in the Enemy's Lair. Next up is 
+the Black Market (Bottle 480; Barrel 500; Feather 450).
+
+Down the path you'll discover you can take either the high route or the low 
+route. Take the high route to get to a (Blue) Treasure Room. Although you may 
+be tempted by the chalice and extra enemies to drop down to the lower path, 
+you should continue on the high path to get to the Sacred Chamber (unless of 
+course you already have 3 Arrows in the 1st Quest or 5 Arrows in the 2nd).
+
+Another Store (Chalice 210; Mallet 20; Feather 390 OR Chalice 210; Bottle 350;
+Feather 390) awaits you. After climbing some stone steps, you'll come to the 
+Sacred Training Chamber. A short distance away is another Sacred Chamber 
+(doesn't it seem odd to have two in the same level?)
+
+*Stage 2-2*
+
+When you start the level, you'll be staring at a door. Enter the (Blue)
+Treasure Chamber to beef up your inventory. There are so many chambers in this
+stage that you'll think you died and went to Angel Land. After the Treasure
+Chamber is the Enemy's Lair. Two in fact. Then the Sacred Chamber.
+
+Finally some enemies make an appearance. The path will split shortly and the
+Hot Springs is sitting on the upper path. After evading some Minos, you'll
+have your first encounter with the very annoying Pluton. He'll steal one of
+your weapons if he touches you. You can buy them back in the Black Market,
+but the merchant tends to set very high prices. You can also re-acquire them 
+in the Sacred Training Chambers. It's best to avoid Pluton by waiting until he
+is close and jumping over him (don't forget he is invincible). You may want to
+start the level over if a lot of your possessions are stolen and you are low 
+on hearts.
+
+Duck into the Enemy's Lair. After facing some Snowmen you'll come to the Black
+Market (Bottle 480; Barrel 500; Feather 450). And after jumping from platform 
+to platform, you'll find another Enemy's Lair nestled away in the frosty 
+mountains nearby. More platforms and Snowmen await you before coming to the
+second Black Market (Bottle 480; Barrel 500; Feather 450). Not far away is the
+exit.
+
+*Stage 2-3*
+
+A few minutes into your evening stroll is a (Black) Treasure Chamber. For some
+unknown reason, this chamber acts like a *BLUE* Treasure Chamber; so treat it 
+as such if you are using the Treasure Room Cheat (described in the General
+Strategy and Tips section).
+
+The Sacred Training Chamber should be your next visit. Soon the path will
+split again, but the Store (Bottle 350; Mallet 20; Feather 390 OR Chalice 210;
+Bottle 350; Feather 390) is accessible either way. The high path is safer, but
+you can gain more experience by taking the low route.
+
+A Snowman will be guarding the entrance to the Enemy's Lair. After passing
+some gravestones and Plutons, there will be a Black Market (Bottle 480; Barrel
+500; Feather 450). After that, keep going until you reach the exit.
+
+*Stage 2-4 + Map*
+
+    |E|-|R|-| |-|S|-| |-|E|-| |         1 - Entrance
+     |       |   |           |          / - Divided Room
+    |N|     |/| |N|-|N|-| | | |         C - Check Sheet
+     |       |   |       |   |          N - Nest of Monsters (Tamambo)	
+    | | |S|-|/|-| |-|N| |/| |/|-|H|     E - Eggplant Wizard(s)
+     |   |   |       |   |   |   |      R - Hot Springs
+    | | |/| |E| |1| |N|-| |-|/|-|N|     S - Store (Pencil 180; Chalice 210; 
+     |   |   |   |           |   |        Flaming Torch 120)
+    |E|-|/|-|N|-|N|-|N|-|S|-| |-|/|       OR
+         |       |               |        - Store (Chalice 210; Mallet 20;
+        | |     |C|     | |-|G| | |       Bottle 350)
+         |       |       |       |      G - Gatekeeper Room (Hewdraw)
+    |H|-| |-| |-|/|-|E|-|E|-|S|-| |     H - Hospital
+
+*Gatekeeper Strategy - Hewdraw (200)*
+
+Make sure your energy is full before you fight him (jump in the hot springs
+and avoid enemy encounters, not to mention eggplants). He's a little easier 
+than Twinbellows, but has twice the hit points. You can get a maximum of 32
+Centurians. Study the pattern and attack his head. Stay out of the lava and 
+move out of the way when he approaches so you can safely attack him. A horn 
+blows whenever you injure him. Keep attacking and you'll win.
+
+***
+
+Skyworld
+*Stage 3-1*
+
+Your first visit should be the Hot Springs right by the entrance. You will 
+eventually come to a Sacred Chamber after climbing through the clouds. Up 
+and to the right of it is the end of the level.
+
+*Stage 3-2*
+
+You'll soon come to the Sacred Training Chamber, and then a Store (Bottle 350;
+Mallet 20; Feather 390). The Black Market (Bottle 480; Barrel 500; Feather 
+450) should be your next visit. Hike up a little more and the Hot Springs 
+waiting for you. Refill your endurance before you leave the stage.
+
+*Stage 3-3*
+
+Not far up is a harp. The Black Market (Bottle 480; Barrel 500; Feather 450)
+awaits you. The last chamber before the fortress is the Store (Chalice 210; 
+Mallet 20; Feather 390 OR Bottle 350; Mallet 20; Feather 390 OR Chalice 210; 
+Bottle 350; Feather 390).
+
+*Stage 3-4 + Map*
+		   
+    |/|-|E|-| |-|N|-| |-|/|-|S|-|G|     1 - Entrance
+     |       |       |   |   |          / - Divided Room
+    | | |E|-|/| |H|-|/|-|/|-|/|-|/|     C - Check Sheet
+     |   |   |       |           |      N - Nest of Monsters (Tros)	
+    |N|-|/|-| |-| |-|/|-|C| |R|-|/|     E - Eggplant Wizard(s)
+     |   |   |       |           |      R - Hot Springs
+    |/|-|/|-|N| |1|-| |-| |-| |-|/|     S - Store (Pencil 180; Chalice 210; 
+     |       |   |   |           |        Flaming Torch 120)
+    | |-| | | | |E| | |-|/|-|/|-|N|       OR
+     |   |   |   |               |        - Store (Chalice 210; Mallet 20;
+    | | |S| | | |N| | |-| |-|H| | |       Bottle 350)
+     |   |   |   |   |       |   |      G - Gatekeeper Room (Pandora)
+    |/| | |-| |-|N|-| |-| |-|/|-|/|     H - Hospital
+     |       |   |           |	
+    |R|-| |-|E| | | | |-|N|-| |-|S|	
+
+*Gatekeeper Strategy - Pandora (200)*
+
+The battle isn't that difficult, but it is drawn out. Try to get as many of
+your (18) Centurian friends as you can, because you won't be needing the 
+mallets after this stage. Also stock up on anything you need in the last shop 
+before the boss. You won't be needing hearts anymore, either. (At least not 
+until Medusa is defeated...) Keep an eye on Pandora so you can avoid him when 
+he turns invisible. Likewise, avoid all contact with the bubbles. Aim for the
+tip on his head and keep shooting; he'll eventually perish.
+
+***
+
+Palace in the Sky
+*Stage 4-1*
+
+You finally made it to the last stage. You need to master some new skills
+(like flying), but it shouldn't be too difficult. Stay in the middle of the 
+left side of the screen so you can see what's coming up; thus avoiding enemy
+contact. Your Light Arrows are very potent and can kill more than one 
+enemy at a time (if they are in a horizontal line).
+
+*Gatekeeper Strategy - Medusa (150)*
+
+When fighting Medusa, stay on the left side of the screen and just above eye
+level. Medusa's shots should go right by you. Keep facing to the right so
+Medusa's beams can't hurt you. When the Snake slithers by, drop down so you
+can shoot Medusa's pupil, skewer it, then continue to descend. When the snake
+goes by again, rise, blast the monster's pupil again, and continue to ascend. 
+Keep in mind that the top left area is a peripheral safe spot. As long as you 
+are facing right, you can't be harmed by Medusa or Tanatos. Continue this 
+pattern over and over until the creature is "stone dead." There are many 
+variations that work well. Experiment with different strategies and use the
+one that works for you.
+
+***
+
+*Unsolved Mysteries*
+
+This FAQ is a work in progress. If you know anything about the stuff in this
+section, please email me at <poppmj@cadvision.com>.
+
+- On the Kid Icarus box it says, "Two Player Alternating Game." Although I
+doubt it is possible to play Kid Icarus with 2 players, maybe some early
+prototype was originally designed for 2 players? Or perhaps this was used to
+tip off players on how to lower prices?
+
+- Some sites and magazines mention something about a "Secret Continue" that 
+you can access by pressing "B, A, B," when you die. Although it doesn't work, 
+I can't imagine why anyone would need this, since the game just continues 
+automatically from the stage you perished on. Why hasn't this "tip" been 
+disproved?
+
+- There are 3 different endings, but the text at the end is always the same.
+It's very ambiguous; leading me to believe there should be another (decisive)
+ending. Is there a hidden finale of some sort?

@@ -1,0 +1,240 @@
+2. HOW TO PLAY THE GAME
+
+Planet Zardon, a peaceful planet where the cities are free of crime, the 
+resources are plenty, and everyone is always willing to put in their share of 
+hard work in order to keep everything going smoothly.  It's a peaceful, happy 
+planet.  Or was, untill Planet Krytol attacked.
+
+The Krytolians were a group of evil aliens who foolishly squandered their own 
+resources, and now having a barren planet devoid of life, they have launched an 
+all-out attack on Zardon, in hopes of destroying all life on there and claiming 
+the planet as their own.
+
+Luckily, the Zardonians had constructed missile bases for just a situation like 
+this one, armed with anti-ballistic missiles (ABMs.)  You are the only hope for 
+Zardon, as you must commandeer the base and destroy the missiles that are being 
+launched at the planet!
+
+
+SETTING UP:
+
+Set up your Atari 2600 or Atari 7800 and plug a joystick into the left 
+controller socket.  If you are playing with a friend, plug a second joystick 
+into the right controller socket.  Insert the game cartridge into your system 
+and power up.
+
+The difficulty switches affect the speed of your ABMs, with the left switch 
+controlling the left player's ABMs, and the right switch controlling the right 
+player's ABMs.  When set to the A (left position,) the cursor will be launched 
+at a slow rate of speed.  When set to B, ABMs will launch at a faster rate.  To 
+give an advantage to a player who is less skilled than the other, the skilled 
+player should set their switch to A, and have the less skilled player have 
+their switch set to B.
+
+The TV Type switch is used if you are playing on a color TV or if you want the 
+game to be played in black and white (for older TVs that only show up in black 
+and white.)
+
+Missile Command has 34 game variations, with 17 different gameplay types for 
+one or two players.  Variations 1-17 are for one player, and variations 18-34 
+are for two players.  The first number is the variation number, and the second 
+indicates the number of players.  To quickly select a variation, hold down the 
+Game Reset switch and press the Game Select switch repeatedly untill you find 
+the variation you wish to play.  The different variations are listed below as 
+follows, with the one player variation first and then the two player variation:
+
+Game 1/Game 18
+Slow Cursor
+Dumb Cruise Missiles
+Starting Wave: 1
+
+Game 2/Game 19
+Fast Cursor
+Dumb Cruise Missiles
+Starting Wave: 1
+
+Game 3/Game 20
+Slow Cursor
+Smart Cruise Missiles
+Starting Wave: 1
+
+Game 4/Game 21
+Fast Cursor
+Smart Cruise Missiles
+Starting Wave: 1
+
+Game 5/Game 22
+Slow Cursor
+Dumb Cruise Missiles
+Starting Wave: 7
+
+Game 6/Game 23
+Fast Cursor
+Dumb Cruise Missiles
+Starting Wave: 7
+
+Game 7/Game 24
+Slow Cursor
+Smart Cruise Missiles
+Starting Wave: 7
+
+Game 8/Game 25
+Fast Cursor
+Smart Cruise Missiles
+Starting Wave: 7
+
+Game 9/Game 26
+Slow Cursor
+Dumb Cruise Missiles
+Starting Wave: 11
+
+Game 10/Game 27
+Fast Cursor
+Dumb Cruise Missiles
+Starting Wave: 11
+
+Game 11/Game 28
+Slow Cursor
+Smart Cruise Missiles
+Starting Wave: 11
+
+Game 12/Game 29
+Fast Cursor
+Smart Cruise Missiles
+Starting Wave: 11
+
+Game 13/Game 30
+Slow Cursor
+Dumb Cruise Missiles
+Starting Wave: 15
+
+Game 14/Game 31
+Fast Cursor
+Dumb Cruise Missiles
+Starting Wave: 15
+
+Game 15/Game 32
+Slow Cursor
+Smart Cruise Missiles
+Starting Wave: 15
+
+Game 16/Game 33
+Fast Cursor
+Smart Cruise Missiles
+Starting Wave: 15
+
+Game 17/Game 34
+Children's Game
+Basically, this variation has a slow cursor, dumb cruise missiles, and the 
+enemy attacks are slow and have less missiles than other variations.  This is a 
+good variation for young children to practice with.
+
+See below for information regarding the cursor and cruise missiles.
+
+When you are happy with the variation you have chosen, press the Game Reset 
+switch to begin.
+
+
+DEFENDING THE PLANET:
+
+Make sure to hold the joystick with the button in the upper-left corner, facing 
+toward the television screen.
+
+When the game starts, you will see your cursor, a flashing rectangle, in the 
+center of the screen.  Your base is the mound in the center of the surface with 
+a flashing dot on top of it.  The dots underneath it indicate how many ABMS are 
+currently stockpiled, a maximum of ten at one time.  You also have two extra 
+ABM supplies on hand for when your first supply is gone, making for a total of 
+thirty ABMs per wave.  If you use all thirty up in a single wave, you are 
+defenseless untill the end of the wave.
+
+There are six cities, three on either side of your base, with the citizens 
+praying that you can defend them.  When you hear the air raid siren, it's time 
+to get going!
+
+Use the joystick to move your cursor around the screen.  Press the button to 
+fire an ABM at the location indicated by the cursor.  When it reaches its 
+destination, it will automatically explode.  You can have a total of up to 
+three ABMs launched at one time.  If you try to launch more, you will hear a 
+beeping noise, meaning that you must wait untill the explosion from the first 
+missile disappears completely.
+
+There are two types of missiles that you must defend your cities from:
+
+Interplanetary Ballistic Missiles (IBM): The IBMs are the primary threat to 
+your planet.  They appear as lines with flashing dots heading toward the planet 
+surface.  If you do not destroy them, they will destroy your cities.  In order 
+to destroy one, you must deploy an ABM so that the actual missile (the flashing 
+dot) will be caught in the ensuing explosion from the ABM.  The best way to do 
+this is to look at the path of the missile and fire an ABM so that it will 
+detonate in the path of the IBM.
+
+Cruise Missiles: Cruise Missiles will be launched after the sixth wave.  These 
+are rectangle shaped (like the cursor, except they don't flash) and are 
+deployed toward the planet surface.  You will hear a high pitched noise when a 
+cruise missile is launched.  Like IBMs, Cruise Missiles must also be destroyed 
+by an ABM.  However, Smart Cruise Missiles can easily evade the explosions of 
+ABMs, making them harder to destroy, while Dumb Cruise Missiles simply fall in 
+a straight line and can be destroyed easier.
+
+If a missile hits a city, it will be destroyed instantly.  If your base is
+hit, all loaded ABMs will be lost instantly.  If you have extra supplies, 
+though, they will automatically be loaded into your base.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+3. SCORING INFORMATION
+
+Points are awarded for the following:
+
+Destroy IBM: 25 Points
+Destroy Cruise Missile: 125 Points
+Unused ABM Bonus (at end of wave): 5 Points per Missile
+Saved City Bonus (at end of wave): 100 Points per City
+
+After the first two waves, the scoring multiplier is increased, and continues 
+to increase as follows:
+
+Waves 3-4: Double Point Value
+Waves 5-6: Triple Point Value
+Waves 7-8: Four Times Normal Point Value
+Waves 9-10: Five Times Normal Point Value
+Wave 11 and all Waves after: Six Times Normal Point Value
+
+For every 10,000 points earned, a bonus city will be awarded, meaning that
+one destroyed city (chosen at random) will be rebuilt.  A short tune will
+play at the end of the wave to indicate that the bonus has been awarded.
+If all six cities are still standing, the bonus city will be kept in stock
+untill the end of a wave where at least one city was destroyed.  Even if
+all six cities are destroyed, if you have at least one bonus city (either
+earned during that round or in stock,) you can continue playing.
+
+If all six cities are destroyed and you have no bonus cities remaining, the 
+game is over.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+4. TIPS
+
+-In the early gameplay waves, when the IBMs are moving at a slow rate of speed, 
+it's possible to place the cursor atop the missiles and fire ABMs to destroy 
+them.  Later on, though, your best bet is to launch them into the path of an 
+incoming IBM.
+
+-If an IBM or cruise missile hits the planet surface, no damage will be done.  
+In order for your base to sustain damage, the very top part of it must be hit 
+(where the flashing dot is.)
+
+-If you can tell an IBM or Cruise Missile is heading for the remains of a city, 
+don't worry about destroying it, and focus on the other attacks instead.  
+You'll save more ABMs and give yourself less stress this way.
+
+-Since you can fire up to three ABMs at a time, don't sit around idly waiting 
+for the explosion of the first one before moving to another location.  Instead, 
+when you hear the sound of the missile being launched, move to the next spot 
+you intend to fire at.
+
+-Smart Cruise Missiles are tough, but they have one design flaw.  If you launch 
+an ABM at them with the cursor directly atop it, they won't be able to detect 
+the ABM, meaning they can be taken out without them evading the explosion of 
+the ABM.
+
+-And no matter how harried the battle gets, HAVE FUN!

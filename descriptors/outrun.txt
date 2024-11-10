@@ -1,0 +1,280 @@
+Hello, welcome to my OutRun FAQ. Well the reason I made this faq was because
+there weren't any faqs made for this game and thought it would be nice to have
+one up for people to get info from. Basically the other reason being is that
+I loved the Sega Master System and it's unique collection of games :). I hope
+this faq will be helpful to you because I'll be putting in as much info for
+this game as possible, enjoy!
+
+Btw, you'll notice the similarities between this FAQ and my Hang-On FAQ. Since
+the two have very similar gameplay features (aside from a couple of
+differences), the way this faq will be written will almost look exactly like
+the Hang-On faq.
+
+===============================================================================
+II. Controls
+===============================================================================
+
+LEFT  - Moves car to the left, moves left at the music selection screen, moves
+        cursor left at the name entry screen.
+RIGHT - Moves car to the right, moves right at the music selection screen,
+        moves cursor right at the name entry screen.
+UP    - Shifts gear to low gear if it's on high gear.
+DOWN  - Shifts gear to high gear if it's on low gear.
+BUTTON 1 - Brakes, starts game at title screen, selects music at music
+           selection screen, selects letter at name entry screen.
+BUTTON 2 - Accelerates, starts game at title screen, selects music at music
+           selection screen, selects letter at name entry screen.
+
+===============================================================================
+III. Gameplay
+===============================================================================
+
+-----------------
+-Music Selection-
+-----------------
+
+After you get pass the title screen, the first thing you'll see is the music
+selection screen. You get to select from 3 different music themes: Passing
+Breeze (74.6), Magical Sound Shower (69.2) and Splash Wave (80.3). To select
+Magical Sound Shower hold left on the d pad and to pick Splash Wave hold right
+on the d pad. The game will only stick to this screen for a couple of seconds
+so if you didn't pick anything yet then the game will pick what's currently
+selected.
+
+--------------------
+-In Game Indicators-
+--------------------
+
+During the race you'll see the following 
+indicators at the top of the screen:
+---------------------------------
+ SCORE     TIME  L  SPEED 000km/h
+00000000    80   H   ||||||||
+---------------------------------
+
+-Score
+This will show the current score you have, every second you are driving the
+score will go up rapidly. There are other ways to get points but I'll explain
+those parts later in this section of the faq.
+
+-Time Limit
+This indicator will show the current time you have left. At the beginning of
+race you'll get 80 seconds, when you get to the second stage you'll receive
+65 seconds, everything after that will differ. Whenever you cross a checkpoint,
+the time you have remaining from the last stage will be added to your received
+time, the remaining time when you reach the goal will be added to your score.
+When time runs out before reaching a checkpoint or a goal, the game will end
+and you'll be sent to either the name entry screen or title screen.
+
+-Gears
+You have two gears to shift through, L (low) and H (high), the gear you're
+currently on will be highlighted in red. When you start the race or recover
+from a crash, it'll always be set to the L gear.
+
+-Speed
+This shows how fast you are currently going in kilometers, the highest it can
+go up is 298km/h.
+
+-Tachometer
+This also shows how fast you're currently going and appears below the SPEED
+indicator. A row of blocks will appear from left to right and will rise or fall
+depending on how fast or slow you're going. The higher the meter rises the
+color of it will change, ten white blocks will be at the beginning, 4 yellow
+blocks are in the middle and 1 red block will be at the end. There are actually
+5 red blocks, but you only see them when you start up your car at the beginning
+of the race, recovering from a crash or when dropping from the H gear to the L
+gear.
+
+----------
+-Vehicles-
+----------
+
+The car you drive is a red car with an open top and sitting in the passenger
+seat is a "woman". The car's name is never mentioned anywhere in the manual or
+game but you can tell that it is modeled after the Ferrari Testarossa. There
+are other cars you'll encounter during the race that will appear on screen,
+they aren't really your opponents but they will get in your way. If you bump
+into them, you'll either get pushed over a little bit or spin out of control
+depending at how fast you were going, you'll also lose some speed of course.
+Whenever you pass a car you'll receive 20,000 points.
+
+-------------------
+-Road Side Objects-
+-------------------
+
+-Starting Line
+You'll see this at the beginning of the game, at the upper left part will be
+three lights, two reds and one green. When the green light flashes the guy
+will put down the checkered flag and the race will start.
+
+-Arrow Signs
+This will pop up when a turn is about to come up, they won't appear for every
+turn though.
+
+-Fork Road Sign
+You'll see this green fork road sign right before the end of every stage,
+they'll warn you that a fork in the road is coming up.
+
+-Checkpoint
+These giant signs with the words "CHECK" will appear at the end/beginning of
+every stage, you'll recive more time when you pass through them.
+
+-Finish Lines/Goals
+You'll come across these if you're able to successfully get across 5 stages.
+There are a total of 5 goals (a,b,c,d and e), each having a different outcome.
+1 million points and your left over time will be added to your score when you
+reach a goal.
+
+-Other road side objects
+These will range from a variety of things depending on what stage you are on.
+From palm trees, road signs, houses, rocks etc., if you come into contact with
+any of these, along with the the objects mentioned above (except Starting Line
+and Goals), you will crash or spin out of control depending on how fast you
+were going.
+
+--------
+-Stages-
+--------
+
+There is a total of 15 stages in the game, 5 of which you'll be able to go
+through each time. Right at the end of each stage will be a split in the road
+giving you the choice of picking between 2 stages. You'll only get a couple of
+seconds to choose, so whichever side of the split you are on is the stage
+you'll be going to. Below is the course map (which you see at the end of every
+race) and the names of the stages in each location, I've decided to make it
+vertical here because that's how you'll be looking at it in the game:
+---------------------------------- 
+  A      B      C       D      E
+  |      |      |       |      |
+  |      |      |       |      |
+  11-----12-----13-----14-----15
+     |      |      |      |
+     |      |      |      |
+     7------8------9------10
+         |      |      |
+         |      |      |
+         4------5------6
+             |      |
+             |      |
+             2------3
+                |
+                |
+                1
+----------------------------------
+1. Coconut Beach
+2. Gateway
+3. Devil's Canyon
+4. Desert
+5. Alps
+6. Cloudy Mountain
+7. Wilderness
+8. Old Capital
+9. Wheat Field
+10. Seaside Town
+11. Vineyard (A)
+12. Death Valley (B)
+13. Desolation Hill (C)
+14. Autobahn (D)
+15. Lakeside (E)
+
+*If some of these are wrong then please inform me about it.
+
+===============================================================================
+IV. Racing Tips
+===============================================================================
+
+-When you are waiting at the Starting Line, hold onto the accelerator button
+instead of waiting to do it until the race starts.
+
+-Make sure you're on the right gear and don't forget to switch to the H gear,
+there are times you'll just forget because you are just caught up with what's
+going on at the moment.
+
+-If you're not sure which way the road is going to turn, it helps to stay in
+the middle of the road. That way you have a better chance of not crashing if
+you're on the wrong side when it happens.
+
+-When you're sliding off the road when turning, let go of the accelerator
+button. Depending on how close you are at the edge, if the skidding sound
+stops, hold the accelerator button again and let go if you hear the skidding
+noise again and repeat this over and over until the turn ends. If letting go of
+the accelerator button doesn't help then hit the brake button, but don't hold
+onto it too long or you'll come to a complete stop.
+
+-When you are braking, don't forget to switch gears if the speed drops too much
+or too high. If you don't then regaining speed will take much longer.
+
+-During certain parts of a stage you'll encounter hills that will obscure the
+road ahead. When this happens you'll usually bump into other cars or see turns
+at the last second. Try to stay in the middle of the road and keep in mind
+that other cars always stay on one lane. So when you see a car coming before
+the hill appears move into another lane to avoid it.
+
+-Whenever you pick a side at the fork in the road, get ready to turn in the
+opposite direction to what you just turned. For example: if you pick the left
+side of the split the next turn will be a right.
+
+-When recovering from a crash and you see the tachometer go all the way up to
+the red bars and you're still not moving, don't worry about it, just keep
+holding onto the accelerator button and you'll move eventually.
+
+-When changing from L gear to H gear, you should change around 170-175km/h.
+
+===============================================================================
+V. Endings
+===============================================================================
+
+-Goal A:
+The car stops in front of the finish line where a crowd is waiting. A group of
+people surround the driver and continually throws him into the air while the
+woman (the passenger) watches. A woman in a swim suit walks up to the car and
+poses, the men that were throwing the driver stops and stares at the woman and
+the driver falls to the ground.
+
+-Goal B:
+The car stops in front of the finish line where a crowd is waiting. The car
+starts smoking from the back and the driver and woman get out. Then the car's
+front and trunk open up and smoke comes out and the tires fall off, the guy
+looks at the screen and does the "I don't know" pose.
+
+-Goal C:
+The car stops in front of the finish line where three camels are standing. The
+driver and woman get out of the car and the woman walks to the side of the car.
+An arabian man walks up to the driver and hands him a lamp and walks off. The
+driver rubs the lamp and a group of women appear surrounding the driver.
+
+-Goal D:
+The car stops in front of the finish line where a crowd is waiting. The driver
+and woman get out of the car and the woman walks to the side of the car. The
+driver starts waving to the people as a woman with a trophy approaches the
+driver. The man puts his hands out to receive the trophy but she walks by him
+and gives the trophy to the woman instead. The mans looks down and starts
+playing with his fingers.
+
+-Goal E:
+The car stops in front of the finish line where a crowd is waiting. The driver
+and woman get out of the car and the woman walks to the side of the car. The
+driver starts waving to the people as a woman with a trophy approaches the
+driver. She gives him the trophy and a kiss on the cheek.
+
+===============================================================================
+VI. FAQ - Frequently Asked Questions
+===============================================================================
+
+Q. Any codes or secrets to help me get through the game?
+A. Nope, just have to play through the game the normal way.
+
+Q. Does OutRun 3D really exist?
+A. Yes, I have seen the box cover, read the instruction manual and seen pics of
+   the game. You could go to www.vgmuseum.com and check out the pics yourself.
+
+Q. What other games do you recommend that have the same type of gameplay as
+   this game?
+A. You can check out other versions of this game as well as some of it's
+   sequels, like OutRunners. You can also check out Power Drift, Super Hang-On
+   and Rad Mobile/Gale Racer.
+
+Q. What do you think of this game?
+A. I enjoyed it, the fact that you can go through different stages every time
+   you play through it was interesting. The music was pretty good too and the
+   stages provide a good challenge.

@@ -1,0 +1,411 @@
+Welcome to my FAQ for Tempest.  Since the game is just a shooter that
+goes until all your men are killed, there is no walkthrough per se.  Instead it
+will be broken up into the game itself, strategies for survival, and some in-
+teresting quirks in the game.  Input is appreciated along with constructive
+criticism.  If you wish to e-mail me thoughts on this FAQ, better ways of doing
+things, other strategies, etc., feel free.  Make sure you put Tempest as the
+subject.  If you don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+During the late 70's and early 80's, Atari was the biggest player in both the
+arcades and home videogame market.  To keep their competitive edge, Atari
+brought many new innovations to the arcade world.  Tempest was developed by
+Dave Theurer as Atari's response to Space Invaders.  Atari was attempting to
+develop a 3-D version of Space Invaders but the technology of the time limited
+that approach.  Well know for their vector games such as Lunar Lander,
+Asteroids, and Battlezone, Atari used this knowledge to create Tempest.
+Tempest is considered one of the first true color vector games.  Before that,
+games such as Star Castle, by Cinematronics, used a color overlay to color
+white vector lines.  The year 1980 saw many innovative games such as Battle-
+zone, Berzerk, and Defender.  The big seller, though, was Pac-Man which over-
+shadowed all of these games.  Tempest received a favorable response and it was
+one of Atari's bigger sellers.  With its fast pace and colorful graphics,
+Tempest proved to be a challenge for even the most skilled arcade players.
+This game also resulted in other games with colored vector graphics such as
+Black Widow and Major Havoc.  Good luck in keeping the creatures down in their
+hole.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Tempest is a pseudo three three-dimensional shooter.  You control your shooter
+to eliminate the endless supply of enemies that are approaching from the
+distance to destroy you.  In addition to enemy attacks, you must also deal with
+the "gifts" that they leave behind.  Its days like this you wish you had slept
+in.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+In order to become a master of this game, you must be familiar with the
+controls.  The controls are pretty easy and with a little practice, should be
+easy to use.
+
+-  A dial to move your shooter left and right
+
+-  A fire button
+
+-  A Supezap button
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+The playing field consists of your shooter, the 3-D grid, and lots of enemies
+to keep you busy.  I have included an example of what the playing field looks
+like (a little larger then normal):
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    | PLAYER #1 SCORE            HIGH SCORE             PLAYER #2 SCORE |
+    |                                                                   |
+    |                     +------+                                      |
+    |                    /|      |\                                     |
+    |                   / |      | \    /\ <-PLAYER'S SHOOTER           |
+    |                  /  |      |  \  /  \                             |
+    |          +------+   |      |   +------+                           |
+    |         /       |   |      |     /     \                          |
+    |        / \          |      |    /       \                         |
+    |       /        |    |      |   /         \                        |
+    |      + \   \        |      |  /         /+                        |
+    |      |   \   \ |____|______|_/        /  |                        |
+    |      |     \  \/              \     /    |<-PLAYING AREA          |
+    |      |       \/                 \ /      |                        |
+    |      + -- -- -\_________________ /- -- --+                        |
+    |       \       / |      |      | \       /                         |
+    |        \    /   |      |      |   \    /                          |
+    |         \ /     | \/   |      |     \ /                           |
+    |          +------+-/\---+------+------+                            |
+    |                    ^ FLIPPER                                      |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control the shooter to blast the enemies coming out of the pit.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is relatively simple:
+
+Spike   :    1-3 points
+Spiker  :   50 points
+Tanker  :  100 points
+Flipper :  150 points
+Pulsar  :  200 points
+Fuseball:  250, 500, or 750 points
+
+In addition to the above points, you also get bonus points for starting at
+higher levels then level one.  Listed are the bonus points through the first 49
+levels.  There is no real pattern except that the bonus gets higher the more
+levels you skip at your starting point.
+
+                     +-----+---------++-----+---------+
+                     | LVL |  BONUS  || LVL |  BONUS  |
+                     +-----+---------++-----+---------+
+                     |   1 |  NONE   ||  24 | 188,000 |
+                     +-----+---------++-----+---------+
+                     |   3 |   6,000 ||  26 | 208,000 |
+                     +-----+---------++-----+---------+
+                     |   5 |  16,000 ||  28 | 226,000 |
+                     +-----+---------++-----+---------+
+                     |   7 |  32,000 ||  31 | 248,000 |
+                     +-----+---------++-----+---------+
+                     |   9 |  54,000 ||  33 | 266,000 |
+                     +-----+---------++-----+---------+
+                     |  11 |  74,000 ||  36 | 300,000 |
+                     +-----+---------++-----+---------+
+                     |  13 |  94,000 ||  40 | 340,000 |
+                     +-----+---------++-----+---------+
+                     |  15 | 114,000 ||  44 | 382,000 |
+                     +-----+---------++-----+---------+
+                     |  17 | 134,000 ||  47 | 415,000 |
+                     +-----+---------++-----+---------+
+                     |  20 | 152,000 ||  49 | 439,000 |
+                     +-----+---------++-----+---------+
+                     |  22 | 170,000 ||
+                     +-----+---------++
+
+At the beginning of the game, you can skip to level 7.  Whenever you complete
+a game, you have either ten seconds or until you press a key to continue a
+game.  You can start a game at the bonus level you were closest to from your
+last game.  For example, if your game ended on level 21, then you can go to all
+the bonus levels at level 20 and below.  If your game ended at level 42, then
+you can go to all bonus levels at level 40 and below.
+
+You start the game with a varying amount of shooters depending on how the
+machine is set up.  You can start with 2, 3, 4, or 5 shooters.
+
+You are awarded a free shooter every 10,000, 20,000, 30,000, 40,000, 50,000,
+60,000, 70,000 or you don't receive a free shooter.
+
+ _______________
+/ 6.4  Enemies /_______________________________________________________________
+---------------
+
+There are six basic enemies in this game.  Each enemy has a certain way it
+attacks.  In addition, you won't see all the enemies until you progress through
+the different levels.  The enemies are:
+
++---------+
+| FLIPPER |
++---------+
+
+Resembles a flattened "X".  It rides the rails up the tube and "walks" along
+the perimeter.  It can only be killed when it is "standing up".  First appears
+in level 1.
+
++----------+
+| FUSEBALL |
++----------+
+
+Resembles a star with squiggly lines.  It originates from the pit or from a
+Tanker.  It rides on the rails and jumps from rail to rail to reach the top
+homing in on the player's shooter.  Must be killed before it reaches the
+perimeter.  First appears in level 11.
+
++--------+
+| PULSAR |
++--------+
+
+Resembles a wavy line.  It originates from the pit or from a Tanker.  It rides
+on two rails up the tube.  If it pulses and the player is on that particular
+section, their shooter is destroyed.  It must be killed before it reaches the
+perimeter.  First appears in level 20.
+
++-------+
+| SPIKE |
++-------+
+
+Resembles a line from the bottom of the pit.  It originates at the bottom of
+the pit and it is what is left behind by a Spiker.  Must be shot before
+advancing to the next level or your shooter will be destroyed.  Can only be
+destroyed by a player's shots.  First appears in level 4.
+
++--------+
+| SPIKER |
++--------+
+
+Resembles a spiral in the shape of a circle.  Starts off at the bottom of the
+pit on either a rail or in between rails.  It builds up Spikes to hamper a
+player's movements.  First appears in level 4.
+
++--------+
+| TANKER |
++--------+
+
+Resembles a diamond.  Starts off at the bottom of the pit or is attached to a
+Spiker.  Carries Flippers, Fuseballs, or Pulsars which it releases when shot
+or on the perimeter.  Must be killed before reaching the perimeter.
+
+NOTE:  All enemies, except the Spike, can be killed with the Superzap.
+
+ __________________
+/ 6.5  The Levels /____________________________________________________________
+------------------
+
+There are 99 levels in Tempest.  After a player passes level 99, then the
+levels will randomly appear until the player loses all their shooters.  In
+addition, each group of 16 levels has a different color to it.  The colors
+are:
+
+Levels  1 - 16 Blue
+Levels 17 - 32 Red
+Levels 33 - 48 Yellow
+Levels 49 - 64 Cyan
+Levels 65 - 80 Invisible
+Levels 81 - 95 Green
+
+Each level will have a playing area which has 16 "rails" which connect the
+perimeter to the pit.  Also, the player's shooter will "light" up the section
+it is on to assist in the hunting of enemies.  There are three types of con-
+figurations for the playing area.  They are:
+
++------------+
+| END TO END |
++------------+
+
+These playing areas don't allow the player to go around the perimeter.  They
+usually take the shapes of a flat plane (bowling alley look), "V" shape, or a
+"U" shape with a few things added in.  The big thing on these kinds of areas is
+the fact that you must be able to rapidly turn the knob to the left and right
+to avoid getting cornered by the enemies.
+
++--------+
+| CIRCLE |
++--------+
+
+These playing areas allow the player to go around the perimeter without a
+break.  Although it says circle, these areas take other forms such as squares,
+six-pointed stars, and triangles to name a few.  These are a bit easier to play
+on because the enemies can't corner your shooter.  The downside to these areas
+is the fact there is more area for your enemies to come up from the pit to
+attack.
+
++--------------+
+| FIGURE EIGHT |
++--------------+
+
+Just as the name states, it looks like an "8".  Your shooter moves along the
+perimeter and through the middle.  Like the circle, you can go around the
+perimeter without a break so getting cornered is pretty hard.  On the downside,
+there are two pits, instead of one, for your enemies to attack from so you will
+be kept very busy on this configuration just trying to keep the enemies at bay.
+
+                               ****************       
+******************************** U N I T  III *********************************
+                               ****************       
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your shooter will be on the perimeter of the playing
+area.  The game will start when the first enemies start to appear from the pit.
+Depending if you decided to skip levels will determine what enemies you will
+be facing.
+
+-  Although it cannot be stressed enough, make sure that you are totally
+   familiar with how the knob turns and the fire button operates.  You will be
+   required to do some split-second moves and the time to find out there is a
+   lag is not when you are involved in a crisis.
+
+-  When you fire, you can have a total of eight shots on the screen at any one
+   moment in time.  Holding down the fire button will discharge these eight
+   shots at once.  Tap on the fire button to have better control of your fire
+   since you don't want to be out of shots when an enemy is on top of you.
+
+-  The Superzap button has a great many uses in this game:
+
+   -  The first time you use Superzap, all enemies in the playing area (with
+      the exception of Spikes) will be blasted out of existence.
+
+   -  The second use will only take out one enemy since it is now a weak
+      shot.
+
+   -  You get your Superzap recharged between levels.
+
+   -  The best time to use Superzap, unless you really need it beforehand, is
+      to use it near the end of the level to get the points before you leave
+      the level.
+
+   -  Plan accordingly if you do want to use it.  Make sure the maximum amount
+      of enemies are on the screen before Superzapping them.
+
+-  Learn each enemy's behavior.  All them do distinct things which you must
+   know in order to take advantage of their weaknesses.  Remember, you move
+   much quicker then they do so with practice, you should be able to get to any
+   part of the playing area without hesitation.
+
+-  Know the playing area configurations.  This is especially true for the End-
+   to-End configuration.  You want to ensure that you have enough room to move
+   around and don't get yourself trapped on one of the sides.  Frustration
+   comes from the fact that you could have taken out that Flipper if you only
+   had another lane you could have traveled.
+
+-  Shoot at the enemies right when they are emerging from the pit.  This will
+   make your job easier for clean up and it will also cause things like Tankers
+   to release their cargo early making it easier to deal with any problems that
+   may arise.
+
+-  When Tankers are carrying Fuseballs, don't hit them when they are close to
+   you.  When the Tanker dies, the Fuseball will quickly home in and destroy
+   your shooter.
+
+-  Watch the Flippers when they make it to the perimeter.  If they are not
+   "standing up", they will capture your shooter and drag it down into the pit.
+
+-  As the levels progress, the action gets faster paced.  After level 99, the
+   game doesn't get any faster but the levels will randomly come up.
+
+-  After you have mastered the game, make sure you start out at the highest
+   level possible so you can get the bonus that goes along with it.
+
++===================+
+| 8.  QUIRKS/CHEATS |==========================================================
++===================+
+
+Tempest only has a couple of interesting aspects about it.  One thing is
+definitely a trick while the other is more a bug due to some erroneous coding
+on the original PROM's.  This second problem was corrected with the second
+release (Rev 2) of Tempest.
+
+-  On the end-to-end configuration, sit at one of the edges.  When an enemy
+   approaches, rapidly fire.  Usually, you will pick off that enemy without
+   even having to move.
+
+-  This next trick involves scoring things just right.  The score will be in
+   the form of XXYYZZ at the top of the screen:
+
+   -  The XX portion must be greater then 16.
+
+   -  The YY portion must be greater then 29 but less then 60.
+
+   -  The ZZ portions number corresponds to a specific code listed below:
+
+      00:  Freeze screen
+
+      01:  Access bookkeeping totals
+
+      05:  Allows playing during attract mode (after this code is activated,
+           you can set the last two digits to 46 which gives a random colored
+           level or the two digits 48 which gives you 255 extra lives)       
+
+      06, 11,
+      12, 16,
+      17, and 18:  40 Free credits
+
+      14 and 15:  Credit sound without actual credit
+
+      41:  Switch last 2 digits of score
+
+      42:  Increase score quickly
+
+      46:  Demonstration mode (Start at any level up to 81)
+
+      50 and 51:  Player moves by itself
+
+      60:  Objects drift down
+
+      66:  Objects drift right
+
+      67:  Objects jump
+
+      68 and 69:  Objects drift up
+
+The reason for these codes is because the original programmer needed ways into
+his game.  Unfortunately, when he tweaked a couple parts of his game, it caused
+some of the code to yield the above results.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 9.  CONCLUSION |=============================================================
++================+
+
+When Tempest arrived on the scene, we were all pretty much saturated with all
+the space-type games out there.  Pac-Man was just starting to make its
+appearance and the other games were getting boring.  Tempest demonstrated that
+even if you were good on other games, this game would require one to basically
+relearn how to play videogames again.  Practice we did and it seemed like for-
+ever before we could advance into the more advanced levels.  Even then, one had
+to keep sharp or they would quickly lose their shooter and rhythm for the game.
+It took a lot of time and quarters, but they were well worth the expense.  Un-
+fortunately, it is very rare to find this machine anywhere.  However, through
+the miracle of emulation, a whole new generation is realizing what we "old"
+folks enjoyed those many years ago.  I hope this guide helps you in being able
+to get the most amount of gameplay for this game.  If you do have other ideas
+or thoughts, please e-mail me and share them.  Who knows, maybe I'll start a
+Q&A Chapter in this guide if enough people ask the same questions.  Anyway,
+thank you again for reading this guide.

@@ -1,0 +1,369 @@
+Welcome to my FAQ for Wizard of Wor.  Since the game has you continuously
+killing monsters until all your men are killed, there is no walkthrough per se.
+Instead it will be broken up into the game itself and strategies for survival.
+Input is appreciated along with constructive criticism.  If you wish to e-mail
+me thoughts on this FAQ, better ways of doing things, other strategies, etc.,
+feel free.  Make sure you put Wizard of Wor as the subject.  If you don't, I'm
+liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+1980 was a major year for arcade games.  Pac-Man made its debut and the craze
+swept the nation.  In addition, powerhouses such as Atari, Cinematronics,
+Stern, and Williams also put out major games such as Battlezone, Star Castle,
+Berzerk, and Defender.  There was a lot of competition to contend with for any
+arcade game manufacturer.  Bally Midway has been one of the most successful
+partnerships in the arcade game industry.  Bally had been putting out pinball
+and slot machines since the early 1930's while Midway has been putting out
+arcade games since the early 1970's.  In addition to this partnership,
+lucrative deals with Japanese arcade giants such as Namco and Taito brought us
+Space Invaders and Pac Man.  Bally Midway continued to collaborate on games and
+one of the results was Wizard of Wor.  Although the game proved to be popular,
+it was constantly in the shadow of the major arcade games of the year.  Still,
+it developed a loyal core of people which enabled it to develop some staying
+power.  You played a Worrior who must eternally go through mazes and defeat the
+monsters.  The names of the monsters harkens back to tales told during the dark
+ages while your Worrior is equipped with the finest future weapons such as a
+laser gun.  In addition to the monsters, you also had to deal with the Worlocks
+and even the Wizard of Wor himself.  The action is fast-paced and there is
+never a dull moment.  Good luck keeping your Worrior alive.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Wizard of Wor is a two-dimensional, above view style game.  In addition, the
+Worrior that you control is shown from a side view to further complicate things
+a little.  Your goal is to successfully kill all the monsters in a dungeon so
+that you can advance to the next dungeon.  As you progress through the
+dungeons, the monsters become quicker, smarter, and more aggressive.  You may
+player in one-player mode where the computer will assist you or in two-player
+mode where a friend can help you out.  The mazes are designed to test your
+skill and strategic abilities as you attempt to make it to higher dungeon
+levels.  It is kill or be killed in this fast-paced game.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are pretty easy.  In addition to learning how to
+move, you must also learn how to tap the controls to change your Worriors
+direction.  It will take practice and some time to get used to them.
+
+-  A four way joystick for moving left, right, up, and down (tapping the joy-
+   stick left, right, up, and down just turns your Worrior without moving him).
+
+-  Fire button
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+The playing field for Wizard of Wor is pretty simple in its layout.  You will
+have the maze itself.  Centered at the bottom is the radar with players one and
+two on the right and left corners respectively.  I have included an example of
+what this field looks like:
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |                             MAIN MAZE                             |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                    WORRIORS->     |
+    |                                                      LEFT         |
+    |                         DUNGEON # OR NAME                         |
+    |                     +-----------------------+                 /\  |
+    |                     |                       |                -||  |
+    |                     |                       |                 /\  |
+    | +-------------+     |         RADAR         |     +-------------+ |
+    | |  PLAYER #2  |     |                       |     |  PLAYER #1  | |
+    | |    SCORE    |     |                       |     |    SCORE    | |
+    | +-------------+     +-----------------------+     +-------------+ |
+    +-------------------------------------------------------------------+
+
+You control your Worrior on this screen.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty simple:
+
+Burwor (Blue Monster)  :  100 points
+Gurwor (Yellow Monster):  200 points
+Thorwor (Red Monster)  :  500 points
+Yellow or Blue Worrior : 1000 points
+Worlock                : 1000 points + Double Score for Next Dungeon
+Wizard of Wor          : 2500 points
+
+You start the game with one of the following set ups:
+
+For one player:  You get 2 or 3 Worriors for one quarter.
+                 You get 5 or 7 Worriors for two quarters.
+For two players:  You get 2 or 3 Worriors for three quarters.
+                  You get 5 or 7 Worriors for four quarters.
+
+You get a free Worrior either after dungeon three or four (Arena) and
+another one at dungeon 12.
+
+ ____________________
+/ 6.4  The Dungeons /__________________________________________________________
+--------------------
+
+The dungeons in Wizard of Wor are arranged in random order.  This basically
+means that you won't encounter the same pattern of dungeons on multiple games.
+There are, however, two dungeons that will always appear in the game:
+
+The Arena always appears at dungeon 4.  It looks like this:
+
+
+              +----------------------------------------------+
+              |                                              |
+              |   ----   +----                ----+   ----   |
+              |          |                        |          |
+          ----|   -------+                        +-------   |----
+            <-|                                              |->
+          ----|   ---+                                +---   |----
+              |      |                                |      |
+              |      +----    ----------------    ----+      |
+              |   |                                      |   |
+              |   |                                      |   |
+              |      |        |   --------   |        |      |
+              |      |        |              |        |      |
+              +----------------------------------------------+
+
+The Pit appears at dungeon 13 and every six dungeons thereafter (i.e. 19, 25,
+31, etc.).  It is basically the playing area without the maze.  It is a wide
+open area like this:
+
+              +----------------------------------------------+
+              |                                              |
+              |                                              |
+              |                                              |
+          ----|                                              |----
+            <-|                                              |->
+          ----|                                              |----
+              |                                              |
+              |                                              |
+              |                                              |
+              |                                              |
+              |                                              |
+              |                                              |
+              +----------------------------------------------+
+
+The rest of the dungeons are randomly generated by the game.  Below, I will
+show what a few of the dungeons look like:
+
+              +----------------------------------------------+
+              |          |                        |          |
+              |   ----   +   ----          ----   +   ----   |
+              |                                              |
+          ----|   ----   +   +                +   +   ----   |----
+            <-|          |   |    |      |    |   |          |->
+          ----|      +---+   |    |      |    |   +---+      |----
+              |      |       |                |       |      |
+              |   ---+    +--+                +--+    +---   |
+              |           |       |      |       |           |
+              |           |       |      |       |           |
+              |           |                      |           |
+              |   --------+  +                +  +--------   |
+              |              |                |              |
+              +----------------------------------------------+
+
+              +----------------------------------------------+
+              |                                              |
+              |   +----       +----      ----+       ----+   |
+              |   |           |              |           |   |
+          ----|   +   +----   +   --------   +   ----+   +   |----
+            <-|       |                              |       |->
+          ----|       +   +   +   --------   +   +   +       |----
+              |           |   |              |   |           |
+              |           |   +----      ----+   |           |
+              |           |                      |           |
+              |   -----   |                      |   -----   |
+              |           |                      |           |
+              |   -----   +   +   --------   +   +   -----   |
+              |               |              |               |
+              +----------------------------------------------+
+
+              +----------------------------------------------+
+              |       |                              |       |
+              |   +   +   ----    --------    ----   +   +   |
+              |   |                                      |   |
+          ----|   +   +   ----+   --------   +----   +   +   |----
+            <-|       |       |              |       |       |->
+          ----|----   |       +----      ----+       |   ----|----
+              |       |       |              |       |       |
+              |   +   +----   +   --------   +   ----+   +   |
+              |   |                                      |   |
+              |   |                                      |   |
+              |   |                                      |   |
+              |   |       +   -----      -----   +       |   |
+              |           |                      |           |
+              +----------------------------------------------+
+
+ ____________________
+/ 6.5  The Monsters /__________________________________________________________
+--------------------
+
+There are five different monsters (or Worlings) you can or will encounter in
+Wizard of Wor.  They are:
+
+Burwor:  The blue monsters.  You can always see them.  Every dungeon starts
+         with six Burwor.
+
+Garwor and Thorwor:  The yellow and red monsters.  You can only see them on
+                     radar or if you are in the same passageway as they are.
+                     They have a breath weapon in addition to their normal
+                     attack.  You start off dungeon 1 with one of these
+                     monsters.  The number goes up by one for each successive
+                     dungeon until you have a maximum of six per dungeon.
+
+Worlock:  Appears after dungeon 1.  Moves quickly around and tries to go out
+          the warp tunnel.  Killing one gives you double scoring in the next
+          dungeon.
+
+Wizard of Wor:  First appears in dungeon 5.  Tends to teleport around the maze
+                and throw lightening bolts.  Cycles through periods of being in
+                the maze short and long periods of time.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your Worrior will be in a safe area in the bottom
+right or left corner of the maze.  You will have ten seconds to stay in your
+safe area before you are forcibly ejected.
+
+-  Take a quick look at the maze before you go into it.  Know the locations of
+   the monsters and also find areas that will be suitable for defending your-
+   self.  The Burwors will already be roaming around.  In the later levels, a
+   couple of Garwors and Thorwors will also be in the maze.
+
+-  When playing in one-player mode, the computer player will assist you to a
+   degree.  Use this to your advantage.  This will be especially true in the
+   later levels when the invisible monsters are roaming the maze.  The computer
+   player can help you by making them become visible.  Keep in mind that you
+   can kill off the computer Worrior and they can do the same to you.
+
+-  Two-player works like one player.  Learn to work together and try not to
+   kill each other (unless you are playing a cut-throat competition).
+
+-  It is easier to turn from side to side then it is to turn from side to
+   up/down.  Find the short walls that will only allow monsters to approach
+   you from the side.  Also, align your warrior just a little past the
+   corridor walls above and below.  This will give you the advantage of
+   seeing invisible monsters in two vice one passageway.
+
+-  Another advantage of the above is the fact that the monsters will push you
+   back vice kill you.  Of course, you must get back into position since the
+   monsters seldom will attack you singly in the later dungeons.
+
+-  Learn to tap the joystick so you can rapidly turn without moving your
+   Worrior.  This will prove invaluable on the later levels when you have to
+   turn back-and-forth rapidly to shoot the enemies coming at you.
+
+-  Learn to use your radar.  Although it doesn't have the maze superimposed
+   upon it, you can get a pretty good idea of where the invisible monsters are
+   and where they are moving to.  This will definitely help decrease the chance
+   of being surprised by one of them.
+
+-  When you are shooting, make sure you are making your shots count.  You can
+   only have one shot out at a time. This basically means that until your shot
+   hits a wall or a monster, you have no firepower.  So don't fire down long
+   corridors or you may find yourself surrounded by monsters without being able
+   to shoot them.
+
+-  Your shots can also be negated by the other Worrior's shots, monster's
+   breath weapons, and the wizards lightening bolts.
+
+-  As the dungeons progress, the monsters become smarter.  Not only do they
+   attempt to surround your character, they also move out of the way when you
+   are aiming at them.  In addition to becoming smarter, they move much quicker
+   and tend to swarm on your Worrior.
+
+-  You can use the warp tunnel once during a dungeon.  It will also clear out
+   when the Worlock appears.  When you use the warp tunnel, it will seal off
+   behind you as you get to the other side.  Only use it when you really need
+   to.  Don't hang around it since the monsters will also use it to get to your
+   location.
+
+-  The Worlock will appear after the last monster has been killed.  Worlocks
+   usually appear in the center of the maze and move toward one of the war
+   tunnels.  Try to seal off the warp tunnel to prevent the Worlocks escape.
+   Also, hit it at long range since trying to fight toe-to-toe with it would
+   be suicide.
+
+-  After you clear out the Worlock, you may be confronted by the Wizard of Wor
+   himself.  The Wizard of Wor teleports randomly about the maze shooting off
+   lightening bolts.  This may be the one time when a pre-emptive shot may do
+   you some good since the wizard may teleport into your shot.  You can also
+   use the same tactics of creeping out from behind a wall with the wizard
+   since you won't be hit until you are pushed back into the corridor.
+
+-  If you survive through dungeon 7, you will now be classified as a Worlord.
+   This basically means all the monsters are moving at maximum speed and they
+   are all coming for you.
+
+-  If you don't lose a Worrior on the dungeons with the Pit, you will be
+   classified as a Worlord Supreme.
+
+-  For the mazes that are open (such as the Pit) or very near open (such as the
+   Arena), go to a corner to present the smallest possible target and to force
+   the monsters to only come at you in two directions.
+
++=======================+
+| 8. QUIRKS IN THE GAME |======================================================
++=======================+
+
+Like all video games, this game has strange things that can occur.  Some of
+these quirks can be detrimental to gameplay, but they are interesting nonethe-
+less.
+
+-  While you are playing the game, if you turn the power off and back on
+   quickly, you will start where you left off and your total amount of Worriors
+   left will be at their maximum of 16.
+
+-  After the dungeon counter (located above the radar) passes 100, it will
+   reset but the first digits will no longer by in synch with the counter.
+
+-  It is rumored that if you fire a shot and the Wizard of Wor first appears in
+   the exact same spot where your shot is, the game will lock up.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 9.  CONCLUSION |=============================================================
++================+
+
+The Wizard of Wor was definitely a different game when it first came out.
+Sometimes, one wanted to compare it to Berzerk.  Although the basic premise was
+the same, the gameplay was totally different.  Another interesting aspect (re-
+peated with Gorf) was the ability to "buy" more men.  Although this extended
+one's life, it still caused one to lose a lot of quarters.  This game became a
+real challenge when everything was moving so quickly, you just basically shot
+quickly in all directions hoping you took something out before it got you.
+This was one game that could get the heart pumping.  Unfortunately, it is very
+rare to find this machine anywhere.  However, through the miracle of emulation,
+a whole new generation is realizing what we "old" folks enjoyed those many
+years ago.  In addition, www.shockwave.com is bringing many of these classic
+games back.  Check out their site to see what ones are there.  I hope this
+guide helps you in being able to get the most amount of gameplay for this game.
+If you do have other ideas or thoughts, please e-mail me and share them.  Who
+knows, maybe I'll start a Q&A Chapter in this guide if enough people ask the
+same questions.  Anyway, thank you again for reading this guide.

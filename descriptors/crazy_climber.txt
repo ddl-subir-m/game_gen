@@ -1,0 +1,595 @@
+Crazy Climber was created by a company that is not generally known outside of
+Japan.  Nichibutsu did more marketing and licensing of games from Japan and
+that's where most of the company's games are.  Crazy Climber is a different
+sort of game.  Unlike the space shooters that dominated the industry in the
+early 80's, Crazy Climber instead has you climbing up buildings.  It isn't
+that easy, though, since you must navigate through certain hazards to make
+it to the top of the building.  Of course, there are endless buildings to
+climb.  Another good game to play, which is made by the same company, is Moon
+Cresta.  Good luck on your climbing.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Crazy Climber is a two-dimensional, strategy style game.  The game is strategic
+in the fact that you must plan your moves as you climb up the building and
+anticipate the hazards that await you.  You start out the game at the bottom
+of a building to be scaled.  As you climb up the building, you will be assailed
+by bald people throwing flowerpots, signs with loose electrical wires, very
+large apes, falling signs, trash and barbells, and a bird that likes to drop
+bad things on your character.  Your goal is to make it to the top of the
+building and catch the helicopter, which will transport you to the next
+building to be scaled.  Of course, you will be rewarded for quickly making it
+up the building by getting a bonus (that is as long as you can catch the heli-
+copter).  The things one does for publicity.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  Two eight-way joysticks
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Crazy Climber involves climbing up different buildings.  After you have climbed
+the fourth building, you will be taken back to the first building to let the
+cycle begin anew.  I have included an example of what the
+playing screen looks like:
+
+    +--------------------------------------------------------------------+
+    |   |   HIGH           | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    |   |   SCORE          | |  |   |  |   |  |   |  |   |  |   |  | |   |
+    |   |                  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    | # |                  |                                         |   |
+    | # |                  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    | # |   SCORE1         | |  |   |  |   |  |   |  |   |  |   |  | |   |
+    | # |                  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    | # |                  |                                         |   |
+    | # |                  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    | # |                  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+    | # |   SCORE2         | +--+   +O-+   +--+   +--+   +--+   +--+ |   |
+    | # |                  |          \( )                           |   |
+    | # |                  | +--+   +--\|  +--+   +--+   +--+   +--+ |   |
+    | # |                  | |  |   |  ||\ |  |   |  |   |  |   |  | |   |
+    | # |   STEP           | +--+   +--+| \+--+   +--+   +--+   +--+ |   |
+    | # |   POINT          |            |  O                         |   |
+    | # |                  | +--+   +--/ \ +--+   +--+   +--+   +--+ |   |
+    | # |                  | |  |   |_/|  \_  |   |  |   |  |   |  | |   |
+    | # |                  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    | # |   BONUS          |                                         |   |
+    | # |   RATE           | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+    | # |                  | |  |   |  |   |  |   |  |   |  |   BUILDING |
+    | #<-WHERE YOU ARE ON  | +--+   +--+   +--+   +--+   +--+   +--+ | | |
+    | # |BUILDING          |                                         | V |
+    |   |                  | +--+   +--+   +--+   +--+   +--+   +--+ | & |
+    |   | Y Y<-MEN LEFT    | |  |   |  |   |  |   |  |   |  |   |  | |   |
+    +--------------------------------------------------------------------+
+
+You control your climber through these four buildings.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is relatively simple.
+
+Each building has a STEP POINT heading.  This indicates how many points you get
+for each window you successfully climb to.  You also start out with a certain
+amount of bonus points per building.  On buildings one and two, they decrease
+by 100 about every 2 seconds while on buildings three and four they decrease
+by 200 points about every 2 seconds.  Below are listed the STEP POINT and BONUS
+RATE points:
+
+                   +----------++------------+------------+
+                   | BUILDING || STEP POINT | BONUS RATE |
+                   +----------++------------+------------+
+                   +----------++------------+------------+
+                   |    1     ||    100     |   10,000   |
+                   +----------++------------+------------+
+                   |    2     ||    150     |   20,000   |
+                   +----------++------------+------------+
+                   |    3     ||    200     |   30,000   |
+                   +----------++------------+------------+
+                   |    4     ||    250     |   40,000   |
+                   +----------++------------+------------+
+
+NOTE:  You will only collect the remaining BONUS RATE if you successfully grab
+the helicopter at the top of the building.  If you fail to grab the helicopter
+after it has made two passes, you get a consolation bonus of 3,000 points
+regardless of what the BONUS RATE remaining is.
+
+The balloon shows up during buildings two and three.  You don't get points, per
+se, for grabbing the balloon.  Instead, your character will get lifted up
+approximately ten stories and avoiding any hazards they may contain.  You will
+get STEP POINTS for these bypassed stories as if you had actually climbed them.
+In addition, it will give you a bigger bonus since it is quicker going up the
+building like this.
+
+You start out with three men and get a bonus man at 30,000 points.  If you lose
+a man, the next one starts in the exact place the last man left off.
+
+ _____________________
+/ 6.4  The Buildings /_________________________________________________________
+---------------------
+
+The game consists of four buildings.  Each building is 195 stories tall.  Each
+building, though, has a different configuration to it.  If you look at the
+radar on the left side of the game screen, you will see a representation of the
+building, plus a blinking dot representing where your climber is currently at.
+This radar doesn't show, though, any hazards associated with that building.
+
+I will go through first the generic setup of the radar representation and what
+you will be actually climbing.  Then I will show you (not all 195 stories) of
+what each building generally looks like.  This is good to know since some
+hazards occur when you are at the narrowest part of the building and can't
+readily escape.  I will put numbers under the radar signature for the building.
+These numbers will be used later on in the strategies in Chapter 7 to give you
+an idea of where hazards are.  For example, a building with 6-2-2 means it goes
+from six windows wide to two windows wide, a gap, and two windows wide.  Note
+that these values also work backwards such as 2-2-6 which is opposite of the
+last sentence.
+
+         RADAR                         BUILDING
+         -----                         --------
+
+         ######   +------------------------------------------------+
+         ######   |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+         ######   |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+         ######   |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+           6      |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  +------------------------------------------------+
+
+         ######   +------------------------------------------------+
+         ##  ##   |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+         ##  ##   |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+         ######   |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+        6-2-2-6   |  |             +-------------+             |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  | |  |   |  | |             | |  |   |  | |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  |             |             |             |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  | |  |   |  | |             | |  |   |  | |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  |             +-------------+             |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  +------------------------------------------------+
+
+          ####    +------------------------------------------------+
+          ####    |         | +--+   +--+   +--+   +--+ |          |
+         ##  ##   |         | |  |   |  |   |  |   |  | |          |
+         ##  ##   |         | +--+   +--+   +--+   +--+ |          |
+         2-2-4    |         |                           |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |  +------+      +-------------+      +------+   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  | |  |   |  | |             | |  |   |  | |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  |             |             |             |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  | |  |   |  | |             | |  |   |  | |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  |             |             |             |   |
+                  +------------------------------------------------+
+
+          ####    +------------------------------------------------+
+          ####    |         | +--+   +--+   +--+   +--+ |          |
+         ######   |         | |  |   |  |   |  |   |  | |          |
+         ######   |         | +--+   +--+   +--+   +--+ |          |
+          6-4     |         |                           |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |  +------+                           +------+   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  +------------------------------------------------+
+
+           ##     +------------------------------------------------+
+          ####    |                | +--+   +--+ |                 |
+         ######   |                | |  |   |  | |                 |
+         ######   |                | +--+   +--+ |                 |
+         6-4-2    |         +------+             +------+          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |  +------+                           +------+   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  +------------------------------------------------+
+
+           ##     +------------------------------------------------+
+           ##     |                | +--+   +--+ |                 |
+          ####    |                | |  |   |  | |                 |
+          ####    |                | +--+   +--+ |                 |
+          4-2     |                |             |                 |
+                  |                | +--+   +--+ |                 |
+                  |                | |  |   |  | |                 |
+                  |                | +--+   +--+ |                 |
+                  |         +------+             +------+          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         |                           |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         |                           |          |
+                  +------------------------------------------------+
+
+           ##     +------------------------------------------------+
+           ##     |                | +--+   +--+ |                 |
+         ######   |                | |  |   |  | |                 |
+         ######   |                | +--+   +--+ |                 |
+          6-2     |                |             |                 |
+                  |                | +--+   +--+ |                 |
+                  |                | |  |   |  | |                 |
+                  |                | +--+   +--+ |                 |
+                  |  +-------------+             +-------------+   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  +------------------------------------------------+
+
+         ##  ##   +------------------------------------------------+
+         ##  ##   |  | +--+   +--+ |             | +--+   +--+ |   |
+         ######   |  | |  |   |  | |             | |  |   |  | |   |
+         ######   |  | +--+   +--+ |             | +--+   +--+ |   |
+         6-2-2    |  |             |             |             |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  | |  |   |  | |             | |  |   |  | |   |
+                  |  | +--+   +--+ |             | +--+   +--+ |   |
+                  |  |             +-------------+             |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  | |  |   |  |   |  |   |  |   |  |   |  | |   |
+                  |  | +--+   +--+   +--+   +--+   +--+   +--+ |   |
+                  |  |                                         |   |
+                  +------------------------------------------------+
+
+          ####    +------------------------------------------------+
+          ####    |         | +--+   +--+   +--+   +--+ |          |
+          ####    |         | |  |   |  |   |  |   |  | |          |
+          ####    |         | +--+   +--+   +--+   +--+ |          |
+           4      |         |                           |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         |                           |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         |                           |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         | |  |   |  |   |  |   |  | |          |
+                  |         | +--+   +--+   +--+   +--+ |          |
+                  |         |                           |          |
+                  +------------------------------------------------+
+
+
+           ##     +------------------------------------------------+
+           ##     |                | +--+   +--+ |                 |
+           ##     |                | |  |   |  | |                 |
+           ##     |                | +--+   +--+ |                 |
+           2      |                |             |                 |
+                  |                | +--+   +--+ |                 |
+                  |                | |  |   |  | |                 |
+                  |                | +--+   +--+ |                 |
+                  |                |             |                 |
+                  |                | +--+   +--+ |                 |
+                  |                | |  |   |  | |                 |
+                  |                | +--+   +--+ |                 |
+                  |                |             |                 |
+                  |                | +--+   +--+ |                 |
+                  |                | |  |   |  | |                 |
+                  |                | +--+   +--+ |                 |
+                  |                |             |                 |
+                  +------------------------------------------------+
+
+                               +------------+
+                               | BUILDING 1 |
+                               +------------+
+
+                                   ######
+                                   ######
+                                   ##  ##
+                                   ##  ##
+                                   ######
+                                   ######
+                                     ##
+                                     ##
+                                   ######
+                                   ##  ##
+                                   ######
+                                   ##  ##
+                                   ######
+                                     ##
+                                     ##
+                                   ######
+                                   ######
+                                   ##  ##
+                                   ######
+
+                               +------------+
+                               | BUILDING 2 |
+                               +------------+
+
+                                     ##
+                                     ##
+                                   ######
+                                   ######
+                                   ##  ##
+                                   ##  ##
+                                   ######
+                                    ####
+                                    ####
+                                   ######
+                                   ######
+                                   ##  ##
+                                   ##  ##
+                                    ####
+                                     ##
+                                     ##
+                                    ####
+                                   ######
+                                   ######
+
+                               +------------+
+                               | BUILDING 3 |
+                               +------------+
+
+                                     ##
+                                     ##
+                                    ####
+                                    ####
+                                   ######
+                                   ##  ##
+                                   ######
+                                   ##  ##
+                                   ######
+                                   ##  ##
+                                   ######
+
+                               +------------+
+                               | BUILDING 4 |
+                               +------------+
+
+                                   ##  ##
+                                   ##  ##
+                                    ####
+                                    ####
+                                     ##
+                                     ##
+                                    ####
+                                   ######
+                                   ######
+                                    ####
+                                   ######
+                                   ######
+                                     ##
+                                     ##
+                                   ######
+                                   ##  ##
+                                   ##  ##
+                                   ######
+                                   ######
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your climber will climb a couple of steps.  Then it
+will be up to you to guide him to the top of the building.
+
+-  The hardest aspect of this game is developing a rhythm with the controls to
+   enable your climber to climb smoothly.  This is something that takes
+   practice.  Fortunately, once you've developed this rhythm, the game is much
+   easier to play.  The basic rhythm is:
+
+   -  From the bottom ledge, reach up to the next ledge (left or right joy-
+      stick).
+
+   -  Once you've got a hold on the next ledge, pull back on the joystick to
+      bring your climber to the next ledge.
+
+   -  Use the opposite joystick to reach for the next ledge.  Then pull your-
+      self up.
+
+   -  Continue this rhythm for fast, straight climbs.
+
+   -  This also works for climbing diagonally.  Instead of reaching for the
+      ledge above, reach for the upper right or left ledge diagonal from your
+      climber.
+
+-  You can move your climber from side to side just by pushing both joysticks
+   to the right or left.  As long as windows are open along your path, you can
+   execute this move.  Good for avoiding objects dropping on you such as signs
+   and garbage.
+
+-  All the buildings have the following hazards:
+
+   -  Windows opening and closing:  You cannot climb on a ledge if the window
+      is closed.  On building 1, they open and close slowly while on building
+      4, they open and close quickly.
+
+   -  Bald people throwing flowerpots out the windows:  You cannot climb on a
+      ledge if a person is in the window.  Also, if a flowerpot hits your
+      climber, you will get one hand knocked off the ledge.  If you were only
+      holding on by one hand, your climber falls.
+
+   -  A pesky bird flies over dropping nifty things on your climber (only
+      building 3 doesn't have this bird):  Again, not much trouble if you are
+      holding onto a ledge with both hands.
+
+-  If you are holding onto a ledge with both hands and the window closes, your
+   climber will fall.  This is why you need to either quickly move up the
+   building or learn how to move diagonally to avoid the window hazards.  In
+   addition, you will have to move diagonally when the building configuration
+   is 4-2.
+
+ __________________
+/ 7.1  Building 1 /____________________________________________________________
+------------------
+
+Besides the above hazards, there is only one other hazard to deal with.
+
+-  The bird shows up when the building configuration goes from a 6-2-2 to a 6
+   for the second time.
+
+-  People will drop flowerpots on you when the building goes from 6-2-2 for the
+   first time to 6-2-2 the second time.
+
+-  King Kong will be at the point where the building goes to 6-2 the second
+   time.  To get by Kong, just go up the windows on the opposite side Kong is
+   on.
+
+ __________________
+/ 7.2  Building 2 /____________________________________________________________
+------------------
+
+The usual hazards exist along with another new one.
+
+-  The bird shows up when the building configuration goes from  6-4 the second
+   time to the middle of the 4 configuration.
+
+-  People drop flowerpots when the building goes to 2 until it goes to 2-4.
+
+-  When the building goes 6-2-2, there is a Nichibutsu sign with wires coming
+   out of either side sparking away.  The best path is the right one under the
+   sign.
+
+-  Try to get the balloon which appears midway on the final 4 wide
+   configuration.
+
+ __________________
+/ 7.3  Building 3 /____________________________________________________________
+------------------
+
+There is yet another new hazard along with a couple of old ones.
+
+-  People drop flowerpots from the first 6-2-2 configuration to the second
+   6-2-2 configuration.
+
+-  Right after the 6-4 configuration, Crazy Climber signs will bounce toward
+   your character.  There are a couple of methods of dealing with them:
+
+   -  First, just slide left or right to avoid them.
+
+   -  If they can't be avoided, get both hands on one ledge and pull the joy-
+      sticks back.  This will bring your climber for a hanging position to one
+      where he is resting on his palms.  This sometimes works and sometimes
+      doesn't.  Also, right when the sign is about to hit him, pull back on the
+      joysticks.
+
+-  Another King Kong awaits where the building goes from 4 to 2.  Use the
+   Building 1 method to scoot by him.
+
+-  Again, try to get the balloon which appears midway on the final 2 wide
+   configuration.
+
+ __________________
+/ 7.4  Building 4 /____________________________________________________________
+------------------
+
+There is another hazard in addition to the above.  Plus, things happen quickly
+on this building.
+
+-  In the middle of the first 6-2-2 configuration, is another sign with
+   electrical wires.  Use the method from Building 2.
+
+-  The bird appears at the 6-2 configuration and leaves in the middle of the
+   first 2 configuration.
+
+-  From the 2-6 configuration to the middle of the 6 configuration, people are
+   dropping flowerpots on your head.
+
+-  When you come to the final 4-2 configuration, it is usually better to go to
+   the left.  This is because the Crazy Climber signs usually come down the
+   right side.  Of course, this isn't always true.  Use the methods in Building
+   3 to deal with them.
+
+-  Throughout your climb up this building, various manners of barbells, trash.
+   There is no real defense against these except hold on tightly.
+
+-  Once you complete this building, you are transported back to Building 1 to
+   start again.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+This game came out when space games were all the rage.  Games such as
+Asteroids, Galaxian, Astro Invaders, etc.  I definitely invested my quarters in
+all of those.  When this game made its arrival, it was definitely different.
+There was no shooting of aliens or getting some secrets, it was pretty
+straight-forward.  Climb a building and advance to the next building.  After
+attempting to play it a couple of times, I realized there was much more to this
+game then just climbing.  You actually had to think strategy of where you were
+going to go to next.  You also had to remember all of the hazards that were
+along the way so you didn't lose your climber.  The game definitely became a
+challenge.  Those players that got those climbing skills honed to a fine edge
+were rewarded with going through all the buildings multiple times.  It's a
+shame that the sequel was only launched in Japan.  Unfortunately, it is very
+rare to find this machine anywhere.  However, through the miracle of emulation,
+a whole new generation is realizing what we "old" folks enjoyed those many
+years ago.  In addition, www.shockwave.com is bringing many of these classic
+games back.  Check out their site to see what ones are there.  I hope this
+guide helps you in being able to get the most amount of gameplay for this
+game.  If you do have other ideas or thoughts, please e-mail me and share them.
+Who knows, maybe I'll start a Q&A Chapter in this guide if enough people ask
+the same questions.  Anyway, thank you again for reading this guide.

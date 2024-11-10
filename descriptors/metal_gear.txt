@@ -1,0 +1,821 @@
+*************
+*4. Controls*
+*************
+Movements:
+-Forward: Joystick Up
+-Back: Joystick Down
+-Left: Joystick Left
+-Right: Joystick Right
+
+Other Movements:
+-Punch or Fire Weapon: Fire Button
+
+Game Functions:
+-Pause Game: Enter
+-Select Weapon: Space Bar
+-Select Item: Space Bard
+-Use Transceiver: Space Bar
+
+
+*************
+*5. Prologue*
+*************
+Operation Intrude N313: Your mission is to infiltrate Outer Heaven, locate 
+missing FOX-HOUND operative Grey Fox. The last words of Grey Fox were, "Metal 
+Gear..." During your mission, rescue any other captured POWs, defeat the 
+terrorist leader Vermon CaTaffy, and find out information about Metal Gear. 
+
+
+****************
+*6. Walkthrough*
+****************
+KEY: Here is a little key that tells you what my symbols mean.
++++NAME OF PLACE+++: New location
+---NAME OF EQUIPMENT---: New Equipment
+===NAME OF WEAPON===: New Weapon
+==-NAME OF AMMO-==: New Ammo
+I will only put symbols around new equipment/locations/weapons/ammo. If I 
+mention it more than once it will only be in caps.
+
+***NOTE***
+Due to the fact that the story in this game ridiculous, has little bearing 
+on the Metal Gear series, and since it Hideo Kojima refuses to acknowledge 
+this version of the game as an official part of the Metal Gear series, I will 
+alter some parts of it to more closely follow that of Metal Gear for MSX, 
+the TRUE first installment of the Metal Gear series. Also note that I modified 
+this guide from the MSX version to the Commodore 64 version. I had to redo 
+most of this guide and it got a little messy in some parts so please e-mail 
+me if you find any major errors in it. 
+
+I. Solid Snake's Entrance:
+You (Solid Snake) start off by landing in the +++JUNGLE+++ outside of Outer 
+Heaven. Snake receives a call from the commander-in-chief of FOX-HOUND, Big 
+Boss. He tells you that your mission is to infiltrate the terrorist fortress 
+Outer Heaven and destroy the ultimate weapon, Metal Gear. He will tell you 
+that your first objective is to search for the missing FOX-HOUND operative 
+Grey Fox and search for Metal Gear. He will tell you that if you need any 
+help to contact him at transceiver frequency 120.85. Make a note of that and 
+end the transmission. When you start the game, head to your right. Knock out 
+the guard beside the truck and head south. On this screen you will see three 
+dogs. Run down the center of the screen and take the right path down and onto 
+the next screen. Run past the dog here as well. You might have taken some 
+damage from the dogs, but don't worry, you'll get it back soon enough. Run 
+up next to the guard here and quickly punch him. Inside the truck you will 
+get ---BINOCULARS---. Prepare to quickly run down as soon as you exit the 
+truck and onto the next screen. You will see two guards here. Wait until each 
+of them turns away from you and punch them out. Continue south. Punch the 
+sleeping dog and head south again. Pick a guard, punch him out, and head down. 
+More guards, you know what to do. Enter the top truck to get ---CARD 1---. 
+Exit the truck and the guards will immediately come towards you. Take them 
+out and enter the lower truck. The truck have started to move. Once the truck 
+stops "having" moved, exit it and then enter the truck on the left side of 
+the screen. Grab the RATIONS and exit. Enter again if you want more RATIONS. 
+Three is the maximum you can get at this time. Once you exit, the guard will 
+attack you. Run and enter the truck on the right. Once you get out, enter 
+the one right below you. Exit and go down two screens. Enter the top truck 
+to get the ===PLASTIC EXPLOSIVE===. Head down to the southern most truck to 
+get ---CARD 4---. Exit and enter the middle truck to be transported again. 
+Defeat the guards here or run from them and enter the truck on the right. 
+Exit the truck and grab RATIONS from the truck on the left if needed. Knock 
+out the guard and enter +++BUILDING ONE+++. Now go to the right and up to 
+the next screen. Knock out the guard on this screen and use CARD 1 to enter 
+the room. The guard will see you when you enter. Run up, kill him, and grab 
+the ---GAS MASK--- on the table. Exit the room and punch out the guard in 
+front of you in this room. From here, head left along the north wall until 
+you get to a screen with three guards and Big Boss calls you. Answer the call 
+and he will tell you that your job is to infiltrate and blah, blah, blah. 
+In fact, I just wouldn't answer it to spare yourself the trouble of having 
+to listen to it. Head north along the right path. When a hole in the ground 
+starts to open, go to your transceiver. When you exit the screen, the hole 
+will be gone. Head east from here. On this screen you'll find three trucks 
+Enter the truck on the left to find the ===HANDGUN===. Don't try to use it 
+just yet as you don't have and ==-AMMO-== for it yet. Exit the truck and enter 
+the one on the right to grab the ===MINES===. Exit the truck and head back 
+to the screen with the elevator. Walk along the top part of the wall and enter 
+the elevator using CARD 1. Take the elevator to the third floor. 
+
+Here you'll see two cameras in this room. One on the west wall and one on 
+the north side of the square in the middle of the room. Sneak past the cameras 
+and head down on the far left wall. Avoid the two guards in this area and 
+go in the door on the left. In here you will find some AMMO. Use CARD 1 to 
+enter the door on the south wall. In here, you will find a POW tied to a chair. 
+Go over to him to release him. Now use CARD 1 to OPEN the door on the east 
+wall. Now equip your GAS MASK and enter the room. You will now receive a call 
+from Big Boss. He will tell you to put on your GAS MASK in the gas room (I 
+guess he's a little late on that one, huh). Make it through the gas room and 
+use CARD 1 to enter the passage in the southeast corner of the room. Enter 
+the open door. Wait for the rolling pin to go to the right side, and then 
+grab the PLASTIC EXPLOSIVES. Make your way back to the entrance then wait 
+for it to roll left before heading in the door on the right. Keep going right 
+to the next screen. On this screen, two guards will come down from the slots 
+on the north part of the room. Take them out by punching and proceed to the 
+next screen. Head down immediately in this room, around the boxes, and enter 
+the door on the right. Don't worry about the camera on your way in. In here, 
+go to the desk and grab ---CARD 2---. Exit the room and use CARD 2 to enter 
+the door on the left side of the room. In here you will find RATIONS. Exit 
+the room and head back to the room that was right after the gas room. Use 
+CARD 2 to enter the door in the northwest corner of the room. In here you 
+will find ===REMOTE-CONTROLLED MISSLES===. Exit the room and then use CARD 
+1 on the south door to rescue the POW. He will tell you that a fellow 
+FOX-HOUNDER infiltrated Outer Heaven days ago and was captured, but he is 
+still alive. Head back to the screen with two cameras and two doors (one of 
+the doors was where you got CARD 2 at). From here, head up to the next screen. 
+Here you will see a flashing white floor and a control box on the other side 
+of the room. Big Boss will call you and tell you to use your REMOTE-CONTROLLED 
+MISSLES on the power box to turn off the high-voltage. Use your 
+REMOTE-CONTROLLED MISSLES to destroy the control box. That will turn off the 
+electric floor and allow you to cross it to the next screen.
+
+
+II. Captured on Purpose:
+The first part of the game is now completed. You've also picked up about 25% 
+of your weapons up to this point. Well, enough of my talking, it's time to 
+move on to the second chapter of the first Metal Gear. 
+
+On this screen there will be two guards and a door on the east wall. Take 
+out the guard walking east and use CARD 1 to enter the door. In the room you 
+will find the third POW. Rescue him and he will tell you that resistance member 
+Diane will help you on frequency 120.33. Make a note of that and exit the 
+room. Head north to the next screen. On this screen you will see an elevator 
+guarded by two guards. Take them both out and head left. On this screen, you 
+will see three guards patrolling the area. As long as you stay lined up with 
+the wall, they won't see you. Take out the two guards that approach you by 
+punching them. Now you'll want to enter the door on the north side of the 
+room. Wait until the guard on the west of the room is moving towards the south 
+and use CARD 2 to enter the room. In the room you will find the ---CARDBOARD 
+BOX---. Now exit the room. When you come out of the room, there will only 
+be two guards on this screen, the guard in the south part of the room and 
+the guard in the west part of the room. Run past the guards and use CARD 2 
+to enter the door. Go down and enter the door in the middle of the screen. 
+Once in this room, you will need to quickly move to the south wall and use 
+CARD 2 to enter the room. Grab the ===SILENCER=== in that room. Now that you 
+have the SILENCER you may use your gun without the guards hearing it. Use 
+CARD 1 to enter the room on the east wall. In here you will find the ===GRENADE 
+LAUNCHER===. Exit the room and head back to the elevator guarded by two guards 
+from a couple screens ago. Take out the two guards and use CARD 2 to enter 
+the elevator. Take the elevator down to the second floor. 
+
+When you exit the elevator, you will see two cameras. One on the north wall, 
+one on the right wall. Use the crates to avoid the camera and head down to 
+the next screen. On this screen, you will see a sleeping guars. Kill him and 
+head south once again. On this screen you will see gray colored walls with 
+black lines on them. These are laser traps. Unlike Metal Gear Solid, your 
+---CIGARETTES--- won't detect the lasers. Since you currently have nothing 
+to get through the laser traps, I'll do my best to give you directions on 
+how to avoid the lasers. From the top center of the screen, head down until 
+you hit a wall. Then turn right until you hit a wall. Then go down to the 
+next screen. This screen it similar to the last, but there is a room you need 
+to enter at the top of the screen. From the entrance of the screen, go down. 
+As you proceed down, count the number of laser trap walls you see. When you 
+reach the second and third ones, go between them. Now go down until you hit 
+a wall and then go left until pass three laser walls. Now go up past two laser 
+walls. Now you go right until you are standing in front of the door. Use CARD 
+1 to enter the room. In here you will find a POW. Rescue him and exit the 
+room. Head back through the laser traps until you come to the screen with 
+the sleeping guard. Take him out again and head up the left path. Go left 
+again on the next screen and you will come to a screen with three guards. 
+Watch their walking pattern and take them out one at a time. Then down the 
+path on the southwest part of the room. On this screen you will see a security 
+camera and two doors. Avoid the camera and head in the door on the right to 
+find AMMO. Exit that room and enter the room on the left to find PLASTIC 
+EXPLOSIVES. Exit the room and head back to the elevator. Take the elevator 
+to the first floor. When you exit the elevator you will see two guards 
+patrolling around some crates. Go in between the crates and a pit will start 
+to open. Do the same thing you did last time and head south. On this screen 
+you will see three cameras. Two on the right wall and one on the left. Use 
+the crates to avoid the cameras and use CARD 2 to enter the room on the left. 
+In here you will find a POW. Rescue him and he will tell you that a FOX-HOUNDER 
+named Grey Fox is confined in a secret cell. Exit the room and head south. 
+When you enter the next screen, DON'T MOVE! Two guards will be patrolling 
+the area and if you move, the one on the right can see you. Take out the guard 
+on the left, then the one on the right when he's not looking. Use CARD 2 to 
+enter the door on the right. Inside you will find a ===SUB MACHINE GUN===. 
+Exit the room and use CARD 1 to enter the door on the left. Inside you will 
+find a POW. He will tell you that the best way to gain access to the secret 
+cell is to allow yourself to be captured. Exit the room and head south. On 
+this screen, you will see a guard patrolling the area with a truck on the 
+left. Take him out, and then enter the truck.  As you proceed through the 
+truck, a guard will come behind you and say "DON'T MOVE" and tell you that 
+you are captured. The screen will then fade to black as Snake is captured...
+
+
+III. Rescuing Grey Fox:
+After getting captured, it's time for Snake to complete his first objective 
+of the game and to gain a new objective in his operation. You will also fight 
+the first boss of the game. 
+
+With Snake captured and taken to the secret cell inside of the +++STORAGE 
+BUILDING+++, its time to figure out a way to rescue Grey Fox. Big Boss will 
+call you and tell you to move out and locate Grey Fox's solitary cell. He 
+suggest to you that you punch the walls to get out. End the call and punch 
+on middle part of the west wall until you hear a strange tap. Keep punching 
+on it to open up a passageway to the next cell. Proceed into the next cell. 
+Inside you will find the missing FOX-HOUND operative, Grey Fox. Rescue him 
+and he will tell you that Metal Gear is nuclear armed and that you must destroy 
+it before it is completed. He says that Dr. Pettrovich Madnar, the designer 
+of Metal Gear, is the only one who knows how to destroy it.  Punch on the 
+spot just to the left of center on the south wall until you hear a strange 
+tap and keep punching that spot until the wall breaks. Exit the solitary cell. 
+This is the first floor basement of +++BUILDING TWO+++. You have no equipment 
+and no weapons so you must be cautious as you proceed. Head right from here. 
+In this room you will be met by the first boss of the game, Shoot Gunner. 
+
+*****BOSS FIGHT #1*****
+Shoot Gunner
+
+Ok, you must fight this boss on your own with no weapons. Good luck....
+
+
+Just kidding:) You didn't think I would make you fight him with no boss 
+strategy did you? If you notice in this room you will see two doors on the 
+south wall. Hide behind the crates on the right side of the room and call 
+Big Boss (120.85). He will tell you that your weapons and equipment must be 
+in one of those rooms. Enter the door on the right and you will get your weapons 
+and equipment back. Exit that room and use CARD 2 to enter the door on the 
+left. Enter the room to find ---CARD 3---. Exit the room and hide back behind 
+the crates again. Shoot Gunner will fire a spray of bullets at you as you 
+move across the room. When you're behind the crates, equip your 
+REMOTE-CONTROLLED MISSLES and fire them at Shoot Gunner. Three or four hits 
+with it will kill him. 
+
+After the battle, check your equipment. You will notice that you have a new 
+little item called the ---TRANSMITTER---. The TRANSMITTER will alert the 
+guards of your presence as long as you have it on you. Press the fire button 
+to get rid of it. Use CARD 3 to exit the room via the door on the east side 
+of the room. This next area is one big spiral with guard dogs littered around 
+it. Kill the dog next to the door and use CARD 2 on the south door. Grab the 
+---BODY ARMOR--- and exit the room.  Watch out for dogs on your way out. Follow 
+the path right. Use CARD 2 to open the door. Inside the room you will find 
+a ---BOMB BLAST SUIT--- on the desk. Take it and go around until you come 
+to a wall. Enter that room below you using CARD 3. When you enter the room, 
+you will find the ---UNIFORM---. Exit the room and head to the right one 
+screen. Use CARD 3 to exit the building. From here go right twice and then 
+down twice. Use CARD 4 to enter BUILDING ONE. Go right past the four guards 
+to the next screen. Enter the elevator on this screen and take it to the second 
+floor. 
+
+On the second floor, use the crates to avoid the camera again and head left. 
+You will see the room with the three guards again. Take them out and use CARD 
+3 to enter the door on the west wall. Proceed through this room. In the next 
+room you will see a rolling pin. Proceed quickly through this room and exit 
+the room via the door on the south wall. In the next area you will see a bunch 
+of crates and a single guard behind them. Just easily avoid the guard and 
+head south. In this room you will see a large wall in the middle of the room 
+and three guards roaming the south part of the room. Take them out or avoid 
+them and head south. In this area you will see an open door to your left and 
+a closed door to your right. There will also be two guards patrolling the 
+south part of the screen. Enter the door on the left and you will find MINES 
+on a desk surrounded by three sleeping guards. Quietly take out the guards, 
+grab the MINES, and exit the room. Avoid the guards and use CARD 1 to enter 
+the door on the right. Inside you will find a POW. Rescue him and exit the 
+room, avoid the guards, and head south. On the next screen you will see a 
+gray colored floored. It is an electric floor, but it is not active. If the 
+guard in this area sees you, he will turn on the electric floor. Use the crate 
+to avoid the guard or take him out with a REMOTE CONTROLLED MISSLE and use 
+CARD 3 to enter the door in the center of and grab the ---INFRARED GOGGLES---. 
+Exit the room with the three guards. Take the lower path around to the sleeping 
+guard. Take him out and head down. You will now be in the laser trap area 
+from earlier. Use your INFRARED GOGGLES to se where the lasers are. Sneak 
+through the first screen of lasers to the south and through the second screen 
+of lasers and head west. In this area you will see two guards patrolling the 
+area and a room in the middle of the area. Use CARD 3 to enter the room in 
+the middle and rescue the POW. He will tell you that Dr. Pettrovich is confined 
+to a solitary cell in the courtyard. Exit the room and use CARD 3 to enter 
+the door on the left. In here you will find the second boss of the game, Machine 
+Gun Kid. 
+
+*****BOSS FIGHT #2*****
+Machine Gun Kid   
+
+Machine Gun Kid will run around the north part of the room firing several 
+shots downward. Hide behind a wall in the south part of the room and use REMOTE 
+CONTROLLED MISSLES to kill him. Four REMOTE CONTROLLED MISSLES should do the 
+trick.
+
+After the boss fight, go left to the next screen. Use CARD 1 to enter the 
+enter the door in the north part of the room. In here you will find the ---IRON 
+GLOVE---. Exit this room and head right. Enter the room in the middle of the 
+screen to rescue the POW.
+
+
+IV. Double Trouble:
+One objective completed and another one gained. Your goal now is to find Dr. 
+Pettrovich and find out information about Metal Gear.
+
+From here you will need to head to the roof. But before you do that, now is 
+a good time to restock your entire inventory. You should know where everything 
+is in BUILDING ONE at this point in the game. After you restock your inventory, 
+head to the elevator in the northeast part of the building. Take the elevator 
+to the roof. When you exit the elevator, you will get a call from Big Boss. 
+He will tell you that the wind barrier is extended on the roof and that you 
+should look for a BOMB BLAST SUIT. If you listened to me earlier and got the 
+BOMB BLAST SUIT from the STORAGE BUILDING, equip it for use on the roof. If 
+not, then go back to the STORAGE BUILDING and get it. After you equipped the 
+BOMB BLAST SUIT, head west. Here you will see three guards patrolling the 
+area. Take them out or sneak past them and head west again from here. This 
+screen will have two guards patrolling around a bunch of crates. This screen 
+is also easy to get by on as long as you stay south and head west. Here will 
+be one more guards. Take him out or sneak past him and head south to the next 
+screen via the left path.  No guards here just enter the open door and grab 
+the AMMO. Exit the room and continue south. Use CARD 2 to enter the room here 
+and rescue the POW. Exit the room and head back to the screen with the two 
+guards where you could go west or south. Head south from here. On this screen 
+you will see a swaying bridge. You have to make it across the bridge. If you 
+fall off, you die. It's tricky at first, but you'll get the hang of it. Just 
+try to head straight down very slowly. On the next screen you have to do the 
+exact same thing, but the bridge is swaying the other direction. Head down 
+slowly and as straight as possible. Once across the bridge to the next screen, 
+you will see a rocket man type guard just head west on the south part of the 
+screen. Use the REMOTE CONTROLLED MISSLES to destroy the control panel to 
+the electric floor in this area as well as the two guards and use CARD 3 to 
+enter the room. Grab the ---MINE DETECTOR--- on the desk and exit the room. 
+Head back to the screen after the bridge and head east. Here you will face 
+more rocket guard troubles. Just run past them east to the next screen. On 
+this screen you will fight boss number three, Twin Shot.
+
+*****BOSS FIGHT #3*****
+Twin Shot
+
+Run up to the empty space next to the right twin and fire ten grenades from 
+your GRENADE LAUNCHER to kill him. Run up to the empty space and do the same 
+thing to the other. 
+
+After the boss fight, head north. Enter the door on the left using CARD 2 
+and the POW will tell you that Dr. Pettrovich is in +++BUILDING TWO+++.
+
+     
+V. Heavy Weapons:
+After beating the "hardest" bass in any Metal Gear game, it is time to face 
+two consecutive bosses.
+
+Exit the room head all the way back to where you enter BUILDING ONE after 
+you were captured. Go up three screens to fight the fourth boss of the game, 
+the Tank. 
+
+
+*****BOSS FIGHT #4*****
+Tank 
+           
+The Tank will fire machine gun rounds at you. Hide behind the wall to stay 
+away from it. When the tank backs up, place a MINE down in front of the Tanks 
+path. It will hit the MINE when it comes forward. When placing the MINE, watch 
+out for the missiles that it shoots out. If it hits you, it will likely kill 
+you. To avoid getting hit by the missile, just place the MINE to the side 
+of the missile cannon. Try to place two or three MINES at a time to make the 
+battle quicker. You might need to use a RATION or two if your hit by his machine 
+gun.
+
+When the tank is destroyed, proceed north. This next screen is pretty much 
+empty. Proceed on to the next screen. Here you will see three guards that 
+immediately attack you. Take them out then Big Boss will then call you and 
+tell you that you have reached a road block. He will tell you that you need 
+an enemy uniform to sneak past the guards in this area. He will also inform 
+you that his new frequency is 120.13. Make a note of that. End the transmission 
+and equip the UNIFORM. Proceed forward and enter the door to go in BUILDING 
+TWO. From the entrance of the building, head left. On this screen you will 
+see two guards. One will be patrolling the northwest corner of the screen 
+and the other will be patrolling the other side of the drainage system. Head 
+up to the guard in the northwest corner of the screen and take him out. Use 
+CARD 4 to enter the room. Grab the AMMO and exit the room. When you exit the 
+room, take out the guard near you then proceed back to where you entered the 
+building. From here, go down into the drainage system and head left. Run 
+through the drainage system and use CARD 4 to enter the door in the drainage 
+system. If the guards see you, just ignore them and keep going. In this room 
+the fifth boss of the game, the Bulldozer, will confront you.
+
+*****BOSS FIGHT #5*****
+Bulldozer
+
+When you enter this room the Bulldozer will be slowly approaching you. You 
+must defeat it before it crushes you. Exit the room and equip your GRENADE 
+LAUNCHER. Enter the room again and fire the grenades at him as fast as you 
+can. After it is hit with eight grenades, it will explode and the path will 
+be cleared. 
+
+Use CARD 4 to enter the next room. In this room you will see five laser walls. 
+Equip your INFRARED GOGGLES to see the lasers. The lasers will flash in 
+different directions. Get past them and enter the elevator take the elevator 
+to the roof.
+
+
+VI. Double Trouble, Part II:
+In this section you will complete another objective and gain another 
+objective. This is one of the hardest areas in the game. There are tons of 
+guards in this area so be careful.
+
+The second you enter the roof; you will see three guards. Take them out and 
+use CARD 2 to enter the room on the left. Inside you will find a POW. Rescue 
+him and exit the room and proceed east. Here you'll see four guards. Sneak 
+past them and head south. On this screen three guards will be patrolling the 
+south area. Take out the one you encounter and head south again. The next 
+area will have one of those rocket guards. Take him out and use CARD 4 to 
+enter the door in the center of the screen. Inside you will find ---CARD 5---. 
+Grab it, exit the room, and head east. Another rocket guard is here. Take 
+him out and use CARD 5 to enter the room. Once again a rocket guard will greet 
+you. Run past him and us CARD 5 to enter the elevator. Take the elevator down 
+to the first floor. 
+
+Once you exit the elevator you will see two guards. Take them out and use 
+CARD 5 to exit the room. Head left in this room and then head left again in 
+the next. Take out guard, enter door. Grab RATION, kill guard, head right, 
+then north. Enter the door on the left using CARD 2, taking out the guards 
+first. Grab the ---ANTENNA--- and Big Boss will call you and tell you that 
+the ANTENNA was blocking your communications. Exit, take out guards, head 
+right. Can you tell I'm getting board yet? Two guards will attack you here 
+take them out and go north. Use CARD 5 to enter. Rescue the POW and he will 
+tell you that the drainage system will lead you to +++BUILDING THREE+++. Exit 
+and head to where you could enter the water, just before the room with the 
+ANTENNA. Enter it and follow the north shallow part of the water around. Get 
+out of the water and go down and around the path, killing the guard along 
+the way. Enter the room and you will find ---CARD 6---. Follow the path back 
+and enter the water. Follow the path around and exit the water on the opposite 
+side from where you entered it then go up and then left on the next screen. 
+You will see lasers here. Use your INFRARED GOGGLES here and enter the 
+elevator. Take it to the second floor. Take out the guards to your sides and 
+then head to the right, taking out the guard there as well. Follow the pat 
+and take out the two guards. Use CARD 6 to enter the room here and grab the 
+---ANTIDOTE---. Exit and head back around the path and use CARD 1 to enter 
+the door on the south part of the screen. You will be in the room with the 
+sixth boss of the game, the Arnolds, but you can't defeat them yet. Use CARD 
+5 to enter the door on the southeast corner of the room. Take out the two 
+guards here and enter the room in the middle of the screen. In here you will 
+rescue the POW. He will tell you to call Jennifer at 120.48. Exit the room 
+and call Jennifer at 120.48. If you don't have a four star ranking, she won't 
+answer you. If you rescued all the POWs that I told you to rescue up to this 
+point, then you shouldn't have a problem. She will tell you that she can 
+arrange a ===ROCKET LAUNCHER=== for you to pickup. Go to the room with the 
+next boss and go into the right door using CARD 5. Enter the far door in this 
+room and take out the guards first. Inside here will be the ROCKET LAUNCHER. 
+Take it and go back to the boss room again and use CARD 1 to enter the door 
+on the left. Kill the guard and go around the path. Kill the guards in this 
+room and enter the open door on the northwest corner of the room. Lost of 
+AMMO here. Take it all and head back to finally face the Arnolds.
+
+*****BOSS FIGHT #6*****
+Arnolds 
+
+The Arnolds are pretty easy to beat. Just stand in front of them and launch 
+four rockets at each of them. The only way they can touch you is by running 
+up and touching you. Use a RATION if needed during this fight. After the fight 
+is over, collect ---CARD 7--- that they leave behind.
+
+After the fight with the Arnolds, use CARD 2 to exit the room via the door 
+in the northeast corner. Kill the guard in front of you and proceed east. 
+This next room has three guards. Kill them and call Jennifer at 120.48. She 
+will tell you that she opened the door. The door on the north wall will open. 
+Enter the room and grab the ---COMPASS---. Exit the room and head back to 
+the room where you fought the Arnolds. Use CARD 5 to enter the door in the 
+southeast corner of the room. In this room you will see three guards. Kill 
+them and head right. On this screen there will be a sleeping guard between 
+the four crates. Sneak past him and use CARD 5 to enter the door. In this 
+room you will see a rolling pin. Get past it and enter the elevator. Watch 
+out for the trap on the right side of the room. Take the elevator to the first 
+floor. Take out the guards here and exit the room. Head right here, then north 
+in the next room. Enter the water here and go back around the shallow water 
+on the north part of the room around to the next screen where you exit. The 
+head up the northwest path. Use CARD 7 to exit the building.
+
+
+VII. Ambushed:
+After that rather boring part of the game, you now get to play the role of 
+the hero is rescuing not one, not two, but THREE important characters in the 
+game. Won't you feel proud of yourself? 
+ 
+Equip the COMPASS and go north several screens through the SCORPION DESERT. 
+Kill the scorpions along the way. If a scorpion touches you, use the ANTIDOTE 
+to heal yourself of the poison. When you arrive in the JUNGLE, continue 
+heading north and you will reach BUILDING THREE. Big Boss will then contact 
+you and tell you to get in the truck on the right. Enter the bottom truck 
+to get some AMMO. Exit the truck and use CARD 7 to enter the building. Guards 
+will rush you when you enter the building. It seems as if they almost knew 
+you were coming... Head to the left and Big Boss will contact you and tell 
+you to enter the door on the left. DON'T DO IT!!! It is a trap! Instead, head 
+up to the next screen while hugging the right wall. This room has several 
+pits that open. Hug the right side of the room and get rid of the pits as 
+necessary. Enter the elevator and take it down to the 100th floor basement 
+and exit the elevator. This room will have two laser-firing cameras on the 
+north wall. They are easy to avoid if you hide behind the wall in the center 
+of the room. Use CARD 7 to enter the south door and grab the ---OXYGEN TANK---. 
+Head back up the elevator and exit the building. Head back across the SCORPION 
+DESERT to BUILDING TWO.
+
+When you're back at BUILDING TWO, head right. Now equip your OXYGEN TANK and 
+swim north. Keep swimming north until you come to shallow water. Get out of 
+the water; avoid the guards, and head north (head north directly in front 
+of where you got out of the water). On this screen you will see an electrified 
+floor. Use your REMOTE-CONTROLLED MISSLES to destroy the control panel next 
+to the door on the left. Enter the door on the left using CARD 1. Inside you 
+will find two boxes of AMMO. Take the AMMO and exit the room. Use CARD 7 to 
+enter the door on the right. In here you will find the seventh boss of the 
+game, Coward Duck.
+
+*****BOSS FIGHT #7*****
+Coward Duck
+
+At the start of the fight, you will get a call from Jennifer. She will tell 
+you that Coward Duck has ---CARD 8---. She will also tell you that her brother 
+is among one of the captives so don't kill and of the POWs. After the 
+transmission, head north along the left wall. Now head up hugging the boxes 
+and rescue the POW on the left. Now use you HANDGUN to kill Coward Duck. 10 
+shots should do it with ease. After the fight, grab CARD 8 that Coward Duck 
+leaves. Rescue the POW on the right and the POW in the center, who is 
+Jennifer's brother. When you rescue him, he will tell you that he is 
+Jennifer's brother. He will tell you that when escaping Outer Heaven take 
+the left elevator. Now exit the room and head back to the SCORPION DESERT. 
+
+
+VIII. Rescuing Dr. Pettrovich Madnar:
+Once you reach the screen after the SCORPION DESERT, head left three screens, 
+up one screen, and then left one more time. Use CARD 6 to enter the STORAGE 
+BUILDING. Schneider will call you and tell you that there is a gas filled 
+room up ahead. Use CARD 5 to enter the upper left door and rescue the POW 
+inside. Exit the room and use CARD 3 to enter the door on the upper right. 
+Equip your GAS MASK and head up. Enter the door to your north and find PLASTIC 
+EXPLOSIVES and a rolling pin. Avoid the rolling pin and grab the PLASTIC 
+EXPLOSIVES. Exit and head left. Go around to the open door and inside you 
+will find the ---FLASHLIGHT---. Grab the FLASHLIGHT and exit the room. Punch 
+the wall to the left a little bit above the doorway and enter it. In here 
+you will fight the eighth boss of the game, Fire Trooper.
+
+ *****BOSS FIGHT #8*****
+Fire Trooper
+
+Fire Trooper will stand by the door and fire his flamethrower at you. Run 
+up to behind him or right next to him and unload on him with your HANDGUN. 
+About ten shots should put an end to Flame Troopers torching. You might need 
+to use a RATION if you were touched by his flame or him while running up to 
+him.
+
+After the fight, use CARD 6 to enter the door behind Fire Trooper. Inside 
+you will find Dr. Pettrovich. He will ask you to rescue his daughter who is 
+located in this same building. Go back to where you entered the building and 
+use CARD 5 to open the left door. Equip your GAS MASK again and punch the 
+north wall. Enter the door that you just found. Follow the path around and 
+use CARD 1 to enter the room. Rescue the POW and exit and continue following 
+the path. Use CARD 5 to enter the next room where you will find RATIONS. Exit 
+the room and continue following the path to the right and then down. On this 
+screen, punch a little bit below the middle of the left wall and enter the 
+doorway. Punch the northwest wall on the far side of the screen and enter 
+the room to find some AMMO. Exit the room and use CARD 6 to open the southern 
+door. Diane will call you and tell you not to fall into any enemy pit traps. 
+Use your FLASHLIGHT so you can see in the room. Head south several screens, 
+avoiding the pits in the open areas. Use CARD 1 to open the southern door. 
+In here you will find four dogs. Easily take them out and head south. You 
+will encounter two guards here, take them out and use CARD 6 to enter the 
+door on the right.  Hug the wall and head right. In the middle of the right 
+wall, punch it and enter the room. Inside you will find Ellen Pettrovich, 
+Dr. Pettrovich's daughter. Rescue her and head out of the two rooms. Use CARD 
+6 to enter the southern door. You are now in the place where you escaped from 
+earlier in the game. Head right and use CARD 3 to exit the building. Head 
+right two screens and then head south two screens. Ride the middle truck and 
+then exit that truck, kill the guards, and ride the right truck. Exit that, 
+kill the guard, and ride the right truck again. Exit it and head down. Then 
+head left three screens, up one screen, and left again to get back to the 
+STORAGE BUILDING. Go back to Dr. Pettrovich and he will tell you that in order 
+to destroy the Super Computer that operates Metal Gear, you need to place 
+16 PLASTIC EXPLOSIVES on each side of it in a certain order. That order is 
+R, R, L, R, L, L, R, L, L, R, R, L, R, L, R, R. Now exit the STORAGE BUILDING 
+and head back to BUILDING THREE to destroy Metal Gear once and for all!     
+
+IX. The Traitor:
+You need all the PLASTIC EXPLOSIVES you can get so stock up on those before 
+to proceed. Now once you get back to BUILDING THREE, head back to the 100th 
+floor basement. As soon as you arrive at the 100th floor basement, avoid the 
+cameras and use CARD 8 to enter the door on the right wall. Don't worry too 
+much about the camera seeing you. All it will do is fire a laser at you, it 
+won't alert the guards. Enter the room and rescue the POW. He will tell you 
+that the leader of Outer Heaven is none other than.....................the 
+Commander-in-Chief of FOX-HOUND, Big Boss! Exit the room and head west. Big 
+Boss will call you and tell you to stop the operation at once! Ignore him 
+of course. This screen has one camera on each of the walls facing south. Run 
+past them and use CARD 8 to enter the door on the north wall. Equip your GAS 
+MASK and head up to the northeast part of the room. Punch the wall until you 
+hear that strange tapping sound. Use a PLASTIC EXPLOSIVE to blow up the wall. 
+Head through the passage to enter the next room. Head along the left wall 
+of the room until you reach the door. Use CARD 1 to enter. This room has MINES 
+and gas. Equip you MINE DETECTOR and quickly move through the room. Use CARD 
+1 to enter the door. This room has an electric floor with no switch. Jennifer 
+will call you and tell you that you must run through it as quick as you can. 
+Run through it as quick as you can and enter the open door on the north wall. 
+Before entering the door, heal yourself with a RATION. Through the door is 
+the ninth boss of the game, the all-powerful Super Computer.
+
+*****BOSS FIGHT #9*****
+Super Computer
+
+To defeat the Super Computer, you must use PLASTIC EXPLOSIVES and the order 
+that Dr. Pettrovich gave you earlier. Put the PLASTIC EXPLOSIVES on his feet 
+in the order R, R, L, R, L, L, R, L, L, R, R, L, R, L, R, R. There are four 
+soldiers in this room as well, dispose of them first.
+
+When you place all 16 PLASTIC EXPLOSIVES in the correct place, the Super 
+Computer will explode taking the two cameras with it and setting off the Outer 
+Heaven self-destruct system. A timer will appear on the bottom of the screen 
+and an emergency message will appear in a text box. The door to your left 
+will then open. Heal yourself with a RATION. Enter the door to fight your 
+final battle.
+
+*****BOSS FIGHT #10*****
+Big Boss
+
+Big Boss will tell you that you were sent here to get false information on 
+Metal Gear, but you accomplished too much. He will tell you that you have 
+crushed his ambitions. He will then say that he will not die alone and that 
+you are coming with him. Diane then calls you and tells you that she doesn't 
+know how to defeat Big Boss. The fight begins. You must use your ROCKET 
+LAUNCHER to defeat Big Boss. 5-10 hits with the ROCKET LAUNCHER should take 
+care of the traitor. Use the crates for protection from his gunshots. The 
+BODY ARMOR also comes in handy for that too. Use a RATION or two if needed.
+
+After the fight, smoke some CIGARETTES to give yourself more time to escape. 
+The door on the north wall will open. Enter the door. There will be three 
+ladders. Climb the one on the left like Jennifer's brother told you to do 
+earlier. Climb up to the surface and it will cut to a scene where Solid Snake 
+is running away from Outer Heaven just as it explodes. Solid Snake then calls 
+Big Boss's frequency and says that Metal Gear was destroyed and Operation 
+Intrude N313 was a success. He then tunes into a radio station and they saw 
+that there was a large explosion at Outer Heaven around midnight. The credits 
+will then role and the screen will fade to black. Congratulations, you've 
+just completed Metal Gear. Now it's time to pop in the sequel, Metal Gear 
+2: Solid Snake for MSX. Check out my FAQ/Walkthrough for it as well.
+
+ 
+****************************
+*7. Transceiver Frequencies*
+****************************
+Big Boss - 120.85(later in the game 120.13)
+ 
+Kyle Schneider - 120.79(later in the game 120.16)
+
+Diane - 120.33(later in the game 120.91)
+
+Jennifer - 120.48
+
+
+***********************
+*8. Weapons/Items/Ammo*
+***********************
+I. Weapons:
+
+Handgun - A semi-automatic pistol. Fires one shot each time you press the 
+Space Bar. Can add Silencer for suppression.
+
+Sub Machine Gun - Small-lightweight SMG. Hold Space Bar to auto fire. Can 
+add Silencer for suppression.
+
+Grenade Launcher - Launches grenades to the target area. The target moves 
+as you move.
+
+Rocket Launcher - Launches rockets across the screen.
+
+Plastic Explosive - When placed on a wall, it explodes within a few seconds.
+
+Remote-Controlled Missile - Anti-tank missile. Sight-guided manual control 
+system allows adjustment with the cursor keys after it's launch. It's range 
+is limited to inside the screen.
+
+Mine - A mine which explodes by applying weight to them. Set with the Space 
+Bar. If you equip a Mine Detector you can see where the Mines are placed on 
+the ground. 
+
+Silencer - Allows you to silence your gun so guards do not hear your fire.
+
+ 
+II. Ammo:
+
+Ammo - Refills ammo in your Handgun, your Sub Machine Gun, your Grenade 
+Launcher, and your Rocket Launcher.   
+
+
+III. Equipment:
+
+Cigarettes - Snake's favorite brand. Used to give you more time.
+
+Body Armor - Cuts damage taken by bullets in half.
+
+Gas Mask - Doubles your O2 gauge and causes it to decrease slower. Useful 
+to protect against any type of gas.
+
+Oxygen Tank - Same as Gas Mask but used underwater.
+
+Mine Detector - Will display the location of mines on the screen.
+
+Binoculars - Useful to see one screen up, down, left, or right of your present 
+location.
+
+Cardboard Box - Hide in Cardboard Box from guards or use to transport you 
+to different places.
+
+Antenna - Allows you to use you transceiver in places where there is 
+electronic jamming.
+
+Infrared Goggles - Used to see where laser sensors are in a room.
+
+Flashlight - Used to see in dark places.
+
+Bomb Blast Suit - Protective gear that protects you from explosions.
+
+Compass - Used to make your way through uncharted territory.
+
+Antidote - Used to cure you of any type of poison.
+
+Uniform - An Outer Heaven guard's uniform. Put this on and the guards will 
+think that your one of them.
+
+Cards 1-8 - Used to open a door with the corresponding card number that you 
+have.
+
+Transmitter - Will alert the guards of your presence until discarded.
+
+Rations - Regenerates Snakes health.
+
+
+IV. Weapon/Equipment Chart:
+This chart tells how much ammo you can carry in your gun or how much of one 
+item you can carry at a time based on your rank.
+
+WEAPON/EQUIPMENT------------1-----2------3------4-  
+Handgun---------------------50---100----200----250                    
+Sub Machine Gun-------------50---100----200----250
+Grenade Launcher------------15----30-----60-----60
+Rocket Launcher--------------5----10-----20-----30
+Remote-Controlled Missile----5----10-----15-----20
+Plastic Explosive------------5----10-----15-----20
+Mines------------------------5----10-----15-----20
+Rations----------------------3-----6------9-----12
+
+
+***************
+*9. Characters*
+***************
+I. Main Characters:
+
+"Solid Snake" - Rookie member of FOX-HOUND. Trained by McDonnel Miller.  
+Operation Intrude N313 is his first mission. Real name is unknown.
+
+"Big Boss" - Commander-in-Chief of FOX-HOUND. After his career in Special 
+Forces like Green Beret, SAS and GSG9, he became FOX-HOUND chief commander. 
+He gives tips to Solid Snake about various things like the usage of weapons 
+and equipment through wireless communication.
+
+"Grey Fox" - Considered to be the leader of FOX-HOUND due to his durable 
+physique and superb intelligence. Only person to ever receive the code name 
+"Fox". All contact with him has been lost since he infiltrated Outer Heaven.
+
+Diane - A member of the local resistance against Outer Heaven. Former vocalist 
+of Thin Wall, the positive punk band. She uses her female charm for 
+intelligence activities. She knows a lot about the mercenaries and war 
+machines of Outer Heaven.
+
+Jennifer - A member of the local resistance against Outer Heaven. To save 
+her brother, who was captured in Outer Heaven, she crept into Outer Heaven 
+as one of its medical staff. She supports you physically.
+
+Kyle Schneider - Former architecture engineer and current leader of the local 
+resistance against Outer Heaven. Forced to help build Outer Heaven, but 
+escaped after his wife and children were killed. Knows much about the layout 
+of Outer Heaven.
+
+Dr. Pettrovich Madnar - A brilliant scientist. He was captured by Outer Heaven 
+terrorists while trying to seek asylum in the United States. Since then he 
+developed weapons against his will, while his daughter, Ellen Pettrovich, 
+is held hostage. He developed TX-11 (Arnold) and TX-55(Metal Gear). 
+
+Ellen Pettrovich - Dr.Pettrovich's only daughter. Former Bolshoi Ballet 
+star. She was captured by Outer Heaven to blackmail her father in to creating 
+Metal Gear.
+
+
+II. Boss Characters:
+
+Shoot Gunner - Former member of Spetsnaz and master of riot guns. He guards 
+a top-secret underground prison at Outer Heaven.
+
+Machine Gun Kid - He prefer to use Machine Guns. Once served the Special Air 
+Service.
+
+Twin Shot - A pair of brothers that are just as deadly separately as they 
+are apart. They use standard issue guns to beat and foe into submission. 
+
+Tank - A standard military tank. Has two machine guns on its sides and a 
+missile launcher in the front.
+
+Bulldozer - A slow-moving deathtrap. The Bulldozer will run over anything 
+in its path.
+
+Arnolds - TX-11 twin cyberoids developed for Outer Heaven using 
+Dr.Pettrovich's robo-technology. They are virtually indestructible.
+
+Coward Duck - A former leader of Egg-Plant, an extremist terrorist group. 
+He attacks with boomerangs while using hostages as shield.
+
+Fire Trooper - Former member of Grenz Schutz Grouppe 9(GSG9). Handles the 
+flamethrower like a mere rifle.
+
+Super Computer - The Super Computer that controls Metal Gear, a TX-55 nuclear 
+equipped walking battle tank built by Dr. Pettrovich Madnar. It is not 
+believed to be active yet, but the terrorists plan to use it to support their 
+cause. 
+
+Vermon CaTaffy - Leader of Outer Heaven. He's the legendary mercenary who 
+built Outer Heaven during the late 1980s.

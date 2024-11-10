@@ -1,0 +1,165 @@
+My name is Steve Novicki; I will be your guide throughout this FAQ for 
+the computer game SimAnt. SimAnt is a simulation game where you are the 
+"boss" ant of a colony. You must single-handedly take over the house 
+and yard by eliminating the red ants from the property and driving the 
+humans out of the house. Sounds pretty boring, huh? NOT! It is very 
+interesting, and if you actually play the game enough to understand how 
+to play, what to do, and what the objective is it's a very fascinating 
+game. 
+
+
+2 – The Ants
+
+
+	In SimAnt, there are many different kinds of ants, like in the 
+real world. They all have specific jobs they must do for the good 
+welfare of the rest of the colony. They also live in many colonies. 
+Listed below are the kinds of ants in SimAnt.
+
+	Yellow Ant – who you are controlling. You can be any ant in 
+SimAnt, a Soldier, a Worker, a Queen, a female; you can even be the 
+Spider! Every ant, at your command, will follow you wherever you take 
+them, even into battle with the red ants. 
+
+	Workers – just what they sound like, they work. Workers are the 
+primary source of labor in the colony. They mainly forage for food in 
+the outside world, and help around inside the colony. Workers are the 
+same things as Soldiers, only smaller, therefore not requiring as much 
+food to keep healthy.
+
+	Soldiers – Soldier ants are worker ants, only larger. This helps 
+when in ant combat with red ants or the Spider, but it is also a 
+hindrance. Soldiers require the most food of all ants, therefore 
+increasing the amount of food you must have at any given time. But they 
+more than earn their keep for it, because they fight the red ants, 
+battle the Spider, tangle with the Ant Lions, and just about fight 
+anything and everything that comes along. Cool.
+
+	Queens – queen ants are the prized possession in SimAnt. If a 
+queen dies one way or another, the game is lost. You must then transfer 
+to another patch, if you have one. If not, you have lost the game. But 
+you can prevent this, by manipulating the game and its features so that 
+the queen goes deeper and deeper into the ground so that it is 
+impossible for the red ants to find her. Queens are very expensive to 
+feed and care for, and all they do is lay eggs, so do not create queens 
+unless you have to.
+
+	New Queens – all new queens are are fertile females. Their sole 
+purpose in life is to found new ant colonies in and around other 
+patches of the Yard and House. Since they are very expensive to care 
+for and feed, you should not have that many until you are rich with 
+food in your colony to feed and care for them. 
+
+	Males – males are kind of like new queens; their sole purpose in 
+life is to fertilize new queens. Males are big and lazy, and don't do 
+anything except fertilize new queens, so don't make any unless you have 
+to or are rich in food. 
+
+	All ants are created via the Caste Control menu, a button on the 
+toolbar that allows you to set the amount of all ants produced to be 
+certain types. Pretty simple, once you get to know it.
+
+
+3 – The Enemies
+
+
+	Like everything in real life, ants have enemies. These enemies 
+are mostly deadly and vicious, sparing not a single soul that they 
+might encounter. That is why I have written this section, to tell you 
+about the different enemies in SimAnt and how to fight and defeat them.
+
+	Red Ants – these are your main competition and enemies in SimAnt. 
+They eat the same food you eat, live in the same grounds you live on, 
+and are trying to take over the same land you are trying to take over. 
+Your main goal in SimAnt is to try and defeat the Red Ants by attacking 
+and killing them. Just make sure you do so quickly, because as soon as 
+the Red Ants outnumber your ants (the Black Ants) by a safe margin, 
+they will launch a complete, all-out attack on your colony, so you 
+better have enough Soldier ants on hand at all times. Just like your
+colony, there is a Red Initiator ant. This ant is the red equivalent of 
+the Yellow Ant in your colony. If the Red Initiator ant dies one way or 
+another, another Red Ant is picked at random to be the Red Initiator 
+ant. All it does is wander around the outskirts of the Red Nest. If it 
+spies trouble on the horizon, it sends out s call for help to its 
+fellow Red Ants, and reinforcements will soon be on the way. They then 
+meet you (or whoever the challenger is) as far away from the Red Nest 
+as possible to avoid having you invading their nest.
+
+	Spiders – these are not real trouble, only a big nuisance. The 
+only times that they are a serious problem is early in the game when 
+you have very few ants in your colony. But the Spider can also be a big 
+help to you, by eating lots of Red Ants. It doesn't really matter if it 
+eats you, the Yellow Ant, because you are just reborn. The Spider can 
+be killed, but it is difficult. Only when you have about thirty or 
+forty ants should you consider attacking the Spider, because he a 
+formidable foe who should be approached with caution. If at all 
+possible, try to lure him around the Red Ants' Nest, because he will 
+find a lot of Red Ants there, making very good meals for him.
+
+	Ant Lions – these are neither lions nor ants, but rather half-
+inch long insects who dig slanted pits in the ground. When an 
+unsuspecting insect or other piece of prey wanders inside, it will 
+tumble down, into the jaws of the Ant Lion. Case closed. These can be 
+killed, and are not as hard to kill as the Spider, but do not turn into 
+little green food balls. Your ants eat them immediately. You can try, 
+if at all possible, to lure Red Ants into the pits of Ant Lions.
+
+	Humans – we are as much of an annoyance to ants as ants are an 
+annoyance to us. Our feet and lawnmowers kill ant instantly, with nary 
+a trace. We also use pesticides, but only inside the house. All of this 
+is true of SimAnt, and if you can hear the sound of the lawnmower 
+coming or the pesticide being sprayed, you should go to the Behavior 
+Control window and tell all of your ants to either dig or nurse while 
+the Human is around outside. Humans cannot be killed (at least in 
+SimAnt!)
+
+	Rain – when it rains, bring your ants up to dry ground from the 
+lower part of your nest. While it rains, the lower part of your nest 
+floods, so if all your ants do not evacuate immediately, they will 
+drown. Rain, obviously, cannot be killed nor prevented.
+
+	Lot of predators and enemies, huh? Welcome to the world of an 
+ant's life, where almost anything can be an enemy. Hope this section 
+helped you with the enemies. 
+
+
+4 – How To Invade and Attack Red Ants
+
+
+	As mentioned before, one of your ultimate goals in SimAnt is to 
+attack and invade the Red Ant Colony, and then defeat the Red Ants. 
+This section is going to tell you exactly how to do this so that you 
+won't get killed while attacking. 
+
+If you are going to attack, you must first have enough Black Ants to be 
+able to overpower the Red Ants. You can see this is the Info Bar at the 
+top of the screen, and a breakdown of all of the different kinds of 
+ants each colony has. If you do not have enough ants, set the speed to 
+the max. You should then, in about ten to thirty seconds, have enough 
+ants to launch an attack, just make sure that you do no run out of food 
+while waiting. 
+
+Okay, so now you're got enough ants to attack the Red Ant Colony. Now 
+you must attack. To do this, click on the Yellow Ant (your ant). Now 
+click on 'Recruit 10'. This button recruits ten Soldier ants (assuming 
+you have enough of them) to follow your lead and attack whatever you 
+and they come in contact with. Repeat this enough times until you have 
+recruited enough ants as to overpower the Red Ant colony once you reach 
+it. Now you have to make your way towards the red Ant Colony, on the 
+way, be sure not to be captured and/or eaten by the Spider/Ant Lions. 
+You can also attack and eat the Spider and/or Ant Lions you may 
+encounter on your way. 
+
+Once around the Red Ant Colony's Nest, approach with extreme caution. 
+The Red Initiator ant will most likely have spotted you and is probably 
+calling reinforcements, so you must move quickly. Invade the nest by 
+going into the closest hole. Go in a pretty long way, so that your 
+fellow ants following you will have enough room to move around. Make 
+your way to the Red Queen. She is the main point of this attack, you 
+are to attack and kill her, or if you do not feel like risking 
+yourself, bring your fellow ants to the Queen, they will attack her 
+and, if there is a lack of Red Ants around, your Black Ants will kill 
+her. Now you must do the same in all of the patches of the Yard and 
+House, or conquer at least seventy percent of all the land in the Yard 
+and all the land in the House. Congratulations, once you've 
+accomplished this, you have won the Full Game!

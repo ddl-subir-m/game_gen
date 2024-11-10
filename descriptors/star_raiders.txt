@@ -1,0 +1,631 @@
+I.  Introduction
+
+This is a FAQ for the Atari 8-bit computer game Star Raiders.  It contains
+everything you need to know to play this complex (by 1979 standards) game as
+well as a list of my best rankings and a mini-review.
+
+*******************************************************************************
+II.  Background Story
+
+This is the background story from the instruction book:
+
+A WORD FROM COMMANDER CHAMPION
+
+Welcome, cadets, to Federation Field. I'm Commander Champion, your space flight
+instructor. You'll be stationed here for some intensive starship flight
+simulation and computer training. When you've successfully completed your
+training mission, you'll win your Novice star and a commission in the Earth
+Federation's most elite fighting unit... the Star Raiders.
+
+We Star Raiders have a long, distinguished tradition of service to the Earth
+Federation and the Galaxy. Since the year 2010 we've policed the space routes,
+enforcing freedom of space and peaceful coexistence of the solar systems.
+Thanks to the Star Raiders, there hasn't been a major space war since then.
+Space trade flourishes and the Earth Federation prospers.
+
+Now, just as we're beginning to think peace will put the Star Raiders out of
+business, the Zylons... that rabble of half-life barbarians from Alpha Solar...
+turn to space piracy and terrorism. Their object is to break up the
+Federation's space trade and weaken its influence in the Galaxy. Space
+Security has issued "cease and desist" orders to no avail. Zylon responds by
+hijacking our spacecraft and terrorizing starbases that harbor them. They've
+pushed us to the limit. Let's rid the Galaxy of this pest once and for all!
+
+Your mission is to SEEK OUT Zylon combat ships in every sector of the Galaxy
+and DESTROY THEM ON SIGHT. For this job we've given you the ultimate in
+sophisticated fighter craft. Your starship is equipped with high-power photon
+torpedoes, twin ion engines, and dual hyperwarp engines that transport you
+instantly to the furthest reaches of the Galaxy.
+
+Your computer instrumentation surpasses state-of-the-art.  It includes a 
+Galactic Chart with real-time updating, Long-Range Sector Scan for pinpoint 
+targeting, and the most advanced Attack Computer ever devised for locking on 
+the target and homing in for the kill.
+
+...
+
+Code name for this operation is WIPEOUT. You'll be launched on your first
+WIPEOUT mission as soon as you win your Novice star. To complete your mission,
+you must destroy all Zylon targets.
+
+In a pinch, you can dock at a friendly starbase to energize and repair your
+starship, but be prepared for trouble. Once WIPEOUT gets underway, we expect
+Zylon to surround and attempt to destroy all starbases that harbor our
+starships. Prevent this at all costs! Remember, with every starbase destroyed,
+our position in the Galaxy grows weaker and the Zylon menace grows stronger.
+
+...
+
+Promotions are based solely on ratings... there are no shortcuts to success in
+the Star Raiders. You start as ROOKIES, but in no time at all you'll make
+ENSIGN and then PILOT. After that the going gets rough. Don't be surprised if
+your first Pilot mission ends with a demotion to GALACTIC COOK or GARBAGE SCOW
+CAPTAIN. This is a tough service! But you've got the stuff to make it. Some of
+you may even be WARRIOR material. We'll tell you if you are. As for STAR
+COMMANDER, few ever make it, but who knows? The next one might be you.
+
+Go to it and good luck! Or as we say in the Star Raiders, "Shields up and lock
+on target."
+
+*******************************************************************************
+III.  Getting Started
+
+-------------------------------------------------------------------------------
+A.  Starting the game
+
+After plugging in the cartridge and turning on the power, you should see
+stars moving by you and the words STAR RAIDERS COPYRIGHT ATARI 1979 at the top
+of the screen.  You can change the skill level by pressing SELECT on the 
+keyboard.  When you are ready to begin, press START.
+
+-------------------------------------------------------------------------------
+B.  Skill Levels
+
+...............................................................................
+1.  Novice Mission
+
+Num Enemies:    27  (9 groups)
+Num Starbases:   3
+
+This mission is actually a training simulation.  You cannot take any damage
+when your shields are raised and you do not have to steer during hyperwarp.
+
+...............................................................................
+2.  Pilot Mission
+
+Num Enemies:   36 (12 groups)
+Num Starbases:  4
+
+This is a real mission.  At this level you may take some damage when you are
+hit, even though your shields are raised.  You also now must steer your ship
+during hyperwarp.  The enemies are also more aggressive.
+
+...............................................................................
+3.  Warrior Mission
+
+Num Enemies:     45 (15 groups)
+Num Starbases:    5 
+
+Enemies are faster and do more damage.  You must steer your ship during 
+hyperwarp.
+
+...............................................................................
+4.  Commander Mission
+
+Num Enemies:     54 (18 groups)
+Num Starbases:    6
+
+You must steer your ship during hyperwarp.  Enemies are even faster and do
+massive damage to your ship with their attacks.  They also go after starbases
+very quickly.
+
+*******************************************************************************
+IV.  Starship Equipment and Controls
+
+-------------------------------------------------------------------------------
+A.  Engines and Movement
+
+Your engine speed is controlled by the 0 - 9 keys on the keyboard, where 0 is
+a complete stop and 9 is a velocity of 43.
+
+You steer your ship with the joystick.  Pushing up makes you go down, pushing
+down makes you go up, and pushing left or right will turn you in those 
+directions.  Be sure to note that steering is reversed when you are looking
+out through the aft view.
+
+If your engines are damaged, you will go much slower than you normally would
+at a particular speed level.  If your engines are destroyed, you will barely
+crawl along, even at thrust level 9.
+
+-------------------------------------------------------------------------------
+B.  Photon Torpedoes
+
+You fire your photon torpedoes by pressing the button on the controller.  
+Torpedoes fire one at a time, alternating from left to right.  If you are
+locked on to a target, both cannons will fire simultaneously.  
+
+In addition to damaging enemies, you can use your torpedoes to block the 
+enemy's incoming torpedoes.
+
+If your photon torpedoes are damaged, only one side will be able to fire.  If
+your photon torpedoes are destroyed, you will be unable to fire.
+
+-------------------------------------------------------------------------------
+C.  Shields
+
+Shields are activated by pressing the 'S' key on the keyboard.  Notice that the
+screen now has a blue tint.  You can lower your shields by pressing 'S' again.  
+Your shields provide protection from meteors and enemy torpedoes.  On the 
+Novice skill level, your shields will protect you from all damage.  On the
+other three levels, you may take some damage even with your shields raised.
+
+If your shields are damaged, the blue tint will flicker on and off.  While the
+tint is off, your shields are lowered and one hit from anything will kill you.
+
+If your shields are destroyed, the blue tint will disappear and you will be 
+unable to raise your shields.  One hit and your ship will be destroyed.
+
+-------------------------------------------------------------------------------
+D.  Attack Computer and Views
+
+Attack Computer
+
+Press 'C' to turn on the attack computer, press it again to turn it off.  This
+activates the heads up display (HUD), consisting of crosshairs and the display
+box.  The cross hairs are used for aiming your shots and to help steer during
+hyperwarp.  The display box helps you line up with targets.
+
+If your attack computer is damaged, you lose the range and coordinates at
+the bottom of the display.  If the attack computer is destroyed, you lose
+the manual target selector and tracking computer.  You also lose the 
+crosshairs, making steering during hyperwarp very difficult.
+
+Views
+
+Press 'F' to bring up the fore view.  In this view you are looking out the
+window in the front of the ship.  Press 'A' to bring up the aft view, this
+is the view at the back of the ship.  Notice that while in aft view, steering
+is reversed and you only have the two horizontal crosshairs showing.
+
+-------------------------------------------------------------------------------
+E.  Control Panel Display
+
+This always appears at the bottom of the screen in the fore, aft and long range
+views.  Here is an explanation of the data (starting from the top left going
+to the right):
+
+V:      Your current velocity.
+K:      The number of Zylons you have killed.
+T:      The number of the target you are currently tracking.
+E:      The amount of energy remaining.
+Theta:  Measures how far to the left or right you need to turn to face target.
+Phi:    Measures how far up or down to the target.
+R:      Distance to target (+ is in front of you, - behind you).
+
+-------------------------------------------------------------------------------
+F.  Galactic Chart
+
+Press 'G' to bring up the galactic chart.  The chart is an 8 x 16 grid that
+divides your part of the galaxy into sectors.  Your ship is the little flashing
+rectangle.  A starbases look like an asterisk.  A group of one or two enemies
+(a patrol) looks like a ship.  A group of three Zylons (a task force) looks
+like three rectangles, and a group of four Zylons (a fleet) looks like four
+rectangles.
+
+At the bottom of the screen, you will find additional data.  Warp Energy shows
+how much energy the current hyperwarp would take.  Targets tells you how many
+Zylons are in the selected sector.  DC is damage control, the letters P-E-S-C
+-L-R represent the photon torpedoes, engines, shields, attack computer, long
+range scan and subspace radio respectively.  If a letter is green, then that
+piece of equipment is functioning normally, if it is yellow then it is
+damaged, if it is red, then it is destroyed.  Star Date is the game clock, it 
+tells you how much time has elapsed.
+
+On the galactic chart, you can use the joystick to move the cursor around.
+Move it over a sector and that sector will be automatically selected.  This
+is the sector that you will go to on the next hyperwarp.
+
+The galactic chart itself cannot be damaged, but it is regularly updated by
+the subspace radio.  If the radio is damaged, it will no longer be updated.
+
+To exit the galactic chart, press 'F', 'A', or 'L' to change to a different
+view.
+
+-------------------------------------------------------------------------------
+G.  Hyperwarp Engines
+
+After you have chosen a sector on the galactic chart, switch to the fore view
+and press 'H' to activate the hyperwarp engines.  On Novice level, you just
+have to sit back and wait to arrive at your destination.  On the other three
+skill levels, you must steer during hyperwarp or you will end up in the wrong
+sector.  To steer, you move the joystick to keep the cursor in the middle of
+the crosshairs (crosshairs only appear when attack computer is on).  Once you
+arrive at a new sector, you can use the display box to help you steer in the
+direction of a target.
+
+If you enter a sector where there are Zylons present, the screen will flash
+red, an alarm will sound, and you will get a RED ALERT message at the top of
+the screen.
+
+If you want to abort hyperwarp, just press an engine key(0 - 9).
+
+The hyperwarp engines will never become damaged or destroyed.
+
+-------------------------------------------------------------------------------
+H.  Long-Range Sector Scan
+
+Press 'L' to bring up the Long-Range Sector Scan (LLRS).  This lets you see 
+targets that are out of visual range.  On the LLRS screen, your ship is at the 
+center, meteors are solid dots, enemies are flashing dots, and starbases look 
+like a tiny starbase.  While you are on this screen, the joystick still flies 
+the ship.  After you see a target you want, press left or right until it is in 
+front of your ship.  Next keep pushing up or down until the object is at its 
+farthest point from you.  You can also use the theta and phi coordinates at the 
+bottom to help, be sure that you use the Manual Target Selector 'M' to chose 
+the right target.
+
+-------------------------------------------------------------------------------
+I.  Subspace Radio
+
+The Subspace Radio updates the enemy positions on the Galactic Chart and also
+lets you know when a starbase has been surrounded.
+
+If the radio is damaged, the enemy locations will not be updated.  If it is
+destroyed, you will also not be alerted when a starbase is surrounded.
+
+-------------------------------------------------------------------------------
+J.  Manual Target Selector
+
+Press 'M' to switch to another target on the Attack Computer.  Since usually
+there will be no more than two enemies attacking at once, you will either have
+target 0 or 1(shown next to T: at the lower right of the screen).  T:3 
+indicates that you are currently in hyperwarp.
+
+Pressing 'M' again switches back to automatic targeting (usually the one that
+is shooting at you).
+
+You lose this ability if your Attack Computer is destroyed.
+
+-------------------------------------------------------------------------------
+K.  Tracking Computer 
+
+Press 'T' to activate the Tracking Computer, press 'T' again to deactivate it.
+When your tracking computer is active, then the view will automatically change
+from fore to aft and vice versa to "follow" the current target.
+
+I strongly recommend NOT using this function because if there is one Zylon in
+front of you and one behind, the view will constantly switch between fore and
+aft.  This can be fixed by using Manual Target Selection ('M'), but you are
+really better off just switching between fore and aft yourself.
+
+If your Attack Computer is destroyed, you lose this function.
+
+-------------------------------------------------------------------------------
+L.  Energy
+
+You start off with 9999 units of energy.  Listed below is the amount of energy
+drained by each action.
+
+Once per Action Drain
+
+Fire a photon torpedo              10 units
+Torpedo intercepts enemy torpedo  100 units
+Abort hyperwarp                   100 units
+
+Continuos Drain
+
+Shields On                        2.00 units per second
+Attack Computer On                0.50 units per second
+Life Support (always active)      0.25 units per second
+
+Engine Drain
+
+Thrust Level|  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+Drain/sec   | 0.00| 1.00| 1.50| 2.00| 2.50| 3.00| 3.50| 7.50|11.25|15.00|
+
+
+Hyperwarp Drain
+
+Distance  |   1|   2|   3|   4|   5|   6|   7|   8|   9|  10|  11|  12|  13|  
+----------|----|----|----|----|----|----|----|----|----|----|----|----|----|
+Drain/jump| 130| 160| 200| 230| 500| 700| 800| 900|1200|1250|1300|1350|1400|
+
+Distance  |  14|  15|  16|  17|  18|  19|  20|  21|  22|  23|  
+----------|----|----|----|----|----|----|----|----|----|----|
+Drain/jump|1550|1700|1840|2000|2080|2160|2230|2320|2410|2500|
+
+If your energy level drops below 1000, the Control Panel Display will flash
+red to warn you about your low energy.  If your energy level reaches 0, your
+mission will automatically be aborted.  You can restore your energy by docking
+with a starbase.
+
+*******************************************************************************
+V.  Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Mission Objective
+
+Your objective is to destroy all Zylon forces while keeping your ship and
+starbases from being destroyed.
+
+The Zylons will try to surround your starbases by placing ships in the four
+sectors adjacent to the starbase.  Once a starbase is surrounded, you have one
+minute to rescue it by destroying one of the enemy groups surrounding it.  If
+you don't rescue it in one minute, it will be destroyed and the Zylons will
+use the wreckage to build two new fighters.
+
+-------------------------------------------------------------------------------
+B.  What to do first
+
+The very first thing you should always do at the start of a new game is to 
+raise your shields by pressing 'S'.  You should then turn on your Attack 
+Computer by pressing 'C'.
+
+Now you need to seek out and destroy those Zylons.  Hit 'G' to bring up the
+Galactic Chart.  Move the cursor to a sector currently occupied by Zylons and
+then press 'F' to return to the fore view.  Now press 'H' to hyperwarp to
+that sector.
+
+-------------------------------------------------------------------------------
+C.  Engaging the Enemy
+
+When you arrive in a sector occupied by Zylons an alarm will sound, the screen
+will flash red, and you will get a RED ALERT message at the top of the screen.
+While you are arriving use the display box on the right side of the screen and
+try and steer towards the enemy.
+
+I recommend setting your engines to a low thrust level (about 4 or 5).  That
+way you are not just sitting still waiting to be hit.  Any thing higher than
+6 and the Zylons won't be able to keep up with you.
+
+Dogfighting is pretty straightforward.  Maneuver the crosshairs over a Zylon 
+and fire.  You can use your shots to block their incoming torpedoes.
+
+-------------------------------------------------------------------------------
+D.  Docking with Starbases
+
+If your ship has taken damage or you are low on energy, you can dock with a
+starbase.
+
+First you need to locate a starbase on your Galactic Chart.  Starbases are
+always in the center of a sector so try to position the cursor in the center of
+the square as best you can.
+
+Next activate your hyperdrives.  When you are arriving, try to line up with
+the starbase using the display box.  If you don't see the starbase, use your
+Long-Range Sector Scan to find it.
+
+As you approach the starbase, decrease your speed.  When you get to range 000,
+hit '0' to stop.  Center your crosshairs over the starbase.  You should see
+a message that says ORBIT ESTABLISHED followed by STANDBY.  You will then see
+the Transfer Vessel leave the starbase and head towards you.  If you move the
+joystick or press a button, docking will be aborted and you will have to try 
+again.  Once you see the message TRANSFER COMPLETE, you can go to the Galactic
+Chart and continue hunting Zylons.
+
+CAUTION!  If you shoot a starbase it will be destroyed and you will be docked
+points from your mission ranking.
+
+-------------------------------------------------------------------------------
+E.  Ending the Mission
+
+The following describes the three ways that a mission can end.
+
+...............................................................................
+1.  Mission Completed
+
+You complete the mission when you destroy every single Zylon.  You will get
+a message telling you that your mission is complete and you will be given a
+new rank based on your performance.
+
+...............................................................................
+2.  Mission Aborted
+
+The mission will be aborted when you run out of energy.  You can also abort
+the mission yourself if you press the 'Atari' key.  You will get a message
+saying the mission has been aborted and you will be given a new rank.
+
+...............................................................................
+3.  Starship Destroyed
+
+If your starship is hit by a torpedo or meteor while your shields are down,
+your ship will be destroyed.  The fleet will send a message to all other units
+notifying them of your death and will give you a posthumous ranking.
+
+*******************************************************************************
+VI.  Enemy and Friendly Guide
+
+-------------------------------------------------------------------------------
+A.  Enemies
+
+...............................................................................
+1.  Zylon Fighter
+
+These look like Tie Fighters.  They are general purpose fighters that have
+decent weapons and agility.
+
+...............................................................................
+2.  Zylon Cruiser
+
+These look like horseshoes.  They are patrol ships and are less aggressive than
+Zylon Fighters.  They are more maneuverable than the fighters but have weaker
+weapons.
+
+...............................................................................
+3.  Zylon Basestar
+
+These look like blinking diamonds.  They are equipped with shields.  In order
+to destroy them, you must hit them at close range.
+
+...............................................................................
+4.  Meteor
+
+These look sort of like white bowling balls.  They are very slow moving and
+easily destroyed.  If you collide with a meteor while your shields are down, 
+your ship will be destroyed.
+
+-------------------------------------------------------------------------------
+B.  Friendlies
+
+...............................................................................
+1.  Starbase
+
+These sort of look like UFOs.  You can dock with these to restore your energy
+and repair damage to your ship.  You can destroy starbases with one shot.
+
+...............................................................................
+2.  Transfer Vessel
+
+These are the tiny vessels that transfer energy and repair damage while you
+are docked at starbases.  I have never been able to destroy one of these, but
+if you destroy the starbase while one is out, it will disappear.
+
+...............................................................................
+3.  Fleet
+
+You never see the Federation Fleet.  You will receive a radio transmission from
+them at the end of each mission.
+
+*******************************************************************************
+VII.  Advanced Strategies
+
+-------------------------------------------------------------------------------
+A.  Tips
+
+-  The second your shields are damaged, hit 'H' to hyperwarp out of there.  
+   When you arrive at the new sector, plot a new course to the nearest 
+   starbase.
+
+-  When a starbase is surrounded, take out the smallest group first.
+
+-  Destroying a starbase yourself instead of allowing the Zylons to destroy
+   it will keep them from building the two new fighters and also results in 
+   less of a mission score penalty.
+
+-  If you need more practice using the targeting computer try this:
+   Go to a starbase sector and destroy the starbase.  Your attack computer will
+   now begin tracking meteors.  Use these to practice finding and attacking
+   enemies.
+
+-------------------------------------------------------------------------------
+B.  Compensating for Damage
+
+-  If your photon torpedoes are damaged, try to keep enemies on the side of the
+   cannon that still works, this increases the chances you have of hitting them
+   and blocking their shots.
+
+-  If your engines are damaged, you can use a higher thrust level than you
+   normally would.  Keep in mind that even though you are going slower, you
+   still burn the same amount of energy.
+
+-  If your engines are destroyed, you can hit 'H' then '0' to hyperwarp for a
+   bit then abort to move around inside a sector.
+
+-  If your Long-Range Sector Scan is damaged, you can use the theta and phi
+   coordinates to tell if an object is a reflection or real.  If when you try
+   to line up with the target and they increase, you are lining up with the 
+   reflection.
+
+-  If your Subspace Radio is damaged you can still find enemy groups by going
+   to the Galactic Chart and moving the cursor over a sector and seeing if it
+   has T > 0.  You should start by looking in sectors adjacent to an enemy
+   group's last known location.
+
+-------------------------------------------------------------------------------
+C.  Conserving Energy
+
+-  Instead of making a single long hyperjump, make several smaller ones (e.g.
+   a single jump of 12 sectors uses 1350 units of energy while three jumps of 
+   four sectors will burn only 690 units).
+
+-  Engine thrust level 6 is the most efficient in terms of speed per energy
+   drain.
+
+-  If your energy is dangerously low, you can turn off your shields to buy you
+   some more time to dock with a starbase.
+
+-  Wait until your energy is below 1000 before docking with a starbase.  The
+   less times you dock, the less energy you will waste traveling to and from
+   starbases.
+
+*******************************************************************************
+VIII.  Mission Rankings Explanation
+
+After the end of each mission, you will receive a rating based on your
+performance.  Your rating is based on the mission skill level, the number of
+enemies you destroyed, the amount of time and energy used, and the number of
+starbases that were destroyed.
+
+Here is the formula (from instruction book) :
+
+M + (6 * K) - (E / 100) - (T / 100) - (18 * Z) - (3 * Y)
+
+K = Number of Zylons you killed
+E = Amount of energy used
+T = Amount time in seconds
+Z = Number of starbases destroyed by Zylons
+Y = Number of starbases destroyed by you
+M = Mission Result (see chart below)
+
+Mission Result Chart
+            
+                                Result of Mission
+
+                         |Success|Aborted|Destroyed|
+               ----------|-------|-------|---------|
+               Novice    |     80|     60|       40|
+  Skill        Pilot     |     76|     60|       50|
+  Level        Warrior   |     60|     50|       40|
+               Commander |    111|    100|       90|
+
+
+
+Ranking Chart
+ 
+Rank                      Score
+ 
+GALACTIC COOK            0 -  47
+GARBAGE SCOW CAPTAIN     0 -  47
+ROOKIE                  48 -  79
+NOVICE                  80 - 111
+ENSIGN                 112 - 143
+PILOT                  144 - 175
+ACE                    176 - 191
+LIEUTENANT             192 - 207
+WARRIOR                208 - 223
+CAPTAIN                224 - 239
+COMMANDER              240 - 270
+STAR COMMANDER         272 - 303
+
+You will also be given a Class for your rank.  Classes are 1 - 5 with 5 being
+the lowest and 1 being the highest.
+
+
+*******************************************************************************
+IX.  My Best Rankings
+
+|---------------------------------------------------|
+|Skill      |Rank        |Class      |Mission       |
+|Level      |            |           |Outcome       |
+|-----------|------------|-----------|--------------|
+|Novice     |            |           |              |
+|           |Ace         |Five       |Completed     |
+|-----------|------------|-----------|--------------|
+|Pilot      |            |           |              |
+|           |Pilot       |Five       |Completed     |
+|-----------|------------|-----------|--------------|
+|Warrior    |            |           |              |
+|           |Pilot       |Four       |Completed     |
+|-----------|------------|-----------|--------------|
+|Commander  |            |           |              |
+|           |Novice      |Two        |Aborted       |
+|---------------------------------------------------|
+
+*******************************************************************************
+X.  Game Review
+
+This is my favorite 8-bit Atari game of all time.  If you took Tie Fighter and
+stripped away the fancy graphics, music, and voices you would end up with Star
+Raiders.  If you own an Atari 400/800/XE or other Atari 8-bit computer, this is
+definitely a must own game.

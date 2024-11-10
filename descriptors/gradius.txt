@@ -1,0 +1,155 @@
+Gradius is one of the earliest shooters on the NES, yet it gives the standards
+on NES shooters, your mission is to go to the enemy main ship and destroy the 
+"Mother Brain" on it. Sound easy but it's not, enemy ships, robots, volcanoes,
+even "living" creatures will come and get you, but at least, you have some heavy
+firepower, ground missiles, which hits enemys that may be too hard (Or too small) 
+to hit with your bullets, the double bullets, in which gives your ship a 45 degree
+shot to hit enemy above you. Then the laser which goes through opponents even after
+a direct hit (And leaving the enemy to space dust) , the options which gives a 
+helping hand by copying/mimicking your current weapons, then the shield, which
+gives you protection from being blown to pieces with the enemy firepower.
+
+There are 7 levels in the game. However, it is possible to skip a level. 
+(See Cheats/Codes section.)
+
+You will start with three (3) lives, the smallest digit is zero, if you
+run out of lives, it's game over, but it's possible to continue.
+(See Cheats/Codes section again.)
+
+Beating certain enemies (Most often colored differently from the other enemys)
+releases items that you can use to improve your ship, here are the list of 
+weapons/upgrades you can use. (In ascending order)
+
+Speed   = Doubles you ships speed.
+Missile = Fires ground missiles to hit enemy ships below you.
+Double  = Improves your main weapon to that it goes through enemy ships.
+Laser   = A more powerful weapon than the normal weapon, goes through enemies.
+Option  = Gives twice the firepower since they copy the weapons you have. Follows 
+          your ship.
+Shield  = Enables you to take more than 1 hit, allows up to 5 hits, when the shield
+          can only stand 1 hit more, the color of the shield changes from blue
+          to red. 
+
+Last thing, there is no actual ending in this game after the last boss, you will
+see Gradius escape the mother ship and it explodes, then the game displays a 
+message and you are given bonus points. Then the game starts again from the 
+beginning, but you have all the weapons from the last level plus the enemies 
+are faster. Finshing it again will give another message and a bigger bonus 
+points. (I haven't finished it a third time.)
+
+------------------------------------------------------------------
+
+III. Controls
+
+(As practical as it is, the NES has only 2 buttons, go figure : )
+
+B Button = Fires your weapons.
+A Button = Activates weapon/upgrades.
+Start    = Pauses/resumes game. 
+Select   = Chooses from 1 to 2 players, no use in actual gameplay.
+
+------------------------------------------------------------------
+
+IV.  Levels/Guide/Walkthrough
+
+To make it to the final level of the game (And actually finishing it.) you need
+at least 2 Speed Ups, Missiles, Laser/double, 2 options and a shield. 
+Optimal weapon which is found below suggests what weapon is best for that level.
+
+Extra Note : At every level with the exception of level 6 and 7, there will be
+             a boss ship that at first, will be invincible, and will only vulnerable
+             after it's red colored core (The circular thing in it's center.) turns 
+             to blue. You can skip a level if you can kill this ship fast enough.
+	     (See Cheats/Codes section.)
+
+Level 1
+----------
+Optimal Weapon (Either Laser or Double is fine.)
+
+This level is easy enough to get used to the game, in the middle of the level,
+you will see a mountain which has a hole in it, to through the hole to get bonus
+points.
+
+Boss : Volcano
+
+This boss is really a pain if you don't know what to do, The safest location is the
+Upper left corner of the screen (With the options below you), since your ground 
+missiles will stop the magma from hitting your ship.
+
+Level 2
+---------
+Optimal Weapon (Either Laser or Double is fine.)
+
+Still, an easy level, an easier route is to go on the upper part of the level, 
+although you will miss the bonus point found in the bottom of the screen in the 
+middle of the  level.
+
+Boss : Ship Barrage
+
+Like the first level, this boss is a real pain if you don't know what to do 
+(Especially you don't have upgrades) , the safest location I've seen in NEAR 
+the lower left corner of the screen with the options above you since the ships 
+that comes from above will be hit by your options, while the ones below will be 
+hit by the missiles 
+
+Level 3
+---------
+Optimal Weapon (Double, for the Moai heads that fire above you.)
+
+One of the hardest levels in the game, Moai Heads from the Easter Island comes to 
+life and starts firing numerous circular shaped blasts,  double is recommended since 
+the Moai heads that are on the ceiling can attack you from above.
+
+Boss :
+
+Remember the wierd-looking which fires indestructible circle shaped shots? Well, there
+they come, and in droves! Options and speed ups are needed to make it out alive.
+
+Level 4
+---------
+Optimal Weapon (Double, due to the upside-down nature of the level.)
+
+The same level as the first level, but suprise, it's upside down! the level's actually
+harder since on the first level, the harder enemies are on the air, but now, it's on
+the ground, and you might accidentally crash to the ground. Double is recommended here.
+
+Boss : Upside-down volcano 
+
+The same as the first level, best position is beside the tip of the volcano, so you
+can shoot the magma, and the missile will hit magma that escapes you is directed at 
+you.
+
+Level 5
+---------
+Optimal Weapon (Laser, due to the annoying enemies that you MUST kill quickly.)
+
+The most annoying level in this game, since this level is only filled with circular
+shaped things with claws protruding on them, to kill them, aim for the body, not the
+claws, although firing the claws will destroy it, I think it will make another claw.
+
+Boss :
+
+Almost the same as the actual level itself, unfortunately, it's almost not possible
+to avoid them now, kill them immediately.
+
+Level 6
+---------
+Optimal Weapon (Laser, the level is not that hard, for the boss)
+
+This level looks like a living organism, you will find star shaped enemy's that
+are not so easy to kill, use lasers, especially on the boss.
+
+Boss :
+
+This boss, looks like impossible, but to beat it, position yourself on the left side
+of the screen so that the first option is above you and the second option is below
+you so that the boss's fire can be countered by your options, it's weakness is the 
+center. Even though it looks like it has no weakness.
+
+Final Level
+---------
+Optimal Weapon (Double, since there are too many enemies everywhere.) 
+
+Boss : Not really a boss, since if you get to this point, congratulate yourself,
+       you've finished the game! Don't to anyting, don't play chicken with the mother
+       brain, you'll just screw it up.

@@ -1,0 +1,630 @@
+===============================================================================
+
+01)                            Level Information                         [PS01]
+
+===============================================================================
+
+When the game starts, you will be shown a screen with the "rules" for the world
+you are on.  There are over 5,000 known levels, so I will not be listing the
+"rules" for each individual level, but I will explain what everything means.
+
+O-------------------------------O
+| "WORLD TO CONQUER"            |
+| "[Password]"                  |    This is portion displays the Password and
+|                               |    Level Number.  Level 5120 onwards will
+| "BATTLE NUMBER IS [Number]"   |    display a Password, but it will not work.
+O-------------------------------O
+| "LANDSCAPE IS [Landscape]"    |    What the playing area will look like.
+O-------------------------------O
+| "EVIL IS [Speed]"             |    How fast the computer will work.  I find
+|                               |    that this is the most important field to
+|                               |    focus on, as the faster levels seem to be
+|                               |    the harder ones to complete.
+O-------------------------------O
+| "EVIL RATING IS [Difficulty]" |    How "smart" the computer is.  Although it
+|                               |    may seem scary to see this high, the AI is
+|                               |    very predictable with its attacks.  This
+|                               |    value does not seem to be too much of a
+|                               |    worry in comparison with the AI's speed.
+O-------------------------------O
+| "BUILD NEAR TOWNS ONLY"       |    Explains what needs to be in the Playing
+|                               |    Area of your team for you to be able to
+|            OR                 |    raise or lower land.  Not matter what
+|                               |    setting the game is on, you can ALWAYS
+| "BUILD NEAR TOWNS OR PEOPLE"  |    raise the land from water if your people
+|                               |    are on the screen.
+O-------------------------------O
+| "THE SWAMPS ARE [Swamps]"     |    
+O-------------------------------O
+| "WATER IS [Water]"            |    How deadly the water is.  Fatal is the 
+|                               |    best that you can get.  I would plan to
+|                               |    use Floods if the water is Fatal.
+O-------------------------------O
+| Population numbers and God    |    Displays how many people each side starts
+| Power abilities for both      |    with.  Also displays which side can use
+| sides                         |    which God Power.  You need to look at this
+|                               |    section to plan your attack.
+O-------------------------------O
+
+-------------------------------------------------------------------------------
+01_1)       Using Passwords                                            [PS01_1]
+-------------------------------------------------------------------------------
+
+When a "Level Information" screen appears, press Button 2.  This will bring you
+into the "Password" screen.  Use the directional buttons to move to a letter
+and use either Button 1 or 2 to choose the answer.  The backwards arrow is the
+"Delete" option, if you mistyped something.  When you have finished, select the
+"END" option.  If successful, you will load another level.
+
+                                 O-----------O
+                                 | Passwords |
+                                 O-----------O
+
+Here is just a list of the few passwords that I remember.  The reason why I
+have so many #5000+ codes is that the last password I had written down was
+#4999 and started playing the game at that point when I started writing this
+guide.
+
+0    = GENESIS             3    = TIMUSLUG            5    = SCOQUEMET
+8    = EOAOZORD            11   = NIMIHILL            16   = BADACON
+19   = BUGQUEEND           4999 = KILLOGOAL           5007 = ALPINPIL
+5010 = HOBEPAL             5012 = SHADIKEOUT          5017 = QAZHIPDON
+5020 = HAMGBT              5023 = DOUTLIN             5025 = HURTEAMAR
+5030 = SWAMPING            5035 = NIMINMET            5042 = HOBOMET
+5045 = CORKOPOND           5050 = VERYSODME           5057 = HURTDEME
+5062 = SWAGBHOLE           5065 = BURYOLD             5072 = BADDIPIL
+5077 = CORASOUT            5084 = HAMUOUT             5091 = TIMASLUG
+5096 = EOADIEORD           5103 = ALPIORD             5108 = SHADAED
+5116 = HAMINGOLD           5117 = FUTIOND             5119 = DOUASICK
+
+NOTE: Passwords provided will no longer work once you reach Level 5120.  Below
+      are a couple of Screenshots of level 5120 and my attempt to attempt using
+      the provided Password
+
+      http://www.gamefaqs.com/console/sms/image/588117.html?gf=2 - This is the
+      "rules" screen for level 5120.  Notice that the password is "SHISODHOLE".
+
+      http://www.gamefaqs.com/console/sms/image/588117.html?gf=3 - This is my
+      attempt to try the password.  Notice that it is spelled correctly.
+
+===============================================================================
+
+02)                          How to Play the Game                        [PS02]
+
+===============================================================================
+
+This section of the guide is dedicated to explaining how to play this game.
+To achieve this, it will explain the playing screen the user will be using in
+this game and the knowledge behind each section.
+
+.----------------------------------.
+|            /\   \       \        |
+|           /  \   \       \       |
+|\         /    \   \       \   5  |
+| \       /      \   \       \     |
+|  \     /  World \   \   7   \    |     Diagram 3.1 (left): This is a basic
+|   \   /          \  /\       \   |     outline of the playing window you will
+|    \  \    Map    \/  \       \  |     be using.  All subsections of this
+|     \  \          /    \       \ |     part of the guide will make a
+|      \  \  (2)   /      \       \|     reference back to this diagram.
+|       \  \      /        \       |
+|        \  \    /          \      |     The diagram is a birds-eye view of the
+|   6     \  \  /            \     |     playing window.  You will have a more
+|          \  \/              \    |     3D view, but this should allow you to
+|          /  /                \   |     notice the general area of the items
+|         /  /      Playing     \  |     mentioned in each subsection of this
+|        /  /                    \/|     part of the guide.
+|       /  /\       Area (1)     / |
+|      /  /  \                  /  |
+|     /  /    \                /   |
+|    /  /      \              /    |
+|   /  /        \            /     |
+|  /   \         \          /\     |
+| /     \    4    \        /  \    |
+|/  /\   \         \      /    \   |
+|  /  \   \         \    /      \  |
+| / 3  \   \         \  /   8    \ |
+|/      \   \         \/          \|
+'----------------------------------'
+
+-------------------------------------------------------------------------------
+02_1)       Area 1 - Playing Area                                      [PS02_1]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+Directional Buttons      = Move your hand around the Playing Area.  Can be used
+                           to move around the land when the hand is at an edge.
+Button 2                 = Moves your hand to Areas 3, 4 and 6.
+Button 1 + Up Button     = Raises land if you have enough Manna (see [PS02_7 for
+                           more information).
+Button 1 + Down Button   = Lowers land if you have enough Manna (see [PS02_7 for
+                           more information).
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+This is the area where you can interact with the population and terrain.
+Most of the strategies mentioned throughout this guide will be implemented in
+this portion of the Playing Window.  Learning how to use this area effectively
+in the earlier levels will be more vital than anything else in the later
+levels.
+
+-------------------------------------------------------------------------------
+02_2)       Area 2 - World Map                                         [PS02_2]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+There are no Controls for this section of the playing field.
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+This is a small map to display the current world you are in.  The flashing blue
+dots represent your people and the flashing red dots represent the enemy's
+people.  The Buildings are the black and white flashing dots.
+
+-------------------------------------------------------------------------------
+02_3)       Area 3 - Pause                                             [PS02_3]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+See the Description for this subsection.
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+There are two ways to Pause this game:
+
+1) Use the "Pause" button on the console.
+
+2) Move your control to sections 3, 4 and 6 (as shown in the above diagram) and
+   activate the "ZZZ" tile in the bottom-left corner.  Move around with the
+   directional buttons and activate the tile with button 1.
+
+Whichever way you pause the game, the "ZZZ" tile will be highlighted to show
+the game has been paused.  You can move across the different Menu Options and
+search the Playing Area, but you can not modify and land or use your Powers.
+
+-------------------------------------------------------------------------------
+02_4)       Area 4 - Search and Place Tiles                            [PS02_4]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+Button 2                  = Before pressing another button - Moves to Area 8.
+                            After pressing another button  - Moves to Area 1.
+Directional Buttons       = Moves the hand around to allow you to select other
+                            tiles.
+Button 1                  = Selects the highlighted tile (and moves back to
+                            Area 1, if applicable for the tile's use).
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+Search Tiles
+¯¯¯¯¯¯¯¯¯¯¯¯
+Ankh   [in Brackets] = Locate Leaders and Place Papal Magnets.  Starts with
+                       finding your Leader, then your Place Papal Magnet.
+                       It will then locate the Enemy's Leader, followed by
+                       their Place Papal Magnet.
+Shield [in Brackets] = Locates whatever is holding the Shield.
+Swords [in Brackets] = Locates any fights that are happening.  If there are no
+                       fights happening, it will locate your buildings at
+                       random.
+Helmet [in Brackets] = Locates your Knights.  If you do not have any Knights,
+                       it will locate your population at random.
+
+Place Tiles
+¯¯¯¯¯¯¯¯¯¯¯
+?                    = Gives person/building the Stats Shield.  If they die
+                       through battle, the victor will gain the Stats Shield.
+Ankh [with an Arrow  = Places Place Papal Magnet in give location.  This can
+      Pointing Down]   only be done if you have a person holding the Leader
+                       symbol (Cross for Good, Skull for Evil).
+
+-------------------------------------------------------------------------------
+02_5)       Area 5 - Shield (Stats)                                    [PS02_5]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+There are no Controls for this section of the playing field.
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+   .-.---.---.-.
+   |B|   |   |R|
+   |l| 1 | 2 |e|
+   |u|   |   |d|   Diagram 3.2 (left): A rough diagram of the shield in the
+   |e|---|---| |   top-right corner of the screen.  Each number represents the
+   | |   |   | |   quarter of the shield it is in.  These numbers will be
+   |B| 3 | 4 |B|   mentioned below
+   |a|   |   |a|
+   |r|\  |  /|r|
+   '-' \_|_/ '-'
+
+The "Blue Bar" and "Red Bar" on the sides of the shield displays the Good
+(Blue) and Evil (Red) populations.  You want the "Blue Bar" to be as high as
+possible, while the "Red Bar" is as low as possible.
+
+The stats shown on the shield in comparison to who/what is holding it and if
+they are in a battle or not.  Below will explain what everything in the shield
+is explaining.
+
+People/Knights
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+This is relevant to anyone that is walking around without being in a fight.
+
+1 = Displays whether the person is Good or Evil.
+2 = Displays the weapon the person is using.
+3 = Displays the person walking around.
+4 = I am not too sure what both bars represents, but I do know that once both
+    bars are empty, the person dies.  The brighter the yellow in the left bar,
+    the more powerful he seems to be.  It is a good idea to convert Leaders
+    into Knights when they are halfway to filling a very bright yellow bar, as
+    this will allow them to survive for a longer period of time.
+
+Buildings
+¯¯¯¯¯¯¯¯¯
+This is relevant to anyone inside a building.  Once a person leaves a building,
+they take the shield with them.
+
+1 = Displays whether the building is Good or Evil.
+2 = Displays the weapon the building will defend with.
+3 = Displays a flag (blue for Good, red for Evil).
+4 = Left bar represents the amount of manna you can get from a building, while
+    the right bar represents how much longer it will be until a person comes
+    out of the building.  The better the building, the higher the left bar will
+    be, but the right bar will not fill up as quickly.
+
+Fights
+¯¯¯¯¯¯
+This is relevant to any fight that the shield is covering.
+
+1 = Displays whether the person with the shield in the fight  is Good or Evil.
+2 = Displays the weapon the person with the shield in the fight is using.
+3 = Displays a Good person and an Evil person fighting.
+4 = Left bar represents the Good person's progress in the fight, while the
+    right bar represents the Evil person's progress in the fight.  When one of
+    the two bars are empty, that person is killed.
+
+-------------------------------------------------------------------------------
+02_6)       Area 6 - God Powers                                        [PS02_6]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+Button 2                  = Moves to Area 1
+Directional Buttons       = Moves the hand around to allow you to select other
+                            tiles.
+Button 1                  = Selects the highlighted tile and moves to Area 1.
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+Skull and Crossbones          = Start Armageddon.
+Drowning Man [in White Dots]  = Flood the lowest land level.
+Drowning Man [in Grey Dots]   = Swamps a specified area.
+Volcano [or Mountain]         = Starts a Volcano in the Playing Area.
+Sound wave                    = Creates an Earthquake in the Playing Area.
+Helmet and Spear              = Change your Leader into a Knight.
+
+-------------------------------------------------------------------------------
+02_7)       Area 7 - Manna Bar                                          [PS02_7]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+There are no Controls for this section of the playing field.
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+This part of the subsection will describe all the God Powers on the Manna Bar,
+from left to right.  The images will reflect a tile that you can active in
+either Area 4 [PS02_4] or Area 6 [PS02_6], excluding the first image.
+
+Raising/Lowering Land
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Allows you to raise or lower the land.
+
+Place Papal Magnet
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Allows you to place your Place Papal Magnet wherever you want.
+
+Earthquake
+¯¯¯¯¯¯¯¯¯¯
+Starts an Earthquake in the Playing Area.  This will cause an uneven section
+of the target land, with the possibility of downgrading some buildings.
+
+Swamp
+¯¯¯¯¯
+Adds some swamps in the target area.  Most normal people will walk into them.
+
+Knight
+¯¯¯¯¯¯
+Turns the Leader into a Knight.  Knights avoid any swamps in their path and
+only focus on fighting the enemy.  Unfortunately, they will destroy buildings
+that they fight instead of turn them to their side.
+
+Volcano
+¯¯¯¯¯¯¯
+I generally call this "Mountain".  It raises the target area (where you are
+looking in the Playing Area when activated) very high and adds solid rocks.
+
+Flood
+¯¯¯¯¯
+Removes the lowest land level from the sea.
+
+Armageddon
+¯¯¯¯¯¯¯¯¯¯
+Removes all buildings and Knights from the level.  Places both Place Papal
+Magnets in the middle of the level and builds land up to allow everyone to
+reach the Place Papal Magnets.  Everyone gathers to the Place Papal Magnets to
+gather together to try and defeat the combined force of the Enemy's person.
+
+-------------------------------------------------------------------------------
+02_8)       Area 8 - Population Behaviour                              [PS02_8]
+-------------------------------------------------------------------------------
+
+                                 O----------O
+                                 | Controls |
+                                 O----------O
+
+Button 2                  = Moves to Area 1
+Directional Buttons       = Moves the hand around to allow you to select other
+                            tiles.
+Button 1                  = Selects the highlighted tile and moves to Area 1.
+
+                                O-------------O
+                                | Description |
+                                O-------------O
+
+Person = Makes everyone gather together before building houses.  I generally
+         do not use this option, as I prefer to build up the Leader than some
+         random person.
+Swords = Start fighting the enemy.  I use this when I notice that I have a good
+         population advantage in comparison to the computer.  Sometimes, it may
+         be better just to keep building more houses than to fight.
+Flag   = Build houses.  This is the default value and should remain like that
+         until your population is a lot higher than the enemy's population.
+Ankh   = Gather to the Place Papal Magnet.  If you have a Leader, everyone will
+         gather to him while he makes his way to the Place Papal Magnet.  This
+         is a good way to get a powerful Leader/Knight.
+
+===============================================================================
+
+03)                              Strategies                              [PS03]
+
+===============================================================================
+
+This section assumes that you have either read the previous section or already
+know how to lay the game.  This may cover some basics that were not fully
+covered in the previous section, but this is to provide reasonings for any
+strategies provided.
+
+-------------------------------------------------------------------------------
+03_1)       Gaining Population                                         [PS03_1]
+-------------------------------------------------------------------------------
+
+This should also be the primary focus when you are starting any level, as more
+people can help you mount a better attack.  The first thing you need to do is
+find your people (the bigger grouping would be the better find) and make them
+build their houses to a higher manna-gaining house.  You want them to build the
+big castles if possible.
+
+NOTE: Trust me on this.  While it is true that the more manna-gaining buildings
+      provide people releases slower than the less manna-gaining buildings,
+      there is a trick to force people out early with little impact on the manna
+      you gain.  Remember that we need manna to raise/lower land and gain a
+      larger population.
+
+If you have any big castles, lowering the land around them every 30 seconds
+might entice someone to come out of the castle and start looking for somewhere
+to build a new house.  It is a good idea to get back your big castle once the
+person has started to move away from the building, or he may decide to re-enter
+it.  If you have multiple big castles near each other, you may be able to lower
+more of them down with one move and get more people building new houses.
+
+Depending on whether or not you are planning for a flood will depend on the
+height of your land.  There is little need to build higher than 2 levels above
+the sea for a flood tactic, but you may end up with the computer trying to
+lower the edges of your land to cater for some of their buildings.  I used to
+always plan for a flood strategy, but I have started to find that floods are
+only useful when the water is fatal (basically, near the beginning).
+
+-------------------------------------------------------------------------------
+03_2)       Attacking the Enemy                                        [PS03_2]
+-------------------------------------------------------------------------------
+
+There are many ways to attack the enemy in this game.  Depending on how you use
+what you are given will depend on how easy this part of the game will be.  This
+sub-section should give you some useful points to beat the hardest computer.
+
+"Start fighting the enemy" Order
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Surprisingly terrible.  Some people will keep building and others will go out of
+their way to attack a castle on the other side of the world.  Sometimes, they
+do attack the houses closer to you, but you should not rely on this to win the
+war.  I would still recommend using this, as it is good to sap away some of the
+computer's buildings.
+
+Raising/Lowering Land
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Only good if you spot an enemy on a piece of land that takes one more lowering
+to sink the person.  You could use it to sink powerful enemies when they are in
+a fight with your people as well.
+
+Place Papal Magnet
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Coupled with the "Gather to the Place Papal Magnet" order, you can build a
+strong Leader.  You could then move this into the Enemy's big castles to force
+your Leader to fight for the castle, so you also get a castle for the battle,
+not just ruins.  I generally use this to gain a strong Leader and would not
+bother with any attacking use.
+
+Earthquake
+¯¯¯¯¯¯¯¯¯¯
+Use this in between the enemy's big castles.  Always try to use 3 or more of
+these in different places along the enemy's buildings to cause lots of
+disruptions.  The computer likes to have a flat land around his buildings, so
+it will always repair the broken land caused by your Earthquakes.
+
+Swamp
+¯¯¯¯¯
+Use this to either kill a powerful enemy Leader/Knight or to down-grade an
+Enemy's building.  Excluding Knights, anyone will walk into Swamps, so you may
+want to be careful if your people are starting to attack near any Swamps you
+have laid down.
+
+If you are using this against buildings, I would suggest that you think about
+using Earthquakes instead.  While the killing factor of Swamps is a plus, you
+can cause more disruption quicker with Earthquakes than Swamps.
+
+Knight
+¯¯¯¯¯¯
+Before you turn a Leader into a Knight, You should put the shield on your
+Leader to monitor his stats.  When the left bar in the bottom-right quarter of
+the shield (in the top-right corner of the screen) is bright yellow and half
+full, you should either turn the Leader into a Knight or wait for the bar to
+fill up some more.
+
+If you want to make the Leader quickly gain the bright yellow bar status, use
+the "Gather to the Place Papal Magnet" order and then force people out of the
+buildings.
+
+Volcano
+¯¯¯¯¯¯¯
+The best thing to do with this is cast it when you are deep in Enemy territory,
+near as many bid castles as possible.  Using this to get rid of powerful Enemy
+buildings is the only use for it, but it is also the best way to win sometimes.
+
+Flood
+¯¯¯¯¯
+I would only recommend using this when the water on the level is fatal.  Just
+build your buildings on land that is 2 or more levels above sea level, although
+I would only recommend 2 levels above sea level.  Any more and it will just
+take too much manna/time.
+
+It may be a good idea to forget using floods completely.  It takes a lot of
+time to implement and takes a while to get back the lost manna if some Enemies
+survive.  Additionally, you are close enough to the Armageddon power to just
+wait until you can start that.
+
+Armageddon
+¯¯¯¯¯¯¯¯¯¯
+Activate this ONLY if you have a noticeably larger population in comparison to
+the computer.  If you do not know if your population is greater than the
+computer's population, don't risk using this.
+
+-------------------------------------------------------------------------------
+03_3)       Coping with Enemy Attacks                                  [PS03_3]
+-------------------------------------------------------------------------------
+
+Do you really think the Enemy will just lay back and let you defeat them?  Yes!
+Let me rephrase that.  Do you really think that the Enemy will just lay back
+and let you defeat him ON EVERY LEVEL?
+
+Anyway, when the Enemy does start getting powers to attack you, this section
+will help you cope with these attacks with minimal damage.
+
+"Start fighting the enemy" Order
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+I do not know if the computer actually uses this order, but I do know that it
+does implement other Orders.  You just have to cope with these attacks and hope
+that your person will beat his.  The main challenge will be the Leader, who can
+be swamped or drowned if you feel as if he is strong enough to cause damage.
+
+Place Papal Magnet
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+The computer will move their Place Papal Magnet when their Leader is stronger
+than yours.  You can attempt to drown their Leader, Swamp their leader or just
+stop the people gathering at your Place Papal Magnet.
+
+Earthquake
+¯¯¯¯¯¯¯¯¯¯
+Only used against buildings, and generally against a clump of big castles.
+Generally, just fix the land again.  It will get annoying, just just hang in
+there and victory should come.
+
+Swamp
+¯¯¯¯¯
+This is trouble.  Once you hear a slurping sound while you were not creating a
+Swamp, head back to your buildings and find the newly formed swamps.  Get rid
+of them before your population starts walking into them.  The computer will use
+this to either reduce the big castles or near your Place Papal Magnet to kill
+your people (when you have people gathering there).
+
+NOTE: If there are no fights happening, you can use the "Search for Fights"
+      tile to locate your buildings to speed up the process of finding the area
+      affected by the Swamp attack.
+
+Knight
+¯¯¯¯¯¯
+Swamp or attempt to drown them to deal with them.  These Knights are always
+going to be strong, so you may have little chance to beat them in a fight.
+There is a trick where you attempt to drown a Knight in combat will revert him
+back to a normal person that may also come in handy.
+
+Do not feel like 2 or 3 enemy Knights means the end of your chances of victory.
+I have managed to defeat the enemy after 3 Knights attacking me, so there is a
+way back from this.
+
+Volcano
+¯¯¯¯¯¯¯
+This becomes a problem at times.  Do not try to build back down to the level
+you were at, as that will just waste manna.  If possible, start lowering the top
+of the area to a flat piece of land.  You can also hope that your people will
+just spread out and build around the new Volcano.
+
+NOTE: The computer may also cast a few Earthquakes after starting a Volcano.
+      These will lower the area back to the ground, where your job would be to
+      get rid if the solid rocks in the water and smooth out the land.  This is
+      a nice combination for you to recover from.
+
+Flood
+¯¯¯¯¯
+The computer was desperate.  You can deal with this in 2 ways:
+
+1) Locate everyone that is part of your team and get them to the safety of
+   some land, then focus on getting buildings.
+2) Locate a couple of people and build around them until they have a big
+   castle, then locate any survivors that still remain.
+
+I generally go with option 2 as it gives me the edge over the computer in terms
+of rebuilding my population up.  However, option 1 would keep more people alive
+in comparison to option 2 and is the more recommended option.  Either way, the
+computer would most likely have the majority of their buildings wiped out with
+most of your buildings.
+
+NOTE: When this happens and you have no Knights, you can use the "Search
+      Knight" tile to find all of your people.
+
+Armageddon
+¯¯¯¯¯¯¯¯¯¯
+You're most likely screwed.  What?  Did you think I could help you with this?

@@ -1,0 +1,631 @@
+Welcome to 'Track & Field' for the NES, released by Konami in 1985. The game is
+called 'Hyper Olympic: Gentai Ban!' in Japan and 'Track & Field in Barcelona'
+in Europe (released as late as 1992!).
+
+Several of these exact events were included in 'Hyper Sports' as well but that
+games uses the Hyper Shot peripheral instead.
+
+Suggestions, comments or errors - email me about it. Enjoy!
+
+
+===============================================================================
+02.)                    BASICS                                       G0200
+===============================================================================
+
+Controls:
+`````````
+ ______| |____________________________
+|          .............              |
+|          .............   Nintendo   |
+|    _     .............              |
+|  _| |_   SELECT..START              |
+| |_ O _|  ..__.....__..    _    _    |
+|   |_|     (__)   (__)    (_)  (_)   |
+|          .............     B    A   |
+|_____________________________________|
+
+The game has eight events, all using almost identical controls. Check the
+individual events for more details. The A button is generally used for running
+and building up speed, thus called the 'speed button', whereas the directional
+pad sets angles. I have personally used UP but you can also use the other
+directions. This will be referred to as the 'action button'.
+
+SELECT is used to cycle through the events at the mode selection.
+START pauses the game and resumes it again later.
+
+
+Modes:
+``````
+There are four options on the main menu. The first two are for 1 Player. If you
+play with another human player then select one of the lower two options. At the
+next screen you can pick the event that you want to start out with, cycle with
+the SELECT button.
+
+
+Goal:
+`````
+The goal is to pass the qualification set by each event. Once you have made it
+through all eight events the round re-starts from the first event with a higher
+qualification standard for each event. Later one the event will require you to
+beat the default world record to pass. The game is over when you fail to
+progress to the next stage. After ten rounds the qualification requirement will
+stay the same and the events loop around forever. Without the use of a turbo
+controller or cheat device you would have to be inhuman to keep on going
+forever but it is possible to beat round ten if you are really good.
+
+
+Score:
+``````
+Each even has a score you obtain for achieving a certain result. Some events
+simply take the score of the actual even (for example archery and skeet
+shooting). The overall score is combined for a hi-score which ends when you
+finally fail an event and stop collecting points. The maximum amount you can
+score is 999999 due to the game's physical limit in storing the data. The
+current will keep counting, re-starting from 0. You would have to keep this on
+a score yourself by combing the million(s) you have passed already and the
+current amount.
+
+
+Display:
+````````
+ _____________________________________
+| ................................... |
+| . SCORE            WORLD RECORD   . |\
+| .HI 000000                        . | \
+| .1P 000000       QUALIFY  xxxxxx  . |  \    .
+| .2P 000000                        . |   \  /_\
+| .                                 . |   / / _ \
+| .1P ......                        . |  / /_/ \_\
+| .                                 . | /
+| .SPEED [===============]0000cm/sec. |/
+| ................................... |
+|                                     |
+| ................................... |
+| .                                 . |
+| .               ___               . |
+| .              | _ )              . |
+| .              | _ \              . |
+| .              |___/              . |
+| .                                 . |
+| ................................... |
+|_____________________________________|
+
+The display is split into two halves. Part A changes slightly depending on the
+event you take part in. For example, the 100m Dash and 110m Hurdles will have
+three dots representing false starts, whereas other events which allow for
+three attempts will state the current best. In the two running events there is
+only one attempt and thus the right area will have the time rather than the
+attempts mentioned.
+
+Part B is always the action of the sport.
+
+
+Cheating:
+`````````
+This is an old game but it is a lot of fun to play legitimately. Thanks to
+emulation and cheat devices it is possible to really stress the game's
+mechanics and put it on test for what can be achieved.
+
+Using a turbo controller for example, can give you running speeds of up to
+1600cm/sec. This will screw you up in the triple-jump but will do wonders in
+most other events sans the shooting (archery and skeet).
+
+Just keep in mind that cheating takes away some fun of playing, and do not try
+to pull one over your friend who is unaware of what you are doing...
+
+
+===============================================================================
+03.)                    EVENTS                                       G0300
+===============================================================================
+
+-------------------------------------------------------------------------------
+                        100-Meter Dash                               G0310
+-------------------------------------------------------------------------------
+
+Default World Record: 09sec93
+
+
+The most basic event. Once the athletes are ready, meaning when the guy raises
+his butt and when you see the third light red (orange more like) you should
+bash the A buttons as fast as you can. The speed bar will grow and your athlete
+run towards the finish line. That is about it, no leaning forward at the end or
+anything fancy. A nice easy start to get used to the game.
+
+If you start too early it counts as a foul (false start). You may have up to
+two false starts but on the third one you are disqualified.
+
+
+Bonus:
+``````
+Should you achieve the exact same time as the CPU runner you will get a 3,000
+bonus point. Unfortunately the other guy is not the best runner.
+
+
+Qualification:
+``````````````
+Round  1: 14sec00
+Round  2: 13sec00
+Round  3: 12sec50
+Round  4: 12sec00
+Round  5: 11sec75
+Round  6: 11sec25
+Round  7: 11sec00
+Round  8: 10sec50
+Round  9:  9sec93 (Default World Record!)
+Round 10:  9sec50
+
+
+Scoring:
+````````
+07sec20     15600
+07sec21     15580
+07sec22     15560
+07sec23     15540
+07sec24     15520
+07sec25     15500
+07sec26     15480
+07sec27     15460
+...
+08sec00     14000
+...
+09sec00     12000
+...
+10sec00     10000
+...
+11sec00      8000
+...
+12sec00      6000
+...
+13sec00      4000
+...
+14sec00      2000
+
+The best time is 07sec20. Each second you run slower is -20 points to your
+score.
+
+
+-------------------------------------------------------------------------------
+                        Long Jump                                    G0320
+-------------------------------------------------------------------------------
+
+Default World Record: 08m90
+
+
+Build up the speed as fast as you can by bashing the A button. When you reach
+the white line on the track you need to press and hold down the action button
+until it reaches the ideal angel of 45 degrees. Let go off the button and the
+athlete should make a nice long jump. The closer to the white line the better
+but stepping over it results in a foul.
+
+You have three attempts to qualify. If you do not start your attempt within
+around twelve seconds you fail.
+
+
+Bonus:
+``````
+If you achieve a distance where the last two digits are the same, e.g. 8m33,
+you score an extra 3,000 bonus points.
+
+
+Qualification:
+``````````````
+Round  1: 05m50
+Round  2: 06m50
+Round  3: 07m00
+Round  4: 07m50
+Round  5: 08m00
+Round  6: 08m25
+Round  7: 08m50
+Round  8: 08m90 (Default World Record!)
+Round  9: 09m50
+Round 10: 10m00
+
+
+Scoring:
+````````
+14m00     22000?
+...
+13m72     21440
+...
+13m00     20000
+...
+12m00     18000
+...
+11m00     16000
+...
+10m00     14000
+...
+ 9m00     12000
+...
+ 8m00     10000
+...
+ 7m00      8000
+...
+ 6m00      6000
+...
+ 5m50      5000
+
+The best I have achieved is 13m72 but I suppose it could go up to 14m00. Each
+centimeter jumped less is -20 points.
+
+
+-------------------------------------------------------------------------------
+                        110-Meter Hurdles                           G0330
+-------------------------------------------------------------------------------
+
+Default World Record: 12sec93
+
+Once the athletes are ready, meaning when the guy raises his butt and when you
+see the third light red (orange more like) you should bash the A buttons as
+fast as you can. Whenever a hurdle comes up, press the action button to jump
+over it clean. If you do this too early or too late you will stumble and lose a
+lot of time. Unlike the real event or some other simulations, jumping either
+tight or wide over the hurdle takes the same amount of time. This means you do
+not have to worry how well you clear the hurdle, just that you do.
+
+Generally you have a lot of time between dashing and jumping as the hurdler
+spends a lot of time in the air. Also remember to check the 100m marker because
+the finish line looks almost identical to a hurdle.
+
+If you start too early it counts as a foul (false start). You may have up to
+two false starts but on the third one you are disqualified.
+
+
+Bonus:
+``````
+Should you achieve the exact same time as the CPU runner you will get a 3,000
+bonus point. Unfortunately the other guy is not the best runner.
+
+
+Qualification:
+``````````````
+Round  1: 15sec50
+Round  2: 14sec50
+Round  3: 14sec00
+Round  4: 13sec50
+Round  5: 13sec25
+Round  6: 12sec93 (Default World Record!)
+Round  7: 12sec50
+Round  8: 12sec00
+Round  9: 11sec50
+Round 10: 11sec00
+
+
+Scoring:
+````````
+09sec00   15000?
+09sec62   14380
+10sec00   14000
+...
+11sec00   13000
+...
+12sec00   12000
+...
+13sec00   11000
+...
+14sec00   10000
+...
+15sec00    9000
+...
+15sec50    8500
+
+The best time I have achieved is 9sec62. Each second slower is -10 points.
+
+
+-------------------------------------------------------------------------------
+                        Javelin Throw                                G0340
+-------------------------------------------------------------------------------
+
+Default World Record: 99m72
+
+Build up the speed as fast as you can by bashing the A button. When you reach
+the white line on the track you need to press and hold down the action button
+until it reaches the ideal angel of 45 degrees. Let go off the button and the
+athlete should make a nice long throw. The closer to the white line the better
+and the athlete will release the javelin immediately when you press the action
+button (unlike in some other games where he still runs a few meters). If you
+step over the line the attempt is a foul.
+
+You have three attempts to qualify. If you do not start your attempt within
+around twelve seconds you fail.
+
+
+Bonus:
+``````
+If you throw at 80 degrees you will hit a space ship and score 3,000 points.
+This fouls your throw and you can also only do it once per round.
+
+
+Qualification:
+``````````````
+Round  1:  65m00
+Round  2:  70m00
+Round  3:  75m00
+Round  4:  80m00
+Round  5:  85m00
+Round  6:  90m00
+Round  7:  95m00
+Round  8:  99m93 (+Default World Record!)
+Round  9: 105m00
+Round 10: 110m00
+
+
+Scoring:
+````````
+135m81    21160
+...
+130m61    20120
+...
+126m79    19350
+...
+124m95    18990
+124m90    18980
+...
+121m56    18310
+...
+117m43    17480
+117m00    17400
+...
+104m78    14950
+...
+100m77    14150
+...
+ 95m64    13120
+...
+ 90m24    12040
+...
+ 80m92    10180
+
+The score is roughly determined by taking off 2 points for each centimeter less
+than the max.
+
+
+-------------------------------------------------------------------------------
+                        Skeet Shooting                               G0350
+-------------------------------------------------------------------------------
+
+Default World Record: 4300
+
+There are two possible places the skeet will be catapulted from, the gray box
+on the right and the one on the left. You have to targets which will
+automatically aim at the skeet if it comes in the vertical line of it. It will
+also have a red border when the skeet is passing through. The right target is
+controlled with the speed button whereas the left target is used with the
+action button. Shoot the skeet as soon as it is possible to not only get the
+points but also getting rid off it from the screen. With more and more coming
+in you do not want this to be too complicated. Although it is possible to still
+shoot the skeet with the second attempt (i.e. when you missed it first and it
+then passes by the other target zone) this really just complicates things with
+more skeet coming in at the same time.
+
+The longer your hitting streak the bigger your target zone will get. This is a
+must if you are aiming to hit them all. One miss during the game and it will be
+very hard to get back into it. The skeet will also come in faster as you
+increase your streak. There are two bonus skeet worth more points that fly in
+only if you have been on one of these streaks. The first one is blue and the
+second one is red.
+
+Each white skeet is worth 100 points, the blue one is worth 500 and the red one
+1,000. The event lasts for 15 seconds.
+
+You have three attempts to qualify.
+
+
+Bonus:
+``````
+If you hit all of the skeet, a space ship with pass by at the end. Shoot it
+down for an extra 3,000 points. If you shot it down the second target (i.e. let
+it pass the first one), a bird will appear afterwards. Shoot this bird for a
+5,000 bonus PER TARGET (twice!). Getting these will guarantee progressing
+through this round even in later stages, result in 18,100 or 18,200 points (the
+max world record attainable).
+Note: Some people claim you can hit the bird twice in each target zone, but I
+      have yet to see that for myself. I have tried many times without much
+      luck. They might be thinking of the same event in another game...
+
+
+Qualification:
+``````````````
+Round  1: 2400
+Round  2: 2800
+Round  3: 3000
+Round  4: 3200
+Round  5: 3400
+Round  6: 3600
+Round  7: 3800
+Round  8: 4000
+Round  9: 4200
+Round 10: 4400 (+Default World Record!)
+
+
+Scoring:
+````````
+The score is the same as you shoot. Thus if you shoot 4300 points then you will
+also have 4300 points as your score.
+
+
+-------------------------------------------------------------------------------
+                        Triple Jump                                  G0360
+-------------------------------------------------------------------------------
+
+Default World Record: 17m89
+
+Build up the speed as fast as you can by bashing the A button. When you reach
+the white line on the track you need to press and hold down the action button
+until it reaches the ideal angel of 45 degrees. As you land, press and hold the
+action button again, and also aiming for a 45 degree jump. Continue this one
+more time for the triple-jump to be successful. Getting as close to the white
+line helps to achieve longer distances, however, if you step over the line then
+the attempt is a foul.
+
+If you run too fast and get the second landing into the sandbox you will get a
+foul. This will probably only happen to you if you use a turbo controller.
+
+You have three attempts to qualify. If you do not start your attempt within
+around twelve seconds you fail.
+
+
+Bonus:
+``````
+If you get the last two digits the same, for example 17m99, you score an extra
+1,000 bonus points.
+
+
+Qualification:
+``````````````
+Round  1: 13m00
+Round  2: 14m00
+Round  3: 15m00
+Round  4: 16m00
+Round  5: 16m50
+Round  6: 17m00
+Round  7: 17m50
+Round  8: 18m00 (+Default World Record!)
+Round  9: 18m50
+Round 10: 19m00
+
+
+Scoring:
+````````
+21m00     11000
+...
+20m00     10000
+...
+19m00      9000
+...
+18m00      8000
+...
+17m00      7000
+...
+16m00      6000
+...
+15m00      5000
+...
+14m00      4000
+...
+13m00      3000
+
+I believe the maximum jump is around 21m00 although it could be much longer.
+The score is determined by adding 10 points for each centimeter after the 10m
+mark.
+
+
+-------------------------------------------------------------------------------
+                        Archery                                      G0370
+-------------------------------------------------------------------------------
+
+Default World Record: 3500
+
+At first you have to select the wind. This stays static throughout the event
+for all three attempts. Wind is preferred to be 0 but some small amount is
+still easy. Later rounds will have higher numbers, up to 7 or 8 I believe. The
+problem is that with the wind factor you have to change your aiming
+accordingly. Usually you want the bulls-eye to have passed the bottom of the
+target display in the top right corner before letting lose your attempt. If you
+are too early or too late then you should adjust immediately. This adjustment
+period should only take one more shot or else you are screwed for a decent
+score. After round three, however, the target will be faster and return from
+the bottom of the screen as well. Additional targeting is required from this
+new position.
+
+As for the angle, 5.00 degrees is ideal. Press and hold the speed button to
+achieve this. You have to time this well with the moving target as the angle
+will take a short amount of time before the arrow is let go.
+
+A direct hit into the bulls-eye is worth 600 points and a "Nice" message.
+Anything in the yellow ring is still over 350, anything on the red ring is
+between 250 and 350, anything in the white ring is 100 to 250 points and
+anything outside the blue ring is only worth 10 points, providing you actually
+hit the target.
+
+You have three attempts to qualify, with eight arrows to shoot each time.
+
+
+Bonus:
+``````
+If you only hit the second last (seventh) arrow into the bull's-eye, a Maneki
+Neko (good-luck cat, some people say it is a bunny but hmm...) will appear
+instead of the moving target and it will have an apple on its head. Shoot the
+apple for 1,000 bonus points but more importantly - three more arrows to shoot!
+This potentially leads to a the highest score attainable: six shots worth 400
+points and the arrow to shoot the bull's eye, get the cat bonus of 1000 and
+shoot three more bull's eyes with the additional arrows.
+4x400 + 1000 + 4x600 = 5800!
+
+
+Qualification:
+``````````````
+Round  1: 2500
+Round  2: 2700
+Round  3: 2800
+Round  4: 2900
+Round  5: 3000
+Round  6: 3100
+Round  7: 3200
+Round  8: 3300
+Round  9: 3400
+Round 10: 3500 (Default World Record!)
+
+
+Scoring:
+````````
+The score is the same as you shoot. Thus if you shoot 3500 points then you will
+also have 3500 points as your score.
+
+
+-------------------------------------------------------------------------------
+                        High Jump                                    G0380
+-------------------------------------------------------------------------------
+
+Default World Record: 2m36
+
+Build up the speed as fast as you can by bashing the A button. When you reach
+the white line on the track you need to press and hold down the action button
+until it reaches the ideal angel of 65 degrees. You want to get as close as you
+can without fouling or hitting the bar on your way up. Once you are in the air,
+press the action button again to curve your back. The athlete will also do this
+automatically when he reaches the max height. However, he will not raise his
+legs and this is important if you land close behind the bar. Press action again
+to get your feet up and hopefully clear the required height. This is the
+trickiest events to master in terms of technique.
+
+You have three attempts to qualify. You can only jump the qualification
+requirement, no more and obviously no less. You will jump higher in later
+rounds but the max is 2m44. If you do not start your attempt within around
+twelve seconds you fail.
+
+
+Bonus:
+``````
+If you clear the bar three times in a row you will get 3,000 bonus points.
+
+
+Qualification:
+``````````````
+Round  1: 2m26
+Round  2: 2m28
+Round  3: 2m30
+Round  4: 2m32
+Round  5: 2m34
+Round  6: 2m36 (Default World Record!)
+Round  7: 2m38
+Round  8: 2m40
+Round  9: 2m42
+Round 10: 2m44
+
+
+Scoring:
+````````
+2m26      5260
+2m28      5280
+2m30      5300
+2m32      5320
+2m34      5340
+2m36      5460
+2m38      5480
+2m40      5500
+2m42      5520
+2m44      5540
+
+This one is easy to figure out because you have a set height to jump. As you
+can see, for each 2 centimeter higher you obtain 20 more points.

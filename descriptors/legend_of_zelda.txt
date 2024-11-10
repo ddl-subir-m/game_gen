@@ -1,0 +1,2949 @@
+Section 1*
+
+Introduction*
+Navigation*
+Plot*
+Saving*
+
+Section 2*
+
+The Eagle*
+The Moon*
+The Manji*
+The Snake*
+The Lizard*
+The Dragon*
+The Demon*
+The Lion*
+Spectacle Rock*
+
+Section 3*
+
+The Eagle (S)*
+The Moon (S)*
+The Manji (S)*
+The Snake (S)*
+The Lizard (S)*
+The Dragon (S)*
+The Demon (S)*
+The Lion (S)*
+Spectacle Rock (S)*
+
+Section 4*
+
+Heart Containers*
+Item Index*
+Enemy Index*
+Pro Challenge*
+Zelda Timeline*
+FAQ*
+
+Section 5*
+
+Credits and Legal Information*
+--------------------------------------------------------------------------------
+   __________________________________________________________________________
+  /                                                                          \
+ /                                                                            \
+||--------------------------------Section 1*----------------------------------||
+ \                                                                            /
+  \__________________________________________________________________________/
+
+================================================================================
+=================================Introduction*==================================
+================================================================================
+
+And we're back!  Yes, yes, I know how excited you all must be.  This is my
+thirteenth walkthrough, and I wrote it on Halloween weekend.  If you're
+superstitious, you'll understand.  Anyway, to make a long intro short, let's get
+to the burning question.  Is this guy part of a Zelda cult or what?  No, I'm
+not.
+I've written more The Legend of Zelda walkthroughs than I have for any other
+game series.  That's because I truly believe that this is one of the best series
+of games ever.  This is where it all began.  This game was released in 1887.
+Err, 1987.  Either way, this game is old.  When you read this, emphasize "old."
+
+Nonetheless, you'll find that games are often better in the past.  This was the
+first Zelda game.  So, if you have any good feelings toward the series at all,
+you'll play this game.  It's not too expensive, seeing as how it's seventeen
+years old, and they re-released it on the GBA, as part of the Classic NES
+series.
+But, I won't lie to you.  It won't take you too long to beat this game.  I can
+beat it in under a day.  Still, if it made you read a walkthrough (who reads the
+introduction, anyway?), it must be doing something right.
+
+As you will learn from example, the review is a vital part of any of my
+walkthroughs' introductions.  I've got one word split into syllables for you -
+ad-dic-tive.  It's true.  I'm not lying.  The Legend of Zelda is unique.  Many
+games have copied it's overhead view that won the hearts of millions, like a few
+Game Boy games I can think of.  This was one of the first, if not the first,
+games where you could get items, keep them, and use them.  This game has two
+quests, one for when you finish it the first time.  Fans have come up with all
+sorts of rules to play by, like the Three Heart Challenge.
+
+In short, this game is WELL worth looking at.  It may not have crystal-clear
+graphics or make beef jerky for you like so many of the modern games, but I
+doubt you'll dislike it.  If I've lost you, the main character has a sword.
+There you go!  Now you're convinced.  To the flagship!  We don't need their beef
+jerky, anyway.
+
+By the way, happy ninth anniversary GameFaqs!  Your site is great and is a
+wonderful asset to me as I can post my guides.  Also, remember that November 1
+is National Pedestrian Safety (maybe Awareness) Day.  More people need to
+celebrate that.  It's going to be huge.
+
+Also, if you see this guide anywhere besides GameFaqs, please contact me.  With
+your help, I can put an end to plagiarism.  Plagiarism is a crime and this
+document in protected by copyright.  It is illegal, so please help me out.  I
+check often, but I could miss every now and then.
+
+================================================================================
+==================================Navigation*===================================
+================================================================================
+
+You may have been wondering why I have asterisks by the names of all my
+sections.
+There's a reason for it, don't you know?  The asterisks (*) distinguish titles
+from times I might use the name in text.  If you want to skip down to a certain
+section, simply do the following: on the keyboard press CTRL and F at the same
+time, type in the name of the section with the asterisk, and press search/find.
+If you have a Mac, press Apple and F.  It's that easy.  This works on other
+documents as well, so feel free to skip down to the good parts.
+
+================================================================================
+=====================================Plot*======================================
+================================================================================
+
+The plot is okay.  This was the first Zelda game, after all, and a super-deep
+storyline might have turned people off.  Like some people don't like Star Wars,
+for instance.  This is where I'll list the characters, their involvement with
+the game or plot, and the plot itself, in somewhat reversed order.
+
+                               +---------------+
+                               |    Summary    |
+                               +---------------+
+
+Long ago, the land of Hyrule was in chaos.  The Triforce, the essence of the
+gods left by three goddesses when they had created the earth, had separated.
+The evil Ganon possessed the Triforce part of Power and Princess Zelda possessed
+Wisdom.  Seeking to complete the Triforce (it is in three parts, Power, Wisdom,
+and Courage), Ganon kidnapped Princess Zelda to extract from her the divine
+power.  Before he could, though, Zelda shattered her piece of the Triforce into
+eight pieces.  They are hidden in labyrinths deep beneath Hyrule.  And so, the
+land fell into despair.  Zelda's nursemaid, Impa, was sent into Hyrule to find
+an individual capable of besting Ganon in battle.  Ganon heard of this plan and
+sent minions after her.  Impa fled for her life, but it seemed to be to no
+avail.
+She was cornered when a young man appeared from the forest.  The boy, named
+Link,
+was told of Zelda's plight.  With a burning sense of justice Link took off to
+the labyrinths in order to recreate the Triforce part of Wisdom and use it to
+defeat Ganon, King of Evil.
+
+Now for the character list.  Usually I'd have a section for this, but it fits
+nicely here.
+
+                              +------------------+
+                              |    Characters    |
+                              +------------------+
+
+Link: The legendary Hero of Time, Link is the star of every Zelda game.  Link is
+the savior of Hyrule, and a few other lands to boot.  Link also possesses the
+Triforce part of Courage, which he acquires in a different game.  You control
+him throughout the game.
+
+Zelda: The princess of Hyrule, Zelda causes a lot of confusion.  There are still
+many people who think that you control Zelda during the game.  I don't know why
+they called it the Legend of Zelda, but it has a nice ring to it.  Zelda
+shattered her piece of the Triforce, Wisdom, into eight parts so that it
+wouldn't fall into the clutches of Ganon.  Zelda constantly plays the damsel in
+distress, and it's up to you to rescue her.
+
+Impa: While she's not actually in the game, Impa is crucial to the storyline.
+She is the nursemaid of Zelda and the founder of a village called Kakariko (as
+we see in Ocarina of Time, a popular Zelda game).  She was saved by Link when
+fleeing from Ganon's henchmen and she relayed the message to him.
+
+???: Nobody knows his name, but I've got a pretty good idea of who this guy is.
+Repeatedly you'll see an old man wearing an orange shirt with a white beard in
+the game and he'll give you hints or give you items.  I think he's the King of
+Hyrule for several reasons.  One, in the Wind Waker, the King of Hyrule wears
+the same clothes as the old man does.  Two, the King of Hyrule was in The
+Adventure of Link (sequel to this game), and he looked the same.  The identity's
+unimportant, though.  What's important is that this guy loves to tell secrets
+and give away swords.
+
+Ganon: Ganon is a Gerudo, born in the desert to a life of thievery.  Known as
+the King of Evil, Ganon acquired the Triforce part of Power and he wants to use
+it to cast Hyrule into oblivion.  Only with the remaining parts of the Triforce
+will his dark designs be met.  Link must stop at nothing to stop him.
+
+Those are your characters.  There are also two other characters, merchants, that
+sell you items to help you along the way, but it didn't seem important.
+
+================================================================================
+====================================Saving*=====================================
+================================================================================
+
+Adding a touch of difficulty to the Three-Heart Challenge (beat the game with
+only three hearts) is the saving method.  To save normally you must get a game
+over.  If you want to save without losing a life, you'll need a second
+controller on the NES.  Press Up + A when in the Start Menu on the second
+controller at the same time and you're brought to the save/quit screen.  If you
+only have one controller, switch the first controller to the second socket while
+it's on pause.  Note that in the GCN re-release of this game (The Legend of
+Zelda Collector’s Edition), you can save by pressing X and Start simultaneously.
+Glad I could help.  Now, it's time for the walkthrough.
+--------------------------------------------------------------------------------
+   __________________________________________________________________________
+  /                                                                          \
+ /                                                                            \
+||--------------------------------Section 2*----------------------------------||
+ \                                                                            /
+  \__________________________________________________________________________/
+
+================================================================================
+===================================The Eagle*===================================
+================================================================================
+
+                           +------------------------+
+                           |    The Wooden Sword    |
+                           +------------------------+
+
+From the start, just walk into the cave directly ahead of you.  There's the Old
+Man.  Since it's dangerous, he gives you the Wooden Sword.  It is now your A
+weapon.  The Wooden Sword is the weakest of all the swords in the games, but
+you've got to start somewhere.  Besides, it was pretty easy.  Before you go to
+the first dungeon, however, you'll want a better sword.  In this game you can
+only get sword upgrades when you have a certain number of Heart Containers.
+That means that, to get the next sword, you'll need more Heart Containers.  You
+can either skip along to some dungeons, or get the easy ones.
+
+                    +-------------------------------------+
+                    |    The Blue Candle and the Bombs    |
+                    +-------------------------------------+
+
+This will help you get the Heart Containers.  First, we're getting the Blue
+Candle.  From the first screen go left one screen.  These hopping spider-enemies
+are Tektites.  Right now, the only weapon you can kill them with is the sword.
+When you have full hearts, which you probably do, you release sword beams.
+Press A to fire them and take out the Tektites.  When one dies they may leave
+behind one of two items.  The first and most valuable is a Recovery Heart.
+These restore hearts, your health.  When you run out of hearts, you get a game
+over.  The second item they might drop is the rupee.  Rupees are the currency of
+Hyrule and you'll need them to purchase items from merchants.  So now, go north
+a screen.  These enemies are called Octoroks.
+
+Defeat them and enter the cave.  Here's where you can buy one of three items.
+The Blue Candle is the one you want for now.  You probably cannot afford any
+items here, so return to the first screen.  This time, go right a screen.
+Defeat the Octoroks and go right again.  Here you'll see some Blue Tektites.
+Defeat them and take their rupees.  You may also get a Fairy.  These creatures
+restore all your hearts.  Go right again and repeat the process.  Now go right
+once more.  You'll see the sea.  Keep going right (the enemies here aren't worth
+killing) until you can no longer.  Go north once and you'll see a cave.  Enter
+it and buy the Bombs for 20 rupees.  You should have enough rupees to buy them.
+Now continue going back and forth from this cave to the one selling the Blue
+Candle until you have 60 rupees.  Buy the Blue Candle.
+
+                        +------------------------------+
+                        |    Three Heart Containers    |
+                        +------------------------------+
+
+You needed the Blue Candle and the Bombs to get these.  Therefore, you didn't
+just waste your precious time.  For the first Heart Container go from the
+starting point right until you see water in the lower right-hand corner of the
+screen.  Defeat the enemies here and bomb the wall, just left of the opening
+north.  You'll uncover a cave.  Enter and you'll have to choose between a Red
+Potion and a Heart Container.  The Heart Container is way better than the Red
+Potion, so take it.  Now exit the cave.  Head north and you'll see a new enemy,
+the Moblin.  These are Ganon's most loyal minions.  Continue north until you
+reach some desert.  Keep going north until you can't continue.
+
+From here go right.  Bomb the lower right section of the rock formation to
+uncover another cave.  Inside is the Old Man, asking you to choose between the
+Red Potion and the Heart Container.  Again, take the Heart Container.  The third
+Heart Container is a bit more tricky.  Go right one screen from the starting
+point.  Go north three screens.  Go left once and notice all the trees.  Count
+(from the right) five trees and use the Blue Candle to burn that fifth tree.  Go
+down the stairway and choose the Heart Container.  Now it's time to get the new
+sword.
+
+                           +-----------------------+
+                           |    The White Sword    |
+                           +-----------------------+
+
+From where you got the Heart Container in the tree-stairway, go right.  Go north
+twice.  From here, go left.  Go up and you'll be in a screen with boulders
+rolling down.  Go right three screens and you'll find a stairway leading up.
+Take it up to a screen with a super-enemy.  Right now, you're weak, and this
+enemy is your worst nightmare.  Run past it and into the cave.  The Old Man is
+there.  "Master using it and you can have it" are his words.  Since you have six
+Heart Containers, one more than what is needed, you can take the White Sword.
+It's twice as powerful as the Wooden Sword and will serve you admirably.
+
+                          +--------------------------+
+                          |    Old Woman's Letter    |
+                          +--------------------------+
+
+Before we start the dungeon you should get this letter.  It will let you buy
+potions, or medicine as they call it in this game, from merchants.  From where
+you got the White Sword travel to the starting point.  Go to where you got the
+second Heart Container, the one where you blew up the rock formation, and head
+up the stairs.  Go right, down the stairs, north, right, and up these stairs.
+Inside the cave is the Old Man with a blue piece of paper.  Show it to the old
+woman, eh?  Go to the starting point and go left.  Go up and continue left over
+a bridge to a new screen.  In here is a cave.  Show the Old Woman the letter
+with B and she'll start selling medicine.
+
+The Red Potion is the best.  Now you can go to the dungeon.  There are a few
+things you can do now if you want to make it a safer trip.  First, if you go to
+the shop where you bought the Bombs you could buy a newer shield.  Don't waste
+money on the keys.  There's another shop in Hyrule where you could buy another
+defensive item, but it's pricey, so I'll cover that later.  Now, to go to the
+dungeon.  From the starting point go right and up four times.  You'll see a
+bridge.  Take it to a strange tree structure.  This is the first dungeon.
+
+                              +-----------------+
+                              |    Level – 1    |
+                              +-----------------+
+
+The dungeon's official name is "The Eagle" because its layout is like that of an
+eagle.  In the first room, you'd better get used to those statues.  They're
+always like that.  There are three items in every labyrinth you want to get.
+They are the Map, showing the layout of the dungeon, the Compass, showing where
+the boss is, and keys, unlocking locked doors.  In this first room go right.
+The enemies here are sword-wielding skeletons called Stalfos.  Defeat them for a
+small key.  Return to the first room.  Go left and you'll see some bats.  They
+are called Keese.  Defeat them with a slash of the sword for another key.
+
+This time in the first room use a key on the locked door to go north.  Defeat
+the Stalfos in here and go north again.  Defeat all the Stalfos in here for
+another key.  Go right and defeat the enemies for the Compass.  Bomb the wall to
+the north in here to uncover an opening.  There are several enemies in here
+called Goriyas.  Defeat them all and an item appears.  It's the Boomerang, a new
+weapon!  Use the key on the locked door to the left and you'll be in a new room.
+Right in front of you in the Map.  Bomb the wall to the south for a shortcut to
+this room.  Now, from the room where you got the Map, go north.
+
+There are a few Stalfos in here.  Defeat them for a key and use it on the door.
+Defeat the Goriyas in here and use the small key you get on the door to the
+left.
+Avoid the razor traps in here (they're motion-sensitive) and push the leftmost
+block down.  Go down the stairs.  In this 2-D screen, climb down the ladder and
+up the ladder to the right.  Touch the D-shaped thing for the item.  It's the
+Bow!  Now that you have it, all you need to do is buy Arrows from a merchant.
+Go back up the ladder and go right.  Go down twice and go right.  It's the
+Goriya room.  Defeat them or avoid them and their boomerangs.  Go right again.
+This room is home to some of the most annoying enemies in the game.  Run down
+and nab the key, then speed to the door.  Open it.
+
+                           +------------------------+
+                           |    Boss: Aquamentus    |
+                           +------------------------+
+
+It's a dragon.  Are you scared yet?  With the White Sword, this should be the
+easiest battle ever.  Walk up to it, dodging its fireballs, and slash a few
+times.  It dies.  Hooray.  Take the Heart Container and enter the next room.
+Pick up the piece of the Triforce part of Wisdom.  One down, seven to go!
+
+================================================================================
+===================================The Moon*====================================
+================================================================================
+
+                   +---------------------------------------+
+                   |    The Magic Shield and the Arrows    |
+                   +---------------------------------------+
+
+You might just have 130 rupees by now.  If not, you know the drill.  Either
+reenter The Eagle, the dungeon you beat just now, and kill enemies for rupees.
+Or, trek across Hyrule for enemies to kill.  Either way, once you have 130
+rupees, you're ready.  The shop where you bought the Blue Candle sells the Magic
+Shield for 160 rupees.  The one where you bought the Bombs sells it for 130 and
+it sells the Arrows.  When you have enough, buy the Magic Shield.  What's it do
+that's so special, you may be wondering.
+
+Well, the Magic Shield is bigger, so it blocks more enemy attacks.  You can also
+buy the Arrows here.  There 80 rupees, so you might have to do some scavenging.
+When you can afford it, buy the Arrows.  Now, here's what every item you should
+have so far does.  The Boomerang is a projectile that freezes enemies when it
+hits them.  It can also recover items from a distance.  The Bombs are used to
+blow things up, obviously.  The Bow & Arrow shoots arrows.  Each arrow costs 1
+rupee to shoot.  The Blue Candle releases a flame that can burn trees.
+
+                            +---------------------+
+                            |    The Blue Ring    |
+                            +---------------------+
+
+This item cuts the damage you take in half.  Like I said, it's very expensive.
+It costs 250 rupees.  If you can't afford it, go around and gather as many
+rupees as you can.  This isn't necessary that you get, so you could just skip
+this item for now.  There's a good way to make rupees in the second dungeon.  To
+reach the shop that sells the Blue Ring, go to the starting point.  Go left a
+screen, up, left, and left.  This is the screen with the cave that has the Old
+Woman with medicine in it.  Go north twice and you'll see a cave with a store in
+it.  It's not important, though.
+
+Go north once more and you'll see some statues called Armos.  Touch them and
+they come to life.  Some are really fast, and other are slow as snails.  Either
+way, use the Boomerang to freeze them and then slash away.  Under the mid upper
+Armos is a staircase.  Take it down and you'll see three items for sale.  The
+middle one is the Blue Ring.  Buy it and, if you have the money, the item on the
+right.  It's Monster Bait, which you'll need far off in the future.  Link's
+tunic is now blue.
+
+                           +------------------------+
+                           |    Path to the Moon    |
+                           +------------------------+
+
+The Moon is fairly difficult to find.  First, go to the shop where you bought
+the bombs.  If you can't remember where it is, from the start go right as far as
+you can and then up.  Head left twice and go up.  Go north again and then left.
+You'll see some Octoroks and a set of stairs.  Take it up to the second dungeon.
+
+                              +-----------------+
+                              |    Level – 2    |
+                              +-----------------+
+
+Personally, I didn't think this was funny.  It's a terrible joke.  The first
+dungeon was called The Eagle and this is The Moon.  The Eagle was the name of
+the spaceship the Americans used to land on the moon.  Anyways, this dungeon is
+shaped like a crescent moon.
+
+Go right and you'll see some serpents, called Ropes.  When you do this they
+usually drop lots of rupees.  Also, you'll get a small key.  Go north.  There
+are more Ropes in here.  Use the key on the door to the right and you'll see the
+Compass.  Take it, defeating the monsters.  Bomb the wall to the north to
+unearth a door.  Go through and get the Map.  You probably still have a key left
+over from Level 1, but we won't use it anyway.  Bomb the north wall to be in an
+arena room.  The statues shoot fire.  Defeat the three Blue Goriyas and you'll
+get a new item, the Magic Boomerang.  It goes much further.  Bomb the north wall
+again and go through the door.  Head left to a sort of mini-boss room.  To
+defeat these enemies attack the segments of their bodies.  Take the key and go
+south.  Defeat the Ropes in here for a key.  Now go north twice.  There are a
+mess of Ropes in here.  Defeat them and go through the door that opens.  Defeat
+the Goriyas and go up.
+
+                            +---------------------+
+                            |    Boss: Dodongo    |
+                            +---------------------+
+
+This boss is pathetic.  Set a bomb in its path as it walks and it will swallow
+it.  The explosion that follows stuns it.  Attack it then and you'll win.  Take
+the Heart Container and head into the next room for the Triforce shard.  When
+you get the Triforce shard you start outside the dungeon.  Reenter it and go
+north.  Head left and defeat the Ropes for a key.  Now you're done with this
+dungeon.  The prize was the Magic Boomerang.
+
+================================================================================
+===================================The Manji*===================================
+================================================================================
+
+                            +---------------------+
+                            |    Getting There    |
+                            +---------------------+
+
+Since you've gotten everything you can so far, there's only one thing to do and
+that's get to the next dungeon.  So far, you've been pretty unchallenged.
+That's not going to change too soon.  From the starting point you go.  Go north
+once and left thrice to be at the shop where the Old Woman sells medicine.  Go
+left once more, then down, and right.  Here's the dungeon.
+
+                              +-----------------+
+                              |    Level – 3    |
+                              +-----------------+
+
+This is a pretty offensive dungeon.  I don't know what a manji is, but this is
+shaped like a swastika, the symbol of the Nazi party in Germany.  I guess it's
+symbolic - Link is conquering the swastika, or something like that.  But you
+should remember that this game was made in Japan and over there the swastika is
+a symbol of medicine, and has been long before it was used to represent a
+villainous regime.  Anyway, let's head left.  Take the key in here and defeat
+the enemies, called Zols.  One slash and their history.  Go north and defeat the
+enemies for another key.  They're really accumulating.  Now go north.  These
+enemies are in almost every game (usually called by different names, though).
+These are Iron Knuckles.
+
+In other games, they're much harder.  Here, just slash them from the sides or
+from behind.  When you win go left.  Dodge the razor traps and take the Compass.
+Go through the locked door.  Here, you have several Iron Knuckles to beat to a
+pulp.  An effective strategy is to stand at the corner of one of the group of
+blocks and wait for them to round the corner.  When you win a door to the south
+opens.  Go down into a room infested with Iron Knuckles.  The safest thing to do
+is run down the stairs avoiding confrontation.  If you stand in the doorway they
+can't hurt you.  Wait for a good time and make a mad dash to the staircase.
+
+Climb down the ladder and up the other one for the Raft.  It lets you sail from
+certain docking points.  Go back to the room with the infestation of Iron
+Knuckles.  Head north twice to be in a room with an electric orb enemy.  You
+might not be able to see it, but they have skulls on them.  Get the key and go
+right.  Go right again, using a key on the door.  Defeat the enemies in here for
+another key.  Use it to go right.  Get the Map in here, avoiding the razor
+traps,
+obviously.  Then bomb the wall to the right to uncover the path to the boss.
+
+                           +-----------------------+
+                           |    Boss: Manhandla    |
+                           +-----------------------+
+
+This boss seemed dead for a long time.  They finally brought him back in a
+future game in Four Swords Adventures.  There was good reason for waiting.  This
+boss is so easy is the reason.  Either you can run around, slashing his crab-
+heads (they look like clamps or something), or you can plant a bomb.  If you're
+lucky or good at timing, the bomb will defeat Manhandla in one blow.  If not,
+I'm sure it's no problem to slash off his remaining limbs.  When you win get the
+Heart Container and go north to the Triforce piece.
+
+================================================================================
+===================================The Snake*===================================
+================================================================================
+
+                        +------------------------------+
+                        |    Fourth Heart Container    |
+                        +------------------------------+
+
+We actually have something to do now!  From the starting point go right all the
+way until you can no longer.  This accomplished, go north until you can no
+longer.  There's something here where you can dock off.  Walk onto it and you
+automatically go.  You're taken to an island that looks just like the sixth
+labyrinth.  Enter it and take the Heart Container over the Red Potion.  Now
+we're ready to go to the next dungeon.
+
+                        +-----------------------------+
+                        |    Island Transportation    |
+                        +-----------------------------+
+
+From the starting screen, go up and left twice.  Do not cross the bridge.
+Instead, go up and you'll see a dock-off point.  Ride the raft to an island, on
+which is the fourth dungeon.  It looks a lot like the second.
+
+                              +-----------------+
+                              |    Level – 4    |
+                              +-----------------+
+
+You guessed it!  This looks like a snake.  From the first room go left.  Defeat
+the Keese for a key.  Now go back to the first room.  Go up and you'll see new
+enemies.  These, called Vires, are just Keese manifested into a ground-form.
+Slash them and two Keese appear in its place.  When you've won use your key on
+the door to the right.  Inside, defeat the Vires and feel around the floor to
+reach the Compass.  Now go back to the previous room.  Go up and defeat the
+Keese for a small key.  Head left.  In here, the floor is black.  Defeat the
+Vires as you work your way to the door.  North of that room is another shadowy
+room.  Defeat the Zols in here (you know where they are by their eyes) and take
+the key.  Now head north again to another dark room.  Head right through the
+locked door.  Defeat the Vires in here to make the door rise.  Go through the
+right door.  In here lurks a new enemy, the Like Like.
+
+They'll steal your shield, and so we should kill them with arrows from a
+distance or stun them with the Magic Boomerang.  Then push the left block over
+to make a staircase form.  Take it down and take the Stepladder.  It appears
+when you're by a pit so you can walk over it.  Exit the Stepladder 2-D screen
+and go left.  Head left once more.  This time, go north through the locked door.
+Head right and you'll be in the room with the Map.  Hug the wall to get it.  Go
+left again and then north.  Here's the mini-boss.  It's Manhandla.  Use the good
+old bomb trick to beat it and go north through the door.
+
+Hey look!  The Old Man!  Yes, he's in every dungeon.  If you slash him,
+fireballs will hit you, and you can never kill him.  Tough luck.  Go right
+through the locked door.  In here, defeat the Keese and get the small key.  Now
+we're talking.  Go right and then down.  In here, defeat the Vires and push the
+left block right.  Go through the door.
+
+                             +--------------------+
+                             |    Boss: Gleeok    |
+                             +--------------------+
+
+This is the hardest boss in the game, in my opinion.  First, run up and hit the
+heads, all the while avoiding fireballs.  Not too tough, right?  Eventually you
+decapitate one head and it starts circling the room, shooting you.  Quickly
+destroy the other head and get the Heart Container.  Not too hard, really.  Now
+go through the door to the Triforce piece.  Hooray!  Four more to go.
+
+================================================================================
+==================================The Lizard*===================================
+================================================================================
+
+                        +-----------------------------+
+                        |    Fifth Heart Container    |
+                        +-----------------------------+
+
+There's stuff to do this time around.  Go to the starting point and go right all
+the way.  Go up until you see a Heart Container in the sea.  Use the Stepladder
+to reach it.  Now you have another Heart Container!  Now we're headed for the
+fifth dungeon.  Yes, I know how sad you are that there are so few side quests
+lately.
+
+                             +--------------------+
+                             |    Hebra's Hill    |
+                             +--------------------+
+
+I know the name of this particular geographic location in Hyrule thanks to Four
+Swords Adventures.  Hebra's Hill is an endless cycle of stairs that never seem
+to end.  You reappear over and over.  To reach Hebra's Hill, go along the path
+you did to get the White Sword.  Since you probably don't remember, I'll give
+you directions.  From where you got the third Heart Container (in the tree you
+burnt) go right.  Go north twice.  From here, go left.  Go up and you'll be in a
+screen with boulders rolling down.  Go right four screens and you're stuck in
+the cycle of the hill.  There's only one way to get through the hill, and it
+stays the same in every Zelda game.  Keep going up.  Don't take any lefts or
+rights, just keep going up.  Doing this four times leads to the fifth dungeon.
+
+                              +-----------------+
+                              |    Level – 5    |
+                              +-----------------+
+
+Take a right from the start and you'll see some rabbit-ear enemies.  These weird
+enemies, called Pols Voice, seem to be invincible.  If you just keep slashing
+you'll eventually win, but a single arrow will also do the trick.  Now go back
+to the first room.  Go north and you'll see a new enemy, the Gibdo.  Keep
+slashing and it will perish.  One has a key for you.  Head north once again and
+you'll have to fight three Dodongos.  They're so puny they were reduced to mere
+mini-bosses, just as Manhandla was.  Go through the door to the left.  In here,
+defeat the Zols and use the Stepladder to get over the gap.  Take the key that
+appears and go south.  Defeat the Gibdos here and bomb the mid-part of the left
+wall.  Enter the forced entryway and defeat the Blue Iron Knuckles.
+
+There the same as the regular kind, only stronger.  Push aside the leftmost
+block and enter the stairs.  Go down the ladder and up the other one.  When you
+exit go through the left door.  Defeat all the Blue Iron Knuckles and push the
+block.  Go down the stairs for the Whistle.  Surface and go right, then down.
+Defeat the Keese and use the Stepladder to cross the gap.  Take the key and bomb
+the right wall.  In here is the Old Man.  Pay him 100 rupees to be able to carry
+12 bombs instead of 8.  Now go back to the room with the Zols where you got the
+key and go right.
+
+Use the key on the door north of here and you'll find the Map.  Go south and
+then right.  In here, defeat the Zols for five rupees and go north.  In here,
+defeat all the Gibdos and you'll get a key.  Go up a room.  Defeat the Iron
+Knuckles in here for the Compass.  Go north again, defeating the enemies and
+collecting their spoils.  Now go left, using a key.  In this room defeat the
+Gibdos for another key.  They're practically throwing these at you.  Go left
+again to see some Pols Voice.  Defeat them if you'd like and use a key to go
+through the door.
+
+                           +-----------------------+
+                           |    Boss: Digdogger    |
+                           +-----------------------+
+
+The bosses in this game are so easy it's sad.  Now, the Whistle is a fairly
+useless item.  One of its extremely limited uses is beating Digdogger.  Of
+course, if you were using my guide you didn't go there, but the Old Man here
+says that Digdogger hates certain kinds of sound.  Play the Whistle once and
+he'll shrink.  Now it's like taking candy from a baby.  Slash that monster's
+sorry hide until he dies.  Take the Heart Container and the Triforce fragment in
+the north room.  Easy does it, easy does it.
+
+================================================================================
+==================================The Dragon*===================================
+================================================================================
+
+                           +-----------------------+
+                           |    The Magic Sword    |
+                           +-----------------------+
+
+Since the dungeon's on the other side of Hyrule, use the Whistle's other effect.
+Playing it summons a tornado that teleports you to the dungeons you've beaten.
+Go to the first or third dungeon (they're close to the starting point) and go to
+the starting point.  From here, go left and up.  Go left twice more and go left
+again.  Welcome to the Lost Woods.  Go left and up, then left again.  Go down
+and you'll enter the truly lost part of the Lost Woods.  It's just like Hebra's
+Hill.  There are four directions and only one sequence works.  That sequence is
+up, left, down, and left.  When you do this the Zelda ring goes (that happens
+when you uncover a secret) off.  Go up from here and you'll be in the Graveyard.
+
+Go up the stairs, avoiding the enemies.  In here, go right, up, and up again.
+Push the grave the Poe, the ghost enemy, appears by and take the stairs down.
+Talk to the Old Man and take the Magical Sword.  It's the most powerful sword.
+On the off chance that you're playing the special edition of this game that the
+first 200 buyers got, this is called the Master Sword.  I'll refer to it as the
+Magical Sword, since that's what the rest of the world calls it.  Now, to the
+next dungeon.  Go down, right, and up the stairs.  Presto!  There it is.
+
+                              +-----------------+
+                              |    Level – 6    |
+                              +-----------------+
+
+First room, go left using a left-over key from a different dungeon.  I'm sure
+you have one, but if not go right and defeat the Wizzrobes here by means of
+sword for a key.  So, in the left room you'll see new enemies, Wizzrobes.  They
+appear and reappear around the room, sending spells at you.  Luckily, they're
+very weak and can be slain with one slash of the sword.  Now go north a screen
+and defeat the Zols for the dungeon's Compass.  Go north again and defeat the
+Keese for a small key.  It also opens the door, which you want to go through.
+In this room, defeat all the enemies, especially the Like Likes, which can eat
+your shield.  Push the left block down and go through the door.  Defeat the
+enemies and go north again.  In here you must fight a mini-boss - three-headed
+Gleeok.  Toughest mini-boss whole game...  Go right when you win and you'll see
+more Like Likes.  Great...
+
+Exterminate all the baddies in here for the Map.  Go through the north locked
+door.  Defeat the Wizzrobes and push the left block down so that a staircase
+appears.  Go down and get your hands on the Magic Wand.  It isn't needed for
+anything.  It's just really cool, as it's the item Wizzrobes use.  Now go south
+twice.  In this new room is a key and a few avoidable enemies.  Go south again
+to see some Vires.  I thought they went extinct or something.  Of course, these
+don't release Keese.  Go right after whooping them and fight your way to
+solitude.  Push the block up and take the stairs down.  Climb up the ladder to
+the right to emerge in another part of the labyrinth.  From here, go south,
+left,
+and up avoiding all the fights you can manage.
+
+                             +-------------------+
+                             |    Boss: Gohma    |
+                             +-------------------+
+
+Gohma is a spider, although she looks like a crab at first.  She's super-easy to
+beat, and the Old Man even hinted at her weakness before.  Simply get out the
+Bow & Arrow and shoot the beast's eye.  It will instantly die, leaving a Heart
+Container in its death.  Go up to the sixth Triforce piece.  And with that,
+you're off.
+
+================================================================================
+===================================The Demon*===================================
+================================================================================
+
+                          +--------------------------+
+                          |    The Power Bracelet    |
+                          +--------------------------+
+
+They've yet to include a forest dungeon, so it's about time.  But first, let's
+get an item.  From the sixth dungeon, go down, right, up the second stairway
+(the right one), and right.  Here, touch the rightmost, upper Armos and it will
+move off of an item.  This is the Power Bracelet, which always looked like a
+bird's beak to me.  It has one practical purpose, and that is to push trees.
+The great thing about pushing trees is that sometimes it reveals a shortcut.
+Let me show you an example.  From where you got the Power Bracelet go left,
+down,
+and up the other staircase.  Push aside the leftmost tree here to uncover a
+staircase.  The Old Man lets you take any road you want.  Choose the middle and
+you're right back two screens right of the starting point.
+
+                           +------------------------+
+                           |    The Monster Bait    |
+                           +------------------------+
+
+This is needed for a room in the next dungeon.  Getting it is easy, especially
+for you.  You've probably amassed quite a bit of rupees over the dungeons.  You
+need sixty (60) for this purchase.  When you have the said amount, take the
+following direction from the starting point to the shop.  In case you forgot,
+I'm saying how to go to the shop where they sell the Blue Ring.  Same shop.
+Now,
+go left a screen, up, left, and left.  This is the screen with the cave that has
+the Old Woman with medicine in it.  Go north twice and you'll see a cave with a
+store in it.  It's not important, though.  Go north once more and you'll see
+some Armos.  Defeat the mid upper one and go down the staircase.  Buy the
+Monster Bait, which king of looks like a chicken leg with two bones coming out
+of it.  I know so much practical information, I can hardly stand myself.
+
+                         +----------------------------+
+                         |    The "Fairy Fountain"    |
+                         +----------------------------+
+
+From the starting point we are headed toward the Lost Woods.  In simpler terms,
+go left, up, left, left, left, up, and up.  Here, you'll see a Fairy Fountain.
+The Fairy here restores all your hearts.  However, as the Old Man hinted, there
+is another Fairy Fountain in the area that holds a secret.  Hence the quotation
+marks in the title of this section.  Go down, left, and up.  Here's another
+rather suspicious Fairy Fountain.  Defeat the Moblin and sound the Whistle by
+the pool of water.  It dries up, revealing the labyrinth.
+
+                              +-----------------+
+                              |    Level – 7    |
+                              +-----------------+
+
+First, head north.  Defeat the Goriyas with swordsmanship and bomb the left wall
+to reveal a door.  Go through and go south.  Kill the Ropes and take the key.
+Now go north twice.  You'll meet some Dodongos.  Bomb them to bits and go
+through the north locked doors.  If you've got the cash, pay the Old Man 100
+rupees to be able to carry sixteen bombs at a time.  Now head south and go
+right.
+Take a right and defeat the Stalfos for the Compass.  Return left and go up.
+Defeat the Keese and Goriyas here (this dungeon is such a repeat of # 2 or 3)
+and go north.  Hey, it's our good pal Digdogger.  Blow the Whistle and shrink
+him, then slash it.  This time is splits into three little Digdoggers.  When
+you've soundly defeated that wimp go left.  Use a key on the north door and
+you'll see a Goriya.  This thing is invincible, so you must feed it.  Throw the
+Monster Bait at it and he runs off.
+
+You see, the grumbles were its stomach growling.  Duh.  Go north once more and
+defeat the Goriya and company for the Map.  Use a key on the locked door to the
+right and go through.  Defeat the enemies here and go through the north door.
+Defeat more of these creatures in a filler room.  Go right and take the key, as
+well as the lives of a few beasts.  Now head left and south.  Bomb the right
+wall and you'll see more of the same, Goriyas.  Smoke 'em and push the left
+block down.  Take the stairs down to get the Red Candle, this labyrinth's prize.
+
+Surface and bomb the wall to the right.  Go through and open the right door.  In
+here fight and destroy another Digdogger.  Head north and there's a Dodongo trio
+to dispose of.  Or ignore them, either way.  Bomb the right wall and you'll be
+in quite the pickle.  For you see, you must kill Wall Masters.  If you fail,
+they will abduct you and spit you out right in the first room of this miserable
+dungeon.  Since the Bubbles take away your sword momentarily, fight the Wall
+Masters with the bow.  When you win push the very middle block right and a
+staircase materializes.  Take it down and hike up the right ladder.  In here,
+plant a bomb against the right wall.  Of course, go through the hole you just
+made.
+
+                           +------------------------+
+                           |    Boss: Aquamentus    |
+                           +------------------------+
+
+You're kidding me right?  Aquamentus?  HA!  I repeat: HA!  If you thought this
+chump was easy before, just you wait for this battle.  Two slashes of the
+Magical Sword will do it in.  So, get your Heart Container and go right.  Take
+the seventh piece of the Triforce and get ready for the last piece.
+
+================================================================================
+===================================The Lion*====================================
+================================================================================
+
+Applications of the Red Candle
+
+There's actually a reason you got the Red Candle, which is different from its
+blue brethren in only one respect.  That's the fact that the Red Candle can be
+used multiple times per screen, while the Blue Candle could only be used once
+per screen.  In fact, it is totally unnecessary to ever buy the Blue Candle.  I
+just had you do it so you could get the White Sword before the first dungeon.
+Anyways, I'm getting sidetracked here.  From the starting point go right all the
+way until you can no longer.  Sound familiar?  Then go up and left.  Go left
+again (defeat Moblins as you go) and you'll see a tree that stands out from the
+others, blocking your path.  Burn it with the Red Candle and a staircase forms.
+Take it down.
+
+                              +-----------------+
+                              |    Level – 8    |
+                              +-----------------+
+
+To me, this seemed to be an extremely easy dungeon.  You could easily beat this
+without taking either of the two items here.  But, for your sake and mine, we'll
+get both.  Otherwise, you'd have to blow a whole lot of money buying keys from
+merchants.  First go left.  Fight Manhandla (bomb it) and the door to the right
+opens.  Enter and defeat the many enemies here quite easily with the Magical
+Sword.  Then push up the leftmost block and enter the stairs.  The item here is
+the Magic Book.  It is a supplement to your Magic Wand, as it lets you cast fire
+spells.  Return to the first room.  Go up and defeat Manhandla again.  You
+should be getting good at that.  Bomb the upper wall and go through the hole you
+generated.  Defeat all the Blue Iron Knuckles for a key.  They're all two hits
+via the Magical Sword apiece.  Go up.  Use the key on the north door and go
+through.  Defeat the enemies in here and go right through the door.  Take the
+stairs down and take the other ladder.  Defeat the Pols Voices in here and grab
+the key.  Bomb the north wall and enter the crack in the wall.
+
+                             +--------------------+
+                             |    Boss: Gleeok    |
+                             +--------------------+
+
+Third time's the charm.  This time the mighty Gleeok has four heads.
+Terrifying!
+Slash them off - be bold.  His attacks are too slow to kill you if you come in
+with good health, and you can win before the time's out.  Now go north and get
+the Triforce piece of Wisdom's final component!  Huzzah!
+
+Wait a minute!  There's still another item in this dungeon and I didn't get
+either the Compass or the Map.  Don't worry, I'm covering it.  Reenter the
+dungeon.  First, head right and use the Stepladder to get the key, plain and
+simple.  Go up one room from the starting room to where you fought Manhandla.
+Go up again through the bombed wall.  Use a key on the locked door to the right
+in here and enter a room filled to the brim with Pols Voices.  Take the Compass
+and go back one room left.  Defeat all the Blue Iron Knuckles to make the door
+open.  Go through and head up once again.  Bomb the north wall and go through.
+You'll come face-to-face with Manhandla again.  Kill it for the Map.  Use a key
+on the door above.  Defeat Gohma with a few arrows and go right.  Take down the
+enemies here and push the left block down.  Take the stairs down and get the
+second item of this labyrinth, the Magic Key.  Consider this a skeleton key for
+all locks in the game.  This is an absolute life-saver in the final dungeon,
+where almost every door is locked.  Now you can exit this place.
+
+================================================================================
+================================Spectacle Rock*=================================
+================================================================================
+
+                            +----------------------+
+                            |    Death Mountain    |
+                            +----------------------+
+
+Spectacle Rock is the famous site of Ganon's base of operations (or it is in
+future games; right now, it’s not famous because we aren’t supposed to know
+about it yet).  And if you think I'm telling you how to get there step by
+tedious step, you're dead wrong.  After all, you got the Power Bracelet for more
+than show.  It has functions!  Go two spaces right of the starting point and
+push up the left tree.  Take the stairs down and the Old Man will have a
+shortcut for you.  Take the left road to the heights of Death Mountain, right by
+the Graveyard.  Here's how it works.  First, go south.  Take the stairs up, head
+right, and take the stairs here up.  Go right again and continue right past
+boulders to a stairway.  Take it up and head left twice.  You'll see two rock
+formations here, supposedly resembling two eyes gazing at you.  Bomb the left
+one and enter the cave.
+
+                              +-----------------+
+                              |    Level – 9    |
+                              +-----------------+
+
+Ganon's lair is absolutely huge.  It is shaped like a skull and is the
+equivalent of an evil-doers mansion (nice digs).  But remember, grasshopper,
+that even though the Titanic was huge, it sunk in the end.  OK, now.  Catch your
+cool.  It's high time you kicked butt in a highly uncivilized fashion.  First,
+walk forward to a new room.  In here, if you haven't beaten the other eight
+labyrinths, the Old Man doesn't let you pass.  Since you have, he's gone to
+bigger and better things.  Go through the north door.  In here are Like Likes.
+To avoid losing your Magic Shield use the Magic Wand to kill them from a
+distance.  You get a key, but it is useless now.  Bomb the left wall to uncover
+a new room.  Inside here are two of Ganon's favorite front men, the Lanmolas.
+Slash the tail segments and then take out the heads.  Now take the stairs down.
+
+From now on, every stair region is a new paragraph.  Defeat the Like Likes as
+you wander around the room and open the locked door.  Another use for the Red
+Candle is that it can light up dark rooms.  Use it and defeat the Wizzrobes.  To
+the south, plant a bomb and let it explode.  Go through and traverse the
+hallway.
+Bomb the wall again and go through.  This is your would-be Old Man room.  Defeat
+all the Wizzrobes for the Compass.  Now that we have that, go up two rooms.  Go
+through the right door.  The enemy is here is called a Patra.  It might be an
+optical illusion, but it's circling minions almost make it look 3-D.  As long as
+it has its followers orbiting it, you can't kill a Patra.  Defeat the orbiters
+and then the head.  You get Bombs for winning.  Go south to a room will Gels,
+miniature Zols, in it.  I guess these were just intended to throw us off a
+little.  Blow up the right wall and you'll see another Patra.  Rush in, kill it,
+and take the Map that it drops.  Now bomb the north wall.  Go through to an
+enemy overload room.  If you don't want to kill them, you don't have to.  Run
+up,
+bomb the wall, and hope that they aren't hunting for you.  Defeat the Wizzrobes
+and push the left block aside.  Take the stairs down and get the Red Ring.  This
+doubles your defensive power again.  Now Link has a red tunic.  Surface and go
+south, south, left, and then north.  Open the locked door and you'll see the Old
+Man.  Bomb the left wall and go through the door.  Push the left block left to
+reveal a staircase after massacring the Wizzrobes.  Take the stairs down and
+take the other ladder.
+
+Defeat the Zols if you so desire and open the left locked door.  Defeat the
+Keese in here and go left.  Here's where Patras start to look 3-D.  Take the
+stairs down and go to the other side.
+
+That was short.  Bomb the north wall and go in.  Defeat the Wizzrobes here and
+push the middle block right.  Take the stairs down and get the second and last
+item of this dungeon, the Silver Arrows.  They are the only things on this
+planet, other than Light Arrows (which I think they just renamed to go with the
+item trend in Ocarina of Time), that can finish Ganon.  Now surface.  Go south
+and take the stairs down.
+
+In this new room, go north.  In this room kill the Like Likes with extreme
+prejudice.  When you do, a door to the left opens.  Take that door and welcome
+to a dark room.  If you want, light up the room.  Your choice...  Use the Magic
+Key on the locked door to the north.  In the new room, head north again with
+Magic Key.  Don't you love that item?  Kill the Wizzrobes in this room and push
+the left block down.  Walk up to the razor trap and when it moves, go in for the
+stairs.  Also, this is irrelevant, but I just noticed that the Raft ropes used
+to be blue, but now they're red.  I bet it's because we got the Red Ring.
+
+In the next room, when you surface, go to the left side.  Set a bomb when the
+traps are resetting their positions and go through.  When you've bested the Like
+Likes and Zols present in the room push the left block up.  Take the stairs down
+to a new room.  Since this is so short a paragraph, I'll continue from here.
+Kill the Patra, designed to batter you before the boss.  Go through the door
+when you do.
+
+                             +-------------------+
+                             |    Boss: Ganon    |
+                             +-------------------+
+
+This is laughably, ludicrously easy.  None of the bosses in this game were made
+to be that hard, but this boss is just killing itself.  As you enter the dark
+room Link lifts the Triforce of Wisdom and Ganon is revealed.  After he is
+stunned by the light, the pig-looking Ganon turns invisible.  Now this is easy.
+You can beat him in under a minute.  Get out the Silver Arrows and slash around
+the room.  Remember that you can step on the black tiles.  Yes, you CAN step on
+the black tiles, they are not holes.  When you hit him four times or so, he
+turns brown; take this opportunity to shoot him once with the Silver Arrows.
+With that, Ganon breathes his last breath.  His ashes remain and you are left to
+pick up his piece of the Triforce, that of Power.  Now go north, to Zelda.  Link
+should have destroyed those ashes.  Use your Magical Sword to destroy the flames
+around Zelda and go up and touch her.  You are the Hero of Hyrule.  Score!  Now,
+after the credits roll (like five people made this game), you start a second
+quest.  It is a much harder version of this game.  Up for the challenge?
+
+You know that a file is in its Second Quest if Link is holding a sword in the
+Select Screen.  The walkthrough for it will start here.  But, I forgot to say...
+CONGRATULATIONS!  You beat the game.  Now try your luck at the difficult second
+quest.
+--------------------------------------------------------------------------------
+   __________________________________________________________________________
+  /                                                                          \
+ /                                                                            \
+||--------------------------------Section 3*----------------------------------||
+ \                                                                            /
+  \__________________________________________________________________________/
+
+================================================================================
+=================================The Eagle (S)*=================================
+================================================================================
+
+                              +-----------------+
+                              |    Equipment    |
+                              +-----------------+
+
+You know the drill.  It's time to get the starter items, just like in the first
+quest.  First, enter the cave for the Wooden Sword.  Then walk around the
+starting screens, scrounging for rupees.  When you have a total of 210, go to
+the store where they sell bombs.  If you forget where that is, go all the way
+right until you can no loner and go up one screen to see the cave.  In here, buy
+the Bombs for 20 rupees and the Magic Shield for 130.  Now go to the starting
+point.  Go one screen left and one up to see another store.  In here, buy the
+Blue Candle for 60 rupees.  A cheap alternative to buying Bombs is killing
+enemies for them.  Now you're ready to get to the first level.  As of now you
+can get one Heart Container, too.
+
+                           +-----------------------+
+                           |    Heart Container    |
+                           +-----------------------+
+
+This is a little ways off.  From the starting point, go up, left four times, up,
+left twice, and down.  Now you're in the Lost Woods.  If you remember from the
+last quest, to get out go up, left, down, left.  Now go up four times.  You'll
+be in the Graveyard.  Push the grave in the second row from the bottom, second
+column from the left.  Choose to take the Heart Container instead of the Red
+Potion.  Now you're ready to go to the first dungeon.  To get there, from the
+starting point, go left, up four times, and traverse the bridge to an island.
+On it is the dungeon.
+
+                              +-----------------+
+                              |    Level – 1    |
+                              +-----------------+
+
+The second quest is starting to show its teeth.  This isn't hard, but the items
+you get this time around are different.  In other words, you're going to have to
+wait a few more dungeons for the Bow, the beloved item of so many people.
+Before going here, make sure you have the Bombs at least.  First, go right.  In
+here are five Goriyas to kill.  Doing this wins you the dungeon prize - the
+Boomerang.  Now bomb the north wall.  Right now, we could skip along to the
+boss,
+but I always get the Compass and Map.  So bomb the west wall in here and go
+through.  In here defeat the Goriyas for a key.  Go north.  Defeat the Stalfos
+for the Compass.  Go north again.  If you defeat the Blue Goriyas here you can
+get Bombs.  Go north and defeat the Gels for five rupees.  Use your key on the
+door to the right.
+
+Here's a Dodongo to fight.  Plant two bombs in its mouth and it will be dead.
+Go through the lower door.  Dodge the razor traps and get the Map.  As you can
+see, this dungeon is shaped more like an E than anything else (E for eagle).
+Defeat the Keese here (the Boomerang does nicely) and the door opens.  Go
+through it.  Take the following directions back to the room with the stairs:
+left, down three times, and right.  Defeat the Keese and push the left block up
+or down.  Go down the stairs.  Climb up the ladder on the other side to emerge
+in a new room.
+
+This room is a bit tricky.  You must kill the Wall Masters.  If you should fail,
+you're back at the start of the dungeon (which isn't terrible, since you can
+just take the stairs).  When you defeat them, you get a key.  Use the Boomerang
+wisely to stun them.  Use the key on the left door.  This room is sort of hard.
+You're being bombarded with fireballs and boomerangs.  Skip it all, as it yields
+nothing, and bomb the north wall.
+
+                           +------------------------+
+                           |    Boss: Aquamentus    |
+                           +------------------------+
+
+At least the bosses are the same.  This boss should be no trouble for you at
+all.
+If you have full health, stand at the back of the room and kill it with sword
+beams.  If you don't, wait for it to fire some blasts and then lunge in.
+Quickly slash once or twice and withdraw.  It isn't as easy this time because
+you have the Wooden Sword, but it is nothing to whine about.  When you beat this
+simple creature, take his Heart Container and go right.  There's the first piece
+of the Triforce.
+
+================================================================================
+=================================The Moon (S)*==================================
+================================================================================
+
+                          +-------------------------+
+                          |    Lunar Destination    |
+                          +-------------------------+
+
+There's nothing to it but to do it.  This one is where the item shop used to be
+where they sold the Blue Ring.  If you forgot where that is, no need to worry.
+From the starting point go up, left three times, and up until you no longer can.
+Touch the middle Armos in the upper row and it'll move off of a staircase.  Go
+down into the ground.
+
+                              +-----------------+
+                              |    Level – 2    |
+                              +-----------------+
+
+The item you get here is just infinitely useful.  Can you hear the excitement in
+my voice?  For lack of another direction, go up.  By virtue of sword defeat the
+Gibdos here for a key.  Go north.  Go north again, skipping the Zols if you'd
+like.  Take the key, defeat the Keese, and go north again.  In here are several
+Gibdos.  Once again, use the Boomerang to stun them and then finish them.  Go
+north again.  Defeat all the Keese and bomb the east wall.  Walk through, get
+the key, return to the Keese room, and go north.  It's Manhandla!  How's it
+going?  But seriously, kill this with a bomb.  It is not worth the trouble to
+kill it with the sword.  Take the key it leaves and go right.  There are several
+Iron Knuckles in here.  In here, when you defeat the principle Iron Knuckle they
+all die.  Use a key to go north.
+
+In here you must defeat the Zols.  The problem is there are statues and razor
+traps with them.  Defeat the Zols and Gels as quick as you can and take the Map.
+This dungeon is shaped like an A.  E and A are the first two letters of eagle,
+but not bird.  Anyway, with the map, go south twice.  Walk into the wall at the
+other side of the hallway.  It is an illusion and you can walk right through.
+Walk around the spiraling blocks to a staircase.  Go down and get the item, the
+Whistle.  Wonderful.  Now surface and walk through the left wall.  You can.  Now
+head south.  Use the key to go east.
+
+In here, defeat every Keese, Gibdo, and Pols Voice for a small key.  Bomb the
+south wall and go through.  Defeat the Iron Knuckles here for the Compass.  Now
+bomb the right wall.  Defeat the Keese in here for a key.  Go south.  In this
+wonderful room defeat the Zols and Gels that spring from them for another key.
+Go south.  Kill each Gibdo for five rupees.  Now take the stairs to the other
+side.  Ignore or fight the Iron Knuckles and open the north locked door.
+
+                             +--------------------+
+                             |    Boss: Gleeok    |
+                             +--------------------+
+
+It seems the bosses do change.  Gleeok is pretty hard for the second boss.
+There're a few good tricks to this battle, though.  For one, time when it fires.
+Rush in, slash, and pull out when the time comes for another fireball.  When
+you've weakened it enough so that the head comes off, play very defensively.
+The Magic Shield cannot block his fireballs.  Dodge the fireballs from the body
+and the head at the same time and hit (from the side; it's the best direction to
+attack from) the head.  When you win, take the Heart Container and advance
+north.
+Nab the second piece of the Triforce.  I love happy endings.
+
+================================================================================
+=================================The Manji (S)*=================================
+================================================================================
+
+                         +----------------------------+
+                         |    Two Heart Containers    |
+                         +----------------------------+
+
+The Whistle actually has a few uses this time around.  It lets you get two more
+Heart Containers.  As of right now you have the Wooden Sword and six hearts,
+meaning you can afford to get the White Sword, which requires five hearts.  If
+you'd like, get the White Sword first to make the Heart Containers easier, or if
+you're just using this guide (and haven't gotten the first Heart Container) do
+this first.  You may also want to get the Blue Ring before starting out.  Now
+here's how to get the Heart Containers.  For this first one, warp to the second
+location with the Whistle.  By second location, I mean the one with the cave
+shop in it.  Now go left and up all the way to see a Fairy.  She restores all
+your hearts.  Now go down and left.  Go left and down once to be in the Lost
+Woods.  You should know the code very well now.
+
+Go up, left, down, and left to exit.  Now go up three times, right three times,
+take the right ladder up, right, up, right three times, up, and left.  You're in
+the right spot if you're one screen before Spectacle Rock (where it was in the
+first quest).  Play the Whistle and take the stairs down that form.  Take the
+Heart Container, of course, and surface.  Now use the Whistle to return to the
+starting point.  For the second Heart Container go right four times, up four
+times, and left once.  Blow the Whistle here and use the stairs that form to get
+the Heart Container.
+
+                  +-----------------------------------------+
+                  |    The Blue Ring and the White Sword    |
+                  +-----------------------------------------+
+
+Return to the starting point.  Go right all the way and up until you can't go
+further.  Go left and up from here.  Take another left and up from there.  Go
+right twice.  It looks like a dead-end.  The tree has the Old Man inside and he
+gambles with you.  Walk along the top of the rock wall.  Eventually you'll climb
+up invisible stairs.  Go up and you'll see what looks like a labyrinth entrance.
+Enter and buy the Blue Ring for 250 rupees.  Now, not only does Link have a blue
+tunic, but his defense is doubles, so you take less damage.  Now we will get the
+White Sword, which is in the vicinity.  Take the stairs down and go left twice.
+Head up the ladder and go left until you can no longer.  Take the ladder down
+and keep going left until you see a ladder.  Climb up and walk around the pool
+of water to the cave.  Inside is your good friend, the Old Man.  He gives you
+the White Sword since you have enough hearts.  It's twice as strong as the
+Wooden Sword.  Talk about worthy side quests...  Before you ventured into the
+third dungeon, you doubled your offense and defense.
+
+                             +--------------------+
+                             |    Monster Bait    |
+                             +--------------------+
+
+Once you've recovered enough rupees, 100 or 60, you can buy Monster Bait, which
+will be needed in the third dungeon.  It costs 60 rupees at the shop where you
+bought the Blue Ring.  If you're too lazy to go all the way over there, there's
+an easy alternative that costs 40 rupees more.  Go right (from the starting
+point), up three screens, and left twice.  Use the Blue Candle to burn the
+corner tree to reveal a staircase.  Take it down to a shop.  Either shop you
+choose to shop at, you need to buy the Monster Bait.  Technically, you don't
+need to buy it, but if you want the item you do.
+
+                             +--------------------+
+                             |    Almost There    |
+                             +--------------------+
+
+Level 3 is where Level 2 used to be.  If you forgot how to get there, I'll guide
+you.  From the first screen go right, up, and right.  Keep going right until you
+have to go up.  Go up, left, and upper right again.  Take another right, an up,
+and a left.  Climb the stairs and you'll see a pond where the dungeon should go.
+Blow the Whistle and it will dry up, leaving a staircase in its place.  Go down.
+
+                              +-----------------+
+                              |    Level – 3    |
+                              +-----------------+
+
+This is a very weird dungeon because its boss is in the middle of the dungeon,
+not the end.  First, go up.  You'll see a plethora of Goriyas to cope with.
+Defeat them and continue upward.  In here are some Ropes.  I don't know if it
+was my game on the flip or it was designed this way, but they seem all phantom-
+like and purple.  Go north again to find the Map and a few Goriyas.  Defeat them
+and take the map.  Apparently, this place is shaped like an L.  That's a letter
+in eagle, but they skipped G.  Go north again and fight some Stalfos.  You get a
+key as a reward for smiting the skeletons.  Go north again to see an annoying
+Goriya that's hungry.  Throw him the Monster Bait and use a key to unlock the
+north door.  In here are several Goriyas.  Defeat them all for this dungeon's
+prize, the Magic Boomerang.  Now go five rooms south.  Use your key on the right
+door.
+
+                            +---------------------+
+                            |    Boss: Dodongo    |
+                            +---------------------+
+
+There are three here.  There are two ways to beat these.  You can lay two bombs
+in their mouths, making them explode, or you can have a bomb explode near them
+and then finish them with your sword.  Either way you slice it, this is one easy
+Heart Container.  You don't even have to fight them (you want to, because they
+yield a Heart Container)!  You could just go to the next room.  When you win, go
+south.
+
+Grab the Compass in here and kill the Wall Masters.  The Magic Boomerang is your
+best option.  When you've killed all of them push the middle block left and go
+down the stairs.  When you emerge take the key and go north (after beating the
+Goriyas).  There's the piece of the Triforce.  That was a cake walk.  Dungeon 1
+and 2 were much harder than this sorry excuse for a level.
+
+================================================================================
+=================================The Snake (S)*=================================
+================================================================================
+
+            +-----------------------------------------------------+
+            |    The Power Bracelet and the Old Woman's Letter    |
+            +-----------------------------------------------------+
+
+It's time to get this item already.  We're a tad late on the letter, but it
+isn't important (the first three levels weren't that bad).  First, we're getting
+the Power Bracelet.  Start out at the first screen.  Go left, up, and left
+thrice (three times).  Now go left, up, left, and down.  You're in the wretched
+Lost Woods.  Go up, left, down, and left.  This should come naturally to you
+now.
+Now go up three times.  Go right three times and up the right set of stairs.  Go
+right to see some Armos.  Touch the very right one (upper row) and it will come
+to life.  Under it is the Power Bracelet.  As long as we're here, let's get the
+Old Woman's Letter, which is fairly close.
+
+Go up the stairs, left all the way, and up the stairs.  Go left, down the
+stairs,
+and push the leftmost tree down to make stairs appear.  Take them down and take
+the Old Woman's Letter from the Old Man.  The Potion Shop (or the convenient
+one,
+anyway) is just where it was in the first quest.  From the start, go up, left
+three screens, and into the cave.  Show the Old Woman the letter and she'll open
+shop.  You can now buy Red Potion or Blue Potion (red is better).  You should
+get some Red Potion before heading out to the next dungeon.
+
+                         +----------------------------+
+                         |    Off to see the Snake    |
+                         +----------------------------+
+
+Level 4 is right by where 5 used to be.  From the starting point, go right four
+times, up four times (stick to the right side of the screen), right once, up
+once, and left.  Welcome to Hebra's Hill.  If you keep going up you'll reach a
+Fairy Fountain.  But that's not why we came here.  Now that you have the Power
+Bracelet, a new dungeon is yours for the taking.  This one actually contains
+some remotely useful items.  Push the rightmost tree up or down to gain access
+to this labyrinth.
+
+                              +-----------------+
+                              |    Level – 4    |
+                              +-----------------+
+
+This place is gargantuan.  First, go left.  Remember that the Blue Candle can
+light dark rooms.  Do so and defeat the enemies, preferably with the Magic
+Boomerang.  Take the key and go right.  Go up and you'll face Digdogger.  Use
+the Whistle to shrink him down to size and then take down its mini-me versions.
+Go left.  Defeat all the Iron Knuckles and Pols Voices for the Compass.  Now
+that you have go north.  In here it is unnecessary to fight anything.  Rush to
+the door and unlock it (right).  You'll face Aquamentus.  In either quest, this
+is the first time you ever face this guy as a common enemy.  Defeat it with
+three swipes of the White Sword for a single recovery heart.  Then go through
+the door it was guarding.
+
+Defeat the enemies in here and push the middle left block.  Go down and get the
+Magic Book.  Kind of pointless with no Magic Wand...  Surface and walk through
+the north wall.  It is an illusion.  The room you come out in lets you get a
+bomb upgrade - carrying 12 bombs for 100 rupees.  Go through the left wall (also
+an illusion) and use a key on the door.  In here defeat all the enemies for a
+key.  Go north.  Defeat the Zols in here and go right.  To do this, trigger the
+trap and run.  In the next room conquer the enemies for a key.  Bomb the right
+wall and go through.  There're lots of rupees in here.  Now go back left and go
+north.
+
+Push the block up and bomb the right wall.  Go through the fissure and defeat
+the Dodongo.  Go north.  Kill all the Iron Knuckles for the Map.  This place is
+shaped like a D.  That's not even in eagle, so they obviously weren't spelling
+that.  Now that we have that, we're ready to take down the boss.  Go south and
+left.  Push the block and go up.  Defeat the Keese (you may want to light the
+room) and bomb the north wall.  Make sure that before you enter you have 50
+rupees or more.  The Old Man has taken to mugging people.  Pay him 50 rupees so
+you don't die and go right.  In here, push the left block in the middle pair and
+go down the stairs that form.  Go up the opposite ladder and use the key on the
+north door.
+
+                           +-----------------------+
+                           |    Boss: Digdogger    |
+                           +-----------------------+
+
+He's not only a common enemy, but he's a boss later on.  Use the Whistle, which
+is proving to be much more useful in the second quest, to shrink it and then
+slash it.  Take the Heart Container when you're done.
+
+Do not take the Triforce piece when you're done.  Instead, walk through the
+north wall.  Defeat the Iron Knuckles you find and go up again.  In here destroy
+the abundance of enemies.  Do not go through the door, as it is a one-way door
+leading to the Map room.  Push the block nearest the door right and go down the
+stairs.  Take the Raft!  Now go three rooms south and take the Triforce piece.
+Finally this nightmare is over.
+
+================================================================================
+================================The Lizard (S)*=================================
+================================================================================
+
+                          +-------------------------+
+                          |    A Heart Container    |
+                          +-------------------------+
+
+There's another Heart Container available to us thanks to the Raft.  It is just
+where it was in the first quest.  Go right all the way from the start and up all
+the way from there.  You'll see a docking point.  Dock off to what looks like a
+labyrinth entrance.  Inside, choose the Heart Container over the Red Potion.
+
+                              +------------------+
+                              |    The Arrows    |
+                              +------------------+
+
+Go to any merchant shop that has the goods and buy Arrows for 80 rupees.  The
+best place you'll be very familiar with.  Go all the way right and up twice.
+Here you are.  Buy them.  I won't tell you what item you get, but let's just say
+it is somehow related.
+
+                          +--------------------------+
+                          |    Into the Labyrinth    |
+                          +--------------------------+
+
+The fifth dungeon is right where the fourth was in the first quest.  To reach
+that spot from the starting point, go up one screen and left two.  In this
+screen (stay right of the bridge) walk north one screen and dock off to the
+fifth dungeon on an island.
+
+                              +-----------------+
+                              |    Level – 5    |
+                              +-----------------+
+
+First, let's get the weapon (because it is well-worth it); you're finally going
+to get a non-sword offense item (besides the Bombs).  First go north.  Use the
+Blue Candle to light the room and avoid the razor traps.  Go left.  In here
+you'll see the most vile creatures in the game - Like Likes.  They eat shields,
+namely your Magic Shield.  Now I'm sure you have a key left over from past
+dungeons.  If not, go buy one from a merchant.  But assuming you do, go through
+the south door.  In this room, avoid the Bubbles at all costs.  They make it so
+you can't use your sword (until you reach a Blue Bubble).  If you do get hit,
+sacrifice some health and hit the Blue Bubble.  Now descend the stairs.  Take
+the opposite up and you'll be in a room with Wizzrobes.
+
+Remember that the Magic Shield reflects magic blasts.  Also note that Wizzrobes
+can be hurt as they are transparent.  Defeat them all and push the middle left
+block right to make the door open. Go through and fight Gohma.  Right now you
+can't win, actually, so just go south.  Run down the stairs and get the Bow,
+this dungeon's prize!  Finally!  Took them long enough.  Assuming you did as I
+said and got the Arrows, go up a room and kill Gohma by shooting it in the eye
+three times.  You get a key for winning.  Now go left, down the stairs, and up
+the others.  In here, walk through the left wall for a key gotten by defeating
+Gels.
+
+Now go back through the wall and north.  Go west and you'll enter a room with
+Vires in it.  It is sort of risky, considering the presence of the Bubbles, but
+you should kill them and their Keese components for the Map.  As it turns out,
+this dungeon is a Z.  E, A, L, D, and Z.  As reader Ross Ura points out, the
+letters can be rearranged to spell “ZELDA,” and that’s the name of the game.
+Good eyes, Ross!  Anyways, with the Map, go north.  Kill the Wizzrobes here and
+go up again.  Defeat them here once more and go right.  Defeat the Gels here for
+the Compass.  In here, if you actually had the will power, you could come back
+with the Stepladder for this key.  You don't need it so take a right.  Here you
+have another epic clash with Manhandla.  Defeat it with the good old bomb
+strategy and head upward again.  Defeat the Keese in here (they all die if you
+hit the "master Keese") and take the stairs down.  When you emerge use a key on
+the door to the left.  It's the boss.
+
+                             +--------------------+
+                             |    Boss: Gleeok    |
+                             +--------------------+
+
+He's the toughest boss in the game, and so naturally they'd use him a few times.
+First, I recommend that you come in with full hearts.  Maybe if you still have a
+Red Potion you can use it later.  Sword beams make this battle a walk in the
+park.  If you have them stand opposite the three-headed dragon and strike over
+and over, dodging the blasts each time.  When his heads come off it will be a
+bit more complicated.  If you don't have full hearts, be tenacious and in-his-
+face.  Your health is probably high enough, now that you have the Blue Ring and
+the White Sword, that you can just repeatedly hack at him until he dies.  I
+suggest you use the reckless hacking strategy only after you've dismantled two
+heads.  Now take the Heart Container and go north.  There's your fifth Triforce
+fragment.
+
+================================================================================
+================================The Dragon (S)*=================================
+================================================================================
+
+                          +-------------------------+
+                          |    The Magical Sword    |
+                          +-------------------------+
+
+You now have twelve hearts, just enough to get the most powerful blade in the
+game, the Magical Sword.  If you have the special edition (one of the first 200
+copies) and you're playing in the second quest, this is called the Master Sword.
+The Master Sword is slightly stronger than the Magical Sword, or so I've heard.
+Fortunately for us, the Magical Sword isn't too far off from the next dungeon.
+First off, we're going to utilize a secret.  This isn't too secret.  It's an
+underground system of roads that provide a shortcut through Hyrule.
+
+Go two screens right from the starting point and push the left tree up or down.
+A staircase is revealed.  There's that useful old guy.  Take the left set of
+stairs to be by the Graveyard.  If you appear somewhere on Death Mountain,
+retry.
+You want to exit by four trees.  From there, go down, up the other stairs, right
+as far as you can, and up the stairs.  Now go right as far as you can and up the
+stairs.  Keep going right until you see an arrow.  Push the leftmost tree down
+and enter the stairs that form.  Now you have the Magical Sword!
+
+                           +------------------------+
+                           |    Enter the Dragon    |
+                           +------------------------+
+
+We're just going to waltz on to the sixth dungeon.  After all, there's nothing
+new to do now.  From where you got the Magical Sword you must work your way back
+to the Graveyard.  The easiest thing to do is blow the Whistle (warp to the
+first dungeon), go to the starting point, and use the shortcut.  From the
+shortcut location, go down, right three times, and play the Whistle.  A grave
+transforms into stairs.  There's the gate to the dungeon.
+
+                              +-----------------+
+                              |    Level – 6    |
+                              +-----------------+
+
+When you enter, go up.  In this room defeat the Wizzrobes and go north.  The
+room you arrive in is filled with monsters.  Go through the left door.  In here
+are a few Vires.  Defeat or skip them and use a different-dungeon key on the
+left door.  In the room you reach go left once more.  Here, avoid the razor
+traps and push the leftmost block up or down, your choice.  Go down the stairs
+that form and get the Stepladder.  Hooray!  Exit this room and return all the
+way to the second room.  Since you haven't done much, this should be too hard.
+Go left three times and down once.  Take the west door and illuminate it with
+the Blue Candle.  Use the Stepladder to reach the key.
+
+Now go to the Vire room (due north).  Hang a right and go up.  Since there's no
+door, make one with your bombs.  In this room go left.  Use the Stepladder to
+snatch the Map and go north.  This dungeon seems to be shaped like nothing.
+Some people say it's a hat, but I wouldn't bet it looks like anything.  To me,
+it kind of looks like a duck (the beak sticking out) with some sort of head-
+thing sticking off the back.  If you like sideways it kind of looks like a
+wizard's hat.  Anyways, you can walk through the north wall.  Trigger the traps
+and wait for them to start resetting before you walk through.  In here bomb the
+right wall and walk through for the Compass.  Now walk left and go north.
+
+Go north again and defeat all the Wizzrobes to open the door and get Bombs.
+Head right through the door.  In here you must use the Stepladder to go south.
+In this Blue Bubble room push the middle left block down or up and go down the
+stairs that materialize.  Go around the spiral in the room you emerge in and
+bomb the south wall.  Walk through, take the key, go north, and use the key on
+the right door.  In here you fight Gleeok, but it is very easy.  With the
+Magical Sword at your disposal just slash him repeatedly.  Play defensively if
+you so desire, but you can kill it fast enough to not have to.  Go right and
+push the leftmost block up.  Take the stairs to a room with Manhandla in it.
+Bomb the beast and advance north.
+
+                             +-------------------+
+                             |    Boss: Gohma    |
+                             +-------------------+
+
+This is a pretty easy battle.  The more hits you score the more frequently it
+fires fireballs.  Walk with it, always in line with the eye, and wait for it to
+open it.  Shoot three arrows in and you win.  Simple as that.  Take the Heart
+Container and go north one more time for the sixth Triforce piece.
+
+================================================================================
+=================================The Demon (S)*=================================
+================================================================================
+
+                       +--------------------------------+
+                       |    The Last Heart Container    |
+                       +--------------------------------+
+
+Need I even write this?  Go right all the way from the start and go up until you
+see it in the sea.  Use the Stepladder to reach the Heart Container.  Now you're
+set for the next dungeon.
+
+                              +------------------+
+                              |    Demon Hunt    |
+                              +------------------+
+
+This one's close to home.  However, I don't like this dungeon because the Old
+Man mugs you on two separate occasions.  To reach it, go right four times, up
+once, and right.  Go up, left, upper right, and down.  Welcome to the screen
+where you can find this dungeon.  It is very hard to guess by the looks of it.
+Stand left of the second bush in the pair (third row down) and use the Blue
+Candle to burn it.  A staircase forms on the other side.  To reach it go up,
+left, lower right, and down.  Enter if you dare.
+
+                              +-----------------+
+                              |    Level – 7    |
+                              +-----------------+
+
+I hate this level!  It reminds me of the first Spectacle Rock with all its
+staircases and color.  First go left.  Take the Compass.  Go right twice.  Go
+again and defeat the Iron Knuckles.  Go right again, thanking your lucky stars
+you got that Stepladder.  Defeat the enemies here and push the third block down
+from the second string of blocks to make a staircase form.  Take it down and go
+south from where you surface.  Grab the key and terrorize the denizens of this
+room.  After you've taken out the trash push the left of the middle pair of
+blocks down and go down the staircase.  That's the item, the Red Candle.  Aren't
+you psyched?  I know that I'm simply ecstatic.
+
+Go up a screen and defeat the Keese.  Push the leftmost block either way and
+take the stairs back to the room you were in.  Hang a right.  In here is another
+Manhandla.  They should just call you Link the Manhandla slayer.  Bomb it and it
+will die.  Push the left block up and go through the right door.  In here defeat
+or skip the opponents and head north.  Light this room up with the Red Candle
+and thrash the Iron Knuckles for the Map.  Yes!  Now it's time to focus on the
+piece of the Triforce.  This dungeon resembles an "e" loosely, but I'd say it
+was more of a spiral.  Go north and kill the Iron Knuckles.  Go north again, do
+not pass go.  This room is basically a repeat of the last.  Go north.
+
+It's your good pal Gohma.  Shoot it three times with an arrow and advance up.
+Nab the key.  Kill the Keese.  Push the left block.  Descend the stairs.  On the
+other side go north right away.  You're conserving health.  Push the mid block
+up and go right.  Do not enter if you don't have fifty rupees.  It is necessary
+to be mugged by the Old Man.  Why did he resort to a life of crime?  Move to the
+bottom and, of course, defeat all the Iron Knuckles.  Push the third block in
+the second string of diagonals to make stairs form.  Take them to the other
+side.
+Making sure not to be hit go left.  Take down your assailants in here and go
+left.
+
+                             +--------------------+
+                             |    Boss: Gleeok    |
+                             +--------------------+
+
+With the fourteen hearts you have this boss is nothing.  Run up and slash the
+head repeatedly.  You'll survive with your mega-health and the Blue Ring to back
+you up.  Take the Heart Container and go left.  Take the piece of the Triforce.
+Only one left!
+
+================================================================================
+=================================The Lion (S)*==================================
+================================================================================
+
+                   +---------------------------------------+
+                   |    Monster Bait: The Second Coming    |
+                   +---------------------------------------+
+
+You need more Monster Bait for the upcoming dungeon.  To get some you can go to
+one of two shops.  The first was where you got the Blue Ring, which was 60
+rupees.  But the closest one was 100 rupees.  I'm listing the 100 rupee one
+because it's much easier to reach and caused a lot less confusion.  From the
+start go right, up three times, and left twice.  Burn the corner bush and
+descend the steps to the store.  They also sell Magic Shields here for 90
+rupees,
+which makes up the 40 rupee difference between the stores (if you need a new
+Magic Shield).  Now that that's over with, we can finally get that last Triforce
+piece and the Magic Key, the best item ever invented.
+
+                           +-----------------------+
+                           |    Eye of the Lion    |
+                           +-----------------------+
+
+This time we're going to have to travel quite a distance.  I'd advise you use
+the shortcut with the Power Bracelet.  So, from the start go right twice and
+push the tree to use the stairs.  Go left.  Usually you want to go to the
+Graveyard, but this takes you to the eastern part of Death Mountain too,
+sometimes.  From that spot on Death Mountain go left four times.  Now you're
+going to have to work with me here.  Let's say that Link's body is one "space."
+Measure over five spaces from the left using the Stepladder on the rock wall.
+Bomb there and enter the dungeon.
+
+                              +-----------------+
+                              |    Level – 8    |
+                              +-----------------+
+
+First room, go north.  Push the left block up and take the flight of stairs
+down.
+In the room you pop out in walk through the south wall.  Use your key on the
+south door and you'll be in Wall Master country.  Arrows offer one-hit
+victories.
+Push the middle block over and take the stairs down to get one of this dungeon's
+prizes, the Magic Wand!  You had to have gotten the Magic Book for something,
+right?  Emerge, go north twice, push the block, and use the stairs to reemerge
+in the second room of the labyrinth.  Go north once more to see some "phantom"
+Ropes.  Defeat them and push the third block in the second diagonal up or down.
+
+Go down the stairs and bomb the south wall when you emerge.  Go down and defeat
+the numerous Goriyas to gain access to the Map.  This place is one big spiral,
+playing on the trend started with Level 7.  Return one room north and defeat the
+monsters.  Once you have push the mid-left block up and go down the stairs.
+After the 2-D screen go north.  Go north again and face Digdogger.  Whistle it
+and defeat the shrunken versions.  Go north.  Feed the grumbling Goriya his
+Monster Bait you were supposed to buy and advance north once more.  Use the Red
+Candle to light the room and the Stepladder to evade the traps.  Kill the Keese
+for the Compass.  Go north again.
+
+Kill all the Goriyas for a key.  Go left and defeat them again.  Arrows are your
+safest gamble in this arena.  Go left again to fight another Digdogger.  Blow
+the Whistle and defeat the components.  Bomb the west wall and go through.  It's
+like storming the dungeon in here everything's so sequential.  Be very careful
+in this room.  You may want to use Arrows.  Kill all the Wall Masters for Bombs.
+Use a key on the left door and enter.  Kill off the Dodongos with your bombs to
+open the door.  Go through and take the key.  Push the mid-left block to make a
+staircase form.  Take it to a new room.  Quickly run through the locked door to
+the left.  Right here is easy - Stalfos.
+
+They're enhanced only in that they have sword beams.  Defeat them and push the
+third block in the second string of diagonal blocks to make a staircase.  Take
+it down and you now have the Magic Key!  That's right, you got it.  No more keys
+to worry about.  Return right through the door you came by.  Go south.  Push the
+block down and go left.  Defeat the Ropes and walk through the south wall.  Use
+the Stepladder to get around and go right.  Walk through the hall and open the
+door with one of your infinite keys (courtesy of Magic Key).
+
+Kill the Goriyas and move the block.  Go down the stairs and you'll appear in
+the room before the boss.  Go north if you want to fight the boss and be done
+with this dungeon.  Or, you bomb the wall.  This eventually leads to a bomb
+upgrade, so if you think you can make due with 12 in Spectacle Rock by my guest
+and skip right to the boss.  If not, bomb the south wall.  Go south and fight
+Aquamentus.  Beat it and go left.  Here's the tricky part.  Defeat the Wall
+Masters and push the middle block to open the door.  If you fail you're back at
+the start of the dungeon.  Left once more takes you to the Old Man.  Pay him 100
+rupees for the bomb upgrade, letting you hold 16 at a time.  Now backtrack to
+the room before the boss.  Open the door with the Magic Key.
+
+                            +---------------------+
+                            |    Boss: Dodongo    |
+                            +---------------------+
+
+I don't see why they persist in putting such an easy boss in this game's second
+quest.  You should have this down to an art form by now.  Place bombs in front
+of their mouths twice per Dodongo to kill one.  Take the final Heart Container
+and go north to complete the Triforce of Wisdom.  There's only one destination
+now, the ultimate destination.  Spectacle Rock!
+
+================================================================================
+==============================Spectacle Rock (S)*===============================
+================================================================================
+
+                       +--------------------------------+
+                       |    The Ultimate Destination    |
+                       +--------------------------------+
+
+Spectacle Rock is in no clever hiding place.  On the contrary, it is right on
+Death Mountain.  Only difference is this time it's left a bit from the original.
+From the starting point go right twice and take the shortcut - push the left
+tree.  Take the left set of stairs to be by the Graveyard and go south, up the
+right ladder, right, up, left, up the stairs, and left three times.  You'll be
+in a narrow strip of land with nothing but stairs leading down.  Bomb the wall
+to find the entrance to death, Spectacle Rock.
+
+                              +-----------------+
+                              |    Level – 9    |
+                              +-----------------+
+
+Go north.  Here's where the Old Man would stop you if you haven't completed the
+Triforce.  Go up again.  Use the Red Candle to light the room and pass through
+the right wall.  In this room walk through the wall again.  Here's a room with
+Wizzrobes.  Defeat them if you can't progress otherwise and bomb the northern
+wall.  Go through, obviously.  Defeat the Patra here for the Map.  All I can say
+is fight boldly and defensively.  The Map shows this place to be a skull, but
+not human.  Some say it is shaped like Ganon's head, although I don't think it
+looks like a pig's skull.  Now go left through the wall.  Kill all the Wizzrobes
+and push the block up and take the stairs down.  You got the Silver Arrows!
+Hooray!  Surface and walk through the north wall.  In here, be extra careful not
+to get hit by the Bubbles and push the block on the left.
+
+Take the stairs down and you're in a new room.  Bomb the north wall.  Go through
+and defeat the Blue Lanmolas in here.  Head left.  Avoid the Like Likes at all
+costs (not all, but don't get caught).  Hang a left.  Go north, dodging the
+Vires.  Thanks again, Magic Key.  Defeat the Keese in here (you might want to
+light the room up) and take the north locked door.  Push the middle block and
+bomb the left wall.  Go in and come back to the block room (you're now at a new
+angle to push the block).  Push it right this time and go north.
+
+Cruise by the Wizzrobes and razor traps to the right.  Bomb the south wall and
+go through.  If you got hit by a Bubble, you lost your sword ability.  Get hit
+by a Blue Bubble to get it back and then go through the door you made.  In here,
+defeat all the Gels for the Compass.  Return to the north room and bomb up.  Go
+through the right locked door.  If you've noticed, we're avoiding as many fights
+as we can.  Go north, killing the Like Like before hand, maybe with the Magic
+Wand.  The Old Man tells you to go to the next room.  Walk through the left
+wall.
+Go left again, killing the Like Likes in advance with the Magic Wand.
+
+Go up.  Avoid an unnecessary and often lethal fight with a Patra and walk
+through the left wall.  Use the Magic Wand to kill the Blue Lanmolas from a fair
+distance.  Push the left block up and take the stairs down.  Pick up the Red
+Ring, making your tunic red.  Surface and go through the right wall.  Here,
+you're forced into action.  Kill the Patra and push the left block up, down -
+whatever you want.  Even right or left!  Now take the stairs down.  When you
+emerge bomb the right wall.  Go through and defeat the Patra.  Advance into the
+next room.
+                             +-------------------+
+                             |    BOSS: GANON    |
+                             +-------------------+
+
+You'd think they would at least toughen him up for the second quest battle.
+Link flashes the Triforce of Wisdom and Ganon appears in the darkness.  He turns
+invisible and the fight begins.  And what a fight it is.  I like the phrase I've
+always used to describe this fight.  That is, I like saying Ganon is laughably
+easy.  To win slash him with the sword.  Since Ganon is invisible, try slashing
+randomly.  If you're really adventurous stand in one spot and slash.  After
+slashing four times he turns brown.  Shoot him with a Silver Arrow and he dies.
+Not only that, but Ganon sports a really funky pose when he gets hit.  When you
+win pick up the Triforce of Power from Ganon's ashes and go north.  Here,
+destroy the fires and you've won.  If you wanted, you could exit the dungeon and
+never rescue Zelda.  Any weapon, even the Red Candle, can destroy the fire.
+Unfortunately, the Magic Bommerang cannot.  Now touch Zelda.  You beat the game!
+Thanks Link, you're the hero of Hyrule.  Finally, peace returns to Hyrule.  This
+ends the story.  That's what they say.  At the end, they rank how many lives you
+lost throughout and give you a pointer (they tell you how good you are for
+winning with that many lives lost).
+
+CONGRATULATIONS!  You’ve beaten the first AND second quests!  Now you can
+restart the second quest to play again if you’d like.  You're the master!
+--------------------------------------------------------------------------------
+   __________________________________________________________________________
+  /                                                                          \
+ /                                                                            \
+||--------------------------------Section 4*----------------------------------||
+ \                                                                            /
+  \__________________________________________________________________________/
+
+================================================================================
+===============================Heart Containers*================================
+================================================================================
+
+The heart system in this game is different from all the others.  It drains
+backwards, but also there are sixteen.  You start with three and there are eight
+bosses that give Heart Containers.  Therefore, by my expert mathematical
+deductions, and forensics/rocketry, I can determine that in each quest there are
+five extra Heart Containers.  Here they are, listed by quest.
+
+                             +-------------------+
+                             |    First Quest    |
+                             +-------------------+
+
+1) Once you have the Bombs, go right four times from the starting point.  Bomb
+the wall left of the north path and enter the cave.  Choose the Heart Container
+over the Red Potion.
+
+2) From the screen with # 1 go north until you can go no further.  Go right and
+bomb the rock.  Here's where you choose between the Red Potion and the Heart
+Container.
+
+3) From the starting point, go right and north three times.  Go left once and
+count five trees over.  Burn this with your Blue or Red Candle and take the
+stairs down to the Old Man.
+
+4) Go right all the way from the start and up until you can go no further.  Use
+the Raft to reach a labyrinth-like structure.  Enter and take the Heart
+Container.
+
+5) Go right all the way and up until you see the Heart Container in the sea.
+Use the Stepladder to reach the Heart Container.
+
+                             +--------------------+
+                             |    Second Quest    |
+                             +--------------------+
+
+1) From the starting point go up, left four times, up, left twice, and down.  To
+escape the Lost Woods go up, left, down, left.  Go up four times.  In the
+Graveyard, push the grave in the second column from the left, second row from
+the bottom.  Inside is the Heart Container.
+
+2) Blow the Whistle to be in the cave shop warp point (outside a cave shop where
+the third dungeon was in the first quest).  Go left and up all the way to see a
+Fairy Fountain.  From here go down, left twice, and down.  In the Lost Woods go
+up, left, down, and left. Go up three times, right three times, and take the
+right ladder up.  Go right, up, right three times, up, and left.  Play the
+Whistle and stairs form.  Go down and choose the Heart Container.
+
+3) From the starting point go right four times, up four times, and left once.
+Blow the Whistle and use the stairs that appear to reach the Heart Container.
+
+4) From the starting point go right all the way and up as far as you can.  Use
+the docking point to raft to a labyrinth-like structure.  Enter and pick the
+Heart Container.
+
+5) Start at the starting point and go right all the way.  Go up and as you do
+you'll see a Heart Container in the sea.  Use the Stepladder to reach it.
+
+In case you didn't catch the similarities, the last two Heart Containers are the
+same in both quests.
+
+================================================================================
+==================================Item Index*===================================
+================================================================================
+
+This game has a lot of items, some more useful than others.  One of the coolest
+things about this game is that you actually upgrade weapons and you could skip
+them all together.  One of the best ways to play this game is to do it
+incompletely; skip unnecessary items to challenge yourself.  But, for your
+convenience, here is a complete list of items and upgrades, alphabetized.  It's
+a hobby of mine.  Also, please read my walkthrough for how to get these in
+detail.  Reproducing every step would be extremely impractical.  Besides, the
+ways to obtain most weapons changes with the quests.  When I have you get an
+item in the walkthrough the item is the name of the section.
+
+--------------------------------------------------------------------------------
+Arrow
+
+Obtain: Buy this from merchants.
+
+Function: Shoot arrows when you have the Bow.  Before that, this item is
+completely useless.
+
+Side Notes: Since there is no arrow count like there is for the Bombs, there
+needed to be a method of limiting how many arrows you could use.  Every arrow
+costs 1 rupee (unless you fire really fast, you can sneak in an arrow for free).
+The Arrow is very useful and the only way to defeat certain enemies.
+--------------------------------------------------------------------------------
+Blue Candle
+
+Obtain: Buy this from a merchant.
+
+Function: This can light up the room Link is in (if it is dark) when used and
+produces flame momentarily.
+
+Side Notes: The Blue Candle can only be used once per screen.  If you exit and
+reenter the screen you can use it again.  Link can be hurt by walking into the
+flame that is produced.
+--------------------------------------------------------------------------------
+Blue Potion
+
+Obtain: Buy this from the Old Women in the game.
+
+Function: This restores all your health when used.
+
+Side Notes: This potion is less useful than the red.  You might as well splurge
+for the Red Potion because it is much better than this and only 18 rupees more.
+When you drink this, it returns to the Old Woman's Letter.  This is only sold
+after the Old Woman's Letter side quest.
+--------------------------------------------------------------------------------
+Blue Ring
+
+Obtain: Buy this at a secret shop.
+
+Function: Link takes one half the damage he would normally.
+
+Side Notes: The Blue Ring changes Link's tunic blue, too.  On the Map Link
+becomes a blue unit rather than green and his raft ropes turn blue as well.
+--------------------------------------------------------------------------------
+Bomb Upgrades
+
+Obtain: Pay 100 rupees to certain Old Men in the dungeons to be able to hold
+four more bombs.
+
+Function: You can hold four more bombs than before.
+
+Side Notes: In each quest there are different dungeons that house the Old Man
+that upgrades you.  There are only two upgrades in either quest.
+--------------------------------------------------------------------------------
+Bombs
+
+Obtain: Buy this from merchants.
+
+Function: These can damage most enemies and they can create doorways in dungeons
+when used on weak walls.  As their name implies, these are bombs and as such
+they explode.
+
+Side Notes: At first you can hold 8 bombs, but by getting the two upgrades you
+can get 16.  Bombs can be dropped by enemies as items.
+--------------------------------------------------------------------------------
+Boomerang
+
+Obtain: Get this in the first dungeon in either quest.
+
+Function: This can tossed by Link to stun enemies from a distance.  This kills
+some weaker enemies, like Keese, and does not affect stronger enemies, like Iron
+Knuckles.
+
+Side Notes: This item is very useful to make fighting easier.  Use it often and
+then come in with the sword.  Hit them once or twice and use it again.  The stun
+effect eventually wears off.
+--------------------------------------------------------------------------------
+Bow
+
+Obtain: This is a dungeon item.
+
+Function: This lets you fire arrows.  Without this, you cannot fire arrows.
+
+Side Notes: The Bow is one the most useful items in the game, although it does
+nothing in itself.  It only lets you use another item, the arrow.
+--------------------------------------------------------------------------------
+Clock
+
+Obtain: Enemies drop this item.
+
+Function: This freezes other enemies on the screen, letting you attack them.
+
+Side Notes: This is like the eternal Boomerang.  You never get this in a boss
+battle, but every where else it's available.  There's no way to guarantee you
+get the Clock, and once you touch it you no longer have it.  Link flashes
+different colors as he has the Clock until he leaves the screen.
+--------------------------------------------------------------------------------
+Compass
+
+Obtain: This is a dungeon item.
+
+Function: This shows you where the Triforce piece is in the labyrinth you find
+it in.
+
+Side Notes: Every dungeon has a different way of obtaining this.  This is not
+actually usable to you, but it affects your in-dungeon map.  It cannot be used
+in any other way.
+--------------------------------------------------------------------------------
+Fairy
+
+Obtain: Enemies drop this item, or are found in special ponds.
+
+Function: Fairies restore a good portion of your health.
+
+Side Notes: Fairies are the constant; they are in every Zelda game.  That can be
+said of few other elements.  Fairies also have occasional Fairy Fountains.  The
+Fairies here (who preside over ponds) restore all your health.
+--------------------------------------------------------------------------------
+Heart Container
+
+Obtain: Defeat the boss of the dungeon.  There are also five scattered around
+Hyrule.  See that section for details.
+
+Function: Increases your heart count by one, which means that it takes longer
+for you to get a Game Over.
+
+Side Notes: This is another classic Zelda element.  It has been in every Zelda
+game (there were Heart Containers in Adventure of Link, just not hearts) and it
+always serves the same purpose - increase Link's life count by one.  Every Zelda
+game even has its own Three-Heart Challenge, in which you never pick up a Heart
+Container once.
+--------------------------------------------------------------------------------
+Key
+
+Obtain: This is a dungeon item.  You can also buy this from merchants.
+
+Function: Opens locked doors in labyrinths.
+
+Side Notes: Unlike almost every Zelda game, you can use extra keys from one
+dungeon in another dungeon.  Once you have the Magic Key, these are obsolete and
+useless.
+--------------------------------------------------------------------------------
+Magic Book
+
+Obtain: This is a dungeon item.
+
+Function: This strengthens your Magic Wand attack by adding fire to it.  That
+is,
+when you cast the spell and it hits something, it is lit on fire.
+
+Side Notes: I bet this is written in Hylian, the language of old Hyrule.
+--------------------------------------------------------------------------------
+Magic Boomerang
+
+Obtain: This is a dungeon item.
+
+Function: This is the same as the Boomerang, except this goes further.  Only
+difference.
+
+Side Notes: With either boomerang, if you move the buttons diagonally you throw
+it diagonally.  This isn't that useful, though.
+--------------------------------------------------------------------------------
+Magic Key
+
+Obtain: This is in the eighth dungeon of either quest.
+
+Function: Gives you infinite keys.
+
+Side Notes: Sadly, this was an item in only one other game.  It is extremely
+valuable in the locked-up ninth dungeon.
+--------------------------------------------------------------------------------
+Magic Shield
+
+Obtain: Buy this from merchants in the game.
+
+Function: This is a larger shield, so it protects Link better.  It can also
+defend against non-boss fireballs.
+
+Side Notes: This can be eaten by Like Likes so be warned.  As a note of
+interest,
+the manual of Zelda II, the first of many sequels to this game, says that Link
+relied on this shield for his next big adventure (as well as the Magical Sword).
+--------------------------------------------------------------------------------
+Magic Wand
+
+Obtain: This is a dungeon item.
+
+Function: This is really good.  It lets you use the Wizzrobe attack wand to cast
+a spell at enemies.  You can use this over and over and over again and it hurts
+most enemies.
+
+Side Notes: Too bad this is only in this game.
+--------------------------------------------------------------------------------
+Magical Sword
+
+Obtain: It is different in both quests.  The Old Man gives it to you.
+
+Function: This is the most powerful sword in the game.  It is four times as
+powerful as the Wooden Sword and kills enemies like Vires and Zols in one hit
+without them releasing mini-enemies.
+
+Side Notes: If you got the special edition of this game (first 200 copies) this
+is called the Master Sword and is slightly stronger.  The Old Man will not give
+this to you if you do not have twelve Heart Containers.  Interestingly, Link
+uses the Magical Sword throughout Zelda II: Adventure of Link, this game’s first
+sequel, but it starts out quite weak, slowly becoming more powerful.
+--------------------------------------------------------------------------------
+Master Sword
+
+Obtain: You get this in the same way you'd get the Magical Sword, except this is
+only in the special edition games (first 200 copies).  It is very unlikely that
+your game has this.
+
+Function: This is truly the most powerful sword in the game.  It is slightly
+stronger than the Magical Sword.
+
+Side Notes: The Old Man gives you the Magical Sword in the first quest and the
+Master Sword in the second quest, only if you have the special edition.  The
+Master Sword is usually the strongest sword in the game and it is a legendary
+blade actually introduced officially in A Link to the Past.
+--------------------------------------------------------------------------------
+Monster Bait
+
+Obtain: Buy this at a secret shop.
+
+Function: This is used three times throughout the entire game, counting both
+quests.  If you ever see a hungry Goriya (one that is in an Old Man room and
+says "Grumble, grumble"), lay this before it and it will run away.  This can
+also distract enemies, making them easier to kill, but hardly anyone would use
+it.
+
+Side Notes: This looks like a slab of meat, and reveals to us that most enemies
+in the game are carnivorous or at least omnivorous.
+--------------------------------------------------------------------------------
+Map
+
+Obtain: This is a dungeon item.
+
+Function: This shows every room in the dungeon and its layout.  It is very
+useful when you see another room you can't reach, as that tips you off that you
+must blow up the wall or walk through it.
+
+Side Notes: Again, this is in almost all Zelda games.  In this game, every
+dungeon is shaped like something.  All the first quest dungeons are named after
+what they look like according to the Map.
+--------------------------------------------------------------------------------
+Old Woman's Letter
+
+Obtain: This is given to you by the Old Man in different locations in either
+quest.
+
+Function: If you show this to the Old Woman who seems useless in the caves of
+Hyrule, she starts selling the Red and Blue Potions.
+
+Side Notes: Letters are very important in Hyrule.  Perhaps the Old Man helped
+the Old Woman at one point.  The Old Woman actually tells you where to get the
+Magical Sword.  It's the only time in the game where you get a hint from someone
+other than the Old Man.
+--------------------------------------------------------------------------------
+Piece of the Triforce of Wisdom
+
+Obtain: This is in every dungeon, except the ninth.
+
+Function: In this game, your goal is to get all eight of these to reassemble the
+Triforce of Wisdom so you can defeat Ganon and rescue Zelda.
+
+Side Notes: Zelda shattered her piece of the Triforce to prevent Ganon from
+getting his hands on the Triforce of Wisdom.
+--------------------------------------------------------------------------------
+Power Bracelet
+
+Obtain: This is under an Armos on Death Mountain in both quests.
+
+Function: This lets you push trees.  In the first quest this is used solely for
+shortcuts, but in the second quest you actually need to get it.
+
+Side Notes: To use the shortcut system, go two screens right of the start.  Push
+the side tree up and stairs form.  The roads inside lead to different regions of
+Hyrule.
+--------------------------------------------------------------------------------
+Raft
+
+Obtain: This is a dungeon item.
+
+Function: This lets you dock off from certain points in Hyrule.  One time you do
+it to reach a labyrinth entrance, another time it is used to reach a Heart
+Container.
+
+Side Notes: The ropes that hold the Raft together change color as Link gets the
+rings.  That is, with no rings Link's Raft has green ropes.  It changes blue or
+red depending on which ring Link has equipped at the time.
+--------------------------------------------------------------------------------
+Recovery Heart
+
+Obtain: You can buy this, but enemies also drop this item.
+
+Function: Restores a lost heart, slowly refilling Link's life.
+
+Side Notes: This is almost in every Zelda game.  Don't waste money buying these
+(you can at select shops) because it's much easier just to kill an enemy and
+hope to get one.
+--------------------------------------------------------------------------------
+Red Candle
+
+Obtain: This is a dungeon item.
+
+Function: This allows you to light rooms that are dark and produce flames
+momentarily.
+
+Side Notes: Unlike the inferior Blue Candle, this can be used as many times as
+you see fit in one screen.  The fire produced still hurts Link, though.
+--------------------------------------------------------------------------------
+Red Potion
+
+Obtain: This item is bought from the Old Woman.
+
+Function: This is the best medicine.  When drunk, Link regains all his hearts
+and the Red Potion turns into the Blue Potion, allowing you to use it again.
+
+Side Notes: It may actually be called the Water of Life.  It only appears under
+that name in Adventure of Link and this game, and I refer to them as the colored
+potions for this reason.  Actually, in most games, the Blue Potion is the best.
+--------------------------------------------------------------------------------
+Red Ring
+
+Obtain: This is an item in the last dungeon in either quest.
+
+Function: Link takes one fourth the damage he normally would.
+
+Side Notes: In other games, this would double Link's attack.  Link's tunic turns
+red when he equips this, as do the ropes on the Raft.
+--------------------------------------------------------------------------------
+Rupee
+
+Obtain: Enemies drop this item.
+
+Function: The official currency of Hyrule is the rupee.  Every item you must buy
+costs rupees.  There are certain locations where you can gamble for rupees, but
+you lose more than you win.  The safest venture of rupees is to go to the second
+dungeon (this is a first quest tip).  There are many Ropes in the first few
+rooms.  Defeat them all; they drop lots of rupees.  Exit, reenter, and repeat.
+This is my rupee trick.  There are also certain rebel Moblins that give you
+rupees during the game, too.
+
+Side Notes: Zelda games in the future have elaborate coloring systems, but this
+has two types of rupee.  Pure blue are worth five of the flashing rupees.
+Obviously, pure blue are the best.
+--------------------------------------------------------------------------------
+Shield
+
+Obtain: You start with this item.
+
+Function: Link's standard shield is small and can only block certain
+projectiles.
+It is incapable of blocking any energy attacks and it does not even cover the
+full width of Link's body.
+
+Side Notes: The only plus to this shield is that it cannot be eaten by Like
+Likes.  Of course, you should buy the Magic Shield anyways.  If you should lose
+the Magic Shield to a monster, you'll still have this to fall back on.
+--------------------------------------------------------------------------------
+Silver Arrow
+
+Obtain: This is an item in the last dungeon in either quest.
+
+Function: This is the upgrade for the Arrows.  It is the only item Link has that
+can kill Ganon.
+
+Side Notes: These remained the Silver Arrows until Ocarina of Time.  In that
+game, Light Arrows became Ganon's great weakness.  Light Arrows are, to this
+day,
+the item that defeats Ganon.  Poor Silver Arrows got outshined.  Well, they are
+light (I made a pun!).
+--------------------------------------------------------------------------------
+Stepladder
+
+Obtain: This is a dungeon item.
+
+Function: This makes a ladder that acts as a bridge for Link when he approaches
+a gap.
+
+Side Notes: This was a one-time only item.  I think it inspired the Pegasus
+Boots, which could be used to cross gaps in some other Zelda games.
+--------------------------------------------------------------------------------
+Triforce of Power
+
+Obtain: Defeat Ganon.
+
+Function: This has no use in the game, but it is important to the storyline.
+
+Side Notes: Ganon's piece of the Triforce, the part of Power, is the high one on
+the Triforce.  Link only gets this once in the series, and that's in this game.
+Usually Link sticks to his tried and true piece of the Triforce, the part of
+Courage, but he actually keeps all three pieces and uses them in Adventure of
+Link.
+--------------------------------------------------------------------------------
+Triforce of Wisdom
+
+Obtain: Collect all eight pieces of the Triforce of Wisdom.
+
+Function: This is used to enter Spectacle Rock, Ganon's lair, and to be able to
+engage Ganon in battle.
+
+Side Notes: This is Zelda's piece of the Triforce, but Link keeps it for a
+little while after this game.
+--------------------------------------------------------------------------------
+Wooden Sword
+
+Obtain: In the first cave of the first screen in either quest is the Old Man
+that gives this to you.
+
+Function: This is the weakest sword.  It is your primary weapon until you can
+upgrade.
+
+Side Notes: Link often gets the Wooden Sword to start with.  It, of course, is
+the weakest in the game.  Although this should be dropped as soon as you can
+upgrade, this isn't that bad for the starting levels.
+--------------------------------------------------------------------------------
+Whistle
+
+Obtain: This is a dungeon item.
+
+Function: This plays a mystical tune.  Its uses are widely varied.  First, it is
+the only way to defeat the boss Digdogger.  Second, it summons a tornado to take
+you to the dungeons' entrances that you've cleared.  Third, if played in the
+correct spot, a secret stairway forms.  This is needed several times during the
+game.
+
+Side Notes: Link is very musically inclined.  Throughout the games he can play
+the Whistle, Flute, Ocarina, Harp, Drums, Guitar, Deku Pipes, and he can
+conduct.
+By the way, in case you're wondering, the guitar, drums, and Deku Pipes are from
+Majora's Mask.  He can play even more if you count the instruments he gets in
+Link's Awakening.  The harp is the Harp of Ages from Oracle of Ages.  Anyway,
+the Whistle looks more like a flute, but I assure you it isn't.  In most games,
+the musical instrument warps you to a place or time.
+--------------------------------------------------------------------------------
+White Sword
+
+Obtain: This is, in both quests, found in a cave on Death Mountain with the Old
+Man.
+
+Function: This is the second-strongest and second-weakest sword in the game.
+Right there in the middle.
+
+Side Notes: The White Sword is actually made out of metal.  It's good that it is
+so easy to get (you need five Heart Containers) because in the first quest you
+can get it before the first dungeon.  The White Sword is exclusive to the first
+Zelda game.  I may not have mentioned this for the others, but in all swords, if
+you have full hearts you release sword beams when you swing the sword.  Your
+sword is always your primary weapon, and is always set to A.  It is interesting
+to note that the White Sword makes a cameo in Minish Cap, one of the more recent
+Zelda GBA games.  The secondary form of the Four Sword is called the White
+Sword,
+but these are not the same blades.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Those are all the items you can get in the game.  Quite a few, eh?  Many more
+recent Zelda games have even more.  Hard to believe, isn't it?
+
+================================================================================
+==================================Enemy Index*==================================
+================================================================================
+
+This game has a wide array of enemies, although other Zelda games outdo it in
+numbers.  Most of the best enemies were introduced in this game.  I'm glad,
+because this was sort of like the screening process.  Just about every enemy in
+this game made it into another Zelda game.  Here's the list, in the order that
+the manual lists them.  The manual is actually very nice.  It has picture of
+what the enemies look like in game and an artist's depiction of what it
+supposedly looks like to Link.  By the way, the Overworld is any area not in a
+labyrinth.  The underworld is any area in a labyrinth.
+
+--------------------------------------------------------------------------------
+Tektite
+
+Location: Overworld
+
+Notes: Tektites are your most basic enemy, almost the weakest.  They are slow-
+moving and they jump around a lot.  They take one hit with any sword and
+sometimes drop rupees.
+--------------------------------------------------------------------------------
+Octorok
+
+Location: Overworld
+
+Notes: This enemy is in every single game.  They are amphibious, but in this
+game they stick to the land.  They spit rocks at you, which can be blocked with
+the shield.  They're surprisingly fast, but should pose no threat to you at all.
+--------------------------------------------------------------------------------
+Leever
+
+Location: Deserts
+
+Notes: These are annoying enemies in many Zelda games.  They emerge from the
+sand and attack you.  The sword is the best method of defeating them.  Skipping
+them is easier, though.  They're also found on beaches.
+--------------------------------------------------------------------------------
+Peahat
+
+Location: Overworld
+
+Notes: Skip right over these.  Peahats are the super-frustrating enemies that
+spin around violently and are immune to any attack until they stop completely.
+Watch me skip them.
+--------------------------------------------------------------------------------
+Moblin
+
+Location: Forests
+
+Notes: These are Ganon's favorite minions.  They change every time they are
+depicted, but usually they're minor enemies.  Their arrows and spears can be
+blocked with either shield.  Until you get a stronger sword I'd avoid these.
+--------------------------------------------------------------------------------
+Armos
+
+Location: Overworld
+
+Notes: These are especially around labyrinth entrances.  They pretend to be
+statues until you touch them.  They either move lightning swift or slowly.
+Either way, deploy the Boomerang on them and finish them with the sword.
+--------------------------------------------------------------------------------
+Ghini
+
+Location: Graveyard
+
+Notes: It took them a while to figure out a good name for these creatures.
+Finally, they settled it as Poe.  The always changing-names Ghini is a ghost
+that is said to be made of concentrated hatred.  In the times of Ganon they
+flourish.  These take lots of sword hits, so just ignore them.  They usually
+aren't aggressive, unless you push the graves.
+--------------------------------------------------------------------------------
+Lynel
+
+Location: Death Mountain
+
+Notes: These are the strongest Overworld enemies.  They are centaurs with swords
+that fire sword beams.  The standard shield cannot block them.  They take
+several hits of the Wooden Sword, but the Magical Sword can finish them in one
+blow.  Blue Lynels take two, however.
+--------------------------------------------------------------------------------
+Zola
+
+Location: Water
+
+Notes: Zola are violent female Zoras, a race in Hyrule Link encounters in A Link
+to the Past.  Zolas were exiled by the Zora King, so naturally they try their
+hardest to annoy Hylians.  You'd understand if you were half-fish and had an
+attention span or two minutes.  Anyways, these are best left alone.  Dodging
+their attacks is pretty easy and they can be blocked by the Magic Shield.
+--------------------------------------------------------------------------------
+Rock
+
+Location: Death Mountain
+
+Notes: These aren't actually living enemies.  They just can hurt Link.  They
+tumble down and cannot be blocked or destroyed.  They also take quite a chunk of
+your life if you do get hit, so be cautious around Death Mountain.
+--------------------------------------------------------------------------------
+Zol & Gel
+
+Location: Labyrinths
+
+Notes: These, too, seem to be having a constant identity crisis.  They are also
+called Bots, ChuChus, and slimes (as a nickname).  Gels are weak slime enemies
+whose only attack is touching you.  Zols are the same way except when you defeat
+them with the Wooden Sword they split into two Gels.
+--------------------------------------------------------------------------------
+Rope
+
+Location: Labyrinths
+
+Notes: Ropes are snakes.  They move horizontally much faster than vertically.
+They should pose no threat at all.  In fact, they leave lots of rupees, which
+inspired my second dungeon-rupee tactic.
+--------------------------------------------------------------------------------
+Vire & Keese
+
+Location: Labyrinths
+
+Notes: Keese are bats that flutter around some rooms and all 2-D screens in the
+game.  Vires are simply demons made up of two Keese.  When you defeat a Vire
+with the Wooden or White Sword, it releases two Red Keese.
+--------------------------------------------------------------------------------
+Stalfos
+
+Location: Labyrinths
+
+Notes: Stalfos are skeletons with swords.  They're very weak and scarce (because
+of their weakness).  A slash of the sword will do fine.  They've become much
+harder in recent Zelda games, even mini-bosses.
+--------------------------------------------------------------------------------
+Wall Master
+
+Location: Labyrinths
+
+Notes: Said to be the most-annoying enemy ever (second to the Like Like,
+actually), this eerie hand comes out of the wall and takes you to the start of
+the dungeon.  Besides enraging you, it has no offense and pretty low defense.
+Attack strategically with the Boomerang to avoid being abducted.
+--------------------------------------------------------------------------------
+Goriya
+
+Location: Labyrinths
+
+Notes: In the first two Zelda games, Goriyas are boomerang-wielding enemies.  In
+this game they defend the Boomerang and Magic Boomerang.  They're very weak in
+this game and usually just a filler enemy.
+--------------------------------------------------------------------------------
+Wizzrobe
+
+Location: Labyrinths
+
+Notes: These are terrible fiends.  They lurk around the room, shoot you with
+magic, and disappear.  Red ones are weaker, but harder to hunt down.  Blue ones
+can be attacked while they're warping.  The Magic Shield can deflect their
+magic.
+They are immune to the Magic Wand.
+--------------------------------------------------------------------------------
+Darknut
+
+Location: Labyrinths
+
+Notes: Every now and then, they change their names to Darknut.  I've always
+called these Iron Knuckles, ever since Ocarina of Time.  It sounds way cooler
+than Darknut.  These are knight enemies, easily defeated by attacking their
+sides or backs.  Sometimes you can get a hit in between their sword and shield,
+but I wouldn't count on it.  They're slow, so retreat and swoop in for more
+attacks if you're weakening.
+--------------------------------------------------------------------------------
+Pols Voice
+
+Location: Labyrinths
+
+Notes: These are spirits of the dead that are shaped like rabbits with large
+ears.  They say it is weak to loud music, but the Whistle never did a thing.
+Maybe I just wasn't paying attention.  They're not particularly strong, but they
+have amazing stamina.  Keep attacking.  Alternately, a single arrow can destroy
+a whole line of these things.  You can thank rfausnig for this information, by
+the way.
+--------------------------------------------------------------------------------
+Lanmola
+
+Location: Labyrinths
+
+Notes: The tried and true worms that Ganon always employs.  They are common
+enemies in this game, but they've been bosses in a few later games.  Attack the
+segments (like a Moldorm) and finish it with the head.  Be careful; they're much
+faster than you'd expect.
+--------------------------------------------------------------------------------
+Like Like
+
+Location: Labyrinths
+
+Notes: Curse this creature and all its descendants!  I hate these!  I loath
+these!  I'm going to stop now.  These are pulsating tubes of flesh that steal
+your Magic Shield.  Defeat them from a safe distance if you must, or just
+downright run from them.
+--------------------------------------------------------------------------------
+Gibdo
+
+Location: Labyrinths
+
+Notes: These are mummies.  Slash a lot and make sure they don't get too close.
+They attack by tackling you, but luckily they bounce backwards when you strike
+them.  Boomerang attacks are effective, too.
+--------------------------------------------------------------------------------
+Moldorm
+
+Location: Labyrinths
+
+Notes: This is a segmented worm.  As Link attacks it with his sword (or any
+other item, really) it loses segments.
+--------------------------------------------------------------------------------
+Dodongo
+
+Location: Labyrinth Boss
+
+Notes: Dodongos are said to be rhinoceroses in the instruction manual, but they
+are dinosaur-like creatures in every other game.  They are impervious to all
+attacks, save the bomb.  Lay it in front of them and they'll swallow it.  Two
+bombs kill one.  If you bomb the back it will freeze.  Sword attacks at that
+point destroy it.
+--------------------------------------------------------------------------------
+Manhandla
+
+Location: Labyrinth Boss
+
+Notes: Manhandla is a flower, actually.  For a one-hit win lay a bomb to destroy
+all four pincers at once.  Otherwise, attack each pincer separately while
+dodging fireballs.
+--------------------------------------------------------------------------------
+Aquamentus
+
+Location: Labyrinth Boss
+
+Notes: The first boss in either quest, this dragon shoots fireballs and is
+called a unicorn by some due to its horn.  Pretty simple, really.  Most
+projectiles are effective and you can rush in, slash, and get out very easily.
+For the most part, it's a slow, stationary attacker.
+--------------------------------------------------------------------------------
+Patra
+
+Location: Spectacle Rock
+
+Notes: These enemies can only be destroyed with the sword or Magic Wand
+(physically hitting them with the Magic Wand).  It is one eye surrounded by many
+smaller eyes.  Defeat the smaller ones to reach the center one.  This concept
+has been used for many future Zelda bosses and copied at least once by most
+video game series.  It was a completely new idea at one time, even though
+current gamers find it highly clichéd.
+--------------------------------------------------------------------------------
+Digdogger
+
+Location: Labyrinth Boss
+
+Notes: This was one of the few enemies that never made it to another console.
+And for good reason!  Play the Whistle to make it shrink and then attack the
+miniatures with the sword.  Easy as one, two, three.  Even so, one reader -
+jkwik6football9oracle – sends in this alternate tip for more efficiently beating
+him down: “Plant a bomb, quickly switch to the Whistle and blow it a split
+second before it blows, then plant a second bomb. With perfect timing, you'll
+even beat triple Digdogger splits without a sweat outside fireball statues that
+may or may not be in the room.”
+--------------------------------------------------------------------------------
+Gohma
+
+Location: Labyrinth Boss
+
+Notes: Gohma is my favorite boss in this game, not counting Ganon.  Gohma is a
+legendary creature because it has not only been in just about every Zelda game
+(well, quite a few), but it is very interesting.  The game calls it a crab, and
+it looks like it, but we learn it is a spider in future games (or at least an
+arachnid, but it has cobwebs, so really).  Every Gohma in Zelda games was laid
+by Queen Gohma, the first boss in Ocarina of Time.  That's my theory and I'm
+sticking to it.  To defeat this variation of Gohma, shoot the eye with an arrow.
+Reds take one arrow, while blues take three.
+--------------------------------------------------------------------------------
+Gleeok
+
+Location: Labyrinth Boss
+
+Notes: Gleeok is the hardest boss in the game and they know it.  They come in
+three species, each having two, three, or four heads.  Run up and attack any
+head by the neck with your sword (the Magic Wand can also hurt it).  One head
+will be decapitated and it will run about the room, shooting you from all angles
+with fire.  Focus on the main body and keep attacking.  Eventually you'll
+destroy the main body, which destroys all the creature.  Although Gleeok never
+escaped the Legend of Zelda console, his concept lived on in several future
+bosses, such as Helmethead and Blind, both of whom have multiple heads that
+shoot fire.
+--------------------------------------------------------------------------------
+Head of Gleeok
+
+Location: Labyrinths
+
+Notes: This is the head of Gleeok, cut off from the body.  It cannot be
+destroyed directly, so you'll have to destroy the body of Gleeok to destroy it.
+Avoid its fireballs and press on.  Since you can't harm these adversaries,
+that's the best advice I can give.
+--------------------------------------------------------------------------------
+Bubble
+
+Location: Labyrinths
+
+Notes: There are three types of Bubble.  There's your neutral type, which touch
+Link and make him unable to un-sheath his sword for a little while.  Then
+there's the Red Bubble, which makes Link unable to use his sword, period.  The
+Blue Bubble gives your ability to use the sword back.  This is seriously abused
+in the second quest, where every room is filled with three Red Bubbles and one
+blue.  You cannot kill these.
+--------------------------------------------------------------------------------
+Traps and Stone Statues
+
+Location: Labyrinths
+
+Notes: Someone (*cough* King of Hyrule *cough*) placed these in the labyrinths
+long ago.  They attack Link just as he approaches them.  Neither can be killed.
+When you see a razor trap, walk up, pull back, and it will slowly reset its
+position.  That's your cue to walk by.  Stone Statues don't move, but they fire
+fireballs at you.  Block these with your Magic Shield, or just dodge them.
+--------------------------------------------------------------------------------
+Ganon
+
+Location: Spectacle Rock, Final Boss
+
+Notes: Ganon's picture is a question mark in the rulebook.  It's really kind of
+disappointing when you see him.  At least it's original, and not just some king
+of darkness-guy who never got outside once in his life who talks in tongues,
+like so many other big bad guys.  I won't ruin it for you (what he is), but
+you'll be surprised when you see.  Ganondorf, his human form, was a man born to
+the Gerudo tribe.  This is very significant, for in the Gerudo tribe a man is
+born every 100 years and he is to be king.  The Gerudos are desert-dwelling
+thieves, which gives Ganon the name King of Thieves, although he is rarely
+called that.  He possesses the Triforce of Power.  To beat him, you're going to
+have to rely on luck.  Remember this!  His tiles are not holes; the black can be
+walked on!  Slash around blindly for his invisible body and he'll appear
+momentarily.  Continue this until he turns brown.  Let a Silver Arrow fly from
+your quiver and you've got him beat.
+--------------------------------------------------------------------------------
+
+The rulebook goes on to explain how to beat the first dungeon and reach the
+second right there.  You know, laying down the rules.  Those are all the enemies
+you'll encounter throughout the game.  Let this list serve you well,
+grasshopper.
+
+================================================================================
+=================================Pro Challenge*=================================
+================================================================================
+
+Every Zelda game is made for fanatics who can't get enough of it.  I always like
+collecting every item in any game, but the goal in this challenge is to collect
+as few items as possible.  Some items are needed to beat the game, while others
+aren't.  The Pro Challenge, more often called the Three-Heart Challenge, is the
+ultimate test of strength.  Remember, if this looks too hard for you, don't try
+it.  These are only suggestions.  You can skip some suggestions and only do the
+easier ones.  Don't beat yourself up over not being able to do a sword-less
+quest.  Also, don't send me irritated e-mail.  I suggest you be really good
+before attempting.  Also, you might want to just do a sword-less quest before
+attempting the rest of the conditions.
+
+                              +------------------+
+                              |    Conditions    |
+                              +------------------+
+
+It takes some getting used to when you're so dependent on the sword.  These are
+the conditions:
+
+Never pick up the Wooden Sword
+Never get a Heart Container
+Never lose a single life
+Pass up the Blue Ring and Red Ring
+Get the Map and Compass in every dungeon
+
+There are a few more conditions I've designed below to make this game
+ultra-hard.
+All the conditions can be met above (for the most part.  You need the sword to
+defeat Ganon; you can pick it up before Spectacle Rock), and so can the ones
+below.  This just makes it extremely challenging.
+
+Pass up the Magic Key
+Pass up the Blue Candle
+Pass up the Old Woman's Letter
+
+It is possible to do; I have done this quest.  Basically, you rely on bombs.  To
+be honest, I got the Old Woman's Letter, and I remember how hard that quest was.
+This quest I've made is designed be impossible for you.  If you feel up to it, I
+have a few tips below.
+
+This might be a possible quest if you could take the Wooden Sword.  As your
+primary weapon, it is very difficult to not use it.  Without the sword you'll
+rely on the Magic Wand.  Although the shot doesn't hurt every enemy, actually
+physically striking an enemy, like a Patra, does hurt it.  This is what hurts
+the bosses and a few tougher enemies.
+
+                           +-----------------------+
+                           |    Boss/Enemy Tips    |
+                           +-----------------------+
+
+Aquamentus: Everything but the Red or Blue Candle will hurt him.  The Boomerang
+obviously doesn't, but everything doesn't include that.
+
+Dodongo: Dodongos only weakness is the bomb in the mouth.  Live with it.
+
+Digdogger: Use the Whistle and then whatever you've got on hand to beat the
+miniature.
+
+Ganon: Ganon is only weak to the Silver Arrows and the sword.  In this quest,
+you're permitted to get the sword to beat Ganon.  The Wooden Sword CAN beat
+Ganon.
+
+Gleeok: This is the toughest boss in the game with or without without the sword.
+It is only hurt by physically attacking it with the Magic Wand (which is
+difficult enough).  You're going to have to skip around dungeons for the Magic
+Wand before you can beat Gleeok.
+
+Gohma: The Arrows work fine against Gohma.
+
+Manhandla: You name it, it works against Manhandla.
+
+Darknut: Use bombs until you get the Magic Wand.
+
+Patra: Use the Magic Wand to physically hit the smaller orbiting eyes and then
+hit the body.
+
+Wizzrobe: Use bombs.  It's tough, but you'll have to.
+
+Due to Gleeok's super-strength, you're going to have to work around it.
+Remember to always avoid fights.  Always!  If it isn't absolutely necessary,
+don't do it.  You could even skip fights for the Compass and Map and come back
+later when you're better-equipped.  Also, in dungeons, get more bombs when you
+can.
+
+                         +----------------------------+
+                         |    First Quest Overview    |
+                         +----------------------------+
+
+In Level 1, get the Boomerang and Bow and kill Aquamentus.  Clear Level 2, too,
+and take the Magic Boomerang.  Beat Level 3, getting the Raft.  Get the
+Stepladder in Level 4, without defeating the boss.  In Level 5, just get the
+Flute.  Clear Level 6, taking the Magic Wand.  Clear Level 7, taking the Red
+Candle.  Enter Level 8 and take the Magic Book.  Go back to levels where you
+couldn't defeat the boss and defeat the boss.  Now pick up the Wooden Sword.
+Try not to use it as you enter Spectacle Rock and defeat Ganon.
+
+                        +-----------------------------+
+                        |    Second Quest Overview    |
+                        +-----------------------------+
+
+Beat Level 1 and take the Boomerang with you.  In Level 2, just get the Whistle.
+Clear Level 3 with the Magic Boomerang in hand.  Then enter Level 4, beating it
+with the Raft and the Magic Book.  Enter Level 6 for the Stepladder.  Now clear
+Level 8, skipping over the Magic Key but taking the Magic Wand (yes!).  Now beat
+the rest of the dungeons in order.  You're going to have to backtrack to Level 6
+to beat the boss.  Now take the Wooden Sword and enter Spectacle Rock.  The
+second quest is inhumanly hard to stick to the conditions.  Good luck!  Also, if
+you want to be really hard on yourself, never pick up the Boomerang.
+
+Then again, it might be easier to follow the advice of jkwik6football9oracle.
+This reader writes, “I agree with Level 1 beaten, Level 2 to the Whistle, and
+Level 3 beaten, but I deviate from here and go to Level 6 on the Ladder. I THEN
+go and beat Level 8 because of the easier enemies (Blue Goriyas to Blue
+Darknuts/Iron Knuckles). The Magic Wand makes Level 4 considerably easier to
+beat, as does the Magical Key. Just make sure to have extra keys before Level 8.
+Then Level 2 completion is next.  Level 5 is quite tough to handle with those
+f***ing Wizzrobes, pardon my hockey language. Levels 6 and 7 are then a little
+easier than Level 5, but not by that much.”
+
+Please remember not to do this if you think you'll fail.  Asking for help won't
+help you because it's more about skill.  The strategy doesn't change.  This is a
+really frustrating aspect of the game, so please don't try unless you're good.
+I'd feel awful if you stopped playing because you couldn't beat a custom quest.
+
+================================================================================
+================================Zelda Timeline*=================================
+================================================================================
+
+The most highly debated aspect of the Zelda series - what order did the games
+take place in?  I devised my theory a few months ago for my first walkthrough,
+and I will explain the reasoning behind it.  But first, a short history of the
+series.
+
+The Legend of Zelda
+1987 NES
+
+Zelda II: The Adventure of Link
+1988 NES
+
+The Legend of Zelda: A Link to the Past
+1991 SNES
+
+The Legend of Zelda: Link's Awakening
+1993 GB
+
+The Legend of Zelda: Ocarina of Time
+1998 N64
+
+The Legend of Zelda: Majora's Mask
+2000 N64
+
+The Legend of Zelda: Oracle of Ages
+2001 GBC
+
+The Legend of Zelda: Oracle of Seasons
+2001 GBC
+
+The Legend of Zelda: A Link to the Past/Four Swords
+2002 GBA
+
+The Legend of Zelda: Ocarina of Time/Master Quest
+2003 GC
+
+The Legend of Zelda: The Wind Waker
+2003 GC
+
+The Legend of Zelda: Four Swords Adventures
+2004 GC
+
+There are many other games (remakes, collector's editions) but I only listed
+them when a new game was released.  Four Swords was a multiplayer game released
+on the GBA remake of A Link to the Past in which several players could cooperate
+to defeat Vaati.  Master Quest was released on a remake of Ocarina of Time (that
+you could get only by pre-ordering The Wind Waker), and was a harder version of
+Ocarina of Time.  You'll probably see many of these games with new life in them.
+I wrote this walkthrough so it would be useful for those who play the Classic
+NES series.  Anyways, that's the history of release dates, but, like Star Wars,
+Zelda was released in a much different order than its timeline.
+
+First, we need a starting point and a focal point.  We know that Ocarina of Time
+is the first game in the timeline.  That is set in stone and every timeline
+would have it so.  Now, we need a character that is always changing, but always
+there.  Many people claim that Link is reborn multiple times over the game.  He
+may be, maybe he isn't.  Either way, my timeline works.  But, the character that
+never dies forever is Ganon.  Every game makes some mention to him, whether he
+is dead at the time, alive, imprisoned, etc.  Ganon is the constant, and I will
+use time and again to prove my points.
+
+First, Ocarina of Time comes.  That is known to all.  Then we have Majora's
+Mask.
+That's not too hard to see.  Now here's where my timeline is unique.  What game
+comes next?  Let's consider what we know.  In Ocarina of Time Ganon was
+imprisoned in the Sacred Realm/Dark World, whatever you want to call it.  Ganon
+isn't even in Majora's Mask, so he must still be imprisoned.  Therefore, since
+Ganon was imprisoned throughout A Link to the Past (Link actually enters the
+Dark World in that game), it must come next.  At the end of A Link to the Past
+Ganon is free (in Hyrule).
+
+There is one other game in which Ganon is imprisoned at the start, and that is
+Four Swords Adventures.  Could it, then, have taken the place of A Link to the
+Past?  No, it could not have.  The reasoning is simple.  Four Swords comes
+before Four Swords Adventures and we can prove that A Link to the Past comes
+before Four Swords.  So, since Four Swords has not come yet, Four Swords
+Adventures cannot come yet, and we must wait for the time to come to place FSA.
+
+Now then, let me explain a very minute detail that sets the stage for Ganon's
+freedom.  In A Link to the Past Link kills Ganon and uses the Triforce to make a
+wish.  We don't know what Link wishes for, but let's take a look at the credits.
+In the credits it shows Link's uncle is alive (and he was dead).  Also, the
+bully is in the Light World.  So, we can conclude that Link must've wished that
+those who had died be revived and that those in the Dark World be placed in the
+Light World.  A noble wish, but it released Ganon.  The only game with Ganon
+free from the start is this game, The Legend of Zelda.  Here's the turning point
+in the timeline.  Link actually kills Ganon in The Legend of Zelda.  Ganon is
+dead in this game and a few others.  So, Ganon must be dead in consecutive
+games,
+right?  He was dead during Adventure of Link and Link's Awakening.  They must
+come next, but in what order?
+
+In the rulebook of Adventure of Link, it says that Link had stayed in Hyrule to
+lend a helping hand to its restoration (it implies from The Legend of Zelda, but
+it only suggests).  This, however, is a very minor detail, perhaps four words.
+If you read the instruction book for Link's Awakening, however, you'll notice
+that for the first paragraph or so they're seriously hinting at it coming right
+after The Legend of Zelda.  Even the line, "who knows what will arise from
+Ganon's ashes?" seems to much of a pun to be a coincidence.  After all,
+Adventure of Link deals a lot with Ganon's ashes.  Also, one line seals the deal
+in Link's Awakening.  It says that after a long and fruitful journey you're
+returning to Hyrule.  Adventure of Link took place in Hyrule, and so I'm
+convinced.
+
+After all, a few lines is better proof than a sentence right?  On a side note,
+there is no real long and fruitful voyage away from Hyrule.  Maybe that's a
+future game, or they could be referring to Majora's Mask.  It's the only game
+that could come before Link's Awakening that doesn't take place in Hyrule.
+Also,
+a line in LA's rulebook says that Link went on a journey for enlightenment to
+better withstand the next threat.  The next threat happens to be Adventure of
+Link (to his homeland, Hyrule).  If LA came after AOL, than the next threat to
+the homeland would not be in his homeland.  Really, though, Link's Awakening and
+Adventure of Link have interchangeable positions in the timeline.  Now, Ganon is
+dead in those games and the beginning of another.  The important thing is that
+Ganon is not dead throughout the entire series, so he must be revived up next.
+In the secret ending of the Oracle series Ganon is revived by Twinrova.  He's
+alive!  So, now that Ganon's back in the picture we can start to make the post-
+revival segment of the timeline.  The Oracle games can be in either order, as
+they are back-to-back quests and their difference in order does not affect the
+timeline at all.
+
+There are only three games left.  This is very convenient to us, because
+everyone recognized that The Wind Waker is last.  So, we must sort Four Swords
+and Four Swords Adventures, knowing WW is last.  It is safe to say, because the
+FSA rulebook references Link defeating Vaati before (in Four Swords), that FSA
+comes after FS.  Now, I know some people would argue this point, so let me tell
+you why Four Swords Adventures should not replace or come directly before or
+after A Link to the Past.  Remember that I can prove A Link to the Past comes
+after Four Swords.  We can thank the remake of A Link to the Past for that.  In
+the remake there was a side quest to reassemble the Four Sword.  After Four
+Swords the Four Sword was under protection by a force field (which couldn't have
+been broken), so we know the Four Sword wasn't broken before or during A Link to
+the Past.
+
+Four Swords, therefore, must come after A Link to the Past.  Let's now consider
+the A Link to the Past - Four Swords - Four Swords Adventures sequence.  This is
+totally preposterous because, if you recall, Ganon is free from the Dark World
+after A Link to the Past, while Ganon is imprisoned throughout the Four Swords
+saga.  Now I'm convinced.  My timeline has stood strong through more objections.
+For a less organized, but more thoughtful (I wrote most of my ideas down)
+version of this timeline, see my Four Swords Adventures timeline.  Now here I'll
+write down what order I think the games went down in.
+
+Ocarina of Time
+Majora's Mask
+A Link to the Past
+The Legend of Zelda
+Link's Awakening
+The Adventure of Link
+Oracle of Ages
+Oracle of Seasons
+Four Swords
+Four Swords Adventures
+The Wind Waker
+
+Notice I placed Ages before Seasons.  That's only because I alphabetized them
+(like I said, it's a hobby of mine).  It could have happened either way.  Now
+here are some of the most common theories other timeline writers have devised
+(and me picking them apart).
+
+              +-------------------------------------------------+
+              |    Link's Awakening/Adventure of Link Theory    |
+              +-------------------------------------------------+
+
+This is an extremely popular theory.  It would have Link's Awakening occur
+during Adventure of Link.  Well, if you paid attention in the opening cinema of
+Link's Awakening, Link was manning a boat, not a raft.  For you see, the theory
+states that while in Adventure of Link, crossing the sea between east and west
+Hyrule (the north part).  In Adventure of Link, Link crosses the sea with a
+Raft,
+not a ship.
+
+                          +-------------------------+
+                          |    Wind Waker Theory    |
+                          +-------------------------+
+
+Some people believe this, although numbers are scarce.  I had a tough time
+disproving this theory, but I found one element that ruined it.  This says that
+The Wind Waker takes place after Majora's Mask (the sequence is Ocarina,
+Majora's Mask, Wind Waker).  This is hard to disprove, but let's take a look at
+the timeline as a whole.  If this were true, Adventure of Link would come later
+in the series.  Well, the sages in Ocarina of Time have the exact same name as
+the towns do in Adventure of Link.  If all memory of Hyrule was erased in The
+Wind Waker (as they said it was), then how could the towns just happen to have
+the same name?  Ocarina of Time and Adventure of Link must both come before The
+Wind Waker, which takes its toll on the theory.  If Adventure of Link came
+before the Wind Waker, then so would Link's Awakening.  Ganon has to die
+sometime for Adventure of Link to take place, so The Legend of Zelda would have
+to be thrown in.  This totally corrupts the Wind Waker theory.  It was a good
+fight, though.
+
+                         +----------------------------+
+                         |    Multiple Link Theory    |
+                         +----------------------------+
+
+This is less of a theory than it is fact.  There definitely are multiple Links,
+but the question is how many.  I will admit there are at least two, one in Wind
+Waker and one in everything else, but other people would separate the pre-Wind
+Waker games up into categories.  Either way, this theory does not change the
+timeline.  It is just a big difference of opinions among timeline-developers.
+Personally, I think it is much more epic to have one hero throughout than to
+have one hero reborn over and over.  Plus, in Wind Waker they refer to the
+Legendary Hero and the Hero of Time, two distinctly different timeline-era
+epithets for Link, as the same person.  I cannot prove anything, but this is
+what I think, or would like to think.

@@ -1,0 +1,1087 @@
+I had always wondered about this game.  I read reviews for the Super NES and PC
+versions, discussing the "crisp graphics" and "smooth play control," but never
+saw anything about the NES version.  Not even a review on gamefaqs!  I don't
+really like games where you are up against a time limit, as I like to enjoy the
+games I play and not feel pressured (there's enough of that at work).  From
+reading the SNES review, I saw that you have a grand total of 60 minutes to
+finish the game, so I gathered the same would apply to it's little brother on
+the NES.  I thought, "Imagine getting to the later levels and realizing you
+only had about 3 minutes to finish the game!"  If that happened, you would
+probably never want to play the game again.
+
+Anyway, I actually got into the game and through trial and error figured out
+what I think is probably the quickest way through the game.  If you follow the
+walkthrough and can make it past the tricky jumps and swordplay, you will more
+than likely beat the game in under 60 minutes.  I suggest taking a little while
+to get familiar with the controls, as they are quite awkward at first.  It took
+me a good deal of time, but if you practice, you should have no problem with
+the controls.
+
+Thanks for reading this Walkthrough.  I reckon not too many people will lay
+their eyes on this, as maybe a couple handful of people have actually played
+the NES version of Prince of Persia, but if you are one of the few, drop me a
+line if you discover something I missed.
+
+
+
+==========
+III. STORY
+==========
+
+Taken directly from the manual:
+
+"It is a time of darkness.  While the Sultan is off fighting a foreign war, his
+Grand Vizier JAFFAR has seized the reins of power.  Throughout the land, the
+people groan under the yoke of a cruel tyrant and dream of better days."
+
+"Only one obstacle stands between Jaffar and the throne.  An adventurer from a
+foreign land, innocent of palace intrigues, you have won the heart of the
+Sultan's lovely young daughter.  And in so doing, you have unwittingly made a
+powerful enemy."
+
+"On Jaffar's orders you are arrested, stripped of your sword and your
+possessions and thrown into the Sultan's dungeons.  As for the Princess, Jaffar
+gives her a choice and an hour to decide: Marry him--or die.  Whichever her
+choice, it can bring only a throne for the Grand Vizier...a new reign of terror
+for his long-suffering subjects...and death for the brave youth who might have
+been...PRINCE OF PERSIA."
+
+
+
+============
+IV. CONTROLS
+============
+
+The controls to this game are complex and take awhile to master.  There are a
+lot of little techniques to learn.  To make things easy, I will rewrite the
+controls section from the manual:
+
+
+                -----------------------------
+               |                             |
+               |     +                       |
+               |   +++++           (*)  (*)  |
+               |     +     ==  ==   B    A   |
+               |           SE  ST            |
+                -----------------------------
+
+
+START
+
+Press to begin play.
+Press to pause and unpause during gameplay.
+
+
+SELECT
+
+Press to toggle the music on or off.
+
+
+TO RUN
+
+Press the left or right arrow on the control pad.  Release the arrow to stop.
+
+
+TO CHANGE DIRECTION
+
+Press the left or right arrow on the control pad in the direction you want to
+go.
+
+
+TO TAKE CAREFUL STEPS [Note: you will use this A LOT]
+
+Press the B button and you will take a single step in the direction you are
+facing.  You can use careful steps to move right up to the edge of a pit or a
+suspicious-looking floor section. [Note: Also to walk through spikes]
+
+
+TO JUMP UP
+
+Press the Up arrow on the control pad.
+
+
+TO JUMP FORWARD
+
+Pressing the A button will make you jump in the direction you are facing.
+
+
+RUNNING JUMP (to get over a chasm)
+
+Back up at least two full strides from the edge.  Press the left or right arrow
+to start running, then press the A button to jump.  Be careful not to press it
+too early.
+
+
+TO CLIMB UP ONTO A LEDGE
+
+Stand facing the ledge and press the Up arrow on the control pad.  If
+necessary, use careful steps to position yourself below the ledge.
+
+
+TO CLIMB DOWN FROM A LEDGE
+
+Carefully walk to the edge and turn around.  Press the Down arrow on the
+control pad.  If you press the Down arrow while holding either the A or B
+button, you will hang from the ledge.  When you let go of the button, you let
+go of the ledge.  To pull yourself back onto the ledge, press the Up arrow.
+
+
+TO HANG FROM A LEDGE
+
+Any time you jump or fall within reach of a ledge, you can grab onto it by
+pressing the A or B button.
+
+
+TO CROUCH
+
+Press the Down arrow on the control pad.  Release it to stand up.
+
+
+TO PICK SOMETHING UP
+
+Stand in front of the object you wish to pick up and crouch down by pressing
+the Down arrow.
+
+
+SWORD FIGHTING
+
+Your sword will automatically be drawn when you encounter a Guard.
+
+To ATTACK, use the A button.
+To BLOCK, use the B button or Up arrow on the control pad.
+
+
+
+==============
+V. WALKTHROUGH
+==============
+
+[PLEASE NOTE THAT THIS VERSION OF THE GAME, THE NES VERSION, DIFFERS FROM ALL
+OTHER VERSIONS OF THE GAME.  IF YOU ARE PLAYING THE PC VERSION OR ANYTHING
+OTHER THAN THE NES GAME, PLEASE DO NOT USE THIS GUIDE]
+
+The key to making it through the game in the required 60 minutes is not only
+your speed, but the ability to make accurate jumps.  If you miss a jump you
+either plummet to your death or have to retrace your steps back to where you
+missed the jump.  The following walkthrough will enable you to eliminate any
+unnecessary wandering around and reach the Princess in under an hour, assuming
+you don't meet your untimely demise along the way.
+
+Also, either familiarize yourself with the controls or refer to the Controls
+section above, as I will not elaborate on most of the moves in the walkthrough.
+
+Remember, time is of the essence (whatever that means).  If you are using this
+walkthrough to blow through the game, I suggest pausing the game each time you
+need to read a section (time doesn't count down while the game is paused) and
+to also read ahead one section just so you know what is in the next room and
+you can prepare for it.
+
+I put the Password I got after the end of the level after that level in the
+walkthrough.  You will probably get a different Password, depending on the time
+it took you to finish the level.  Remember that I have played through the game
+a couple times and knew exactly where to go while doing this walkthrough, so if
+you feel you took a little longer to make it through the level than you should
+have, my level Passwords will start you out with a comfortable amount of time
+to spare.
+
+Good luck!
+
+
+
+
+=-=-=-=-=-=
+A. Level 1
+=-=-=-=-=-=
+
+-You start the game at the very bottom of the dungeon, with the gate closing
+behind you.  Lower yourself to the bottom path, then run over to the right
+against the wall.  The floor should have fallen out in the middle.  Lower
+yourself down to the next room, hanging from the ledge, as the fall will take
+away some energy if you fall too far.
+
+-When you land, run left and climb up to enter the next room.
+
+-Run to the left and jump over the gap.  Now step on the pressure plate to open
+the gate and go left into the room.
+
+-In this room, climb down to the level below you and trip the pressure plate on
+the right.  Now jump over the gap to your left and climb up to the next room.
+
+-Run left without stopping (the floor drops out) and enter the next room.
+
+-Step on the pressure plate upon entering the room.  Now run and jump across
+the gap WITHOUT landing on the pressure plate on the other side (it will close
+the gate you just opened).  Climb up the wall and into the next room.
+
+-Jump across the gap and continue to run left into the next room.
+
+-Climb down to the bottom and grab the SWORD.  Now climb back up to where you
+came into the room and go back right.
+
+-Continue right for several screens (taking the top path) and you will
+eventually get to the screen that you fell down to from the starting screen
+(you will see the rubble on the floor from the platform that fell).  Continue
+right to your first sword fight.
+
+-Remember, A to attack, B or Up to block.  A sound strategy for sword play is
+to block your opponents thrust, then immediately attack while he is
+off-balance.  If you just want to attack, I found that if you strike the moment
+the enemy makes a move towards you, you can usually get in a jab.  This first
+Guard is easy.  Hit him 3 times to do him in.
+
+-Run right to the next room.  You will see a closed door.  Climb up on the
+ledge in the left of the room to activate the pressure plate which opens the
+door.  Go through the door to exit the bottom level of the dungeon.
+
+Your Password is: 84308323
+
+
+
+=-=-=-=-=-=
+B. LEVEL 2
+=-=-=-=-=-=
+
+-From the starting point, run left into the next room.
+
+-Keep running, so you don't fall through the floor, then defeat the Guard. 
+Continue left to the next room.
+
+-You'll see a Potion below you that will restore any lost energy.  You need to
+fall through the floor to get to it.  Even if you don't need it, fall through
+the floor anyway.  Now climb back up and use careful steps to move through the
+spikes (you can see the tiny holes in the floor where the spikes will come up).
+ Now climb up to the top ledge and continue left.
+
+-Now you need to make a running jump over to the ledge on the left.  Remember
+that you need to hit the A button a little before you reach the end of the
+platform because of the slow response of the controls, then when you are
+jumping you will have to press A or B to grab onto the ledge you are jumping
+to.  When you reach it, climb up into the next room.
+
+-Continue up, then left into the next room.
+
+-Another Guard!  Defeat the Guard with 3 hits and continue left, triggering the
+plate that opens the gate into the next room.
+
+-If you need more energy, drop down to the Potion on the floor, then continue
+to the next room on the left.  If you don't need the Potion, just run left,
+triggering the gate, and head out through the gate.
+
+-If you took the low route, use careful steps to get past the spikes, then
+climb up and go left to fight another Guard.  As with all Guard, 3 hits does
+him in.
+
+-Walk left into the next room but DO NOT DRINK THE Potion.  It will take away 1
+life bar.  Climb up the wall and left into the next room.
+
+-Use careful steps to get to the edge of the ledge and jump across the gap. 
+You will be greeted by another Guard.  Do him in and continue left to the next
+room.
+
+-Upon entering this room, climb up the ledges into the room above you.
+
+-When you climb up into this room, careful step to the right once, turn around,
+and jump up to the ledge.  Now run to the right and grab the Potion.  It will
+increase your strength gauge by 1!  Now carefully work your way back down,
+lowering yourself carefully onto the spikes by hanging from the edge then
+dropping down (the spikes won't hurt you this way), then climb back down to the
+room below you where you came from.
+
+-Climb to the bottom, then go left to the next room.
+
+-Run to the left, jumping over the holes in the ground where the spikes come
+out, and enter the next room.
+
+-In this room, jump across the gap, climb up one level, and continue left to
+the next room.
+
+-Run to the wall, then press Up to jump and hit your head on the tile above
+you.  It will fall down, allowing you to climb up into the next room.
+
+-When you have climbed into the room, take 1 careful step left, tap right to
+face the right, then press Up to jump up to the next ledge.  Now run right a
+little bit, but don't enter the next room.  Turn back around and make a running
+jump over to the small ledge on the right of the screen.  It seems like a real
+long distance but it is makeable, as long as you hold Up and press A or B to
+grab the ledge when you reach it.  There is a pressure plate on the ledge that
+opens the door to Level 3.  From the ledge, face right and tap the A button to
+jump back to the right.  Try for the top ledge, but if you miss it you should
+be able to grab the next ledge down.  Run past the torch to the room to the
+right.
+
+-Go in the door to get up to Level 3.
+
+Your Password is: 63137010
+
+
+
+=-=-=-=-=-=
+C. LEVEL 3
+=-=-=-=-=-=
+
+You will be introduced to your first Skeleton in this level.
+
+-Start by walking right into the next room.
+
+-Climb up 2 ledges, jump over to the right, then climb up onto the ledge into
+the next room.
+
+-Continue all the way up, then jump right, over the gap, into the next room.
+
+-You will now have 3 jumps to make in this room.  Use careful steps to get to
+the edge, then make your first jump.  Use careful steps again and jump over to
+the next edge, where you will land on a pressure plate.  Now for the hardest
+one.  Use careful steps again to get to the right edge of the pressure plate,
+then jump into the next room on the right but get ready to grab onto the ledge
+in the next room as you are jumping...
+
+-Assuming you made the jump, walk past the torches and stop under the first
+purple tile above the torches.  Jump up and hit your head on it to make it
+fall, then climb up into the room.
+
+-Go right into the next room.
+
+-The Slicers you see are fairly easy to get by.  Just wait for an opening and
+run through them (they won't cut your feet).  Now climb up to the top and grab
+the Potion (wonder who left that lying around!), which will raise your strength
+gauge to 5 bars.  Climb back down and go left, past the Slicers, back into that
+room.
+
+-Run left and fall into the gap (don't bother lowering yourself down) to land
+by those 2 torches.
+
+-Walk to the left edge of the platform and jump into the room to the left,
+making sure to grab onto the edge of the platform in the next room.
+
+-You should be on that small ledge with the pressure plate, which just opened a
+gate about 3 rooms to your left.  You might want to read the next 3 paragraphs
+of this walkthrough, as you will have to get to the gate before it closes. 
+Quickly, but carefully, work your way left, jumping over the gaps, but don't
+run into the next room.  Careful step into the next room.
+
+-Now quickly jump over the gap and run to the left to the next room, but be
+sure to keep running when you enter the next room because...
+
+-...you have to make a running jump over a big gap.  Do this, grabbing the
+ledge on the other side and climb up.  Now start running to the left again and
+run into the next room.
+
+-Keep running and make the jump over to the left before the gate comes down. 
+If you made it in time, you can enter that room.  If the gate has already shut,
+you have to go ALL THE WAY BACK to where you triggered the pressure plate.
+
+-If you need energy, grab the Potion.  Otherwise, keep moving left to the next
+room, but keep running as you enter the room.
+
+-When you run into this room, stop just after getting past the falling tiles. 
+You will see the first Skeleton Guard of the game.  He is a little tougher than
+the normal Guards.  Just remember, block his thrust, then counterattack
+immediately.  This will almost always get you a hit.  Do this 3 times then walk
+left into the next room.
+
+-Get past the Slicer and work your way down to the room below.
+
+-Run all the way to the right and step on the pressure plate to open the exit
+door below you.  Now head back to the left, and up into the room you were just
+in.
+
+-Climb up then go right, past the Slicer and into the next room.
+
+-The next part is tricky.  Walk right until you get to the ledge.  I've tried
+climbing down the ledge into the room below from this side, but can never do
+it, so here's what I did.  Stand on ledge and jump over to the other side.  You
+will probably get carried into the next room, but just use a careful step back
+to the left, back into the room.  Now, standing on this right ledge, use a
+careful step so you actually step off the ledge, but as you are falling, you
+should grab onto the ledge on the left.  Now you can ease your way down into
+the next room.
+
+-Run to your left, past the falling tile, and exit into the next room on the
+left.
+
+-Enter the door to proceed to the next level.
+
+Your password is: 19604020
+
+
+
+=-=-=-=-=-=
+D. LEVEL 4
+=-=-=-=-=-=
+
+-Start by running to the right, stepping on the pressure plate, then running
+left to the next room.
+
+-Run left and take the lower path, then step on the pressure plate to open the
+gate into the next room on the left.
+
+-In this room, run left without stopping until you reach the gate.  A floor
+tile should have fallen when you ran over it.  Since you are on the left of the
+hole, take a couple careful steps until you are actually falling into the hole,
+then immediately hold down the B button as you are falling.  You cannot see
+yourself, but you are actually clinging to the ledge.  Now release the button
+to fall safely to the room below.
+
+-Go to your right, where you will have a swordfight with another Guard.  After
+disposing of him, you will want to go back to the left and into the next room.
+
+-You will now see a huge gap.  The ledge on the other side has a pressure plate
+on it you need to get to.  The jump is makeable (you will have to get a running
+start from the previous room), but it is much easier to jump straight up and
+grab the ledge above you which brings you up into the next room, then walk to
+the left and drop back down to land on the pressure plate.
+
+-Now jump straight up to climb back up into the room above.  Stand on the far
+left end of the ledge you just climbed to and jump straight up to knock a floor
+tile loose.  Now climb up and over into the room on the left.
+
+-Avoid the slicer and grab the Potion.  It will increase you strength gauge
+again by 1 unit.  Go back into the room on the right.
+
+-Get down to the lower level in this room by using the method I explained
+earlier (careful steps off the ledge, then quickly holding B to grab the ledge
+on the right).  Walk right then climb down into the next room.
+
+-Now you will be going right for a few rooms.  In the third room there will be
+a Potion on the bottom if you need more energy.  In the next room to the right
+there will be another Potion at the bottom.  Avoid it for now unless you are
+really low on energy.  Get by the slicer where you will meet another Guard. 
+Beat the Guard (if you saved the Potion, grab it now if you lost energy during
+the fight) and go right into the next room.
+
+-Climb up into the next room.
+
+-Go right into the next room.
+
+-In this room you will want to go right into the next room, but be careful of
+the spikes near the end of the hall.  You can either jump over them (you'll see
+the little holes in the ground) of use careful steps to walk through them.
+
+-Another Guard!  Run him through with your steel and proceed right to the next
+room.
+
+-If you need more energy, there is another Potion in this room.  Otherwise,
+keep going into the next room.
+
+-Climb up the wall and continue into the next room.
+
+-Lower yourself down to where the Slicer is and move past it back into the room
+to your left.
+
+-Go step on the pressure plate then go back to the right, but remember not to
+run into the slicer upon returning to that room.
+
+-Run past the slicer and climb back up to the top and back to the left into
+that room again.
+
+-You will see a gateway that wasn't there before.  Get a running start and leap
+through the gateway.  As you are leaping through you will see a Shadow of
+yourself run out of the gateway and to the right.  Ignore him for now (you'll
+run into him later) and go left to the next room.
+
+-Now run left through this room and into the next room where the exit door
+awaits.  Quickly get through it to escape this unorthodox level.
+
+Your Password is: 73339738
+
+
+
+=-=-=-=-=-=
+E. LEVEL 5
+=-=-=-=-=-=
+
+-Start this level by running to your left and stepping on the pressure plate. 
+Now run back to your right and into the next room.
+
+-Climb up to take on the Guard.  Beat him then climb up into the room above.
+
+-Climb up to the middle tier and walk right to the next room.
+
+-Carefully work your way past the 2 slicers.  Before you can get to the Potion
+at the top, your Shadow from the previous level beats you to it and slugs it
+down.  All you can do is watch as he escapes before you can get to him.  Just
+climb to the top and move left into the next room.  Along the way you should
+have triggered a pressure plate that opens the gate in the next room.
+
+-Move past the gate and left into the next room.
+
+-There's a huge gap here, but you don't have to cross it.  Stand on the ledge
+and turn around so you are facing right, then push Down to drop down to the
+next room.
+
+-You should have landed on a ledge with a Potion.  Grab it to restore your
+energy, then drop down to the bottom.  Go step on that pressure plate on the
+left side of the room again, then run back to the right into the next room.
+
+-Climb up to the upper left ledge and go back left into the room and on the
+ledge where you just grabbed the Potion.
+
+-Make the running jump over the chasm then go left into the next room before
+the gate closes.
+
+-Slay the Guard and continue left to the next room.
+
+-Yet another Guard!  Beat him and keep going left, triggering the pressure
+plate to open the gate.
+
+-Step on the pressure plate and lower yourself down to drink the health Potion
+(who the heck is leaving these hanging around??).  Now you have a choice.  Your
+Strength Gauge will only extend to a total of 5 bars.  If you are at less than
+5 bars, lower yourself into the next room where you will grab a Potion to add
+another bar, then go back up.  If you already found the 2 Potions in the
+earlier levels that extended your bar, then continue left into the next room.
+
+-Before moving any further in this room, you can probably tell that the floor
+will be dropping out from you in that area near where you entered.  You CANNOT
+run across it...you will quickly fall to your doom.  Jump over the tile and
+continue to the next room to your left, running over the pressure plate in the
+process.
+
+-Use careful steps to tiptoe through the spikes, then jump over the gap and
+into the next room.
+
+-Enter the door to go up to the next level in the castle.
+
+Your Password is: 41056213
+
+
+
+=-=-=-=-=-=
+F. LEVEL 6
+=-=-=-=-=-=
+
+This is actually one of the quickest levels in the game.
+
+-Start by stepping on the pressure plate to your right, then go left into the
+next room.
+
+-Move left, either jumping or using careful steps to get past the 2 sets of
+tiles containing spikes, and continue on into the next room.
+
+-In this room you will run over the pressure plate to open the gate, then jump
+over the gap.  Proceed slowly into the next room, as there is a loose tile in
+there that you will not want to run onto.
+
+-Jump over the loose tile, then do away with the Guard.  Proceed into the next
+room.
+
+-Run left into the next room.
+
+-You will see a large gap with a gate on the other side.  Quickly step on the
+pressure plate...you will notice your Shadow standing on the other side of the
+now-open gate.  Go back into the room on the right, but be careful not to run
+into that room or you will fall into the gap there.  From this room, get a
+running start and run back into the room to the left and make the long jump to
+the other side.  You will sail across, but that prick Shadow steps on the
+pressure plate on the other side to close the gate on you (you wouldn't have
+reached the ledge anyway).  Your doppleganger silently watches as you plunge
+into the abyss.  BEFORE YOU PRESS ANYTHING, READ THE FOLLOWING:
+
+This is the end of the level!  You will get a Password, but get ready to do
+something.  As the next level starts, you will actually be continuing your fall
+from the previous level.  Quickly grab onto the ledge as you are falling or you
+will end up a pancake a couple levels down.
+
+Your Password is: 42064425
+
+
+
+=-=-=-=-=-=
+G. LEVEL 7
+=-=-=-=-=-=
+
+-Hopefully you are standing safely on the ledge that you grabbed as you
+"dropped in" to this level.  You must now make a long jump across that huge gap
+over to the ledge on the right.  You can do it from a standing jump but you
+will have to grab onto the ledge and hoist yourself up.  Now go right into the
+next room.
+
+-You are confronted by a Guard (you've probably noticed they now have 4 units
+of energy).  Waste him and proceed past the slicer and into the next room.
+
+-Go right into the next room.
+
+-Climb up into the room above.
+
+-Run past the slicer to the right and into the next room.
+
+-Out-duel the Guard here and continue into the next room.
+
+-Grab the Potion to regain some energy, then climb down into the room below.
+
+-Run right, through 2 rooms, running past a pressure plate in the process.
+
+-You should now be in a room standing on a ledge on the upper left.  This part
+is tricky.  Go to the edge and turn facing the left so you can lower yourself
+down, but as you are falling, be prepared to grab the ledge at the bottom of
+the room.  Grab the ledge and pull yourself up.  Now you will want to lower
+yourself again, this time into the next room.  Be prepared again, as you are
+falling, to grab onto the ledge in the next room or you will end up skewered on
+the spikes below.
+
+-Now that you made it down here safely, walk left into the next room.
+
+-This room is kind of tricky, as there are 2 gaps you have to cross.  There are
+2 ways to make it across them without falling into one of them.  You can either
+make a running jump over the first one, grabbing onto the ledge on the other
+side of the gap as you are falling, then hoist yourself up or you can do it
+this way.  Upon entering the room, take a couple careful steps so you are
+standing directly in front of that torch on the wall.  Now press A and you
+should jump onto the narrow platform.  Press A again and you are past the
+second gap.  I think the second way is much easier.  Now move left into the
+next room.
+
+-There are 2 beds of hidden spikes in this room.  Either careful step your way
+through them or leap over them, then proceed into the next room.
+
+-Run over to where the debris is on the floor, then climb your way up into the
+room above.
+
+-Jump left, over the gap, into the next room and prepare for an immediate Guard
+battle.
+
+-After finishing the Guard, run left and past the Slicers into the next room.
+
+-Stand on the pressure plate and the gates will open, but don't move through
+them just yet.  Notice on the floor in the middle of the 2 gates there is
+another pressure plate (the tile is very slightly raised).  DO NOT step on that
+one on your way through or it will close the gates and you will have to climb
+up and back around to this area.  Instead, carefully jump over the plate and
+continue left into the next room.
+
+-Grab the Potion here and the screen will flash.  Now careful step to the
+ledge, face the right, and lower yourself down into the next screen.
+
+-Wow, it seems like you're falling in slow motion!  That's because the Potion
+you just guzzled made you light as a feather.  Now go step on the pressure
+plate on the left side of the room.  Run through the gate on the right that
+just opened and you will step on the pressure plate that opens the exit to the
+next level.  You can leave now, but I suggest the falling: run to the right
+into the next room, then right one more room and you will find a Potion that
+actually increased your strength gauge to 6 bars!  Grab it, then run back 2
+screens left and get into that door to move up to the next level in the palace.
+
+Your Password is: 33010223
+
+
+
+=-=-=-=-=-=
+H. LEVEL 8
+=-=-=-=-=-=
+
+Something funny happens here...you start the level with only 5 bars in your
+strength gauge.  I'm not sure why, but if anyone reading this walkthrough
+starts with all 6, email me whether or not you know why you still have all 6. 
+It might have something to do with running over those pressure plates after
+drinking the Potion, but I doubt it.
+
+This level is one of the longest, but it isn't too hard.  Plus, one of the
+coolest things happens at the end of the level.
+
+-From the start of this level, climb up to the top path and run left over a
+falling tile and into the next room, but be prepared for an immediate Guard
+battle.
+
+-The Guards are getting quicker now that you are in the later levels, but you
+should be used to the techniques needed to defeat them.  After besting this
+one, you will have to make a running jump to the left, running over a pressure
+plate, and leap over to the ledge on the left where you will have to grab it
+while falling.  Hoist yourself up and enter to the left.
+
+-If you need some energy, guzzle the Potion, then jump over to the ledges on
+the left and carefully lower yourself down into the next room.
+
+-Go right, past the slicer, into the next room.
+
+-Move right, either jumping over or careful stepping your way by the spikes,
+and continue into the next room.
+
+-Head right into the next room.
+
+-Continue right, passing more spikes, to the next room.
+
+-More of the same here.  Go right, past some floor debris, and into the next
+room.
+
+-Jump over the spikes and continue to the next room.
+
+-Finally, something challenging.  Beat the Guard and go to the next room.
+
+-If you need some energy, climb up and drink the Potion.  Now continue on to
+the right into the next room and then run through the room after that.
+
+-Now you should be standing near a ledge.  Your goal here is to get up to the
+ledge above you, so you will have to first make a running jump and grab the
+ledge to your right (your momentum actually carries you into the room below,
+but if you grab the ledge in time you will climb back up).  Now climb the
+ledges to the top and make a standing jump over to the top left ledge, grabbing
+it as you fall.  Now that you are safely across, climb up into the room above
+you.
+
+-Grab the Potion for some energy and climb back down to the room below.
+
+-Go left into the next room.
+
+-Duke it out with another towel-head, then run to the left, tripping the
+pressure plate to open the gate and jump over the gap to the left and enter to
+the next room.
+
+-Run past the slicer into the next room.
+
+-Now you will have to make a running jump over to the left.  Sometimes you can
+make it without having to grab the ledge, but be prepared to nonetheless.  Now
+move into the next room.
+
+-If you need more energy you can climb up into the room above you for a Potion.
+ If you don't, make the long leap across the gap (triggering the pressure plate
+before you jump) and into the next room.
+
+-Step on the pressure plate then move left, past the slicer, and over to
+another Guard battle.  If you beat him quickly, you can proceed left before the
+gate closes, but don't rush.  If the gate has closed by the time you beat him,
+just go right and step on the pressure plate behind the slicer again, then go
+back left through the door into the next room.
+
+-You will have to make another long jump here, but make sure you hit the
+pressure plate right before you jump to open the gate on the other side.  Grab
+the ledge as you are falling and scramble up and left into the next room.
+
+-Continue right, past the slicer and into the next room.
+
+-Step on the pressure plate and you will see the exit door below you open up. 
+Now you just have to get to it!  Go back into the room you just came from.
+
+-Continue right, past the slicer, into the next room.
+
+-You now face a closed gate, but wait!  A little white mouse comes out of
+nowhere on the other side of the room and triggers the pressure plate that
+opens the gate...talk about luck!  Lower yourself to the bottom and go left.
+
+-Run left, jumping over the spikes that pop up, into the next room.
+
+-Now you can exit to level 9.
+
+Your Password is: 96661143
+
+
+
+=-=-=-=-=-=
+I. LEVEL 9
+=-=-=-=-=-=
+
+Only 4 more levels to go!
+
+-Start by moving left into the next room.
+
+-Step on the pressure plate right as you enter the room, but stop for a second.
+ There is a hidden pressure plate about 3 tiles in front of the slicer.  If you
+touch it, it will close the gate behind the slicer, so jump over that space,
+move past the slicer, and continue to the next room.
+
+-Climb up into the room above you.
+
+-Jump across the gap to your right and continue right into the next room.
+
+-Run right, past the sealed exit door, and into the next room.
+
+-Get by the slicer, defeat the Guard, and continue to the next room.
+
+-Climb up to the Potion, drink it for some energy, then climb up into the room
+above.
+
+-Climb to the top of this room, then run really fast to the right to avoid the
+falling floor tiles.  When you enter the next room on the right, prepare for a
+Guard fight.
+
+-After slaying the Guard, go to the right and you will see a pressure plate on
+the floor.  You have to move quickly after stepping on it.  Step on it and run
+to the left, past the slicer and into the next room.
+
+-Now jump over the gap and then jump OVER the pressure plate in front of the
+gate (if you step on that pressure plate, the gate will close).  If you did
+this quick enough the gate should still be open and you can continue into the
+next room.
+
+-In here you will want to jump over to the ledges and climb up to the room
+above you.
+
+-Climb up to the closed gate.  Jump over to the small ledge to your right,
+which will activate the pressure plate opening the gate, then jump back to your
+left and go to the next room.
+
+-You will now have to fight a Guard on a long bridge.  Show him who's boss and
+continue on to the left.
+
+-If you need the Potion (more energy) in this room, go down and get it.  You
+will need to exit this room through the upper-left ledge, but make sure you are
+running as you enter the room.
+
+-The running jump you have to make upon entering this room is one of the
+longest in the game.  You should barely make it over to the ledge, where you
+will have to grab the edge with your hands and hoist yourself up (don't worry
+if you don't make it, just go back one screen, climb up to the top and try the
+jump again).  When you lift yourself up to the ledge it will activate a
+pressure plate.  Now lower yourself down to the bottom of the room and exit to
+the left.
+
+-You will probably need some energy at this point, so climb up to the Potion,
+then move left into the next room.
+
+-Run over to the big Potion in this room and chug it down to increase your
+strength gauge up to 6 bars again.  Now go back right into the room you were
+just in.
+
+-Go to the bottom of the room then drop down into the room below you.
+
+-Now work your way to the bottom of this room and climb down into the room
+below you again.
+
+-You will see a slicer in this room.  Run by it to trip the pressure plate
+(this plate opens the exit door), then run back past it.  Climb to the ledge
+above the pressure plate and run to the right, into the next room.
+
+-Keep running right, past the slicer, into the next room.
+
+-Defeat the green Guard here and move on to the next room on the right.
+
+-Lower yourself off the ledge and down to the floor where you can enter the
+door to the next level.
+
+Your Password is: 86579648
+
+
+
+=-=-=-=-=-=
+J. LEVEL 10
+=-=-=-=-=-=
+
+Again, for some reason, you will start this level with only 5 energy bars
+instead of 6.
+
+This level is really short, but you will have to put your sword-fighting to
+good use.
+
+-Start by moving to the right and climbing up to the upper-right platform, then
+walk into the room to the right.
+
+-There is a pressure plate on the floor right as you enter.  Step on it, then
+go back into the room you just left.
+
+-Head left and you will notice that the gate in the upper-left corner is now
+open.  Quickly get up there and through the gate.
+
+-A Guard is here to greet you.  These guys are quick now and have 5 energy
+bars.  Beat him, walk over to the left and climb up into the room above.
+
+-Step on the pressure plate in this tiny room, then climb back down to the
+previous room.
+
+-The gate to the left is now open, so step through it.
+
+-Hey look, another Guard.  Wax this chump then walk left to step on a pressure
+plate that opens the door below you.  Lower yourself down and enter the door to
+exit this short, but sweet level.
+
+Your Password is: 76458537
+
+
+
+=-=-=-=-=-=
+K. LEVEL 11
+=-=-=-=-=-=
+
+If you haven't noticed already, the rooms are gold rather than that dull
+bluish-purple...a sure sign that you are nearing the top of the palace.
+
+-From the start, climb up the wall and into the room on the right.
+
+-Right as you enter this room, climb up through the gap into the room above
+you.
+
+-If you need some energy, run to the left into the next room to get a Potion
+then come back to this room.  Now go to the right into the next room, but don't
+run into it.
+
+-Get the Potion if you need some energy, then climb down into the hole to the
+room below.
+
+-Go right, past the slicer, then take on the Guard.  After beating him, run
+quickly to the next room.
+
+-There should be a pile of debris on the floor as you enter the room.  There is
+a small area directly underneath the debris that has a pressure plate.  Lower
+yourself down to there and step on the plate.  You will notice that the gate
+opened.  Don't move yet.  There is a hidden pressure plate in front of the gate
+that will close it before you get through, so here's what you do.  Standing on
+the pressure plate that opened the gate, turn so you are facing the right.  Now
+tap the A button and you will jump across the gap and land on a safe tile.  Now
+tap A again and you will sail safely past the gate.  Continue to the next room.
+
+-Now run quickly to the right, as the floor tiles will start dropping out, and
+go through the gate into the next room.
+
+-Get up to the top level where you will do battle with another Guard.  I
+noticed that since the Guards are quicker now, if you get a hit on them you can
+usually immediately follow it up with another blow, as they will try to lunge
+forward.  I've actually gotten 5 straight hits on these Guards, so if your
+timing is on, you should be able to kill these guys pretty thoroughly.  After
+beating him, walk to the ledge and lower yourself down to the very bottom of
+the narrow passage.  Now use careful steps to walk into the next screen to your
+right.
+
+-Keep using careful steps to get by the spikes, then jump over the small gap. 
+Now stand on the ledge and jump up to climb to the top level.  Run past the
+closed exit door into the next room.
+
+-Climb up to the top level where you will fight another Guard.  This guy is
+tough, but can be beaten like all the others.  After he's taken care of, walk
+right into the next room.
+
+-Run across the floor and a tile will fall.  Climb down to the bottom and step
+on the pressure plate which opens the exit door.  Climb out of there and go
+back left to the previous room.
+
+-Run through this room into the next room.
+
+-The open door awaits you.  Take it to the next level.
+
+Your Password is: 78598244
+
+
+
+=-=-=-=-=-=
+L. LEVEL 12
+=-=-=-=-=-=
+
+For some reason the walls are back to that bluish-purple color.
+
+Anyway, if you like climbing and making those really long jumps, this level
+will probably be your favorite.  You have to deal with not only the jumps, but
+falling tiles and spikes.
+
+-Start by running right into the next room.
+
+-Climb straight up the middle row of platforms and up into the room above.
+
+-In this room, climb up two platforms to the opening, then careful step to your
+left to cross the spikes, but stop so you are still standing on the spikes, as
+the small bridge to your left will drop out.  Now tap A to leap left into the
+next room.
+
+-Make a running leap to cross the wide gap and grab the ledge on the other
+side, then hoist yourself up.  Climb up into the room above.
+
+-Climb up two platforms, then stand on the ledge and jump the gap over to the
+right side.  Here is where you will have to make the leap of faith that is
+mentioned in the manual.  Stand on the ledge on the right side of the gap you
+just jumped over and face to the right.  Now, start running to the right and
+make a running jump at the last second into the next room and get ready to grab
+onto the ledge.
+
+-If you made the jump successfully, congratulate yourself, but not for too
+long, as there is an even harder jump yet to come.  Now, before moving any
+further, notice the jump you will have to make now.  It doesn't look bad, but
+be aware that the last tile in the center platform will fall away.  If you
+stand too close to the right ledge, it will fall and the jump will be
+impossible, so just stand as far to the left of the center platform as you can
+and make a running jump to the right.  The tile will fall as you run over it
+but you will be able to leap from it right before it falls.  Grab the wall as
+you are falling then climb up and walk right into the next room.
+
+-Climb up into the next room.
+
+-Continue climbing, then carefull step left into the next room.
+
+-Stand on the ledge and jump over to the left, grabbing the ledge and hoisting
+yourself up.  Climb up to the next platform and run left over the falling
+bridge and into the next room.
+
+-Make a running jump over to the left, then climb up into the next room.
+
+-In this room, climb up to the top and then up into the next small room above.
+
+-You will see another Skeleton Guard above.  Worry about him later.  Step on
+the pressure plate then climb back down into the room below.
+
+-Now run left past the gate (the gate will stay open, so don't worry about it
+closing on you) and into the next small room.
+
+-Stand as close to the wall as you can, then turn and face right.  You should
+only be able to see a small portion of yourself (to get in that far, careful
+step as far to the left as you can, then press Up to jump straight up...when
+you land you will actually be further inside the alcove...now face the right). 
+This is the hardest jump you will have to make in the game.  I only seem to
+make it about 50% of the time.  Just run right into the next screen and jump to
+the right at the last possible second.  If you nailed it, you should be able to
+hoist yourself up and move right into the next room.
+
+-Be careful in this room.  Both tiles of the bridge will fall if you walk onto
+them.  You can either run or jump over them.  Now stand on the far right ledge
+and climb up to the screen above.
+
+-Now jump straight up to bump into the tiles above and one should break free. 
+Climb up on the left side of the newly-made gap then run left across the bridge
+(a tile will fall as you run) and into the next room.
+
+-Climb up to the top and run across the bridge (a tile will drop as you are
+running) and you will be confronted by that Skeleton Guard.  I'm guessing this
+guy is one of Jaffar's right-hand-men (or skeletons), as he is extremely quick.
+ It's hard to use the block and parry on him since he is so quick, so you might
+just want to attack him straight up.  Hopefully you are using an emulator, so
+you can save the game before the fight (or even during, after each successful
+blow, if you like to cheat :)).  Defeat this bag of bones and run left across
+the bridge (don't worry, none of the tiles will drop) into the next room.
+
+-Now stand on the ledge and jump straight across over to the left, then cross
+into the next room, which leads to the abrupt end of this level.
+
+Your Password is: 20086629
+
+
+
+=-=-=-=-=-=
+M. LEVEL 13
+=-=-=-=-=-=
+
+This level begins right where the left one ended.
+
+-Run all the way left, through 2 rooms, until you reach the wall, then climb up
+into the room above.
+
+-Wow, there's the exit door, but it is closed.  Climb to the top platform, then
+leap right into the next room to...
+
+JAFFAR!!
+
+-Here he is, the Grand Vizier himself...and only 4 life bars!  He looks like
+just another one of the Guards, but trust me, it's Jaffar.  Cross the bridge
+(the first tile will fall) and prepare for battle.
+
+-Jaffar is actually easier than that Skeleton you just fought.  You can either
+go after him or use the block and parry technique.  Either way, 4 hits and he's
+done!
+
+-You can go right into the next room, where you will see a HUGE gap (remember
+when you entered this level there was all that debris on the floor?).  You
+cannot make it across, but it is just something of interest.  Wonder what's on
+the other side?
+
+-After beating Jaffar, careful step into the room to your left and jump over to
+the exit door.
+
+Your Password is: 43279639
+
+
+
+=-=-=-=-=-=
+N. LEVEL 14
+=-=-=-=-=-=
+
+This level is actually the easiest in the game.
+
+-Walk over to the pressure plate on the right and step on it.  Now just run to
+the left, through several rooms stepping on the pressure plates as you run, and
+eventually you will reach the Princess!
+
+Take her in your arms and bask in the glow of victory.  Jaffar lies dead and
+the kingdom of the Sultan is saved, thanks to you, the Prince of Persia!

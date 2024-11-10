@@ -1,0 +1,520 @@
+===============================================================
+I. The Object of the Game
+===============================================================
+
+You control the Vaus II, and you must keep your energy ball(s) in play, 
+destroying bricks and opening a path onward until you face the evil DOH.
+
+===============================================================
+II. Controls
+===============================================================
+
+Left/Right     - move Vaus II left or right
+A + Left/Right - move Vaus II faster
+B + Left/Right - move Vaus II slower
+A              - shoot a laser (with the Laser capsule) or release the ball (at 
+                 the beginning of a level or with the Catch capsule)
+
+===============================================================
+III. Main Menu
+===============================================================
+
+1P   - play a one player game
+2P   - play a two player game (same as 1P, players alternate turns)
+Vs   - two players (or one player and the computer) face off in a Pong style 
+       matchup with obstacles separating the two combatants
+Edit - create your own levels
+
+===============================================================
+IV. Scoring
+===============================================================
+
+Points are scored whenever a block is broken, when you grab a power-up capsule, 
+and when you destroy an enemy. An extra life is granted at 20,000 points and 
+every 50,000 points thereafter. The different types of blocks are:
+
+Colored blocks - All of these blocks must be eliminated to complete a level. 
+One hit from the ball will destroy them. Some of these blocks contain power-up 
+capsules, when the ball hits it the first time, a capsule will be shown and 
+then change to a different capsule every few seconds. A second hit from the 
+ball releases the capsule, letting it fall towards the Vaus II. If you catch 
+the capsule with the Vaus II, you gain the capsule's powers. Even if you don't 
+hit the capsule a second time, eventually it will choose a random capsule and 
+fall on its own. The capsule's powers last until you die, you complete the 
+level, or you grab another capsule.
+
+Silver blocks - All of these blocks must be eliminated to complete a level. As 
+the game progresses, the number of hits needed to destroy these blocks 
+increases, beginning with 2 in the early levels and ending with 6 in the late 
+levels. These blocks never contain powerups.
+
+Gold blocks - These blocks are not required to be destroyed to complete a 
+level. They can only be destroyed with a ball powered by a Megaball capsule.
+
+Regenerating blocks - These blocks are not required to be destroyed to complete 
+a level. They take the same amount of hits needed as Silver blocks do, but when 
+they are destroyed, they regenerate after a few seconds.
+
+Moving blocks - Some blocks move back and forth across the level. Some gold 
+blocks will begin moving back and forth after being hit by the ball.
+
+===============================================================
+V. Power-ups
+===============================================================
+
+Here is a list of all the power-up capsules you can collect: 
+
+[Name (Letter-Color) - Added abilities]
+
+Break (B-pink) - Opens the exits to the next level, even if breakable blocks 
+remain on the level.
+
+Catch (C-dark green) - The ball sticks to the Vaus II, allowing you to move 
+around and shoot it wherever you want. Don't take too long, though, as the ball 
+will shoot itself after a few seconds.
+
+Disrupt (D-light blue) - The ball splits into eight balls.
+
+Extend (E-dark blue) - The Vaus II increases in size.
+
+Incandescence (I-dark green) - The Vaus II leaves a trail behind itself 
+whenever it moves. This trail keeps the ball in play just like the Vaus II 
+itself does.
+
+Laser (L-red) - Activates the Vaus II's laser, allowing it to shoot and destroy 
+blocks and enemies.
+
+Megaball (M-purple) - The ball changes color and can go through all blocks, 
+even gold ones, destroying them instantly. Be careful, because on some levels, 
+the ball color can make it very difficult to see on some levels' backgrounds.
+
+New (N-white) - The ball splits into three balls. If a ball is lost, one of the 
+remaining two splits again, thus keeping three balls in play at all times.
+
+Player (P-gray) - The player gains an extra life.
+
+Reduce (R-black) - The Vaus II shrinks in size, however, all points earned are 
+doubled while in a reduced state.
+
+Speed Down (S-peach) - The ball slows down.
+
+Twin (T-dark blue) - The Vaus II duplicates itself, thus giving you two Vaus 
+II's to keep the ball in play. Be careful, as there is a gap between the two 
+Vaus II's and the ball can fit in between them, which can cause much 
+frustration.
+
+===============================================================
+VI. Levels
+===============================================================
+
+There are 32 brick-breaking levels and 3 boss fights, for a total of 35 levels. 
+Most of the levels have a "Left" and "Right" version, depending on which exit 
+you take when you complete the previous level. After breaking the last block of 
+a level or when you grab a "Break" capsule, an exit appears on your left and 
+your right. Take the left exit to go the "Left" version of the next level, take 
+the right exit to go the "Right version".
+
+Here are descriptions for every level, with difficulty ratings:
+
+Level 0 - Easy
+
+The game opens with a battle against...DOH? That's strange. He's a piece of 
+cake though. Avoid his projectiles and keep hitting him with the ball until he 
+is destroyed. Seven hits should do the trick.
+
+Level 1 - Easy
+
+This level is the same no matter which exit you took on Level 0. This level 
+introduces the regenerating bricks, so be aware of them.
+
+Level 2L - Easy
+
+Gold blocks make their first appearance here, and they move once they are hit. 
+Try to get the ball up through the hole in the silver blocks and keep the ball 
+up there.
+
+Level 2R - Easy
+
+Gold blocks divide the level in half, with a multitude of colored blocks to hit 
+on both sides.  No problem.
+
+Level 3L - Easy
+
+More moving gold blocks here, but the low number of breakable blocks makes this 
+a quick level.
+
+Level 3R - Average
+
+It can be tough to get the between the gold blocks and hit the breakable 
+blocks, especially when the ball starts speeding up. If you can grab a capsule, 
+it's not too bad.
+
+Level 4L - Average
+
+The interconnected gold and silver blocks present a challenge, especially with 
+the blocks nestled between the gold blocks.
+
+Level 4R - Easy
+
+Hmmm...it looks like a cat. The gold blocks are out of the way in this level, 
+and there aren't many breakable blocks to hit.
+
+Level 5L - Easy
+
+The gold blocks outline the shape of a bug of some kind, so keep the ball in 
+the middle where the breakable blocks are and you'll be fine.
+
+Level 5R - Hard
+
+There are only eight breakable blocks, but they are hard to hit amongst the 
+gold blocks, and if you miss and send the ball up to the top, the ball speeds 
+up very quickly, making it very hard to control.
+
+Level 6L - Easy
+
+It looks like a Vaus! No gold blocks here, so destroy everything.
+
+Level 6R - Average
+
+If you can get rid of the blocks between the gold blocks early, the rest is 
+easy.
+
+Level 7L - Easy
+
+The gold blocks are spread out, so just keep sending the ball up the sides and 
+it should stay up there.
+
+Level 7R - Hard
+
+The hard part is sending the ball into the maze of gold blocks. If it stays 
+there and doesn't come back out, the level is quite easy. Of course, the ball 
+always seems to miss one block and fly out when you least expect it, so be 
+ready for it.
+
+Level 8L - Average
+
+First off, destroy the regenerating block on the right and quickly send the 
+ball up into the top part of the level. As long as the block regenerates 
+quickly enough that the ball is trapped up there, it should buy enough time for 
+you to grab a capsule and quickly finish off this level.
+
+Level 8R - Hard
+
+The gold blocks make their presence felt again. Try and fit the ball between 
+the gold blocks and pray the ball doesn't come back out for a long time.
+
+Level 9L - Average
+
+Tennis anyone? Lots of silver blocks here, so be prepared for a lengthy battle. 
+Also, the gold blocks are close to the bottom, so keep the ball away from them.
+
+Level 9R - Average
+
+Time for a ride in a balloon! Stay away from the middle here, as the gold 
+blocks block you there. Keep sending the ball up the sides.
+
+Level 10L - Hard
+
+The level is almost entirely composed of gold and silver blocks, so don't 
+expect many capsules to help you here. The moving gold blocks also pose a 
+problem, as they can cause some unexpected bounces.
+
+Level 10R - Hard
+
+Not to be outdone, this level has even fewer colored blocks than 10L, as it's 
+pretty much just a mass of silver blocks. There are passages on both sides, so 
+keeping sending the ball up and hope it causes a lot of damage before it comes 
+back down.
+
+Level 11L - Average
+
+Gold blocks border the breakables on the top and bottom, so send the ball up 
+the sides for an easier time.
+
+Level 11R - Average
+
+This level is very similar to Level 16 of the original Arkanoid. You can either 
+break the blocks on the sides and send the ball up to the top, or break through 
+the silver blocks in the middle to get to the top blocks.
+
+Level 12L - Average
+
+This heart-shaped level has regenerating blocks at the top which can keep the 
+enemies from the top at bay, so focus your attention on the middle and the 
+breakable blocks there.
+
+Level 12R - Average
+
+Lots of silver blocks here, but they are not too close to you, allowing a lot 
+of room for maneuvering.
+
+Level 13L - Hard
+
+There are five long lines of blocks, alternating between colored blocks and 
+regenerating blocks. If you can send the ball up at a sharp angle, it will 
+probably stay up there for a while. If you can grab a ball-splitting capsule 
+while it's up there, the level could end very quickly, although it can be very 
+difficult to get to one pesky block amid all of the annoying regenerating 
+blocks.
+
+Level 13R - Hard
+
+This is another one of those "send the ball up the middle and hope it never 
+comes out" levels. The regenerating blocks should keep the ball up there if 
+you're fortunate, but if the ball comes back down at a high speed, you can kiss 
+that ball goodbye.
+
+Level 14L - Average
+
+This level isn't too bad, especially if you can grab a laser capsule, as all 
+the blocks are vulnerable to being shot.
+
+Level 14R - Average
+
+Not too many breakables here, and the blocks start far away, so it's a nice 
+breather.
+
+Level 15L - Easy
+
+It's a piece of cake! Oh, and the level is easy, too. ^_^
+
+Level 15R - Very Hard
+
+There aren't many breakable blocks here, of course getting to them is another 
+story. The gold blocks in the middle form an impenetrable wall that spell out 
+the word "DOH" (which, incidentally, is what I say whenever I play this level 
+instead of 15L.
+
+*insert a Homer Simpson "D'oh!" here*
+
+Anyway, to get the ball to the top, there are movable gold blocks that open up 
+a passage to the breakable blocks. Of course, actually getting that to work is 
+quite difficult. An alternative is to try and shoot the ball in-between the 
+gold blocks at the bottom left corner of the "O", since if you hit it just 
+right, the ball can pass right between two blocks matched corner to corner. Of 
+course, once you get the ball up top, it's virtually impossible to lose, unless 
+you are very unlucky.
+
+Level 16L - Hard
+
+The enemies are contained in the columns of gold blocks on the left and right, 
+so shoot the silver blocks at the bottom last. The mass of colored blocks in 
+the middle can be a problem, especially if you accidentally release the enemies 
+into the level, since they will be very close to you.
+
+Level 16R - Average
+
+Lots of regenerating blocks again, but not too bad. Just keep shooting the ball 
+up the pathways in the middle and the sides.
+
+Level 17 - Hard
+
+The second boss appears to be a brain of some kind. It will emit enemies 
+towards you at a rapid pace, so try to hit them as soon as possible so they 
+don't get close. Keep hitting the brain will the ball, and eventually it will 
+disappear, allowing some kind of alien to escape. Twenty hits or so should do 
+it.
+
+Level 18 - Hard
+
+This level is the same no matter which exit you take from Level 17. The three 
+rows of regenerating blocks will give you headaches, but once you get the ball 
+past them, the rest should be easy.
+
+Level 19L - Easy
+
+A long row of gold blocks with one row of colored blocks on each side and 
+that's it. Easy stuff.
+
+Level 19R - Easy
+
+No special blocks here, just colored blocks. No problem.
+
+Level 20L - Average
+
+Once you pass the outer rim of silver blocks, the rest is easy.
+
+Level 20R - Average
+
+Lots of silver blocks here, including moving silver blocks. Shoot the ball up 
+the passages to the top and grab a decent capsule if you can.
+
+Level 21L - Hard
+
+The breakable blocks are all inside a square of gold blocks, with regenerating 
+blocks servings as entrances. Destroy a regenerating block and shoot the ball 
+inside, hoping the block regenerates in time to keep the ball inside.
+
+Level 21R - Hard
+
+Try to send the ball at an angle up the sides to make it easier for the ball to 
+get inside the large square of gold blocks. Be careful since the gold blocks 
+are quite close to the bottom of the level.
+
+Level 22L - Hard
+
+This is only hard due to large number of breakable blocks in the level. Destroy 
+one of the silver blocks and shoot the ball up to the top, and hope for the 
+best.
+
+Level 22R - Average
+
+Shoot the ball up the side and hope it goes between the gold blocks and breaks 
+through the regenerating blocks. Hope the ball doesn't come back, as always.
+
+Level 23L - Average
+
+This level is somewhat reminiscent of Level 3 of the original Arkanoid. Break 
+through the first set of silver blocks and try to angle the ball between the 
+gold blocks and colored blocks. Repeat as necessary.
+
+Level 23R - Easy
+
+Not too much to threaten you here, so just keep the ball going.
+
+Level 24L - Easy
+
+The blocks are frowning at you, but they won't threaten you too much.
+
+Level 24R - Average
+
+Keep sending the ball up the side until it breaks through one of the holes in 
+the gold block wall, then hope it stays in there long enough to hit the small 
+number of colored blocks in the middle of the regenerating blocks.
+
+Level 25L - Hard
+
+No power-up capsules here, as all the blocks are silver or regenerating. It's 
+similar to Level 11 of the original Arkanoid. Just keep shooting the ball into 
+the middle when you break through the regenerating blocks.
+
+Level 25R - Average
+
+Lots of colored blocks here, the toughest block to hit is the one in the middle 
+surrounded by regenerating blocks.
+
+Level 26L - Hard
+
+Destroy the regenerating block and quickly shoot the ball into the little hole 
+twice. This should get you a Laser capsule. If you're quick enough, you can 
+shoot the ball in a third time before the block regenerates and you should be 
+set. If not, use the laser to shoot the block again until you can get the ball 
+past the gold block wall. Once the ball is past it with the regenerating block 
+in place, you're set.
+
+Level 26R - Easy
+
+There are only colored blocks here, but be aware, there are no power-up 
+capsules to be had, so you'll have to finish the level the old-fashioned way.
+
+Level 27L - Average
+
+Need a beer? I know I do. Keep shooting the ball into the mug to hit all the 
+colored blocks, and then finish off the silver blocks on the handle and the 
+bottom.
+
+Level 27R - Average
+
+There aren't many blocks to hit here, but they are well guarded by the gold 
+blocks.
+
+Level 28L - Hard
+
+Each side has two lines of regenerating blocks to pass before you can get the 
+ball up top, and they are very close to the bottom of the level, so be prepared 
+for a tough battle.
+
+Level 28R - Hard
+
+The only way up is on the left side of the massive gold block wall, hope the 
+ball goes in enough to take out the breakable blocks inside.
+
+Level 29L - Easy
+
+Mmmm...strawberry. Or is that an apple? Not sure. Just shoot the red fruity 
+section and the green leafy section at the top, ignoring the golden stem.
+
+Level 29R - Easy
+
+It looks like a space invader of some kind. Just shoot the colored blocks and 
+be done with it.
+
+Level 30L - Average
+
+The gold blocks form a snake pattern, so as long as you keep the ball inside 
+the snake, you'll be fine.
+
+Level 30R - Average
+
+At least the gold wall at the top will keep the enemies away. Just be careful 
+since the level is smaller than normal due to the gold wall, so the ball speeds 
+up quicker.
+
+Level 31L - Average
+
+I wouldn't suggest going at this formation from the bottom since the ball will 
+just speed up too quickly. Shoot the ball up either side and let the ball take 
+out the blocks from the top.
+
+Level 31R - Hard
+
+The colored blocks are well hidden by the gold blocks here. Shoot the ball at 
+an angle up either side and hope the ball goes in between a few times.
+
+Level 32L - Hard
+
+This level reminds me of Level 30 of Arkanoid, with the checkerboard pattern of 
+the blocks. Except, in this case, there are regenerating blocks everywhere, 
+which makes for a nightmare if you're trying to get to a block at the top.
+
+Level 32R - Average
+
+The colored blocks are all along the outside of the gold blocks, so just try to 
+keep the ball from going into the middle, where there are no blocks and just 
+causes the ball to speed up more.
+
+Level 33L - Hard
+
+There aren't many blocks to hit here, but the gold blocks divide the level into 
+upper and lower tiers, and the ball has a tendency to gravitate to the upper 
+level even after getting all the blocks up there.
+
+Level 33R - Average
+
+Keep shooting the ball up the sides, avoiding the golden block wall at the 
+bottom.
+
+Level 34 - Hard
+
+Either exit from 33L or 33R leads to here, the final boss, DOH himself. The 
+first form is similar to the form you fought in Level 0, only this time he 
+takes a lot more punishment before disappearing. When he does, he is replaced 
+by his true form (the form that escaped the brain in Level 17). Try not to 
+shoot the arms, as they break off when hit and the pieces are deadly to your 
+Vaus II, plus they regenerate after the pieces disappear. Eventually, the 
+creature succumbs to your onslaught, and you have conquered DOH yet again!
+
+===============================================================
+VII. Strategies
+===============================================================
+
+- Don't use a standard controller to play the game. I highly recommend using an 
+Arkanoid-type controller (with a spinning dial as opposed to a D-pad) or a 
+mouse (for play on a computer). Even using the A button to speed up the Vaus II 
+usually isn't enough to keep up with the speed of the ball.
+
+- Know your power-up capsules! Nothing hurts more than to grab a totally 
+useless capsule and negating the effect of a more useful ability. Also, if you 
+grab a New power-up capsule, try to keep its effect in play as long as 
+possible. The only way you can lose with this capsule is to lose all three 
+balls simultaneously, which will very rarely ever happen.
+
+- Practice controlling the angle of the ball bouncing off the Vaus II. If you 
+hit the ball on the edge of the Vaus II, the angle of the ball becomes 
+narrower; if you hit the ball on the center of the Vaus II, the angle becomes 
+steeper. Use this to hit the ball where you want it to go.
+
+- After the ball hits a certain number of targets (walls, blocks, enemies, 
+etc.) the angle of the ball changes slightly. Watch out for this. Also be aware 
+that the ball can take an extremely sharp angle change when hitting an enemy, 
+especially when the enemies fly down near to your Vaus II.

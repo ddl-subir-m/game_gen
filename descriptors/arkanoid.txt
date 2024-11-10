@@ -1,0 +1,962 @@
+1. Overview
+2. Game mechanics and controls
+3. Blocks, Capsules and Debris
+4. Round layouts 
+5. Secrets, Codes and Tips.
+6. Copyright and Contact Info
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Arkanoid was developed by the Taito Corporation as a clone of the popular Atari 
+game Break Out. This game has you controlling a ship whose mission is to break 
+a multitude of colorful blocks to advance to the next round. Sounds simple in 
+premise but Arkanoid was one of the most difficult games of the period and 
+remains so to this day. 
+
+One or two players control the ships as they move right and left across the 
+bottom of the screen while attempting to bounce a ball back up to the blocks 
+above. To better control the ship the game featured a pack in controller dubbed 
+the Vaus Controller which featured a wheel you would turn to the left or right 
+to control the ship. The goal is to clear the level of the blocks and advance 
+to the next stage while competing for points in two player all cultivating in 
+the final boss battle. 
+
+What looks like a simple Pong rip-off is actually a fun game and a rare one at 
+that; an original cart and Vaus controller can bring a pretty penny in good 
+condition. While difficultly might take the place of length it can still be 
+enjoyed to this day.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2. Game mechanics and controls
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~
+Game Mechanics
+~~~~~~~~~~~~~~
+
+From the included game manual:
+
+Their earth-like planet was devastated by a brutal attack of aliens. The
+survivors roam the galaxy on their photon spaceship Arkanoid in search of a
+new home. The Arkanoid is attacked and the survivors barely escape in the Vaus
+spacecraft. Instead of finding safety, they are now trapped in a deadly space
+labyrinth.
+
+If they are to be saved, you must summon all your courage and skill to shatter
+the space walls and defeat the merciless enemy forces!
+
+
+From the game:
+
+The Era and time of this story are unknown. After the mothership "Arkanoid" was 
+destroyed, a spacecraft "Vaus" scrambled away from it...
+
+But only to be trapped in space warped by someone...
+
+Arkanoid is short on story to say the least eh?
+
+The game has a simple idea behind it. Your main goal is to control the paddle 
+which is actually a spacecraft named Vaus to destroy the blocks that someone is 
+using to block your way. Clear each round to advance to the next.
+
+To help you along the way is a small arsenal of items that do everything from 
+increase the length of Vaus to equipping the ship to shoot lasers that can 
+destroy the blocks. Arkanoid can be played alone or with a friend using any 
+combination of NES controllers and\or Vaus controllers. Try to get more points 
+then the other player!       
+
+~~~~~~~~
+Controls
+~~~~~~~~
+
+
+D-Pad: used to control Vaus left or right if you don't use the Vaus Controller.
+
+[A]: Fires the lasers you can get from items and also launches the ball from 
+Vaus.
+
+[B]: Not used
+
+Start: Used to confirm choice on main menu and to pause the game.     
+
+Select: Moves cursor on the main menu.
+
+Vaus control wheel: turn it left or right to move Vaus. How much and how fast 
+you move the wheel correlates to the ship on screen.
+
+Vaus action button: Fires the lasers you can get from items and also launches 
+the ball from Vaus.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3. Blocks, Capsules and Debris
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~
+Blocks
+~~~~~~
+
+Arkanoid features 10 different color blocks that you will come across in any of 
+the 35 rounds. Each color is worth a different amount of points when destroyed 
+and some require a changing amount of hits to destroy or even none at all. The 
+chart below details the info you need to know.
+
+
+~~Color~~~~~~~~~~Pts~~~~~~~~~~~~Hits~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|                                                                             |
+| White           50             1 hit                                        |
+| Orange          60             1 hit                                        |
+| Lt. Blue        70             1 hit                                        | 
+| Green           80             1 hit                                        |
+| Red             90             1 hit                                        |
+| Blue           100             1 hit                                        | 
+| Pink           110             1 hit                                        |
+| Yellow         120             1 hit                                        |
+| Silver    50 x # of level     1 hit at start; increase by 1 every 8 rounds  |
+| Gold             0             Can't be destroyed with any number of hits   |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+
+~~~~~~~~
+Capsules
+~~~~~~~~
+
+Arkanoid features a small arsenal of items that can help you consisting of 
+seven different abilities. The chart below explains.....
+
+~~Color~~~~~~~~~~~~~~~~~~~~~~~~Ability~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| Dark Blue                  Enlarges the length of Vaus            |
+| Light Blue                 Splits the ball into three             |
+| Orange                     Slows the speed of the ball down       |
+| Grey                       Gives you an extra life(Vaus)          | 
+| Yellow                     "Sticky" Vuas; catch the ball          |
+| Pink                       Opens escape route to end round early  |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~
+Debris
+~~~~~~
+
+Debris are the pieces of the planets that were destroyed. They "spawn" from the 
+top of the area from gates in the boundaries. Have different effects on the 
+ship like wild control and difficult aiming. Destroy them simply by hitting 
+them with the ball like a block.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4. Round layouts 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Below are diagrams that show the layout of all the rounds found in Arkanoid. 
+Shown in the blocks is a letter that denotes color\points: W\hite, O\range, 
+L\t.Blue, G\reen, R\ed, B\lue, P\ink, Y\ellow, S\ilver and g\old. An X denotes 
+an empty space.
+
+Shown after each diagram is a quick run down of the points available in each 
+level; mainly for two player purposes.
+
+
+~~~~~~~~~
+Round One
+~~~~~~~~~
+
+[S][S][S][S][S][S][S][S][S][S][S]
+[R][R][R][R][R][R][R][R][R][R][R]
+[B][B][B][B][B][B][B][B][B][B][B]
+[Y][Y][Y][Y][Y][Y][Y][Y][Y][Y][Y]
+[P][P][P][P][P][P][P][P][P][P][P]
+[G][G][G][G][G][G][G][G][G][G][G]
+
+Green: 80 x 11 = 880
+Pink: 110 x 11 = 1210
+Yellow: 120 x 11 = 1320
+Blue: 100 x 11 = 1100
+Red: 90 x 11 = 990
+Silver: (50 x 1) x 11 = 550
+
+~~~~~~~~~
+Round Two
+~~~~~~~~~
+
+[O]
+[O][L]
+[O][L][G]
+[O][L][G][B]
+[O][L][G][B][R]
+[O][L][G][B][R][O]
+[O][L][G][B][R][O][L]
+[O][L][G][B][R][O][L][G]
+[O][L][G][B][R][O][L][G][B]
+[O][L][G][B][R][O][L][G][B][R]
+[S][S][S][S][S][S][S][S][S][S][O]
+
+Orange: 60 x 16 = 960
+Lt.Blue: 70 x 13 = 910
+Green: 80 x 11 = 880
+Blue: 100 x 9 = 900
+Red: 90 x 7 = 630
+Silver: (50 x 2) x 10 = 1000
+
+~~~~~~~~~~~
+Round Three
+~~~~~~~~~~~
+
+[G][G][G][G][G][G][G][G][G][G][G]
+
+[W][W][W][g][g][g][g][g][g][g][g]
+
+[R][R][R][R][R][R][R][R][R][R][R]
+
+[g][g][g][g][g][g][g][g][W][W][W]
+
+[P][P][P][P][P][P][P][P][P][P][P]
+
+[B][B][B][g][g][g][g][g][g][g][g]
+
+[B][B][B][B][B][B][B][B][B][B][B]
+
+[R][R][R][R][R][R][R][R][R][R][R]
+
+Green: 80 x 11 = 880
+White: 50 x 6 = 300
+Gold: n\a x 24 = 0
+Red: 90 x 22 = 1980
+Pink: 110 x 11 = 1210
+Blue: 100 x 14 = 1400
+
+~~~~~~~~~~
+Round Four
+~~~~~~~~~~
+
+[S][Y][G][P]   [Y][G][B][S]
+[B][G][Y][R]   [G][Y][S][B]
+[G][P][R][Y]   [B][S][Y][G]
+[Y][R][P][G]   [S][B][G][Y]
+[R][Y][G][B]   [Y][G][P][R]
+[P][G][Y][S]   [G][Y][R][P]
+[G][B][S][Y]   [P][R][Y][G]
+[Y][S][B][G]   [R][P][G][Y]
+[S][Y][G][P]   [Y][G][B][S]
+[B][G][Y][R]   [G][Y][S][B]
+[G][P][R][Y]   [B][S][Y][G]
+[Y][R][P][G]   [S][B][G][Y]
+[R][Y][G][B]   [Y][G][P][R]
+[P][G][Y][S]   [G][Y][R][P]
+
+Silver: (50 x 4) x 14 = 2800
+Yellow: 120 x 28 = 3360
+Green: 80 x 28 = 2240
+Pink: 110 x 14 = 1540
+Red: 90 x 14 = 1260
+Blue: 100 x 14 = 1400
+
+~~~~~~~~~~
+Round Five
+~~~~~~~~~~
+
+      [Y]         [Y]
+         [Y]   [Y]
+         [Y]   [Y]
+      [S][S][S][S][S]
+      [S][S][S][S][S]
+   [S][S][R][S][R][S][S]
+   [S][S][R][S][R][S][S]
+[S][S][S][S][S][S][S][S][S]
+[S][S][S][S][S][S][S][S][S]
+[S]   [S][S][S][S][S]   [S]
+[S]   [S]         [S]   [S]
+[S]   [S]         [S]   [S]
+         [S]   [S]
+         [S]   [S]
+
+Yellow: 120 x 6 = 720
+Red: 90 x 4 =  360
+Silver: (50 x 5) x 53 = 13250
+
+~~~~~~~~~
+Round Six 
+~~~~~~~~~
+
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [g][O][g][O][g][O][g]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[B]   [R]   [G]   [G]   [R]   [B]
+[O]   [g]   [g]   [g]   [g]   [O]
+[B]   [R]   [G]   [G]   [R]   [B]
+
+Blue: 100 x 20 = 2000
+Red: 90 x 18 = 1620
+Green: 80 x 18 = 1440
+Orange: 60 x 5 = 300
+Gold: n\a x 8 = 0
+
+~~~~~~~~~~~
+Round Seven
+~~~~~~~~~~~
+
+      [Y][L][B]
+   [Y][G][B][L][Y]
+   [L][B][G][Y][O]
+[G][B][L][Y][G][R][O]
+[B][G][Y][O][R][G][Y]
+[L][Y][G][R][O][Y][G]
+[Y][O][R][G][Y][L][B]
+[G][R][O][Y][G][B][L]
+[R][G][Y][L][B][G][Y]
+   [Y][G][B][L][Y]
+   [L][B][G][Y][O]
+      [L][Y][G]
+
+Yellow: 120 x 18 = 2160
+Lt.Blue: 70 x 11 = 770
+Blue: 100 x 10 = 1000
+Orange: 60 x 7 = 420
+Red: 90 x 6 = 540
+Green: 80 x 16 = 1280
+
+~~~~~~~~~~~
+Round Eight
+~~~~~~~~~~~
+
+[g]      [g]   [g]      [g]
+[g][g]               [g][g]
+            [O]
+         [g][G][g]
+   [g]      [Y]      [g]
+            [B]
+   [g]      [R]      [g]
+         [g][G][g]
+            [Y] 
+[g][g]               [g][g]
+[g]      [g]   [g]      [g]
+
+Gold: n\a x 24 = 0
+Orange: 60 x 1 = 60
+Green: 80 x 2 = 160
+Yellow: 120 x 2 = 240
+Blue: 100 x 1 = 100
+Red: 90 x 1 = 90
+
+~~~~~~~~~~
+Round Nine
+~~~~~~~~~~
+
+[g]   [g]         [g]   [g]
+[g][G][g]         [g][G][g]
+[g][B][g]         [g][B][g]
+[g][g][g]         [g][g][g]
+
+      [P][B][B][B][Y]
+      [P][G][L][G][Y]
+      [P][L][G][L][Y]
+      [P][G][L][G][Y]
+      [P][L][G][L][Y]
+      [P][B][B][B][Y]
+
+Gold: n\a x 18 = 0
+Green: 80 x 8 = 640
+Blue: 100 x 8 = 800
+Lt.Blue: 70 x 6 = 420
+Pink: 110 x 6 = 660
+Yellow: 120 x 6 = 720
+
+~~~~~~~~~
+Round Ten
+~~~~~~~~~
+
+[g]
+
+[g]
+[g]
+[g]            [B]   
+[g]         [B][L][B]
+[g]      [B][L][B][L][B]
+[g]   [B][L][B][S][B][L][B]
+[g]      [B][L][B][L][B]
+[g]         [B][L][B] 
+[g]            [B]
+[g]
+[g]
+[g]
+[g]
+[g][g][g][g][g][g][g][g][g][g]
+
+Gold: n\a x 24 = 0
+Silver: (50 x 10) x 1 = 500
+Blue: 100 x 16 = 1600
+Lt.Blue: 70 x 8 = 560
+
+~~~~~~~~~~~~
+Round Eleven
+~~~~~~~~~~~~
+
+[S][S][S][S][S][S][S][S][S]
+[S]                     [S]
+[S]   [S][S][S][S][S]   [S]
+[S]   [S]         [S]   [S]
+[S]   [S]   [S]   [S]   [S]
+[S]   [S]         [S]   [S]  
+[S]   [S][S][S][S][S]   [S]
+[S]                     [S]
+[S][S][S][S][S][S][S][S][S]
+
+Silver: (50 x 11) x 49 = 26950
+
+~~~~~~~~~~~~
+Round Twelve
+~~~~~~~~~~~~
+
+[g][g][g][g][g][g][g][g][g][g][g]
+            [g]         [g][O]
+   [g][G]   [g]         [g]
+   [g]      [g]   [g]   [g]
+   [g]      [g]   [g]   [g]
+   [g]      [g][G][g]   [g]
+   [g]   [O][g]   [g][B][g]
+   [g]      [g][R][g]   [g]
+   [g]      [g]   [g]   [g]
+   [g]      [g]   [g]   [g]
+   [g][L]         [g]
+   [g]            [g]         [O]
+   [g][g][g][g][g][g][g][g][g][g]
+
+Gold: n\a x 58 = 0
+Green: 80 x 2 = 160
+Blue: 100 x 1 = 100
+Orange: 60 x 3 = 180
+Red: 90 x 1 = 90
+Lt.Blue: 70 x 1 = 70
+
+~~~~~~~~~~~~~~
+Round Thirteen
+~~~~~~~~~~~~~~
+
+[Y][Y]   [W][W][W]   [Y][Y]
+[W][W]   [Y][Y][Y]   [W][W]
+[B][B]   [R][R][R]   [B][B]
+[P][P]   [G][G][G]   [P][P]
+[G][G]   [P][P][P]   [G][G]
+[R][R]   [B][B][B]   [R][R]
+[Y][Y]   [W][W][W]   [Y][Y]
+[W][W]   [Y][Y][Y]   [W][W]
+
+Yellow: 120 x 14 = 1680
+White: 50 x 14 = 700
+Blue: 100 x 7 = 700
+Red: 90 x 7 = 630
+Green: 80 x 7 = 560
+Pink: 110 x 7 = 770
+
+~~~~~~~~~~~~~~
+Round Fourteen
+~~~~~~~~~~~~~~
+
+[R][S][S][S][S][S][S][S][S][S][R]
+[g]                           [g]
+[B][B][B][B][B][B][B][B][B][B][B]
+
+[O][S][S][S][S][S][S][S][S][S][O]
+[g]                           [g]
+[B][B][B][B][B][B][B][B][B][B][B]
+
+[B][S][S][S][S][S][S][S][S][S][B]
+[g]                           [g]
+[R][R][R][R][R][R][R][R][R][R][R]
+
+[R][R][R][R][R][R][R][R][R][R][R]
+[g]                           [g]
+
+Blue: 100 x 24 = 2400
+Red: 90 x 24 = 2160
+Orange: 60 x 2 = 120
+Gold: n\a x 8 = 0
+Silver: (50 x 14) x 27 = 18900
+
+~~~~~~~~~~~~~
+Round Fifteen
+~~~~~~~~~~~~~
+
+[L][S][S][L][L][L][L][L][S][S][L]
+[L][S][Y][S][L][L][L][S][G][S][L]
+[L][S][Y][Y][S][S][S][G][G][S][L]
+[L][S][Y][Y][Y][S][G][G][G][S][L]
+[L][S][Y][Y][Y][S][G][G][G][S][L]
+[L][S][Y][Y][Y][S][G][G][G][S][L]
+[L][S][Y][Y][Y][S][G][G][G][S][L]
+[L][S][Y][Y][Y][S][G][G][G][S][L]
+[L][S][Y][Y][Y][S][G][G][G][S][L]
+[L][L][S][Y][Y][S][G][G][S][L][L]
+[L][L][L][S][Y][S][G][S][L][L][L]
+[L][L][L][L][S][S][S][L][L][L][L]
+
+Yellow: 120 x 24 = 2880
+Green: 80 x 24 = 1920
+Lt.Blue: 70 x 44 = 3080
+Silver: (50 x 15) x 40 = 30000
+
+~~~~~~~~~~~~~
+Round Sixteen
+~~~~~~~~~~~~~
+
+                     [g]
+               [W][W]   [W][W]
+         [W][W]      [g]      [W][W]
+      [W]      [Y][Y]   [Y][Y]      [W]
+         [Y][Y]      [g]      [Y][Y]
+      [Y]      [G][G]   [G][G]      [Y]
+         [G][G]      [g]      [G][G]
+      [G]      [R][R]   [R][R]      [G]
+         [R][R]      [g]      [R][R]
+      [R]      [B][B]   [B][B]      [R]
+         [B][B]      [g]      [B][B]
+      [B]      [G][G]   [G][G]      [B
+         [G][G]               [G][G]
+      [G]                           [G]
+
+
+White: 50 x 10 = 500
+Yellow: 120 x 10 = 1200
+Green: 80 x 20 = 1600
+Red: 90 x 10 = 900
+Blue: 100 x 10 = 000
+Gold: n\a x 6 = 0
+
+~~~~~~~~~~~~~~~
+Round Seventeen
+~~~~~~~~~~~~~~~
+       
+            [S]
+      [B][B][S][G][G]
+   [B][B][W][W][W][G][G]
+[B][B][W][W][W][W][W][G][G]
+[B][B][W][W][W][W][W][G][G]
+[B][B][W][W][W][W][W][G][G]
+[S]   [S]   [S]   [S]   [S]
+            [S]
+            [S]
+      [g]   [g]
+      [g][g][g]
+         [g]
+
+Blue: 100 x 10 = 1000
+Green: 80 x 10 = 800
+White: 50 x 18 = 900
+Gold: n\a x 6 = 0
+Silver: (50 x 17) x 9 = 7650
+
+~~~~~~~~~~~~~~
+Round Eighteen
+~~~~~~~~~~~~~~
+
+[O]   [g][Y][Y][Y][Y][Y][g]   [O]
+[O]   [g][g][Y][Y][Y][g][g]   [O]
+[O]   [g]   [g][Y][g]   [g]   [O]
+[O]   [g]   [G][S][G]   [g]   [O]
+[O]   [g]   [G]   [G]   [g]   [O]
+[O]   [g]   [G]   [G]   [g]   [O]
+[O]   [g]   [G]   [G]   [g]   [O]
+[O]   [g]   [G]   [G]   [g]   [O]
+[O]   [g]   [G]   [G]   [g]   [O]
+[O][g][g][g][G]   [G][g][g][g][O]
+
+Orange: 60 x 20 = 1200
+Yellow: 120 x 9 = 1080
+Green: 80 x 14 = 1120
+Gold: n\a x 28 = 0
+Silver: (50 x 18) x 1 = 900
+
+~~~~~~~~~~~~~~
+Round Nineteen
+~~~~~~~~~~~~~~
+
+[g][g][g][g][g][g][g]
+[G][R][B][g][B][R][G]
+[G][R][B][g][B][R][G]
+[G][R][B][g][B][R][G]
+[G][R][B][g][B][R][G]
+[G][R][B][g][B][R][G]
+[G][R][B][g][B][R][G]
+[G][R][B][g][B][R][G]
+[g][g][g][g][g][g][g]
+
+Green: 80 x 14 = 1120
+Red: 90 x 14 = 1260
+Blue: 100 x 14 = 1400
+Gold: n\a x 21 = 0
+
+~~~~~~~~~~~~
+Round Twenty
+~~~~~~~~~~~~
+
+[G][g][O][g][L][g][G][g][P][g][O]
+[P][g][S] g][S][g][S][g][S][g][L]
+      [P]
+   [g]   [g][P][g]   [g]   [g]
+   [g]   [g]   [g][P][g]   [g]
+   [g]   [g]   [g]   [g][P][g]
+
+   [g]   [g]   [g][P][g]   [g]
+   [g]   [g][P][g]   [g]   [g]
+      [P][g]   [g]   [g]
+[P]            [g]
+
+Green: 80 x 2 = 160
+Orange: 60 x 2 = 120
+Lt.Blue: 70 x 2 = 140
+Pink: 110 x 10 = 1100
+Gold: n\a x 39 = 0
+Silver: (50 x 20) x 4 = 4000
+
+~~~~~~~~~~~~~~~~
+Round Twenty-one 
+~~~~~~~~~~~~~~~~
+
+[g][O][O][O][O][O][O][O][g]
+[g]                     [g]
+[g]   [g][g][g][g][g]   [g]
+[g]   [g][B][B][B][g]   [g]
+[g]   [g][P][P][P][g]   [g]
+[g]   [g][G][G][G][g]   [g]
+[g]   [g][O][O][O][g]   [g]
+[g]   [g][L][L][L][g]   [g]
+[g]                     [g]
+[g]                     [g]
+[g][g][g][g][g][g][g][g][g]
+
+Orange: 60 x 10 = 600
+Blue: 100 x 3 = 300
+Pink: 110 x 3 = 330
+Green: 80 x 3 = 240
+Lt.Blue: 70 x 3 = 210
+Gold: n\a x 44 = 0
+
+~~~~~~~~~~~~~~~~
+Round Twenty-two
+~~~~~~~~~~~~~~~~
+
+[Y][Y][Y][Y][Y][Y][Y][Y][Y][Y][Y]
+[Y][Y][Y][Y][Y][Y][Y][Y][Y][Y][Y]
+
+[R][g]   [g][R][R][R][g]   [g][R]
+[R][g]   [g][R][R][R][g]   [g][R]
+[R][g]   [g][R][R][R][g]   [g][R]
+[R][g]   [g][R][R][R][g]   [g][R]
+
+
+[W][W][W][W][W][W][W][W][W][W][W]
+[W][W][W][W][W][W][W][W][W][W][W]
+
+Yellow: 120 x 22 = 2640
+White: 50 x 22 = 1100
+Red: 90 x 20 = 1800
+Gold: n\a x 16 = 0
+
+~~~~~~~~~~~~~~~~~~
+Round Twenty-three
+~~~~~~~~~~~~~~~~~~
+
+[B][B][B][B][B][B][B][B][B][B][B]
+
+[S][S][S]   [S][S][S]   [S][S][S]
+[S][G][S]   [S][G][S]   [S][G][S]
+[S][S][S]   [S][S][S]   [S][S][S]
+
+      [S][S][S]   [S][S][S]
+      [S][R][S]   [S][R][S]
+      [S][S][S]   [S][S][S]
+
+[S][S][S]   [S][S][S]   [S][S][S]
+[S][B][S]   [S][B][S]   [S][B][S]
+[S][S][S]   [S][S][S]   [S][S][S]
+
+Blue: 100 x 14 = 1400
+Green: 80 x 3 = 240
+Red: 90 x 2 = 180
+Silver: (50 x 23) x 64 = 73600
+
+~~~~~~~~~~~~~~~~~
+Round Twenty-four
+~~~~~~~~~~~~~~~~~
+
+            [W][W][W]
+            [W][W][W]
+            [W][W][W]
+         [W][B][W][B][W]
+         [B][B][B][B][B]
+      [B][B][B][B][B][B][B]
+      [B][B][B][B][B][B][B]
+   [B][B][B][B][B][B][B][B][B]
+[B][B][B][B][B][B][B][B][B][B][B]
+
+White: 50 x 12 = 600
+Blue: 100 x 41 = 41
+
+~~~~~~~~~~~~~~~~~
+Round Twenty-five
+~~~~~~~~~~~~~~~~~
+
+[R][R][R][R][R][R][R][R][R][R][R]
+[G][G][G][G][G][G][G][G][G][G][G]
+[B][B][B][B][B][B][B][B][B][B][B]
+[g][g][g][g][R][R][R][g][g][g][g]
+[g][G][G][g][S][S][S][g][G][G][g]
+[g][R][R][g]         [g][R][R][g]
+[g]                           [g]
+[g]                           [g]
+[g]                           [g]
+[g]      [g][G][G][G][g]      [g]
+[g][S][S][g][g][g][g][g][S][S][g]
+
+Red: 90 x 16 = 1440
+Blue: 100 x 13 = 1300
+Green: 80 x 18 = 1440
+Gold: n\a x 33 = 0
+Silver: (50 x 25) x 7 = 8750
+
+~~~~~~~~~~~~~~~~
+Round Twenty-six
+~~~~~~~~~~~~~~~~
+
+      [g][S][S][g]
+   [g]            [g]
+[g]      [L][L]      [g]
+[g]   [B][B][B][B]   [g]
+[g]      [P][P]      [g]
+   [g]            [g]
+      [g][g][g][g]
+
+
+Lt.Blue: 70 x 2 =140
+Blue: 100 x 4 = 400
+Pink: 110 x 2 = 220
+Gold: n\a x 16 = 0
+Silver: (50 x 26) x 2 = 2600
+
+~~~~~~~~~~~~~~~~~~
+Round Twenty-seven
+~~~~~~~~~~~~~~~~~~
+
+[S][S][S][S][S][S][S][S][S][S][S]
+[Y][Y][Y][Y][Y][Y][Y][Y][Y][Y][Y]
+[S][S][S][S][S][S][S][S][S][S][S]
+
+[S][S][S][S][S][S][S][S][S][S][S]
+[R][R][R][R][R][R][R][R][R][R][R]
+[S][S][S][S][S][S][S][S][S][S][S]
+
+Yellow: 120 x 11 = 1320
+Red: 90 x 11 = 990
+Silver: (50 x 27) x 44 = 59400
+
+~~~~~~~~~~~~~~~~~~
+Round Twenty-eight
+~~~~~~~~~~~~~~~~~~
+
+[B][B][B][B][B][B][B][B][B][B][B]
+[B][g][g][g][P][g][P][g][g][g][B]
+[B][g]                     [g][B]
+[B][g][P]               [P][g][B]
+[B][g][P][P]         [P][P][g][B]
+   [B][g][P][P]   [P][P][g][B]
+      [B][g][P][P][P][g][B]
+         [B][g][P][g][B]
+            [B][P][B]
+               [B]
+
+Blue: 100 x 28 = 2800
+Pink: 110 x 17 = 1870
+Gold: n\a x 19 = 0
+
+~~~~~~~~~~~~~~~~~
+Round Twenty-nine
+~~~~~~~~~~~~~~~~~
+
+[B][B][B][B][g]   [g][B][B][B][B]
+[G][G][G][G][g]   [g][G][G][G][G]
+[g][g][g][g][g]   [g][g][g][g][g]
+[P][P][P][P][g]   [g][P][P][P][P]
+[O][O][O][O][g]   [g][O][O][O][O]
+[B][B][B][B][g]   [g][B][B][B][B]
+[S][S][S][S][g]   [g][S][S][S][S]
+[O][O][O][O][g]   [g][O][O][O][O]
+[P][P][P][P][g]   [g][P][P][P][P]
+[G][G][G][G][g]   [g][G][G][G][G]
+
+Blue: 100 x 16 = 1600
+Green: 80 x 16 = 1280
+Pink: 110 x 16 = 1760
+Orange: 60 x 16 = 960
+Gold: n\a x 28 = 0
+Silver: (50 x 29) x 8 = 11600
+
+~~~~~~~~~~~~
+Round Thirty
+~~~~~~~~~~~~
+
+[O][P]
+[O][P][L][G]
+[O][P][L][G][O][P]
+[O][P][L][G][O][P][L][G]
+[S][P][L][G][O][P][L][G][O][P]
+   [g][S][G][O][P][L][G][O][P][L]
+         [g][S][P][L][G][O][P][L]
+               [g][S][G][O][P][L]
+			   [g][S][P][L]
+                           [g][S]
+
+Orange: 60 x 12 = 720
+Pink: 110 x 15 = 1650
+Lt.Blue: 70 x 12 = 840
+Green: 80 x 10 = 800
+Gold: n\a x 5 = 0
+Silver: (50 x 30) x 6 = 9000
+
+~~~~~~~~~~~~~~~~
+Round Thirty-one	
+~~~~~~~~~~~~~~~~
+
+[B]   [R]   [G]   [P]   [B]   [R]
+[S]   [S]   [S]   [S]   [S]   [S]
+   [G]   [R]   [B]   [O]   [G]
+   [S]   [S]   [S]   [S]   [S]
+[O]   [B]   [R]   [G]   [P]   [B]
+[S]   [S]   [S]   [S]   [S]   [S]
+   [P]   [G]   [R]   [B]   [O]
+   [S]   [S]   [S]   [S]   [S]
+[G]   [O]   [B]   [R]   [G]   [P]
+[S]   [S]   [S]   [S]   [S]   [S]
+   [B]   [P]   [G]   [R]   [B]
+   [S]   [S]   [S]   [S]   [S]
+[R]   [G]   [O]   [B]   [R]   [G]
+[S]   [S]   [S]   [S]   [S]   [S]
+
+Blue: 100 x 10 = 1000
+Red: 90 x 9 = 810
+Green: 80 x 10 = 800
+Pink: 110 x 5 = 550
+Orange: 60 x 5 = 300
+Silver: (50 x 31) x 39 = 60450
+
+~~~~~~~~~~~~~~~~
+Round Thirty-two
+~~~~~~~~~~~~~~~~
+
+[g]   [g]   [g]   [g]
+[g]   [g]   [g]   [g]
+[g]   [g]   [g]   [g]
+[g]   [g]   [g]   [R]
+[g]   [g]   [g]   [g]
+[g]   [g][B][B][B][B]
+[g]   [g]   [g]   [g]
+[g][R][R][R][R][R][R]
+[g]   [g]   [g]   [g]
+[Y][Y][Y][Y][Y][Y][Y]
+[S][S][S][S][S][S][S]
+
+Red: 90 x 7 = 630
+Blue: 100 x 4 = 400
+Yellow: 120 x 7 = 840
+Gold: n\a x x 29 = 0
+Silver: (50 x 32) x 7 = 11200
+
+~~~~~~~~~~~~~~~~~~
+Round Thirty-three
+~~~~~~~~~~~~~~~~~~
+      
+         [R][R]
+      [R][S][S][R]
+      [R][S][R][R]
+      [R][R][R][R]
+      [R][R][R][R]
+      [R][R][R][R]
+   [G][G][R][R][R][B]
+[G][S][S][R][R][S][S][B]
+[G][S][G][G][B][S][B][B]
+[G][G][G][G][B][B][B][B]
+[G][G][G][G][B][B][B][B]
+[G][G][G][G][B][B][B][B]
+[G][G][G][G][B][B][B][B]
+   [G][G]      [B][B]
+
+Red: 90 x 24 = 2160
+Green: 80 x 24 = 1920
+Blue: 100 x  23 = 2300
+Silver: (50 x 32) x 9 = 14400
+
+~~~~~~~~~~~~~~~~~
+Round Thirty-four
+~~~~~~~~~~~~~~~~~
+ 
+               [L][L][L]
+               [L][L][P]
+            [L][L][P][P][P]
+            [L][L][L][P][B]
+            [L][L][L][L][B]
+         [g][L][L][L][L][B]
+         [O][B][L][L][B][B]
+         [O][O][B][B][B]
+      [g][O][g][B][B][B]
+      [O][O][O][O]
+   [g][O][g][O]
+   [O][O][O][O]
+   [O][O][O]
+ [O][O][O]
+ [O][O]
+
+Lt.Blue: 70 x 20 = 1400
+Pink: 110 x 5 = 550
+Blue: 100 x 12 = 1200
+Orange: 60 x 22 = 1320
+Gold: n\a x 5 = 0
+
+~~~~~~~~~~~~~~~~~
+Round Thirty-five
+~~~~~~~~~~~~~~~~~
+         
+                           [W]
+                           [W][W]
+         [W][W][W][W]
+            [W][W][W][W]
+               [g][g][g]
+      [W]
+   [W][O][W]
+[W][O][g][O][W]
+   [W][O][W]
+      [W]                     [O]
+      [P]      [g]   [G][G][G]
+[G]   [P]   [G]   [G]   [G][P][G]
+[g][G][P][G]   [P][G][g][G]
+[g][G][P][G]   [G]   [O][G][G]
+[g][g][G][g][G]      [G][G]
+
+
+White: 50 x 19 = 950
+Orange: 60 x 5 = 300
+Green: 80 x 21 = 1680
+Pink: 110 x 6 = 660
+Gold: n\a x 10 = 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Round Thirty-six: Boss Doh
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+No blocks to clear in this level just a boss named Doh. He appears like a red 
+floating head in the middle of the area and shoots debris at Vaus in groups of 
+three that follow and attempt to ram Vaus. Contact with this debris will cause 
+Vaus to be destroyed. To defeat Doh avoid the debris and hit him with the ball 
+16 times.

@@ -1,0 +1,895 @@
+R-Type! A shooter that can be quite unforgiving, and is a member of one of my
+favourite series. My actual experience with R-Type was latent, I always wanted
+to play Super R-Type, but we were always renting newer games. When I finally
+got my hands on that game, I was hooked! So I've come full circle to this game
+and the Master System because I feel they need some love.
+
+While R-Type has discrete levels, it can still be quite challenging at first.
+While learnign the ways of the stages certainly helps, the games can still
+frustrate. So before you dive into an R-Type game, be prepared for the rough
+spots.
+
+And this particular game, on the Master System it manages to stay beautiful and
+at times hard. The bosses are cool, the music is nice. It's everything I've
+come to expect from the series. So, get ready. Blast off and strike the Evil
+Bydo Empire! 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                 R2: Basics                                 |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+D-Pad: Move R-9
+Button 1: Shoot
+Button 1: (Rapid): Rapid Fire
+Button 1: (Hold): Charge shot
+Button 2: (Force Device Attached): Detach Force Device
+Button 2: (Force Device Detached): Pull Force device back in.
+
+R-Type can be a fairly unforgiving series, but if you learn the stages you will
+do much better than were you to make a blind run at it (uninspired, of course).
+While this game is simpler than the sequels in the path respect, it can still
+help. Basically, survive until the boss of the the stage, deal with it, and
+continue.
+
+When you run out of lives, you will get to continue, you start with three
+credits, the one you are playing on and two in reserve.
+
+Points are shown at the end of the stage, as usual you get extra lives from
+points. The lives are awarded at the end of the stage, when points are tallied.
+Points for lives are 50000, 150000, 250000, 400000, and 600000.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                 R3: Items                                  |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+*Your first orb will get youa  Force Device.
+
+Blue Orb: Grants the Reflecting Laser
+
+Orange Orb: Grants the Antiland Laser
+
+Red Orb: Grants the Antiair Laser
+
+Bit: R-Type's option. Fires shots along with the R-9 and damages enemies on
+contact. Maximum of two, fly in formation with the ship. One above, one below.
+
+Speed Up: Increase R-9's speed. Two is the amount I'd recommend.
+
+Missile: Shoot missiles that fire straight unless there are enemies nearby. The
+missiles seek out enemies with moderate efficiency.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                              R4: Force Device                              |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The Force Device is crucial to your victory. It lets you use the advanced beams
+and can be used as an extension of the R-9 without being near the ship. You can
+fire the device with the second button, and it can be used to defeat enemies
+even by touch.
+
+**************
+R4.1: Alone
+**************
+
+When away from the R-9, the Force Device fires when you do. This greatly
+increases the possibel spread of your fire.
+
+One Orb: Fires straight ahead
+Two Orbs: Fires up/down on diagonals. (two way)
+Three Orbs: Fires up/down on diagonals and up/down on verticals. (four way)
+
+You can pull the force device with the button 2 for a bit before it connects
+with you. Use the pull to move it into position.
+
+The force device damages enemies just by touching them, launch it into a stream
+of oncoming enemies, or back into one. It can keep you coevred while you go on.
+
+Launch the device at some bosses to score rapid damage.
+
+The Force device must be detached in order for you to attach it to the back or
+front of the R-9.
+
+**************
+R4.2: Attached
+**************
+
+When attached, the Force Device allows you to use the attacks given by orbs:
+
+Reflecting Laser: Two lasers fire out on diagonals and bounce off surfaces. One
+laser flies straight forward.
+
+Antiair Laser: Large, ringlike stream. While it is wide, this is the least
+range. However, it is powerful.
+
+Antiland Laser: Two flame like blasts travel evrtically (one up, one down) and
+travel along the surfaces. A standard shot allows you to have some forward
+sttack.
+
+These are shot backwards when the Force Device is attached to the back.
+
+The force device is a shield. It can blcok some enemy attacks, and damage
+others. Choose the side you place it on for defensive purposes as well as
+offensive.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                               R5: Walkthrough                              |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+I use FD in place of Force device at times.
+
+Control-F Coding:
+
+R-Type Stage X: RSX
+So RS1 takes you to stage 1.
+*RSS takes you to the secret stage section of the guide.
+
+------------------------------------------------------------------------------
+                                   Stage 1
+------------------------------------------------------------------------------
+RS1
+
+Begin by charging your shot, there will soon be some Red ships that are shaped
+sort of like hearts with their wingspan seen from above. They move more or less
+ina  sinusoid as they approach, taking an occasional shot. After your initial
+charged shot, spray the formations as they come a bit too quickly to keep up
+the charging. Afterwards, some orange pods that don't shoot, but can change
+direction midflight, and an orange walker on the ground. The walker can shoot,
+but it is no large threat.
+
+You'll fight more of the red heart wings and then eventually, you should find a
+POW armour. Destroy that and get the blue ball it leaves, the force device will
+arrive, attach it to the front of your ship for now. Shortly after getting the
+FD, you'll find a green power armour. As you fight it, a blue walker will come
+onto the screen, this is a fairly dangerous enemy so keep an eye on it.
+
+You will soon come to a passage, some enemies will approach you. They're grey
+and just fly into the passage towards you, they kind of look like robotic
+aliens of some sort. You could charge your blast to take out a nice chunk at
+first, or launch the FD ahead. A spray of shots will take care of them, so you
+don't really need to be fancy. After the swarm, shoot the turrets on the floor
+and ceiling. They shoot a simple shot, but it comes fast so take them out.
+
+As you enter the area where the turrets were, you will comescross two POW
+armours. One will give you a speed up item, the other will give you a blue orb
+that will upgrade your FD's independent firing capabilities and grant you the
+use of the reflecting laser. This si a very useful power that you should put to
+use immediately to learn its uses and take out the turrets on the ceiling. Get
+ready for the rotating pods.
+
+When you enter this rotating line of orbs, they will fire at you. You can
+destroy them, but if you destroy the orb with the blue dome, all will be
+destroyed. It's quite likely that even if you destroy this dome that there will
+be a large amount (relatively speaking) of shots in the centre with you. Use
+your FD to absorb most of them.
+
+As you progress, there are two more POW armours. One will give you the antiair
+laser, another a bit. Taking care to avoid the turrets, ships, and walkers
+collect at least the bit. If you don't want the limited spread of the antiair
+laser, thendon't get this. However, the upgrade to your force device will be
+valuable against the boss. The bit offers a little more firepower and slight
+protection to the top. Keep gunning and you'll get a missile right before
+entering the tighter passage.
+
+Through the passage, you will come across some red power armours and turrets on
+the ceiling. Antiair will complicate things, but the turrets shouldn't be too
+much of a problem. Pound the red power armours with antiair lasers to dispatch
+them quickly, or pick up the blue orb and use the reflecting laser. They shoot
+their bullets very quickly forward, and launch the same kind of missiles as the
+blue walkers. They're a fair threat so maybe charge your shot for the initial
+hit.
+
+******************************************************************************
+                                  Boss 1
+******************************************************************************
+
+Krell is a pretty typical R-Type image, the large alien that dons many covers
+and arts looking to all the world like a huge, irate fetus. But don't let that
+fool you, Krell's not too tough but if you aren't ready it could surprise you.
+
+Method 1:
+If for some reason you want the Force Device attached or you lack it, you have
+to wait for Krell to lower its tail, then fire off a few shots at the central
+mouth (in the "stomach"). As soon as the mouth opens, fly up and out of the way
+of the curving blast it shoots. This will eliminate you, regardless of where
+you place the FD>
+
+Method 2:
+Ok, it's time to learn one of the tricks of dealing with R-Type bosses. Fire
+the force device into the stomach of Krell, that central mouth. Start firing
+and it should be damage from contact if not the shots. It will die very quickly
+and so if it begins to move forward, don't worry too much about it, you're
+likely to down it by then. Otherwise, just pull the FD a little closer.
+
+------------------------------------------------------------------------------
+                                   Stage 2
+------------------------------------------------------------------------------
+RS2
+
+This level is kind of grim looking, there appear to be corpses lining the floor
+and ceiling. You'll soon see a POW Armour, it grants a Speed Up, take it if you
+want/can handle the speed. You will see some movement amongst the corpses, sort
+of like a shaking. A large, odd enemy comes out of the debris and scuttles up
+the screen. They don't attack you outright, but plenty will come and so they
+can take you by surprise if you don't pay attention.
+
+Keep on destroying these and you'll eventually notice a swarm of little green
+pods rocketing across the top portion of the screen. Now, pay attention here
+because it is possible to get a POW Armour that gives you an orange orb. The
+antiland laser is very useful here, it can do great damage to the corpse
+dwellers while they're still underground. However, you're horizontal firing
+capabilities are severely crippled. That shouldn't matter much here, however,
+where anything that can fly into your front will be destroyed by the force
+device anyways.
+
+One thing you should keep note of here are the jellyfish, they follow you
+around with a fair bit of determination. Don't let them kill you over an orange
+orb. The pods on the ground launch the Jellyfish, or rather some kind of plasm
+that takes the shape of the Jellyfish to pursue you. As long as you keep firing
+at corpse dwellers and take care around the green pods, these jellyfish should
+be no large problem.
+
+When the green pods stop, you'll find a POW Armour with a blue orb. Take it if
+you prefer. Destroy the segments on the large snake that passes by, this stage
+is short and this snake is part of the boss. The snake will twist around the
+screen for a while. Don't be afraid to let it loop around you. When the ground
+gives way, you are approaching the boss.
+
+******************************************************************************
+                                  Boss 2
+******************************************************************************
+
+Gomanda is a pretty ugly boss, just the way I like them. It has an eye at the
+top which is its weakness. You have a number of ways you can deal with this
+dude.
+
+Method 1:
+Fire at the eye from above with the reflect laser or antiland laser. Keep more
+or less up and to the left of it, so you can avoid the snake that ducks in and
+out of the boss' orifaces. Now, this takes a considerable amount of time, but
+the advantage lies in being able to dodge the snake.
+
+Method 2:
+Launch your FD above the eye, then pull it in. As you take it in, head down so
+that it lands beside the eye. Alright, if the FD is to the left of the eye then
+start firing. If it's to the right of the eye, it will damage the eye by
+touching it. Keep firing anyways if your FD can fire at a level to hit the
+snake passing over above. If Method 1 has any good points, Method 2 trumps
+them.
+
+Just keep in mind:
+
+-The snake can launch a spread of shots, though these are relatively easy to
+deal with.
+-Cripple the snake's abilities by destroying its body segments.
+-Every time it goes inside Gomanda, the segments are restored.
+-You can tell which tube the snake will exit by the shaking of the tube.
+
+------------------------------------------------------------------------------
+                                   Stage 3
+------------------------------------------------------------------------------
+RS3
+
+An old R-Type standby, the mega battleship. That thruster on the back, guarded
+by turrets - take it out first and foremost. It can launch white energy balls
+at you. So take this out, around two POW Armours will present you with orange
+orbs in the meantime. These are quite useful for this stage, consider them.
+
+After the jet falls, or before even, you will ask yourself: Am I going up, or
+am I going down? Well, I'm going to answer that for you. While it looks like
+you can go above the ship, there's plenty of turrets up there afterall and you
+can destroy the hull, you will eventually be scrolled to your demise - you
+can't get past that first big protrusion, so head down.
+
+Destroy the turrets on your way, and the five cannon turret as well. The
+5-cannon may look formidable, but the shots are much easier to predict than a
+standard turret. Take the antiair laser if you want to destroy parts rapidly,
+but remember that range will be severely compromised. Turrets on the bottom
+of the ship in alcoves may be inaccessible. You may have to put the FD on your
+back to hit them, or just brace yourself for the dodge.
+
+The first chunk of the chip you blow off, kind of a rectangle with rounded
+corners, will reveal two turrets. The next chunk, it's in a corner, will reveal
+a five cannon turret. Maybe avoid this and concentrate total fire on the
+thrusters up ahead. Otherwise, you may get hit by a jetting blast. After the
+thrusters, you'll be approaching another area that seems to take damage. Fire
+on the hull. Attach the Force Device to your back.
+
+******************************************************************************
+                                  Boss 3
+******************************************************************************
+
+Well, this boss is kind of a 'core' in the shooter sense of the word. But first
+thing's first. With the force device on your back, destroy the power turrets.
+These things fire fairly large shots that while slow, occupies a bit more space
+than a standard shot so they still should be considered.
+
+There's going to be POW armour with a blue orb from the right, near the extreme
+right tip of the ship. Do not let this hit you, and take the reflecting laser
+if you want. Keep the device on your back and destroy the turrets behind you.
+Take out some of the hull and the five cannon turret if you want. As for the
+core, if it is sticking out, stay away from its spray attack. Once the turrets
+are incapacitated, you can take on the core. You may think, "gee, why don't I
+just lead my FD in here and run?" Well, the other turrets regernerate. You can
+try to let the force device take it out, but I'd suggest waiting for the core
+to retract and expose the red dome portion. Fire at this and the ship will be
+destroyed surprisingly quickly.
+
+You see, if you try to escape the ship and the FD doesn't work its magic fast
+enough, you're left helpless against the turrets and could be shot in the back.
+But if you can work with that, then go ahead and knock yourself out, just don't
+blow yourself up!
+
+------------------------------------------------------------------------------
+                                   Stage 4
+------------------------------------------------------------------------------
+RS4
+
+Odd looking ground here, green mossy patches on metallic structures. As you
+approach the stage, you'll notice a few small ships. These "weavers" lay down
+litle circles taht form "webs" or lines of circles taht you must shoot through.
+Destroy the ship to stunt the webs, and the webs are best taken out with your
+forward shots.
+
+Entering the floor and ceilinged area, the weavers keep coming. There are also
+a number of enemies from Stage 1 here, a few walkers, red ships, and grey
+drones. Pay the most attention to the weaved lines, but keep some distance
+between the R-9 and the enemy. Just keep firng, in other words. They still need
+to be destroyed. Alternate beween hitting the weavers and the other enemies.
+There are two POW armorus in here: speed up and antiair. Watch out for orange
+ships curving in from the top and centre soon.
+
+Exiting the area, head to the right and stay near the ground. Four weavers
+quickly crisscross. Attach the FD to your back. Destroy the red ship that
+appears to the left, it will pursue you otherwise. Okay, this section gets
+tricky, there are tons of weavers. Destroy the walkers walking across the webs
+from the left. Now, pay attention to the POW armours. The first, near the top,
+is a bit. Soon, below, is a missile. the next two, an orange orb and speed up.
+I'd stick with red, but take it if you want.
+
+Mainly in that section watch out for walkers. There's a few grey drones and
+red ship IIs, but they don't pose as much of a threat as the walkers or webs.
+Alright, the weavers are a good target too, but they come too fast and too
+often to really move around to destroy them. Take out the webs you need to,
+and always try to stay out of their paths.
+
+After this area, you'll see weavers making vertical lines. Alright, begin to
+plow through this. Beware of the grey drones and red ship IIs that appear here.
+While a back-attached force device can help you out here, it's not necessary.
+I'd recommend it, however. During the section, there's three POW armours:
+speed up, red orb, and blue orb.
+
+*******************
+  Special Notice!
+*******************
+
+Keep an eye out in this area, if you want to go to the Secret stage. There are
+two columns hanging down after a short gap, and the distance between these two
+columns is a few R-9 lengths. If you fly backwards into the left columns, you
+will be teleported to the secret stage.
+
+Alright, there's just a few more weavers. There will also be some grey drones
+from behind. Don't underestimate them. They can fire now, or if they could
+ebfore their firing is more apparent.
+
+******************************************************************************
+                                  Boss 4
+******************************************************************************
+
+Monpaira can take you by surprise, it is a boss composed of three sections. It
+also arrives from the left, so be prepared. As you move around it, it will be
+firing at you. Fire on the green domes as it splits and comes across the
+screen.
+
+A few notes:
+-From behind, it can fire a laser from two of the segments.
+-It's shots come often, so don't squeeze into a space too tight between a
+segment and the screen boundaries.
+-When it splits and reforms, make sure you don't get hit. It's a slow process,
+but you never know what can happen.
+-Don't take your attention off the immediate threats - the segements closesr to
+you. Otherwise, they could fire at you and you'd never see it coming!
+
+Alright, fire the force device into the boss and fire your cannon. Or, if you
+have the reflecting laser, it can be a little easier to it witht he device
+attached. Keep your distance from the boss and eventually the force device will
+begin to destroy the segements. If you want, attach the FD as a defense against
+shots when passing by the boss.
+
+When a segment is destroyed, the boss speeds up. But keep at it, it'll go down
+eevntually. When you're down to the last segment, just keep a distance from it.
+It will be quiet fast so you need room to react.
+
+------------------------------------------------------------------------------
+                                   Stage 5
+------------------------------------------------------------------------------
+RS5
+
+An organic stage with cilia floors and ceiling, and what looks like arteries in
+the background. Soon after you start, a long enemy that looks like a centipede
+will arrive. These "gut centipedes" are vulnerable to shots to the head. After
+a few hits, they split, spraying their segments.
+
+The first centipede is pretty pedestrian in its spray, but the second uses a
+radial, wide range spread. Fire at the scattering segemnts to destroy them. You
+will then find a POW armour, it drops a speed up. There is then another POW
+armour, it also drops a speed up. A centipede comes straight down from the
+ceiling, decapitating this will cause the segmensts to curve along by their own
+volition. The next centipede gives a radial spray of segments.
+
+After a short while of not fighting enemies, there will be two centipedes, both
+give the radial spray. There will also be some orange bats soon. These enemies
+curve around the screen and fire at you. They aren't in a formation, which I
+suppose makes them a challenge here because the shots won't be coming from
+some localized area. Even still, they aren't too bad. There are also some laser
+ships, they fly straight forward and launch a straight laser. Just before them
+is a POW armoru with an orange ball, this will help you out fighting them, if
+you want to destroy them. Afterall, a head on battle is not recommended.
+
+*Orange bats are fast and their shots are disguised against the red background,
+so keep a keen eye out for them! Not to mention they follow you, they are a
+very dangerous enemy*
+
+Ok, up next are two centipedes travelling along the ceiling and floor. You do
+not need to destroy these. Next up are the laser walls. You will need to move
+around these large enemies, avoiding their lasers. Take note that there are a
+few grey drones and orange bats here. There are also some POW armours, dropping
+missiles and speed ups.
+
+Leaving the laser wall brigade, a Centipede comes from the ceiling, this is a
+radial spreader. Don't try to have it curve around you, an Orange bat will come
+from the top left and laucnh attacks at you. All that is left in the stage is a
+POW armour with an orange orb and the boss.
+
+******************************************************************************
+                                  Boss 5
+******************************************************************************
+
+Alright, Kraken is covered in these orboid things. Fire at the coverings. Or if
+you want to destroy them really quickly, fire your force device into the mass
+and start firing. Most of them will be wiped out. When the core is exposed, it
+will go down quickly. Just watch out for the orboids that come off after you,
+they return to Kraken soon after but come suddenly. The thing is, this boss
+looks quite intimidating, but if you use your FD correctly, it's a total
+pushover.
+
+------------------------------------------------------------------------------
+                                   Stage 6
+------------------------------------------------------------------------------
+RS6
+
+Alright, this stage can be a true pain. It starts out with some wall hugging
+enemies that move around on the walls and fire at you. There are also
+containers flying around that will crush you upon contact. Towards the start
+a POW armour will give you a blue orb.
+
+Avoid these, you will come to an area with multiple tunnels, take the top. A
+container will pass through the middle, then one though this top tunnel. Go
+under this container, then get ahead of that gap ina ceiling as a container
+will be coming down from here. Shoot the walkers up next then let the container
+enemies loop around you until there's clear passage in the bottom right, or the
+upper right.
+
+You just ahve to make it through either tunnel, stay ahead of the containers
+and possibly have your FD on your back. Hug the walls and fire backwards, you
+should get through if you keep ahead.
+
+Heading into the area with the columns next, avoid the container coming down by
+hugging thr right wall. Keep the R-9 close to the top of the first column while
+staying centred on it. A container comes up from that gap, and one will go down
+the passage you entered from. You can stay below both if you stay here. Take
+out the wall hugger and get ready to fight a ton of Walkers. You will see where
+they're coming from, so launch your FD backwards here. This will defeat most of
+them. If you don't want to do this, at least have the device on your back. _Or_
+you could just fire backwards at them if you ahve the reflecting laser. There's
+a POW armour with an orange orb here if you want it.
+
+Right, you're entering another container area. The reflecting or antiland laser
+would be useful here, to hit the wall huggers on the horizontal walls. In that
+little room formed by walls, there is a POW armour with a blue orb, if you want
+it of course. Duck in and get it, but be warned: a container will come rapidly
+from the right, intot he alcove. So wait that container out then fly down into
+the passage it came from. That means it could be wise to destroy the POW armour
+after it leaves the alcove.
+
+As you go through the package, two containers move forward at the top and
+bottom of the screen. When they hit the wall they reverse direction. However, a
+container will also come from the right, essentially in the middle of these two
+as they head to the right. Stay ahead of one of the rebounding containers,
+squeeze in over or under the newcomer, then get back in the centre to avoid any
+further rebounds by the top/bottom containers.
+
+******************************************************************************
+                                  Boss 6
+******************************************************************************
+
+Ah, a boss. Finallya  break from those containers! Not quite...
+
+This isn't technically a 'boss,' more like an enemy rush of containers. There
+are a few wallhugers, and a speed up POW armour, but the containers are your
+big problem.
+
+Alright, stay out of the centre when the battle begins. A container apears
+immediately. Containers follow this kind of path: head down, then left or right
+and up into the room to the left of the container entry point and circle it.
+Then, they leave the screen. If you have the reflecting laser, fire it without
+relent.
+
+Method 1:
+Basically, you need to outlast them. This is possibly the hardest 'boss' in the
+game for your first run through, so just be patient! Wait until one appears,
+then follow it around, firing the whole time. Pass into centre when you arrive
+in the room _after_ a container has started its descent into the tunnel. If you
+are too impatient, you're going to be smashed. Follow them around and keep this
+up and the stage will soon end.
+
+Method 2:
+Sweet spots, like the bottom right corner. This may take a few tries to master
+so that your ship doesn't just explode from a wall collison, but take out the
+wall huggers then get into the bottom right corner. Get as close to the floor
+and wall as you can. The containers will pass you right by. 
+
+------------------------------------------------------------------------------
+                                   Stage 7
+------------------------------------------------------------------------------
+RS7
+
+Stage begins in sort of a wrecked mechanical area, heart wings come from that
+tunnel you're heading for. There's also a POW Armour, drops a speed up.
+
+As you pass the tunnel, the stage deisgn isn't too complicated, it's just that
+the enemies are hard. Grey drones can come from behind you, and there's plenty
+of walkers. There's one orange ship line from the top, and an orange, boot or
+shoe shaped enemy. this flies, hits walls then moves around them. It also fires
+at you. It's a small target, but right now the other enemies are quite a bit
+more threatenting.
+
+Keep going, some more walkers and a boot. You'll come to a place with multiple
+short paths. The middle will have a POW armour with an antiair laser. Use your
+own discretion, a reflecting laser is best in tight spaces like these, but you
+may want the power. Anywas, attach your FD to your back and destroy the walkers
+and drones coming from behind.
+
+Keep it on your back until after the walkers that come from behind shortly past
+the blue walker. Switch it to your front to get those walkers coming along the
+ground from the right. Keep it there, shoot walkers and drones. Two lines of
+orange ships come from the top, you can more or less bypass these if you keep
+to the bottom.
+
+Keep the FD on your front, yes there are a load of blue walkers here but you
+should be able to avoid their shots until you can get a clear shot at them.
+Besides, there's a ton of heart wings coming up and you need the shielding
+properties of the device. There's some domes on the top of the screen here,
+junk underneath them, and a Green Power Armour to the right.
+
+******************************************************************************
+                                  Boss 7
+******************************************************************************
+
+Borunka is an interesting fight. From those opening domes, trash will fall
+down, including wrecked enemies! Excuse me, but that is absolutely righteous!
+But I digress, besides the various sizes of tarsh that will wall, these tall
+parascope machines with blue "dome eyes" will raise out of the trash and fire
+at you. A similar machine will appear in that passage to the right, it will
+throw garbage at you.
+
+The reflecting laser is _highly_ recommended here, and a bit will help defend
+against the garbage. Just keep destroying the parascopic enemies and firing at
+the big guy that appears on the right and eventually you will be allowed to
+pass. On to the final stage!
+
+One final note: It drops discarded POW armours! These drop red and blue orbs.
+
+------------------------------------------------------------------------------
+                                   Stage 8
+------------------------------------------------------------------------------
+RS8
+
+Black background, and organic ground. The stage begins with these little green
+alien dudes flying at your ship. I higly suggest reflecting or antiland for now.
+The aliens come from many directions, but always from the floor/wall. So don't
+falter or you will be struck down.
+
+The first two POW armours are an orange orb and speed up. Soon, you'll face a
+vortex-like enemy flying around the screen. This cannot be destroyed. Keep an
+eye out for aliens, but especially watch this so that you aren't taken down.
+Soon: two POW armorus giving blue and red orbs. Well, get them regardless if
+you need to upgrade your force deivce. You'll be at the boss now and you should
+use the force device as a detachment.
+
+******************************************************************************
+                                  Boss 8
+******************************************************************************
+
+Bydo is a brainlike, bearded creature with small arms (reltive to the size of
+the head that is). It has a wall guarding it, fire at this until it opens then
+launch the force device in. Keep on firing and _eventually_ it will die. It
+will take a long time so don't give up. The force device should enter the mouth
+of the brain behind the wall.
+
+Alright, survival? More green aliens are flying at you, but they are easier to
+defeat than the vortex enemies. Everytime King Bydo opens its mouth it launches
+a vortex at you (up to four). Your survival rate becomes severely compromised
+when there are multiple vortecies onscreen. Try to get your force device into
+the mouth early, so you destroy Bydo more quickly.
+
+Alright, watch how the vortecies move. They usually travel in circles, but can
+change direction. They aren't a problem alone, but when there's a few and in
+combination with green aliens theya re a real pain. So pay attention to how
+they move and don't jump into their path.
+
+After doing this for a while, the four vortecies will group and chase you. This
+is not reallya  big problem, when they're all together they are much easier to
+dodge. Bydo should blow up soon if you lobbed the FD into his chops.
+
+Alright, watch the ending. Now, the game loops.
+
+------------------------------------------------------------------------------
+                                    Secret
+------------------------------------------------------------------------------
+RSS
+
+****If you die in this stage, you return to Stage 4****
+
+This is the secret stage accessed from level 4. This is a unique looking stage
+and it has a set of enemies all to its own.
+
+As the screen scrolls, some new orange ships will come. They look like
+crustaceans with their bodies and "claws." These Orange "crabs" behave like red
+heart wings but are a little slower. Fight your way through the swarms and take
+out the two POW armours. They drop Speed Ups.
+
+Alright, there's some new enemies up next. From these long stalk-like, toothed
+protrustions from the ground and ceiling come some amoeboids. Amoeboids just
+ram into you, but there's a constant source of them. There's also some "green
+turkeys" here, they look like the pre-cleaned turkeys you'd buy at the grocery
+store. Green Eggs and Ham may have been surprisingly tasty, but Green Turkeys
+are formidable. They take a pounding and can fire at you. Keep your FD in front
+for this part of the stage.
+
+Blast on through, take on the red fly. It lands then flies at you. While it
+has some great endurance, it is not a difficult enemy. Next, the vines. Destroy
+them before going between them, they fly up/down when you do. There are two
+POW armours here: orange orb and speed up.
+
+Alright, now the green ships come. When they stop, they launch a wide spread of
+red shots. Brown Ships, which look like webbed claws come in along the floor
+and ceiling, firing. When they reach the end of the screen, they go to the
+middle then fly back off the right.
+
+You will come to two stalks, they launch the amoeboids at you. There is a green
+turkey here, and a few red flies afterwards. The green ships still persist, and
+you will find two POW Armours: an orange orb and a speed up. Orange crabs are
+found shortly after a few red flies. Fly above or below that large mass to the
+right. It will shoot about five lasers at once.
+
+******************************************************************************
+                                  Secret Boss
+******************************************************************************
+
+This guy is a big head in a wall. Fire at it until the skeleton breaks. Alright
+the fight begins, and it gets tough. Keep your Device on you and fire at the
+boss until it's gone. The boss doesn't flash when you shoot it, so you just
+keep firing. When it opens its mouth, it releases glowing bubbles. These bounce
+aroudn the screen, but can be destroyed. Destroy and dodge bubbles and fire on
+the boss. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                R6: Enemies                                 |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+No official names are used here, with the exception of POW armour.
+
+POW Armour:
+After destroying it, it releases a powerup of some kind. They look like a pod
+with legs and a red dome.
+
+*********
+Stage 1
+*********
+
+Blue Walker:
+Fires missiles vertically, walks across surfaces. A danegrous enemy if you take
+your eyes off it. It is essentially a cannon on legs.
+
+Green Power Armour:
+Shoots large blasts at you and can take a few hits. The biggest threat with the
+green power armour is that it persists on the screen and can interrupt how you
+respond to other enemies.
+
+Grey Drone:
+A grey robot with red eyes and a pulsing crest. They attack via ramming into
+you in large swarms.
+
+Orange Ship:
+More orblike than the Red heart ship, kind of resembles Samus' gunship from the
+Metroid series. They normally start in one direction, but can change partway
+across the screen into a new path. They aren't really a threat, but even still
+pay attention to their movement and possible shots.
+
+Orange Walker:
+Looks like the head of a robot, Blue dome on top. It walks across the ground
+firing the occasional shot.
+
+Red Heart-Winged Ship:
+   _./'\   This is a pretty simple ship, that flies forward in a little
+--/    /   sinusoid, often in line formations. While they do fire, the biggest
+ ( )=====  threat is running into them as you try to deal with other enemies.
+--\_   \   You can often take out a line or most of a line with one charged
+    '\./   shot.
+
+Red Power Armour:
+A tough robotic enemy that fires volleys of bullets rapidly forward, and can
+launch the same missiles as the Blue Walkers. They are a major threat, more so
+in groups. I'd recommend keeping a distance from them, for proper reaction time
+and just slamming them with a volley of shots. A charged shot to begin the
+exchange might be in order.
+
+Turret:
+A turret that resides on the ceiling or floor, it si oraneg and grey. It fires
+a single red shot at times, but this shot is fast so watch out.
+
+*********
+Stage 2
+*********
+
+Corpse Dweller:
+Scuttles out of the debris on the floor and ceiling, they can take a pounding
+but are largely benign. Beware of unexpected collisons and the fact that they
+can absorb your shots meant for other enemies.
+
+Green Pod:
+Small pod that flies across the screen with considerabel speed. Only a threat
+if it takes you by surprise or you have no force device.
+
+Jellyfish:
+Enemy that assumes a jellyfish type of body and chases after the R-9. They are
+not very vicious, but are fairly determined and can cause problems with all the
+other enemies onscreen. Pay the most attention to other enemies, and destroy
+these as they approach or better yet, as they are formed.
+
+Jellypod:
+Enemy with considerabel stanima. Launches the plasm that forms the jellyfish
+shape. It doesn't launch enough of the enemies to make them an essential target
+but consider them noless.
+
+*********
+Stage 3
+*********
+
+For the most part, the stage is the enemy. There is the return of the turrets,
+which are enemies elsewhere, but other parts of the ship won't be mentioned.
+Mainly just the turret-type enemies.
+
+Five Cannon Turret:
+Shoots in five directions from each cannon. Easy to get between shots and
+destroy it.
+
+Power Turret:
+Aims at you and fires a larger, slower shot.
+
+*********
+Stage 4
+*********
+
+You have the return of many Stage 1 enemies, including walkers, red ships, grey
+drones, orange ships. Be prepared, here on out, to encounter old enemies in new
+stages.
+
+Grey Drones:
+They can now shoot.
+
+Red Ship II:
+A ship that changes directions on right angles. It can also destroy webs by
+touching them.
+
+Weaver:
+A very dangerous enemy - forms a "web" of little orbs that you must shoot
+through. Destroy the ship to stop the web, the web can only be damged by your
+forward shots.
+
+*********
+Stage 5
+*********
+
+Gut Centipede:
+A large enemy that poses a threat by taking up much of the screen, but when hit
+a few times in the ehad, the body segments scatter. The scattering segments are
+vulnerable, but this is still the most dangerous state of the gut centipede. 
+
+Laser Ship:
+Flies straight forward, launching lasers. Easy to destroy, though head-on
+attacks are not suggested.
+
+Laser Wall:
+Flies forward, covering a wide range. Fire lasers like the Laser Ships do. Just
+avoid them.
+
+Orange Bat:
+Makes turns as it proceeds across the screen. Firing capabilities. Their turns
+make them pursue you.
+
+
+*********
+Stage 6
+*********
+
+Container:
+Don't try to eliminate these, it's a better idea to destroy them. Watch how it
+moves and avoid it.
+
+Wall Hugger:
+Persists on walls firing to occasional shots. Not a hard enemy, but combined
+with the containers it could result in your defeat.
+
+*********
+Stage 7
+*********
+
+Largely, the enemies here are pumped up heart wings, walkers, and grey drones.
+
+Orange "Boot":
+Moves forward, firing, until it hits a wall. It will then move around the wall.
+A small target.
+
+*********
+Stage 8
+*********
+
+Green Alien:
+Little guys that fly form the floor or ceiling. No threat alone, but could get
+hectic in large numbers.
+
+Vortex:
+Bleu spinning enemies taht cannot be destroyed, move primarily in circles and
+persist onscreen.
+
+*********
+Secret
+*********
+
+Amoeboid:
+Simple enemies produced from the toothed stalks. They attack by touching you
+though their attack is unorganized. The danger comes from the mass construction
+of the little guys from the mouths of the stalks.
+
+Brown Ship:
+Looks liek a "webbed claw." Moves across the screen, changes elevation, then
+back across and off the screen.
+
+Green Ship:
+Has a red "eye." It stops to fire a wide spread of shots.
+
+Green Turkey:
+Lays on a surface firing until taking off after you. It can take a beating.
+
+Guardian Eye:
+Large mass taht shoots five lasers. Avoid it.
+
+Orange Crab:
+Behaves like red heart wings though are a little slower. Look like crustaceans.
+
+Red Fly:
+Large insectoid enemy. IT lands, then flies at you. It will take a few hits.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                 R7: Secrets                                |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Secret Stage:
+In stage four, get to the area with vertical weavers have made a wall. There's
+two columns hanging down after a short gap, and the distance between these two
+columns is a few R-9 lengths. If you fly backwards into the left columns, you
+will be teleported to the secret stage.
+
+--The Next Two are eluded to in the manual:
+
+Extra Credits:
+Rotate the control pad clockwise on the credits screen, your credits will be
+increasing in number, up to twelve.
+
+Sound Test:
+Rotate the control pad counterclockwise on the credits screen. Use the control
+pad to scroll through the BGMs, and button 1 to listen to them. Use 00 to go
+back to credits.
+*To go beyond 17 in the sound test, you will need to hold button 2. This will
+let you hear the sound effects.

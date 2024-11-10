@@ -1,0 +1,237 @@
+1. Introduction...............................................[1000]
+      2. FAQ........................................................[2000] 
+      3. Controls...................................................[3000] 
+      4. How To Play................................................[4000]
+             4.1. Main Menu.........................................[4100]
+             4.2. Game Interface....................................[4200]
+             4.3. Objective.........................................[4300]
+      5. Scoring....................................................[5000]
+      6. Hints & Tips...............................................[6000]
+      7. Version History............................................[7000]
+      8. Legal Information..........................................[8000]
+      9. Credits and Closing........................................[9000]
+
+      To find a section quickly, press Ctrl-F and type in either the name 
+      of the section along with its content number (ie. 1., 2., 3., etc.)
+      OR you can use the codes on the far right. Simply type in the 
+      brackets with the code number to get a jump. 
+
+===============================================================================
+           ~+~ 1. Introduction ~+~                                      [1000]
+===============================================================================
+
+Pac-Man is a male. At first glance, it might be a bit difficult to notice 
+that. Luckily, Namco gave up their sexist ways and released Ms. Pac-Man (also
+known as Pac-Gal in some cases). In all senses, Ms. Pac-Man basically plays
+the same as Pac-Man with you being the yellow thing trying to eat everything.
+The ghosts (Blinky, Inky, Pinky, and Sue) are still around trying to stop you.
+
+This guide is designed to help any new players get a good feel for Ms. Pac-
+Man on the SMS. I'll provide game strategies and an in-depth analysis toward 
+the game. I hope you find this guide helpful. 
+
+
+===============================================================================
+           ~+~ 2. FAQ ~+~                                               [2000]
+===============================================================================
+
++-----------------------------------------------------------------------------+
+
+      [Q] What is a Pac Booster?
+
+      [A] The Pac Booster is a special option you have. In the main menu, you
+          have the ability to turn Pac Booster on or off. Basically, when 
+          the Pac Booster is activated, Ms. Pac-Man will move much faster.
+          It's very useful in escaping those pesky ghosts. 
+
++-----------------------------------------------------------------------------+
+
+===============================================================================
+           ~+~ 3. Controls ~+~                                          [3000]
+===============================================================================
+
+                                      #
+                                      ##
+                 ______________________#_____________
+                |    _____                           |
+                |  .'     `.                         |
+                | |  \ | /  |            _     _     |
+                | | -  O  - |          .' `. .' `.   |
+                | |  / | \  |          `._,' `._,'--------- 2 Button  
+                |  `._____.'             |           |
+                |______|_________________|___________|
+                       |                 |--- 1/Start Button
+                       |---- Control Pad
+
+
+Control Pad ~
+-----------
+     ~ Moves Ms. Pac-Man through the field.
+     ~ Select menu items. 
+
+Start Button ~
+------------
+     ~ Activate Pac-Booster.
+     ~ Confirm menu items. 
+
+2 Button ~
+--------
+     ~ Activate Pac-Booster in a burst.
+     ~ Turn off Pac-Booster.
+     ~ Change menu items. 
+
+
+===============================================================================
+           ~+~ 4. How To Play ~+~                                       [4000]
+===============================================================================
+
+Playing Ms. Pac-Man is no difficulty. However, if you need to know the basic
+concept of the game, read the below sections. 
+
++-----------------------------------------------------------------------------+
+               4.1. Main Menu                                           [4100]
++-----------------------------------------------------------------------------+
+
+At the main menu, you have the option to change the options. Those options are
+listed below.
+
+     Type -- Whether you just want to play a 1-player game or have a 2-
+     player cooperation, competition, or alternation, change it here.
+
+     Pac Booster -- If you want the Pac Booster which helps speed up Ms. Pac-
+     Man in those special cases, select an option here. A player can choose
+     to turn it on, off, or have it selectable. 
+
+     Difficulty -- This shouldn't require too much explanation. Depending on
+     how hardcore of a gamer you are, you might choose to set it to easy or 
+     hard or crazy!
+
+     Maze Select -- Select the type of maze you want from big, small, strange,
+     arcade, etc. 
+
+     Start Level -- Ms. Pac-Man allows the player to select the level. The 
+     higher this number, the harder the maze is. However, fruits will provide
+     higher points too!
+
+
++-----------------------------------------------------------------------------+
+               4.2. Game Interface                                      [4200]
++-----------------------------------------------------------------------------+
+
+There may be different maze-types, but all of them have the same format. 
+Below is a rough ASCII diagram of what the game interface appears as. 
+
+    ,=====================================================================.
+    `====================================================================='
+     |     1 U P                     H I !                               |
+     | 0 0 0 0 4 9 0             0 0 0 1 0 0 0                           |
+     |      [5]                      [6]                                 |
+     | ,---------------------------------------------------------------. |
+     | |                                                               | |
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | |
+     | |                                                               | |
+     | |                                                               | |
+     | |                                                               | | 
+     | |                                                               | |
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                              [4]                              | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | |                                                               | | 
+     | `---------------------------------------------------------------' |
+     |  Level ,'`.,'`.                                  .==. o.[3] Level |
+     |  [1] 2 `.,'`.,'[2]                               `==' | \   [1] 2 |
+     |___________________________________________________________________|
+
+     [1] The Level Ms. Pac-Man is currently on is shown here as a number.
+         The diagram displays it as Level 2.
+     [2] These are the amount of lives you have left to complete the maze.
+         Displayed in the diagram are two more lives.
+     [3] These are the fruits that can be found within the maze. The higher
+         the level, the more fruits are accessible. Fruits provide lots of
+         points. 
+     [4] This is the game interface where you will be controlling Ms. Pac-Man
+         through the maze. 
+     [5] This is your current score. 
+     [6] This is the high score at the moment. 
+
+
++-----------------------------------------------------------------------------+
+               4.3. Objective                                           [4300]
++-----------------------------------------------------------------------------+
+
+The game objective is quite simple. Ms. Pac-Man must eat all the pieces in the
+maze. However, the various ghosts are always there to stop her. Pilot Ms. 
+Pac-Man through the maze avoiding the ghosts. If they touch you, it's lights
+out. There is one way to counter them. Throughout the fields are various green
+dots different from the normal dots. Ride over any of them and the ghosts will
+begin to run away. Now YOU can eat the ghosts for points and they'll be forced
+to withdraw.
+
+Once all the dots on the field are eaten, the level is over and the next 
+level begins. The game will slowly get harder as you progress. There will also
+be fruits appearing in random locations. Pick them up whenever you get the 
+chance as they provide massive points (depending on what fruit it is). 
+
+
+===============================================================================
+           ~+~ 5. Scoring ~+~                                           [5000]
+===============================================================================
+
+Points play a big role in Ms. Pac-Man. To score, all you really need to do is
+eat the dots. However, there are other ways to gain points whether it be 
+eating a ghost or picking up a fruit. The below chart lists the amount of 
+points these generates. 
+
+
+                        + - + - + S C O R I N G + - + - + 
+    =====================================================================
+    Single Dot ................................................ 10 Points
+    Power Pellet .............................................. 50 Points
+    Ghost .................................... 200, 400, 800, 1600 Points
+    Cherry ................................................... 100 Points
+    Raspberry ................................................ 200 Points
+    Orange ................................................... 500 Points
+    Pretzel .................................................. 700 Points     
+    Apple ................................................... 1000 Points
+    Pear .................................................... 2000 Points
+    Banana .................................................. 5000 Points
+    =====================================================================
+
+
+===============================================================================
+           ~+~ 6. Hints & Tips ~+~                                      [6000]
+===============================================================================
+
+I've compiled a list of strategies to use when playing Ms. Pac-Man. 
+
+
+  ===========================================================================
+   ~ Always try to find a way around. Most sections of the maze have two or
+     three ways out. If you ever get stuck, use an alternate exit.
+
+   ~ Try to avoid losing lives and eating all the ghosts to get 'Perfect 
+     Boards' which provides massive points.
+
+   ~ Use Power Pellets sporadically only when you think you can take out all
+     four ghosts in one pass.
+
+   ~ Collect fruits whenever they appear.
+
+   ~ Try not to move into sections which you think you might get stuck in.
+     Watch the other ghosts to see if going to a certain part will put Ms.
+     Pac-Man in danger. 
+
+   ~ Use the Pac Booster to get yourself out of danger quickly or to eat an
+     escaping ghost.

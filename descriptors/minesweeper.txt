@@ -1,0 +1,422 @@
+Throughout this FAQ you will see the words "Index Number" and "Search
+Field". These are to help you locate certain sections of the FAQ, as
+listed in the index. Use Ctrl + F on most Word Processors and in Internet
+Explorer to use the Find/Locate command.
+
+Example: If you are looking for The section "Beginner's Guide - Setting Up",
+type 'i-a' into the Find box. 'i' is the Index Number and 'a' is the 
+section number. This will take you to the beginning of the section.
+
+
+          -=================================================-
+          -=               BEGINNER'S GUIDE                =-
+          -=================================================-
+
+Index Number: i
+                  =---------------------------------=
+                  =-           Setting Up          -=
+                  =---------------------------------=
+
+Search Field: i-a
+
+Minesweeper Overview
+====================
+(taken from the Game's Help File)
+
+"The object of Minesweeper is to locate all the mines as quickly as possible
+without uncovering any of them. If you uncover a mine, you lose the game."
+
+
+Starting a New Game
+===================
+To start a new game either press F2 or go to the Game menu and click on "New"
+
+Pausing a Game
+==============
+Some people think that you cannot pause the game in Minesweeper, but it is
+possible. Although there is no in-game pause function(usually F3), if you
+minimize the Minesweeper window, the game will pause.
+
+Difficulty Level
+================
+There are 3 difficulty levels in Minesweeper, varying from quite easy to
+very difficult. The difficulty levels each have varying grid size and
+varying amounts of mines. They are as follows:
+-Beginner:       9x9  Area -  81 Squares - 10 mines
+-Intermediate:  16x16 Area - 256 Squares - 40 mines
+-Expert:        16x30 Area - 480 Squares - 99 mines
+
+Custom Grid
+===========
+You can also set up your own Grid, but no Best Times will be recorded.
+Only use the Custom Grid function when you are beginning to play
+Minesweeper, or when you want to play a competition against your friends.
+
+Marks option
+============
+This can be turned on or off, and is On by default. By right-clicking
+twice, you can change the square to a question mark if you are unsure
+of what is hidden beneath. This is a function, I seem to ignore, but
+other people use it to great advantage.
+
+Color + Sound
+=============
+Self-evident really. But if you're bored(you must be if you're reading
+this guide), turn off the color, and go all Retro ^_^
+
+Best Times
+==========
+The game stores all your best times, which can be viewed from this screen.
+You can also reset your times from here.
+
+                  =---------------------------------=
+                  =-       Playing the Game        -=
+                  =---------------------------------=
+
+Search Field: i-b
+
+The Grid
+========
+The Grid is made up by a number of squares(explained earlier). There are
+five different types of squares in the game: Covered Squares, Empty
+Squares, Numbered Squares, Flagged Squares, and Question-marked Squares.
+There is also a sixth type: Squares with mines underneath, but if you
+see one of these it means Game Over.
+
+Covered Squares
+===============
+When the game begins, every square will be covered, and it is up to you
+to discover in which squares the mines are. Left clicking on one of these
+squares will reveal one of the following squares underneath.
+
+Empty Squares
+=============
+These are the Squares which have no mines and are not surrounded by mines.
+These squares are your best friend, as uncovering a bunch of these will
+give you great access to the rest of the grid.
+
+Numbered Squares
+================
+These are the squares you use to decipher where the mines are hidden.
+Each of these has a number which determines how many mines are in the
+surrounding 8 squares(e.g. North, North-East, East, South-East, South,
+South-West, West, and North-West of the square).
+
+Flagged Squares
+===============
+Right-click on a covered square to flag it. Flagged Squares are squares
+which you have indicated contain mines - be careful - you could be
+wrong.
+
+Question-Marked Squares
+=======================
+Also called Marked Squares, these are squares you have right-clicked
+on twice. Marked Squares are squares which you are unsure of.
+
+Playing the Game
+================
+Left click on a random square to start you off, hopefully you won't
+click on a mine! A numbered square(or numerous squares) should appear.
+Here's how the numbered squares work: (enough examples are given)
+
+Key
+---
+- : Empty Square
+X : Mine
+5 : Square surrounded by [NUMBER] mines
+
+'1' Square
+----------
+A square with a '1' in it is surrounded by a single mine.
+
+   X1-   1X1   -1X
+   11-   111   -11
+   ---   ---   ---
+
+   11-   111   -11
+   X1-   1X1   -1X
+   11-   111   -11
+
+   ---   ---   ---
+   11-   111   -11
+   X1-   1X1   -1X
+
+
+'2' Square
+----------
+A square surrounded by two mines.
+
+   XX1-  X2X1  X2--  X21-  X21-
+   221-  1211  X2--  2X1-  12X1
+   ----  ----  11--  111-  -111
+   ----  ----  ----  ----  ----
+
+   X1--  X1--  X1--  2X1-  12X1
+   22--  221-  1211  X21-  X211
+   X1--  1X1-  -1X1  11--  11--
+   11--  111-  -111  ----  ----
+
+   221-  1211  11--  11--  11--
+   XX1-  X2X1  X2--  X21-  X211
+   221-  1211  X2--  2X1-  12X1
+   ----  ----  11--  111-  -111
+
+   1X1-  -1X1  111-  -111  ----   
+   221-  1211  2X1-  12X1  221-
+   X1--  X1--  X21-  X211  XX1-
+   11--  11--  11--  11--  221-
+
+   ----  ----  ----  ----
+   1211  11--  11--  11--
+   X2X1  X2--  X21-  X211
+   1211  X2--  2X1-  12X1
+
+
+'3' Square
+----------
+A square surrounded by three mines
+
+  XXX1  XX1-  XX2-  XX21  XX1-
+  2321  X31-  3X2-  23X1  331-
+  ----  11--  111-  -111  X1--
+  ----  ----  ----  ----  11--
+
+  XX1-  XX1-  X3X1  X3X1  X3X2
+  332-  2321  X311  2X21  13X2
+  1X1-  -1X1  11--  111-  -111
+  111-  -111  ----  ----  ----
+
+  X2X1  X2X1  X2X1  111-  XXX1
+  2311  2321  1322  2X2-  3X31
+  X1--  1X1-  -1X1  3X3-  111-
+  11--  111-  -111  2X2-  ----
+
+
+'4' Square
+----------
+A square surrounded by four mines
+
+  XXX1  XXX2  XXX1  XXX1  X2X1
+  X421  24X2  3411  3431  2422
+  11--  -111  X1--  1X1-  X2X1
+  ----  ----  ----  111-  1211
+
+  X2X2  XX1-
+  24X2  2421
+  1X21  X2X1
+  111-  1211
+
+
+'5' Square
+----------
+A square surrounded by five mines
+
+  XXX1  X2X2  X3X1  XXX2
+  4531  45X2  X522  35X2
+  XX1-  XX21  X3X1  X211
+  221-  221-  1211  11--
+
+
+'6' Square
+----------
+A square surrounded by six mines
+
+  XXX2  X4X2  2XX2
+  X6X2  X6X3  X6X2
+  2X21  X4X2  XX21
+  111-  1211  221-
+
+
+'7' Square
+----------
+A square surrounded by seven mines
+
+  XXX2  2XX1
+  X7X3  X7X2
+  2XX2  XXX2
+  1221  2321
+
+
+'8' Square
+----------
+A square surrounded by eight mines
+
+  12321
+  2XXX2
+  3X8X3
+  2XXX2
+  12321
+
+
+
+
+How to Play
+===========
+Firstly, left-click on any square on the grid - some people like 
+to start with the corners, but it's easier if you start in the
+centre. Hopefully you will have opened a large area, if not click
+again(and restart the game if you uncover a mine).
+
+The easiest squares to deduce are ones with the number 1
+surrounding them. Hopefully, you have a few of these exposed.
+
+ ---  Now, let's get started: '-' are the blank exposed squares
+ -1S  '1' is an exposed square with the number 1 on it
+ -s?  'S' are exposed squares containing any (or no)number
+      '?' is a covered square
+
+We know for sure that there is a mine under the ? square, as
+there is a 1 square beside it, and the ? square is the only
+square touching the 1. Right-click on the ? square to indicate
+that there is a mine underneath.
+
+ ---??? Now, we have Flagged the square that contains the mine 'F'
+ -11??? and the numbers on the surrounding squares. The '1' on
+ -2F??? the square beside the other '1' square(used in the last
+ -????? example) shows there is only 1 surrounding mine, and
+        since that is flagged, the other surrounding squares
+        should be empty. Left-click on the 3 '?' squares to the
+        right of the 1 square.
+
+ ----?? You have exposed more '1' squares. As before the mine
+ -111?? that they indicate is already exposed, so the surrounding
+ -2F2?? squares must also be empty. Left-click on those too.
+ -?????
+
+ ----2? Now the grid is more exposed, and the mines become more
+ -1113? obvious. Whenever there is a 2-3-2 square combination,
+ -2F22? with no mines on one side, it must mean that all the
+ -????? mines are beside each other. Flag the 3 squares to the
+        right of the 2-3-2.
+
+ ----2F You have flagged the two mines beside the bottom '2' square,
+ -1113F so the other 3 surrounding squares must contain no mines.
+ -2F22F Left-click on them to reveal this.
+ -?????
+
+ ----2F You now know that there is 2 mines surrounding the '2' square
+ -1113F directly right of our first mine. Only one of it's
+ -2F22F surrounding squares is covered, so the mine must be underneath.
+ -??211 Right-click again, and flag that square.
+
+ ----2F There is one covered square left in this area, but you should
+ -1113F be able to figure out whether it is a mine or not. Well, is it?
+ -2F22F
+ -?F211                    (Answer below)
+
+ ----2F There's not, but why is that? Because there is a '2' in the
+ -1113F square above, and that square touches two mines, so therefore
+ -2F22F the covered square must be empty.
+ -2F211
+
+
+Hopefully, you have figured out how to play minesweeper by now, but
+if you haven't keep practicing on beginner mode to further your
+skills.
+
+          -=================================================-
+          -=              HINTS & STRATGEIES               =-
+          -=================================================-
+
+Index Number: ii
+                  =---------------------------------=
+                  =-             Hints             -=
+                  =---------------------------------=
+
+Search Field: ii-a
+
+
+Uncover all surrounding squares
+===============================
+If you have flagged all the mines around any square, you can click
+with both mouse buttons simultaneously to uncover all the
+surrounding squares.
+
+                  =---------------------------------=
+                  =-         My Strategies         -=
+                  =---------------------------------=
+
+Search Field: ii-b
+
+Key to diagrams
+---------------
+- : Empty Square
+? : Covered square
+S : Numbered square(any number)
+1 : '1' Square
+2 : '2' Square (and so on...)
+X : Mine Square
+F : Flagged Square
+
+Note: all these can be inverted or rotated.
+
+
+Corner-1 Strategy
+=================
+Perhaps the most obvious technique in Minesweeper, but since many
+people are new to the game(at some point or another), I'll put it in.
+
+ -S?  In this situation it is obvious where a mine is hidden.
+ -1S  There is only one covered square beside the 1, therefore
+ ---  that is where the mine is hidden.
+
+Corner-2 Strategy
+=================
+Similar to the last strategy, this one is also pretty basic.
+
+ -S?  As with the last one there is a mine to the north-east of
+ -2?  the '1' square, but there is also definitely a mine to the
+ -1S  east of the '2' square just above the '1'.
+
+Corner-2 Strategy II
+====================
+
+ ???  Again, the mines are in the same positions, but this time
+ -2?  the number above the '2' is another 2, this makes it
+ -2?  obvious that the surrounding squares of the top '2' are
+ -1S  all empty.
+
+Corner-3 Strategy
+=================
+
+ -???  There is a mine in the usual position, but the other mines
+ -23?  have moved. There are two more mines in the squares above
+ --1S  the 2 and 3.
+
+Corner-2/3 Strategy
+===================
+
+ -S?  Again, it is obvious where the mines are, they have to be
+ -3?  in the 3 covered squares. Simple.
+ -2?
+ -1S
+
+2-3-2 Strategy
+==============
+This was explained in the tutorial, but I'll explain it again.
+
+ ?????  The mines are in the 3 squares above the 2,3,2 squares.
+ S232S  The numbers on the other squares are irrelevant here.
+ -----
+
+1-2-1 Strategy
+==============
+
+ ?????  As with the previous strategy, the outside numbers are
+ S121S  irrelevant. The square above the number two is always
+ -----  empty. And the squares above the '1's always contain
+        mines.
+
+2-2 Strategy
+============
+
+ ?MS  Because there is two number 2's, the 3 squares to the
+ ?22  west must be empty.
+ ?MS
+
+2-2-2 Strategy
+==============
+
+ ?SMS  As with the last strategy, the west-most number 2
+ ?222  is already touching 2 mines, and therefore its
+ ?SMS  surrounding squares must be empty.

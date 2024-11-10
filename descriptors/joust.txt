@@ -1,0 +1,324 @@
+Welcome to my FAQ for Joust.  Since the game is just an action game that goes
+until all your men are killed, there is no walkthrough per se.  Instead it will
+be broken up into the game itself, strategies for survival, and some in-
+teresting quirks in the game.  Input is appreciated along with constructive
+criticism.  If you wish to e-mail me thoughts on this FAQ, better ways of doing
+things, other strategies, etc., feel free.  Make sure you put Joust in the
+subject line.  If you don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Well "Buzzard Bait", are you ready to test your bravery and skill against other
+jousters?  You won't be fighting for the hand of a fair maiden, but you will be
+fighting for your life.  Instead of horses and armor, you get an ostrich and
+your opponents get buzzards as steeds.  Both of you, though, will use a lance
+to attempt to knock the other off of their steed.  Following on the successful
+wave of games such as Defender and Robotron 2084, Williams was proving itself
+to be a force to be reckoned with in the video game world.  Controls are easier
+on this game but the usual theme of being put into "peril" immediately as you
+start the game holds true.  This is a true game of skill, strategy, and some-
+times just blind luck.  Good luck as you go forth to prove yourself a worthy
+opponent for the enemy jousters.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Joust is a two-dimensional action game.  You control your man and ostrich to
+topple the enemies from their buzzard mounts.  It is definitely the survival of
+the fittest in this fast-paced game.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+In order to become a master of this game, you must be familiar with the
+controls.  The controls are a little complicated just due to the fact that you
+have to learn how to not only flap your ostrich's wings, but also to move
+around the game screen.
+
+-  One 2 way joystick that controls your man's movements left and right.
+
+-  One button that flaps your ostrich's wings.
+
+ _________________________
+/ 6.2  The Playing Field /_____________________________________________________
+-------------------------
+
+The playing field consists of your man and ostrich and a whole lot of buzzards
+with their riders.  In addition to the enemy riders, you will also have to deal
+with prehistoric birds and trolls.  I have included an example of what the
+playing field look like (a little larger then normal):
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |----------                     ENTRY POINT               ----------|
+    |-- 4 --                           V                         -- 6 --|
+    |                       -------+-----+------                        |
+    |                          ------ 5 ----                            |
+    |                                                                   |
+    |                                                 /      --+---+-   |
+    |--+-----+----                          ENEMY->( )/      \__ 3 _/---|
+    |     2     /                                                   ----|
+    |----------+                                                        |
+    |                          ------------------                       |
+    |                            ------ 1 -----                         |
+    |                                                                   |
+    |                                                          LAVA     |
+    |                    |                                     TROLL    |
+    |                    +( )<-YOUR OSTRICH                      |      |
+    |                     / \                                    V      |
+    |             --------------+-------+------------------     |||     |
+    |               ---+   SCORE|MEN LEFT              +--     ||||/    |
+    |                   \                             /         \ /     |
+    |--------------------|                           |------------------|
+    |                   /                             \                 |
+    |                  /                               \                |
+    +-------------------------------------------------------------------+
+
+    NOTE:  I have put the numbers for the above platforms.  These numbers do
+           not appear in the game.
+
+You control the ostrich and rider to avoid the enemy riders, pterodactyl, and
+the lava troll.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty easy.  You basically get points for everything
+(even for dying).
+
+Knocking an enemy off their buzzard                    :   500 points
+Bounder (Red Enemy)                                    :   500 points
+Hunter (Silver/Gray Enemy)                             :   750 points
+Shadow Lord (Blue Enemy)                               :  1000 points
+Getting killed                                         :    50 points
+Pterodactyl                                            :  1000 points
+Not getting killed during a Survival Wave              :  3000 points
+(Two player only) Not knocking each other off his mount:  3000 points
+
+Eggs:  A progression that goes 250, 500, 750, and 1000 points for the next egg
+       and every egg thereafter.  The progression starts again if you get
+       killed or you go to the next wave.
+
+You start with three ostriches and get a free one every 20,000 points.
+
+ __________________
+/ 6.4  Wave Setup /____________________________________________________________
+------------------
+
+The waves (or levels) in Joust are set up in somewhat definite pattern.  There
+are certain waves that specific events occur.  I will list these events along
+with the first 20 waves.  Use the game screen to refer to platforms I am
+talking about.
+
++---------------+
+| SURVIVAL WAVE |
++---------------+
+
+As the name implies, you must not get knocked off your ostrich during these
+waves.  If you succeed, you will get the points.  These occur every 4-6 waves.
+
++----------+
+| EGG WAVE |
++----------+
+
+Instead of enemy riders, you are presented with 12 eggs distributed among the
+different platforms.  The eggs will hatch after a time to give you enemy riders
+to deal with.  These occur every fifth wave.
+
++-------------+
+| PTERODACTYL |
++-------------+
+
+In addition to the enemy riders, you will have to deal with a pesky pterodactyl
+or pterodactyls.  There are specific ways you can eliminate them.  This is
+discussed in Chapter 7.  Occurs every 4-6 waves.  You start with one and it
+progressively moves up to four.
+
++----------------+
+| FIRST 20 WAVES |
++----------------+
+
+ 1.  Beginning wave, good for training.
+ 2.  Survival Wave.
+ 3.  Regular Wave, bridge burns out.
+ 4.  Hunters appear.  Lava Troll appears.
+ 5.  Egg Wave.
+ 6.  Platform five disappears.
+ 7.  Platforms four and six disappear.  Survival Wave.
+ 8.  Pterodactyl Wave (One Pterodactyl).
+ 9.  Platform one disappears.
+10.  Egg Wave, all platforms restored.
+11.  Survival Wave, platform 1 disappears.
+12.  Pterodactyl Wave.  Platforms four, five, and six disappear.
+13.  Regular Wave.
+14.  Regular Wave.
+15.  Egg Wave, all platforms restored.
+16.  Shadow Lords appear.
+17.  Survival Wave.
+18.  Pterodactyl Wave (two Pterodactyls).
+19.  Regular Wave.
+20.  Egg Wave.
+
+-  The above progression occurs roughly along the line although the platforms
+   don't follow a pattern as to when they disappear.  The things that change
+   are the enemies get faster and more Pterodactyls appear.  After wave 22,
+   it's all Shadow Lords.
+
+
+-  These progressions will continue until you hit wave 255.  After that, the
+   waves roll back over to wave 1 and you start the cycle again.
+
+                               ****************       
+******************************** U N I T  III *********************************
+                               ****************       
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your man will be at the entry point at the bottom of
+the playing field.  From the other entry points, enemy riders will appear.  It
+will then be up to you to successfully defeat them.
+
+-  Learning to flap your ostrich's wings is the most vital aspect of this game.
+   How fast or slow you flap the wings determines speed and maneuverability.
+   Once you get good, you will be able to glide around and only flap for either
+   altitude or to hit an enemy rider.
+
+-  The name of the game is height.  Whoever is the higher rider during a joust
+   is the winner.  If you and an enemy collide on the same level, the impact
+   will knock you both backwards a little and turn you both around.  This can
+   prove to be dangerous if more then one enemy is coming for you since the
+   first one turns you around and the second knocks you off your mount.
+
+-  You need to pay particular attention to the screen setup on each wave.
+   Different platforms may collapse forcing you to readjust your strategy
+   accordingly.  Using the 20 wave example from Chapter 6.4, I will give you
+   some basic strategies.
+
+   -  During the non-pterodactyl waves and platform one is intact, your best
+      bet is to hang out under the right side of platform one.  The enemy
+      riders have to drop to get to you.  Just a quick press of the flap button
+      should give you altitude over them and the easy kill.
+
+   -  If you lose platform one, the next best place is platform five.  This
+      forces the enemy riders to rise up to you.  If you hover over the left or
+      right edge, you can drop on enemy riders trying to rise up from the areas
+      of platforms two and three.  Of course, if any make it to your level,
+      just sit on that entry point.  When an enemy rider gets near, rapidly
+      climb and move over toward the enemy to knock them off their mount.
+
+   -  When you only have platforms two and three, you will use a modified
+      strategy from the one above.  You will hover around the area that plat-
+      form five was at.  This forces the enemy riders to rise up to you, there-
+      by exposing themselves to you dropping down on them.
+
+   -  If any of the above have Shadow Lords in them, you will have to be pre-
+      pared to move around quickly since Shadow Lords are very fast and they
+      tend to bounce off the top of the game screen.
+
+-  There are a couple of ways to kill off the pterodactyl during the
+   pterodactyl waves:
+
+   -  First of all, you must be facing the pterodactyl in order to kill it.
+
+   -  If platform one still exists, then just wait for the pterodactyl and be
+      ready for it to choke itself on your lance.  If there are multiple
+      pterodactyls, they usually come from opposite sides so the first one
+      will have you turned around to meet the second one.
+
+   -  If platform one is gone, they use platform two to do your prehistoric
+      hunting.  If there are multiple pterodactyls, then you will have to move
+      around until the second and subsequent pterodactyls are coming at your
+      rider head on while you sit atop platform two.
+
+   -  If you are real good (and I mean real good), you can kill the
+      pterodactyls off in the air.  You just have to make sure that your lance
+      is evenly aligned with the pterodactyls mouth.
+
+   -  Pterodactyls also show up if you take too long on a wave.  These can't be
+      killed using the platform method.  The only way is either in the air or
+      to lose a man.
+
+   -  Some players take out all the enemy riders but one.  Then they lead this
+      rider toward the lave so the Lava Troll can grab them.  The player then
+      sits and hunts pterodactyls.  This is a long process that is definitely
+      loaded with peril.
+
+   -  If you get killed before killing the pterodactyl, it is very hard to get
+      in position to kill the pterodactyl since it does involve a sort of
+      rhythm.  Also keep in mind that the enemy riders will still be trying to
+      dismount you as you are hunting.
+
+-  The Lava Troll hazard isn't too major unless you fly too close to the
+   surface of the lava.  If you do happen to get grabbed, flap rapidly to
+   escape.  It is also easy to hit enemies immobilized by the troll.
+
+-  After you hit an enemy rider, they become an egg.  After a few seconds, the
+   egg will hatch to the next hardest enemy rider.  For example, a Bounder be-
+   comes a Hunter; a Hunter becomes a Shadow Lord.  After that, it will always
+   be a Shadow Lord.  Some players leave one egg and then hover over it.  When
+   the enemy buzzard comes to pick up the rider, you knock him off the saddle
+   again and collect the points.  Again, the pterodactyl will show up soon to
+   end this fun.
+
+-  Make sure you don't knock too many enemy riders off at once or there will be
+   eggs scattered all over the place.  This makes it hard to keep the enemy
+   population down to a dull roar.
+
+-  Whenever your rider gets killed, he will appear at the entrance point all
+   shimmery.  If you let the sequence go, it will take up to five seconds for
+   your rider to appear.  During that time, he is immune to all attacks.  Your
+   rider will enter at the point there is the least amount of enemies.  This is
+   usually the very bottom platform.  Keep in mind, the enemies also enter at
+   these points.
+
+-  The game does reach a point where there are so many enemy riders running
+   around, they are constantly bumping into one another.  This, in effect,
+   creates a wall which is very difficult and hazardous to navigate through.
+   This means you have to split up the enemy
+
+-  If you die during a wave, try quickly to get your bearings so that you can
+   get in position to continue depleting the enemy forces.
+
+-  The above tips are as valid for the two-player game as they are for the one-
+   player game.  In the two-player game, though, you and the other player can
+   cover each other to make it more difficult for the enemy to knock you off
+   your mounts.
+
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 8.  CONCLUSION |=============================================================
++================+
+
+This was a game of both strategy and frustration.  Strategy in the way that one
+had to find the best ways and positions to deal with the enemy riders.
+Frustrating due to the fact that half of the strategies you tried failed to
+work.  This game definitely could keep on busy for a long time as you tried to
+find that perfect medium of how much to flap your ostrich's wings versus just
+moving around the screen.  No two games were alike even when you knew the enemy
+rider's patterns.  The only sure thing were the pterodactyls but the enemy
+riders were there to frustrate your attempts for a clean kill.  The game
+definitely kept me occupied hours on end and the game only ended when my
+quarters did.  Unfortunately, it is very rare to find this machine anywhere.
+However, through the miracle of emulation, a whole new generation is realizing
+what we "old" folks enjoyed those many years ago.  You can also play this game
+at www.shockwave.com.  I hope this guide helps you in being able to get the
+most amount of gameplay for this game.  If you do have other ideas or thoughts,
+please e-mail me and share them.  Who knows, maybe I'll start a Q&A Chapter in
+this guide if enough people ask the same questions.  Anyway, thank you again
+for reading this guide.

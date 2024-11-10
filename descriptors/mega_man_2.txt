@@ -1,0 +1,841 @@
+Mega Man 2's (short) storyline, from the opening intro...
+
+  In the year of 200X, a super robot named Megaman was created.  Dr. Light
+created Megaman to stop the evil desires of Dr. Wily.  However, after his
+defeat, Dr. Wily created eight of his own robots to counter Megaman.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   3)   CONTROLS                                                       -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section describes the basic controls.
+
+D-Pad  ->  (Left/Right) Move Mega Man
+           (Up/Down) Climb ladder
+
+A      ->  Jump
+
+B      ->  Fire weapon
+
+Start  ->  Bring up menu
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   4)   WEAPONS                                                        -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section is a general overview of Mega Man's weapons.
+
+---------------
+(A) Air Shooter
+---------------
+Received From: Air Man
+
+  Fires three tornadoes that fly upwards.  Due to their odd movement, nailing
+some foes with the Air Shooter is a challenge, but on the other hand, it works
+very well against jumping robots.
+
+---------------
+(H) Atomic Fire
+---------------
+Received From: Heat Man
+
+  Atomic Fire could also be considered a "prototype" Mega Buster.  It can be
+charged to three different levels, depending on how long you hold it.  The
+higher the charge, the more damage it does but at an even higher weapon energy
+cost.
+
+---------------
+(B) Bubble Lead
+---------------
+Received From: Bubble Man
+
+  Shoots a gray bubble that travels along the ground.
+
+----------------
+(C) Crash Bomber
+----------------
+Received From: Crash Man
+
+  Hand downs, the strongest weapon in the game, but it also uses up the most
+weapon energy!  Fires a bomb that attaches to objects. After a while, they
+explode.  Watch your weapon meter; it doesn't take much to use it all!
+
+---------------
+(W) Leaf Shield
+---------------
+Received From: Wood Man
+
+  Useful in some stages.  A shield of leaves rotates around Mega Man.  If you
+move forward/backward, the shield detaches and flies in that direction.  Most
+enemies that touch the shield will be damaged.
+
+---------------
+(M) Metal Blade
+---------------
+Received From: Metal Man
+
+  VERY useful against most enemies (1 shot defeats Metal Man on Normal!).  The
+blades can be fired in multiple directions, and it also uses very little
+weapon energy, which makes it even better.
+
+-------------------
+(Q) Quick-Boomerang
+-------------------
+Received From: Quick Man
+
+  Another weapon that uses very little weapon energy.  The boomerangs move in
+a circle, but they only go a small distance.
+
+----------------
+(F) Time Stopper
+----------------
+Received From: Flash Man
+
+  This weapon freezes enemies in their tracks.  When you use it, it sucks away
+weapon energy *very* quickly.
+
+----------
+(1) Item-1
+----------
+Received From: Heat Man
+
+  It creates a platform with a propeller that slowly rises.  You can only make
+up to 3 platforms at one time.
+
+----------
+(2) Item-2
+----------
+Received From: Air Man
+
+  It makes a platform that has a jet on the back.  The platform moves fairly
+quickly forward until it either hits a wall or runs out of weapon energy.
+
+----------
+(3) Item-3
+----------
+Received From: Flash Man
+
+  You know what this makes!?  You won't believe it...A PLATFORM!  This one
+attaches itself to wall and moves up or down.
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   5)   WALKTHROUGH                                                    -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This sections provides basic tips for the stages and bosses.
+
+NOTE: This part is based on the "Difficult" game setting.
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.1]   metal man's stage                                            ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up, E-Tank (x2)
+
+  After jumping the first gap on the conveyor belts, continue forward to grab
+the E-Tank, and hop onto the ledge.  Ahead reside a few falling spike traps.
+To avoid them, get close enough so they fall, and then quickly dash underneath
+them.  This next segment involves drilling machines that resemble corncobs.
+Blast them if you need the energy.  There is an extra life found at the end of
+this screen, but you cannot reach it with your current arsenal.  Fall down the
+next two holes.
+
+  In this screen, you encounter several clown-like robots that travel on
+gears.  Shoot the robot while he is on the wheel to greatly slow it down, thus
+making it easier to destroy the gear.  The towering trashcan bot takes two
+shots to be eliminated; however, hitting it the first time causes the foe to
+lob three of its segments forward.  Ignore that E-Tank stashed in the alcove!
+There is an extremely high chance you will NOT be able to hop out of there.
+Instead, proceed forward to the gate.
+
+---------
+Metal Man
+---------
+Weapon Used: (P) Arm Cannon
+Weapon Received: (M) Metal Blade
+
+  This Robot Master definitely puts your jumping skills to the test!  Keep in
+mind you are fighting on a conveyor belt, and its direction randomly changes
+throughout the battle (watch the arrows!).  If you are having trouble when the
+belt starts moving towards Metal Man, continously run into the lower-left
+corner until it changes back.
+
+  Generally, Metal Man only throws his Metal Blades if you fire at him, but he
+occasionally tosses a few to see if you are paying attention.  Try to lead
+your shots a little as you fire away at Metal Man.  At the same time, you must
+dodge his blades by jumping straight up or forward.  He uses up to three
+blades at one time, and you have enough space between each one to move Mega
+Man somewhat easily.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.2]   bubble man's stage                                           ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: None
+
+  Don't go chasin' waterfalls...  Anyhow, watch out for the frog robots at
+this beginning segment.  They launch three tiny frogs to harass Mega Man.
+Make quick jumps on those purplish red blocks, as they fall the instant you
+land on one!  Hop down to the next screen.
+
+  It's time Mega Man goes for a swim!  Hitting a shell robot once causes its
+back to fly off, and then it moves faster.  Attack with Metal Blades if you
+feel it is necessary.  A mammoth fish machine is building shrimp robots, but
+you can destroy it by hitting the light above its mouth.  Exercise extreme
+caution at the next part!  Those black spikes do not mix very well with Mega
+Man, so take your time with jumping, and use Metal Blade to take out those
+enemy ships.  When you reach the outside once again, watch the sky for falling
+crabs.  The gate is up ahead.
+
+----------
+Bubble Man
+----------
+Weapon Used: (M) Metal Blade
+Weapon Received: (B) Bubble Lead
+
+  Bubble Man never actually moves along the floor and only travels around the
+room by hopping in diagonals.  The frogman deploys one or two bubbles that
+bounce up and down, but their slow speed makes them simple enough to dodge.
+Similarly to Metal Man, Bubble Man tends to use his arm cannon only you try
+to shoot him, but with the Metal Blades, you can fire at an angle and avoid
+his arm cannon entirely.
+
+  I may be stating the obvious, but do not jump so high you hit the spikes
+attached to the ceiling.  Please, think of Mega Man!
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.3]   flash man's stage                                            ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up, E-Tank
+
+  Judging by the flashing lights, I would say Flash Man lives in a night club.
+Because, you know, robots like to dance...maybe...?
+
+  The terrain throughout the entire level is icy and makes controlling Mega
+Man more interesting, so do not be too careless.  The robots found near the
+start volley shots at two different heights depending on their preference.
+Ignore that 1-Up you spy, and proceed down to the next screen.
+
+  Blast the robot walker as fast as you can, and then destroy the Sniper Joe.
+If you can pull it off, try to fall in the hole found on the right.  Bypass
+the spaghetti machines, and hug the left wall to avoid battling a second
+walker (though you do not get the energy capsule either).  By going down the
+gap on the right here, you earn a chance at obtaining an E-Tank!  Very care-
+fully hop from block to block for it.  Proceed forward to Flash Man.
+
+---------
+Flash Man
+---------
+Weapon Used: (M) Metal Blade
+Weapon Received: (F) Time Stopper, (3) Item-3
+
+  The rough layout of the room makes getting around Flash Man much harder,
+but with the Metal Blade in hand, you should be fine.  This Robot Master just
+runs back and forth around the room and jumps when he feels like it.  His only
+method of attack is using Time Stopper to freeze Mega Man and then spraying
+bullet all over the place.  His accuracy is laughable.  If you stay high or
+low enough in relation to Flash Man, he cannot hit you.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.4]   wood man's stage                                             ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: None
+
+  Battle your way through the first line of bats and rabbits, and climb down
+the next two ladders to face off with a giant fire dog.  This mutt breathes
+out chains of fire at Mega Man, but you can evade them by remaining on the
+ledge and jumping at the right moment.  At the third robotic dog, stay at the
+far left, and throw some Metal Blades.  The top of the blade is just high
+enough to nick the enemy, allowing you to take it out without being concerned
+about taking a hit or two.
+
+  Once back outside, gorillas threaten Mega Man by leaping up off the bamboo,
+and as if that was not annoying enough, birds drop eggs that unleash a swarm
+of smaller birds.  These enemies provide a great source of energy and possibly
+extra lives, if you are lucky.  Head down the ladders.  Do not bother fighting
+the chickens.  Just stop in front of them, and they hop over Mega Man.
+
+--------
+Wood Man
+--------
+Weapon Used: (M) Metal Blade
+Weapon Received: (W) Leaf Shield
+
+  The chubby Wood Man follows one attack pattern and sticks to it for the
+whole battle.  The Robot Master sets up his Leaf Shield, tosses several leaves
+into the air, and then throws his barrier forward, forcing Mega Man to dodge
+both the shield and falling leaves.  Because Metal Blade has such an immense
+amount of energy, go absolutely crazy with it when you have a free shot at
+Wood Man.  You should be able to defeat him after he throws his third shield.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.5]   air man's stage                                              ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: None
+
+  Near the start, you must jump across a series of bizarre machines.  Spikes
+slowly appear on the ends of each one, and robots pop out the sides as long as
+you stand on it.  Destroy the robot attached to the propeller cloud, and hitch
+a ride on the platform.  Remember that the clouds limit your view as you fight
+the other robots found here.  Scurry past the egg-dropping birds, and then hop
+down a hole on the far right.
+
+  Do not fret over the machines here; head down the gap on the left.  Jump
+over a few more machines to discover an obese robot equipped with a fan that
+is capable of blowing Mega Man off a ledge.  Shoot the tiny birds located in
+front of Air Man's gate to start off with full energy.
+
+-------
+Air Man
+-------
+Weapon Used: (W) Leaf Shield
+Weapon Received: (A) Air Shooter, (2) Item-2
+
+  Air Man kicks things off by deploying several tornadoes around the room and
+then blowing them towards Mega Man.  Your objective is to move the Blue Bomber
+so he does not get smacked in the face, and in some instances, you can dodge
+the Air Shooter by standing in one place.  Once he does this three times, Air
+Man makes a few leaps to the other side of room.  This is the perfect oppor-
+tunity to hit him with the Leaf Shield!  Its bulky size makes it challenging
+to throw it while he is doing his tornado attack.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.6]   quick man's stage                                            ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up (x3), E-Tank
+
+  Most people will tell you Quick Man's stage is perhaps the worst of all
+eight Robot Masters', and you will soon discover why...
+
+  Snatch the extra life from the ledge with the help of Item-3, and drop down
+two more screens.  Before you leap at the third screen, you should know there
+are a group of lasers that instantly fry Mega Man if he happens to touch one.
+Here is how they appear:
+
+
+               +----------+     +----------+     +----------+
+               | Screen 1 |     | Screen 2 |     | Screen 3 |
+               +----------+     +----------+     +----------+
+                __________       __________       __________
+               |          |     |          |     |          |
+               |<---------X     X---------->     X---------->
+               |          |     <----------X     | |_   |<--X
+               X---------->     |  __      |     X-->|  |   |
+               |    _|    |     X---------->     |  ____    |
+               |  _|      |     | | |      |     | |    |   |
+               | |________|     | |_|      |     | |  |<--!-X
+
+
+  If you can manage to fall down the hole marked "!" on the third screen, you
+are thrown into a room with a weapon energy capsule, an extra life, and an
+E-Tank.  Continue down into the next hallway.  The lights go out, but the
+robot torches fix that problem.  Of course, destroying the enemy puts Mega Man
+back in the dark again.  If you somehow find yourself stuck, jump around to
+proceed to more laser fun!  You can use the Time Stopper to freeze the beams,
+but remember you could also use it against Quick Man.
+
+
+               +----------+     +----------+     +----------+
+               | Screen 1 |     | Screen 2 |     | Screen 3 |
+               +----------+     +----------+     +----------+
+                __________       __________       __________
+               X----><----X     X----><----X     X----><----X
+               |       ___|     |___    ___|     |___    ___|
+               X----><----X     X-->____<--X     |          |
+               |    --____|     |          |     |          |
+               |____      |     X----><----X     <----------X
+               X----><----X     |  ______  |     |    ______|
+               |    __    |     X----><----X     |   |      |
+
+
+       +----------+     +----------+     +----------+     +----------+
+       | Screen 4 |     | Screen 5 |     | Screen 6 |     | Screen 7 |
+       +----------+     +----------+     +----------+     +----------+
+        __________       __________       __________       __________
+       X----><----X     |     |    |     <----------X     <----------X
+       |__        |     |     |    |     <----------X     <----------X
+       X---------->     <----------X     |______    |     |_____   __|
+       |____      |     |   __|    |     <----------X     X---------->
+       X---------->     <----------X     X---->_____|     |_____   __|
+       |_______   |     |   __|    |     |          |     | |<-------X
+       <----------X     |     |____|     |__________|     |_|  |_____|
+       |      ____|
+       |     |    |
+
+
+  Assuming you actually did survive that mess, Quick Man's last defensive line
+before his gate is a few Sniper Joes, two of which are in mechs.
+
+---------
+Quick Man
+---------
+Weapon Used: (F) Time Stopper
+Weapon Received: (Q) Quick Boomerang
+
+  He isn't called Quick Man for nothing!  The boss immediately charges at Mega
+Man and sends out three boomerangs, and these boomerangs remain stationary for
+a few moments before flying at the Blue Bomber.  Quick Man repeats this method
+of dashing and attacking for the whole battle.  Begin your counterattack with
+Time Stopper, which freezes Quick Man in his tracks, and if the weapon has
+full energy, it removes half of his life!  Finish him off with the Arm Cannon
+(or the Air Shooter, as both do the same amount of harm).
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.7]   heat man's stage                                             ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up
+
+  Heat Man's lair begins with battling enemies above a nice, toasty lava flow.
+Take your time clearing the path of robots before you make a careless mistake,
+and send Mega Man into oblivion.  Hop from column to column, and then descend
+the ladder at the end.
+
+  Now, do you *really* want to memorize the reappearing block pattern here?
+Equip Item-3, fire it against the left wall, and ride up to the top.  Isn't
+that much easier?  The upcoming segment can become a tad difficult, but you
+can manage it.  You must clamber over a series of tall pillars using those
+magical blocks.  However, the trick here is that Mega Man is continously
+harassed by robots popping out of the holes.  Take advantage of Metal Blade or
+Leaf Shield to remove them with little trouble.
+
+  After the previous sequence, Mega Man is faced with a very long series of
+blocks over another lava flow.  Deploy Item-2 to cross it rather than getting
+frustrated with making jumps (collect the extra life if you can!).  Blast the
+Sniper Joe walker, and Mega Man ends up by Heat Man's room.
+
+--------
+Heat Man
+--------
+Weapon Used: (B) Bubble Lead
+Weapon Received: (H) Atomic Fire, (1) Item-1
+
+  Heat Man typically tosses three fireballs in Mega Man's general direction,
+and each one turns into a tiny flame tower.  Dodging this is next to imposs-
+ible, so immediately charge towards the boss with Bubble Lead equipped.  For
+every time you hit him with a bubble, Heat Man glows in a red aura and tele-
+ports to Mega Man's current position.  Smack him again once he reappears.
+Repeat until Heat Man is all washed up.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.8]   crash man's stage                                            ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up, E-Tank
+
+  As you will soon notice, much of Crash Man's stage deals with robots that
+magically appear out of thin air to bother Mega Man.  Stick to using the Metal
+Blade due to its unique ability to be fired at an angle.  When Mega Man must
+ride around on a small platform, activate the Leaf Shield, but do not move
+left or right unless you want to toss it!  This is a great strategy against
+the robots.
+
+  Ascend the giant ladder, and Mega Man encounters two separate ladders.
+Select the left one.  Fight your way to the top (again, Metal Blade and Leaf
+Shield make handy tools), collect the E-Tank, and climb the left ladder here.
+This leads to an extra life!  You can locate Crash Man's gate following the
+bouncing robots.
+
+---------
+Crash Man
+---------
+Weapon Used: (A) Air Shooter
+Weapon Received: (C) Crash Bomber
+
+  While many players may find this boss to be challenging, Crash Man is truly
+not that hard once you figure out how he operates.  This boss leaps into the
+air as soon as you fire, and he launches a Crash Bomb at Mega Man.  The bomb's
+explosion lasts for a couple seconds, making it easy to carelessly walk right
+into it.  Since the Air Shooter itself flies into the air, hitting Crash Man
+with it should not be terribly difficult.
+
+  Here is some additional help, provided by gungnir:
+
+  "Walk towards Crash Man, and when he's about 1/3 screen away, you jump and
+shoot over his head, which he jumps into. Then you continue to walk under and
+away from him until he turns around and comes back towards you. Repeat."
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.9]   dr. wily's fortress                            [ stage i ]   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up
+
+  This beginning segment of Wily's castle is fairly tame.  Shoot the birds'
+eggs before they break on the ground, and then activate Item-3 to climb the
+wall.  Take advantage of Metal Blade to chew up the spaghetii-producing
+robots.  Grab the extra life at the end of the screen, and head on up!
+
+  Defeat Sniper Joe, and snatch the large weapon energy capsule if you need it
+at this point.  Advance until you encounter what appears to be a dead end.
+Of course, you CAN reach that ladder in the upper-left corner, but it may take
+a little bit of practice.  Position Mega Man as close to the left edge of the
+ladder as possible, and quickly deploy and jump on three platforms using
+Item-1.  If you can perform well enough, you can grab onto the ladder.  Head
+into the lair of...
+
+-----------
+Mech Dragon
+-----------
+Weapon Used: (H) Atomic Fire
+
+  Due to the lack of anything to stand on, you have virtually no room for
+error in this battle.  If you take a hit while on the topmost block, Mega Man
+falls onto a lower one, but otherwise, he is going to fall into the abyss.
+The Mech Dragon lobs either one or a chain of 20 fireballs at Mega Man, but
+you can evade them by hopping from block to block.  That said, charge up the
+Atomic Fire, and let loose on the dragon with a big blast to the face.  Repeat
+until its energy is depleted.  Then switch to the Arm Cannon to end the fight.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.9]   dr. wily's fortress                           [ stage ii ]   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up (x2), E-Tank (x2)
+
+  Fill up your lowest weapon with the weapon energy capsule stashed at the
+start.  Defeat the hopping robots, and activate Item-2 to cross the huge spike
+trap.  You should have enough energy to climb onto the second ladder and pick
+up the E-Tank.  Head down the next ladder for an extra life and several small
+energy capsules, and then continue to find even more items!  The sturdy walls
+can be taken down with a well-placed Crash Bomb.  Take a couple jumps down.
+
+  Dr. Wily decides to throw in a few gimmicks from Metal Man's lair, and you
+must deal with corncobs and falling spike traps once more.  As if you couldn't
+guess, Item-3 is needed to climb the wall.  But, timing may be tricky with
+that trap at the top!  Proceed forward, and hop down some more screens to land
+in the boss room.
+
+----------
+Wily Boxes
+----------
+Weapon Used: (B) Bubble Lead
+
+  This is, uh, different.  Two segments from opposite sides fuse together to
+create a small flying machine that follows Mega Man.  Simply hit it once with
+Bubble Lead to destroy it.  Easy enough, eh?  The robots become faster as
+time goes on, but you can defeat them before they get a chance to move.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.9]   dr. wily's fortress                          [ stage iii ]   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: E-Tank
+
+  Several items can be found at the outset of this stage, so be sure to take
+them if you absolutely need to.  While in the water, be careful when hopping
+over the gaps with no spikes, for giant metal fish live there!  As you plummet
+down the spike-laced tower, move Mega Man gently to the left and then to the
+right to avoid being poked.  And do not touch the spikes at the very bottom!
+Slay a few more robots before encountering the boss gate.
+
+---------------
+Guts Man Mk. II
+---------------
+Weapon Used: (H) Atomic Fire
+
+  This Guts Man replica relies on two different modes of attack: volleying
+pellets or throwing Mets at Mega Man.  As long as you remain fairly close to
+the front of the boss, the Mets bounce over Mega Man's head.  Attack the
+robot's eyes with a charged Atomic Fire blast when the Mets temporarily stop
+appearing.  Remember you cannot touch his fist without taking damage!
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.9]   dr. wily's fortress                           [ stage iv ]   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: 1-Up, E-Tank
+
+  Once again, replenish your weapons with the energy capsules found here, and
+then climb up the ladder when you are ready.  This level features false
+terrain, meaning that it may look a floor but it is actually a hole.  Because
+it travels along the ground, use Bubble Lead to determine where you can find
+these gaps.  Snatch the E-Tank, if you so desire, and then advance to more
+platforms.
+
+  As with Crash Man's area, activate a Leaf Shield to protect Mega Man from
+any robots that come his way.  Do not be afraid to use your Item weapons if
+you are having any difficulties.  The last sequence before the boss is a
+series of Sniper Joes (and usual, some are operating in metal walkers).  Do
+NOT set foot into that room if your Crash Bomber is not at full energy!
+
+------------
+Wily Cannons
+------------
+Weapon Used: (C) Crash Bomber
+
+  The objective for this fight is to eliminate all of the cannons using the
+Crash Bomber, but as you might expect, the catch is that some of the cannons
+are blocked by walls that can only be destroyed with the same weapon.  You
+only have a limited amount of energy, and one mistake means you WILL fail!
+
+  This is how the room is laid out ("X" indicates a barrier, while a number
+represents a cannon):
+
+                            ____________________
+                           |    ___|            |
+                           |   |2 _X       __   |
+                           |   | |_|     3|  |  |
+                           |___|        |__  |  |
+                           |1_X   ____     | |  |
+                           |___| |__  |     X__4|
+                           |         X    _|    |
+                           |        | |  |______|
+                           |________| |__X_____5|
+
+
+  Use Item-1 to reach the ledge facing Cannon 1, and fire the Crash Bomber
+twice (one for the wall and one for the gun).  Deploy another platform on the
+very bottom (do it a little higher this time) to leap up nearby Cannon 2.
+Once it is destroyed, take out 3 and 4.  Activate Item-3 to climb out of the
+hole, and work on eliminating the final cannon.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.9]   dr. wily's fortress                            [ stage v ]   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: None
+
+  Following the usual Mega Man formula, it's time for the teleporter room!
+
+                         ___                     ___
+                        |   |                   |   |
+                        | 1 |                   | 8 |
+                        |___|                   |___|
+         1. Heat Man    |   |    _         _    |   |   5. Quick Man
+         2. Air Man     | 2 |   |_|       |_|   | 7 |   6. Crash Man
+         3. Wood Man    |___|_     ___ ___     _|___|   7. Metal Man
+         4. Bubble Man  |   |_|   |   |   |   |_|   |   8. Flash Man
+                        | 3 |     | 4 | 5 |     | 6 |
+                        |___|     |___|___|     |___|
+
+                        Heat Man......(B) Bubble Lead
+                        Air Man.......(W) Leaf Shield
+                        Wood Man......(M) Metal Blade
+                        Bubble Man....(M) Metal Blade
+                        Quick Man....(F) Time Stopper
+                        Crash Man.....(A) Air Shooter
+                        Metal Man.....(M) Metal Blade
+                        Flash Man.....(M) Metal Blade
+
+
+  After you have defeated all of the Robot Masters (for the second time), hop
+into the newly opened teleporter...
+
+----------------------------
+Dr. Wily's Ship (First Form)
+----------------------------
+Weapon Used: (H) Atomic Fire
+
+  Wily's flying machine has only one attack, firing a blast of energy in a
+downward arc.  You can dodge by keeping Mega Man fairly close to the ship's
+front and jumping over the shot when it comes by.  Aim two fully charged shots
+of Atomic Fire at the cockpit to destroy it.
+
+-----------------------------
+Dr. Wily's Ship (Second Form)
+-----------------------------
+Weapon Used: (P) Arm Cannon or (M) Metal Blade
+
+  Wily attempts to mix these things up a bit by firing bouncing energy shots
+in this second form.  Simply run under them when they go up.  Although Metal
+Blades worked well in Normal, it does the same amount of damage as the Arm
+Cannon in Difficult, so take your pick.
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   [5.9]   dr. wily's fortress                            [ stage v ]   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ITEMS: None
+
+  Mega Man tumbles down into a hidden cavern underneath Wily's castle.  The
+only real enemies here are acid drops from the ceiling, and needless to say,
+they are extremely painful, taking off about a third of Mega Man's total life.
+Slowly proceed to the gate found at the end of the tunnel.
+
+----------
+Alien Wily
+----------
+Recommended Weapon(s): (B) Bubble Lead
+
+  Wily is an alien!  Well, it's actually a projection, but anyway...
+
+  This hologram floats around the room while firing a bullet every now and
+then.  The bullets cause enough harm, but touching the boss himself removes
+one half of the Blue Bomber's health!  Ouch!  Fire bubbles at the alien until
+he finally bites the dust.  Remember that each energy unit on the Bubble Lead
+counts as two bubbles, so hopefully you have enough energy to win.  If not,
+then you are doomed to failure.  This battle WILL take a while, so just time
+your shots and jumps carefully.
+
+
+                      ~~ Game over, man!  Game over! ~~
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ =-   6)   PASSWORDS                                                      -=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+This section lists several passwords for Mega Man 2. 
+
+Thanks goes to the password generator at The Mega Man Homepage for these!
+
+NOTE: All passwords here give you four E-Tanks.
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   air man defeated                                                     ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |_X_| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |___| |_X_| |___|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+E  |___| |___| |___| |_X_| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   bubble man defeated                                                  ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+    1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |___| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |___| |_X_| |___|
+    ___   ___   ___   ___   ___
+D  |___| |___| |_X_| |___| |_X_|
+    ___   ___   ___   ___   ___
+E  |_X_| |___| |___| |_X_| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   crash man defeated                                                   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |___| |___| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |___| |_X_| |___|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |_X_| |_X_| |___|
+    ___   ___   ___   ___   ___
+E  |_X_| |___| |___| |_X_| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   flash man defeated                                                   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |___| |___| |___| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |___| |_X_| |_X_|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+E  |_X_| |___| |___| |_X_| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   heat man defeated                                                    ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |___| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+C  |_X_| |___| |___| |_X_| |___|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+E  |_X_| |___| |___| |___| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   metal man defeated                                                   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |___| |_X_| |_X_| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |___| |_X_| |___|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+E  |_X_| |___| |___| |_X_| |___|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   quick man defeated                                                   ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |___| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |_X_| |_X_| |___|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |___| |___| |___|
+    ___   ___   ___   ___   ___
+E  |_X_| |___| |___| |_X_| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   wood man defeated                                                    ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |_X_| |___| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+C  |___| |___| |___| |___| |___|
+    ___   ___   ___   ___   ___
+D  |___| |_X_| |_X_| |___| |___|
+    ___   ___   ___   ___   ___
+E  |_X_| |_X_| |___| |_X_| |_X_|
+
+
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+ <-   all robot masters defeated                                           ->
+<--<--<--<--<--<--<--<--<--<--<--<--<->-->-->-->-->-->-->-->-->-->-->-->-->-->
+
+     1     2     3     4     5
+    ___   ___   ___   ___   ___
+A  |___| |___| |___| |___| |_X_|
+    ___   ___   ___   ___   ___
+B  |___| |_X_| |___| |_X_| |___|
+    ___   ___   ___   ___   ___
+C  |_X_| |___| |_X_| |___| |_X_|
+    ___   ___   ___   ___   ___
+D  |___| |___| |___| |_X_| |_X_|
+    ___   ___   ___   ___   ___
+E  |___| |_X_| |___| |___| |___|

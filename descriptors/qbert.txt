@@ -1,0 +1,834 @@
+* Introduction (Why a Q*bert guide?)
+* The Basics
+* The Baddies (and other noteworthy objects)
+* Scoring
+* Advanced Strategy
+* "Polarity" of the board in 5-1 and on
+* Enemy Spawn Patterns (what you came here for)
+* Acknowledgements/Conclusion
+
+---------------------
+-Why a Q*bert guide?-
+---------------------
+
+Let me start by saying this: Q*bert on NES is a brutal game, and don't let
+anyone tell you otherwise. It starts off innocently enough, but when get to
+round 5-1, expect to watch your lives bleed away as Coily continues to hound
+you incessantly and Sam repeatedly destroys everything you've worked so hard
+for. The NES version is much more manic than the arcade version and much less
+predictable towards the end, and the levels start to speed up as well. Trying
+to beat this game was a living nightmare for me, and I'm apparently not the
+only one: on Electric Frankfurter's list of the 30 hardest NES games of all
+time (out of approximately 750 titles), Q*bert was #3.
+
+Fortunately, anyone who wants to beat this game has one thing working in their
+favor: the order in which enemies appear in a given level is more or less
+fixed. By putting together transcripts of these enemy appearance patterns, I
+was able to take out Sam the moment he appeared and grab those precious green
+balls at just the right time, allowing me to finally finish the game once and
+for all. After posting on NintendoAge about my victory as part of their "Can NA
+beat every NES game in a year?" thread, I got a PM from one member asking about
+the information, and a suggestion from another that I should put together a FAQ
+for the game. Given that I'm trying to play through the entire NTSC-region NES
+library myself (Q*bert was #125 on my list), I'm aware of how that many NES
+games still aren't well-documented enough, and I'm more than happy to fill this
+little gap in the internet's collective compendium of NES knowledge. To anyone
+who's been itching to finish this game once and for all, I hope this
+information proves useful.
+
+------------
+-The Basics-
+------------
+
+The goal of Q*bert is to change all of the cubes on a seven-tiered pyramid from
+their default color to the target color indicated in the top-left corner of the
+screen. Every four rounds, the rules for changing cubes get a little trickier;
+after round 5-1, the rules remain the same for the rest of the game. Unlike the
+arcade version, the NES version has a definite ending, which appears once you
+finish round 9-4; after this, the game will return to level 1-1 with no changes
+(at least as far as I can tell) and continue to cycle through the same levels
+until you die or decide to call it a day. Just getting through once, however,
+is enough of a feat in and of itself...
+
+The rules of cube-changing for each level (there are four rounds per level) are
+as follows:
+
+Level 1: One hop will change a cube to its target color.
+
+Level 2: One hop will change a cube to its intermediate color; a second hop
+will change a cube to its target color.
+
+Level 3: One hop will change a cube to its target color; a second hop will
+change a cube *back* to its original color.
+
+Level 4: One hop will change a cube to its intermediate color; a second hop
+will change a cube to its target color. A third hop will change a cube *back*
+to its intermediate color.
+
+Levels 5 through 9: One hop will change a cube to its intermediate color; a
+second hop will change a cube to its target color. A third hop will change a
+cube *back* to its original color.
+
+--------------------------------------------
+-The Baddies (and other noteworthy objects)-
+--------------------------------------------
+
+All of this cube-hopping would be easy enough in and of itself, but the game
+throws plenty of enemies at you to make make things more complicated. During
+the early levels, you won't always see every enemy type, but as things pick up,
+the game will start throwing everything and the kitchen sink at you, and will
+do it faster and faster as the levels progress.
+
+The following enemies appear throughout the course of the game:
+
+
+Red ball: Bounces down the pyramid starting from the second row from the top.
+The path these balls take is random.
+
+Purple ball: Bounces down the pyramid in a similar fashion to the red ball, but
+somewhat faster. When it reaches the bottom row, it hatches and turns into
+Coily the Snake.
+
+Coily the Snake: Pursues Q*bert doggedly throughout the level; fortunately,
+he's a little slower than Q*bert, which makes evasion a little more manageable.
+The arcade version's FAQ contains additional info regarding movement patterns,
+which supposedly translates over to the NES version (although knowing this
+information is not necessarily essential for beating the game).
+
+Spinning disk: Not actually an enemy, but worth mentioning here. If you jump on
+a spinning disk while Coily is chasing you, he'll continue to pursue you, and
+if he gets close enough, he'll hop over the edge of the pyramid after you and
+plummet to his death. For some reason, this causes all the enemies on the
+screen to vanish, giving you a second or two to hop across the board in
+solitude.
+
+Ugg: The kind of fellow that would make M. C. Escher proud. In complete
+defiance to the laws of physics, he appears on the bottom row of the pyramid
+and hops on the left edge of the cubes, making his way from left to right.
+
+Wrong-Way: Similar to Ugg, except he hops on the right side of the cubes and
+makes his way from right to left.
+
+(Note: I might have Ugg and Wrong-Way switched, but for my money it doesn't
+necessarily matter. The rest of the guide assumes this naming to be correct.)
+
+Regarding both Ugg and Wrong-Way, I've heard it said that by watching their
+eyes carefully, you can figure out which way they're going to jump. The FAQ for
+the arcade version of Q*bert attests to this, but I am not certain whether or
+not this holds true for the NES version. Based on my own testing, Ugg's eyes
+always face the same way when he is standing still, and Wrong-Way's one eye
+only changes direction *after* he jumps in a different direction.
+
+Sam: Probably the most annoying foe in the game. You can actually touch him
+without getting hurt, which will knock him out and score you some points, but
+if you let him run free, he'll hop down the pyramid and change the colors of
+the cubes. Depending on the level, he'll alter the cubes in different ways,
+either changing them to a fixed color or toggling them to the next or previous
+color in their natural cycle. Like the red and purple balls, he appears on one
+of the two squares on the second row from the top.
+
+Green ball: Like the spinning discs, they're not technically an enemy; if fact,
+they're immensely useful for clearing the board more quickly and easily. They
+hop down the board just like the other balls and Sam, but they're a little
+faster; catch one, though, and everything on the screen freezes, allowing you
+to solve a large chunk of the board without worry. While the enemies are
+frozen, you can move freely through them, although you can still die by jumping
+off the edge of the board.
+
+
+Running into an enemy (except for Sam) causes you to lose a life; you start
+with five lives (your current one plus four spares), and once you run out, it's
+game over. You have three continues, however, and using one will allow you to
+start on the current level with both your score and the condition of the board
+reset.
+
+By the way, landing on an enemy square may or many not cause you to trigger the
+square; this seems to depend on timing and how fast the level plays out. If you
+hit the enemy before the square changes color, you go back to the previous
+square on your next life; if you manage to toggle the square the enemy
+occupies, however, you'll start the next life on that square.
+
+---------
+-Scoring-
+---------
+
+Changing a square to its intermediate color: 20 pts
+Changing a square to its target color: 30 pts
+
+Grabbing a green ball: 100 pts
+Catching Sam: 300 pts
+Defeating Coily: 500 pts
+
+Winning a round grants you a bonus that is dependent on the level and round
+number. Rounds 1-1 through 4-4, the formula is as follows:
+
+Round bonus = (level number x 1000) + ((round number - 1) x 250)
+
+In other words, your bonuses for rounds 1-1 through 1-4 are 1000, 1250, 1500,
+and 1750 pts. For the next twelve levels, the pattern continues: 2000, 2250,
+etc., up to 4750 pts. for round 4-4.
+
+All rounds in levels 5 through 7 give a straight-up bonus of 5000 pts. Rounds
+8-1 through 8-4 give a bonus 6000 pts., and rounds 9-1 through 9-4 give a bonus
+of 8000 pts.
+
+You earn a new life at 6000 points, and for every 12000 points thereafter.
+Although your lives counter only displays a maximum of nine lives, the game
+will keep track of any lives you have above this amount (although you'll have
+to be playing pretty darn well to see this happen - I've only witnessed this
+once in my own attempts to beat the game).
+
+-------------------
+-Advanced Strategy-
+-------------------
+
+*In later levels, it is better to tackle the bottom corners of the pyramid
+and/or the bottom two rows first. When you're getting close to finishing off a
+round, hang out on the top square and wait for the green ball to show up. Make
+sure you don't wait so long that Coily has a chance to waltz up to the top and
+kill you, though; following the enemy spawn patterns in this guide, however,
+will help you time this properly. (Also, in rare cases, Ugg or Wrong-Way may be
+able to get to the top square and hit you as well, so be careful.)
+
+*Later on, concentrate on turning like-colored pairs of squares back to their
+proper color whenever possible. The arcade Q*bert guide on GameFAQs has more to
+say on this, but once you hit 5-1, you'll find that this will save you a lot of
+time and potential grief.
+
+*In rounds 5-3 and beyond, I personally like to use the spinning disc in the
+bottom-right corner of the pyramid early on in my run, even if I don't take out
+Coily in the process. If you approach the corner properly, fixing squares two
+at a time, you can solve the bottom two rows much more quickly - or, at the
+very least, the bottom-right corner. This, of course, is partially dependent on
+how much the enemies are crowding you in (especially Sam), but I've found it to
+be helpful in many circumstances.
+
+*At the beginning of most rounds, it is best to let Sam do whatever he wants to
+the board. In the later rounds, you should only worry about taking him down
+when the bottom two rows of the board are finished.
+
+*Save the spinning discs towards the top of the pyramid for last if you can. In
+early levels, this is hardly necessary, but later in the game, when solving the
+bottom part of the board first is all the more beneficial, it's not a good idea
+to undo too much of your work just to get away from Coily.
+
+*A few rounds early on - namely 2-3 and 2-4 - give you very few spinning discs
+and a lot to do. Round 2-3 is often where I lose my first life on a run, since
+it's only possible to defeat Coily twice. It's best not to use your spinning
+discs too early in these rounds unless you absolutely need to, since you could
+end up with Coily on your tail and nowhere to go while Sam is busy resetting
+half of the board. Instead, let Coily chase you a bit before luring him to his
+death, and try to fix a few cubes along the way.
+
+*It is possible to jump through an enemy without losing a life if your timing
+is just right. This is most easily done with Ugg or Wrong-Way, but I've managed
+to pull it off with the red balls and even Coily on occasion. I wouldn't
+necessary rely on this technique for the latter two foes, but if things are
+getting crowded, it's something to consider.
+
+---------------------------------------
+-"Polarity" of the board in 5-1 and on-
+---------------------------------------
+
+Beginning in round 5-1, it is possible for the playing area to be temporarily
+forced into an unwinnable state. It's kind of tough to explain (see the FAQ for
+the arcade version of Q*bert for a more detailed breakdown), but depending on
+what goes on during the course of a level, you can end up in a situation where
+all of the cubes are the target color *except* for the square you're standing
+on, which is the intermediate color. If you're in this situation (or one that
+could produce it), there is no way to turn every square to its target color
+unless one of three things happens:
+
+1. Sam shows up and alters an odd number of squares on the board (1, 3, or 5)
+before you catch him.
+2. You jump onto a disc that's adjacent to a cube on an odd-numbered row of the
+pyramid. This causes you to jump from an odd-row cube to an odd-row cube
+(rather than odd to even, or even to odd), fixing the problem.
+3. You jump off the side of the pyramid on purpose from a cube on an
+even-numbered row of the pyramid. This causes you to appear at the top square
+of the pyramid without altering its color, allowing you to alter two even-row
+squares in a row.
+
+This temporarily unwinnable scenario is something I refer to as "bad polarity,"
+and using one of the above fixes returns the board to "good polarity." It is
+still technically possible to squeak through a level without knowing anything
+about this concept, but planning your strategy around it will make your life
+*MUCH* easier. As you're getting close to the end of the round and waiting for
+a green ball to appear (assuming that you need one), pause the game to check
+the polarity of the board - in other words, solve the last few cube-hops in
+your mind and see if it's possible to complete the board or not. It takes time
+and practice to polish this strategy, but doing so is vital to finishing the
+last 20 rounds of the game.
+
+Although the third method of polarity reversal will cause you to lose a life, a
+well-placed suicide is better than running around the board in a panic and
+screwing up the whole board, potentially forcing you to waste a continue. In
+general, there are a few good reasons to consider killing yourself:
+
+*To stop Sam in his tracks (all enemies vanish when you die), especially if
+he's about to reset some out-of-reach squares or put the board in bad polarity
+*The board is almost solved, but Coily's on your tail and you're out of
+spinning discs
+*Doing so would allow you to finish the level almost immediately upon
+respawning (and would leave the board in, or restore the board to, good
+polarity)
+
+Remember, you get an extra life every 12000 points after the first 6000, which
+means you can afford to die a time or two in a level without screwing up your
+run completely.
+
+-----------------------------------------------
+-Enemy Spawn Patterns (what you came here for)-
+-----------------------------------------------
+
+As important as the above information is to completing the game, the real key
+to winning Q*bert is knowing what enemies will appear in a given level, and how
+often they will appear. In each round, enemies spawn in a fixed pattern,
+ranging from 5 to 32 enemies in length, which repeats continually until you
+finish or fail the round; this order never changes between playthroughs of the
+game. The only exception to this involves Coily - if he is next in line to
+appear but he is already on the board, his next appearance will be skipped,
+since there can only be one Coily on the screen at a time. (Keeping close tabs
+on this can work greatly to your advantage, since preventing Coily from
+spawning, in essence, saves you a spinning disk.) Also, the enemy appearance
+pattern will temporarily stop while Q*bert is riding a spinning disc to the top
+of the pyramid.
+
+For each round, I have listed the enemies present, Sam's behavior for that
+level, and the enemy spawn pattern for that stage. The letters should be
+self-explanatory, but just to be safe, here's a key:
+
+R = Red Ball
+C = Coily (purple ball)
+U = Ugg
+W = Wrong-Way
+S = Sam
+G = Green Ball
+
+On my own hand-written transcriptions of the enemy appearance patterns, I added
+a few visual markers to make the patterns easier to read while I was playing
+the game; a similar system has been implemented here. Every appearance of Coily
+has an asterisk over it, and every appearance of Ugg or Wrong-Way has a carat
+symbol below it (to indicate that they appear from below, and that the two
+squares on row two are therefore safe to hop on). Sams and green balls have a
+box around them to make them stand out, since you'll want to be close to the
+top of the board to grab them once the bottom of the board is stabilized.
+Generally, the less the Sam/green ball ratio is slanted towards Sams, the
+better; stages like 6-3 and 8-2, which contain four Sams for every green ball,
+are probably the easiest to screw up.
+
+An explanation of Sam behavior types is provided here:
+
+
+To default: Changes a cube to its original color, regardless of the current
+color.
+
+To intermediate: Changes a color to its intermediate color, regardless of the
+current color.
+
+Back a color: Reverts a cube to its previous color, as if to undo Q*bert's
+previous move.
+
+Forward a color: Changes a color to the next color in sequence, as if Q*bert
+had stepped on the cube himself.
+
+
+Give the nature of some of the color-change rules, Sam behavior in some of the
+rounds could fall under more than one category, although the way I have them
+listed *should* still be true to the way the level plays out.
+
+The only elements not accounted for here are the speed of each level and the
+amount of space between spawns. Knowing a level's speed in advance is not
+particularly helpful; the only difference this really makes, aside from
+decreased reaction time, is that enemies will travel further across the board
+during a spinning disc ride on faster levels, since the travel speed of a
+spinning disc seems to be fixed across all levels. Including the amount of
+space between enemy appearances in the spawn patterns below would simply muddy
+up the list, and this information isn't incredibly useful either (especially
+since dying or riding a disc will disrupt this pattern somewhat anyway).
+
+You'll notice, by the way, that some of these patterns are remarkably similar
+to each other (or exactly the same!); taking note of this can make some of the
+later stages easier to beat. For many of the later rounds, the first ten
+enemies in the pattern are almost always the same, which makes things a little
+more manageable. There are also several later stages where a green ball is
+preceded by two Wrong-Ways and a red ball; even if you start to lose track of
+where you are in the sequence, this grouping is a good cue to make your way to
+the top of the board and prepare to clean up.
+
+One last bit of advice: don't be afraid to use the pause button! During my
+final run of the game, I can't tell you how many times I paused to get my
+bearings and figure out which enemies were coming up next. The last thing you
+want to do is get into a panic and dash across the board like a madman, running
+into enemies and letting Sam do whatever he wants. It's all too easy to waste
+all your lives on a single level and start digging into your stock of continues
+prematurely.
+
+And, without further ado, the spawn patterns themselves...
+
+----------------------------------------
+
+Round 1-1
+
+Enemies present: Coily, Red Ball
+Sam behavior: N/A
+
+Enemy spawn pattern:
+
+*
+C R R R R
+
+----------------------------------------
+
+Round 1-2
+
+Enemies present: Coily, Ugg, Wrong-Way
+Sam behavior: N/A
+
+Enemy spawn pattern:
+
+    *     *     *     ---
+U W C U W C U W C U W |G|
+^ ^   ^ ^   ^ ^   ^ ^ ---
+
+----------------------------------------
+
+Round 1-3
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: to default
+
+Enemy spawn pattern:
+
+      *       ---   *     ---
+R R R C R R R |G| R C R R |S| R R
+              ---         ---
+
+----------------------------------------
+
+Round 1-4
+
+Enemies present: Coily, Ugg, Wrong-Way, Green Ball, Sam
+Sam behavior: to intermediate
+
+Enemy spawn pattern:
+
+    *     *     ---     * ---     * ---
+U W C U W C U W |S| U W C |G| U W C |S|
+^ ^   ^ ^   ^ ^ --- ^ ^   --- ^ ^   ---
+
+----------------------------------------
+
+Round 2-1
+
+Enemies present: Coily, Ugg, Wrong-Way, Green Ball, Sam
+Sam behavior: back a color
+
+Enemy spawn pattern:
+
+  ---   --- *     ---         ---       *
+W |G| U |S| C U U |S| U W W U |S| U W U C U W W
+^ --- ^ ---   ^ ^ --- ^ ^ ^ ^ --- ^ ^ ^   ^ ^ ^
+
+----------------------------------------
+
+Round 2-2
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: back a color
+
+Enemy spawn pattern:
+
+      *   *       ---       * ---           ---
+R R R C R C R R R |G| R R R C |S| R R R R R |S|
+                  ---         ---           ---
+
+----------------------------------------
+
+Round 2-3
+
+Enemies present: All
+Sam behavior: to default
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   *     --- *
+R |S| C W U W R C R U |S| R C U |S| W R C U W W R |G| R C W C U R |S| C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^   ^   ---   ^
+
+----------------------------------------
+
+Round 2-4
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: to default
+
+Enemy spawn pattern:
+
+      *       ---   *     ---
+R R R C R R R |G| R C R R |S| R R
+              ---         ---
+
+----------------------------------------
+
+Round 3-1
+
+Enemies present: Coily, Ugg, Wrong-Way, Green Ball, Sam
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  ---   --- *     ---           ---       *
+W |G| U |S| C U U |S| U W C W U |S| W U U C U W
+^ --- ^ ---   ^ ^ --- ^ ^   ^ ^ --- ^ ^ ^   ^ ^
+
+----------------------------------------
+
+Round 3-2
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+*           ---         ---             ---
+C R R R R R |S| R R R R |G| R R R R R U |S| R R W R R
+            ---         ---           ^ ---     ^
+
+----------------------------------------
+
+Round 3-3
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---     ---     *         ---   *
+R |S| C W U W R C R U |S| R U |S| W R C U W W R |G| R C W U
+  ---   ^ ^ ^       ^ ---   ^ --- ^     ^ ^ ^   ---     ^ ^
+
+----------------------------------------
+
+Round 3-4
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+*     * ---       *   --- ---
+C R R C |S| R R R C R |G| |S|
+        ---           --- ---
+
+----------------------------------------
+
+Round 4-1
+
+Enemies present: All
+Sam behavior: back a color
+
+Enemy spawn pattern:
+
+* ---     * ---   ---     *     *     *     ---
+C |S| R R C |S| R |G| U W C U W C U W C U W |G|
+  ---       ---   --- ^ ^   ^ ^   ^ ^   ^ ^ ---
+
+----------------------------------------
+
+Round 4-2
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: back a color
+
+Enemy spawn pattern:
+
+*     * ---       *   --- ---
+C R R C |S| R R R C R |G| |S|
+        ---           --- ---
+
+----------------------------------------
+
+Round 4-3
+
+Enemies present: All
+Sam behavior: to default
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   *
+R |S| C W U W R C R U |S| R C U |S| W R C U W W R |G| R C W C U
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^   ^
+
+----------------------------------------
+
+Round 4-4
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: to default
+
+Enemy spawn pattern:
+
+      *       ---   *     ---
+R R R C R R R |G| R C R R |S| R R R
+              ---         ---
+
+----------------------------------------
+
+Round 5-1
+
+Enemies present: Coily, Red Ball, Green Ball, Sam
+Sam behavior: to intermediate
+
+Enemy spawn pattern:
+
+*     * ---       *   --- ---
+C R R C |S| R R R C R |G| |S|
+        ---           --- ---
+
+----------------------------------------
+
+Round 5-2
+
+Enemies present: All
+Sam behavior: to intermediate
+
+Enemy spawn pattern:
+
+  --- *         *     ---     ---     *         ---   *
+R |S| C W U W R C R U |G| R U |S| W R C U W W R |G| R C W U
+  ---   ^ ^ ^       ^ ---   ^ --- ^     ^ ^ ^   ---     ^ ^
+
+----------------------------------------
+
+Round 5-3
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *         *   ---     *         ---   *         --- *
+R |S| C W U W R C R U R R C U |S| W R C U W W R |G| R C W R U R |S| C W
+  ---   ^ ^ ^       ^       ^ --- ^     ^ ^ ^   ---     ^   ^   ---   ^
+
+----------------------------------------
+
+Round 5-4
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *         *         ---   *       ---   *
+R |S| C W U W R C R U |S| R C U R W R C U W W R |G| R C W R U |S| R C W
+  ---   ^ ^ ^       ^ ---     ^   ^     ^ ^ ^   ---     ^   ^ ---     ^
+
+----------------------------------------
+
+Round 6-1
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *         --- *
+R |S| C W U W R C R U |S| R C U |G| W R C U W W R |G| R C W R U R |S| C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^   ^   ---   ^
+
+----------------------------------------
+
+Round 6-2
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *         *         ---   * ---         *
+R |S| C W U W R C R U |S| R C U U W R C U W W R |G| R C |S| R U R R C W
+  ---   ^ ^ ^       ^ ---     ^ ^ ^     ^ ^ ^   ---     ---   ^       ^
+
+----------------------------------------
+
+Round 6-3
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *     ---   *         ---   ---   *       *
+R |S| C W U W R C R U |S| R C U W |S| R C U W W R |G| R |S| W C U R R C W
+  ---   ^ ^ ^       ^ ---     ^ ^ ---     ^ ^ ^   ---   --- ^   ^       ^
+
+----------------------------------------
+
+Round 6-4
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   ---       *
+R |S| C W U W R C R U |G| R C U |S| W R C U W W R |G| R C W |S| U R R C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^ --- ^       ^
+
+----------------------------------------
+
+Round 7-1
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *         *       --- *         ---   *   ---       *
+R |S| C W U W R C R U R R C U W R |S| C U W W R |G| R C W |S| U R R C W
+  ---   ^ ^ ^       ^       ^ ^   ---   ^ ^ ^   ---     ^ --- ^       ^
+
+----------------------------------------
+
+Round 7-2
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *         *       --- *         ---   *   ---       *
+R |S| C W U W R C R U R R C U W R |S| C U W W R |G| R C W |S| U R R C W
+  ---   ^ ^ ^       ^       ^ ^   ---   ^ ^ ^   ---     ^ --- ^       ^
+
+----------------------------------------
+
+Round 7-3
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   ---     --- *
+R |S| C W U W R C R U |G| R C U |S| W R C U W W R |G| R C W |S| U R |G| C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^ --- ^   ---   ^
+
+----------------------------------------
+
+Round 7-4
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *     ---   *     ---   *   ---     *         ---   * ---         *
+R |S| C W U |G| R C R U |S| R C U |S| W R C U W W R |G| R C |S| W U R U C W
+  ---   ^ ^ ---       ^ ---     ^ --- ^     ^ ^ ^   ---     --- ^ ^   ^   ^
+
+----------------------------------------
+
+Round 8-1
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *     --- *           ---   *   *     --- *
+R |S| C W U W R C R U |S| R C U W |G| C R U W W R |G| R C W C U R |S| C W
+  ---   ^ ^ ^       ^ ---     ^ ^ ---     ^ ^ ^   ---     ^   ^   ---   ^
+
+----------------------------------------
+
+Round 8-2
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *         *   ---     ---   *   ---       *
+R |S| C W U R R C R U |S| R C U W R R C U |S| W R |G| R C W |S| U R R C W
+  ---   ^ ^         ^ ---     ^ ^       ^ --- ^   ---     ^ --- ^       ^
+
+----------------------------------------
+
+Round 8-3
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   *     --- *
+R |S| C R U W R C R U |S| R C U |G| W R C U W W R |S| R C W C U R |G| C W
+  ---     ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^   ^   ---   ^
+
+----------------------------------------
+
+Round 8-4
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *     ---   *     ---   * ---       *   ---       --- *   ---       *
+R |S| C W U |G| R C R U |S| R C |G| W W R C U |S| W R R |G| C W |G| U R R C W
+  ---   ^ ^ ---       ^ ---     --- ^ ^     ^ --- ^     ---   ^ --- ^       ^
+
+----------------------------------------
+
+Round 9-1
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   ---     --- *
+R |S| C W U W R C R U |S| R C U |S| W R C U W W R |G| R C U |G| U R |S| C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^ --- ^   ---   ^
+
+----------------------------------------
+
+Round 9-2
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   ---       *
+R |S| C W U W R C R U |S| R C U |S| W R C U W W R |G| R C U |S| U W R C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^ --- ^ ^     ^
+
+----------------------------------------
+
+Round 9-3
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *     ---   *     ---   *         *         ---   *   ---       *
+R |S| C W U |G| R C R U |S| R C U R W R C U W W R |G| R C W |S| U R R C W
+  ---   ^ ^ ---       ^ ---     ^   ^     ^ ^ ^   ---     ^ --- ^       ^
+
+----------------------------------------
+
+Round 9-4
+
+Enemies present: All
+Sam behavior: forward a color
+
+Enemy spawn pattern:
+
+  --- *         *     ---   *   ---     *         ---   *   *     --- *
+R |S| C W U W R C R U |S| R C U |S| W R C U W W R |G| R C W C U R |S| C W
+  ---   ^ ^ ^       ^ ---     ^ --- ^     ^ ^ ^   ---     ^   ^   ---   ^

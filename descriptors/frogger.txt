@@ -1,0 +1,301 @@
+1981 was a big year in video games.  A lot of companies were putting some
+pretty popular games on the market and it created a very competitive atmosphere
+as to what company was putting out the most popular ones.  In addition, 1981
+continued on the trend of the "cute" type games such as Ms. Pac Man, Qix, and a
+host of Pac-Man clones.  Konami was already becoming a force to be reckoned
+with in the video gaming world.  With such hits as Space War, Scramble, and
+Super Cobra, Konami was making its mark.  Frogger was originally released in
+Japan and it became a runaway hit.  Sega/Gremlin were awarded the license to
+manufacture the game in the United States and it was the first major hit for
+this company (in 1982, Zaxxon became their number one game).  The concept of
+the game was simple.  Get your frog across a busy road and across a river
+littered with obstacles so that it could safely make it home.  Notoriously
+simple in concept, Frogger proved to be a challenge due to the levels
+increasing in hardness not only between the levels, but also within the levels
+themselves.  Frogger was successfully licensed to other gaming companies such
+as Atari and Tiger and it has spawned many clones and updates over the years.
+Good luck in getting your frog home.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Frogger is a two-dimensional, above view style game.  You are in control of a
+frog.  The goal is to get across five lanes of traffic, cross a small median,
+then across five sections of a river to make it into your home base.  Of
+course, this isn't without its perils.  As you progress through the levels, the
+cars become more numerous and faster.  The turtles and logs in the river become
+scarcer while predators seem to become more plentiful.  To add even more
+stress, you have a limited amount of time in which you can do this or you will
+lose a frog.  This all adds up to some serious jumping and even more serious
+planning in how to get your frog safely into its home base.  Being road kill is
+not at the top of the list of neat things to become.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  A four way joystick for moving left, right, up, and down
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+The playing field for Frogger is pretty simple in its layout.  The only things
+that will change on it are numbers of cars, logs, turtles, etc.    I have
+included an example of what this field looks like:
+
+    +-------------------------------------------------------------------+
+    |     1-UP                 HI-SCORE                      2-UP       |
+    |                                                                   |
+    |-------------------------------------------------------------------|
+    |+------+       +------+      +------+       +------+       +------+|
+    ||  1   |       |  2   |      |  3   |       |  4   |       |  5   ||
+    |+      +-------+      +------+      +-------+      +-------+      +|
+    | _________________                  _                              |
+    |[_________________]<-LOG   __+-----/  <-CROCODILE    WATER LANE #5 |
+    |                           --------\_                              |
+    | ( )( )( )<-TURTLES                                  WATER LANE #4 |
+    |                    ___________________________                    |
+    |                   [___________________________]     WATER LANE #3 |
+    |     ______           ______                                       |
+    |    [______]         [______]                        WATER LANE #2 |
+    |                                                                   |
+    |            ( )( )( )                                WATER LANE #1 |
+    |                                                                   |
+    |-------------------------------------------------------------------|
+    |                            MEDIAN           /\/\/ <-SNAKE         |
+    |-------------------------------------------------------------------|
+    |                       LANE #5 OF CARS                             |
+    |-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -|
+    |                       LANE #4 OF CARS                             |
+    |-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -|
+    |                       LANE #3 OF CARS                             |
+    |-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -|
+    |                       LANE #2 OF CARS                             |
+    |-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -|
+    |                       LANE #1 OF CARS                             |
+    |-------------------------------------------------------------------|
+    |                                                                   |
+    |-------------------------------------------------------------------|
+    | # FROGS LEFT                                                LEVEL |
+    |                       ______________________________________      |
+    |                      [______________TIME LEFT_______________]TIME |
+    |                                                                   |
+    +-------------------------------------------------------------------+
+
+You control your frog on this screen.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is pretty simple:
+
+10 points for each forward hop.
+
+Forward Hop:  10 points (max points per home is 100)
+Frog Safely Put in Home:  50 points
+Completing a Level:  1000 points
+Bringing a Frog to Your Home:  200 points
+Eating a Fly:  200 points
+
+You also get a time bonus of 10 x the remaining seconds added to your score.
+
+You start the game with 3, 5, 7, or 256 lives and you get one free frog at
+20,000 points.
+
+ __________________
+/ 6.4  The Levels /____________________________________________________________
+------------------
+
+The levels in Frogger are arranged in a specific order.  All levels after Level
+6 repeat in five level blocks.  This means that levels 6-10, 11-15, 16-20, etc.
+are all the same.  The way the levels are set up is listed below (keep in mind
+that cars in Lane 4 will travel fast after a specific period of time if they
+aren't traveling fast already):
+
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+| LEVEL |   #CARS IN LANE    ||   # TURTLES/LOGS IN    ||        NOTES        |
+|       |                    ||       WATER LANE       ||                     |
+|       | 1 | 2 | 3 | 4  | 5 || 1  | 2  | 3  | 4  | 5  ||                     | 
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   1   | 3 | 3 | 3 | 1F | 2 || 4D | 3S | 3L | 4D | 3M ||                     |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   2   | 4 | 4 | 3 | 2F | 3 || 3D | 3S | 1L | 4D | 3M || CROC IN HOME MAKES  |
++-------+---+---+---+----+---++----+----+----+----+----+| APPEARANCE.  EVERY  |
+                                                       || 5TH LOG IN LANE #5  |
+                                                       || A CROCODILE         |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   3   | 4 | 4 | 5 | 2S | 3 || 3D | 3S | 1L | 4D | 2M || EVERY 3RD LOG IN    |
++-------+---+---+---+----+---++----+----+----+----+----+| LANE #5 A CROCODILE |
+                                                       || ONE SNAKE ADDED     |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   4   | 4 | 4 | 4 | 3F | 4 || 3D | 2S | 1L | 3D | 2M || EVERY 2ND LOG IN    |
++-------+---+---+---+----+---++----+----+----+----+----+| LANE #5 A CROCODILE |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   5   | 5 | 4 | 5 | 4S | 3 || 2D | 2S | 1L | 3D |  C ||                     |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   6   | 3 | 3 | 3 | 1S | 2 || 4D | 3S | 3L | 4D | 2M || EVERY 2ND LOG IN    |
++-------+---+---+---+----+---++----+----+----+----+----+| LANE #5 A CROCODILE |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   7   | 4 | 4 | 4 | 2F | 3 || 3D | 3S | 1L | 5D | 2M || LANE #5 AS ABOVE.   |
++-------+---+---+---+----+---++----+----+----+----+----+| 2ND SNAKE APPEARS   |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   8   | 4 | 4 | 5 | 2F | 3 || 3D | 3S | 1L | 4D | 1M || EVERY OTHER LOG IN  |
++-------+---+---+---+----+---++----+----+----+----+----+| LANE #5 A CROCODILE |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|   9   | 4 | 4 | 4 | 3F | 4 || 3D | 2S | 1L | 3D | 1M || LANE #5 AS ABOVE    |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+|  10   | 5 | 4 | 5 | 4S | 4 || 2D | 2S | 1L | 3D | C  ||                     |
++-------+---+---+---+----+---++----+----+----+----+----++---------------------+
+
+
+KEY:
+
+#F OR S = NUMBER OF FAST OR SLOW CARS IN LANE #4
+#S = NUMBER OF SHORT LOGS IN WATER LANE #2
+#L = NUMBER OF LONG LOGS IN WATER LANE #3
+#M = NUMBER OF MEDIUM LOGS IN WATER LANE #5
+ C = CROCODILE IN WATER LANE #5
+#D = NUMBER OF SETS OF TURTLES ALONG WITH THE SET OF DIVING TURTLES IN WATER
+     LANES #1 AND #4
+
+NOTE:  The crocodile appears randomly in one of the homes.  Snakes appear
+       randomly in either the median, log, or both places.  The otter appears
+       randomly on any of the water lanes.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, your frog will start at the bottom of the screen.  You
+will have 60 seconds to move your frog up ten spaces and successfully put it in
+their home.  If you are successful, then you will try to put a frog in the next
+home and so on until you fill up all five homes with frogs.  When you do this,
+you progress to the next level.
+
+-  Before starting this game, look at Chapter 6.4, the levels.  It contains
+   very valuable information to help you plan how you are going to move your
+   frog in the limited amount of time possible.
+
+-  Note the traffic flow of the two parts.  The cars travel on the roadway from
+   left to right while the logs, turtles, crocodiles, etc. travel on the water
+   lanes in the following direction:
+
+   -  Lanes #1, #3, and #5 go from right to left.
+
+   -  Lanes #2 and #4 go from left to right
+
+-  First, you must cross the highway.  You will become road kill if a vehicle
+   hits you or you hit a vehicle.  Try to find "lanes" in between the vehicles.
+   You must plan for gaps to form in the first three lanes so you don't become
+   trapped.  The vehicles in the first three lanes move slowly enough that you
+   can jump side to side with reasonable safety.
+
+-  Lane #4 is the dangerous lane.  Depending on how much time you are taking,
+   the cars may pick up speed even though it shows slow on the chart.  Keep
+   this in mind when you are moving your frog.
+
+-  At level 3, a snake will either be in the median or on the log in water lane
+   #3.  The snake is deadly to your frog and you cannot hop over it.
+
+-  The turtles are pretty easy to navigate over in water lanes #1 and #4.  Be
+   wary of the diving turtles and only use them as a quick bypass to a more
+   solid footing.  If your frog is on a diving turtle when it dives, your frog
+   will drown.
+
+-  Again, time your jumps to coincide with the logs and turtles to ensure you
+   will always have a solid footing to jump to.  As the levels progress, you
+   will have less things you can jump to.
+
+-  You can jump on the backs of the crocodiles and otters.  Just don't get near
+   their mouths or they are apt to turn your frog into a meal.
+
+-  You may see a purple frog hopping around on the log in water lane #2.  Just
+   cross over this frog to give it a piggyback ride to your home and get an
+   extra 200 points.
+
+-  Watch out for the snakes, they sometimes like to ride on the logs.  If you
+   see a snake on a log, jump back to solid footing.
+
+-  Your frog cannot "wrap-around" the screen so make sure you bail off before
+   that footing disappears off the edge of the screen or your frog will come
+   out the other side in a squished condition.
+
+-  By that same token, if you have the time and necessary footing, you can hold
+   out until the fly appears in your home before you settle your frog in.
+   That's another 200 points.
+
+-  Try to fill in the two end homes before going for the middle.  The hardest
+   home to get into is the left-hand one (home #1) since everything in lane #5
+   goes from right to left up here.  This may have to bounce back to lane #4 so
+   you can get a good shot at your home.
+
+-  Speaking of getting your frogs into their homes.  You must hit exact center
+   or your frog will die.  Also, keep in mind that crocodiles like to randomly
+   appear in your home.  Make sure that your home is clear before trying to
+   settle your frog down into it.
+
+-  Again, if you waste too much time, the things on the river will move quicker
+   so you will have to adjust your strategy accordingly.
+
++=======================+
+| 8. QUIRKS IN THE GAME |======================================================
++=======================+
+
+Like all video games, this game has strange things that can occur.  Some of
+these quirks can be detrimental to gameplay, but they are interesting nonethe-
+less.
+
+-  When the game is playing in demo mode, you can control the frog.  When the
+   frog reaches water lane #4, you can control the frog's movements until you
+   move either up or down.
+
+-  If you jump into your home at the same time the crocodile is leaving your
+   home, you will be credited with making to your home but you will still lose
+   a frog in the process.
+
+-  You can dangle your frog from the left side of the turtles but not the right
+   side.
+
+-  Your side to side movements in water lane #5 may be slow and sluggish.
+
+-  The purple frog will sometimes be invisible.  The only time you know its
+   there is when you jump on it.  It will then ride on your back to your home.
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 9.  CONCLUSION |=============================================================
++================+
+
+When Frogger came out, it was definitely something different and totally
+new.  Many hours were wasted (along with the quarters) to play Frogger.
+This was a game that required more in the skill department then in the luck.
+You actually had to do a little planning if you were going to survive into the
+later levels.  I remember seeing several Frogger machines side by side
+since they were so popular.  The thing was, they were all being constantly
+used.  Amazing what a game with simple controls and pretty awesome graphics
+(for back then) could do to separate one from their quarters.  Unfortunately,
+it is very rare to find this machine anywhere.  However, through the miracle of
+emulation, a whole new generation is realizing what we "old" folks enjoyed
+those many years ago.  In addition, www.shockwave.com is bringing many of these
+classic games back.  Check out their site to see what ones are there.  I hope
+this guide helps you in being able to get the most amount of gameplay for this
+game.  If you do have other ideas or thoughts, please e-mail me and share them.
+Who knows, maybe I'll start a Q&A Chapter in this guide if enough people ask
+the same questions.  Anyway, thank you again for reading this guide.

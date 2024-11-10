@@ -1,0 +1,364 @@
+Welcome to my FAQ for Dig Dug.  Since the game has you continuously playing
+through areas until all your men are killed, there is no walkthrough per se.
+Instead it will be broken up into the game itself and strategies for
+survival.  Input is appreciated along with constructive criticism.  If you wish
+to e-mail me thoughts on this FAQ, better ways of doing things, other
+strategies, etc., feel free.  Make sure you put Dig Dug as the subject.  If you
+don't, I'm liable to discard the e-mail as spam.
+
++==============+
+| 5.  OVERVIEW |===============================================================
++==============+
+
+Dig Dug was a game that used the Pac-Man formula in a different way.  By 1982,
+Namco was doing business with other American companies that were big in the
+arcade business.  Their partnership with Midway resulted in Pac-Man becoming
+not only a runaway hit in Japan, but also in the United States.  Their short
+partnership with Atari released such well known games such as Pole Position and
+Xevious.  Atari was already a household name when they partnered up with Namco.
+ Besides Pac-Man, Namco's partnership with Midway yielded Galaxian and Galaga.
+ After these partnerships were over, Namco had firmly established itself in the
+arcade industry that they were releasing titles under their own name.  To this
+day, Namco is either releasing new arcade games or it is releasing old classics
+for the different gaming systems.  Good luck as you tunnel through the ground
+for new riches.
+
+                               ***************
+******************************** U N I T  II **********************************
+                               ***************
+
++==============+ 
+| 6.  THE GAME |===============================================================
++==============+ 
+
+Dig Dug is a two-dimensional, action game.  You play as the character Dig Dug.
+Your mission is to dig tunnels throughout the ground you are in.  This, of
+course, isn't going to be without its hazards.  Two monsters are around to
+constantly harass Dig Dug as he makes his tunnels.  You have the round, orange
+monster with goggles on called a Pooka.  The other monster is a green, dragon-
+like monster that spits fire called the Fygar.  These two types of monsters
+will be constantly following Dig Dug as he burrows.  All is not lost for Dig
+Dug.  He has a couple of weapons at his disposal.  First, he has a pump which
+can cause the monsters to explode if he pumps them up too much.  His other
+weapon is within the ground itself.  This weapon is the rock which he can drop
+on his pursuers.  Along the way, Dig Dug can also collect bonus items to
+further increase the score.  With 256 levels to tackle, it's no wonder that
+mining can be a dangerous endeavor.
+
+ ____________________
+/ 6.1  The Controls /__________________________________________________________
+--------------------
+
+The controls on this game are very easy.  It may, though, take just a little
+bit of time to get used to them.
+
+-  A four-way joystick (up, down, left, and right)
+
+-  A pump button
+
+ __________________________
+/ 6.2  The Playing Fields /____________________________________________________
+--------------------------
+
+Dig Dug actually consists of one type of playing field.  I have included an
+example of what this field looks like (larger then regular size):
+
+    +-------------------------------------------------------------------+
+    |                                                                   |
+    |                                                                   |
+    |-------------------------------+   +-------------------------------|
+    |                               |   |                               |
+    |                               |   |                               |
+    |                               |   |         /-_--------\          |
+    |       /-- <-ROCK  __         LAYER 1       | ( )<-POOKA |         |
+    |     /    \       /  \         |   |         \----------/          |
+    |     \---/        |  |         |   |                               |
+    |                  |  |         |   |               __              |
+    |                  |  |         |   |              /  \             |
+    |------------------|  |---------|   |--------------|  |-------------|
+    |                  |  |         |   |              |  |             |
+    |                  \__/         |   |              |  |             |
+    |                              LAYER 2             |  |             |
+    |                               |   |              |  |             |
+    |                          +----+   +----+         \__/             |
+    |                      DIG DUG->( )_\    |                          |
+    |                          |    / \ /    |                          |
+    |--------------------------+----AREA WHERE--------------------------|
+    |                             PRIZE APPEARS                         |
+    |                                                                   |
+    |            /-----__-----\                                         |
+    |           |     /  \<-FYGAR  LAYER 3                              |
+    |           | ___/_ /     |                                         |
+    |            \-----------/                                          |
+    |                                                                   |
+    |-------------------------------------------------------------------|
+    |                                                                   |
+    |                                                                   |
+    |                              LAYER 4                              |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |                                                                   |
+    |___________________________________________________________________|
+    |                                                                   |
+    | DIG DUG'S LEFT                                        ROUND #     |
+    +-------------------------------------------------------------------+
+
+You control Dig Dug on this screen.
+
+ _______________
+/ 6.3  Scoring /_______________________________________________________________
+---------------
+
+Scoring in this game is relatively complicated due the dirt layer a monster is
+at and also how you kill said monster.  In addition, you even get points for
+"eating" dirt.
+
+                     Over-inflating (bursting) monsters:
+
+                        +-------+---------+--------+
+                        | LAYER | MONSTER | POINTS |
+                        +-------+---------+--------+
+                        +-------+---------+--------+
+                        |   1   |  POOKA  |   200  |
+                        +-------+---------+--------+
+                        |   2   |  POOKA  |   300  |
+                        +-------+---------+--------+
+                        |   3   |  POOKA  |   400  |
+                        +-------+---------+--------+
+                        |   4   |  POOKA  |   500  |
+                        +-------+---------+--------+
+                        |   1   |  FYGAR  |   400  |
+                        +-------+---------+--------+
+                        |   2   |  FYGAR  |   600  |
+                        +-------+---------+--------+
+                        |   3   |  FYGAR  |   800  |
+                        +-------+---------+--------+
+                        |   4   |  FYGAR  | 1,000  |
+                        +-------+---------+--------+
+
+NOTE:  If you over-inflate a Fygar vertically, you only will get 1/2 the listed
+       points (same points as a Pooka on that layer).  This is due to the fact
+       you aren't risking your life dealing with Fygar's flame breath.
+
+                         Dropping rocks on monsters:
+
+                            +---------+--------+
+                            | CRUSHED | POINTS |
+                            +---------+--------+
+                            +---------+--------+
+                            |    1    |  1,000 |
+                            +---------+--------+
+                            |    2    |  2,500 |
+                            +---------+--------+
+                            |    3    |  4,000 |
+                            +---------+--------+
+                            |    4    |  6,000 |
+                            +---------+--------+
+                            |    5    |  8,000 |
+                            +---------+--------+
+                            |    6    | 10,000 |
+                            +---------+--------+
+                            |    7    | 12,000 |
+                            +---------+--------+
+                            |    8    | 15,000 |
+                            +---------+--------+
+
+                  You get points for collecting the prizes:
+
+                     +---------+-------------+--------+
+                     | ROUND   | PRIZE       | POINTS |
+                     +---------+-------------+--------+
+                     +---------+-------------+--------+
+                     |    1    | CARROT      |    400 |
+                     +---------+-------------+--------+
+                     |    2    | RUTABAGA    |    600 |
+                     +---------+-------------+--------+
+                     |    3    | MUSHROOM    |    800 |
+                     +---------+-------------+--------+
+                     |  4 &  5 | CUCUMBER    |  1,000 |
+                     +---------+-------------+--------+
+                     |  6 &  7 | EGGPLANT    |  2,000 |
+                     +---------+-------------+--------+
+                     |  8 &  9 | BELL PEPPER |  3,000 |
+                     +---------+-------------+--------+
+                     | 10 & 11 | TOMATO      |  4,000 |
+                     +---------+-------------+--------+
+                     | 12 & 13 | ONION       |  5,000 |
+                     +---------+-------------+--------+
+                     | 14 & 15 | WATERMELON  |  6,000 |
+                     +---------+-------------+--------+
+                     | 16 & 17 | GALAXIAN    |  7,000 |
+                     +---------+-------------+--------+
+                     | 18 & UP | PINEAPPLE   |  8,000 |
+                     +---------+-------------+--------+
+
+When you are digging a new tunnel, you get 10 points per 5/8 inch dug.
+
+You start with 1, 2, 3, or 5 lives.  Depending on the machine set up, you get
+a free man for the following scores:
+
+10,000 points
+10,000 and 40,000 points
+20,000 and 60,000 points
+20,000 and 70,000 points
+10,000, 40,000, and every 40,000 points
+10,000, 50,000, and every 50,000 points
+20,000, 60,000, and every 60,000 points
+20,000, 70,000, and every 70,000 points
+
+NOTE:  After 900,000 points, the games quits awarding free men.
+
+You also may continue, for another quarter, from your present round once your
+last man is killed.
+
+                               ****************
+******************************** U N I T  III *********************************
+                               ****************
+
++======================+
+| 7.  PLAYING THE GAME |=======================================================
++======================+
+
+When you start the game, Dig Dug will dig a downward vertical shaft into a
+chamber.  The floor of this chamber is the top of the third layer.  It is your
+job to dig tunnels and keep the monsters busy.  This won't be an easy task
+since the monsters will attempt to surround Dig Dug and permanently end his
+mining career.
+
+-  You will have a two second delay before the round starts.  It shows Dig Dug
+   digging his vertical tunnel down to his starting area.  Take this time to
+   see where all the monsters are and figure out the best course of action to
+   take them out.
+
+-  Knowing the behavior of the monsters is a crucial element of this game.
+   Pookas travel a bit faster then Dig Dug and tend to run him down.  Fygars
+   don't have the speed but they make up for it with their fiery belch.
+
+-  Dig Dug travels slower when he is busy carving tunnels
+
+-  Know the rules of dropping rocks:
+
+   -  Rocks will wobble for about a second before they drop.
+
+   -  Rocks drop immediately when you cut a horizontal tunnel under them.
+
+   -  In vertical tunnels, the rock will stay in place as long as Dig Dug is
+      facing it and moving.
+
+   -  When you drop two rocks, the prize will appear.
+
+-  Don't waste your rocks on only one monster.  Try to get as many monsters
+   crushed as possible.  The best way to accomplish this is:
+
+   -  Try to dig long, vertical tunnels under the rocks.  Don't dig all the way
+      to the rock or you will waste it.
+
+   -  Try to get the monsters to follow you.  Sort of a "follow the leader"
+      type thing up that vertical tunnel.  This will be especially important in
+      the later rounds.
+
+   -  If the monsters are spread out a little, do a couple of pumps on the
+      monster that is close.  This will only stun it and allow the others to
+      catch up.
+
+   -  Right before they get Dig Dug, dig the rest of the way then head off left
+      or right.  The long, vertical shaft will prevent their escape and get you
+      big points.
+
+-  After round 12, the rounds repeat in a series of four (means 6 cycles of
+   repeating rounds).  After round 36, the monsters move at twice the speed.
+   In addition, the monsters get "smarter" by avoiding potential traps you set.
+   This is why digging long vertical tunnels under rocks is a must.
+
+-  Avoid killing the monsters by bursting them.  If you don't have a choice,
+   try to do in the lower layers since you get more points that way.
+
+-  The pump is better utilized as a delay mechanism.  Inflating a monster with
+   two pumps will immobilize it for about two seconds.  With two monsters, you
+   can pump one up, move back a little and pump the other one up.
+
+-  Monsters can be released from their pens in one of two ways:
+
+   -  You open up their pen by digging it open.
+
+   -  They turn into "ghosts".  While they are ghosts, all you will see are
+      their eyes and possibly mouths.  They will rematerialize as soon as they
+      get into a tunnel.
+
+-  Watch out for the fiery breath of the Fygar.  They not only can let loose
+   down a horizontal tunnel, they also can send their fire through thin layers
+   of dirt.  The best defense when caught in a horizontal tunnel with a Fygar
+   is to immediately go up or down to avoid their breath.
+
+-  The Pookas have a tendency to try to surround Dig Dug.  Usually they will
+   try to trap him from the front and behind.  Watch the Pooka "ghosts" to make
+   sure that they are not heading toward an area that you are currently
+   tunneling in.
+
+-  It is possible to find patterns for the different levels, but it also is
+   difficult since there isn't a well-defined maze to work with (like in Pac-
+   Man).
+
+-  When there is one monster left, it will attempt to escape rather then
+   continue to pursue Dig Dug.  You can chase him to get the points or let him
+   go.  Regardless, the game will advance to the next round.
+
+-  In the later rounds, it is much more profitable to collect the fruit then
+   try to drop rocks on the monsters since they move so quickly.
+
++=============+
+| 8.  SECRETS |================================================================
++=============+
+
+Dig Dug only has one secret.  It deals more with timing then anything else.  I
+call this the "eat dirt" secret.
+
+-  You should try this before round 36 since everything speeds up.
+
+-  Get the game down to two Pookas.  If you only leave one, it will escape thus
+   ending the round.
+
+-  This works best in horizontal tunnels under the rocks.
+
+-  Get a Pooka to follow you, inflate as necessary to delay him a little.
+
+-  Right when you are next to the rock, inflate the Pooka once to just delay
+   him.  When he moves at your character again, move under the rock.
+
+-  Quickly turn around and start pumping the Pooka up.  Using the delay of the
+   rock dropping, you should be able to cause the Pooka to burst at the same
+   time the rock drops on him.
+
+-  If you are successful, then the other Pooka will disappear and you can amuse
+   yourself digging out tunnels all day long in the dirt.  To return the game
+   back to normal, drop another rock and you will go into the next round.
+
+
+                               ****************
+********************************  U N I T  IV *********************************
+                               ****************
+
++================+
+| 9.  CONCLUSION |=============================================================
++================+
+
+Dig Dug was an oddball arcade game amongst all the space shooters.  Granted,
+Pac-Man had only come out a couple of years before and it was a big hit.  Of
+course, after a while, though, the Pac-Man craze died down.  When I saw this
+game in the arcade, I figured I would give a quick try, never anticipating that
+it would become very addictive.  I mean, c'mon, it only had two different kinds
+of enemies and there weren't that many of them.  Little did I know that this
+quick try developed quickly into a great fondness for this game.  Although we
+tried to devise some kind of patterns, these usually required precision timing
+which was something one didn't always develop on this game.  The biggest
+challenge was getting the monsters to work with, instead of, against you.  This
+game was definitely in a class by itself.  Unfortunately, it is very rare to
+find this machine anywhere.  However, through the miracle of emulation, a whole
+new generation is realizing what we "old" folks enjoyed those many years ago.
+In addition, www.shockwave.com is bringing many of these classic games back.
+Check out their site to see what ones are there.  I hope this guide helps you
+in being able to get the most amount of gameplay for this game.  If you do have
+other ideas or thoughts, please e-mail me and share them.  Who knows, maybe
+I'll start a Q&A Chapter in this guide if enough people ask the same questions.
+Anyway, thank you again for reading this guide.

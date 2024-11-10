@@ -1,0 +1,4148 @@
+Ahh, Bouderdash. What a great game. This was one of the games I grew up
+with. I think I was playing this game as young as 7. I beat the first quest
+and stopped playing for years and years, only to realize at the age of about
+15 that there was more to the game. But anyway, It's a truly unique and
+awesome game, and, in my book, it classifies as one of the best games ever.
+
+I was browsing through the GameFAQs request list and spotted this game.
+No doubt somebody has been waiting for very long for a guide for this game,
+with nothing to go on but the map screenshots. Well, after many years, 
+I decided to fire up my NES and write up a decent guide for the game.
+
+Note that this game is very difficult to write a guide for, simply because
+of how unique it is. What do you want me to do, give you the exact move
+sequences to beat a level? I'm sorry, but I cannot do that. But I can
+give you the basic strategies and tips for beating each level, and that
+should help greatly. But understand, you still need some common sense.
+
+Onward to my 2nd FAQ and my first General Walkthrough! Enjoy the game, 
+and have fun!
+
+=============================================================================
+  ______________________
+_/ 2. Rules of the Game \____________________________________________________
+
+I don't have the Boulderdash manual with me because I lost it years and years
+ago. But the storyline goes something like this: Your name is Rockford. Your
+father, Stoneford, gave you a treasure map to caves full of diamonds. So
+go get rich!
+
+...Unfortunately, that's about it when it comes to the storyline. But the
+gameplay needs no storyline.
+
+This game is made of 4 quests. Each quest has 6 worlds. Each world has 4
+levels. That makes a total of 24 worlds and 96 levels. (wow!)
+
+Each world takes place on a continent on the world map. You can choose to
+do the 4 levels in a world in whatever order you want. If you beat a level,
+the diamond on the world map screen will disappear and you won't be able
+to play that level anymore. If you beat all 4 levels, you move on to the
+next world. If you lose all of your lives, all of the diamonds will re-
+appear and you will need to replay any levels you might have beaten. You will
+also be given a 6-digit password which you may use to continue from that 
+world later if you choose to quit.
+
+Now, How do you play the levels?
+
+You are the little miner kid. You can choose the color of your character in
+the opening screen by hitting the arrow keys. The color of your suit is
+just for looks, it doesn't affect the way your character performs. I like
+Red best, although sometimes I'll choose white, black, or blue. The default
+color is orange, and I really don't like orange so I change it all the time.
+
+Anyway. The levels. You are the little miner kid dressed in whatever color
+you chose. You can move using the control pad. You can push stuff using
+A, and you can commit suicide by holding down A+B. (Suicide helps when you
+get trapped and you don't want to wait for the timer to run out.) Oh, and
+you can pause with Start. Those are the controls.
+
+Not very many controls eh? Well, let me tell you how the levels work.
+
+In each level, there are 6 types of tiles.
+1. Empty Space
+2. Wall
+3. Dirt
+4. Rock
+5. Diamond
+6. Bug
+
+For this guide, I will use symbols to draw pictures of certain things.
+
+O Rock
+= Wall
+< Diamond
+# Dirt
+@ Bug
+Y You
+
+1. Empty space: Duh. Pretty self-explanatory, right? Things can pass through
+an empty space freely. 
+
+2. Wall: Also self-explanatory. However, many walls in this game can be
+destroyed. More on this later.
+
+3. Dirt: A dirt square is an impenetrable square which nothing can pass
+through... nothing except for you. All you have to do is move into a dirt
+square and it will turn into an empty space forever. But nothing else
+except for amebas and explosions have the power to get rid of dirt squares.
+They look different in each world.
+
+4. Rock: These are falling objects. If there is nothing below them, they will
+fall. They will come to a stop if they hit a wall, dirt, or a diamond.
+They will kill any living thing as they fall. That means you! Don't get
+crushed by falling rocks. They also look different in each world.
+
+There are some more strange properties of these things. Rocks will fall
+until they land on something. But suppose a rock landed on top of another
+rock. What would happen? 
+ 
+
+ O   ROCK 2
+ O   ROCK 1
+==== FLOOR
+
+The stack has become top-heavy and will fall. The
+top rock will choose to either topple left or right. So you end up with:
+
+OO                OO
+====    -OR-     ==== 
+
+Please be careful of this. The top rock can fall off and crush you when
+it topples. Always be on the lookout for these stack-up situations.
+Mostly, you don't really need to worry about your player getting
+crushed by toppling rocks unless there are 3 or more rocks
+on the pile. For example:
+ 
+ O
+#OY
+===     <-- This stack will not fall onto you.
+
+ O
+#O
+#OY     
+===     <-- This stack will.
+
+Note: A rock on the edge of a wall will fall off the wall.
+
+    O                      /\
+    ========   ---->       |========
+                           |          The rock falls.
+                           O
+
+However, a rock on the edge of a dirt will not fall.
+
+    O        <---- Rock stays put.
+    #####
+
+You can push rocks around. If you stand to the right or the left
+of a rock and you hold down A and walk in the direction of a rock, and there
+is room on the other side of the rock, the rock will move over 1 space.
+
+      OY <---- push Left + A and this will happen:   O Y
+     ###                                             ###
+
+If you do NOT Hold A down, you will still push the rock, but you will walk
+into the space the rock moved from. So:
+
+      OY <---- push Left and this will happen:       OY
+     ###                                             ###
+
+Pushing rocks is useful for getting them out of your way, or crushing bugs.
+
+
+That's about it for Rocks right now. What are rocks useful for, you ask?
+Well, they are barriers... and they are also weapons. I'll get to this more
+in the Bug description.
+
+5. Diamond: Diamonds have the EXACT SAME PROPERTIES as rocks with 1
+exception: you can pick them up. So, Diamonds will fall like rocks, topple
+like rocks, and even kill things (like YOU) like rocks, but you can
+pick them up. If you walk into one, the diamond is yours and you walk into
+the space where the diamond was. If you hold down A and walk into a diamond
+(similar to pushing rocks), you will pick up the diamond without moving.
+I refer to this trick as A-grabbing.
+
+6. Bugs. Ugh. Little meanies. Bugs are dangerous. They will cling to walls,
+diamonds, dirt, and rocks, and move around them in a clockwise or
+counterclockwise direction (depending on the bug). If you touch a bug, you
+die.
+
+Stay far away from bugs. Even if you're right next to a bug, you'll still
+die.
+
+Sometimes bugs will glitch and forget what wall they're following. When
+this happens, they will simply spin around in a loop of 4 squares. You can
+break the loop and get them back on track by moving something, like a rock,
+into one of the 4 squares. More on this later.
+
+But wait. Bugs aren't all bad. There are 2 types of bugs: Normal and Diamond
+bugs.
+
+If you manage to drop a rock onto a diamond bug, he'll die PLUS he'll sprout
+9 diamonds which you are free to pick up! However, if you manage to drop
+a rock onto a normal bug, there will be a 9-square explosion and you may
+get bonus points (the higher level, the more points.)
+
+The thing with these bugs is: If any wall gets trapped within the 9-square
+explosion (diamonds or no diamonds), it will disappear! 
+(Except if it's the EXIT square, or if it's a level boundary wall) Most of 
+the levels in this game require you to knock out walls like this in order 
+to get to the exit or to pick up extra diamonds. Also, many levels require
+you to obtain diamonds by killing diamond bugs, so get used to dropping
+rocks on these things!
+
+Note that dirt, diamonds, other bugs, and other rocks will disappear when
+caught in the explosion. Be careful that you don't destroy something you
+need.
+
+
+
+Now, then, how do you beat a level? Very simply: You are presented with a
+level, a time limit, and a diamond amount. Your goal is to pick up the
+required number of diamonds, then enter the EXIT square, all without getting
+killed or trapped, or letting the time run out. IF you do this all correctly,
+the level will be clear.
+
+The exit square is a special square hidden somewhere in the level. It will
+look like an animated box once you have fulfilled your diamond quota. Just
+step into it to beat the level. You will be given bonus points depending on
+how much time you had left, and the word GOOD, NICE, or LUCKY will appear
+(also depending on how much time you had left.)
+
+If you get all the diamonds you need and the exit appears, don't hesitate
+to get more diamonds or kill more bugs before you exit! Doing so will give
+you more points, and more points means EXTRA LIVES!!! Whenever you see the
+word 1UP fall out of your character, jump for joy! Extra lives come when your
+score hits multiples of 2000, I believe. But the maximum amount
+of lives you can have is 9. Diamonds are worth different amounts of points
+on each level, and extra diamonds past your quota are worth even more!
+
+Now there are special objects in this game such as Amebas and Magic walls,
+but I'll get to them when the time comes. 
+
+That's how you play. Here's the step-by-step guide for each level.
+============================================================================= 
+
+  _____________
+_/ 3. Quest 1  \_____________________________________________________________
+
+
+                        ===||BOULDER WORLD||===
+                         ==||=============||== 
+                          =||=====|||=====||=
+
+Welcome to Boulder world. This is the first world of the game, meant to show
+you how to play. Unfortunately, you have to practice some tough tricks here.
+But then again, the entire game is filled with tough tricks. Be warned, you
+will need to run through gauntlets of potential avalanches and even kill
+some diamond enemies. So go ahead and relax and begin this awesome game!
+Here's an overview of what will be expected of you in this world:
+
+Level 1: Collecting Diamonds and dodging rocks
+Level 2: Pushing rocks
+Level 3: Collecting more diamonds and dodging more rocks
+Level 4: Killing bugs for diamonds
+
+PASSWORD: Any invalid password
+
+
++++World 1-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  10|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Basic level layout:
+
+_______________________
+| S                   |
+|                     |
+|--------------       |
+|                     |
+|                     |
+|    -----------------|
+|                     |
+|_____________________E
+
+
+
+This is just about the only self-explanatory level in the entire game.
+When you start out, go up and run to the right and grab the diamond. If
+you're scared of getting killed by the rocks, go slowly and think to yourself
+"will this next move get me crushed?" 
+
+This level completed on a demo, so feel free to watch the demo to see
+several of the basic tricks used here. When you come to the first major
+blockage as you're going right, use the trick that the demo uses. Go under
+the top rock, then go right. Then go up and left. The top of the pile will
+collapse and the diamond is yours.
+
+1.      2.      3.      4.      5.
+O#O#    O#O#     #O#     YO#    Y  #
+##O<    Y#O<    OYO<    O O<    OOO<
+#O#O    #O#O    #O#O    #O#O    #O#O
+##O#    ##O#    ##O#    ##O#    ##O#
+
+
+Continue to go through the level, collecting as many diamonds as you want.
+You have enough time. Be careful so you don't get crushed by the rocks if
+you're still getting used to gameplay. The important thing to remember
+for now, if you're worried about getting crushed, is not to run down
+if you're standing right under a rock.
+
+
+After you've gotten your diamonds, proceed to the exit at your right.
+
+
++++World 1-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  8 |
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+Basic level layout:
+
+______________________
+|   |   |    |   |   |
+|                    |
+|___|___|_  _|___|___|
+|   |   |    |   |   |
+|                    |
+|___|___|_  _|___|___|
+| @ |   |    |   |   |
+|                    |
+|___|___|_SE_|___|___|
+
+This level is shaped like a grid. The exit is right next to the beginning,
+but of course you need 8 diamonds to open it.
+
+We're getting a little more complex here with the rocks, and they even threw
+in a bug in the bottom left cell just for fun. You can ignore it if you want,
+but once you become more experienced then feel free to let it out and smash
+it with a rock.
+
+When the level begins, they'll be some falling rocks. Stay still until they
+all settle. Grab the two diamonds hanging right above your head.
+Then, go into the cells on your left for 3 free diamonds. Note
+that, in order to get into the bottom left cell (the one with the bug),
+you need to push the rock out of the way. Simply walk into it, or press
+A+Left when you're next to it. Push the rock into the hole and collect the
+two diamonds. 
+
+Now go across the hall and grab the diamond in the cell to the right of
+the starting point. Please do not go into the bottom right cell though,
+because if you're inexperienced then you might get trapped. That is, if you
+go over the 2 rocks at the entrance and then down into the cell, the top
+rock will fall and block your exit. Besides, there is nothing in there.
+
+Now we only need 2 more. Head up to the second row of cells, and enter the
+first one on your right. A free diamond. The last diamonds are in the upper
+cells, which you will need to push rocks out of the way to get to. Simply
+push the rock 1 space to the right if you want to enter the top right
+cells. There are 2 diamonds up there. If you want to get into the top
+left cells, however, it's a bit more complicated. The rocks that block the
+entrance look like this:
+
+ =  #
+O OO 
+O=#O#
+O=#O#
+=====
+
+What you want to do is remove the 2 pieces of dirt at the bottom of this
+formation (Marked as Xs), like this:
+
+
+ =  #
+O OO 
+O=#OX
+O=#OX
+=====
+
+Be careful that you don't start at the top and go down, because the top
+rock will topple and you'll get crushed. If you choose to do it this way,
+simply move to the right quickly after doing so. I suggest starting at
+the bottom and going up.
+
+Two of the rocks will fall down, and you'll be left with a formation like
+this:
+
+ =  #
+O O 
+O=#
+O=#O
+=====
+
+Now You will need to remove the piece of dirt right under the boulder,
+then step out of the way so it falls. Then the formation will look like
+this:
+
+ =  #
+O          <---Now simply push that rock to the left and you're in!
+O=O            There are 2 diamonds in the top left cells.
+O=#O
+=====
+
+Note that as we progress in the game, I'll expect you to figure out small
+little things like that on your own. This game is all about looking carefully
+at a situation and judging how to get by, what will kill you or trap you
+and what will let you go free.
+
+After you've gotten all the diamonds you want, go back to the bottom and
+exit. Be warned that there is a boulder right above the exit and you might
+get crushed if you're careless. If you want to avoid the risk altogether,
+go down along the left side and step into the exit. If you're daring, go
+underneath the boulder and run down :)
+
+
+
++++World 1-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  15|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+Basic level layout:
+(it's kinda complex, so it's a very, very rough sketch.)
+______________________
+|                    |
+|  S                 |
+|   \     \    /  |  |
+|    \     \  /    | |
+|     \    \  |   || |
+|      \   \  |  |  ||
+|           \ |  |  ||
+|                    |
+|____________________E
+ 
+
+Ok, things are starting to get really complex now. I feel bad making
+a basic level layout, when it's more just like a big random room. But it'll
+be up to you to know when you're going to get hit by a boulder now, to know
+what you can and can't do.
+
+Start off by grabbing the diamond on your left. Do not go straight left then
+down, or risk being crushed. Instead go down, then left, then down again to
+collect the diamond (unless you're fast...)
+
+Now go diagonally downward to the right and you'll get 5 more diamonds.
+When you hit the bottom, you'll see a passageway going back up diagonally
+to the left that looks really dangerous. Go through it. Don't worry, if
+you take careful steps and take your time you'll do fine. Collect any of the
+4 diamonds you can, then go up and then right. There is another diamond
+on your right along with what looks like an upside-down copy of the formation
+you just ran through. Grab the diamond. 
+
+You have 2 options from here. 
+You can go down then right, or right then down. Right then down is a bit more
+dangerous. Both ways will get you the rest of the diamonds. If you choose
+to go down then right, and you choose to get the 2 diamonds underground on
+the left, make sure you push all the threatening rocks out of the way
+so you don't get trapped in there. If you go right then down, you'll have
+to run down while rocks avalanche down on you. Of course, when you do the
+other quests, I hope you'll be experienced enough to do both. In quest 4,
+you will need to collect all of the diamonds in this level.
+
+The exit is on the bottom right corner of the map.
+
+
+
++++World 1-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  18|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+Basic level layout:
+______________________
+|                    |
+| S                  |
+|                    |
+|                    |
+|    @   @   @   @   |
+|                    |
+|                    |
+|                    |
+|____________________E
+
+
+You might be kinda shocked when you first see this map. No Diamonds!
+
+Well guess what. See those butterflies? They will give you the diamonds
+you need. If you drop a rock on one, it will give you 9 diamonds. That
+means you need to crush 2 of them. That's not hard, though, once I show you
+how to do it.
+
+
+All you need to do is push/guide a rock into this position:
+
+
+   O
+ ####
+ #@ #
+ #  #
+ ####
+
+When you get a rock there, above the right side of the butterfly cage,
+Go into position Y as shown in the next graph.
+
+   O
+ ###Y
+ #@ #
+ #  #
+ ####
+
+Wait until the butterfly is at position @, then dash to the left across the
+3 dirt squares. The rock will fall and hit the butterfly, and you'll be
+rewarded with 9 diamonds. 
+
+Do this with 1 of the other ones, or if you want, all of them. 
+
+Don't worry
+if you get killed or if you've messed up any of these levels in world 1,
+because you're free to practice as much as you want. That's why it's a game!
+
+
+
+                        ===||==ICE=WORLD==||===
+                         ==||=============||== 
+                          =||=====|||=====||=
+
+Now you've traveled overseas to Asia. Waiting for you there is an icy cave
+with new and more tricky puzzles. Here's new stuff you'll be learning:
+
+Level 1: Dodging and tricking bugs
+Level 2: Destroying bugs
+Level 3: Working with Amebas
+Level 4: Working with a Magic Wall
+
+
+PASSWORD: 635870
+
++++World 2-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:   4|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+Basic level layout:
+______________________
+|S                   |
+|                    |
+|    @   @   @   @   |
+|                    |
+|                    |
+|    @   @   @   @   |
+|                    |
+|                    |
+|____________________E
+
+Wow, you might think as the camera pans across this level. How am I going
+to get those diamonds? Very carefully? Actually, no. I'll show you how to
+get the diamonds and keep the bugs distracted very easily.
+
+Basically there are 8 bug cages as shown in the map, each with a diamond
+in it. They all look like this:
+
+#####
+#@  #
+#   #
+# < #
+#####
+
+The rest of the map is solid dirt.
+
+Now to get those diamonds. start out by running the outline of a 7x7 square
+around the bottom left cage. If you didn't catch what I mean, simply 
+"draw" a box around the first bug cage so that the bug is still imprisoned
+ by a 5x5 outline of a box of dirt. Next, go to position Y from underneath.
+
+#####
+#   #
+#   #
+#@< #
+##Y##
+
+Now hold down A and wait for the bug to go to position @. When it does so,
+Hit Up on your control pad to A-grab the diamond, then quickly move down
+one square and to the right 5 squares. The bug will still circle around
+his cage and he won't bother you. Repeat the process 3 more times with the
+remaining cages, then head to the exit at the bottom right.
+
+Note that when you get to quests 2, 3, and 4, you need to collect more
+than 4 diamonds and this method won't work. You need to use "Method X" for
+the upper levels, which is a bit more complex so I'll cover it when we 
+get there.
+
+
++++World 2-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   4|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+Basic level layout:
+______________________
+|  @              @  |
+|_____          _____|
+|  @              @  |
+|_____          _____|
+|  @              @  |
+|_____          _____|
+|  @              @  |
+|_____          _____|
+|                    |
+|S___________________E
+
+Although the idea in this level may look similar to 2-1, this time
+you actually have to crush the bugs you let out of the cages. Fortunately
+for you, there are a ton of rocks everywhere (they look like Mammoths in
+this world.) All you need to do to beat this level is to go up, and one by
+one let the bugs out of the cages, kill them, and take their diamonds.
+
+
+First, you'll want to go to the entrance to the first penguin cage. There is
+a rock right below the entrance to it, let it drop to get it out of your
+way. Then you'll need to stand right below the entrance, so that if you go
+up one square you'd let the bug out. When the bug is on the bottom of the
+cage going left, A-grab the dirt right above you (to let the bug free) then
+quickly go one square down, two squares right, then two squares up. You'll
+be standing right below a rock. When the bug is about to turn the last corner
+to come get you, dash straight to the left and the rocks should fall on 
+the bug and kill it. Grab the diamond and go to the next cage.
+
+You can do something similar for the next cage, as there is a rock located
+at the same convenient position. Simply wait till the bug passes you, A-grab
+the cage to let it lose, and run 2 squares to the right and 2 squares up.
+When the bug comes, run to the left to drop the rock and squash the bug.
+Grab the diamond and go to cage 3.
+
+Look at cage 3. Hey! You can do the SAME THING! See those two rocks stacked
+on top of each other? You can use these in the same fashion as the other
+two times. Crush the bug and go to cage 4.
+
+For cage 4, the nearest rock is a little farther away, but it can still be
+used in the same manner. Once you A-grab the cage open, run to the right 4
+squares and up 2 squares. Crush the bug when it comes, then grab the diamond
+and carefully make your way to the exit at the bottom right corner of the
+map.
+
+
+NOTE: Having trouble squashing the bugs?  You might not be digging your
+paths correctly. Make sure you build your paths something like this:
+
+####O##
+####Y##
+#### ##
+#### ##
+#### ##
+@    ##
+#######
+
+That way, the bug only has one way to go: into your trap. The following show
+INCORRECT ways to set up a bug trap, and will cause the bug to run into
+you before you get a chance to crush it.
+
+
+####O##
+#   Y##
+# #####
+# #####
+# #####
+@ #####
+#######
+
+####O##
+####Y##
+###  ##
+##  ###
+#  ####
+@ #####
+#######
+
+When you crush bugs, always think about where the bug will go and when you'll
+be able to drop the rock and crush it. Use dirt to help force the bug into
+a specific path so you can crush it.
+
+
++++World 2-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  10|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+Basic level layout:
+______________________
+|______   S   _______|
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|__________@_________|
+
+A very unique character makes it's first appearance in this level: The
+Ameba. Shown on the Level Layout as a @, the first ameba will quickly
+multiply into many amebas.
+
+A new ameba will appear above, below, or to the side of an existing ameba
+every few seconds. Where the new one appears is random. Amebas will eat
+dirt as well as empty space as they appear. They cannot, however, eat rocks
+or diamonds and they cannot multiply diagonally.
+
+There is a little secret with these things, though. If a set of amebas has no
+where else to expand, they will turn into diamonds. ALL of them.
+
+If you explore this level you will find 6 diamonds laying around, but that’s
+not enough to fill your quota. So, you will need to trap the amebas.
+
+Start out the level by running to the bottom and running between the amebas
+and the first set of rocks. Then, paying close attention to the laws of
+toppling, drop more onto them until they are trapped and will eventually take
+up their entire space. It’s not that hard actually. You can even use YOURSELF
+in place of the final rock. In fact, I suggest you do this because it will
+be easier to collect the diamonds once they appear. If not, you might try
+finding some rocks to topple and open the way to the diamonds, or if there
+are no rocks that will topple you can try to destroy some of the rocks using
+the bugs that are scattered around this level. However, it’s much easier to 
+do it the first way.
+
+The amebas take quite some time to fill their space completely. (UGH! I HATE
+LEVEL 6-3!!!!!) Fortunately for you, there isn’t very much room for them to
+expand in this particular situation and you can just wait it out. The last
+ameba seems to take the longest to appear.
+
+When the amebas turn into diamonds, carefully collect as many as you want.
+It’s really easy to get yourself trapped or to get crushed as you greedily
+collect your reward here, so be extra careful. When you’re done, the exit
+appears near the top right corner of the screen below the row of pillars.
+If you could only collect 9 diamonds, you can get the rest
+using the 6 free ones that are scattered around.
+
+
+
++++World 2-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  10|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Basic level layout:
+______________________
+|         S     _____|
+|E_____              |
+|                    |
+|                    |
+|______              |
+|               _____|
+|______              |
+|      ___!____      |
+|                    |
+|__________@_________|
+
+Yet another new item appears in this level: The Magic Wall.
+
+If you walk around this level you should notice that there are only 5 of the
+ten diamonds available to pick up. That means you need 5 more diamonds from
+somewhere else. Trust me, you will get much more than 5 from the magic wall.
+
+
+The magic wall, marked on the layout with an exclamation point, will 
+transform any rock that falls onto it into a diamond. It activates with the 
+first rock that falls onto it and it deactivates a while later. HOWEVER,
+there must be room underneath the wall for the diamonds to appear. You must
+clear out the dirt and rocks underneath the wall before you can work with
+it. You can activate it before the bottom is clear, but then you won't get
+any diamonds.
+
+Start the level by going straight down. Notice the trapped bug on your left.
+Let’s get some free bonus points by crushing it. Simply use A to push the
+rock onto the bug. Make sure you use A, or you will be caught in the
+explosion.
+
+Now continue downward and go underneath the magic wall. Get rid of all the
+dirt you can, and make all the rocks fall. Once you have cleared out all the
+space you can, push the two rocks off of the left side of the wall. (Please 
+leave the small pile of rocks to the right of the magic wall in place, it 
+actually helps rocks to topple into the wall.) When you go to
+push the second rock, a rock behind you will topple and the wall will be
+activated. As soon as you finish pushing that rock off, then start dropping
+rocks onto the wall to your heart’s content. There are a lot of rocks to
+drop, and there are even more to get if you want to do some pushing.
+
+Many more than 5, obviously. Many more than 10, if you don’t want to collect
+those other ones.
+
+Once you have all the diamonds you want, go to the very top of the level and
+then left, and the exit should be there. You can get to the exit by making 
+the rocks in your way topple. 
+
+Note that you can get that last diamond safely if you really want to. Just go
+down, right, down(to get the diamond) then quickly left into the exit.
+
+
+                        ===||==SAND WORLD=||===
+                         ==||=============||== 
+                          =||=====|||=====||=
+
+Now we’re really starting to get complicated. Sand world is full of tricks
+you already know, but are probably still afraid of. Take a look at what 
+you’ll need to do to complete it:
+
+Level 1: Fighting Chaos (I’m almost serious!)
+Level 2: Trapping bugs in a loop
+Level 3: Very careful Maneuvering
+Level 4: Crushing a bug to destroy a wall.
+
+PASSWORD: 840137
+
+
++++World 3-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  60|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Basic level layout:
+__________________________
+|                        |
+|                        |
+|    _____      _____    |
+|   |     |    |     |   |
+|   | SE  |    |     |   |
+|   |     |    |     |   |
+|   |     |____|     |   |
+|   |                |   |
+|   |     |    |     |   |
+|___|_____|____|_____|___|
+
+As you can see, this level is shaped like a giant letter M. The M is full
+of a seemingly random and endless sea of skull rocks, diamonds, and dirt. 
+My little sister calls this level the "Avalanche" level, and she’s absolutely
+right because... well... you’ll see.
+
+Please don’t let this level look threatening to you, it’s actually very fun.
+
+
+Start the level by going to the top of the empty room. Dig the dirt AND
+take the diamond. Then quickly go back down and GET OUT OF THE WAY, 
+because all hell is about to fall down on you. Once you’re out of the way,
+though, you’re perfectly safe. OH YES, MAKE SURE THAT YOU GET OUT OF THE WAY
+TO THE RIGHT AND NOT THE LEFT!!! If you go to the left, you’ll be unable to 
+pass the falling avalanche. So don’t.
+
+While that huge stream of skulls and diamonds falls, go over to the right 
+side of the map and do the same thing. Take the dirt and the diamond, 
+then get out of the way to the left. Now you’ve got two avalanches falling. 
+
+While you’re waiting for all the commotion to settle, why not go to that 
+small compartment between the two rooms and see how many diamonds you can 
+get? You can actually get them all except that one at the bottom left corner.
+You’ll need to use a bit of your pushing skills and attention to the laws of 
+toppling to get all you can.
+
+When the dust settles and you have two pyramids of rocks and diamonds on each
+side, go over to the right side. It’s actually very easy to get all of the
+diamonds in this pyramid, so I’ll teach you how. First, get the single 
+diamond at the bottom left corner. The entire left side of the pyramid will 
+topple when you step back up. Next, grab the diamond marked as x.
+
+      O<O
+     xOOO<
+    <<<<<<O
+   OOOOO<O<
+  OOOOOO<<<
+
+
+then grab the diamond on the top of the pyramid. Then grab the diamond on
+the bottom right side of the pyramid, and the entire right side should 
+topple. Another diamond will replace it. Grab that one too. Now notice that
+the diamonds will have all lined up in a path, but don’t grab them yet. 
+First, notice the oddball diamond that is out of the path. Grab it, because
+if you don’t then it will get trapped. It’s marked as an X.
+
+    OOOO
+   <<<<<XO
+  OOOOO<O<<
+  OOOOO<<<OO
+
+Then just run from right to left through the entire path of diamonds.
+Go up into the upper compartment.
+notice the piece of dirt that is holding up some rocks on the right side.
+get rid of it, then stand back and let the rocks fall down. Collect the 2
+diamonds it uncovered. Notice that there is a sort of diamond path right
+underneath you. Start at the bottom and follow that path. The rocks will
+fall around you, giving you an easy way out. Push the rock out of the way
+to get the last diamond on that side. 19 more to go.
+
+Next, notice the left side. Get the diamond that’s just sitting on top.
+Now stand below the upper dirt square and A-grab both of the exposed 
+diamonds. Now go up top and collect the 5 exposed diamonds. Then carefully 
+collect the next 4 diamonds (Just run down, left, and up really fast), 
+then the last 2. 
+
+Now go back to the middle of the compartment. Get rid of the 2 dirt squares
+on the bottom left to expose even more diamonds. Grab the first 3 and A-grab
+the fourth. Hey look! only 1 more diamond to go!
+
+Go down out of the upper compartment and to the left, back towards where
+the stage started. Simply enter the left side to collect the last diamond
+and then walk into the exit. Feel free to collect some of the extra diamonds
+sitting on that pyramid while you’re at it. The four sitting on top are free
+to get. Be careful if you want to collect the 3 stacked on top of each other,
+because toppling can kill you. First, push the top rock out of the way. Then
+grab the first 2 diamonds and A-grab the last. 
+
+
++++World 3-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   6|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Basic level layout:
+__________________________
+|_____S______            |
+|            |           |
+|            |           |
+|            |           |
+|            |           |
+|            |           |
+|            |           |
+|____________|           |
+|                        |
+|________________________E
+
+
+Now here we have a major dilemma. There are lots of bugs, but no rocks to 
+crush them. You need 6 diamonds to pass the level, but only 4 are free for 
+you to collect. That means... oh no! You'll have to let a bug out!
+
+Don't be tricked by the first appearance of this level. Only 4 of the 
+diamonds are free. The last 2 will involve letting out the 3 bugs in the 
+middle... and you don't want to do that :)
+
+Well, I take that back. Actually you do. You see, Later in this game you MUST
+let out those three bugs. So why not just face our fear right now? It won't 
+be as hard as you might be thinking it is.
+
+When you begin this level, run downward and stand in front of the cage with 
+the 3 bugs. When it looks like the bugs are in a conveniant spot, A-grab the 
+dirt to let them out. Then run up to the top and to the right. When you 
+emerge into a huge field of sand, go down, then right, then up, then left so 
+that your path makes a medium-sized box that looks something like this.
+
+___
+   |  ___
+   |     |
+   |     |
+   |_____|
+
+DO NOT connect the end of the box yet. Just stand there at the end of the 
+path until you are sure that all 3 of the bugs have passed you going down and 
+have entered the box. When you're sure of this, connect the end of 
+the box like this
+
+___
+   |_____
+   |     |
+   |     |
+   |_____|
+
+Then follow your path back to where the diamonds were and collect the 6 free 
+ones. What have you just done? You trapped the bugs. They will now forever go
+around in circles in that big box and they won't come back to bother you as 
+you collect your diamonds. You did this because the bugs travel in a counter-
+clockwise direction.
+
+When you've got all 6, proceed to the exit at the bottom right corner of 
+the stage. Please avoid the bugs you have just trapped!
+
+
++++World 3-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:   3|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Basic level layout:
+__________________________
+|  <  |  <   |   <   | <  |
+|     |      |       |    |
+|     |      |       |    |
+|  ___|__ ___|___ ___|_   |
+|                       / |
+|    | _____________  /   E
+|    |              /     |
+|    |       S    /       |
+|_<__|_________________<__|
+
+
+Although there are only 6 diamonds in this level, and although you only need 
+3, this level is very challenging. CAREFUL NAVIGATION is key here. Think 
+about every step you take. Will you get trapped? Will you let a bug out? Will
+a rock topple and crush you? With small hallways and lots and lots of rocks,
+this level is a real kicker so be careful.
+
+First, go to the left and clear out some room between the trapped bug and the
+vertical wall. Why? See that huge pile of rocks up there? You don't want to
+get trapped, do you? If you don't clear enough room, not enough rocks will
+fall and your hallway will be blocked.
+
+Once you have cleared up enough room, go over the horizontal wall, removing
+all the dirt around the big pile of rocks as you do. This will let a bug out.
+Quickly before all the rocks fall and the bug comes to get you, remove the 
+dirt from between the two "upright" piles of rocks. Next, go down along
+the back side of the vertical wall and get the diamond. Once you have gotten
+it, run back up to the left side and go into the bottom of the "X" formation 
+and stay there. Wait until the bug comes, and use A to shove the rock onto 
+the bug for some bonus points.
+
+Next, go up into the top chamber. Grab the diamond and come out. Easy enough.
+
+For the last diamond, go to the right and into the chamber that the bug came
+out of. Try not to let too many of the rocks fall out of the chamber, as
+this might ruin your escape. You can actually go thorough the entire chamber
+without letting any of the rocks fall if you think about it hard enough.
+
+After the 3rd diamond, go down to where you started then go right. Don't run
+into the bug, but take the upper passage instead. (You can go past that bug 
+and to the exit if you want, but I prefer to take the route with no bugs.)
+Make sure you clear out some of the rocks as you climb. Simply navigate over 
+and around the diagonal wall and into the exit on your right. Since the 
+diamonds are worth a load of points in this level, you might want to grab 
+that diamond north of the exit or perhaps the one south of the exit.
+
+
+
++++World 3-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  18|
+|--------------------|
+|TIME LIMIT:      250|
+|--------------------|
+
+
+Basic level layout: 
+___________________________
+|  ______                  |
+|      |   |   |   |   @   |
+|  ____|_  |   |   |       |
+|      |   |   |   |   @   |
+|  ____|___|___|   |       |
+|      |   |   |   |   @   |
+|  ____|_  |   |   |       |
+|      |   |   |   |       |
+|__S___|___|___|___|_______E
+
+This will be the hardest level yet, so be patient with yourself. In here, you 
+must perform a trick that will be a dominant motif in the rest of the game: 
+Destroying a wall by crushing a bug. You see, if you explore the level and 
+take all the free diamonds you find, you will notice that you are 2 diamonds
+short. Those extra 2 diamonds are trapped inside of an enclosed compartment.
+The only way to get them out is to lure a bug next to one of the walls of 
+that compartment and crush it with a rock.
+
+You can see the enclosed compartments on my mini-map. The left one has 1 
+diamond (you don't want that one) and the right one has 2 (you want those).
+
+But for now, let's just get the 16 free diamonds. Start out the level by 
+pushing the three rocks (the two to your right plus the one that started on 
+top of you) all the way to the right. If you do not do this, you will have to
+suffer a loss of 1 of the 16 free diamonds, and therefore you must open BOTH 
+of the compartments to get all 3 of the enclosed diamonds. And I'm pretty 
+sure you don't want to do that.
+
+After you've shoved the 3 rocks to the right side AND you've removed all the 
+dirt you can, go up the shaft. You'll come to a rock blockage
+where you have to let 2 rocks fall down. After that you'll come to an even 
+bigger blockage with a diamond! Remove the dirt from under it and step to the
+right, then let everything fall for a moment. After they've fallen, go down 
+and grab the diamond. (If you couldn't grab the diamond, you didn't
+clear out the passage enough or you didn't push the rocks enough.)
+Then go back up. 
+
+When you get to the top, topple the rock blockage to your right and grab the 
+2 free diamonds on the sides of it. Go to the right until you come to the 
+second column, it will have a diamond in it. Be careful because the rock to 
+the left that's sitting on the wall can topple off the wall and crush you. 
+Instead, follow the RIGHT wall down the ditch and grab the diamond. Once you 
+have the diamond, move quickly to the left and then up to avoid the toppling 
+rocks.
+
+Now go back up and make your way to the right again.
+The third column has a few diamonds in it, so you'll want to go down there. 
+Thing is, this is the column you'll have to destroy the bug in to get the 
+last 2 diamonds. So take the following precautions. 
+
+Right above the column is a rock up against the ceiling. Let it fall 1 
+square, but no more. Stand in between the two rocks, then go down and grab 
+the diamond. Then go down 1 more square. Then go left 1 square, then down 
+until you hit the next rock. Grab the diamond underneath it manually, then 
+run down, right, and back up to remove all that dirt. This is to clear room 
+for your bug project coming up soon. 
+
+Make your way back out of the column without touching any of the rocks or the 
+dirt. Emerge into the wide open space on the right. There are bug cages here,
+avoid them for now. Go down and around the bugs and the up to the top to 
+collect the rest of the free diamonds. Now it's time for the big wall 
+demolition.
+
+Somehow, go back to the left side of the bug cages. You can do this by 
+tracing your steps back down and around, or by going between the 2nd and 3rd 
+bug cages. When you get there, you'll want to block your path with a rock so 
+the bug you let out will not have to travel all the way around the world 
+before it gets to where you want it to go. If you're still feeling unsure of 
+yourself or you just want to go slow, by all means keep the path open so you 
+have lots of time to get ready. But be warned that if you choose to keep the 
+path open, you'll have less time to recover if you make some disastrous 
+mistake such as killing the bug in the wrong place. 
+
+When you're ready, open the bottom bug cage by A-grabbing a piece of dirt, 
+then quickly run and stand above the second column where we were earlier. 
+Stand there and wait for the bug to catch up. When the bug appears and starts
+to go down the 3rd column, quickly move in behind it and remove the piece(s) 
+of dirt below the rock (the one I told you earlier to let fall 1 square but 
+no more.) Stand under the rock so you hold it up.
+
+The second Mr. bug disappears off the bottom of the screen, IMMEDIATELY drop 
+the rock. It should hit the bug, opening the passage to the final 2 diamonds. 
+
+If you screw up and miss the bug, or kill the bug in the wrong place, you'll 
+have to do some improvising with the remaining 2 bugs and column #2. 
+Hopefully the bug you just squashed removed at least some of the walls/rocks 
+you wanted to remove.
+
+The exit is at the bottom-right corner of the map. 
+
+ 
+                            ===||=OCEAN=WORLD=||===
+                             ==||=============||== 
+                              =||=====|||=====||=
+
+Whew! Time to take a break! Ocean World is, for the most part, easy and fun.
+In fact, the only real difficult part of crossing the Pacific Ocean is Level 
+2, which gets annoying at times. But level 1, 3, and 4 are mostly blow-overs.
+They're more than blow-overs! They're fun!
+
+I strongly suggest doing level 2 first just to get it out of the way. It may
+cause some problems.
+
+Anyway, here's a summary of the levels:
+
+Level 1: A Whole new way to crush bugs.
+Level 2: The annoying level. Turning bugs into diamonds and dodging 
+ pufferfish.
+Level 3: Magic wall madness! Fun fun!
+Level 4: More magic wall madness! Fun!
+
+PASSWORD: 840967
+
+
++++World 4-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  40|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+
+Basic level layout: 
+___________________________
+|            S  @          |
+|        E                 |
+|                          |
+|                          |
+|                          |
+|                          |
+|        _____________     |
+|        _@_@_@_@_@_@_     |
+|__________________________|
+
+
+As the camera pans around this level, you will probably be thinking to 
+yourself "What? Amebas? Squids? So I have to trap amebas AND crush squids in 
+the same level? that's not fun!" Actually, You've got it all wrong.
+
+Here's the basic level layout. You start with an ameba beside you. To your 
+leftish is the exit. Down below is a big cage full of a bunch of squids 
+(diamond bugs). There's a semi-secret trick that will not work in any of the 
+other levels except this one. And that trick is: When a diamond bug hits an 
+ameba, it will instantly be squashed.
+
+Yes! You read right! All you must do is: guide a bunch of squids to go hit 
+the amebas, and you'll have your own diamond mine!! Fun fun!!!!
+
+Start off by clearing some space around the amebas. Don't go too far right or
+left, try to stay above the bug cages down below. You don't have to clear too
+much space, just enough. So start digging some dirt and letting all those 
+rocks fall.
+
+There's a huge vertical wall of 5 rocks on your left. Use that to determine 
+where to stop clearing space.
+
+When you're done clearing space, make your way down and to the left. You will 
+come to a formation that looks like this:
+
+####
+###O
+O##O
+O###
+
+Since you need to leave a clear path for the bugs to get through, pass 
+through it like this.
+
+# ##
+# #O
+O  O
+O# #
+
+next, go all the way to the bottom of the stage and run a straight line 
+across to the right. Stop when you get 5 squares past the squid cage. (or, in 
+practical terms, when you're directly underneath the first rock that is 2 
+squares away from the top of the screen.)
+
+Now run back to the left and stop where you started your straight line across
+the bottom. Now go up one square and run a straight line to the right... 
+letting all the squids out. Stop when you get to the place where you stopped 
+before, directly underneath that particular rock. That is, stop when you're 
+right above where your other path ended. Go up to the rock so that it rests 
+on you. When squids start coming from below, step out of the way and let them 
+have it. BONK. BONK. BONK. Meanwhile, all those squids are hitting the 
+amebas. BONK. BONK. BONKBONK. NeNeNeNeNeeeeeeeeeeeeeeer!
+
+You: XD
+
+Now collect all your diamonds (XD I still think this level is funny) and head
+for the exit.
+
+A few notes. As you're collecting your mounds of diamonds, make sure a 
+diamond doesn't fall on you. Secondly, if, because of some tragedy you don't 
+get enough diamonds from all the carnage, it's probably because too many of 
+the bugs got stuck and are spinning in circles in their cages. To fix this, 
+let some rocks fall down to join the big row of rocks at the bottom, so you 
+can push a rock through the cage. If a bug runs into it, the bug will 
+suddenly realize that it's supposed to be following a wall and it will come 
+after you. Go crush it.
+
+Finally, make sure you don't spend too much time on the right side, there is 
+a slim possibility that the amebas can multiply and seal off your escape 
+route.
+
+
+
++++World 4-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  15|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+
+Basic level layout: 
+___________________________
+| S                        |
+|                          |
+|             _________    |
+|       ||||||             |
+|       ||||||             |
+|       ||||||             |
+|       ||||||             |
+|       ||||||             |
+|_______||||||_____________E
+
+This level is a PAIN. There are 6 columns, each with a squid going up and 
+down. Obviously, since there are no diamonds, you have to squash the squids 
+to get them. But with what? Rocks you say? The only rocks in this level are 
+the ones that accompany the puffer fish in the 1-cell cages. Somehow, you 
+have to use those rocks to destroy the squids... without getting yourself 
+killed.
+
+There are actually a few ways of doing this. I'll give you method E for Easy.
+It's the fastest and easiest way to beat the level.
+
+Start by running underneath all the rocks. This will expand the fish cages
+by 1 square. It will also put 2 of your rocks in vital positions. In order 
+to meet your 15 quota, you must squash 2 of the squids. 
+Walk over to the top of the last squid column and next to the first puffer 
+fish. Simply A-grab the single piece of dirt that traps the squid, then run 
+away to your left. The rock will automatically fall onto the squid and you'll 
+have 9 of your diamonds. But there's another trick here.
+
+If you drop that first rock on the squid THE MOMENT THE 2ND TO LAST SQUID 
+APPEARS ON YOUR SCREEN, something really cool will happen. The rock will fall 
+and crush the first squid, and one of the diamonds will fall and crush the 
+2nd squid. Unless the puffer fish gets in the way of one of the falling 
+diamonds, you'll have all of your diamonds right there. Go pick them up, 
+watch out for the puffer fish and watch out for the free squid.
+
+You can also trap the puffer when it comes out. When you dash to the left as 
+I instructed, and the puffer is chasing you, pass up all the squid columns 
+and run a quick counterclockwise O in the dirt on the left.
+
+_______________
+|        ^
+|        |
+|        |
+|________|
+
+Catch the puffer in that O and he'll be stuck.
+
+Now let's say the puffer got involved in your crush and he deleted some of 
+your diamonds. The easiest fix to this problem is to collect your diamonds, 
+then go down and around and stand on the right of the last rock in the row. 
+Wait for the free squid. When he comes, step out of the way and the rock 
+will fall on him. Collect your diamonds and you're OUTTA HERE
+
+
++++World 4-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  10|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Basic level layout: 
+____________________________
+|              S            |
+|    \             /        |
+|     \           /         |
+|      \         /          |
+|       \       /           |
+|        \     /            |
+|         \   /             |
+|          _!_              |
+|                           |
+|______________E____________|
+
+
+Don't worry that there are no diamonds in this level, cuz there is a magic 
+wall! It's marked with a ! on my mini-map. It's in an awfully convenient 
+spot as well... it's at the bottom of the hills. 
+
+But of course, remember that you must clear out room below the wall before 
+you may use it! So the first place you should go is under the wall. You can 
+do this by first going to the right then down (around the huge V), or you 
+can go straight down the V. When you get there, take out everything below the 
+magic wall. Then you can start dropping rocks onto the wall! You only need 
+10, but something tells me you'll drop much more than 10. Drop as many as you 
+want, pick up the crystals and head to the exit! (it's down and to the right 
+of the magic wall)
+
+Words of warning: Some rocks will let puffer fish out. Other rocks will crush 
+you if you're not careful. Keep a watchful eye.
+
+
++++World 4-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:   8|
+|--------------------|
+|TIME LIMIT:      220|
+|--------------------|
+
+
+Basic level layout: 
+____________________________
+|S                          |
+|                           E
+|   __!__   __!__           |
+|   |   |   |   |           |
+|   |   |   |   |           |
+|   |   |   |   |           |
+|   |___|   |___|           |
+|                           |
+|     @      @     @     @  |
+|___________________________|
+
+Believe it or not, there are even MORE magic walls in this level! This one 
+seems to be split into 2 sections. Problem is, you STILL need to clear out 
+from under the magic walls in order to use them. That's why there are puffers 
+at the bottom of the stage.
+
+Be careful as you make your way to the right side of the rightmost box not to
+drop any rocks on the magic walls. Doing so will activate them (both of them 
+at once) too early. You want to activate them when you're ready. 
+
+The trick here is to let out the puffer whose cage is directly below the box
+on the right, and smash him with a rock that's up against the right side of 
+that box. It's easier done than said. All you need to do is make sure you 
+have a way to escape when it comes time to drop the rock. Notice how there is 
+another rock on the right side of the mentioned rock, that's 1 square lower? 
+ohh, bad. Get rid of it. Please. Let it drop so it won't bother you as you're 
+trying to take care of business. Actually all you have to do is let it fall 1 
+square down and you're okay.
+
+Now simply A-grab the puffer's cage open, run up to the rock, and drop the 
+rock when the time is right. All you have to do is run to the right when the 
+puffer starts moving vertically, and the box will be open. 
+
+When the box is open, clear it out and push those pesky rocks out of there 
+too. Then go up above it and drop 8 rocks into it. If you run out of rocks, 
+you will need to push some more over from the left side. 
+
+The exit is blocked by some rocks, just let them fall if you're trying to get
+out. It's over near the top right corner of the stage.
+
+
+
+
+                            ===||=RELIC=WORLD=||===
+                             ==||=============||== 
+                              =||=====|||=====||=
+
+Okay Rockford, break time is over. Relic World may be a bit of eye candy,
+but it's not simple. Relic world is TOUGH. I hope that you're experienced
+enough now that I don't have to keep walking you through each and every
+situation. (I keep saying that, but every time I do I just can't resist doing
+it some more.)
+
+What's for Lunch? Find out:
+
+Level 1: Completing a level in a very small time limit.
+Level 2: Timing yourself, positioning rocks.
+Level 3: Navigating a very complex maze while being chased by a bug
+Level 4: Another small time limit and lots more of destroying walls w/ bugs.
+
+PASSWORD: 225378
+
+
++++World 5-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  40|
+|--------------------|
+|TIME LIMIT:      130|
+|--------------------|
+
+
+
+Basic level layout: 
+___________________________
+|          @@@@@@@@@       |
+|         ----------   <   |
+|                          |
+|     |====================|
+|     ||E                  |
+|     ||S______________    |
+|     |===============|    |
+|       @   @   @   @ |    |
+|__________________________|
+
+The scary thing about this level is the 130 time limit. Also, this stage 
+requires quite a lot of thought power and good navigation skills. There are 
+literally several tricky parts, each of which can only be addressed with
+an open eye.
+
+The object here is to go to the right, then down and left through the bug 
+cages, then up and to the right to the mound of diamonds (marked as <.) 
+Collect your 40 and then go backwards through the whole level back to the 
+entrance. All in less than 2 minutes. Not easy.
+
+When you get down to the bug cages, notice how the bugs move clockwise.
+That means you should pass through them on the bottom when they're on the 
+top.
+
+If you're sharp, you can easily crush the first bug. Or the first two, or 
+even three! Don't try to crush the last one though, or you will make a huge 
+mistake. Trust me. I've made this mistake several times and I'm quite 
+embarrassed with it. You might think you'll be crushing the bug, but you'll 
+just get it stuck and it'll block your path. :(
+
+(If you prove me wrong and you find that you are capable of correctly
+squashing that last bug, feel free to do so! Don't let my guide hinder
+your progress!)
+
+If you want to crush the first one, use the rock that's on the right. Make a 
+path like this:
+
+= O=
+= #=
+=  =
+=# =
+=# =
+=# =
+Y  =
+====
+
+That way, the bug will be forced to go directly underneath the rock... giving 
+you a chance to crush it.
+
+If you want to crush a second bug, use one of the rocks on the left. Remember
+toppling and let the rock topple onto the bug at just the right time. If you
+want to crush the 3rd bug, you would have needed to go through the pile of
+rocks in a certain way. If you keep from digging some of the dirt on the
+bottom left side of the pile, there will be one rock left on top for you
+to kick off onto some unsuspecting bug.
+
+Once you've smashed enough bugs, go through the 4th bug cage and into the 
+open area on the left. There's a bit of a kicker here. There is a freaking 
+ton of rocks lined up horizontally right above you. 2 rows of them, plus 
+some, to be exact. This means that you have to make sure you do not block 
+the entrance back into the bug cages as you go up through them. Try to drop 
+as little rocks as possible, and try to clear the way in front of the bug 
+cage before you go up through that mess.
+
+When you get to the pile of diamonds, there is yet another twist. Bugs guard 
+them. The laws of gravity guard them too. Both are deadly.
+
+Enter the pile of diamonds from the bottom, and run through to the end. 
+Wait about 3 seconds before turning around and running through again. Why? 
+
+Cuz for some reason, if you don't wait, you'll sometimes get crushed by the 
+diamonds. Strange, I know. Just wait out the 3 seconds after grabbing a row 
+of diamonds, just to be on the safe side.
+
+Once you have fulfilled your quota (please don't get any more, it's too 
+risky, you'll let bugs out, and you'll waste time), start heading back the 
+way you came. Hope that your passage didn't get blocked, and remember to 
+watch out for that last bug you left. Stay on top in the bug cages, and on 
+the bottom in the hallway. Get into the exit quickly. I've never gotten a 
+"Good" rating on this level, it's always "Nice" or "Lucky" for me. 
+
+If you find out that your passage IS blocked, there still might be a glimmer 
+of hope. Try to let the bugs out of the slot above you and use them to 
+destroy the walls blocking you from the exit. I've never successfully done 
+it, but I'm sure it's possible. 
+
+
++++World 5-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  80|
+|--------------------|
+|TIME LIMIT:      110|
+|--------------------|
+
+
+
+Basic level layout: 
+___________________________
+|S                        |
+|||                       |
+||| |||              ||||||
+|-- ||| ||||| |||||  ||||||
+|\  --- ||||| |||||  ||||||
+|  \    ||||| |||||  ||||||
+|    \  ----- ------ ||||||
+|      \---------------||-| 
+|E________________________|
+
+This is the easiest Relic World stage. Don't get spoiled, because the last 2 
+aren't nearly as easy as this one.
+
+First, run underneath the rock and destroy the bug. Time your run so you 
+don't hit the bug and die, obviously. Don't run when the bug is going up, 
+only make the run when he is going down. Collect your diamonds.
+
+Next, go to the next 2 slots. Run underneath the diamonds at the right time 
+to destroy the 2 bugs. Collect your diamonds.
+
+Next, go to the next 4 slots. Run underneath all of the rocks to destroy all 
+4 of the bugs. Remember to time your run so that the bugs don't hit you!!! 
+Collect your diamonds and move on.
+
+The last part isn't a pushover like the other 3 were. This time you need to
+guide the 4 rocks into positions similar to the positions of the 'pushover'
+sections you just did. One at a time, drop/push the rocks so they rest on a 
+dirt that blocks the entrance to the bug slots. The first one can fall 
+straight down. The next one must be pushed over 1 square, the third must be 
+pushed over 2 squares, and the last one must be pushed 3 squares. After 
+you're done positioning them, run under them all and collect your last 
+diamonds. Then head right.
+
+These are the slots of death. 3 of them will make you die, one of them will
+grant you access to the bottom of the stage. It's the 3rd one from the left.
+So quickly run and go down the 3rd slot. When you get to the bottom, head
+left.
+
+There is one more obstacle: a few bugs are guarding the exit. Just A-grab the
+cage open and run straight up to one of the rocks above you. Then head left 
+and down to the exit. The rock should hit the bugs, and you should hit the 
+exit.
+
+
++++World 5-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  35|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+
+Basic level layout: 
+____________________________
+|              S            |
+|___________    ____________|
+|          /   -\           |
+|        /  -   - \         |
+|   E  /  -  -  -   \       |
+|    /  -   - -   -   \     |
+|__/ -   - -   -    -   \___|
+|                           |
+|                           |
+|___________________________|
+
+This level is hard for a few reasons. First, your exit is trapped in the left
+compartment.  Second, you need to destroy some bugs to get diamonds, as this 
+stage only gives you 10 of them down at the bottom-left corner. Third, 
+you only have 100 seconds to complete this stage! Ouch!
+
+Well, first of all, go down and collect your free diamonds. Then, when the 
+bug is at the 6 o clock position in his cage, A-grab the cage open from the 
+left side. Then run back up to the top of the stage. Run along the left wall 
+if possible. If you're not quick, however, you may take whatever route is 
+easiest for you.
+
+When you get up there, run left along the bottom of the compartment wall, 
+then take a sharp turn up when you come to a rock. Wait for the bug. Now this
+part is tricky because you have to crush the bug EXACTLY when he is at the 
+bottom, so that you can open the wall. That means drop the rock before he 
+gets there.
+
+If you screw up and kill him in the wrong place, Try again with the next bug
+and the next rock on the left. Remember to keep your path on the bottom, 
+right on top of the wall of the compartment. Anywhere else, and you can't 
+destroy the wall with the bug.
+
+Try this timing: Drop the rock when the bug is in the 2nd square to the right
+of where you want it to get hit. It works for me.
+
+Now that your exit is open, you don't have to worry about WHERE you crush the
+bugs anymore. But you still need to crush 2 more to get your diamond
+quota. Use the rocks on the right. Hurry, because the time limit is small.
+
+When you crush the 3rd bug, collect the diamonds and hurry into the exit.
+
+
++++World 5-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  50|
+|--------------------|
+|TIME LIMIT:      110|
+|--------------------|
+
+
+
+Basic level layout: 
+___________________________
+|                 |  || | |
+|        S        |  || | |
+|      ___________|  || | |
+|  |  |____________  || | |
+|  |  |------------  || | |
+|  |  |______      / || | |      <-- Kinda Inaccurate. Sorry.
+|  |  |      |   /   || | |
+|  |  |  E   | /          |
+|__|__|______|____________|
+
+If you don't like destroying walls with bugs, this is not the level for you.
+You have to do it at least twice, but you'll probably end up doing it more.
+
+You start out in a rather large chamber with 5 bugs circling clockwise 
+around the room. There is a large row of dirt across the middle of this room. 
+If you look on the far left and the far right side of this row, you'll see 
+that you have 2 rocks poised and at your disposal.
+
+There are 2 ways to clear the blockage on your right. The first is more 
+tricky, but it's quicker and It's the way I've been doing it for years. Go 
+over by the rock on the right, and get ready to push it onto a bug. Push the 
+rock so that it hits the last bug when it's exactly in the bottom right 
+corner of the room. Problem is, if destroy the bug in the wrong place (say, 
+one square up) then the rocks will fall and block your exit. At which point 
+you should try to push the OTHER rock (the one on the left side of your room)
+and destroy another bug to get rid of those rocks.
+
+If you successfully completed method 1, you'll be left with the open column 
+on the right with three rocks being held up by a single piece of dirt. In the
+next column will be a bug going up and down. Taking great care to time it so 
+that the remaining bugs in your room don't come to get you, go down the 
+column, release the dirt that blocks the next column, and drop the 3 rocks 
+on the bug. 
+
+In either method (I'll get to #2 in a second), the rock on the left has the 
+same purpose. Either it's a problem solver if you messed up, or it can be 
+used to get the diamonds in the floor below you by destroying a bug. OR, you 
+can use it to just get rid of the extra unneeded bugs if they're being 
+pesky. If you hit one off the left side at just the right time, it'll 
+destroy them all.
+
+Method 2 is much easier, but not as efficient. When the bugs are away, go 
+over to the rock blockage on your right. Grab the first dirt and A-grab the 
+second so that the 3 rocks fall. Then wait for the 5 bugs in your room to 
+come over and go down that column. When they do, drop the rock on the right 
+onto them. The problem with this method is that it lets out the bug in the 
+next column, but that's not a big deal.
+
+As for meeting your diamond quota, the two columns on the left have 2
+more than you need. Please make sure you don't get hit by anything as you 
+collect those diamonds. I usually like to run all the way to the bottom 
+and then step sideways one square. Also watch out for the stray bugs, 
+make sure you have something on top of you when they come. There are 14 
+free giveaway diamonds as you're heading for the exit, so you don't have 
+to grab them all.
+
+When you've met your quota, go down the column and to the left. Pickup your
+free diamonds if needbe, and then continue to the room on your left. Your
+time should be running really low now, at about 30-40 seconds left. Notice
+how the exit is blocked. It's easily fixable. Clear out room around the
+rock in the middle of the room, so that there is only dirt below it. That 
+means clear out ALL the dirt above it. When you let the bug out it will go 
+across the ceiling, and you need room for it to do so. You also need room to 
+push the rock to the left to hit the bug and open the exit. 
+
+A-grab the bug's cage open from the right. It should go across the ceiling, 
+down and into the place with the free diamonds, across the floor, then up 
+the wall. Now's your chance. When it starts to go up, shove the rock onto 
+it. Wait for the 2 extra bugs to go away, and the exit is yours.
+
+
+
+                            ===||VOLCANO==WORLD||===
+                             ==||==============||== 
+                              =||======|||=====||=
+
+This is the end of your quest. The first one at least. It has insanely 
+challenging levels with lots of destroying walls, pushing rocks, dodging 
+bugs, and careful navigation. So take a deep breath and "Try the next stage!"
+
+Level 1: The Ultimate Careful Navigation level.
+Level 2: Dodging rocks and other odd jobs
+Level 3: A stupid, unfair level which should have never made it into the game.
+         Be sure to do this level first.
+Level 4: An easy level with lots of destroying walls.
+
+If you missed my little note on level 3, DO LEVEL 3 FIRST. It's the hardest 
+level of the batch, and even if you're skilled, victory on that level is 
+pretty random. Once you have that level cleared, all the others should fall.
+
+PASSWORD: 752053
+
+
++++World 6-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  80|
+|--------------------|
+|TIME LIMIT:      220|
+|--------------------|
+
+
+Basic level layout:
+______________________________________
+| |         | | |   |  | |         |  |
+| |         | | | | |  | |         |  |
+| |_______  | |___|____| |_________|  |
+| |         | |        |S|         |  |
+| |         | |        |_|         |  |
+| |         | |        | |         |  |
+| |         | |        | |         |  |
+| |_________|_|________| | ________|  |
+|  |    | E | |          |         |  |
+|_______|___|_|________|_|_________|__|
+
+
+This level seems a lot bigger than it really is, but it's the same size as 
+all the other levels. Really!
+
+I suggest you conquer this level last. It's got so many diamonds, you can 
+get a 1up every time you play. So if you're at least semi-skilled, you can 
+try this level infinitely. So if you've beaten levels 2, 3, and 4, you 
+basically won.
+
+This level is composed of 3 "diamond cells" which are big, enclosed boxes 
+randomly full of diamonds, rocks, and dirt. You need to collect 75 diamonds 
+from these cells, and the only way to do so is with careful navigation.
+
+Start off by clearing the small column you're stuck in. You're given 5 of 
+your 80 diamonds for free. Let 6 of the rocks drop, but leave the rock in 
+the upper left corner of the room.
+
+Next, let the bug out of the square cage on the right like this: When it's 
+moving  across the floor of the cage to the right, enter the cage and go 
+into the upper part of it. When the bug enters the room you started in, 
+crush it with the rock I told you to leave in place. This will let another 
+bug out of the mazey cage on the left. Step out of it's way and let it go 
+into the 1st bug's cage. Use the rock in the 1st bug's cage to crush it at 
+the bottom right corner. 1 push will knock the rock off, remember that rocks 
+topple off the sides of walls.
+
+Next, step into both the dirt squares on your right. Wait for the rocks above
+you to settle down. Then quickly go down and out of the way as fast as 
+possible to let the rocks pass you.  (it's easiest done by going down 2 
+squares and left 1 square) Now follow the rocks down to the bottom of the 
+column.
+
+On your left will be a bug cage with 2 bugs circling around boxes. This part 
+is rather tricky. As a kid, I messed up this part all the time. What you 
+have to do is run past both of the bugs and into the first diamond cell. 
+Start running when the bugs are at the top right corner of their squares. 
+Run into the cage, up, and all the way to the left. Walk through the first 
+4 diamonds you come to and then  wait for a moment.
+
+1 of the rocks will have fallen down, right into the bug cage. This will 
+disrupt the bug's path and he will come to get you. Funny thing is, another 
+rock has fallen right in front of your face. You know what to do. Kick the 
+rock onto the bug.
+
+Now, being very careful, collect as many diamonds as you can from this cell.
+Remember to use lots of A-grabs and make sure you don't get trapped. Exit 
+through the hole in the top right corner of the cell. Then go left, back to 
+where you started the level.
+
+Time to tackle the second cell. The entrance should already be open, so go 
+for it. Try to loop back around and exit the cell from the same place you 
+entered.
+
+After cell 2 is done, go back into your entrance room and go left through
+the mazey hallway. At the end there will be a rock which will topple and 
+block your entrance. On your right will be a long column with a bug in it. 
+A-grab the dirt under the top rock and it will smash the bug. Don't do it 
+too soon, though, or you will actually trap the bug at the bottom instead 
+of killing it. I'd say drop the rock when it's about 5 spaces below the dirt
+square.
+
+The explosion will open the bottom of cell #2. So if there are any easy 
+diamonds you left in there, now's your chance to get them. Cell #3 will 
+also be open.
+
+Enter cell #3, and run all the way along the bottom into the left corner. 
+From there, clear out as much space as you can. Notice that when most of the 
+cell is cleared out, there will be 2 rocks at the top left held up by dirt 
+squares. The one on the left is very important, so don't drop it. Instead, 
+let one of the bugs out from above the cell. It should go clockwise around 
+the cell. When it comes to the left wall, kick the aforementioned rock onto 
+it and the final hallway will be open.
+
+Now there's only one more tricky part. Go to the bottom of the hallway, and 
+kick the rock into the last room. There is a small bug cage in there, along 
+with a rock you will use to open the exit. Go into the room and A-grab the 
+marked dirt square to open the cage:
+
+   Y##=
+OO#x##=
+OO# @#=
+======= 
+
+Then run away and wait for the bug to circle all the way round the hallway 
+AND cell #3. Meanwhile get into this position.
+
+=======
+  ###O=
+    #Y=
+OO# # =
+OO#   =
+======= 
+
+When the bug comes back, smash it! Get into the exit quickly. YOU WIN!!
+
+
++++World 6-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  60|
+|--------------------|
+|TIME LIMIT:      190|
+|--------------------|
+
+
+Basic level layout:
+______________________________________
+|    | |   |                         |
+|      |   |  ___________________    |
+|    | |   | |________   |   |   |   |
+|    | |   | |  |  |  |  |   |   |   |
+|    | |   | |__|  |  |  |   |   |   |
+|    | |   | |  | E|  |  |   |   |   |
+|    | |   | |  |  |  |  |   |   |   |
+|    | |   |_|__|__|__|_ |___|   |   |
+|    |     |  ___________|   |   |   |
+|__S_|_|___|_____________________|___|
+
+Heh, you can always trust my maps to be completely out of proportion :) Hey, 
+that's why they're BASIC.
+
+This level is just plain weird. To start off, it will have 6 rocks dropping 
+on you. You have to dodge them all. It's actually not that hard once you get 
+used to it. Run to the top of the column and down the skinny column on your 
+right. Since there are 4 rocks dropping on you while you're running down 
+that skinny column, you'll need to move quickly and step into the little 
+square niche next to the 3rd column. There is a bug guarding 6 diamonds on 
+the bottom of this column, and the moment you step out of your niche you 
+will let it out. You have no other choice.
+
+There are 2 ways to do this next part. The first way is easiest, but you 
+sacrifice 1 or 2 of your diamonds. The second way is harder, but it's needed 
+in the later quests when you have to collect more diamonds.
+
+Method 1. When the bug is all the way to the right, step into the column and 
+collect  the 2 diamonds directly above you. Then dash to the right side and 
+collect the other 2 diamonds that are right there. Then, run directly up and
+stop for nothing. A diamond should topple and hit the bug, opening the wall 
+for you. 
+
+Method 2 is similar, but you have to pick up the diamonds that you used to 
+crush the bug in method 1. Instead, you have to use the rock that's at the 
+top right side of the column. So quickly collect those 2 diamonds, then run 
+to the  top right, remove the dirt under the rock, and move out of the way 
+so the rock falls on the bug.
+
+Once the bug is dead, collect the 6 diamonds it was guarding at the bottom 
+and head up the skinny passage that you just opened. However, don't go into 
+the big open chamber just yet. There is a bug circling clockwise around this 
+huge room. Wait for it to come around before you enter the room. Once it 
+comes, it will start heading across the ceiling to the right. Follow it. 
+Then it will go down. The second it disappears off the bottom of the screen, 
+kick the rightmost rock off the ledge. It should hit the bug, opening yet 
+another passage. 
+
+In this column you just opened, collect as many diamonds as possible without 
+letting the rocks fall and block your passage. They're all pretty easy to 
+get, except for the top one. If you want the top one, think carefully about 
+toppling and A-grabbing. It's pretty hard to explain exactly how you do 
+it, but I have faith that you'll figure it out on your own.
+
+Next, go under the rocks (they should block your entrance again) and stop in 
+the little niche right next to the bug cage. Again, if you but move, you'll 
+let the bug out.
+
+Wait until the bug is at the bottom left corner of his cage, then dash left. 
+MAKE SURE you collect the 2 diamonds on the left. Be quick! Go up to the 
+next row and dash to the right. Collect the diamond on the right. Then, head 
+up into the column with the rocks. Run up the right side of the 2 stacked 
+rocks, time it so that the top rock topples and hits the bug that's been 
+chasing you. It will open the diamond tank on your right.
+
+Collect the 12 diamonds from that tank. Next, you'll want to block up the 
+exit so that your next bug will not have to travel down into the narrow 
+hallways just to go where you want it to go. Do not drop the rock that used 
+to have the other one on top of it, because you need it. Instead, go up 
+farther and drop a rock down to block up the exit.
+
+When you've blocked the exit, let a bug out and crush it with the rock I 
+told you to leave. This will open the diamond tank on the left. Pretty easy.
+
+The next diamond tank on your left has the exit. Go ahead and let another 
+bug out and crush it with the leftmost of the 3 rocks that's in the diamond 
+tank. Remember, before you let the bug out, that if the previous bug 
+destroyed the rock that was blocking the exit, you must replace it. Failure 
+to do so will result in a great loss of time and possibly even losing 
+the stage.
+
+When the second diamond tank is open, collect the diamonds and the exit 
+should open. Go on in. But if you still need diamonds, go ahead and open the 
+3rd tank as well.
+
+ 
+
++++World 6-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  65|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Basic level layout:
+______________________________________
+|                @                   |
+|                                    |
+|              S                     |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|________________E___________________|
+
+
+This level is just plain stupid, annoying, and unfair. I'll never forgive 
+First Star for making this level ;)
+
+There isn't very much to it. There are amebas at the top of the stage. You 
+must trap them. at least 65 of them. That's pretty much it. If you're doing 
+this level first as I had asked, you'll have a lot of time for trial and 
+error.
+
+First, you should secure the left side. Then, before the amebas block your 
+exit, secure the right side. Use your body in place of the final rock. 
+
+Even if you successfully cage them, they just may decide not to give 
+you your diamonds before the timer runs out. It's just so unfair. 
+
+If you successfully trap them and collect your diamonds (You should have 
+about 15 seconds to spare), carefully make your way down to the bottom of the
+level and out the exit. Watch out for the bugs that are sort of randomly 
+placed around the exit.
+
+
+ 
+
++++World 6-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  20|
+|--------------------|
+|TIME LIMIT:      170|
+|--------------------|
+
+
+Basic level layout:
+______________________________________
+| @    @    @    @    @    @    @   @|
+|===========||                       |
+|           || S                     |
+|           ||_______________________|
+|           ||___________|___________|
+|           ||                       |
+|___        ||                       |
+|   | | | | ||_______________________|
+| E | | | | ||___________|___________|
+|___|@|@|@|__________________________|
+
+This is the easiest of the volcano world levels. You shouldn't have any 
+problem with it.
+
+The first thing you should do is run around the central row of dirt (The one 
+with all the rocks on it) and disconnect the dirt from the wall on both 
+sides. That is, dig out 2 dirt squares from the left and 1 from the right.
+
+Next, let the rightmost bug out of it's cage. Squash it with the leftmost 
+rock and you will have 10 diamonds. (PUSH the rock to crush the bug)
+
+Collect those diamonds, and then shave 3 dirt squares from the left side of 
+the row, letting the next rock drop. Let the next rightmost bug out of it's 
+cage, and use that rock to crush it and destroy the wall so you can go down 
+farther. Note that the bugs will come after you faster if you "remove" the 
+empty cages, and I suggest you do so to save time.
+
+When the wall is crushed, you should emerge into a space identical to 
+the one above it.
+
+So, disconnect the row of dirt from the wall once more, and do the exact same 
+thing you did before. Crush a bug to get the diamonds, and crush another 
+one to get out.
+
+The exit is on your left, but it's trapped. To open it, you'll need to let 
+one of the 3 bugs out, get it to go down the empty column, and crush it 
+there. It's pretty easy actually, since there is a bunch of rocks right 
+there free for you to use.
+
+
+When you beat Quest 1, you will see a cool little picture of Rocky jumping 
+up and down on a pile of gold and diamonds. Awesome music will also be 
+playing. It was because of this single song that I started sequencing video 
+game music into MIDI. I love this song. I actually did successfully make a 
+MIDI out of this one, and it's pretty accurate. You can find it on 
+vgmusic.com.
+
+The word "WONDERFUL!" will appear below the picture. Hit A and then it will 
+show Rocky flying in a plane and it says "GOOD JOURNEY."
+
+Finally, it will show Rocky on an island waving to you, and it will say "TRY 
+THE NEXT LEVEL! PASS WORD 423480  PUSH START BUTTON" Push start and you'll 
+be taken back to Boulder World.
+
+=============================================================================
+  ____________
+_/ 4. Quest 2 \______________________________________________________________
+
+Physically, Quest 2 is IDENTICAL to quest 1. The only difference is that you
+must collect more diamonds in less time. In some places this will change the
+strategy, in others it will not. 
+
+So in quest 2, you don't have to worry about extra bugs being added or
+passages being blocked. That all starts in quest 3.
+    
+
+(v1.01 Edit!!! I found a physical difference in quest 2, it's in level
+12-4. Could there be more?)
+
+                        ===||BOULDER WORLD||===
+                         ==||===round 2===||== 
+                          =||=====|||=====||=
+
+Password: 423480
+
+
+
++++World 7-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  12|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+No problem whatsoever. Just go through the level and pick up 12 diamonds.
+
+
++++World 7-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   9|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+No problemo. The diamond quota is only 1 greater than last time.
+
+
++++World 7-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  20|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+Come on. If you've gotten this far, you shouldn't need much help with this 
+level. Remember how I said that last time you have an option to go 2 ways? 
+Well this time you don't. You have to go both ways and collect both sets of 
+diamonds, plus one. Not that hard, just apply a little bit of care to your 
+movements.
+
+
+
++++World 7-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  27|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+The only difference here is that you need to squash 3 butterfly bugs instead 
+of 2. Not that hard.
+
+
+                        ===||==ICE WORLD==||===
+                         ==||===round 2===||== 
+                          =||=====|||=====||=
+
+
+Password: 457397
+
+
++++World 8-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:   5|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+You need 5 diamonds this time, not just 4. So, I'm going to teach you Method 
+X for grabbing the diamonds. You can use method X on the last 2 quests as 
+well, as it's pretty easy and efficient.
+
+Remember last time when you trapped the bugs going around their own cages? 
+You can't do that this time, because they'll bump into each other and come 
+after you. So, the idea here is to trap the bugs going around just the top 
+part of their cages.
+
+Now you can use the old method for this level to get 4 of the diamonds, and 
+then just grab the 5th diamond and run away to the exit quickly. It will 
+work, but make sure you understand method X so that next time around you'll 
+be able to do it when you really need it.
+
+First, draw a box around the first cage (let's make it the top left one this 
+time). Then, stand on the left side of the cage, like this.
+
+ #####
+ #@  #
+Y#   #
+ #   #
+ #####
+
+Wait until the bug is at position @, then A-grab the cage open right there in
+the middle of the left side. Step 2 squares up as to avoid getting hit by 
+the bug.
+
+When the bug exits the cage, go inside and grab the diamond. Exit the cage by
+going right through the middle of the right side of the cage. The bug should
+now be trapped going around the top section of the cage. Continue and do 
+this 4 more times for 4 more cages, then head to the exit.
+
+
++++World 8-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   5|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Since you need 5 diamonds this time instead of 4, you're gonna have to get
+creative with one of the bugs on the right. C'mon, you're a smart person.
+You can do it. Just let a bug out and crush it, trap it, or make it run far
+far away so it doesn’t bother you as you're going for the diamond.
+
+
++++World 8-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  15|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+Just make sure you trap at least 9 amebas. The rest can be collected from
+around the stage.
+
+ 
++++World 8-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  12|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+Same difference. Just drop lots of rocks into the magic wall like you did 
+last time. 10 rocks into the magic wall is a piece of cake.
+
+
+                        ===||==SAND WORLD=||===
+                         ==||===round 2===||== 
+                          =||=====|||=====||=
+
+Password: 432579
+
++++World 9-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  90|
+|--------------------|
+|TIME LIMIT:      190|
+|--------------------|
+
+You need to collect 30 more diamonds than last time.
+
+This is pretty tricky to do, actually. So I'm going to teach you a
+dangerous-looking trick to get those last ones. 
+
+After doing the same thing you did last time, plus scouring the left pyramid
+for diamonds, you should have 23 more to go. Now please head up into
+the upper left section.
+
+Collecting the free diamond on the right will make your quota
+go down to 22. Collecting the free diamonds on the top left will make
+your quota go down to 14. Dropping the rocks from the right side
+down to uncover a few diamonds will make your quota go down to 7
+if you use some clever A-grabbing. So where do you get the
+extra 7?
+
+On your left. Collect the only exposed diamond by walking into it.
+Then walk into the dirt square. Your job is to run down through the 2
+diamonds, left through the dirt, down through the entire
+column of diamonds, left, then back up and out again. Dangerous, yes, 
+but 100% necessary especially for the upcoming quests. Better master
+it now.
+
+
++++World 9-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   8|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+You need to let an extra bug out since last time. But don't worry, there's a
+cool corollary to the trick I taught you last time. 
+
+First, run down and A-grab the cage open with the 3 bugs. Then run up and 
+right. When you come into the huge room, make a huge, counterclockwise 
+box around the room. Don't touch the walls of the room, please.
+
+_
+ |  ___________
+ |             |
+ |             |
+ |             |
+ |             |
+ |_____________|
+                 E
+
+Next, make a small rectangle like this.
+
+ |  _@_________
+ | |_____      |
+ |             |
+ |             |
+ |             |
+ |_____________|
+                 E
+
+When the bugs come to position @, simply walk up and close the loop. Follow 
+the path all the way back to the bug and diamond place.
+
+The cool thing about this trick is that you can now make loops off of 
+anywhere on the big square. For example, you could do this to the next bug.
+
+ |  _@_________
+ | |_____|     |
+ |           __|
+ |          |  |
+ |          |_ |      <-- And when the bug comes to about here, just close the
+ |_____________|          loop.
+                 E
+
+Remember that all of your trap loops need to be on the INSIDE of the big box 
+in order for the bugs to get trapped.
+
+
++++World 9-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:   4|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+You need 1 more diamond since last time. You can easily get it north of the
+exit square.
+
+
++++World 9-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  18|
+|--------------------|
+|TIME LIMIT:      230|
+|--------------------|
+
+Thank goodness nothing's changed but the time limit. Do the exact same thing
+you did before to beat this level.
+
+
+                        ===||=OCEAN WORLD=||===
+                         ==||===round 2===||== 
+                          =||=====|||=====||=
+
+Password: 864111
+
++++World 10-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  45|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+Have fun running lots of squids into the amebas. Same strategy as before.
+
+
+
++++World 10-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  25|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+Ouch. This level is a real doozy. You need to crush at least 3 squids to fill
+your quota. Use the same strategy as before to crush 2 squids with 1 stone.
+
+Then, you'll need to crush the 3rd squid (he will automatically be free) with
+rightmost rock, just like the backup strategy mentioned earlier.
+
+Good luck.
+
+
++++World 10-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  15|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+Gee wiz, what is with these 180 time limits?!
+
+
+Anyway, just drop at least 15 rocks into the magic wall. Piece of cake.
+
+
++++World 10-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  10|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+
+Same strategy. Just drop 10 diamonds into the magic wall.
+
+
+
+                        ===||=RELIC WORLD=||===
+                         ==||===round 2===||== 
+                          =||=====|||=====||=
+
+Password: 995065
+
++++World 11-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  45|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+
+Similar strategy here. You don't even have to let the bugs out that are 
+guarding the diamonds.
+
+
++++World 11-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  82|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+
+The same strategy will get you all the diamonds you need. Just be sure to go
+a little faster.
+
+
++++World 11-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  40|
+|--------------------|
+|TIME LIMIT:      110|
+|--------------------|
+
+Same Same Same! Just go faster. Open the exit wall first. Then I recommend 
+opening the right wall so you can get more diamonds faster. Yea. See those 
+two bugs in there? You have to crush 4 of the little goobers in all, and 
+the fastest way to do it is to use your second crush to open the right
+compartment.
+
+
++++World 11-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  70|
+|--------------------|
+|TIME LIMIT:      110|
+|--------------------|
+
+The diamonds in the columns to your left will only give you 50 of the 70 
+diamonds you need. To get the extras, you could open floor. But you only 
+have 2 rocks so use them wisely.
+
+The avalanche zone on the right can also give you some extra diamonds. 
+Remember that 14 free diamonds are given to you at the very end, so make 
+sure your counter is at most 14 before you go for the exit.
+
+
+                        ===||VOLCANO WORLD||===
+                         ==||===round 2===||== 
+                          =||=====|||=====||=
+
+
+Password: 827100
+
++++World 12-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  90|
+|--------------------|
+|TIME LIMIT:      210|
+|--------------------|
+
+Same strategy, it's just that you need LOTS more diamonds than before. 
+
+
++++World 12-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  65|
+|--------------------|
+|TIME LIMIT:      190|
+|--------------------|
+
+Even if you use method 2 and you snag EVERY diamond along the way, You still 
+need 1 more when you open the exit chamber. You must open the 3rd diamond 
+tank.
+
+
++++World 12-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  70|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+Oh how I hate this level. 70 Amebas. Good luck.
+
++++World 12-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  20|
+|--------------------|
+|TIME LIMIT:      160|
+|--------------------|
+
+Today as I was revising this guide, I spotted an actual physical difference
+in quest 2. It has to do with the column you crush the last bug in to open
+the exit. It's 1 square smaller.
+
+But that doesn't change your strategy. Do the same thing as last time.
+
+
+
+At the end of quest 2, you'll get the same picture of Rocky jumping on
+the gold pile and the word "WONDERFUL!" You'll also get the same
+"GOOD JOURNEY" message.
+
+After that, You'll see Rocky standing in relic world with 3 bugs. He'll
+wave at you and it will say "TRY THE NEXT LEVEL! PASS WORD 532375 PUSH START
+BUTTON" and once again, you'll be in Boulder World!! Looks like it's time 
+for...
+
+
+=============================================================================
+  ____________
+_/ 5. Quest 3 \______________________________________________________________
+
+Quest 3. Here's where things get really crazy. Not only have the time limits
+and diamond quotas been modified once again, but extra walls have been added
+and extra bugs have been added. That's why I'm bringing back the basic level
+layout in such cases, as well as the level walkthrough.
+
+                        ===||BOULDER WORLD||===
+                         ==||===round 3===||== 
+                          =||=====|||=====||=
+
+Password: 532375
+
+
+
++++World 13-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  14|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+
+_______________________
+| S                   |
+|                     |
+|---------------------|
+|                     |
+|                     |
+|    -----------------|
+|                     |
+|_____________________E
+
+
+Not only do you need 14 diamonds, but notice that the first hallway has been
+blocked!!! Oh No! Luckily, they've given you a bug you can use to open the
+wall with. How nice. [/sarcasm] 
+
+Obviously, you'll need to A-grab the bug cage open, guide it somewhere, and
+smash it right against the wall. It's not that easy to time perfectly.
+It's sort of like level 5-3 where you have to smash the bug right against
+the wall below you. Use the dirt to create a specific path for the bug so
+you can crush it.
+
+Here's how I usually do it. Collect the diamonds. Then let the bug out and
+run up then left then down then right, right along the wall. The bug will
+follow you, going along the wall as you do. Crush it with a rock before
+it comes up to get you.
+
+Once you get the bug squashed and the wall opened, collect all the diamonds
+and head for the exit.
+
+
++++World 13-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  10|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+The only difference here is that the bug in the left cage has been let out
+and is crawling around the cage.  If you want his 2 diamonds, I recommend
+that you crush the bug. Just push the rock onto him when he goes into the
+little hole. Not that hard.
+
+
++++World 13-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  23|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+You must get all of the diamonds but one in this level.
+
+There are some hardly noticable physical changes to this one. Some
+extra walls have been added to various places. Big deal.
+
++++World 13-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  45|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+
+Basic level layout:
+______________________
+|                    |
+| S                  |
+|                    |
+|   @   @            |
+|    @   @   @   @   |
+|                    |
+|                    |
+|                    |
+|____________________E
+
+Now they've gone and royally messed up this level. Just look! Two of the
+butterfly cages have 2 butterflies in them! What's worse, you have to
+crush 5 butterflies! How cruel!
+
+Your previous method won't work on the cages with 2 because the diamond
+explosion will 'delete' the other butterfly. The best strategy here
+is just to open the cage, then run away and lead the bugs to a 
+rock somewhere so you can crush them. If you're sharp, you can even
+set it up so that a diamond falls on the second one. (but then you'd
+have to do the same thing for the other double cage, since you're
+quota would be short.)
+
+If you don't want to crush one with a diamond, just crush it with
+another rock. It's actually very easy to crush one and not the other
+if they're outside of their cage.
+
+Just crush the single-bug cages like you normally do.
+
+
+                        ===||==ICE WORLD==||===
+                         ==||===round 3===||== 
+                          =||=====|||=====||=
+
+Password: 243481
+
+
+
++++World 14-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:   6|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+This time around, two of the bug cages have 2 bugs in them. Although you 
+are free to just avoid those two, why? Method X works fine for cages with 
+2 bugs.
+
+Just get 6 diamonds and exit.
+
+
+
++++World 14-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   6|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+They've gone and pulled the same stunt here. Two of the bug cages, the top 
+two, to be exact, have 2 bugs in them. You can avoid those 2 cages if you 
+want. You need 6 diamonds. I suggest crushing the first 3 like you normally 
+do. Then, when you get to the top cage, let the bugs out and crush one of
+them with the second rock on the right. Not the one you usually crush it
+with, but the next one. This way, the other bug won't cream you as you're
+dropping the rock on the first one. Once the first one's gone, I suggest
+grabbing the diamond, avoiding the 2nd bug, and getting over to the other
+side of the stage. Drop a rock into your path and the bug will not follow
+you.
+
+Head over to the right side and let 2 of the bugs out and crush them. If
+you've gotten this far, you should know how to do that properly by now.
+
+If not, very carefully let them out and avoid them while you steal the
+diamonds.
+
+Collect 2 of the diamonds and head for the exit.
+
+
++++World 14-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  18|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+The change here is that 2 extra bugs have been added around the amebas.
+This is bad. If the amebas surround a bug, and then turn into diamonds,
+guess what happens to the bug? It gets crushed, and 8 or 9 of your
+diamonds are deleted in the explosion. You can't have that for this stage.
+
+When the stage begins, race down to the amebas and run under the first
+row of rocks as usual. Then, let out the bug on the right and crush it 
+somehow.
+
+Now since you need 18 diamonds, you need to trap quite a few. You need 12
+ameba diamonds if you want to get out of this level alive. If your bug
+destroyed some crucial rocks, just drop more from up above. With some
+careful pushing, you should be able to trap those goobers.
+
+
++++World 14-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  15|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+They've placed a bug right above the magic wall. If you crush
+it where it is, you'll destroy part of the magic wall. Better lead
+it away and dispatch it. 
+
+One word of warning, though. In your efforts to crush that bug,
+you'll probably accidentally activate the magic wall too early.
+So quickly destroy the bug, clear out what's underneath the
+wall, and start dropping the rocks on it. You need at least 10,
+the other 5 are around the level somewhere.
+
+
+                        ===||==SAND WORLD=||===
+                         ==||===round 3===||== 
+                          =||=====|||=====||=
+
+This world is where I first said to myself "Okay, now the game
+creators officially hate me."
+
+Yes, the later stages will make you question your sanity.
+
+Password: 606664
+
+The password says it all.
+
+
++++World 15-1+++
+
+|--------------------|
+|DIAMONDS NEEDED: 120|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+WHOA!!! Where the heck are you going to get 120 diamonds?!
+
+Ok, Drop the avalanches as you normally do. Then get the diamonds 
+in the middle slot.
+
+Then start to clear out the right side. When you get to the last step for
+completing the right side, (that is, the last 4 diamonds, when you have
+65 diamonds left on your quota), there is a slight change of strategy.
+
+This time what you'll want to do is run DOWN INTO that slot. There is
+some kind of clear path that goes down from the top of the right side of
+the stage, down into the center of the "M", and out the top of the left
+side. Step carefully and use a lot of A-grabbing. When you emerge,
+you'll find that the center has completely collapsed. This will
+allow you to get even more diamonds. When I was through with it, I had
+something like 20 diamonds left on my quota. A clearing out of the left
+avalanche zone and the run through the top left side will give you
+the rest of the diamonds you need.
+
+
++++World 15-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  12|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+When I first saw this level, I nearly died from shock. They've blocked the
+bottom hallways. This means, letting a bug out will only give you 1,
+not 2, of the diamonds. If you want the other one, you need to let the
+other bug out. 
+
+Your main problem is time. No hesitating, or you'll run out of it. Your other
+main problem is: Where the heck are you going to put all those bugs?
+
+Now it's time to teach you the shelf method. 
+
+
+When you trap the bugs, make your first path the same as all the other times.
+
+__                   
+  |  _______________
+  | |__1__|         |      Trap the first 3 at "1" like you normally do.
+  |                 |
+  |                 |
+  |                 |
+  |                 |
+  |                 |
+  |                 |
+  |_________________|
+
+
+__                   
+  |  _______________
+  | |__1__| |_2| |_3|      The next 2 bugs can go at 2 and 3, respectively.
+  |                 |
+  |                 |
+  |                 |
+  |                 |
+  |                 |
+  |                 |
+  |_________________|
+
+
+__                   
+  |  _______________
+  | |__1__| |_2| |_3|  
+  |                 |  Once the first shelf is full, create another shelf
+  |  _______________|  below it and add more bugs.
+  | |_4| |_5_| |_6_||  <-- like this.
+  |   __            |
+  |__|_7|  ___      |  <-- the last bug can go here. 
+  |       | 6 |     | 
+  |_______|___|_____|  <---Alternate location for #6 if you're running
+                           out of time.
+
+Actually, that's all you gotta do. You only need to let out the middle 3
+plus the 3 on the left and the 3 on the right.
+
+The idea is to make the bug trap loops as small as possible. If you're
+really good, you can even get them down to 1 square. This is to conserve
+room. Don't worry if your shelves don't work out exactly how I show you,
+or if you just can't fit 3 rounds of bugs on the top shelf. Just
+make sure you have a place to put them.
+
+A huge determining factor in whether or not the time will run out on you
+is the order you let the bugs out. The smaller the path they have to take,
+the shorter time they will take it in. That means, save getting the diamonds
+on top until you have to run through them to get the bugs out, and save
+getting the diamonds on the bottom until the very end when you've let
+all the bugs out.
+
+Here's the order I propose.
+
+1. Let out the middle bugs and trap them.
+2. Starting with the leftmost, let the bugs on the right out and trap them.
+3. After you've trapped all the right side bugs, collect their diamonds.
+4. Then, starting with the rightmost, let the left side bugs out and trap
+them. Pick up a bug's diamond once you come back from trapping it.
+
+There is a lone bug sitting on a diamond on the left side. Just ignore him,
+he's not needed.
+
+Whew! Make sure you don't run into any of them on your way to the exit.
+
+
++++World 15-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:   5|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+
+Basic level layout:
+__________________________
+|  <  |  <   |   <   | <  |
+|     |      |       |    |
+|     |      |   X   |    |
+|  ___|__ ___|___ ___|_  _|
+|                       / |
+|    | ___________    /   E
+|    |              /     |
+|    |       S    /       |
+|_<__|_________________<__|
+
+Although the physical change in this level is not apparent at
+first, you'll certainly find it as you're playing. The north entrance
+to the exit chamber is blocked!! That means you need to enter from
+the bottom. And that's easier said than done, because it's too easy
+to block that entrance.
+
+I highly recommend destroying a bug right next to the entrance
+to the exit chamber, in order to destroy some of the walls and rocks
+in the way. Actually you have 2 or 3 bugs at your disposal for this
+purpose, so destroy as much of that diagonal wall as you want. 
+
+You'll go through this level the same way you did, except that
+when you grab the top right diamond, come back to the bottom
+and enter the exit chamber. Grab that diamond and exit.
+So you'll be getting all of the diamonds in this level except the one
+marked with 'X". Good luck.
+
+The exit chamber diamond is kind of tricky to get, so if you want
+you're perfectly free to skip it and get the 'X' diamond instead. 
+
+
++++World 15-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  19|
+|--------------------|
+|TIME LIMIT:      200|
+|--------------------|
+
+This time, you must get all the diamonds in the level. That means you have
+to open that other chamber you've been dreading all this time. But look! 
+This time, they were actually nice to you and they gave you a bug right at 
+the very beginning!! [/serious] Use this bug to destroy the wall to the 
+right of where you started that blocks you from that last diamond!
+
+Other than that, the rest of the level requires a strategy identical to the
+previous versions of this level.
+
+
+
+                        ===||=OCEAN WORLD=||===
+                         ==||===round 3===||== 
+                          =||=====|||=====||=
+
+Password: 692551
+
+
++++World 16-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  50|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+The only physical difference here is a very strange one. A few new rocks 
+have been added to the left side of the squid cage. I don't know why. It 
+certainly doesn't hinder our strategy one bit.
+
+You need 50 diamonds, so make sure as many squids get squashed
+as possible. If they get stuck going in circles in the cage,
+get em outta there by pushing rocks into them.
+
+
++++World 16-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  35|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+This is one of those odd cases where the physical change has made the
+level easier and not harder. It's a good thing too, because this
+level was too hard to begin with.
+
+The difference is the addition of two rocks right below you as you
+begin the stage.
+
+Here's our strategy. First, go right and then down. Stay away from
+the rocks for now, but go to the bottom left side of the first bug
+slot. When the bug is in a convenient spot, open the slot from the
+bottom and then go left to the side of the stage then up, and
+squash the bug with the leftmost rock. (You will only get 6 diamonds.
+I know. How sad.) It's better to squash it when it's higher
+than when it's lower.
+
+Collect 5 of the diamonds and leave the last one that's sitting on
+dirt. Let the next bug out and squash it with that diamond. This
+time, collect all 9 of the diamonds.
+
+Let the 3rd bug out and squash it with the 2nd rock. Collect all
+but the one diamond that rests on the dirt. Let the 4th bug
+out and squash it with that diamond. Collect them all and your
+quota should be down to 4.
+
+Finally, go up to the top of the bug slots and drop the leftmost
+rock on the rightmost bug as you've done with the previous
+quests. This should fill your quota, so get out of here.
+
+
+
++++World 16-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  20|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+They've added a puffer fish right on top of the magic wall.
+When you start out the level, go around the V to the right
+and come to the bottom of the V. Let the puffer out from the
+bottom and squash it. Then complete the level as normal.
+
+
++++World 16-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  25|
+|--------------------|
+|TIME LIMIT:      190|
+|--------------------|
+
+A few changes have been made to this level. First, the two right
+puffer fish have been replaced with squids. There's 18 free
+diamonds right there! Secondly, a puffer fish has been added on
+the inside of the right box. Just dodge it when it comes out
+and crush it. Between the squids and the magic wall, you'll
+have all the diamonds you'll need.
+
+Come to think of it, those squid cages remind me of level
+1-4... hehe. You can use the same strategy to squash them here.
+
+
+                        ===||=RELIC WORLD=||===
+                         ==||===round 3===||== 
+                          =||=====|||=====||=
+
+Playtime is over. This is the first world you will probably have
+sincere difficulty with, and the rest of the game is no 
+different. From here on out, you'd better be used to a
+good challenge!
+
+Password: 724892
+
+
++++World 17-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  50|
+|--------------------|
+|TIME LIMIT:      110|
+|--------------------|
+
+This level is physically the same, but you must get a dangerously
+high amount of diamonds. I say dangerous because in order to
+collect that many, you'll need to brave some of the bugs that
+are guarding the mound. Step carefully! The time limit doesn't help
+much either, so hurry back!!
+
+ 
++++World 17-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  84|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+The first time I saw this level, I nearly had a heart attack and
+fell over dead. The third set of bug columns- the one with the 4
+bugs and the 4 rocks already lined up for you- has a bug on
+either side, blocking your entrance. Not only is it a bug, but a
+bug stuck in a 1-cell cage. If you want to let the bug out,
+you must A-grab the cage and run away QUICKLY.
+
+However, I have formulated a little strategy for this level that
+might make the game creators gasp as much as I did when I
+saw this level. It's clearly cheating. But all's fair, right? 
+So let's cheat! It's fun!
+
+Drop the rock on the first bug as normal. Collect the diamonds.
+Then drop the 2 diamonds on the next 2 bugs. Collect all the diamonds
+EXCEPT for one on the leftmost side. If the bugs got hit
+higher than the bottom of the cage, make sure you don't remove
+a diamond that would cause the leftmost diamond to topple and
+fall out of it's place. You need it there.
+
+When the diamond is in place and all the rest have been collected,
+A-grab the 1-cell bug cage open from the bottom. (If you're extremely
+unlucky, you'll get killed right here. But such is the price of
+cheating the system.) then immediately run straight down, to the left
+under the wall, and then up past the poised diamond so that it topples
+off the wall and falls on the bug. This will cause some of the rocks
+underneath to be destroyed, giving an easy exit later.
+
+There is still another bug on the right side of the cage, so you
+don't want to go for it yet. Instead, skip ahead and go for
+the last 4 columns. Situate the rocks and drop them all on
+the bugs. Collect your diamonds.
+
+Now we have to do something about that other bug. Let it out
+from the right side. I find it easier to run away from this
+side. When it goes away, run under the 4 rocks to squash the
+4 remaining diamond bugs. Make sure you don't hit the free
+bug as you emerge on the other side. Quickly, before the free
+bug comes back, collect the diamonds and head for the exit.
+
+You can't use the same strategy to exit. You have to just let the
+bugs free, you can't crush them like we did last time. So just
+let the bugs out from the right, step out of the way and wait for 
+them to go up, then exit the level.
+
+
++++World 17-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  40|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Huge problems here. They've blocked off some of the sideways
+passages at the bottom of the maze area, making it harder
+for you to run away from the bug you free. Also, they've
+completely deleted the 2 bugs in the right compartment!
+
+That means you must let out all of the bugs and crush them.
+Remember to open the wall on the left side to your exit as
+one of your crushes.
+
+Note that after your exit is open, it's faster to crush the
+bugs with the rocks on the right side, not the left. That's
+because the bugs will go to the right side first. You don't
+have time to wait for them to go right, then all the way
+to the left.
+
+
++++World 17-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  90|
+|--------------------|
+|TIME LIMIT:      140|
+|--------------------|
+
+I'm not quite sure what the physical change in this level was, but
+I have no doubt that one was made. 
+
+But the overall strategy is the same. First open your passageway, then
+grab the 50 diamonds in the slot, then open the floor if necessary,
+then hit the avalanche zone on the right for some extra diamonds,
+then hit the exit and grab the 14 free diamonds on the way.
+
+If you get all of the diamonds in the 2 slots on the left and in
+the floor, you'll have 24 left on your quota. Just grab 10 from the
+avalanche zone and you'll be home free.
+
+
+                        ===||VOLCANO WORLD||===
+                         ==||===round 3===||== 
+                          =||=====|||=====||=
+
+Password: 772974
+
++++World 18-1+++
+
+|--------------------|
+|DIAMONDS NEEDED: 115|
+|--------------------|
+|TIME LIMIT:      210|
+|--------------------|
+
+Same strategy, just this time go to town on the diamonds! Remember to do
+this level last.
+
+Oh yeah I forgot. Turns out that there is a physical change after all.
+In the shaft on the right that you're supposed to run down before
+going past the 2 circling bugs, there is an added wall square.
+This will cause the rocks you drop to block your exit. How sad.
+So you basically have to rush down as fast as possible so your
+entrance into the bug cage is not blocked.
+
+But now we have a problem. You're unable to time your entrance
+into the bug cage, so the bug might hit you. But don't worry, there's
+a fix to this problem too. When you drop the 3 rocks, let 1 or 2
+of them fall down past the extra wall square. Then use your body
+to block the remaining rock(s) from falling. You can clearly
+see the bugs from there, and you are still able to determine when
+to run into the boxes. How's that?
+
+Oh, and don't forget to pick up lots of diamonds!
+
+...
+
+Darn!! Another physical change!! It's in the huge column
+with the 1 bug going up and down. The change is that the little
+hole in the bottom has been sealed, so that means 2 things for
+you.
+
+1) You can no longer trap the bug by dropping the rock too soon.
+2) You NEED to hit the bug on the very bottom of the column so
+that seal opens.
+
+That's all. Finally.
+
++++World 18-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  77|
+|--------------------|
+|TIME LIMIT:      190|
+|--------------------|
+
+Very interesting changes have been made in this one. First, there are
+extra rocks falling on you at the very beginning. 
+
+Secondly, in the huge shaft on the right side of the stage where you're 
+supposed to crush the single bug- an extra wall square has been added.
+That means you must push the rock a bit later than you normally would, or
+the rock will miss the bug entirely. Count 4 seconds after the bug
+disappears off the bottom of the screen and then push the rock.
+ 
+The last change is not a physical change, but it requires a
+physical response. Notice the diamond count. If you get to the
+end of the stage having grabbed every last diamond along the way,
+you'll notice that you're 1 short. "Where the heck am I going to
+get 1 more diamond??" You yell. "There aren't any more left!!"
+
+Notice that mysterious cell right above the last diamond tank, the
+one with the 3 rocks in it? Well guess what. The wall right under
+them is a magic wall. You can use the last rock, the one that
+fell on top of the exit square, to squash the last bug to
+open that compartment.
+
+This means you are allowed to miss 2 diamonds in this level, so don't
+feel bad if you have done so. Also if you're really good at timing,
+you can open both the final diamond tank and the magic wall cell
+with 1 bug hit. You have to destroy it right in the middle of the
+two so both walls open. Easy? No. But it's a lot faster.
+
+
++++World 18-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  70|
+|--------------------|
+|TIME LIMIT:      220|
+|--------------------|
+
+Puh-leeze. Don't get me started on this one again. Just make sure
+not to hit the extra bugs on your way out, okay?
+
+
++++World 18-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  40|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+There are a lot of changes to this level, and a lot of changes to your
+strategy as well. Where shall I start?
+
+The first thing you should notice is that the 6 bug cages to the right
+have been shrunk. I'm not really sure why they did that, but it's a change
+nonetheless. 
+
+The second thing you should notice is the 40 diamond quota. This means
+you must pick up all the diamonds in the level. This means you will need
+to squash 6 bugs just to get out of the right side of the stage.
+
+First thing to do is to cut one dirt square off the right side of the 
+central row of dirt. This will allow passage for a bug. Let a bug out
+and it will go to the right, down and into the narrow path underneath
+the central row of dirt, and then back out. Crush it when it tries to
+come back out. Collect those diamonds.
+
+Then open the other side as you normally do. Then repeat the steps
+for the bottom part of the stage, which is identical to the top part.
+The only difference is that you should follow the first bug into the room,
+because if you wait for it, it will destroy you because there is nowhere
+to run.
+
+The last change is at the exit. Remember the convenient little
+column they put in so you could easily open the exit? It's gone.
+Now the only way to open the exit is to crush 2 bugs on top of the
+chamber.
+
+
+The time limit is quite stingy, and it's not uncommon to die
+from TIME UP. You might be tempted to let more than one
+but out at a time in an effort to speed things up, but
+that strategy just gets too sticky. Don't do it. Instead,
+I found a way to save extra time easily. After you collect
+diamonds from the right-side compartments, seal them off with a
+rock so the bugs don't have to go all the way into them
+and back out. It really does save a lot of time.
+
+If you REALLY can't go fast enough (How did you get all the
+way to this level?!) and you REALLY must let out more than
+one bug at a time, make sure you space them out. A LOT.
+You'll see what I mean if you do it wrong.
+
+
+WONDERFUL!
+
+GOOD JOURNEY!
+
+Oh how cute. It shows a picture of Rocky with his landed plane standing
+on a runway waving at you. It says "TRY THE NEXT LEVEL! PASS WORD 724045
+PUSH START BUTTON."
+
+=============================================================================
+
+
+  ____________
+_/ 6. Quest 4 \______________________________________________________________
+
+
+This is it. This is the final stand. It's all you now. You against 24 more
+levels. These are the same levels you've played 3 times now, but they all 
+have been remixed for maximum difficulty. This will not be easy. 
+But don't give up! The satisfaction of having beaten this awesome game
+will be well worth it. C'mon, Go for it!
+
+
+                        ===||BOULDER WORLD||===
+                         ==||===round 4===||== 
+                          =||=====|||=====||=
+
+Password: 724045
+
+
+
++++World 19-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  16|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+
+_______________________
+| S                   |
+|                     |
+|---------------------|
+|                     |
+|                     |
+|---------------------|
+|                     |
+|_____________________E
+
+
+Both hallways have been sealed up and you must collect all but 2 of 
+the diamonds in this level. Use the bugs carefully to smash open 
+both the walls. You only get one shot at each, so make it good.
+
+Luckily they've given you some leeway on bug #2, his cage is a bit
+bigger so you can let him out more safely than bug #1.
+
+
++++World 19-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  11|
+|--------------------|
+|TIME LIMIT:       80|
+|--------------------|
+
+The difference here is that they've added a bug free to the
+top left cells. You need all 11 of the diamonds in this level,
+by the way. So don't pass any up.
+
+The strategy for the top left diamond is really easy. Just
+push the main rock all the way down the hallway so you're shielded
+from the bug. Grab diamond #1. When you trap the bug against the
+left wall, A-grab the dirt underneath the diamond so that the
+diamond falls and lets the bug have a bigger cage. Then A-grab
+the diamond at just the right time and run back to the exit.
+Or you could squash the bug. It's up to you, really.
+
+
++++World 19-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  24|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+They've added a bug to this level. So what else is new?! You need
+every last diamond in this level as well. Squash the bug if you want,
+he can get annoying.
+
+There are a lot more physical changes here, like additions of wall
+blocks in various places. 
+
+There's a really easy way to squash the bug. Right above the
+bug cage and a square over should be a rock. Let the rock drop,
+then push it so that it sits on the edge of the wall. Then
+A-grab the bug's cage open and step up. The rock will
+topple and hit the bug. :)
+
+
++++World 19-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  55|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Now every cage has 2 bugs. You need to squash 7 of the 8.
+If you plan on crushing bugs with diamonds or crushing a bug
+up against the wall (so it only gives you 6 not 9) then
+you're gonna have to crush all 8 of them.
+
+
+Grit your teeth and say "bring it on."
+
+
+                        ===||==ICE WORLD==||===
+                         ==||===round 4===||== 
+                          =||=====|||=====||=
+
+Password: 723846
+
+
++++World 20-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:   8|
+|--------------------|
+|TIME LIMIT:       80|
+|--------------------|
+
+You need all the diamonds. 4 of the cages have 2 bugs in them. The other 4
+only have 1. Use method X to complete this level in the impossibly small
+time limit and get your butt out the door. The time limit is so small,
+You'll probably end up having to Hail Mary grab the last one!
+
+
++++World 20-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:   8|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Similar situation. You need all the diamonds. 4 of the 8 cages have 2 bugs.
+Get creative and squash/trap/whatever all 12 of the bugs in this stage
+so you can steal their treasures and exit.
+
+Whew! I made it in 5 seconds to spare!
+
+
+
++++World 20-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  20|
+|--------------------|
+|TIME LIMIT:      150|
+|--------------------|
+
+They've gone and moved the amebas to the left. You'll have to work
+with them in a whole new environment. You need to trap at least 14
+of them.
+
+I highly recommend that you do something with the bug
+that's right next to the amebas. He can get tricky to dodge.
+
+
+
++++World 20-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  18|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Only change since last time is that there's an extra bug blocking
+your exit. Get him outta there before leaving.
+
+
+                        ===||==SAND WORLD=||===
+                         ==||===round 4===||== 
+                          =||=====|||=====||=
+
+Password: 231750
+
+
++++World 21-1+++
+
+|--------------------|
+|DIAMONDS NEEDED: 140|
+|--------------------|
+|TIME LIMIT:      170|
+|--------------------|
+
+Not much to say here. Use all the navigation skill you have to snag those 
+140 diamonds! Much Luck!
+
+You'll get plenty if you do the through-the-middle trick and the
+through-the-left-side trick.
+
+
++++World 21-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  12|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+A very interesting change: it seems that 2 bugs have been inserted into
+your sand field to the right. Avoid them as you make your shelves. It's
+not easy, I know, but it's the only way. There's nothing to squash them
+with and it's horrible if you let them out. So just avoid them and do
+your best with the shelf method.
+
+Again, you need all the diamonds except the one stuck under the
+bug in the lower left corner.
+
+Since time is your main enemy here, your last 1 or 2 bugs will
+probably not go on a shelf. Just ditch them somewhere quick
+and convenient on the big square. Remember to make your loop
+on the inside of the square or the bug will not get trapped.
+
+
++++World 21-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:   6|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+They've added a bug north of the exit chamber, and you must
+get all the diamonds. Rock on. 
+
+Oh, and they've added some extra wall in the upper hallway,
+making it kinda tough to get into the 3rd diamond chamber.
+It might seem at first that it's impossible to get into there,
+but the rocks will topple right away from the opening if you
+dig the other side out.
+
+The exit is really easy to block. If the exit chamber gets
+blocked, use the new bug (north) to blow a hole in the
+staircase.
+
+
++++World 21-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  19|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+At first, you might wonder what the big change in this level
+is going to be. The camera pan doesn't show it. You'll go through
+the first part of the level as usual... use the first bug to get
+into the diamond chamber, yadda yadda... make your way across the
+top, yadda yadda... you need all 19 of the diamonds in this stage,
+but you did last time too, yadda yadda... 
+But don't worry, you'll come to it soon enough.
+
+Remember column #3? It's sealed off from the top.
+
+It actually isn't that hard to get around. Use one of the rocks
+poised on the right side of column #3 to hit a bug and blast the
+chamber open. 
+
+Once inside, clear out the bottomish part like you normally do.
+
+Notice how there's a stacked pile of 4 rocks in this chamber. Remove
+the dirt from the left side of that pile, but not from under it.
+Keep 2 dirt squares side-by-side under the pile. You're going to make
+the pile topple so that one rock will fall onto that middle dirt
+square. Once it has, remove the dirt from under the old pile and let
+the remaining rocks drop.
+
+Then go get a bug and kick the rock onto it. Collect the last 2 diamonds
+and leave.
+
+If you have any odd jobs to be done or if you've made any mistakes to be
+fixed, there is that one last bug up top you can use for whatever you want.
+
+
+                        ===||=OCEAN WORLD=||===
+                         ==||===round 4===||== 
+                          =||=====|||=====||=
+
+Password: 228733
+
+
++++World 22-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  55|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+The amebas start out on your left this time. Surprisingly, this
+actually makes the level harder. How? Well, somehow, squids are
+more likely to be deleted by explosions. Which means, less
+diamonds. Try not to clear very much room to the right of the amebas.
+
+The ameba-squid explosions probably won't give you all the diamonds
+you need. Several squids will probably be stuck going in
+circles in their original cage. They need to be un-stuck.
+
+Push rocks into their circular path, then dispatch them and
+take their diamonds.
+
+
+
++++World 22-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  40|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+Gee wiz!! How easy does this level get?! It's interesting that this level 
+started off hard, but now it's freaking easy! Just look at all the rocks 
+they gave you. Smash at least 4 of the bugs with those rocks (Try not to 
+smash one against the wall so you're robbed of 3 diamonds, but you can and 
+still win) then do the double-smash trick on the last two. Easy easy!
+
+
++++World 22-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  25|
+|--------------------|
+|TIME LIMIT:      120|
+|--------------------|
+
+
+The only tough part is that you need to let out the 2 puffer fish
+in the "V" if you want to drop enough rocks into the magic wall.
+
+Make sure you don't drop too many in there! The diamonds will get
+backed up and the magic wall will stop working if you're not careful!
+
+
++++World 22-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  35|
+|--------------------|
+|TIME LIMIT:      180|
+|--------------------|
+
+18 diamonds should come from the squids. The rest come from the
+magic wall. 17 is a lot of rocks to drop in there, so you
+need to do a lot of pushing over from the left before the walls 
+deactivate.
+
+
+Heh, you never had to use that left box, did you? :)
+
+
+                        ===||=RELIC WORLD=||===
+                         ==||===round 4===||== 
+                          =||=====|||=====||=
+
+Password: 923838
+
+
++++World 23-1+++
+
+|--------------------|
+|DIAMONDS NEEDED:  56|
+|--------------------|
+|TIME LIMIT:      100|
+|--------------------|
+
+When you get to the top, you'll find that somebody let the bugs out.
+
+Who? Who Who Who?
+
+But don't worry, they've supplied you with some convenient rocks
+in order to squash them. And that's a good thing too, because
+you need every last diamond in that pile!
+
+
++++World 23-2+++
+
+|--------------------|
+|DIAMONDS NEEDED:  85|
+|--------------------|
+|TIME LIMIT:       90|
+|--------------------|
+
+Since this time limit is so horrible, we'll need to modify our
+strategy one more time.
+
+A very odd but pointless change was made to the first
+bug column you start out with. Just squash the bug.
+
+Then, do the 'cheat' strategy with the leftmost blocker bug.
+That'll open the exit chamber. Then run across 3 of the bug
+columns and drop the rocks on them, but spare the 4th for now.
+(you'll be sparing your own life as well, because that blocker bug on
+the right is still there). Instead, wait for that diamond bug to
+go into the exit chamber and crunch it with a rock from the
+diagonal row for 9 diamonds. If it gives you less than 9, you're
+dead. Sorry. Then hurry and situate the rocks and crunch the
+remaining bugs for the rest of your diamonds. Then exit!
+
+
++++World 23-3+++
+
+|--------------------|
+|DIAMONDS NEEDED:  45|
+|--------------------|
+|TIME LIMIT:      130|
+|--------------------|
+
+Madness. Complete madness. Look, they've removed 8 of your free
+diamonds. You only have 2 free ones. And look, they've added
+a non-diamond bug in with all the diamond bugs. And the diamond
+bugs in the rightmost corner have returned. You need all of them.
+
+Since the non-diamond bugs will take a left turn at the top of
+the staircase, use one to break open the exit chamber.
+
+When you open the double bug cages, notice how while the
+bugs are circling around the box, they will take turns getting
+stuck. that means you can effectively leave the non-diamond
+bugs in the boxes if you time it right. 
+
+So: For the first cage, let them both out and open the
+exit chamber. For the remaining cages, only let out the diamond bug.
+
+If you use this strategy, you'll have just enough rocks to
+complete the level.
+
+
++++World 23-4+++
+
+|--------------------|
+|DIAMONDS NEEDED:  85|
+|--------------------|
+|TIME LIMIT:      130|
+|--------------------|
+
+Lots of diamonds to get!! The only difference is: in the 2 main diamond 
+columns on the left, a diamond has been replaced with a wall in each column. 
+Not only does it subtract from your total, it also makes it really easy to 
+get stuck down there under the rocks that fall. If you don't want to get
+stuck you must push one of the rocks out of the way before you go down
+into the column. How? Well, delete one of the rocks with the explosion you
+use to open the floor, then push the other one out of the way. If you don't,
+I'm telling you, either you or your diamonds will get trapped down there.
+
+Other than that, not much different physically from the other versions of
+this level. You can get a lot of diamonds from the avalanche zone, so don't
+feel bad if some of your diamonds get trapped in the columns.
+
+Read on once you've beaten the level...
+
+
+
+This is it! No longer will you have to sleep out in this barren wasteland,
+in sub-zero temperatures, with no roof above your head. No longer
+must you have to devour raw animals for food. No longer must you 
+endure the proud, mocking voices of the citizens who have earned 
+a place to live. No more. For tomorrow...
+
+...
+
+Nevermind, I must be thinking of something else.
+
+Anyway, here goes your last struggle. The hardest world in the game.
+THIS IS...
+
+                        ===||VOLCANO WORLD||===
+                         ==||===round 4===||== 
+                          =||=====|||=====||=
+                       
+                       a.k.a. "FINAL DESTINATION"
+
+Password: 184904
+
+
+***World 24-1***
+
+**********************
+*DIAMONDS NEEDED: 120*
+**********************
+*TIME LIMIT:      200*
+**********************
+
+And you thought this game wasn't going to have a boss. Bah. Guess
+what. It does have a boss. The boss is this level.
+
+This is the hardest level in the game, so may all
+aspects of fortune be with you. Of course, with practice
+it will become easy. Note that, on even a semi-good run
+through this level, you're gonna get at least 2 or 3
+1-UPs. That means you can do this level infinitely. 
+That's why I say save it until last.
+
+It's level 6-1 remade, of course. But check out your diamond quota.
+120, you say. Right. Now guess how many diamonds total there are
+in this stage.
+
+... very good! There are exactly 120 diamonds in this stage.
+That means you must get them ALL!!! EVERY LAST ONE!!! Any less, and
+you don't pass the level. 
+
+The key to beating world 24-1 is developing a pattern. Discover
+a move method for depleting each of the 3 diamond cells. Remember
+to use A-grabbing, and remember toppling and pushing. When you
+find something that works for one of the diamond cells, for
+heaven's sake keep doing it! If you find a way that doesn't work,
+smile over at Mr. Thomas Edison and try another way until you
+find one that works.
+
+I have my own move pattern for beating this level, but there's
+no way on earth I can dump it into a text file like this in any
+understandable form whatsoever.
+
+Oh yeah, they did throw in one more kicker into this level.
+Remember in cell #3 there were those 2 rocks conveniently poised,
+one of them ready to crush a bug to open the last hallway? They
+are no longer there. In order to destroy that wall, you must
+preserve one of the rocks in a similar position from falling
+while you clear out cell #3. There's one 4 squares lower
+than where the rock used to be, and I usually use that one.
+
+If you don't, you have to do it the way the game creators
+thought they made you do it. And that is to let all 3 of the
+bugs out, destroy the wall inside of the bug container,
+and run down with rocks falling at your back- similar to what
+you did on the far right side. Not pleasant at all.
+
+
+***World 24-2***
+
+**********************
+*DIAMONDS NEEDED:  80*
+**********************
+*TIME LIMIT:      190*
+**********************
+
+This level is hard also. You MUST get every diamond in the stage.
+
+When it comes time to open the exit chamber, you'll notice there is
+a spare bug in there. That is the bug you must use to open both the
+final diamond cell and the magic wall chamber at the same time.
+
+Once that wall is opened and you collect the 12 diamonds in the
+cell, notice your quota. 4. Well, you can get 3 of those from
+the magic wall, but where does the last one come from?
+
+That's why there are 2 extra bugs waiting for you at the top of
+the bug chamber. You must use one of them to break the wall 
+ABOVE the magic wall, so that you may drop an extra rock into 
+the magic wall. TRICKY!! Make sure you don't destroy the rock
+you plan on dropping into the wall. There should be only one
+available, so keep it safe.
+
+
+***World 24-3***
+
+**********************
+*DIAMONDS NEEDED:  80*
+**********************
+*TIME LIMIT:      250*
+**********************
+
+Come on, you only have to do this stage one more time. You can do it!
+
+To make things harder, they've added a load of bugs around the exit.
+You must let one of them out if you want to exit safely. Thing is,
+that's not safe at all either. Like I said, this level is mostly
+luck. That's why I say do it first so you won't have to cry
+later.
+
+Not only that, but they've removed some of the rocks surrounding
+the amebas. How nice.
+
+To make things easier, they've actually boosted the time limit. YEa!
+Still, no matter the time limit, 80 diamonds is a lot to ask for. Make
+sure the ameba cage is nowhere near small.
+
+The last part, the let-the-bugs-out part, is the hardest part.
+There are 2 ways of doing it. The first is coming in from the
+top and navigating down. If you're careful, you don't need
+to let any out. The second is coming from the left and letting
+the 1 bug out and safely making your way to the exit.
+
+Either way, it's pretty tough. Make sure you jump for joy a
+few times when you finally beat this one.
+
+
+***World 24-4***
+
+**********************
+*DIAMONDS NEEDED:  50*
+**********************
+*TIME LIMIT:      190*
+**********************
+
+Unfortunately for you, this level contains the most twisted physical
+change in the whole game. There are 4 diamond slots, each with 10
+diamonds in them. Do the math. You don't have enough. So where do
+the extra 10 come in?
+
+Well, if you look on the left side of all the bugs, you'll see that
+the last two bugs are the diamond bugs from Relic World! You need
+to crush both of them if you want to meet your diamond quota.
+
+You'll use 6 of the bugs for destroying walls. There is one extra
+non-diamond bug before the diamond bugs come. Crush it and then
+let out the first diamond bug. He will follow the bottom wall
+instead of the top like the non-diamond bugs do. Be aware of this
+as you step out of it's way. You can easily crush it at the bottom
+of the map with one of the many rocks lined up for you. Do the same
+with the second. 
+
+They've added an extra bug down below the diamonds at the bottom
+right corner of the map. You don't have to deal with him if
+you punch out on the left wall instead of the right.
+
+Now quickly (because your time is running out) make your way
+to the exit!! Destroy the 2 bugs to open the exit and get out
+of here.
+
+This is personally the last level I do (Since I'm sooo good at
+level 1 [/brag]), so I like to call this exit door the "DOOR OF VICTORY" !
+
+Yea! w00t! I win!!! 
+
+Oh wait. Sorry. If you did the levels out of order like I asked you
+to, save your celebration for last. Please ;)
+
+
+
+When you win, it will have the same "WONDERFUL" screen as always.
+
+It will then show the credits underneath all of the stage intro
+animations, taking a freeze-frame of each of them. 
+
+Finally, it will show Rocky standing on top of his pile of diamonds
+waving to you. The words "The End." display underneath.
+
+Sniff... How sad... how wonderful... The ending always makes me cry
+
+Excuse me for a moment.
+
+
+=============================================================================
+
+
+  _______________
+_/ 7. References \___________________________________________________________
+
+Seeing that this is the only Boulderdash guide/FAQ in existence, I've 
+compiled
+this little bit of extra information.
+
+1. Demos
+2. Diamond Points
+3. Bug References.
+4. Misc. Numbers.
+5. Graphics List
+6. Glitches
+7. Passwords At-A-Glance
+
+
+1. Demos.
+
+The first Demo shows World 1-1 being completed. Rocky picks up 15 diamonds 
+and steps into the exit with 100 seconds to spare.
+
+The second demo shows World 3-1 being played. No diamonds are picked up, and
+Rocky commits diamond suicide with 180 remaining on the timer.
+
+The third demo shows World 4-1 being played. Rocky lets out some of the
+squids, hits them with a rock, and then a diamond falls on him.
+
+In the demos he is wearing the default orange suit.
+
+
+
+
+2. Diamond Points.
+
+Diamonds give varying amounts of points in each stage.
+
+Points for quota diamonds / Points for extra diamonds:
+
+1-1: 10/15
+1-2: 20/50
+1-3:  5/25
+1-4:  5/10
+
+2-1: 50/90
+2-2: 40/60
+2-3: 10/20
+2-4: 10/20
+
+3-1:  5/10
+3-2: 25/60
+3-3: 50/80
+3-4: 20/40
+
+4-1:  5/ 8
+4-2: 10/20
+4-3: 10/20
+4-4: 10/20
+
+5-1: 10/15
+5-2: 10/15
+5-3: 10/15
+5-4: 10/15
+
+6-1: 10/15
+6-2: 10/15
+6-3: 10/15
+6-4: 10/15
+
+I guess the creators just got lazy for the last 2 worlds, they're all
+10/15. And I believe they're the same for all 4 quests.
+
+
+3: Bug References.
+
+Diamond bugs move counterclockwise around the inside of a cage
+and clockwise around the outside of something.
+
+Non-diamond bugs move clockwise around the inside of a cage
+and counterclockwise around the outside of something.
+
+Points for killing Diamond bugs: Always 0
+
+Points for killing non-diamond bugs:
+
+Boulder World: 200
+Ice World:     250
+Desert World:  300
+Ocean World:   350
+Relic World:   400
+Volcano World: 450
+
+4. Misc. Numbers.
+
+Number of Quests: 4
+Number of Worlds: 24
+Number of Levels: 96
+
+Max. Number of Lives: 9
+Points for a 1-Up:  about 2000, it changes slightly
+
+Seconds left on timer when music speeds up: 30
+
+Max. Seconds left for "Lucky" score: 30
+Max. Seconds left for "Nice" score: 65
+
+
+5. Graphics List.
+
+Boulder World
+
+Rocks:           Boulders
+Dirt:            Dirt
+Wall:            Pyramid Brick
+Empty Space:     Dark dirt
+Diamond Bug:     Butterfly
+Non-diamond Bug: Moth
+
+Ice World
+
+Rock:            Mammoth
+Dirt:            Ice
+Wall:            Pillar
+Empty Space:     Dark Ice
+Diamond Bug:     None
+Non-Diamond Bug: Penguin
+
+Sand World
+
+Rock:            Skull
+Dirt:            Sand
+Wall:            Pyramid brick
+Empty Space:     Dark sand
+Diamond Bug:     None
+Non-Diamond Bug: Scorpion
+
+Ocean World
+
+Rock:            Head
+Dirt:            Seaweed
+Wall:            Pillar
+Empty Space:     Bubbles
+Diamond Bug:     Squid
+Non-Diamond Bug: Puffer Fish
+
+Relic World
+
+Rock:            Marble
+Dirt:            Vine
+Wall:            Face brick
+Empty Space:     Dark vine
+Diamond Bug:     Voodo Man
+Non-Diamond Bug: Moth
+
+Volcano World
+
+Rock:            Skull
+Dirt:            Lava
+Wall:            Face brick
+Empty Space:     Dark lava 
+Diamond Bug:     Voodo Man
+Non-Diamond Bug: Spider

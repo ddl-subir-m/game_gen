@@ -1,0 +1,1331 @@
+1) This game is one of the original groundbreakers for Nintendo that has
+   enraptured fans for years.  You are a racer who wears red, and you can
+   challenge the course by yourself, or with some fellow racers (decked out
+   in blue and green outfits).  You need to finish in the top 3 in a race to
+   advance onwards, and this becomes incredibly difficult after the first 
+   couple of races.  If you have never played this classic, simple, 
+   addictive, incredibly fun game, then I suggest you try to in any way 
+   possible to relive a game that is beloved of many NES fans.
+
+----------------------------------------------------------------------------
+--------------------------------Controls------------------------------------
+----------------------------------------------------------------------------
+
+2) This section is going to look at how the controller helps you to achieve
+   dirt bike racing greatness.
+
+
+                          o-----------------o
+                          | Selection A & B |
+                          o-----------------o
+
+D-Pad...: UP and DOWN move you in corresponding directions on the track.  
+          LEFT moves the bike front wheel up (pull back), and RIGHT moves 
+          the bike front wheel down (push forward).  This is only relevant 
+          when in the air (ie RIGHT), but the LEFT command can be used to
+          drive over tiny speed bumps safely.
+
+SELECT..: Moves cursor flag between play modes, and also track numbers.
+
+START...: Picks play mode, and track number.  Also pauses/unpauses the game.
+
+B Button: Uses the faster gear for your bike, but it can overheat you.
+
+A Button: Uses the slower gear for your bike, but it will not overheat you.
+
+
+                              o--------o
+                              | Design |
+                              o--------o
+
+D-Pad...: LEFT and RIGHT move your cursor to a new formation to build.
+
+SELECT..: Moves your cursor through the selections available in this mode.
+
+START...: Picks selection.
+
+B Button: Builds your selected obstacle.
+
+A Button: Moves the dirt bike so you can continue to design your course.
+
+----------------------------------------------------------------------------
+------------------------------Game Modes------------------------------------
+----------------------------------------------------------------------------
+
+3) This section will review what each game mode entails.
+
+
+                            o-------------o
+                            | Selection A |
+                            o-------------o
+
+-This setting is just you vs. the course.  This is an excellent place for a
+ player to begin their days of Excitebike playing.  This will allow a player
+ to learn the ropes, and yet still be challenged by the harder courses, as
+ they progress.
+
+
+                            o-------------o
+                            | Selection B |
+                            o-------------o
+
+-This setting is you vs. the course vs. opponents.  This is a tougher
+ challenge for a player, because the opponents can wipe you out, and also
+ cut you off (keeping your speed lower since you do not want to crash).  
+ Although they are annoying, it adds a new dimension to the tracks you have
+ come to know and love while playing Selection A.  This will give you a
+ fresh look at the fun you have had the first time through.
+
+
+                               o--------o
+                               | Design |
+                               o--------o
+
+-This setting is you vs. YOUR COURSE.  You are the designer, so you can make
+ it as easy, or as incredibly difficult for you to finish.  This is also an
+ excellent way for a group of friends to challenge each other in turn
+ alternating challenge of who can get the fastest time.
+
+----------------------------------------------------------------------------
+------------------------------Design Guides---------------------------------
+----------------------------------------------------------------------------
+
+4) This section will go over what letter builds what shape, but it will also
+   show a diagram of each obstacle.  These drawings are not exact replicas,
+   but it should give you an idea of what you are looking for.
+
+
+A - A small bump jump that poses little speed loss, but also little airtime.
+
+B - A slightly taller bump jump, that can pose some speed loss, but will 
+    give more airtime.
+
+C - The largest of the bump jump series, this one can really sap your speed,
+    but it will give some great air if you hit it with some speed.
+
+D - This one is a shallower slope, but it is a prolonged slope.  Not very
+    good for airtime.
+
+E - This is a steep slope, but it gives an excellent angle to get great 
+    airtime.
+
+F - Sloped to give you an easier climb, and a better angle to jump.  This is
+    an opportune piece to get huge airtime off of.
+
+G - The mirror piece of the above.  It has a harsh slope, and this means
+    less airtime.
+
+H - This is the ultimate jumping piece.  It is a 45 degree angle (optimum
+    angle), and it is short so no loss of speed.
+
+I - This is a small speed bump that appears on the top two sections of the
+    courses.
+
+J - This is a small speed bump that appears on the bottom two sections of
+    the courses.
+
+K - Two piles of dirt, located in sections 1 and 3 on the course.
+
+L - Two piles of dirt, located in sections 2 and 4 on the course.
+
+M - This is an engine cooler.  It is especially helpful since it allows you
+    to use your stronger gear more often.  This appears on the 1st section
+    of the track.
+
+N - This is an engine cooler.  It is especially helpful since it allows you
+    to use your stronger gear more often.  This appears on the 3rd section
+    of the track.
+
+O - Is a patch of grass found on the bottom two sections of the track.
+
+P - Is a patch of grass found on the top two sections of the track.
+
+Q - Is a patch of grass that cuts off the track completely (usually found in
+    an area where a jump can be used to clear it).
+
+R - This is a large, many angled monstrosity that can give many riders fits
+    if they can not use it properly.  It is the largest obstacle you face.
+
+S - Has a big overhang on the top two sections, but the bottom two contains
+    pathway with dirt piles to slow you down.
+
+
+   After you finish your designed course, just go to END, press B, and then
+   set lap number with D-Pad, and then press B to confirm.  This will bring
+   you back to the DESIGN menu, where you can choose a play mode, or another
+   available option.  Also, remember I am representing 2.5 D pictures with
+   2 D drawings, so not all of them will appear quite the same as in the 
+   game.
+
+----------------------------------------------------------------------------
+------------------------Track 1 Map, Stats, And Strategy--------------------
+----------------------------------------------------------------------------
+
+5) This section is going to look at the first track map, and strategies for
+   various parts/combos/sections of this course.  The course will be drawn
+   left to right, and it will just move down to the next part when room runs
+   out (it will be easy to follow).  I will be using the design letters for
+   identifying obstacles as well as drawings.
+
+
+____________________________________________________________________________
+                []
+____________________________________________________________________________
+            []
+____________________________________________________________________________
+        []
+____________________________________________________________________________
+    []
+____________________________________________________________________________
+
+
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+                _
+               /|\
+              / | \                                     _
+             /  |\ \                                   /|\
+____________/   | \ \_________________________________/ | \_________________
+            |   |\ \                                  | |\
+____________|   | \ \_________________________________| | \_________________
+DD          |   |\ \                                  | |\
+____________|   | \ \_________________________________| | \_________________
+            |  / \ \                                  | |\
+____________| /   \ \_________________________________| | \_________________
+DD          |/     \                                  |/ \
+____________/_______\_________________________________/___\_________________
+
+                C                                       B
+
+
+                              _       _
+                             /|\     /|\
+____________________________/ | \___/ | \___________________________________
+                            | |\    | |\
+____________________________| | \___| | \___________________________________
+                            | |\    | |\
+____________________________| | \___| | \___________________________________
+                            | |\    | |\
+____________________________| | \___| | \___________________________________
+                >>          |/ \    |/ \
+____________________________/___\___/___\___________________________________
+
+                M             B       B
+
+
+                  _       _       _
+                 /|\     /|\     /|\
+________________/ | \___/ | \___/ | \_______________________________________
+                | |\    | |\    | |\               >>                  DD
+________________| | \___| | \___| | \_______________________________________
+                | |\    | |\    | |\
+________________| | \___| | \___| | \_______________________________________
+                | |\    | |\    | |\                                   DD
+________________| | \___| | \___| | \_______________________________________
+                |/ \    |/ \    |/ \
+________________/___\___/___\___/___\_______________________________________
+
+                  B       B       B                M                   K
+
+
+        _        _
+       /|\      /|\                                                   /|
+______/ ||______|| \_________________________________________________/ |____
+      | ||      ||\                                                 |  |
+______| ||______|| \________________________________________________|  |____
+      | ||      ||\                                                 | /|
+______| ||______|| \________________________________________________|/_|____
+      | ||      ||\
+______| ||______|| \________________________________________________________
+      |/ \      / \
+______/__|______|  \________________________________________________________
+
+       F         G                                                    H
+
+
+
+
+                  /|                                /|   _    _    _    _
+_________________/ |_______________________________/ |__/|\__/|\__/|\__/|\__
+            >>  |  |                              |  |  ||   ||   ||   ||
+________________|  |______________________________|  |__||\__||\__||\__||\__
+                | /|                              | /|  ||   ||   ||   ||
+________________|/_|______________________________|/_|__||\__||\__||\__||\__
+                                                        ||   ||   ||   ||
+________________________________________________________||\__||\__||\__||\__
+                                                        ||   ||   ||   ||
+________________________________________________________/_\__/_\__/_\__/_\__
+
+            M     H                                 H    A    A    A    A
+
+
+
+               _
+              /|\                                      ___      ___       
+_____________/ ||____               __________________/| |\ __ /| |\_______
+              /||    |GGGGGGGGGGGGG|                 | | | |  | | | |    
+_____________/ ||____|GGGGGGGGGGGGG|_________________| | | |__| | | |______
+              /||    |GGGGGGGGGGGGG|                 | | | |  | | | |    
+_____________/ ||____|GGGGGGGGGGGGG|_________________| | | |__| | | |______
+              /||    |GGGGGGGGGGGGG|                 | | | |  | | | |     
+_____________/ ||____|GGGGGGGGGGGGG|_________________| | | |__| | | |______
+              / \    |GGGGGGGGGGGGG|                 | |_| |  | |_| |     
+_____________/__|____|GGGGGGGGGGGGG|_________________|/___\|__|/___\|______
+
+               F            Q                           D      D         
+
+
+
+   ___     ___
+__/| |\___/| |\_____________________________________________________________
+ | | | | | | | |                      DD                    DD
+_| | | |_| | | |____________________________________________________________
+ | | | | | | | |                                 DD
+_| | | |_| | | |____________________________________________________________
+ | | | | | | | |                      DD                    DD
+_| | | |_| | | |____________________________________________________________
+ | |_| | | |_| |                                 DD
+_|/___\|__/___\|____________________________________________________________
+
+    D       D                         K          L          K
+
+
+
+       _________
+      /|       |\
+_____/ |       | \__
+     | |       |\ |
+_____| |       | \|_
+     | |       |\ |
+_____| |       | \|_
+     | |       |\ |
+_____| |_______| \|_
+     |/ THE END \ |
+_____/___________\|_
+
+
+   This is the course map for track 1, and now you will recieve a strategy
+   to follow.
+
+
+                                  o--------o
+                                  | Step#1 |
+                                  o--------o
+
+Start by using your B gear to get out quickly, and go over the first four 
+bumps, and straighten your bike out in the air (see Strategies section for
+details) so you will land smoothly (and lose no speed).
+
+
+                                  o--------o
+                                  | Step#2 |
+                                  o--------o
+
+Traverse the triple set of 'B' bumps, and make sure to drive near the top of
+the track so you can grab the cool down area.
+
+
+                                  o--------o
+                                  | Step#3 |
+                                  o--------o
+
+Avoid the dirt (you should be back in B gear), and jump from 'F' to 'G', take
+the awesome 'H' jump, and then get another cool down area just before taking 
+to the air on another 'H' jump.
+
+
+                                  o--------o
+                                  | Step#4 |
+                                  o--------o
+
+Take yet another 'H' jump, and fly over the four small bumps.  Then keep 
+your speed up so you can try to clear the grass field off of the 'F' jump.
+
+
+                                  o--------o
+                                  | Step#5 |
+                                  o--------o
+
+Then you just need to navigate the 'D' bumps, and then slalom the dirt 
+piles, and finish the lap.
+
+
+                                  o--------o
+                                  | Step#6 |
+                                  o--------o
+
+Repeat Step#1 through Step#5 to easily get under one minute, and on to track
+2.
+
+----------------------------------------------------------------------------
+------------------------Track 2 Map, Stats, And Strategy--------------------
+----------------------------------------------------------------------------
+
+6) This section is going to look at the second track map, and strategies for
+   various parts/combos/sections of this course.  The course will be drawn
+   left to right, and it will just move down to the next part when room runs
+   out (it will be easy to follow).  I will be using the design letters for
+   identifying obstacles as well as drawings.
+
+
+____________________________________________________________________________
+                []
+____________________________________________________________________________
+            []
+____________________________________________________________________________
+        []
+____________________________________________________________________________
+    []
+____________________________________________________________________________
+
+
+
+
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+
+
+                _____
+               /|   |\                    _
+           ___/ |   | \_                 /|\
+__________/|  | |   |\ |\_______________/ | \_______________________________
+         | |  | |   | \|                | |\                  DD
+_________| |  | |   |\ |\_______________| | \_______________________________
+         | |  | |   | \|                | |\
+_________| |  | |   |\ |\_______________| | \_______________________________
+         | |  | |___| \|                | |\                  DD
+_________| |  |/     \ |\_______________| | \_______________________________
+         | |__/       \|                |/ \
+_________|/_____________\_______________/___\_______________________________
+
+                 R                        B                   K
+
+
+
+
+                _____
+               /|   |\                          _                _
+           ___/ |   | \_                       /|\              /|\
+__________/|  | |   |\ |\_____________________/ | \____________/ | \_______
+         | |  | |   | \|          >>          | |\             | |\     
+_________| |  | |   |\ |\_____________________| | \____________| | \_______
+         | |  | |   | \|                      | |\             | |\
+_________| |  | |   |\ |\_____________________| | \____________| | \_______
+         | |  | |___| \|                      | |\             | |\
+_________| |  |/     \ |\_____________________| | \____________| | \_______
+         | |__/       \|              >>      |/ \             |/ \
+_________|/_____________\_____________________/___\____________/___\_______
+
+                 R                M   N         B                B
+
+
+                  _
+                  X
+            _    /|\                              /|   _
+___________/|\__/ | \____________________________/ |__/|\__               __
+           ||   | |\                            |  |  ||   |GGGGGGGGGGGGG|
+___________||\__| | \___________________________|  |__||\__|GGGGGGGGGGGGG|__
+           ||   | |\                            | /|  ||   |GGGGGGGGGGGGG|
+___________||\__| | \___________________________|/_|__||\__|GGGGGGGGGGGGG|__
+           ||   | |\                                  ||   |GGGGGGGGGGGGG|
+___________||\__| X \_________________________________||\__|GGGGGGGGGGGGG|__
+           ||   |/ \                                  ||   |GGGGGGGGGGGGG|
+___________/_\__/___\_________________________________/_\__|GGGGGGGGGGGGG|__
+
+            A     E                               H    A          Q
+
+
+
+  /|                                                         ___      ___
+_/ |___                       ______________________________/| |\____/| |\__
+|  |   |GGGGGGGGGGGGGGGGGGGGG|                             | | | |  | | | |
+|  |___|GGGGGGGGGGGGGGGGGGGGG|_____________________________| | | |__| | | |_
+| /|   |GGGGGGGGGGGGGGGGGGGGG|                             | | | |  | | | |
+|/_|___|GGGGGGGGGGGGGGGGGGGGG|_____________________________| | | |__| | | |_
+       |GGGGGGGGGGGGGGGGGGGGG|                             | | | |  | | | |
+_______|GGGGGGGGGGGGGGGGGGGGG|_____________________________| | | |__| | | |_
+       |GGGGGGGGGGGGGGGGGGGGG|                   >>        | |_| |  | |_| |
+_______|GGGGGGGGGGGGGGGGGGGGG|_____________________________|/___\|__|/___\|_
+
+ H                Q                              N            D        D
+
+
+   ___     ___
+__/| |\___/| |\_________________________ GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+ | | | | | | | |                        |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+_| | | |_| | | |________________________|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+ | | | | | | | |                        |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+_| | | |_| | | |________________________|_________________________________
+ | | | | | | | |                
+_| | | |_| | | |__________________________________________________________
+ | |_| | | |_| |                
+_|/___\|__/___\|__________________________________________________________
+
+    D       D                                              P
+
+
+
+                       _____________________________________________________
+GGGGGGGGGGGGGGGGGGGGGG|                         DD                        DD
+GGGGGGGGGGGGGGGGGGGGGG|_____________________________________________________
+GGGGGGGGGGGGGGGGGGGGGG|                                       DD
+GGGGGGGGGGGGGGGGGGGGGG|_____________________________________________________
+                                                DD                        DD
+____________________________________________________________________________
+                                                              DD
+____________________________________________________________________________
+
+         P                                      K             L           K
+
+
+
+
+               _________
+              /|       |\
+_____________/ |       | \__
+             | |       |\ |
+_____________| |       | \|_
+             | |       |\ |
+_____________| |       | \|_
+             | |       |\ |
+_____________| |_______| \|_
+             |/ THE END \ |
+_____________/___________\|_
+
+
+   This is the course map for track 2, and now you will receive a strategy
+   to follow.
+
+
+                                  o--------o
+                                  | Step#1 |
+                                  o--------o
+
+Start by using the B gear to get out quickly, and then let your bike hit the
+first upward slope of the multi-angled monstrosities ('R' obstacles), change 
+to A gear, and then lean bike forward to run down opposite slope.  Use A gear
+till you see the dirt piles, and then switch to B gear so you can hit the 'R'
+obstacle fast enough to use the same strategy.
+
+
+                                  o--------o
+                                  | Step#2 |
+                                  o--------o
+
+Use the cool down area, and get over the 'B' obstacles quickly.  Then you 
+need to hit the 'A' obstacle, and pull back slightly on the bike so you will 
+not wipe out on the 'E' obstacle.
+
+
+                                  o--------o
+                                  | Step#3 |
+                                  o--------o
+
+Ignore the jump, and use the small 'A' obstacle to clear most of the grass.  
+Cut upwards towards the next jump, and then fly the next grass patch.
+
+
+                                  o--------o
+                                  | Step#4 |
+                                  o--------o
+
+Move to the bottom of the track to get a cool down, and use your refreshed 
+engine to navigate quickly through the 'D' obstacles.
+
+
+                                  o--------o
+                                  | Step#5 |
+                                  o--------o
+
+Then it is a simple matter of avoiding the slow down obstacles, and drive 
+over the lap counter.
+
+
+                                  o--------o
+                                  | Step#6 |
+                                  o--------o
+
+Repeat Step#1 through Step#5 to qualify easily for the next race.
+
+----------------------------------------------------------------------------
+------------------------Track 3 Map, Stats, And Strategy--------------------
+----------------------------------------------------------------------------
+
+7) This section is going to look at the third track map, some stats needed 
+   to advance, and strategies for various parts/combos/sections of this
+   course.  The course will be drawn left to right, and it will just move
+   down to the next part when room runs out (it will be easy to follow).  I
+   will be using the design letters for identifying obstacles as well as
+   drawings.
+
+
+____________________________________________________________________________
+                []
+____________________________________________________________________________
+            []
+____________________________________________________________________________
+        []
+____________________________________________________________________________
+    []
+____________________________________________________________________________
+
+
+
+
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+
+
+
+
+____||_______________________||_______________________||____________________
+    ||                       ||                       ||
+____||_______________________||_______________________||____________________
+    ||                       ||                       ||
+____||_______||______________||_______||______________||______________||____
+             ||                       ||                              ||
+_____________||_______________________||______________________________||____
+             ||                       ||                              ||
+_____________||_______________________||______________________________||____
+
+    I        J               I        J               I               J
+
+
+
+
+
+      _       _                          _           _
+     /|\     /|\                        /|\         /|\
+____/ | \___/ | \______________________/ ||_________|| \____________________
+    | |\    | |\                        /||         ||\          >>
+____| | \___| | \______________________/ ||_________|| \____________________
+    | |\    | |\                        /||         ||\
+____| | \___| | \______________________/ ||_________|| \____________________
+    | |\    | |\                        /||         ||\
+____| | \___| | \______________________/ ||_________|| \____________________
+    |/ \    |/ \                        / \         / \               >>
+____/___\___/___\______________________/__|_________|__\____________________
+
+      B       B                         F            G           M    N
+
+
+           _
+    _      X     _
+   /|\    /|\   /|\
+__/ ||___/ | \__|| \____________________
+   /||   | |\   ||\                     |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+__/ ||___| | \__|| \____________________|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+   /||   | |\   ||\                     |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+__/ ||___| | \__|| \____________________|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+   /||   | |\   ||\
+__/ ||___| X \__|| \________________________________________________________
+   /||   |/ \   ||\
+__/ ||___/___\__|| \________________________________________________________
+
+    F      E     G                                          P
+
+
+                                                          /|
+                       __________________________________/ |________________
+GGGGGGGGGGGGGGGGGGGGGG|                                 |  |
+GGGGGGGGGGGGGGGGGGGGGG|_________________________________|  |________________
+GGGGGGGGGGGGGGGGGGGGGG|                                 | /|
+GGGGGGGGGGGGGGGGGGGGGG|_________________________________|/_|________________
+                        
+____________________________________________________________________________
+                       
+____________________________________________________________________________
+
+         P                                                H
+
+
+                                                              _
+    _                                                        /|\
+   /|\                                         /|           / | \
+__/ | \___                        ____________/ |__________/  |\ \________||
+  | |\    |GGGGGGGGGGGGGGGGGGGGGG|           |  |          |  | \         ||
+__| | \___|GGGGGGGGGGGGGGGGGGGGGG|___________|  |__________|  |\ \________||
+  | |\    |GGGGGGGGGGGGGGGGGGGGGG|           | /|          |  | \         ||
+__| | \___|GGGGGGGGGGGGGGGGGGGGGG|___________|/_|__________|  |\ \________||
+  | |\    |GGGGGGGGGGGGGGGGGGGGGG|                         |  | \
+__| | \___|GGGGGGGGGGGGGGGGGGGGGG|_________________________| / \ \__________
+  |/ \    |GGGGGGGGGGGGGGGGGGGGGG|                         |/   \
+__/___\___|GGGGGGGGGGGGGGGGGGGGGG|_________________________/_____\__________
+
+    B                 Q                        H              C           I
+
+
+
+              _                                 _
+             /|\         _          _          /|\
+            / | \       /|\        /|\        / | \
+___________/  |\ \______|| \______/ | \______/  |\ \________________________
+           |  | \       ||\       | |\       |  | \                >>
+___________|  |\ \______|| \______| | \______|  |\ \________________________
+           |  | \       ||\       | |\       |  | \
+___________|  |\ \______|| \______| | \______|  |\ \________________________
+           |  | \       ||\       | |\       |  | \
+___________| / \ \______|| \______| | \______| / \ \________________________
+           |/   \       / \       |/ \        /   \
+___________/_____\______|  \______/   \______/_____\________________________
+
+              C          G          B           C                  M
+
+
+
+
+___                                                           ______________
+   |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|
+___|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|______________
+   |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|
+___|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|______________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+                                P
+
+
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+__                                                           _____________||
+  |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|             ||
+__|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|_____________||
+  |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|             ||
+__|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|_____________||
+
+                                P                                         J
+
+
+
+                                               _________
+                                              /|       |\
+___________________________||________________/ |       | \_
+                     DD    ||                | |       |\
+___________________________||________________| |       | \_
+          DD               ||                | |       |\
+___________________________||________________| |       | \_
+                     DD                      | |       |\
+_____________________________________________| |_______| \_
+          DD                                 |/ THE END \
+_____________________________________________/___________\_
+
+          L          K     I
+
+
+
+   This is the course map for track 3, and now you will receive a strategy
+   to follow.
+
+
+                                  o--------o
+                                  | Step#1 |
+                                  o--------o
+
+Start by using the B gear to get out quickly, and prepare to pull back on 
+your bike so you can pop-a-wheelie.  Then navigate the 'B' obstacles.
+
+
+                                  o--------o
+                                  | Step#2 |
+                                  o--------o
+
+Shoot over the 'F'/'G' obstacles, and use a cool down so you can open your 
+B gear up once more.  Continue off of obstacle 'F', and bounce off of the 
+'G' obstacle (straighten the bike out after this).
+
+
+                                  o--------o
+                                  | Step#3 |
+                                  o--------o
+
+Avoid the grass patch here, and then cut to the top half of the track to jump
+most of the grass patch.  Then use the B gear to regain enough speed so you 
+can use the next jump to fly over a 'C' obstacle.
+
+
+                                  o--------o
+                                  | Step#4 |
+                                  o--------o
+
+Watch out for the lone speed bump, and while maintaining a good speed launch 
+off of the 'C' obstacle, bounce off of the 'G' obstacle, go over the 'B', 
+and then the 'C' quickly.
+
+
+                                  o--------o
+                                  | Step#5 |
+                                  o--------o
+
+Use the cool down at the top, and switch to full B gear as you cut below the
+grass patch, then above the following one.  Avoid the speed bump, and then 
+slalom the two dirt piles, and avoid the last speed bump.  Then just drive 
+over the lap counter.
+
+
+                                  o--------o
+                                  | Step#6 |
+                                  o--------o
+
+Repeat Step#1 through Step#5 to qualify easily for the next race.
+
+----------------------------------------------------------------------------
+------------------------Track 4 Map, Stats, And Strategy--------------------
+----------------------------------------------------------------------------
+
+8) This section is going to look at the third track map, some stats needed 
+   to advance, and strategies for various parts/combos/sections of this
+   course.  The course will be drawn left to right, and it will just move
+   down to the next part when room runs out (it will be easy to follow).  I
+   will be using the design letters for identifying obstacles as well as
+   drawings.
+
+
+____________________________________________________________________________
+                []
+____________________________________________________________________________
+            []
+____________________________________________________________________________
+        []
+____________________________________________________________________________
+    []
+____________________________________________________________________________
+
+
+
+
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+
+
+
+       _______________________
+      |                       |
+     /|_______________________|
+    / |                       |
+___/  |_______________________|_____________________________________________
+   |  | |\GGGGGGGGGGGGGGGGGGGGG                                DD
+___|  |_| \GGGGGGGGGGGGGGGGGGGG_____________________________________________
+   |  | |  \GGGGGGGGGGGGGGGGGGG                  DD
+___|  |_|   \_______________________________________________________________
+   | /  \    \      DD                                         DD
+___|/    \    \_____DD______________________________________________________ 
+   /      \    \    DD                           DD
+__/________\____\___________________________________________________________
+
+                S                                L             K
+
+
+
+
+       _______________________
+      |                       |
+     /|_______________________|       _
+    / |                       |      /|\
+___/  |_______________________|_____/ | \___________||______________________
+   |  | |\GGGGGGGGGGGGGGGGGGGGG     | |\            ||
+___|  |_| \GGGGGGGGGGGGGGGGGGGG_____| | \___________||______________________
+   |  | |  \GGGGGGGGGGGGGGGGGGG     | |\            ||
+___|  |_|   \_______________________| | \___________||___________||_________
+   | /  \    \      DD              | |\                         ||
+___|/    \    \_____DD______________| | \________________________||_________
+   /      \    \    DD               / \                         ||
+__/________\____\___________________/___\________________________||_________
+
+                S                     B             I            J
+
+
+
+                 _
+                /|\                                           /|     
+_______________/ | \___               _______________________/ |____________
+               | |\    |GGGGGGGGGGGGG|                      |  |     
+_______________| | \___|GGGGGGGGGGGGG|______________________|  |____________
+               | |\    |GGGGGGGGGGGGG|                      | /|     
+_______________| | \___|GGGGGGGGGGGGG|______________________|/_|____________
+               | |\    |GGGGGGGGGGGGG|
+_______________| | \___|GGGGGGGGGGGGG|______________________________________
+   >>          |/ \    |GGGGGGGGGGGGG|
+_______________/___\___|GGGGGGGGGGGGG|______________________________________
+
+   N             B            Q                               H
+
+
+
+
+                _
+        /|     /|\       _    _
+_______/ |_____|| \_____/|\__/|\_________________________||_________________
+      |  |     ||\      ||   ||                          ||             
+______|  |_____|| \_____||\__||\_________________________||_________________
+      | /|     ||\      ||   ||                          ||
+______|/_|_____|| \_____||\__||\_________________________||_______________||
+               ||\      ||   ||                                           ||
+_______________|| \_____||\__||\__________________________________________||
+               /|\      ||   ||                                           ||
+_______________|| \_____/_\__/_\__________________________________________||
+
+        H       G        A    A                          I                J
+
+
+
+
+                   _        _        _
+                  /|\      /|\      /|\
+        /|       / | \    / | \    / | \
+_______/ |______/  |\ \__/  |\ \__/  |\ \___________________________________
+      |  |      |  | \   |  | \   |  | \                            >>
+______|  |______|  |\ \__|  |\ \__|  |\ \___________________________________
+      | /|      |  | \   |  | \   |  | \
+_______/_|______|  |\ \__|  |\ \__|  |\ \___________________________________
+                |  | \   |  | \   |  | \
+________________| / \ \__| / \ \__| / \ \___________________________________
+                |/   \   |/   \   |/   \
+________________/_____\__/_____\__/_____\___________________________________
+
+        H          C        C        C                              M
+
+
+
+
+
+_____                                _______________________________________
+     |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|
+_____|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|_______________________________________
+ DD  |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|
+_____|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|______                                _
+                                           |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|
+___________________________________________|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|_
+ DD                                        |GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|
+___________________________________________|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGG|_
+
+ L                  P                                     P
+
+
+
+
+
+                 _        _        _        _        _
+                /|\      /|\      /|\      /|\      /|\
+               / | \    / | \    / | \    / | \    / | \
+__||__________/  |\ \__/  |\ \__/  |\ \__/  |\ \__/  |\ \__               __
+  ||          |  | \   |  | \   |  | \   |  | \   |  | \   |GGGGGGGGGGGGG|
+__||__________|  |\ \__|  |\ \__|  |\ \__|  |\ \__|  |\ \__|GGGGGGGGGGGGG|__
+  ||          |  | \   |  | \   |  | \   |  | \   |  | \   |GGGGGGGGGGGGG|
+__||__________|  |\ \__|  |\ \__|  |\ \__|  |\ \__|  |\ \__|GGGGGGGGGGGGG|__
+              |  | \   |  | \   |  | \   |  | \   |  | \   |GGGGGGGGGGGGG|
+______________| / \ \__| / \ \__| / \ \__| / \ \__| / \ \__|GGGGGGGGGGGGG|__
+               /   \    /   \    /   \    /   \    /   \   |GGGGGGGGGGGGG|
+______________/_____\__/_____\__/_____\__/_____\__/_____\__|GGGGGGGGGGGGG|__
+
+  I              C        C        C        C        C            Q
+
+
+
+
+
+____________________________________________________________________________
+                                                   DD                    DD
+____________________________________________________________________________
+                              DD                               DD
+____________________________________________________________________________
+                                                   DD                    DD
+____________________________________________________________________________
+             >>               DD                               DD
+____________________________________________________________________________
+
+             N                L                    K           L         K
+
+
+
+
+                                                     _________
+                                        /|          /|       |\
+_______________________________________/ |_________/ |       | \_
+             DD                       |  |         | |       |\
+______________________________________|  |_________| |       | \_
+                       DD             | /|         | |       |\
+_______________________________________/_|_________| |       | \_
+             DD                                    | |       |\
+___________________________________________________| |_______| \_
+                       DD                          |/ THE END \
+___________________________________________________/___________\_
+
+             K         L                H
+
+
+
+   This is the course map for track 4, and now you will receive a strategy
+   to follow.
+
+
+                                  o--------o
+                                  | Step#1 |
+                                  o--------o
+
+Start by using the B gear to get out quickly, and get to the top two sections
+of the track, and ride the overhang of obstacle 'S'.  Slalom the dirt piles, 
+and then once more stay on the top two sections of the track to ride the 
+overhang of 'S'.
+
+
+                                  o--------o
+                                  | Step#2 |
+                                  o--------o
+
+Ride off of it (making sure not to wipe on 'B'), and then it is 
+pop-a-wheelie over the speed bumps (stay on bottom part for cool down area)! 
+Then use 'B' to get maximum air time to avoid most of the grass.
+
+
+                                  o--------o
+                                  | Step#3 |
+                                  o--------o
+
+Dodge the first jump, but use the second one to fly over the one 'C', and 
+two 'A' obstacles.  Stay on top two parts, pop-a-wheelie to go over speed 
+bump, and use the jump to get past the three 'C' obstacles.
+
+
+                                  o--------o
+                                  | Step#4 |
+                                  o--------o
+
+Use the cool down arrow, and then cut down to the bottom (while avoiding the
+dirt pile), and go under the large grass area.  Cut up to avoid another grass
+area, and pull back to pop-a-wheelie so you will maintain your speed for...
+
+
+                                  o--------o
+                                  | Step#5 |
+                                  o--------o
+
+At full speed (B gear), you go off the first (of five) 'C', straighten the 
+bike in the air (you will go down slope of #2 'C'), and then same deal for 
+#3 'C' (jump then straighten), land (#4 'C') and then use #5 'C' to get as 
+far over the grass patch as possible.
+
+
+                                  o--------o
+                                  | Step#6 |
+                                  o--------o
+
+Use cool down arrow, then slalom the dirt piles, and use the jump to clear 
+the lap counter.
+
+
+                                  o--------o
+                                  | Step#7 |
+                                  o--------o
+
+Repeat Step#1 through Step#6 to qualify for the next race.
+
+----------------------------------------------------------------------------
+------------------------Track 5 Map, Stats, And Strategy--------------------
+----------------------------------------------------------------------------
+
+9) This section is going to look at the fourth track map, some stats needed 
+   to advance, and strategies for various parts/combos/sections of this
+   course.  The course will be drawn left to right, and it will just move
+   down to the next part when room runs out (it will be easy to follow).  I
+   will be using the design letters for identifying obstacles as well as
+   drawings.
+
+
+____________________________________________________________________________
+                []
+____________________________________________________________________________
+            []
+____________________________________________________________________________
+        []
+____________________________________________________________________________
+    []
+____________________________________________________________________________
+
+
+
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+____________________________________________________________________________
+
+
+
+
+
+                                                  /|
+_________________________________________________/ |____
+          >>                          DD        |  |    |GGGGGGGGGGGGGGGGGGG
+________________________________________________|  |____|GGGGGGGGGGGGGGGGGGG
+                                                | /|    |GGGGGGGGGGGGGGGGGGG
+________________________________________________|/_|____|GGGGGGGGGGGGGGGGGGG
+                                      DD                |GGGGGGGGGGGGGGGGGGG
+________________________________________________________|GGGGGGGGGGGGGGGGGGG
+                                                        |GGGGGGGGGGGGGGGGGGG
+________________________________________________________|GGGGGGGGGGGGGGGGGGG
+
+          M                           K           H                 Q
+
+
+
+                        _____
+                       /|   |\
+       /|\         ___/ |   | \      _     _     _
+    ___|| \_______/|  | |   |\ |\___/|\___/|\___/|\_________________________
+GGG|   ||\       | |  | |   | \|    ||    ||    ||
+GGG|___|| \______| |  | |   |\ |\___||\___||\___||\_________________________
+GGG|   ||\       | |  | |   | \|    ||    ||    ||
+GGG|___|| \______| |  | |   |\ |\___||\___||\___||\_________________||______
+GGG|   ||\       | |  | |___| \|    ||    ||    ||                  ||
+GGG|___|| \______| |  |/     \ |\___||\___||\___||\_________________||______
+GGG|   / \       | |__/       \|    ||    ||    ||                  ||
+GGG|___|__\______|/_____________\___/_\___/_\___/_\_________________||______
+
+        G                 R          A     A     A                  J
+
+
+
+
+                                                          /|
+_________________________________________________________/ |________________
+                                       DD               |  |
+________________________________________________________|  |________________
+                   DD                                   | /|
+________________________________________________________|/_|________________
+                                       DD
+____________________________________________________________________________
+     >>            DD
+____________________________________________________________________________
+
+     N             L                   K                  H
+
+
+     _         _         _
+    /|\       /|\       /|\       _
+   / | \     / | \     / | \     /|\
+__/  |\ \___/  |\ \___/  |\ \___/ ||___               ______________________
+  |  | \    |  | \    |  | \     /||   |GGGGGGGGGGGGG|
+__|  |\ \___|  |\ \___|  |\ \___/ ||___|GGGGGGGGGGGGG|______________________
+  |  | \    |  | \    |  | \     /||   |GGGGGGGGGGGGG|
+__|  |\ \___|  |\ \___|  |\ \___/ ||___|GGGGGGGGGGGGG|______________________
+  |  | \    |  | \    |  | \     /||   |GGGGGGGGGGGGG|
+__| / \ \___| / \ \___| / \ \___/ ||___|GGGGGGGGGGGGG|______________________
+  |/   \    |/   \     /   \     / \   |GGGGGGGGGGGGG|
+__/_____\___/_____\___/_____\___/__|___|GGGGGGGGGGGGG|______________________
+
+     C         C         C        F           Q
+
+
+
+
+       _______________________
+      |                       |
+     /|_______________________|
+    / |                       |              /|\           /|
+___/  |_______________________|_____________/ | \_________/ |_______________
+   |  | |\GGGGGGGGGGGGGGGGGGGGG             | |\         |  |
+___|  |_| \GGGGGGGGGGGGGGGGGGGG_____________| | \________|  |_______________
+   |  | |  \GGGGGGGGGGGGGGGGGGG             | |\         | /|
+___|  |_|   \_______________________________| | \________|/_|_______________
+   | /  \    \      DD                      | |\
+___|/    \    \_____DD______________________| | \___________________________
+   /      \    \    DD                      |/ \
+__/________\____\___________________________/___\___________________________
+
+                S                             B            H
+
+
+                                  _
+                                 /|\
+         /|                     / | \          ___      ___     _     ___   
+________/ |_____           ____/  |\ \________/| |\____/| |\___/|\___/| |\__
+       |  |     |GGGGGGGGG|    |  | \        | | | |  | | | |  ||   | | | |
+_______|  |_____|GGGGGGGGG|____|  |\ \_______| | | |__| | | |__||\__| | | |_
+       | /|     |GGGGGGGGG|    |  | \        | | | |  | | | |  ||   | | | |
+_______|/_|_____|GGGGGGGGG|____|  |\ \_______| | | |__| | | |__||\__| | | |_
+                |GGGGGGGGG|    |  | \        | | | |  | | | |  ||   | | | |
+________________|GGGGGGGGG|____| / \ \_______| | | |__| | | |__||\__| | | |_
+                |GGGGGGGGG|    |/   \        | |_| |  | |_| |  ||   | |_| |
+________________|GGGGGGGGG|____/_____\_______|/___\|__|/___\|__/ \__|/___\|_
+
+         H           Q            C             D        D      A      D
+
+
+                               _
+                              /|\
+   ___      ___      ___     / | \
+__/| |\____/| |\____/| |\___/  |\ \_________________________________________
+ | | | |  | | | |  | | | |  |  | \                               DD
+_| | | |__| | | |__| | | |__|  |\ \_________________________________________
+ | | | |  | | | |  | | | |  |  | \
+_| | | |__| | | |__| | | |__|  |\ \_________________________________________
+ | | | |  | | | |  | | | |  |  | \                               DD
+_| | | |__| | | |__| | | |__| / \ \_________________________________________
+ | |_| |  | |_| |  | |_| |  |/   \
+_|/___\|__|/___\|__|/___\|__/_____\_________________________________________
+
+    D        D        D        C                                 K
+
+
+
+
+_________________________________||_________________________________________
+                                 ||                       DD
+_________________________________||_________________________________________
+            DD                   ||           DD                       DD
+____________________||___________||_________________________________________
+                    ||                                    DD
+____________________||______________________________________________________
+            DD      ||                        DD                       DD
+____________________||______________________________________________________
+
+            L       J            I            L           K            L
+
+
+               _______
+              /|     |\
+_____________/ |     | \_
+             | |     |\
+_____________| |     | \_
+             | |     |\
+___||________| |     | \_
+   ||        | |     |\
+___||________| |_____| \_
+   ||        |/THE END\
+___||________/_________\_
+
+   J
+
+
+   This is the course map for track 5, and now you will receive a strategy
+   to follow.
+
+
+                                  o--------o
+                                  | Step#1 |
+                                  o--------o
+
+Start by using the B gear to get out quickly, and go between the dirt piles,
+then take the jump.  Bounce off of the 'G' obstacle, then make sure to match
+your slope to the monstrous 'R' obstacle.
+
+
+                                  o--------o
+                                  | Step#2 |
+                                  o--------o
+
+Quickly move over the three 'A', and then move to bottom row, pop-a-wheelie, 
+and hit the cool down area.  Head to the top while avoiding the dirt piles 
+to take the jump.
+
+
+                                  o--------o
+                                  | Step#3 |
+                                  o--------o
+
+As you land, be ready to handle three 'C' obstacles, and then a 'F' to jump 
+the grass patch.  Then go take the 'S' overhang, and cut down when you reach 
+the end, go over the 'B', avoid the first jump, and utilize the second jump.
+
+
+                                  o--------o
+                                  | Step#4 |
+                                  o--------o
+
+You will come down on a 'C', so quickly scoot over it.  Then you must get a 
+good speed up to get through two 'D', one 'A', and then four 'A' obstacles.  
+Then climb the 'C' obstacle to get to the flat section of the course.
+
+
+                                  o--------o
+                                  | Step#5 |
+                                  o--------o
+
+Slalom the dirt piles avoid/pop-a-wheelie to get by the speed bumps, then 
+slalom the remaining dirt piles, and stick to the top two sections to get 
+past the last speed bump and over the lap counter.
+
+
+                                  o--------o
+                                  | Step#6 |
+                                  o--------o
+
+Repeat Step#1 through Step#5 to win the last track.
+
+
+   You can keep going on, but the times will shorten, and the tracks will
+   loop.  You will start over at track 1, but now the 3rd place time will be
+   at a much lower time.  This is an excellent way to experience the old
+   tracks with a little more challenge brought into the game.
+
+----------------------------------------------------------------------------
+-----------------------------------Strategies-------------------------------
+----------------------------------------------------------------------------
+
+10) This section will outline a few techniques to help you reach the finish
+    line a little faster, thus improving your chances of qualifying for the
+    next race.
+
+
+a) Getting the bike parallel with the ground when in the air will maximize
+   the distance in the air.  Useful for getting
+
+b) If in doubt when taking a jump, just let the bike fly as it wants to.
+   Often this will be a slower method of travel, but it will be an easier
+   time landing.
+
+c) Lining your bikes angle up with the slope of the landing area.  This will
+   make your transition from obstacle to obstacle easier.
+
+d) In Selection B, try to avoid getting stuck in a group of same speed
+   opponents as they can pen you in.  This could be the difference between
+   qualifying, and being eliminated.
+
+e) When designing a course, try to mix some harder challenges with easier
+   ones to create a fun course for all.

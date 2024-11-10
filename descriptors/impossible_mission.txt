@@ -1,0 +1,161 @@
+In 2004 the GameFAQs FAQ Writing Community started a Master System Completion 
+Project for which I wrote fifteen different FAQs before I moved on to other
+projects. My urge to cover more SMS FAQs however has never wavered and that is 
+why I'm back today in the newest SEGA Master System Completion Project which is
+hosted on the FAQ Contributors - General Board. I'm starting to pick up random
+games to bring the project to its completion and which game is better to get
+random than Impossible Mission, the ultimate random game. No playthrough will
+ever be the same. It also makes writing a Walkthrough completely useless, so
+this FAQ will only learn you how to complete the game.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2- Gameplay                                                              [A200]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+===============================================================================
+     2.1- Story                                                          [A201]
+===============================================================================
+
+Your mission, Agent 4125, is to foil a horrible plot. From an underground
+laboratory, Elvin, the scientist, is holding the world hostage under the threat
+of nuclear annihilation. You must penetrate his stronghold, avoid his human-
+seeking robots and find the pieces of the security code. Somersault over the 
+robots or use a precious snooze code to deactivate them long enough to search 
+each room. Use the Agency's computer to unscramble the passwords from the code 
+pieces, or try to solve them yourself. You've got to reach Elvin's control 
+center, but you'd better beware... this mission is stamped IMPOSSIBLE!
+
+===============================================================================
+     2.2- Description                                                    [A202]
+===============================================================================
+
+In Impossible Mission you play Agent 4125, an acrobatic secret agent who needs
+to stop the very dangerous criminal-scientist-professor Dr. Elvin Atombender as
+he is caught tampering with the national security systems. Now you need to mess
+with his computer systems in the hope of reaching him, but his secret base is
+very big and dangerous. You will need to search every room to find all puzzle
+pieces and the door to Dr. Elvin Atombender. Luckily, once you have found the 
+door and the password, you won't have any problems defeating him. In this game
+you only need to open his door to win. Too bad it won't be very easy, this game
+really deserves its name. But hey, it is still more easy than the sequel.
+
+Each level gives you six hours of game time to collect all puzzle pieces. Every
+second the clock ticks down and you come closer to the Game Over screen, which
+you can only reach by running out of time. For instance, you don't lose because
+you died too much, but you will lose ten minutes each time you die. This means
+it is best to skip certain rooms if it seems to difficult. You need to go out
+and find 'power-ups' which come in two variations and need to be used using one
+of the computers in the room. You have Lift Reset which resets the position of
+the lifts in a room, and the Snooze power-up which turns off the enemies in a
+room for limited time. So don't take risks and remember which room you skipped.
+
+In each room you need to find a puzzle piece, which is hidden inside a random
+item inside the room. You need to press the 2 button before each item to search
+it, without getting hit by the enemies guarding these items. If an enemy becomes
+a danger, you can stop searching it, avoid the enemy and try searching it again.
+You can split up your search in multiple parts, so you don't need to restart if
+you need to flee for an enemy. It can help to search items that are guarded by a
+very active enemy, without wasting a snooze. Once you have searched it, it will
+disappear forever so you won't accidentally search it multiple times.
+
+Of course there will be other problems then enemies in each room and they come
+mostly from the architecture of each room - which is generated random - because
+you will need to puzzle and jump yourself a way to the items. You can walk over
+small gaps, but you will need to jump a lot to avoid enemies and get to other
+platforms. Another way to reach new platforms is using the elevators who can go
+up and down when there is a free space above/underneath them depending on the
+direction. You will often need to manipulate multiple elevators to reach every
+place inside a level; but remember: you can jump very far, so don't be afraid
+to jump if you can't get somewhere by elevator.
+
+At the end of the game you need to make a puzzle out of the different puzzle
+pieces you find, but you need to overlap the pieces with each other and you
+need to adapt their rotation and color. This means you will need to reset the
+puzzle regularly because you can't get anything to fit together. If everything
+fits in correctly, you'll get to see a couple of black holes and it disappears,
+and you will get an extra character in the password. That also means you need
+to form more than one puzzle, you need to make nine of them so you will lose a
+bit of time.
+
+===============================================================================
+     2.3- Rooms                                                          [A203]
+===============================================================================
+
+During the game you will encounter three types of rooms, with the percentage of
+each number of rooms being controlled by the randomness. Not every walkthrough
+will even have the same amount of rooms, but the types remain the same. You'll
+use the regular rooms to get from one tower to another, because each building
+contains about six towers. Getting back to a room where you had difficulty the
+first time to search it again, won't be easy. It is best to keep a quick map of
+your tower so you don't lose your way. Too bad you will need to make new maps
+each time you restart the game.
+ _____________________________________________________________________________
+/                  |                                                          \
+| Tower & Elevator | The towers aren't actual rooms, but form the connections |
+\__________________/ between the different rooms. In these area's you get an  |
+                   \ overview of the layout of the building, and get access   |
+                   | to the menu's. No enemies appear here, but the clock is  |
+                   | still ticking so don't lose too much time here.          |
+                   \__________________________________________________________/
+ _____________________________________________________________________________
+/                  |                                                          \
+| Musical Room     | The musical rooms is the rarest kinds of rooms, which is |
+\__________________/ quite normal, because it is also the most 'broken' kind  |
+                   \ of room. There are no enemies and you can easily get new |
+                   | power-ups by solving the musical puzzle. This is just a  |
+                   | simple puzzle where you need to repeat a couple of keys. |
+                   \__________________________________________________________/
+ _____________________________________________________________________________
+/                  |                                                          \
+| Regular Room     | In the regular rooms you will be losing most of your time|
+\__________________/ because here you need to search for the puzzle pieces and|
+                   \ avoid getting killed by the enemies. Most rooms contain  |
+                   | one puzzle piece and zero or more power-ups. Some regular|
+                   | rooms will contain two entrances, connecting two towers. |
+                   \__________________________________________________________/
+
+===============================================================================
+     2.4- Enemies                                                        [A204]
+===============================================================================
+
+The entire game is randomized; so nobody can predict which type of enemies will
+appear in the next room, but luckily you only have a select amount of different
+enemies. The problem is, you won't be recognizing the different type of enemies
+based on their looks. The enemies come in two looks, a ball and a robot. Robots
+come in various colors and with different AI possibilities, but there is no
+relationship between AI and colors. Even in the same level robots with the same
+color can have different AI settings. For instance, you have little robots that
+can follow you, ones that follow set patterns, ones that stay still, ones that
+will regularly send out electricity and ones that don't. 
+
+On entering the level it is important to find out how the robots will move. In
+any room, robots will move the same way which can make certain rooms very easy
+and others very hard. Knowing the kind of enemy can make a big difference and
+will warn you if you should come back later when you have a 'Snooze' password 
+or try your chances at 'beating' the robots. This beating mainly involves
+avoiding them because you can't kill the robots or even move them. Only the
+ball can be beaten by trapping it between two elevators and going up/down with
+them. Another option is to knock it down an hole using the elevators, which
+makes it appear at the top of the screen.
+ _____________________________________________________________________________
+/                  |                                                          \
+| Electrified Ball | This enemy was inspired by Rover, a security guard from  | 
+\__________________/ "The Prisoner" and conveniently it works much like Rover |
+                   \ meaning it will fly around in a set pattern around the   |
+                   | room so learn this pattern. The Electrified Ball is very |
+                   | rare and will only pop up every couple of rooms because  |
+                   | it is a lot more dangerous than the robots as you need   |
+                   | to learn the pattern and it remains electrified when you |
+                   | snooze it. It only stops moving, but remains a danger.   |
+                   \__________________________________________________________/
+ _____________________________________________________________________________
+/                  |                                                          \
+| Dalek R2D2 Robot | Often compared to R2D2 from Star Wars and the Dalek from |
+\__________________/ Doctor Who, the robots are the most common enemies in    |
+                   \ this game. The robots can't be killed and their body is  |
+                   | electrified, which means you can't touch them. They will |
+                   | remain in motion most of the time, and depending on the  |
+                   | AI setting, they can follow you or take a set pattern.   |
+                   | Some of them will emit electric beams that kill you, so  |
+                   | you need to keep greater distance to these robots.       |
+                   \__________________________________________________________/

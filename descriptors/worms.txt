@@ -1,0 +1,581 @@
+Worms is one game that doesn't really need a FAQ but I've decided to write one
+anyway. (Hey, it's my first one and I need something easy.) What you'll find in
+here are mostly tips to help you stomp your friends or the CPU into the ground.
+
+This FAQ is for the original version of Worms but it could also come in handy
+for its many sequels. Let's proceed shall we?
+
+===============================================================================
+3)Weapons
+===============================================================================
+Ah yes, probablly the most important of the game. Before I begin though I'd
+like to remind you that (as far as I can see anyway) most wepons will do a
+maximum damage of 50.
+
+
+*******************
+Airstrike:
+*******************
+Description:
+Pick this and an airstrike from above rains bombs down on your chosen area
+damaging any worms within its range
+
+Tips:
+-I don't think I have to tell you this but this can damage your own worms as
+ well as enemy ones so be careful where you let it rip.
+-This is pretty good on its own but for lots of carnage try aiming it at an
+ area with a few mines in it.
+
+*******************
+Bazooka:
+*******************
+Description: 
+A rocket launcher.
+
+Tips:
+-The wind alters the direction of this slightly so it helps to fire in the same
+ direction as the wind is blowing or against the wind with your worm turned 
+ away from the one you want to hit, this is pretty tricky though.
+-With the bazooka it's extremley easy to blow yourself to kingdom come by not 
+ holding down the spacebar for long enough when firing it so look out for that.
+ (This is also true for the homing missile, grenade, cluster bomb and banana 
+ bomb but I couldn't be bothered to put this down 5 times)
+
+*******************
+Homing Missile:
+*******************
+Description: 
+This is like the bazooka but allows you to fire a missile at a specific point.
+
+Tips:
+-Like the bazooka the wind has an efect on this, especially over long distances
+ often causing things to go horribly wrong. The tips above may help but here's
+ another which I'm not really sure works or not. Here's what I do; aim at a 
+ worm that has no obstacles around it or over it, aim the bazooka straight up 
+ into the sky (making sure that there are no obstacles over you), and hold down
+ the space bar until it shoots. It seems to be a good startegy most of the 
+ time.
+
+*******************
+Uzi:
+********************
+Description: 
+A kuel machine gun!!! 
+
+Tips
+-As the uzi bullets hit an oponent they sometines knock the worm out of range 
+ of the gun resulting in hardly any damage being done so for best results use 
+ it on a worm that's up against something. 
+-If you fire this when you're up against something yourself you could end up 
+ damaging yourself so make sure you're clear of any land close in front or 
+ behind before you waste anyone.
+ 
+*******************
+Mini Gun:
+*******************
+Description:
+This is a sweet upgraded version of the uzi that does some serious damage.
+
+Tips
+-Pretty much same tips apply for this as the uzi so have a look above. 
+
+*******************
+Dynamite:
+*******************
+Description: 
+This is pretty self-explanitory.
+
+Tips
+-For best results place a stick of dynamite as close as you possibly can to an
+ enemy, run as far away as possible (as this will do serious damage) and laugh
+ as your target is reduced to within an inch of its life.
+-Dynamite can also be used for making large holes in the landscape (just keep 
+ well away from it first).
+
+*******************
+Mine:
+*******************
+Description: 
+Proximity mine that detonates when you come within it's range.
+
+Tips:
+-There is only a slim chance that either a CPU or Human oponent will step on 
+ one and often you don't notice these and stand on them yourself (especially 
+ in the junk yard levels) so it's probably best to avoid putting them on the 
+ ground.
+-They're good for keeping oponents out of tunnels though and if you are feeling
+ particullary evil place one on another worm's head and run.
+-If there are mines around your foes you can use them to your advantage! Hit 
+ the worm(s) in question using your bazooka or anything explosive and the 
+ chances are that the explosion will knock them straight into the mines or 
+ that the mines will be sent hurtling towards them. You could of course try 
+ firing at the mines to send them flying towards the worms too.
+-You can move a mine away from you slightly with the dragon punch. I'm not 
+ sure if that'll be any use to you thouhgh.
+
+*******************
+Shotgun:
+*******************
+Description: 
+A lame double barrel shotgun that gives you two shots at your enemies. 
+
+Tips:
+-This doesn't really do much damage, it's difficult to aim and like the uzi you
+ could end up hurting yourself with it. 
+-The only use I can think of for it is to shoot worms out of the level or into
+ water or some othet liquid. For this however you need a good aim.
+
+*******************
+Grenade:
+*******************
+Description: 
+Yep, you gussed it it's a genade with a few second's worth of a fuse. 
+
+Tips:
+-This is really hard to aim because you can't tell in what angle to fire the 
+ stupid thing or how far to fire it most of the time. If you suck like me I 
+ advise to only use it for firing over short distances or into holes with an 
+ enemy worm inside.
+-You could also use it for blowing holes in the landscape like it says in the 
+ manual. But again the difficult aiming could make this tricky.
+
+*******************
+Cluster Bomb:
+*******************
+Description:
+A improved version of the grenade that breaks up into mini grenades on impact.
+
+Tips:
+-The fact that this breaks up into clusters vastly improving your chances of 
+ hitting someone and because of this is a lot better than the grenade. 
+-The clusters from this scatter everywhere so be careful not to injure your own
+ team.
+
+*******************
+Banana Bomb:
+*******************
+A monster upgrade of the cluster bomb that, on impact splits into banana shaped
+explosives that will cause damage like you wouldn't believe! ^_^
+
+Tips:
+-Um, this causes A LOT of damage over a reasonable sized area so again watch 
+ out for your own team and try to hit as many enemies as possible, you might 
+ only get one during the entire level use it wisley.
+
+*******************
+Sheep:
+*******************
+Description:
+A sheep that hops around the place until you blow it into pieces and doing 
+serious damage to anyone nearby. Nice.
+
+Tips
+-This sheep is pretty dumb and won't make it over most holes and obstacles in 
+ the landscape so try to use it on reasonably flat land. If you don't you could
+ well see it hopping back in your direction! 
+-A sheep will detonate after a certain period of time if you don't detonate it
+ yourself.
+
+*******************
+Dragon Ball:
+*******************
+Description:
+This is a projectile that your worm fires at your oponents Street Fighter 
+style. 
+
+Tips:
+-This isn't that useful but it's better than most things for knocking oponents
+ off the level or into water, lava etc because even if you mess it up and miss
+ you still do some damage.
+-You can move a mine away from you slightly with the dragon ball.
+
+*******************
+Fire Punch:
+*******************
+Description: 
+Another martial arts inspired move. Your worm jumps into the air punching 
+any worms in front of it in the process.
+
+Tips:
+-It's useful for the same things as the dragon ball but is also great for 
+ making a short tunnel straight up from another tunnel if you need to get out
+ into the open or whatever.
+
+*******************
+Teleport:
+*******************
+Description:
+Does what it says. Teleports you to a choosen part of the map. 
+
+Tips:
+-This is useful for claiming bonus crates, just teleport directly over the 
+ crate and you'll get it before anyone else.
+
+===============================================================================
+4) Equipment
+===============================================================================
+*******************
+Girder:
+*******************
+Description:
+A metal girder that comes in various shapes and can be placed at various 
+angles.
+
+Tips:
+-These can be used as a bridge, to trap other worms (see section 5) or can be 
+ used with other girders to form a stairs. 
+-If the gidrer isn't being put up by pressing the space bar then you probably 
+ have to leave a tiny gap between it and any nearby land.
+
+*******************
+Blowtorch:
+*******************
+Description:
+A blowtorch that can be used as a (useless) wepon or to dig horozontal and 
+diagnol tunnels.
+
+Tips:
+-When you use a blowtorch stop tunneling when you are coming near the side/
+ bottom of the screen because your worm will keep going and get killed.
+-You only have to press fire once to get tunneling. There's no need to hold it
+ down.
+-To stop tunneling before your worm stops automatically just press the space 
+ bar again. 
+
+*******************
+Kamazakazee:
+*******************
+Description:
+Pick this and your worm goes nuts and flies straight through the air for a 
+certain distance sending any worms it meets flying and probably killing 
+itself in the process.
+
+Tips:
+-Use it to send a large group of worms flying, maybe even off the screen or 
+ into water if it's used right or if you're lucky. 
+-Use it on resanobly flat land for best results or else your worm could well 
+ end up tunneling underneath your chosen targets rather than hitting them or 
+ something.
+
+*******************
+Bungee:
+*******************
+Description:
+A bungee rope that lets you drop off heights without loosing your go. 
+
+Tips:
+-Once you select the bungee it lasts until you select another piece of 
+ equipment or a weapon so there is no need to select it for every big fall.
+-This can be used any number of times without costing you a go.
+
+*******************
+Ninja Rope:
+*******************
+Description:
+Not really a rope but more of a grappling hook.
+
+Tips:
+-This is really a very useful piece of kit. If you find yourself far away from
+ any other worm
+ you can use it to pull yourself to vertical sloping pieces of landscape like 
+ trees or attatch it to an overhead girder or something and swing to a certain
+ area.
+-If you find yourself beneath a small ledge you can swing onto it by attaching
+ the rope to the edge of the ledge and by swinging back and forth until you are
+ at a point slightly over it. Then quickly pull yourself in towards it and let 
+ go. With any luck your worm will end up on the edge of the ledge. For best 
+ results keep the rope at a decent length when doing this.
+-You can speed up the speed you are swing at by quickly pressing the left and 
+ right keys.
+-Like the bungee using this any number of times doesn't cost you a go.
+
+*******************
+Drill:
+*******************
+Description:
+A pneumatic drill that drills a hole straight into the ground. 
+
+Tips:
+-This is useful for defensive play (see section 5). 
+-Again like the blow torch if you are nearing the bottom of the screen stop as
+ your worm will keep tunneling and kill itself.
+
+*******************
+Skip Go:
+*******************
+This isn't equipment but it's in the same menu as it. If you press this you 
+skip your go. Now why would you wan't to do that?
+
+*******************
+Surrender:
+*******************
+Use this and your worms will surrender to the enemies. Wimp.
+
+===============================================================================
+5) Defensive Play
+===============================================================================
+What do you do in Worms when the odds are piled against you and you will be 
+easily killed if you try to attack? Surrender? Nope, you defend yourself from 
+your enemies and plan your attacks carefully and win (Well, you don't have to 
+I'm just saying). Here I'll give you some (hopefully) helpful techniques. 
+
+-Take cover! Dig yourself a tunnel and get away from your oponents. If you are
+ playing against other people leave a mine at the entrance if not don't bother,
+ the computer oponents are too dim to think of coming after you.
+
+-You can dig straight ahead, or diagonally up or down with the blowtorch, 
+ straight down with the drill and straight up with the dragon punch.
+
+-Look out for mines. Even when you're beneeth them they can still damage you 
+ and blow a hole in your tunnel if you get too close.
+ 
+-As I said before computer oponents are idiots. Position yourself in a tunnel 
+ directly unerneath one of them and there's a good chance that he will hit 
+ himself or a another oponent will hit him trying to get you.
+
+-Prividing that there isn't too much ground between you and your opponent you 
+ can cause some serious damage by placing dynamite in a tunnel beneath him and
+ running away fast. Mind you this will probablly create an easy access 
+ entrance to your tunnel for everyone.
+
+-In a similiular train of thought to the last one if you position yourself 
+ directly underneath a worm, providing that there isn't too much space between
+ you you can do a dragon punch and damage him. It's  best to do this only whem
+ he has a small ammount of life left as you will probably end up with him 
+ falling back down into the tunnel with your victim if not.
+
+-Girder baby yeah! You can use girders to box your oponents in so that they 
+ can't move in any direction. This is especially good against ones stuck in 
+ holes when one girder at the mouth of the hole will do the job. Try to use as
+ little girters as possible and make sure that there's no way for others to 
+ get out of your girder trap. Humans will of course probablly tunnel out but 
+ computer oponents will just sit there skipping their gos (or teleporting). 
+ Providing that they don't/can't teleport you can now do some damage to them. 
+ The best way to do this is to go on top of ther girder them they are trapped 
+ under or to tunnel underneath and place some dynamite on it. You can also try
+ other things like fire punch, sheep and banana bomb. Be creative! You should 
+ make sure however that the girder is as close as possible to the 
+ worm to ensure max damage.
+
+-You could also make tunnels so that when the right time comes along you can 
+ move out of it with the monkey rope or otherwise and attack an opponent. Make
+ sure that the opponent is nearly dead though as otherwise you will be stuck 
+ outside the tunnel when you have shot at your target. Unless you only take one
+ shot with the shotgun and then retreat, firing the gun in your tunnel in a 
+ place where you won't damage yourself.
+
+===============================================================================
+6) Other Tips
+===============================================================================
+Well here's the stuff that didn't go anywhere else.
+
+-When a worm dies it blows itself up. This damages nearby worms near it so 
+ watch out for this when playing, especially in sudden death mode.
+-Happly, ammo crates explode very nicley when shot at. You can shoot them and 
+ they will damage any nearby worms or target worms next to these crates with 
+ an explosive weapon like the bazooka or grenade for even better results.
+
+===============================================================================
+7) Game Settings
+===============================================================================
+Here I'll look at some of the options in the game and I'll offer some 
+(unhelpful) suggestions on which way to configure the game. 
+
+Move Time:
+This changes the ammount allowed for each player to make his/her move. The 
+shorter the time the harder the game gets. If you want to be very strategic 
+set this pretty high or turn it off. On the other hand if you have some 
+friends over who are rubbish, taking ages to do anything to annoy you etc. 
+you know what to do.
+
+Round Time:
+Changes the ammount of time allowed for a round before sudden death mode is 
+activated. If you don't want want a quick game turn it off so that you can 
+battle it out utill the end.
+
+Mactches To Win:
+Can be set to 1 or 2. This really depends on how long you want the match to be
+and how skilled the players are. 
+
+Worm Placing:
+This can be set to random or teams. With team placing you are more likley to be
+hit with an airstrike because they are gouped together when you begin the 
+level. Random placing is better but your team can still be put in out of reach
+places or trapped where the other team can easily get them and can even stuck 
+in a certain place that can only be escaped by teleporting.
+
+Automatic Action Replay:
+This replays any move in the game that resulted in 2 kills or more and the 
+final blow in the round. IMO it's just annoying. Turn it off.
+
+Sudden Death Mode:
+This reduces all worms energy to 1 when the round time is up. I find that the 
+game tends to be better when this is turned off.
+
+Land Mines:
+With this you can change the ammount of land mines that are present in each 
+course. They are often annoying but playing without them isn't as much fun. 
+
+Banzi Mode:
+Makes all explosions in the game the strength of dynamite. I've used this a few
+times but I didn't really notice any difference in the game. 
+
+Clear League Statitistcs:
+Erm...it clears all league statistics. Not that they're much use anyhow.
+
+Weapons:
+Here you can decide to turn certain weapons on, off or give them a limited use.
+This is great for limiting that stupid weapon you mate is lethal with and 
+insists on using all the time (muhahahaha).
+
+Sample Set:
+This lets you pick the language/accent the worms use.
+
+Team Entry:
+If you want to pulverise the Tellytubbies here's your chance. Just pick an 
+existing team and you can change the name of the team and the individual worms
+names.
+
+===============================================================================
+8) Levels
+===============================================================================
+Here's the lowdown on each type of level in the game (Tsk, more filler). 
+
+Oh, remember that you can generate your own levels instead of having them 
+generated by the computer. Just press the space bar when the level's being 
+generated and type any combonation of letters and numbers. Type the same ones 
+in again and you will access the same level again.
+
+*******************
+Snow 
+*******************
+Description:
+A snow covered level with frozen ground and blue water that's not frozen.
+
+Features: 
+Snowmen, igloos, piste signs, snowballs, ice blocks.
+
+*******************
+Mars:
+*******************
+Description:		
+The planet, not the choclate. It's pretty much what you would expect with red 
+land, green slime/water and craters in the land beeneath you.
+			 
+Features: 
+Beanslalks, flowerbuds (Hm, didn't know martians were into gardening)	
+
+*******************
+Mystery Planet:
+*******************
+Description:
+It's another(unidentified) planet, this time with green land and red slime/
+water and craters in the backgrond but nowhere else.
+
+Features:
+Bombable round glass buildings, odd looking green bridges, green/blue things 
+sticking from the ground, egg shaped things (Marvel at my powers of 
+description!), telescope, rocket.
+ 
+*******************
+Junk Yard
+*******************
+Description:
+A big pile of junk metal.
+
+Features:
+Wheels, bent exhaust pipes, trashed cars, hub caps, engines, concreate blocks.
+
+Note:
+Because of the grey colour of this level it is much more difficult to see mines
+scattered around the level so be careful.
+
+*******************
+Hell
+*******************
+Description:
+It's just what you'ld expect, underground with red earth and lots of nice firey
+lava (You can hear a burning noise when a worm falls into it ^_^ )
+
+Features:
+Deamon statues, grave stones, hanging things, spikes, skulls impaled on sticks,
+pikes.
+
+Note:
+There's probablly more obstacles in this level than in any other one in the 
+game and they're probablly some of the trickiest ones too. That could be a good
+thing or a bad thing depending on your point of view.
+
+*******************
+Candy
+*******************
+Description:
+It's a festival of all that is tooth rotting, an entire level made of pink 
+candy covered land that even has choclate water (or else sewage and that's 
+not very likley).
+
+Features:
+Choclate bars, liocrice, lollypops, red and white sticks of candy, ice creams/
+ice lollies, M&M-like candies.
+
+*******************
+Jungle
+*******************
+Description:
+This is your common or garden jungle warzone. As you would expect there's 
+plenty trees, grass, muddy water and also mountains in the background.
+
+Features:
+Wells, grass roofed buildings on stilts, tents, crashed helicopters.
+
+Note:
+Believe it or not if you have worm placing set to random it's possible for a 
+worm to be trapped in the stilts underneath the buildings. The best way to get
+out is to teleport.
+
+*******************
+Beach
+*******************
+Description:
+It's a beach and as with sand and sea water, no people though (killer 
+dandeloins?) 
+
+
+Features:
+Rocks, seashells, swimming googles, beer bottles, ice cream cones.
+
+*******************
+Desert
+*******************
+Description:
+It's the obligitory desert level complete with sandy ground and erm, water.
+
+Features:
+Cactuses (naturally), tents, rocks, sign posts, rock arches, cow skulls.
+
+===============================================================================
+9) Worms Quotes
+===============================================================================
+Here's a list of the stuff the worms say while they are fighting.
+
+"What the..?"
+"Missed"
+"Stuuuupid"
+"Perfect"
+"Coward"
+"Oi, Nutter"
+"Traitor"
+"Revenge"
+"I'll get you"
+"You just wait"
+"Leave me alone"
+"Kamazakaziee"
+"First Blood"
+"Wooah"
+"Oops"
+"Ow"
+"Oof"
+"Bungee!"
+"Oh, dear"
+"Bye Bye"
+"Sorry"

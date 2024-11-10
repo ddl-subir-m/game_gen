@@ -1,0 +1,1770 @@
++ Introduction
++ The Story
++ Controls
++ Characters
++ Hazards in the Mansion
++ A Guide to the Mansion
++ FAQ
++ Walkthrough
+ + Bernard
+ + Wendy
+ + Syd (also works for Razor)
+ + Michael
++ Items List
++ Version History
++ Credits
+
+************
+Introduction
+************
+
+Hello again, TSC here with his ninth FAQ. I decided to write this guide 
+just after playing the game through for the first time, partially 
+because it's a fun and challenging game, and partially because I didn't 
+have anything else to write about. Hopefully, some of you have read my 
+previous guides, all of which can be found on GameFAQs.com, and all of 
+which are shamefully advertised here:
+
++ CTR: Crash Team Racing (PSX)
++ Dr. Brain: IQ Adventure (PC)
++ Wario Land II (Game Boy Color)
++ Wario Land 4 (Game Boy Advance)
++ Monkey Island 2: LeChuck's Revenge (PC)
++ The Curse of Monkey Island (PC)
++ Rayman 3: HoodLum Havoc (PS2)
++ Rayman 2: Revolution (PS2)
+
+Feel free to send me e-mail if you find any errors or if you notice any 
+secrets. Just label it clearly so I don't mistake it for spam, and 
+check the ENTIRE walkthrough, AND the FAQ section, before sending me a 
+question. If you send me threats, spam, insults, spam, insincere 
+messages, spam, incomprehensible gibberish (i.e. "yo man yur gid is 
+kewl but yu missd something) spam, spam, or spam, I will block you. But 
+other than that, feel free to write! You can reach me at 
+ts_chapman@yahoo.com (I am not responsible for long reply delays).
+
+Also, if you need help in the game, but don't want to be just given the 
+answers by a full walkthrough, you might want to check out the Items 
+section after the main guide, or (for even less revealing hints) the 
+Guide to he Mansion before the main guide.
+
+*********
+The Story
+*********
+
+It has been twenty years since a mysterious purple meteor came hurtling 
+out of the sky and made a large crater in the front lawn of a large 
+Victorian mansion belonging to the Edison family. Dr. Fred, his wife 
+Nurse Edna, and their son Weird Ed were reclusive people who left the 
+house very rarely, but the meteor's arrival brought about a strange 
+change in Dr. Fred. Now, a local cheerleader has vanished without a 
+trace. Dave, her boyfriend, has gathered a few of his close comrades on 
+a mission to invade the mansion and save Sandy. 
+
+********
+Controls
+********
+
+At the bottom of the screen at all times during the game, except 
+cutscenes, there are twelve "verbs" – Push, Pull, Give, Open, Close, Go 
+To, Get, Use, Read, New Kid, Turn On, and Turn Off. Click on one of 
+these verbs to start a sentence, and then click an object on screen or 
+in the inventory to finish it. For example, if you clicked "Get" then 
+clicked on a key, the sentence would read, "Get key" and your character 
+would then pick it up if possible. Sentences with the verbs "Use" and 
+"Give" will have more than two parts. For example if you clicked "Use", 
+then the same key in your inventory, then a door, the sentence would 
+read "Use key in door" and your character would unlock the door. "Use" 
+is for combining two items, while "Give" enables you to switch items 
+between the inventories of your characters. "New kid" also requires 
+some explanation. If you choose "New Kid" a list of your three party 
+members appears. Choose the one you are currently playing as to exit 
+the menu, or choose another name to switch to that character with their 
+separate position, abilities, and inventory. If the kid you choose is 
+dead (see "Hazards in the Mansion" below) you will see only their 
+gravestone.
+
+**********
+Characters
+**********
+
+-------------------------------
+The Teenagers and their Skills
+-------------------------------
+
+---Dave---
+
+Background: Sandy's boyfriend, who is very sure he saw Dr. Fred bring 
+Sandy to the old mansion. Dave has red hair and is willing to do 
+whatever possible to save Sandy. 
+Skills: None.
+Weaknesses: See above. 
+For: Dave is a mandatory character and is automatically selected. Good 
+thing too, or nobody would choose him.
+
+---Bernard---
+
+Background: Physics champion and all-around nerd, Bernard nonetheless 
+is a valuable character. His technical skills are highly sought after 
+as he can repair radios and telephones. 
+Skills: Can fix the telephone; can fix the radio in Dr. Fred's room.
+Weaknesses: Afraid of the Green Tentacle, and refuses to even be in the 
+same room with him. For some reason, not afraid of the Purple Tentacle.
+For: Beginners or players who don't really want a challenge.
+
+---Syd and Razor---
+
+Background: Syd and Razor are both musicians who can use the piano. 
+They are listed as one character because they have the exact same 
+skills. Syd is the boy, Razor is the girl.
+Skills: Can play the piano well.
+Weaknesses: If you forget to pull the stamps off the package before 
+giving it to Weird Ed, they're useless.
+For: Slightly more advanced players.
+
+---Wendy---
+
+Background: Wendy wants to be a novelist. It's surprising that she 
+isn't one yet because she has great writing skills, even to the point 
+where she can rewrite a manuscript in a matter of minutes.
+Skills: Can rewrite the meteor's manuscript.
+Weaknesses: If you forget to pull the stamps off the package before 
+giving it to Weird Ed, she's useless.
+For: Players who have played through once or twice.
+
+---Michael---
+
+Background: Ace photographer for the college newspaper, Michael is the 
+only one of Dave's friends who knows how to use a darkroom. He can 
+befriend Weird Ed as well.
+Skills: Can develop Weird Ed's plans to defeat the Meteor.
+Weaknesses: None to speak of.
+For: Players who have played through once or twice.
+
+---Jeff---
+
+Background: Known as "surfer dude," Jeff is somewhat ungifted in the 
+area of rescue-related talent, to put it lightly.
+Skills: Can fix the telephone.
+Weaknesses: Redundant; Bernard also has his only skill. Also, has no 
+way of getting past Purple Tentacle.
+For: Advanced players.
+
+-------------------------
+Residents of the Mansion
+-------------------------
+
+---Dr. Fred---
+
+Apparent villain of the game, Dr. Fred is actually slave to the mind 
+powers of the evil meteor. Formerly a quack with medical degrees from 
+correspondence courses, Fred has raised a family in his giant mansion. 
+Some of his greatest creations are the Zom-B-Matic machine, which the 
+meteor uses to control him, and living, disembodied tentacles.
+
+---Nurse Edna---
+
+The strange and obscene blue-skinned (maybe that nuclear reactor isn't 
+so safe after all) wife of the equally blue-skinned Dr. Fred. Edna is 
+schooled in heavy breathing, hates intruders, and has a phone extension 
+in her room. Use these things to your advantage.
+
+---Weird Ed---
+
+Ed, the son of Dr. Fred, has been trying for some time to save his 
+father from the meteor, but his plans to do so were stolen. Since then 
+he has remained mostly in his room, finding solace in his hamster. Ed 
+loves that hamster, so don't come between them. 
+
+---Dead Cousin Ted---
+
+A mummy who lives in a comfortable sarcophagus equipped with a pillow 
+and a TV. Ted died some time ago, but Edna is still expecting a call 
+from him because she's too lazy to walk the twenty feet to his room.
+
+---Green Tentacle---
+
+One of the results of Dr. Fred's odd genetic breeding experiments, 
+Green Tentacle lives in a musically furnished room above the good 
+doctor's. He wants to get a band started but he can't. He has some 
+psychological problems and can slip very easily into jealous rage.
+
+---Purple Tentacle---
+
+Dr. Fred's loyal servant, Purple Tentacle is less independent than 
+Green Tentacle and guards the door to his lab. He is steadfast but will 
+quail before a member of the Meteor Police. 
+
+---The Murderous Purple Slimy Meteor---
+
+Purple Meteor's origins are lost in the mists of time and space, but he 
+is a wanted criminal throughout the galaxy who twenty years ago crash-
+landed in Dr. Fred's front yard. He somehow found his way into the 
+mind-control seat of power in Dr. Fred's Zom-B-Matic, and has been 
+manipulating Fred ever since. He orchestrated the plot to kidnap Sandy 
+and suck her pretty brains out.
+
+***********************
+Hazards in the Mansion
+***********************
+
+-----------
+The Dungeon
+-----------
+
+The Dungeon is a large and empty room accessed through the far left 
+door in the basement. If one of your characters runs into one of the 
+following three mansion residents, they will be taken to the dungeon.
+
+NURSE EDNA – In the first few minutes after entering the house, Nurse 
+Edna is located in the kitchen next to the refrigerator, but for the 
+rest of the game, she is in her room (unless she is taking someone to 
+the dungeon).
+
+WEIRD ED – Weird Ed spends all his time in his room, unless the 
+doorbell sounds. There is one cutscene in the game where Ed decides to 
+get something to eat, so when you see this, if you are between Ed's 
+room and the kitchen, get into an adjoining room QUICKLY to avoid him 
+and stay there for ten seconds to a minute (depending on where you are 
+with respect to his room). Do the same when you see the scene 
+indicating he has left the kitchen or if the doorbell rings. If you 
+have Ed's hamster, and he finds you, give it to him to score a one-time 
+free pass out of the dungeon. Give him his package, though, and from 
+then on he will never take either of the supporting characters to the 
+dungeon. He will still take whichever kid took his hamster or broke his 
+piggy bank, though, but only if that kid DIDN'T give him the package. 
+
+PURPLE TENTACLE – Located beyond the inner lab door. Purple Tentacle 
+won't actually see you unless you get pretty close, but when he does, 
+he will take you to the dungeon. Purple Tentacle leaves the lab only at 
+the command of Dr. Fred, and Dr. Fred only commands him to if the power 
+goes off or if the pool is drained. He will not take any of your 
+characters to the dungeon once you show him the Meteor Police badge, 
+the contract from Mark Eteer, or after Weird Ed or Green Tentacle takes 
+care of him.
+
+The way to escape the dungeon is to use the Old Rusty Key, found in the 
+living room, on the door. The key can be used on either side of the 
+door. There is also a loose brick under the fourth window from the 
+right. If you have two kids in the dungeon, position one by the door 
+and one by the loose brick. Push the brick, then switch to the kid next 
+to the door and leave. Only one of two trapped kids can escape this 
+way, so choose the one with the larger and/or more useful 
+inventory/skills. The other will have to wait for the Old Rusty Key or 
+for another kid. 
+
+Getting into the dungeon is vital because the doors to the lab are also 
+located there.
+
+-----------------
+Individual Death
+-----------------
+
+Numerous things in the game can kill your kids. If a kid dies, they 
+will become a tombstone in the front yard, which you will see every 
+time you switch to that kid. A dead kid's inventory is lost forever, so 
+if that kid has any vital items, you'll probably want to reload the 
+game from before they died. 
+
+THE HAMSTER – Weird Ed loves his hamster very much. If you take it from 
+his room, Syd or Razor (none of the others are willing to) can put it 
+in the microwave and turn it on. If you give the hamster's remains back 
+to Ed, he will kill whichever character gave them to him.
+
+THE RADIOACTIVE POOL – To get into the outer lab, you need the glowing 
+key from the bottom of the pool. To get it you must drain the pool. If 
+you drain the pool, send a kid down into the pool, then refill it, the 
+kid down there will die.
+
+RADIOACTIVE STEAM – If you fill the glass jar with pool water, then 
+microwave the jar and open the microwave, the radioactive steam will 
+kill the kid that opened the microwave.
+
+GREEN TENTACLE – As mentioned before, Green Tentacle can very easily go 
+into a jealous rage. If you show him any contract not intended for him 
+(i.e. one obtained by mailing Syd's tape, Razor's tape, or Wendy's 
+rewritten manuscript to Mark Eteer) he will murder the kid that showed 
+him the contract. 
+
+PURPLE METEOR – Like the pool, the Meteor is highly radioactive. If you 
+enter the same room as the Meteor without wearing a radiation suit, the 
+radioactivity will kill you. 
+
+---------
+Game Over
+---------
+
+In addition to killing one kid, there are ways to destroy the entire 
+house that involve the nuclear reactor core in the basement. This will 
+cause the death of all three kids (not to mention Dr. Fred, Sandy, 
+Nurse Edna, Weird Ed, the Meteor, the Tentacles, and the hamster) and 
+end the game. If this happens your only option is to reload the game. 
+
+THE CIRCUIT BREAKERS – Turn off the circuit breakers and leave them off 
+for too long, and a meltdown will occur, destroying the house.
+
+THE RED BUTTON OF DOOM – At the bottom of the nuclear pool is a giant 
+red button. Pushing this button will inexplicably destroy the house.
+
+THE POOL – If you drain the pool and leave it drained for too long, the 
+buildup of nuclear water will blow up the house.
+
+THE SELF-DESTRUCT SYSTEM – At the end of the game, Dr. Fred activates 
+the mansion's self-destruct system to stop you from rescuing Sandy. To 
+stop it, you need to free him from the Meteor's mind control by turning 
+off the Zom-B-Matic. If you wait too long, and the timer runs out, the 
+house blows up.
+
+***********************
+A Guide to the Mansion
+***********************
+
+Although this is not a full walkthrough, it provides necessary info on 
+all the rooms of the mansion, what can be found there (although not how 
+to get it) what to do there (although not how to do it) and the rooms 
+accessed from it (and the keys needed to unlock them). It can be used 
+as an alternative to the main guide for those who don't want to be told 
+outright how to do things.
+
+---Sample Entry---
+
+Description: What the room is like.
+Items: Necessary items located in the room.
+To Do: Tasks to be performed in the room that aren't self-evident (I 
+don't include things like "go up the stairs").
+Leads To: The other rooms accessed from the room, the doors leading to 
+them, and the keys needed to unlock those doors.
+
+-----------------------------------------------------------------------
+
+---Front Yard---
+
+Description: The lawn at the front of the house.
+Items: Roll of Film, Key, Package, Stamps.
+To Do: Unlock the mansion; pull open the grating; find out the 
+mansion's address; get the package.
+Leads To: Front Hall (through Front Door; requires Key) Valve Room 
+(through grating; requires increased strength).
+
+---Front Hall---
+
+Description: The small and bare front hall of the mansion contains a 
+grandfather clock, a long flight of stairs, and some decorative 
+gargoyles.
+Items: None.
+To Do: Get into the basement.
+Leads To: Front Yard (through Front Door; requires Key) Kitchen 
+(through door next to clock) Second Floor Landing (up staircase) 
+Basement (through handleless door) Living Room (through far right 
+door).
+
+---Valve Room---
+
+Description: A dank cellar under the floorboards, containing only the 
+valve to drain and refill the pool.
+Items: Puddle of developer.
+To Do: Get the developer; drain the pool.
+Leads To: Front Yard (through grating).
+
+---Kitchen---
+
+Description: A large room containing cooking implements like a 
+microwave, a sink, a refrigerator, and a chainsaw.
+Items: Flashlight, Can of Pepsi.
+To Do: Open the envelope without tearing it; fill the glass jar with 
+water; get Green Tentacle something to drink.
+Leads To: Front Hall (through far left door) Dining Room (through far 
+right door).
+
+---Basement---
+
+Description: The gloomy basement which contains the nuclear reactor 
+responsible for powering the Mansion. Also home to a fuse box which, if 
+used incorrectly, is very dangerous.
+Items: Silver Key
+To Do: Unlock the dungeon; turn off the power.
+Leads To: Front Hall (through far right door) Dungeon (through far left 
+door; requires Old Rusty Key).
+
+---Living Room---
+
+Description: A sparse living room containing stereophonic equipment and 
+a rather fragile chandelier.
+Items: Old Rusty Key, Radio Tube
+To Do: Smash the chandelier.
+Leads to: Front Hall (through far right door) Library (through far left 
+door).
+
+---Second Floor Landing---
+
+Description: This small landing boasts a useless security door.
+Items: None.
+To Do: None.
+Leads To: Front Hall (down staircase) Art Room (through left-hand door) 
+Music Room (through right-hand door) Second Floor Hallway (through 
+steel security door).
+
+---Dining Room---
+
+Description: A room with a long and totally unused table.
+Items: None.
+To Do: None.
+Leads To: Kitchen (through far left door) Pantry (through far right 
+door).
+
+---Pantry---
+
+Description: The small, cramped pantry which holds shelves of inedible 
+items. 
+Items: Glass Jar, Bottle of Developer.
+To Do: Obtain (and break) the developer.
+Leads To: Dining Room (through far left door) Pool (through central 
+door; requires Silver Key).
+
+---Pool---
+
+Description: The site of a deadly pool filled with radioactive waste 
+and other debris.
+Items: None.
+To Do: Climb down into the pool; get some radioactive water.
+Leads To: Pantry (through left-hand door) Pool Bottom (down ladder; 
+requires water to be drained) Back Yard (through gate).
+
+---Pool Bottom---
+
+Description: The bottom of the aforementioned pool.
+Items: Glowing Key, Radio
+To Do: Grab various helpful items; avoid pushing the red button of 
+doom.
+Leads To: Pool (up ladder).
+
+---Garage---
+
+Description: Home to Edsel, the Edison family car.
+Items: Tools, Faucet Handle.
+To Do: Open the garage; send the Meteor off into space (requires Yellow 
+Key); open the trunk to get the tools (requires Yellow Key).
+Leads To: Pool (through gate).
+
+---Dungeon---
+
+Description: Prison where the kids are thrown if caught.
+Items: None.
+To Do: Escape from the dungeon; unlock the lab doors.
+Leads To: Outer Lab (through Outer and Inner Lab Doors; requires 
+Glowing Key and lab pass code) Basement (through far right door; 
+requires Old Rusty Key or pushing the loose brick).
+
+---Library---
+
+Description: Book-filled room with a broken stairway and a telephone.
+Items: Cassette Tape.
+To Do: Call Nurse Edna to distract her.
+Leads To: Living Room (through far left door).
+
+---Art Room---
+
+Description: Filled with painting supplies, this room is probably the 
+source of the portraits of Fred and Edna throughout the house.
+Items: Bowl of Wax Fruit, Paint Remover
+To Do: None.
+Leads To: Second Floor Landing (through door).
+
+---Music Room---
+
+Description: Location of a piano, recording paraphernalia, and a TV 
+that perpetually plays the same ad.
+Items: None.
+To Do: Record a tape for shattering glass; record Syd or Razor's piano 
+playing; learn Mark Eteer's address.
+Leads To: Second Floor Landing (through door).
+
+---Second Floor Hallway---
+
+Description: A blue hallway with various doors.
+Items: None.
+To Do: None.
+Leads To: Second Floor Landing (through steel security door) Dr. Fred's 
+Office (through left-hand door) Arcade (through right-hand door) Third 
+Floor (up stairs).
+
+---Dr. Fred's Office---
+
+Description: Fred's office holds medical charts, a real skeleton, and a 
+desk. 
+Items: Manuscript.
+To Do: None.
+Leads To: Second Floor Hallway (through door).
+
+---Arcade---
+
+Description: Full of electronic games, this room is Dr. Fred's place of 
+recreation.
+Items: None.
+To Do: Learn the pass code to the inner lab door.
+Leads To: Second Floor Hallway (through door).
+
+---Third Floor---
+
+Description: This small hallway is where Green Tentacle accosts you 
+early on in the game.
+Items: None.
+To Do: Quench Green Tentacle's hunger and thirst.
+Leads To: Second Floor Hallway (down stairs) Darkroom (through door) 
+Fourth Floor (up stairs).
+
+---Darkroom---
+
+Description: A place to develop photographs? This mansion's got 
+everything!
+Items: None.
+To Do: Develop Weird Ed's plans.
+Leads To: Third Floor (through door).
+
+---Fourth Floor Hallway---
+
+Description: The hallway with doors to all of the Edisons' rooms. Most 
+dangerous place to be if you want to avoid the dungeon.
+Items: None.
+To Do: None.
+Leads To: Third Floor (through first door on left) Dr. Fred's Room 
+(through second door on left) Nurse Edna's Room (through third door) 
+Weird Ed's Room (through fourth door) Dead Cousin Ted's Room (through 
+fifth door) Portrait Room (through sixth door).
+
+---Dr. Fred's Room---
+
+Description: Dr. Fred's bed is here, even though he never sleeps 
+anymore.
+Items: Dime.
+To Do: Call the Meteor Police.
+Leads To: Fourth Floor Hallway (through door) Green Tentacle's Room (up 
+ladder).
+
+---Green Tentacle's Room---
+
+Description: Giant speakers and posters dominate Green Tentacle's 
+bedroom at the top of the house.
+Items: Yellow Key, Record, Demo Tape.
+To Do: Get Green Tentacle's demo tape.
+Leads To: Dr. Fred's Room (down ladder).
+
+---Nurse Edna's Room---
+
+Description: A room with a feminine bed and wallpaper, where Nurse Edna 
+spends her time waiting for a phone call.
+Items: Small Key.
+To Do: Get to the Storage Room.
+Leads To: Fourth Floor Hallway (through door) Storage Room (up ladder).
+
+---Storage Room---
+
+Description: In the storage room is a safe, where Nurse Edna keeps her 
+most treasured possession…
+Items: Envelope, Quarter.
+To Do: Open the safe.
+Leads To: Nurse Edna's Room (down ladder).
+
+---Weird Ed's Room---
+
+Description: Weird Ed lives in here with his hamster and military 
+models.
+Items: Hamster, Purple Card Key, Dime.
+To Do: Befriend Weird Ed.
+Leads To: Fourth Floor Hallway (through door)
+
+---Dead Cousin Ted's Room---
+
+Description: Here Ted dwells in his comfortable coffin.
+Items: None.
+To Do: Bulk yourself up.
+Leads To: Fourth Floor Hallway (through left-hand door) Bathroom 
+(through right-hand door).
+
+---Bathroom---
+
+Description: Strangely, this is the only bathroom in the house. Dead 
+Cousin Ted's corpse is found here.
+Items: Sponge.
+To Do: Learn Nurse Edna's number.
+Leads To: Dead Cousin Ted's Room (through door).
+
+---Portrait Room---
+
+Description: A small room overshadowed by a large painting of the 
+Edison family. A very thirsty plant lives here.
+Items: None.
+To Do: Access the Observatory; access the Attic; rewrite the 
+manuscript.
+Leads To: Fourth Floor Hallway (through left-hand door) Observatory 
+(through hatch) Attic (through right-hand door)
+
+---Observatory---
+
+Description: The room where Dr. Fred watches the stars with his Very 
+Powerful Telescope.
+Items: None.
+To Do: Find out Nurse Edna's safe combination.
+Leads To: Portrait Room (through hatch).
+
+---Attic---
+
+Description: Here, the wiring in the walls is exposed and broken.
+Items: None.
+To Do: Fix the wires to restore power to the Arcade games.
+Leads To: Portrait Room (down ladder).
+
+---Outer Lab---
+
+Description: Here Dr. Fred spends most of his time. In the room are a 
+control panel which controls the nuclear reactor, a map of the house, 
+and Purple Tentacle, who guards the Inner Lab.
+Items: None.
+To Do: Get past Purple Tentacle.
+Leads To: Dungeon (through left-hand door) Inner Lab (through right-
+hand door).
+
+---Inner Lab---
+
+Description: The Zom-B-Matic's machinery is housed here, with Sandy 
+strapped into one of the brain suckers. There is also a Pepsi machine 
+for when Dr. Fred gets thirsty.
+Items: None.
+To Do: None.
+Leads To: Outer Lab (through left-hand door) Meteor Room (through 
+right-hand door; requires Purple Card Key.)
+
+---Meteor Room---
+
+Description: The seat of power for the Zom-B-Matic is here, which the 
+Purple Meteor uses to control Dr. Fred. Also, the central core module 
+of the Zom-B-Matic, along with its master power switch, is  here.
+Items: Meteor.
+To Do: Turn off the Zom-B-Matic; get rid of the Meteor.
+Leads To: Inner Lab (through left-hand door) Garage (through right-hand 
+door).
+
+-----------------------------------------------------------------------
+
+********************************
+FAQ: Frequently Asked Questions
+********************************
+
+Q: Can I put your guide on my website?
+A: YES, already. But you HAVE to write and ask first or it's copyright 
+infringement.
+
+Q: One of my kids is dead, and they had the [insert item]! What should 
+I do?
+A: You've got to reload the game to get your items back.
+
+Q: I gave Weird Ed his package, but I didn't pull the stamps off yet. 
+Am I in trouble?
+A: Yes, if your team is Dave/Wendy/Syd, Dave/Wendy/Razor, or 
+Dave/Syd/Razor. In these teams, both supporting characters need the 
+stamps. Otherwise, you can get by just fine.
+
+Q: I gave Weird Ed his package, but I still need something in his room 
+and he won't answer the doorbell. Help!
+A: If you don't have Michael, don't give Ed the package at all. It 
+makes things much harder. If you must give him the package, though, 
+here's how to get into his room afterwards. If the hamster is already 
+gone, the kid that took the package can take the card key and he won't 
+care. To get the stuff in the piggy bank, though, you'll need to take a 
+kid he doesn't like (i.e. one who took his hamster) and send him into 
+Ed's room. Have the kid who gave Ed the package wait outside the door, 
+then send him or her in when Ed is off taking the other kid to the 
+dungeon. 
+
+Q: I don't have Bernard or Jeff. How am I supposed to get by Nurse 
+Edna?
+A: Put one kid in Dr. Fred's room and leave the door open. Then send 
+another kid into Nurse Edna's room. When she is occupied taking the 
+offending kid to the dungeon, switch to the kid in Dr. Fred's room, 
+send him or her into Nurse Edna's room, grab whatever you can, and GET 
+OUT FAST!
+
+Q: I can't find [item]!
+A: Check the walkthrough. All items are in ALL CAPS.
+
+Q: I can't find [room]!
+A: Check the Guide to the Mansion. All the room names are the same as 
+the ones I use in the guide, so use the Leads To information to find 
+your way from a location you know to that room.
+
+Q: Why aren't there guides for Jeff or Razor?
+A: Jeff doesn't have the skills needed to even get past Purple 
+Tentacle, so with him you need all three party members, and these 
+guides are for two characters only. Razor is not included because her 
+walkthrough is EXACTLY the same as Syd's, to the letter.
+
+-----------------------------------------------------------------------
+It's time for the guide!
+
+$$$$$$$$$$$
+WALKTHROUGH
+$$$$$$$$$$$
+
+Each walkthrough is written entirely for the ONE character it deals 
+with. In situations where two characters are needed (diverting Nurse 
+Edna or opening the basement, for example) I will use Dave for that 
+second character. 
+
+There is no walkthrough for Jeff, nor is there one for Razor. Jeff 
+doesn't have the skills needed to even get past Purple Tentacle, so 
+with him you need all three party members, and these guides are for two 
+characters only. Razor is not included because her walkthrough is 
+EXACTLY the same as Syd's, to the letter.
+
+************
+Character 1
+Bernard
+************
+
+------------------------
+Objective 1
+Get Past Green Tentacle
+------------------------
+
+Since Bernard can't be in the same room with Green Tentacle, this 
+objective will be completed by Dave. As Dave, walk left past the fence 
+and climb the steps to the front porch. Pull the doormat and get the 
+KEY. Use the KEY in the front door and go inside. Switch to your third 
+character (this is the only time you'll need him or her) and post him 
+or her next to the mailbox next to the front porch.
+
+Switch back to Dave in the front hall. Be sure to NOT enter the kitchen 
+for a little while, since Nurse Edna is in there. You don't need to 
+yet, anyway. Instead, climb the stairs and enter the painting room 
+through the left-hand door. Pick up the BOWL OF WAX FRUIT, then return 
+to the second floor landing and open the steel security door. In the 
+second floor hallway, go to the end and climb the stairs. Try to go 
+past Green Tentacle, and he demands to be fed. Give him the BOWL OF WAX 
+FRUIT, and he announces that now he's thirsty. Go back down to the 
+front hall and wait outside the kitchen door for a couple of minutes. 
+Then go in and cross to the fridge. Open it and pick up the CAN OF 
+PEPSI. Alternately, you can go through the right-hand door to the 
+dining room and continue through to the pantry, where you'll find the 
+FRUIT DRINKS. Return to the third floor and give Green Tentacle the CAN 
+OF PEPSI or the FRUIT DRINKS, and he will let you through. Go up the 
+stairs behind him to the fourth floor, and enter Dr. Fred's room, the 
+first door on the long wall. Climb the ladder to Green Tentacle's 
+bedroom, and pick up the RECORD near the mondo stereo and the YELLOW 
+KEY hanging on the wall. Go all the way back down to the front hall.
+
+-------------------
+Objective 2
+Unlock the Dungeon
+-------------------
+
+Switch to Bernard and enter the mansion. At some time during this 
+objective, the doorbell will ring. When it does, immediately switch to 
+your third character and get the PACKAGE. As the third character, go 
+back to the starting point of the game. You won't need the PACKAGE as 
+Bernard, nor will you need the third character anymore. 
+
+Switch to Dave and give Bernard the KEY, RECORD, YELLOW KEY, and CAN OF 
+PEPSI. Now switch to Bernard. Go through the door at the far right end 
+of the hallway, through the living room, and into the library. Turn on 
+the lamp and go all the way to the end of the library. Pull the loose 
+panel next to the telephone and get the CASSETTE TAPE. Return to the 
+front hall and go up to the second floor landing. Enter the music room 
+through the door on the right. Use the CASSETTE TAPE in the tape 
+recorder, then use the RECORD with the Victrola. Turn on the tape 
+recorder and the Victrola IN THAT ORDER. Wait for the vase on the piano 
+to shatter, then turn off the Victrola and the tape recorder. Get the 
+CASSETTE TAPE and go down to the living room. Open the cabinet under 
+the old-fashioned radio and use the CASSETTE TAPE with the tape player. 
+Turn the tape player on and soon the chandelier will smash. Turn off 
+the tape player and get the OLD RUSTY KEY. Now, if any kid gets locked 
+in the dungeon, Bernard can simply go down to the basement and unlock 
+the door. He can also unlock the door from the inside if he is 
+imprisoned. 
+
+--------------------------
+Objective 3
+Unlock the Outer Lab Door
+--------------------------
+
+If it hasn't already happened, the doorbell will ring at some point 
+during this objective. When it does, immediately switch to your third 
+character and get the PACKAGE. As the third character, go back to the 
+starting point of the game. You won't need the PACKAGE as Bernard, nor 
+will you need the third character anymore.
+
+As Bernard, go to the front hall and stand in front of the handleless 
+door that leads to the basement. Switch to Dave and pull the right-hand 
+staircase gargoyle, then switch back to Bernard and enter the basement. 
+Turn on the light switch and go all the way to the left. Get the SILVER 
+KEY next to the fusebox. 
+
+Leave the basement and go all the way up to the fourth floor. Enter 
+Dead Cousin Ted's room and use the Hunk-O-Matic, then return to the 
+front hall and give the SILVER KEY to Dave. Go out into the front yard 
+(if Ed has already been there and the door is closed, use the KEY with 
+it) and pull the bushes. Pull the grating and climb into the Valve 
+Room. Go right and wait by the valve. 
+
+Switch to Dave and go through the kitchen and dining room to the 
+pantry. Unlock the door with the SILVER KEY and go out to the pool. 
+Stand next to the ladder.
+
+Switch to Bernard and turn on the valve, then, once the cutscene is 
+over, switch to Dave and climb down the ladder. Get the GLOWING KEY and 
+the RADIO, then climb out of the pool again. Switch to Bernard and turn 
+off the valve. 
+
+Have both Bernard and Dave go to the front hall. As Dave, give Bernard 
+the GLOWING KEY and RADIO. You now have the necessary key to unlock the 
+outer lab door!
+
+--------------------------
+Objective 4
+Unlock the Inner Lab Door
+--------------------------
+
+Open the RADIO to get the BATTERIES, then enter the kitchen and get the 
+FLASHLIGHT. Use the BATTERIES with the FLASHLIGHT, but don't turn it on 
+yet. Instead, go out to the pool through the pantry. Open the gate and 
+go through it, then open the garage with your increased strength. Use 
+the YELLOW KEY with the trunk and get the TOOLS. Also, get the FAUCET 
+HANDLE from the shelf. 
+
+Go back to the front hall and give Dave the OLD RUSTY KEY. Have Dave 
+wait by the basement door, then switch to Bernard and pull the correct 
+gargoyle. Switch to Dave and enter the basement. Go left and open the 
+fusebox, but don't do anything else yet.
+
+Switch to Bernard and climb the stairs. Enter the painting room and get 
+the PAINT REMOVER. Ascend to the fourth floor and enter the door at the 
+very end of the hallway. Use the PAINT REMOVER on the orange paint to 
+reveal a door. Open it and go through. 
+
+Turn on the attic light and go over to the exposed wires. Switch to 
+Dave and turn off the circuit breakers, then switch to Bernard once the 
+cutscene ends and turn on the FLASHLIGHT. Use the TOOLS with the wires 
+and switch back to Dave, who has probably been accosted by Purple 
+Tentacle at this point. Unlock the dungeon door with the OLD RUSTY KEY, 
+go through, and turn on the circuit breakers. Have Dave and Bernard 
+meet in the front hall, and have Dave give Bernard back the OLD RUSTY 
+KEY. Now send Bernard upstairs to the fourth floor hallway, and put 
+Dave outside by the doorbell. 
+
+Have Bernard wait just inside the door of Dead Cousin Ted's room, then 
+have Dave ring the doorbell. Switch to Bernard, wait about ten seconds, 
+then go out into the hallway. Enter Weird Ed's room and get the HAMSTER 
+and the PURPLE CARD KEY. Then leave and go hide in Dead Cousin Ted's 
+room. Switch to Dave and ring the bell again, then switch to Bernard, 
+wait ten seconds, and return to Ed's room. "Get" the piggy bank to 
+break it, then get a DIME and return to Ted's room. Wait a little 
+while, then bring Dave up to the fourth floor hallway and have him wait 
+outside Nurse Edna's door. Switch to Bernard and enter Dead Cousin 
+Ted's bathroom. Use the FAUCET HANDLE with the faucet, then turn on the 
+faucet to move Ted's body and reveal Nurse Edna's number. Go all the 
+way down to the library and use the TOOLS with the phone. Use the phone 
+and dial Nurse Edna's number.
+
+Switch to Dave when the cutscene ends and enter Edna's room. Get the 
+SMALL KEY and climb the ladder into the storage room. Turn on the 
+light, pull the painting, and switch to Bernard. 
+
+Go through the kitchen to the pantry and get the GLASS JAR. Go out to 
+the pool and use the GLASS JAR with the pool to get a jar of 
+radioactive water. Go all the way up to the fourth floor hallway and 
+enter Dr. Fred's room. Get the DIME and return to the hallway. Enter 
+the portrait room and use the CAN OF PEPSI, then the GLASS JAR with the 
+plant. Climb up to the hatch.
+
+Use both DIMES with the coin slot in the control panel, then push the 
+right button twice. Use the really powerful telescope to look into the 
+storage room and find out the combination to Edna's safe. Switch to 
+Dave and open the safe. Get the ENVELOPE inside. Since to win with 
+Bernard you don't need the ENVELOPE, only its contents, you can just 
+open it to get the QUARTER. Switch to Bernard and go down to the 
+library. Call Edna again and, while she is occupied, switch to Dave, 
+descend the ladder, pass Edna, and go out into the hallway and down to 
+the front hall. Switch to Bernard and go to the front hall. Switch back 
+to Dave and give Bernard the SMALL KEY and the QUARTER. 
+
+If by this point you haven't seen a cutscene with Dr. Fred playing the 
+Meteor Mess game in the arcade, enter and exit a room a few times until 
+it rolls. Then, switch to Bernard and go up to the arcade off the 
+second floor hallway. Use the QUARTER with the coin box. When the high 
+scores list is displayed at the end of the arcade game, remember the 
+score that goes with whichever initials start with "DF" because this is 
+Dr. Fred's high score. (If you need to see it again, use the SMALL KEY 
+with the coin box, get the QUARTER, close the coin box, and put the 
+QUARTER back in). This high score also happens to be the pass code to 
+the inner lab door. 
+
+-------------------------
+Objective 5
+Get Past Purple Tentacle
+-------------------------
+
+Go down to the front hall again. Dave should still be there. Wait in 
+front of the basement door, then switch to Dave and pull the gargoyle. 
+Switch back to Bernard and re-enter the basement. Go all the way left 
+and use the OLD RUSTY KEY in the dungeon door. Cross the dungeon and 
+use the GLOWING KEY with both padlocks on the outer lab door. Next, try 
+to open the inner lab door. When the keypad appears, enter Dr. Fred's 
+high score and the door opens. (IMPORTANT NOTE: If you do anything 
+after this point to make Dr. Fred send out Purple Tentacle – like 
+turning off the circuit breakers or turning on the water valve – the 
+doors will close again after Purple Tentacle returns).
+
+Return to the front hall, leaving ALL the doors open (that includes the 
+dungeon door) and enter the den. Open the old-fashioned radio and get 
+the RADIO TUBE. Go all the way up to Dr. Fred's room and use the RADIO 
+TUBE with the tube socket. Read the poster to learn the number for the 
+meteor police, then use the radio and call them. Watch the cutscene, 
+then stay where you are. Eventually, a police siren heralds the cops' 
+arrival. After another scene, return to the dungeon and get the POLICE 
+BADGE. Go into the lab and give the POLICE BADGE to Purple Tentacle.
+
+-------------
+Objective 6
+Rescue Sandy
+-------------
+
+If for some reason you don't have the PURPLE CARD KEY yet, GET IT 
+BEFORE DOING ANYTHING ELSE. If Dr. Fred turns on the self-destruct and 
+you don't have it, you're as good as dead. Go through the door and 
+enter the Inner Lab. Ignore Dr. Fred's attempts to stop you, and 
+eventually he will run over and initiate the self-destruct sequence. 
+Open the locker and get the RADIATION SUIT on, then use the PURPLE CARD 
+KEY in the card slot. Open the door and turn off the lever to finish 
+the game.
+
+************
+Character 2
+Wendy
+************
+
+------------------------
+Objective 1
+Get Past Green Tentacle
+------------------------
+
+Walk left past the fence and climb the steps to the front porch. Pull 
+the doormat and get the KEY. Use the KEY in the front door and go 
+inside. Switch to your third character (this is the only time you'll 
+need him or her) and post him or her next to the mailbox next to the 
+front porch.
+
+Switch back to Wendy in the front hall. Be sure to NOT enter the 
+kitchen for a little while, since Nurse Edna is in there. You don't 
+need to yet, anyway. Instead, climb the stairs and enter the painting 
+room through the left-hand door. Pick up the BOWL OF WAX FRUIT, then 
+return to the second floor landing and open the steel security door. In 
+the second floor hallway, go to the end and climb the stairs. Try to go 
+past Green Tentacle, and he demands to be fed. Give him the BOWL OF WAX 
+FRUIT, and he announces that now he's thirsty. Go back down to the 
+front hall and wait outside the kitchen door for a couple of minutes. 
+Then go in and cross to the fridge. Open it and pick up the CAN OF 
+PEPSI. Alternately, you can go through the right-hand door to the 
+dining room and continue through to the pantry, where you'll find the 
+FRUIT DRINKS. Return to the third floor and give Green Tentacle the CAN 
+OF PEPSI or the FRUIT DRINKS, and he will let you through. Go up the 
+stairs behind him to the fourth floor, and enter Dr. Fred's room, the 
+first door on the long wall. Climb the ladder to Green Tentacle's 
+bedroom, and pick up the RECORD near the mondo stereo and the YELLOW 
+KEY hanging on the wall. 
+
+-------------------
+Objective 2
+Unlock the Dungeon
+-------------------
+
+At some time during this objective, the doorbell will ring. When it 
+does, immediately switch to your third character and get the PACKAGE 
+and STAMPS. As the third character, wait until Weird Ed has returned to 
+his room, then enter the front hall. Switch to Wendy and bring her to 
+the front hall as well. Switch to the third character and give Wendy 
+the PACKAGE and STAMPS, then return to the starting point of the game. 
+You won't need your third character anymore. Switch back to Wendy and 
+return to whatever she was doing.
+
+Go through the door at the far right end of the front hallway, through 
+the living room, and into the library. Turn on the lamp and go all the 
+way to the end of the library. Pull the loose panel next to the 
+telephone and get the CASSETTE TAPE. Return to the front hall and go up 
+to the second floor landing. Enter the music room through the door on 
+the right. Use the CASSETTE TAPE in the tape recorder, then use the 
+RECORD with the Victrola. Turn on the tape recorder and the Victrola IN 
+THAT ORDER. Wait for the vase on the piano to shatter, then turn off 
+the Victrola and the tape recorder. Get the CASSETTE TAPE and go down 
+to the living room. Open the cabinet under the old-fashioned radio and 
+use the CASSETTE TAPE with the tape player. Turn the tape player on and 
+soon the chandelier will smash. Turn off the tape player and get the 
+OLD RUSTY KEY. Now, if any kid gets locked in the dungeon, Wendy can 
+simply go down to the basement and unlock the door. She can also unlock 
+the door from the inside if she is imprisoned. 
+
+--------------------------
+Objective 3
+Unlock the Outer Lab Door
+--------------------------
+
+If it hasn't already happened, the doorbell will ring at some point 
+during this objective. When it does, immediately switch to your third 
+character and get the PACKAGE and STAMPS. As the third character, wait 
+until Weird Ed has returned to his room, then enter the front hall. 
+Switch to Wendy and bring her to the front hall as well. Switch to the 
+third character and give Wendy the PACKAGE and STAMPS, then return to 
+the starting point of the game. You won't need your third character 
+anymore. Switch back to Wendy and return to whatever she was doing.
+
+As Wendy, go to the front hall and stand in front of the handleless 
+door that leads to the basement. Switch to Dave and pull the right-hand 
+staircase gargoyle, then switch back to Wendy and enter the basement. 
+Turn on the light switch and go all the way to the left. Get the SILVER 
+KEY next to the fusebox. 
+
+Leave the basement and go all the way up to the fourth floor. Enter 
+Dead Cousin Ted's room and use the Hunk-O-Matic, then return to the 
+front hall and give the SILVER KEY to Dave. Go out into the front yard 
+(if Ed has already been there and the door is closed, use the KEY with 
+it) and pull the bushes. Pull the grating and climb into the Valve 
+Room. Go right and wait by the valve. 
+
+Switch to Dave and go through the kitchen and dining room to the 
+pantry. Unlock the door with the SILVER KEY and go out to the pool. 
+Stand next to the ladder.
+
+Switch to Wendy and turn on the valve, then, once the cutscene is over, 
+switch to Dave and climb down the ladder. Get the GLOWING KEY and the 
+RADIO, then climb out of the pool again. Switch to Wendy and turn off 
+the valve. 
+
+Have both Wendy and Dave go to the front hall. As Dave, give Wendy the 
+GLOWING KEY and RADIO. You now have the necessary key to unlock the 
+outer lab door!
+
+--------------------------
+Objective 4
+Unlock the Inner Lab Door
+--------------------------
+
+Open the RADIO to get the BATTERIES, then enter the kitchen and get the 
+FLASHLIGHT. Use the BATTERIES with the FLASHLIGHT, but don't turn it on 
+yet. Instead, go out to the pool through the pantry. Open the gate and 
+go through it, then open the garage with your increased strength. Use 
+the YELLOW KEY with the trunk and get the TOOLS. 
+
+Go back to the front hall and give Dave the OLD RUSTY KEY. Have Dave 
+wait by the basement door, then switch to Wendy and pull the correct 
+gargoyle. Switch to Dave and enter the basement. Go left and open the 
+fusebox, but don't do anything else yet.
+
+Switch to Wendy and climb the stairs. Enter the painting room and get 
+the PAINT REMOVER. Ascend to the fourth floor and enter the door at the 
+very end of the hallway. Use the PAINT REMOVER on the orange paint to 
+reveal a door. Open it and go through. 
+
+Turn on the attic light and go over to the exposed wires. Switch to 
+Dave and turn off the circuit breakers, then switch to Wendy once the 
+cutscene ends and turn on the FLASHLIGHT. Use the TOOLS with the wires 
+and switch back to Dave, who has probably been accosted by Purple 
+Tentacle at this point. Unlock the dungeon door with the OLD RUSTY KEY, 
+go through, and turn on the circuit breakers. Have Dave and Wendy meet 
+in the front hall, and have Dave give Wendy back the OLD RUSTY KEY.Now 
+send Wendy upstairs to the fourth floor hallway, and put Dave outside 
+by the doorbell. 
+
+Have Wendy wait just inside the door of Dead Cousin Ted's room, then 
+have Dave ring the doorbell. Switch to Wendy, wait about ten seconds, 
+then go out into the hallway. Enter Weird Ed's room and get the HAMSTER 
+and the PURPLE CARD KEY. Then leave and go hide in Dead Cousin Ted's 
+room. Switch to Dave and ring the bell again, then switch to Wendy, 
+wait ten seconds, and return to Ed's room. "Get" the piggy bank to 
+break it, then get a DIME and return to Ted's room. Wait a little 
+while, then bring Dave up to the fourth floor hallway and put him in 
+Dead Cousin Ted's room. Switch to Wendy, go back out to the hallway and 
+enter Nurse Edna's room. When Edna is off taking Wendy to the dungeon, 
+quickly switch to Dave and enter Edna's room. Get the SMALL KEY and 
+climb the ladder into the storage room. Turn on the light, pull the 
+painting, and switch to Wendy.
+
+Let yourself out of the dungeon with the OLD RUSTY KEY and return to 
+the front hall again. Go through the kitchen to the pantry and get the 
+GLASS JAR. Go out to the pool and use the GLASS JAR with the pool to 
+get a jar of radioactive water. Go all the way up to the fourth floor 
+hallway and enter Dr. Fred's room. Get the DIME and return to the 
+hallway. Enter the portrait room and use the CAN OF PEPSI, then the 
+GLASS JAR with the plant. Climb up to the hatch.
+
+Use both DIMES with the coin slot in the control panel, then push the 
+right button twice. Use the really powerful telescope to look into the 
+storage room and find out the combination to Edna's safe. Switch to 
+Dave and open the safe. Get the ENVELOPE inside but DON'T OPEN IT. 
+Switch to Wendy and enter Edna's room. While Edna is gone, switch to 
+Dave, descend the ladder, go out into the hallway, and hide in Ted's 
+room. After a little while, go down to the front hall. Switch to Wendy, 
+let yourself out of the dungeon, and go to the front hall. Switch back 
+to Dave and give Wendy the SMALL KEY and the ENVELOPE. 
+
+If by this point you haven't seen a cutscene with Dr. Fred playing the 
+Meteor Mess game in the arcade, enter and exit a room a few times until 
+it rolls. Then, switch to Wendy and enter the kitchen. Turn on the 
+faucet and use the GLASS JAR with it. Turn off the faucet and open the 
+microwave. Use the GLASS JAR and the ENVELOPE with the microwave, then 
+close the microwave and turn it on. Wait for a brief period, then turn 
+it off and open it. Get the ENVELOPE and open that for the QUARTER.
+
+Go up to the arcade off the second floor hallway. Use the QUARTER with 
+the coin box. When the high scores list is displayed at the end of the 
+arcade game, remember the score that goes with whichever initials start 
+with "DF" because this is Dr. Fred's high score. (If you need to see it 
+again, use the SMALL KEY with the coin box, get the QUARTER, close the 
+coin box, and put the QUARTER back in). This high score also happens to 
+be the pass code to the inner lab door. 
+
+-------------------------
+Objective 5
+Get Past Purple Tentacle
+-------------------------
+
+Go to the second floor hallway and enter Dr. Fred's office. Turn on the 
+light and open the desk drawer. Get the MANUSCRIPT, then go upstairs to 
+the fourth floor hallway. Enter the portrait room and use the 
+MANUSCRIPT with the typewriter. Wendy rewrites it to make it much 
+better. Then go to the music room with the piano and Victrola. Turn on 
+the TV and watch the ad for Three Guys Who'll Publish Anything. Go back 
+up to the portrait room and use the ENVELOPE with the typewriter to 
+print Mark Eteer's address on it. Use the MANUSCRIPT and then the 
+STAMPS with the envelope. Go down to the front yard, put the ENVELOPE 
+in the mailbox, close the mailbox, and use the flag.
+
+Go back inside the house and wait. Eventually, the doorbell will ring. 
+Go outside and get the CONTRACT from the mailbox. Go inside and switch 
+to Dave. Have him pull the gargoyle, then switch to Wendy and enter the 
+basement. Go all the way left and use the OLD RUSTY KEY in the dungeon 
+door. Cross the dungeon and use the GLOWING KEY with both padlocks on 
+the outer lab door. Next, try to open the inner lab door. When the 
+keypad appears, enter Dr. Fred's high score and the door opens. Go 
+through and show the CONTRACT to Purple Tentacle. 
+
+-------------
+Objective 6
+Rescue Sandy
+-------------
+
+If for some reason you don't have the PURPLE CARD KEY yet, GET IT 
+BEFORE DOING ANYTHING ELSE. If Dr. Fred turns on the self-destruct and 
+you don't have it, you're as good as dead. Go through the door and 
+enter the Inner Lab. Ignore Dr. Fred's attempts to stop you, and 
+eventually he will run over and initiate the self-destruct sequence. 
+Open the locker and get the RADIATION SUIT on, then use the PURPLE CARD 
+KEY in the card slot. Open the door and turn off the lever, then give 
+the CONTRACT to the meteor to finish the game.
+
+*********************************************
+Character 3
+Syd (this walkthrough also works for Razor)
+*********************************************
+
+------------------------
+Objective 1
+Get Past Green Tentacle
+------------------------
+
+Walk left past the fence and climb the steps to the front porch. Pull 
+the doormat and get the KEY. Use the KEY in the front door and go 
+inside. Switch to your third character (this is the only time you'll 
+need him or her) and post him or her next to the mailbox next to the 
+front porch.
+
+Switch back to Syd in the front hall. Be sure to NOT enter the kitchen 
+for a little while, since Nurse Edna is in there. You don't need to 
+yet, anyway. Instead, climb the stairs and enter the painting room 
+through the left-hand door. Pick up the BOWL OF WAX FRUIT, then return 
+to the second floor landing and open the steel security door. In the 
+second floor hallway, go to the end and climb the stairs. Try to go 
+past Green Tentacle, and he demands to be fed. Give him the BOWL OF WAX 
+FRUIT, and he announces that now he's thirsty. Go back down to the 
+front hall and wait outside the kitchen door for a couple of minutes. 
+Then go in and cross to the fridge. Open it and pick up the CAN OF 
+PEPSI. Alternately, you can go through the right-hand door to the 
+dining room and continue through to the pantry, where you'll find the 
+FRUIT DRINKS. Return to the third floor and give Green Tentacle the CAN 
+OF PEPSI or the FRUIT DRINKS, and he will let you through. Go up the 
+stairs behind him to the fourth floor, and enter Dr. Fred's room, the 
+first door on the long wall. Climb the ladder to Green Tentacle's 
+bedroom, and pick up the RECORD near the mondo stereo and the YELLOW 
+KEY hanging on the wall. 
+
+-------------------
+Objective 2
+Unlock the Dungeon
+-------------------
+
+At some time during this objective, the doorbell will ring. When it 
+does, immediately switch to your third character and get the PACKAGE 
+and STAMPS. As the third character, wait until Weird Ed has returned to 
+his room, then enter the front hall. Switch to Syd and bring him to the 
+front hall as well. Switch to the third character and give Syd the 
+PACKAGE and STAMPS, then return to the starting point of the game. You 
+won't need your third character anymore. Switch back to Syd and return 
+to whatever he was doing.
+
+Go through the door at the far right end of the front hallway, through 
+the living room, and into the library. Turn on the lamp and go all the 
+way to the end of the library. Pull the loose panel next to the 
+telephone and get the CASSETTE TAPE. Return to the front hall and go up 
+to the second floor landing. Enter the music room through the door on 
+the right. Use the CASSETTE TAPE in the tape recorder, then use the 
+RECORD with the Victrola. Turn on the tape recorder and the Victrola IN 
+THAT ORDER. Wait for the vase on the piano to shatter, then turn off 
+the Victrola and the tape recorder. Get the CASSETTE TAPE and go down 
+to the living room. Open the cabinet under the old-fashioned radio and 
+use the CASSETTE TAPE with the tape player. Turn the tape player on and 
+soon the chandelier will smash. Turn off the tape player, get the 
+CASSETTE TAPE back out, and get the OLD RUSTY KEY. Now, if any kid gets 
+locked in the dungeon, Syd can simply go down to the basement and 
+unlock the door. He can also unlock the door from the inside if he is 
+imprisoned. 
+
+--------------------------
+Objective 3
+Unlock the Outer Lab Door
+--------------------------
+
+If it hasn't already happened, the doorbell will ring at some point 
+during this objective. When it does, immediately switch to your third 
+character and get the PACKAGE and STAMPS. As the third character, wait 
+until Weird Ed has returned to his room, then enter the front hall. 
+Switch to Syd and bring him to the front hall as well. Switch to the 
+third character and give Syd the PACKAGE and STAMPS, then return to the 
+starting point of the game. You won't need your third character 
+anymore. Switch back to Syd and return to whatever he was doing.
+
+As Syd, go to the front hall and stand in front of the handleless door 
+that leads to the basement. Switch to Dave and pull the right-hand 
+staircase gargoyle, then switch back to Syd and enter the basement. 
+Turn on the light switch and go all the way to the left. Get the SILVER 
+KEY next to the fusebox. 
+
+Leave the basement and go all the way up to the fourth floor. Enter 
+Dead Cousin Ted's room and use the Hunk-O-Matic, then return to the 
+front hall and give the SILVER KEY to Dave. Go out into the front yard 
+(if Ed has already been there and the door is closed, use the KEY with 
+it) and pull the bushes. Pull the grating and climb into the Valve 
+Room. Go right and wait by the valve. 
+
+Switch to Dave and go through the kitchen and dining room to the 
+pantry. Unlock the door with the SILVER KEY and go out to the pool. 
+Stand next to the ladder.
+
+Switch to Syd and turn on the valve, then, once the cutscene is over, 
+switch to Dave and climb down the ladder. Get the GLOWING KEY and the 
+RADIO, then climb out of the pool again. Switch to Syd and turn off the 
+valve. 
+
+Have both Syd and Dave go to the front hall. As Dave, give Syd the 
+GLOWING KEY and RADIO. You now have the necessary key to unlock the 
+outer lab door!
+
+--------------------------
+Objective 4
+Unlock the Inner Lab Door
+--------------------------
+
+Open the RADIO to get the BATTERIES, then enter the kitchen and get the 
+FLASHLIGHT. Use the BATTERIES with the FLASHLIGHT, but don't turn it on 
+yet. Instead, go out to the pool through the pantry. Open the gate and 
+go through it, then open the garage with your increased strength. Use 
+the YELLOW KEY with the trunk and get the TOOLS. 
+
+Go back to the front hall and give Dave the OLD RUSTY KEY. Have Dave 
+wait by the basement door, then switch to Syd and pull the correct 
+gargoyle. Switch to Dave and enter the basement. Go left and open the 
+fusebox, but don't do anything else yet.
+
+Switch to Syd and climb the stairs. Enter the painting room and get the 
+PAINT REMOVER. Ascend to the fourth floor and enter the door at the 
+very end of the hallway. Use the PAINT REMOVER on the orange paint to 
+reveal a door. Open it and go through. 
+
+Turn on the attic light and go over to the exposed wires. Switch to 
+Dave and turn off the circuit breakers, then switch to Syd once the 
+cutscene ends and turn on the FLASHLIGHT. Use the TOOLS with the wires 
+and switch back to Dave, who has probably been accosted by Purple 
+Tentacle at this point. Unlock the dungeon door with the OLD RUSTY KEY, 
+go through, and turn on the circuit breakers. Have Dave and Syd meet in 
+the front hall, and have Dave give Syd back the OLD RUSTY KEY. Now send 
+Syd upstairs to the fourth floor hallway, and put Dave outside by the 
+doorbell. 
+
+Have Syd wait just inside the door of Dead Cousin Ted's room, then have 
+Dave ring the doorbell. Switch to Syd, wait about ten seconds, then go 
+out into the hallway. Enter Weird Ed's room and get the HAMSTER and the 
+PURPLE CARD KEY. Then leave and go hide in Dead Cousin Ted's room. 
+Switch to Dave and ring the bell again, then switch to Syd, wait ten 
+seconds, and return to Ed's room. "Get" the piggy bank to break it, 
+then get a DIME and return to Ted's room. Wait a little while, then 
+bring Dave up to the fourth floor hallway and put him in Dead Cousin 
+Ted's room. Switch to Syd, go back out to the hallway and enter Nurse 
+Edna's room. When Edna is off taking Syd to the dungeon, quickly switch 
+to Dave and enter Edna's room. Get the SMALL KEY and climb the ladder 
+into the storage room. Turn on the light, pull the painting, and switch 
+to Syd.
+
+Let yourself out of the dungeon with the OLD RUSTY KEY and return to 
+the front hall again. Go through the kitchen to the pantry and get the 
+GLASS JAR. Go out to the pool and use the GLASS JAR with the pool to 
+get a jar of radioactive water. Go all the way up to the fourth floor 
+hallway and enter Dr. Fred's room. Get the DIME and return to the 
+hallway. Enter the portrait room and use the CAN OF PEPSI, then the 
+GLASS JAR with the plant. Climb up to the hatch.
+
+Use both DIMES with the coin slot in the control panel, then push the 
+right button twice. Use the really powerful telescope to look into the 
+storage room and find out the combination to Edna's safe. Switch to 
+Dave and open the safe. Get the ENVELOPE inside but DON'T OPEN IT. 
+Switch to Syd and enter Edna's room. While Edna is gone, switch to 
+Dave, descend the ladder, go out into the hallway, and hide in Ted's 
+room. After a little while, go down to the front hall. Switch to Syd, 
+let yourself out of the dungeon, and go to the front hall. Switch back 
+to Dave and give Syd the SMALL KEY and the ENVELOPE. 
+
+If by this point you haven't seen a cutscene with Dr. Fred playing the 
+Meteor Mess game in the arcade, enter and exit a room a few times until 
+it rolls. Then, switch to Syd and enter the kitchen. Turn on the faucet 
+and use the GLASS JAR with it. Turn off the faucet and open the 
+microwave. Use the GLASS JAR and the ENVELOPE with the microwave, then 
+close the microwave and turn it on. Wait for a brief period, then turn 
+it off and open it. Get the ENVELOPE and open that for the QUARTER.
+
+Go up to the arcade off the second floor hallway. Use the QUARTER with 
+the coin box. When the high scores list is displayed at the end of the 
+arcade game, remember the score that goes with whichever initials start 
+with "DF" because this is Dr. Fred's high score. (If you need to see it 
+again, use the SMALL KEY with the coin box, get the QUARTER, close the 
+coin box, and put the QUARTER back in). This high score also happens to 
+be the pass code to the inner lab door. 
+
+-------------------------
+Objective 5
+Get Past Purple Tentacle
+-------------------------
+
+Go to the music room with the piano and Victrola. Turn on the TV and 
+watch the ad for Three Guys Who'll Publish Anything. Use the CASSETTE 
+TAPE with the tape recorder and turn it on, then use the piano. Turn 
+off the tape recorder and get the CASSETTE TAPE. Go back up to the 
+portrait room and use the ENVELOPE with the typewriter to print Mark 
+Eteer's address on it. Then, go to Green Tentacle's room above Dr. 
+Fred's. Use the CASSETTE TAPE with the mondo stereo and turn it on. 
+Green Tentacle will drop a DEMO TAPE, so get it. Use the DEMO TAPE, 
+then the STAMPS, with the envelope. Go down to the front yard, put the 
+ENVELOPE in the mailbox, close the mailbox, and use the flag.
+
+Go back inside the house and wait. Eventually, the doorbell will ring. 
+Go outside and get the CONTRACT from the mailbox. Return to Green 
+Tentacle's room and show him the CONTRACT. Then go to the front hall 
+and switch to Dave. Have him pull the gargoyle, then switch to Syd and 
+enter the basement. Go all the way left and use the OLD RUSTY KEY in 
+the dungeon door. Cross the dungeon and use the GLOWING KEY with both 
+padlocks on the outer lab door. Next, try to open the inner lab door. 
+When the keypad appears, enter Dr. Fred's high score and the door 
+opens. Go through and Green Tentacle will arrive to dispatch Purple 
+Tentacle. 
+
+-------------
+Objective 6
+Rescue Sandy
+-------------
+
+If for some reason you don't have the PURPLE CARD KEY yet, GET IT 
+BEFORE DOING ANYTHING ELSE. If Dr. Fred turns on the self-destruct and 
+you don't have it, you're as good as dead. Go through the door and 
+enter the Inner Lab. Ignore Dr. Fred's attempts to stop you, and 
+eventually he will run over and initiate the self-destruct sequence. 
+Open the locker and get the RADIATION SUIT on, then use the PURPLE CARD 
+KEY in the card slot. Open the door and turn off the lever, then get 
+the METEOR and go through the right-hand door. Open the trunk, put the 
+METEOR in, close the trunk, and use the YELLOW KEY with Weird Edsel to 
+finish the game.
+
+************
+Character 4
+Michael
+************
+
+------------------------
+Objective 1
+Get Past Green Tentacle
+------------------------
+
+Walk left past the fence and climb the steps to the front porch. Pull 
+the doormat and get the KEY. Use the KEY in the front door and go 
+inside. Switch to your third character (this is the only time you'll 
+need him or her) and post him or her next to the mailbox next to the 
+front porch.
+
+Switch back to Michael in the front hall. Be sure to NOT enter the 
+kitchen for a little while, since Nurse Edna is in there. You don't 
+need to yet, anyway. Instead, climb the stairs and enter the painting 
+room through the left-hand door. Pick up the BOWL OF WAX FRUIT, then 
+return to the second floor landing and open the steel security door. In 
+the second floor hallway, go to the end and climb the stairs. Try to go 
+past Green Tentacle, and he demands to be fed. Give him the BOWL OF WAX 
+FRUIT, and he announces that now he's thirsty. Go back down to the 
+front hall and wait outside the kitchen door for a couple of minutes. 
+Then go in and cross to the fridge. Open it and pick up the CAN OF 
+PEPSI. Alternately, you can go through the right-hand door to the 
+dining room and continue through to the pantry, where you'll find the 
+FRUIT DRINKS. Return to the third floor and give Green Tentacle the CAN 
+OF PEPSI or the FRUIT DRINKS, and he will let you through. Go up the 
+stairs behind him to the fourth floor, and enter Dr. Fred's room, the 
+first door on the long wall. Climb the ladder to Green Tentacle's 
+bedroom, and pick up the RECORD near the mondo stereo and the YELLOW 
+KEY hanging on the wall. 
+
+-------------------
+Objective 2
+Unlock the Dungeon
+-------------------
+
+At some time during this objective, the doorbell will ring. When it 
+does, immediately switch to your third character and get the PACKAGE 
+and STAMPS. As the third character, wait until Weird Ed has returned to 
+his room, then enter the front hall. Switch to Michael and bring him to 
+the front hall as well. Switch to the third character and give Michael 
+the PACKAGE and STAMPS, then return to the starting point of the game. 
+You won't need your third character anymore. Switch back to Michael and 
+return to whatever he was doing.
+
+Go through the door at the far right end of the front hallway, through 
+the living room, and into the library. Turn on the lamp and go all the 
+way to the end of the library. Pull the loose panel next to the 
+telephone and get the CASSETTE TAPE. Return to the front hall and go up 
+to the second floor landing. Enter the music room through the door on 
+the right. Use the CASSETTE TAPE in the tape recorder, then use the 
+RECORD with the Victrola. Turn on the tape recorder and the Victrola IN 
+THAT ORDER. Wait for the vase on the piano to shatter, then turn off 
+the Victrola and the tape recorder. Get the CASSETTE TAPE and go down 
+to the living room. Open the cabinet under the old-fashioned radio and 
+use the CASSETTE TAPE with the tape player. Turn the tape player on and 
+soon the chandelier will smash. Turn off the tape player, get the 
+CASSETTE TAPE back out, and get the OLD RUSTY KEY. Now, if any kid gets 
+locked in the dungeon, Michael can simply go down to the basement and 
+unlock the door. He can also unlock the door from the inside if he is 
+imprisoned. 
+
+--------------------------
+Objective 3
+Unlock the Outer Lab Door
+--------------------------
+
+If it hasn't already happened, the doorbell will ring at some point 
+during this objective. When it does, immediately switch to your third 
+character and get the PACKAGE and STAMPS. As the third character, wait 
+until Weird Ed has returned to his room, then enter the front hall. 
+Switch to Michael and bring him to the front hall as well. Switch to 
+the third character and give Michael the PACKAGE and STAMPS, then 
+return to the starting point of the game. You won't need your third 
+character anymore. Switch back to Michael and return to whatever he was 
+doing.
+
+As Michael, go to the front hall and stand in front of the handleless 
+door that leads to the basement. Switch to Dave and pull the right-hand 
+staircase gargoyle, then switch back to Michael and enter the basement. 
+Turn on the light switch and go all the way to the left. Get the SILVER 
+KEY next to the fusebox. 
+
+Leave the basement and go all the way up to the fourth floor. Enter 
+Dead Cousin Ted's room and use the Hunk-O-Matic, then return to the 
+front hall and give the SILVER KEY to Dave. Go out into the front yard 
+(if Ed has already been there and the door is closed, use the KEY with 
+it) and pull the bushes. Pull the grating and climb into the Valve 
+Room. Go right and wait by the valve. 
+
+Switch to Dave and go through the kitchen and dining room to the 
+pantry. Unlock the door with the SILVER KEY and go out to the pool. 
+Stand next to the ladder.
+
+Switch to Michael and turn on the valve, then, once the cutscene is 
+over, switch to Dave and climb down the ladder. Get the GLOWING KEY and 
+the RADIO, then climb out of the pool again. Switch to Michael and turn 
+off the valve. 
+
+Have both Michael and Dave go to the front hall. As Dave, give Michael 
+the GLOWING KEY and RADIO. You now have the necessary key to unlock the 
+outer lab door!
+
+--------------------------
+Objective 4
+Unlock the Inner Lab Door
+--------------------------
+
+Open the RADIO to get the BATTERIES, then enter the kitchen and get the 
+FLASHLIGHT. Use the BATTERIES with the FLASHLIGHT, but don't turn it on 
+yet. Instead, go out to the pool through the pantry. Open the gate and 
+go through it, then open the garage with your increased strength. Use 
+the YELLOW KEY with the trunk and get the TOOLS. 
+
+Go back to the front hall and give Dave the OLD RUSTY KEY. Have Dave 
+wait by the basement door, then switch to Michael and pull the correct 
+gargoyle. Switch to Dave and enter the basement. Go left and open the 
+fusebox, but don't do anything else yet.
+
+Switch to Michael and climb the stairs. Enter the painting room and get 
+the PAINT REMOVER. Ascend to the fourth floor and enter the door at the 
+very end of the hallway. Use the PAINT REMOVER on the orange paint to 
+reveal a door. Open it and go through. 
+
+Turn on the attic light and go over to the exposed wires. Switch to 
+Dave and turn off the circuit breakers, then switch to Michael once the 
+cutscene ends and turn on the FLASHLIGHT. Use the TOOLS with the wires 
+and switch back to Dave, who has probably been accosted by Purple 
+Tentacle at this point. Unlock the dungeon door with the OLD RUSTY KEY, 
+go through, and turn on the circuit breakers. Have Dave and Michael 
+meet in the front hall, and have Dave give Michael back the OLD RUSTY 
+KEY.Now send Michael upstairs to the fourth floor hallway, and put Dave 
+outside by the doorbell. 
+
+Have Michael wait just inside the door of Dead Cousin Ted's room, then 
+have Dave ring the doorbell. Switch to Michael, wait about ten seconds, 
+then go out into the hallway. Enter Weird Ed's room and get the HAMSTER 
+and the PURPLE CARD KEY. Then leave and go hide in Dead Cousin Ted's 
+room. Switch to Dave and ring the bell again, then switch to Michael, 
+wait ten seconds, and return to Ed's room. "Get" the piggy bank to 
+break it, then get a DIME and return to Ted's room. Wait a little 
+while, then bring Dave up to the fourth floor hallway and put him in 
+Dead Cousin Ted's room. Switch to Michael, go back out to the hallway 
+and enter Nurse Edna's room. When Edna is off taking Michael to the 
+dungeon, quickly switch to Dave and enter Edna's room. Get the SMALL 
+KEY and climb the ladder into the storage room. Turn on the light, pull 
+the painting, and switch to Michael.
+
+Let yourself out of the dungeon with the OLD RUSTY KEY and return to 
+the front hall again. Go through the kitchen to the pantry and get the 
+GLASS JAR. Go out to the pool and use the GLASS JAR with the pool to 
+get a jar of radioactive water. Go all the way up to the fourth floor 
+hallway and enter Dr. Fred's room. Get the DIME and return to the 
+hallway. Enter the portrait room and use the CAN OF PEPSI, then the 
+GLASS JAR with the plant. Climb up to the hatch.
+
+Use both DIMES with the coin slot in the control panel, then push the 
+right button twice. Use the really powerful telescope to look into the 
+storage room and find out the combination to Edna's safe. Switch to 
+Dave and open the safe. Get the ENVELOPE inside. Since to win with 
+Michael you don't need the ENVELOPE, only its contents, you can just 
+open it to get the QUARTER. Switch to Michael and enter Edna's room. 
+While Edna is gone, switch to Dave, descend the ladder, go out into the 
+hallway, and hide in Ted's room. After a little while, go down to the 
+front hall. Switch to Michael, let yourself out of the dungeon, and go 
+to the front hall. Switch back to Dave and give Michael the SMALL KEY 
+and the ENVELOPE. 
+
+If by this point you haven't seen a cutscene with Dr. Fred playing the 
+Meteor Mess game in the arcade, enter and exit a room a few times until 
+it rolls. Then, switch to Michael and go up to the arcade off the 
+second floor hallway. Use the QUARTER with the coin box. When the high 
+scores list is displayed at the end of the arcade game, remember the 
+score that goes with whichever initials start with "DF" because this is 
+Dr. Fred's high score. (If you need to see it again, use the SMALL KEY 
+with the coin box, get the QUARTER, close the coin box, and put the 
+QUARTER back in). This high score also happens to be the pass code to 
+the inner lab door. 
+
+-------------------------
+Objective 5
+Get Past Purple Tentacle
+-------------------------
+
+Go up to Weird Ed's room and give Ed the PACKAGE. Out of gratitude, he 
+won't take you to the dungeon anymore. He will also tell you that he 
+had plans to defeat the Meteor, but he lost them. He says to come see 
+him when you have the plans. Go out to the front yard and get the ROLL 
+OF FILM next to the bushes that are to the right of the front steps. 
+Re-enter the mansion and go through the kitchen and dining room. In the 
+pantry, get the BOTTLE OF DEVELOPER. Michael will automatically break 
+the bottle, though, and the developer will flow through a grating in 
+the floor. Go up to Dead Cousin Ted's room and enter his bathroom. Get 
+the SPONGE from the sink then go out to the front yard. Go through the 
+grating and use the SPONGE in the puddle of developer. Go back to the 
+house and climb to the third floor, where Green Tentacle was at the 
+very beginning of the game. Enter the darkroom and turn on the red 
+light. Use the SPONGE with the developer tray, then use the ROLL OF 
+FILM with the developer tray. Once the plans are developed, take them 
+to Weird Ed.
+
+Go to the front hall and switch to Dave. Have him pull the gargoyle, 
+then switch to Michael and enter the basement. Go all the way left and 
+use the OLD RUSTY KEY in the dungeon door. Cross the dungeon and use 
+the GLOWING KEY with both padlocks on the outer lab door. Next, try to 
+open the inner lab door. When the keypad appears, enter Dr. Fred's high 
+score and the door opens. Go through and Weird Ed will arrive to 
+dispatch Purple Tentacle. 
+
+-------------
+Objective 6
+Rescue Sandy
+-------------
+
+If for some reason you don't have the PURPLE CARD KEY yet, GET IT 
+BEFORE DOING ANYTHING ELSE. If Dr. Fred turns on the self-destruct and 
+you don't have it, you're as good as dead. Go through the door and 
+enter the Inner Lab. Ignore Dr. Fred's attempts to stop you, and 
+eventually he will run over and initiate the self-destruct sequence. 
+Open the locker and get the RADIATION SUIT on, then use the PURPLE CARD 
+KEY in the card slot. Open the door and turn off the lever, then get 
+the METEOR and go through the right-hand door. Open the trunk, put the 
+METEOR in, close the trunk, and use the YELLOW KEY with Weird Edsel to 
+finish the game.
+
+-----------------------------------------------------------------------
+
+***********
+Items List
+***********
+
+This is a list of all the items from Maniac Mansion. If you don't want 
+to spoil the game by using the full walkthrough, you might want to use 
+this as an alternative. The items are listed in the order you get them 
+in the game, with items that all characters use coming first and 
+character-specific items after them.
+
+--------------
+All Characters
+--------------
+
+KEY – Found under the doormat on the front porch. Used to unlock the 
+front door.
+
+BOWL OF WAX FRUIT – Found in the painting room. Used to take the edge 
+off of Green Tentacle's hunger.
+
+CAN OF PEPSI – Found in the refrigerator in the kitchen. Used to quench 
+Green Tentacle's thirst.
+
+FRUIT DRINKS – Found in the pantry. Used to quench Green Tentacle's 
+thirst.
+
+RECORD – Found in Green Tentacle's room near the mondo stereo. Used to 
+shatter the chandelier and get the old rusty key. 
+
+YELLOW KEY – Found hanging on the wall in Green Tentacle's room. Used 
+to unlock and start Weird Edsel.
+
+CASSETTE TAPE – Found behind a loose panel in the library. Used to 
+record the record of tentacle mating calls.
+
+OLD RUSTY KEY – Found on the chandelier in the living room. Used to 
+unlock the dungeon.
+
+SILVER KEY – Found hanging next to the fuse box in the basement. Used 
+to unlock the back door.
+
+GLOWING KEY – Found at the bottom of the radioactive pool. Used to 
+unlock the outer lab door.
+
+RADIO – Found at the bottom of the radioactive pool. A useless item, 
+but it contains necessary batteries.
+
+BATTERIES – Found inside the radio at the bottom of the radioactive 
+pool. Used to power the flashlight.
+
+FLASHLIGHT – Found in the kitchen under the microwave. Used to light up 
+the attic in order to successfully fix the wires.
+
+TOOLS – Found in Weird Edsel's trunk in the garage. Used to fix the 
+wires in the attic.
+
+PAINT REMOVER – Found in the painting room. Used to reveal a door in 
+the portrait room.
+
+HAMSTER – Found in Weird Ed's room. A useless item, but the purple card 
+key is behind it.
+
+PURPLE CARD KEY – Found behind the hamster in Weird Ed's room. Used to 
+unlock the meteor's room.
+
+DIMES – One is found in Dr. Fred's room, the other in Weird Ed's piggy 
+bank. Used to activate the really powerful telescope in the 
+observatory.  
+
+SMALL KEY – Found on the nightstand in Nurse Edna's room. Used to 
+unlock the arcade games' coin boxes.
+
+GLASS JAR – Found in the pantry. Used to hold radioactive water.
+
+ENVELOPE – Found in the safe in the storage room. Contains the quarter.
+
+QUARTER – Found in the envelope in the safe in the storage room. Used 
+to play the arcade games.
+
+RADIATION SUIT – Found in a locker in the inner lab. Used to survive 
+the Purple Meteor's deadly radiation.
+
+-------
+Bernard
+-------
+
+RADIO TUBE – Found in the old-fashioned radio in the living room. Used 
+to activate the radio in Dr. Fred's room and call the Meteor Police.
+
+POLICE BADGE – Found in the dungeon after being dropped by the Meteor 
+Police. Used to get past Purple Tentacle.
+
+-----
+Wendy
+-----
+
+GLASS JAR - Found in the pantry. Besides the above use, used to hold 
+regular water for steaming open the envelope.
+
+ENVELOPE – Found in the safe in the storage room. Besides the above 
+use, also used to mail the manuscript to Mark Eteer.
+
+STAMPS – Found on the package delivered to the front yard. Used to mail 
+the manuscript to Mark Eteer.
+
+MANUSCRIPT – Found in the desk drawer in Dr. Fred's office. Used to 
+obtain a contract from Mark Eteer.
+
+CONTRACT – Found in the mailbox in the front yard after being 
+delivered. Used to get past Purple Tentacle and to convince the Meteor 
+to end his evil spree and become a writer.
+
+--------------
+Syd and Razor
+--------------
+
+GLASS JAR - Found in the pantry. Besides the above use, used to hold 
+regular water for steaming open the envelope.
+
+ENVELOPE – Found in the safe in the storage room. Besides the above 
+uses, also used to mail the demo tape to Mark Eteer.
+
+STAMPS – Found on the package delivered to the front yard. Besides the 
+above use, used to mail the demo tape to Mark Eteer.
+
+CASSETTE TAPE - Found behind a loose panel in the library. Besides the 
+above use, used to record Syd or Razor's piano playing.
+
+DEMO TAPE – Found in Green Tentacle's room after being dropped by Green 
+Tentacle. Used to obtain a contract from Mark Eteer.
+
+CONTRACT – Found in the mailbox in the front yard after being 
+delivered. Used to get Green Tentacle to help you get past Purple 
+Tentacle. 
+
+-------
+Michael
+-------
+
+PACKAGE – Found in the front yard after being delivered. Used to 
+befriend Weird Ed.
+
+ROLL OF FILM – Found in the front yard next to a bush. Used to get 
+Weird Ed to help you get past Purple Tentacle.
+
+BOTTLE OF DEVELOPER – Found in the pantry. Used to develop the roll of 
+film.
+
+SPONGE – Found on the sink in Dead Cousin Ted's bathroom. Used to soak 
+up the puddle of developer.

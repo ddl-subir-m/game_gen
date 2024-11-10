@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "paint-a-game"  # replace with your project name
+version = "0.1.0"
+description = "A system for clustering game mechanics"
+authors = ["Subir Mansukhani <subir.m@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"  # adjust minimum Python version as needed
+scikit-learn = "^1.5.0"
+numpy = "^2.1.0"
+scipy = "^1.14.0"
+nltk = "^3.9.0"
+typing-extensions = "^4.12.0"
+tenacity = "^9.0.0"
+anthropic = "^0.39.0"
+openai = "^1.54.0"
+python-dotenv = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

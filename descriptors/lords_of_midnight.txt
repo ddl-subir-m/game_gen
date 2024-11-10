@@ -1,0 +1,127 @@
+LORDS OF MIDNIGHT HINTS
+
+
+-RESCUING PRISONERS
+
+Rescuing prisoners should be a high priority in the game. Without the prisoners of the realms
+at your side, your quest for the Blood March will be your last quest! Rescued prisoners are
+initially under your command but do not owe you allegiance since they have not been recruited
+to join your Alliance. While their allegiance is to their home realm, rescued prisoners will
+be under your command in battle against the Wolfheart. Rescued characters are quite important
+due to the fact that they are able to recruit from all the Castles and Citadels that carry 
+their realms standard.
+
+-SMART RESCUING
+
+First and Foremost, leave Coreleth of Corelay and Arin Lord Blood in the Dark Citadel of
+Maranor until all the prisoners are rescued. If you rescue the characters early in the game, 
+they will no longer be able to re-enter the dungeons and rescue characters. Early in the game 
+it is best to take direct control of one of the characters and lead them through the Dark 
+Citadel. Since the AI will randomly pick routes through the Dungeon intersection and will many 
+times completly miss a prisoner. The dungeon has a main route that can easily be identified by 
+it's similarly textured ceiling, floor, and walls. Searching all corridors that branch from the 
+main route is the best way to locate prisoners. You need to be methodical in your search, as 
+finding prisoners isn't the easiest of tasks. A good idea might be to draw a dungeon map to 
+aid you in a through search of the Dark Citadel.
+
+-RECRUITING SYSTEM
+
+Recruiting works on a point based system, based on the recruiter and Non-Player Character's 
+(NPC's) personality attributes. There are 64 personality attributes within the game, 32 good, 
+32 bad. For every attribut that the recruiter and the NPC have in common, such as Loyal vs. 
+Loyal, 1 point is added towards the total. For every attribute that is in opposite, such as 
+Brave vs. Cowardly, 1 point is subtracted from the total. Attributes that have nothing in 
+common with will be counted as no points.
+
+The recruiter must have 2 points in his or her favor to bring the NPC around to his or her 
+cause. If the prisoner from the NPC's realm has alredy been rescued from the Dark Citadel, you
+will only need 1 point in order to recruit that character. However, if the total amounts to 0 
+points, the NPC will refuse to be recruited. If at the end of the point calculation, the total 
+is negative (-1 or lower), the NPC will be offended, and will attack the recruiter. If an NPC 
+you are trying to recrit is being difficult, you may have to find another NPC that you are able
+to recruit. This other recruit may be able to recruit the original NPC you wanted. Who you 
+recruit into your Alliance is a large part of the game's strategy and may ultimatly determine 
+your success or failure in the game.
+
+-SMART RECRUITING
+
+The smart thing to do is look at the personalities of the recruiter and the possible prospect 
+for your cause. Add the points up, (remember to factor in the status of the prisoners) and you 
+will safely be able to see what the probable outcome of your recruit attempt.
+
+Your first selection for reruiting should be the lords of the Citadels in the realms surronding
+your start position. This will gain you an instant flow of troops since Citadels attract troops 
+at double the rate of Castles.
+
+-COMBAT
+
+Intelligent combat is the key to victory in warfare. If your character or fellowship's army 
+outmatches that of an enemy NPC and your are not skilled in manual combat, then the best 
+strategy is to set the game to Time Race On. The computer AI will then go through a series of 
+combat routines that will often achieve victory for your army. Your chances for success are 
+greater if your have a large aremy. Even if victorious, you must expect your army to take 
+casualties. If your army is smaller (or if you are skilled in manual combat) then manual combat
+is the best strategy. In manual combat you control the actions of your character, swinging your
+sword and parrying attacks. Often, manual combat results in your army taking less casualties 
+than when you allow the AI to direct your army's attacks. Additional factors into your success 
+in combat are Artifacts, Castles and Ctiadels and Character Personalities.
+
+Artifacts can add or subtract bonuses to combat, depending on the tiem that is being wielded 
+and who is wielding it.
+
+Casltes and Citadels add bonuses to defense while troops occupy them. Castels and Citadels 
+either triple or quadruple, respectively, the amount of troops garrisoned within them (e.g.
+The Citadel of Beomir has 500 troops within it's walls. If the Ctiadel is attacked the troops 
+will defend as if they were 2,000 troops).
+
+Character personalities play a part in combat also. A hero on a whole is more combat orientated
+than a warrior. A character that has Mighty Warrior as a personality attribute fights with the 
+combat strength of 100 troops. However, if a character has Feeble Warror as a personality 
+attribute, they fight with the strength of 25 troops. All other characters fight with the 
+strenght of 50 troops in combat.
+
+-SMART COMBAT
+
+Learning manual combat should be one of your first goals. In the long run, it will save you 
+troops and make combat easier throughout the game. If you outnumber an enemy by 3 to 1, odds 
+are that the AI will win the battle for you.
+
+When dealing with the defense of Keeps and Boroth the Wolfheart, the best tactic is to withdraw
+all troops garrisoned within a Keep before Boroth and his army. Better to retreat and return to
+fight another day than to die in vain against unbeatable enemies.
+
+-PATHS TO POWER AND GLORY
+
+Here are some proven victory stratagies
+
+THE DOUBLE PLAY
+
+Have a character with a large amount of troops take over the suronding Castles and Citaels. As 
+time goes on the Castles and Citadels that the character has taken over will begin to attract 
+troops to your standard. Have another character of your alliance follow in your wake, stopping 
+at each Castle and Citadel, recruiting all the troops garrisoned there. This tactic will 
+steadily increase the size of your character's armies.
+
+CAT AND MOUSE
+
+Boroth the Wolfheart will systematically take over every Castle and Citadel within a realm. He 
+will only leave to rage across another realm when he has secured his holdings. Once way to keep 
+him occupied is to gather a foce large enough and follow Boroth the Wolfheart through his 
+rampage. As he seizes a Keep and moves on towards another, you recapture it. In this way you 
+can keep Boroth in one realm while your Alliance travels across the Blood March recruiting 
+enough troops to remove the blight of Boroth from the land.
+
+TAKING THE THRONE
+
+Attacking Boroth the Wolfheart in the Blood March will cost you many needless losses since 
+Boroth is returned as a wraith in the Dark Citadel and is once again defended by a horde of 
+troops with the defense bonus of Citadels. Your best tactic is to march with 35,000+ troops, 
+all the artifacts, and a Mighty Warrior as your Fellowship Leader to the Dark Citadel of 
+Maranor and seize it. Once you seize the Dakr Citadel, garrison it with Alliance troops. Boroth
+the Wolfheart will then return to reclaim his lost Citadel. In the ensuing combat your Alliance 
+army will recieve the defense bonus for the Dark Ctiadel of Maranor and should be able to 
+defeat Boroth. 
+
+
+Well that is it ...
+Good luck in your quests!

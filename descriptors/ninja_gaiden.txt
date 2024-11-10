@@ -1,0 +1,1462 @@
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~I. INTRODUCTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ Ninja Gaiden is a side-scrolling, hack and slash, ninja fun-fest. Released in
+ 1989 by Tecmo, Ninja Gaiden is based upon the exploits of a vengeful ninja
+ on a quest to America. At the time of it's release, Ninja Gaiden proved to be
+ one of the few titles to utilize cut-scenes, or cinema scenes, as a way of
+ communicating the plot. As you probably already know, this is a common
+ practice in today's world of gaming. However, Ninja Gaiden further proved that
+ a game did not have to be an RPG to have a story. The deep plot tucked in with
+ it's amazing gameplay took strides to enlighten the action genre. This topped
+ upon splendid graphics, superb sound, and amazing gameplay granted Tecmo the
+ start of a promising franchise.
+
+ Upon first playing Ninja Gaiden, the primary realization the gamer has is the
+ extreme level of difficulty. During the 8-bit era of the NES, games were
+ typically excruciatingly hard, offering little to no saves and an insane
+ amount of resistance to overcome. Ninja Gaiden is no different. Here is a game
+ that expects you to beat it in one sitting, offering no save points or
+ passwords to help your progress. This fact can be intimidating to a gamer not
+ wanting a challenge. Ninja Gaiden requires you to memorize enemy placement,
+ timing, and powerups, all while racing the clock. That's right, there is a
+ time limit for each level, and more than likely it will expire before you
+ finish one of the levels. So why play a game that's so frustrating? Read on.
+
+ Well, why play any game? Why do you sit in front of a screen for hours upon
+ end while being thoroughly engrossed into anything? It's fun and it's
+ entertaining. Of course, the most logical explaination is the best. Ninja
+ Gaiden's virtues outweigh it's main defect, being the difficulty. Even if you
+ can't beat the last level (most can't) you should still have fun playing until
+ then. If you don't have fun playing then you shouldn't be reading this. If you
+ still are, then by all means, continue...
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~II. STORY~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ Ninja Gaiden starts out on the battlefield, depicting Ken Hayabusa apparently
+ being slain by an unknown ninja. Later to learn of the battle where Ken
+ Hayabusa lost his life is Ken's son, Ryu Hayabusa.
+
+ Ryu had discovered a letter from his father at their home. In it, Ken gave Ryu
+ instructions to take up the family blade, the Dragon Sword, and travel to
+ America. Ryu complies and vows revenge upon those who killed his father.
+
+ Upon arriving in the U.S., Ryu is to seek the aid of Dr. Walter Smith, a
+ former acquaintance of Ken's. Unknown still are the reasons why Ken had the
+ duel, why Ryu should seek Dr. Smith, and who fought Ken.
+
+ Upon arrival to America, Ryu is engaged by what appears to be a gang of common
+ street thugs. What Ryu doesn't know is the mystery he is now involved in and
+ the conspiracy to come...
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~III. CONTROLS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ A Button  -  Jump
+
+ B Button  -  Preforms a slash with the sword. Can be used in a crouch.
+
+ Start     -  Pauses the game.
+
+ Select    -  N/A
+
+ D-Pad     -  Makes Ryu run in a given direction; Makes Ryu crouch; Makes Ryu
+              climb.
+
+ D-Pad Up
+    +      -  Allows Ryu to utilize the ninja arts.
+ B Button
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IV. CHARACTERS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ -=-=-=-=-=-=-=-
+ A. Ryu Hayabusa
+ -=-=-=-=-=-=-=-
+
+ Ryu Hayabusa is the protagonist of our journey and the son of Ken Hayabusa.
+ After learning of a duel between his father and an unknown warrior, resulting
+ in his father's demise, Ryu begins his quest for vengence. Typically brash,
+ forceful, and aggressive, Ryu is quick to fight and quicker to win. He is,
+ however, your basic hero of sorts, always the one to do the right thing. Ryu
+ is young and abrasive, not understanding the challenges that lie before him
+ and yet to realize his full potential.
+
+ -=-=-=-=-=-=-=-
+ B. Ken Hayabusa
+ -=-=-=-=-=-=-=-
+
+ Ken is the father of Ryu, a master ninja who is defeated in the opening
+ scenes of the game. A rather brave man, Ken is willing to die for those he
+ cares for and, like Ryu, is quick to fight. Ken was the previous holder of the
+ Dragon Sword, the Hayabusa family sword. Ken's fate is shrouded in mystery,
+ after the battle where he appeared to be slain...
+
+ -=-=-=-=-=-=
+ C. Irene Lew
+ -=-=-=-=-=-=
+
+ Irene is a CIA agent in the United States whom Ryu meets up with rather
+ abruptly. Typically a mysterious individual, Irene disguises her motives to
+ help Ryu in his quest. She captures Ryu early in the game, only to help him
+ later and give him a crucial piece of evidence in Ryu's journey, a Demon
+ Statue. Irene is rather dependant, tough, and skilled in most respects.
+
+ -=-=-=-=-=-=-=-=-=-
+ D. Dr. Walter Smith
+ -=-=-=-=-=-=-=-=-=-
+
+ Dr. Walter Smith was a friend of Ken Hayabusa. He is the lone reference given
+ to Ryu in a letter left by Ken. Dr. Smith is the only contact Ryu has on his
+ journey to America. Dr. Smith is very knowledgable on ancient artifacts and
+ gives Ryu some crucial info on the mysterious Demon Statues.
+
+ -=-=-=-=-
+ E. Foster
+ -=-=-=-=-
+
+ Presently the head of the CIA, Foster holds enough power to capture Ryu and
+ "hire" him to search out and seize the two Demon Statues. Early on, Foster
+ explains the mechanics of the Demon Statues and what is known about the Jaquio
+ to Ryu. Despite his position, Foster is prone to his own selfishness and will
+ exploit Ryu for these purposes.
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~V. GAMEPLAY OVERVIEW~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ Gameplay in Ninja Gaiden is fairly straightforward, albeit rather simplistic
+ at times. Main focal points in the game rest upon basic sword strikes,
+ running, jumping, wall climbing, and the Ninja Arts.
+
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-
+ A. The Ninja Arts Explained
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ Astray from the employment of Ryu's Dragon Sword, the most deadly weapon held
+ in your arsenal lies in Spiritual Strength, which allows Ryu to use the Arts
+ of the Ninja. These Ninja Arts are tactics devote to ninjas, respectfully, in
+ which any number of special attacks can be called upon. In other words, the
+ Ninja Arts are Ryu's special attacks.
+
+ For Ryu to be able to use the Arts of the Ninja, a certain number of Spiritual
+ Strength is required. Regardless of the practice attempting to be excecuted,
+ Spiritual Strenth is required. So just how do you get spiritual strength?
+ Along with a number of other assorted powerups, Spiritual Strength is gained
+ by obtaining a Blue or Red Ninja icon (see Powerups below).
+
+ The Arts of the Ninja include:
+
+ ~The Throwing Star~
+ -------------------
+
+ The Throwing Star is the most basic of all of Ryu's special abilities. When
+ used, Ryu will launch a straight projectile across the screen, the star.
+ Although useful at times, the throwing star is the weakest of all attacks. Get
+ it if you can, but don't replace it over your current special. The throwing
+ star costs 3 Spiritual Strength points.
+
+ ~The Windmill Throwing Star~
+ ----------------------------
+
+ The Windmill Throwing Star is one of the most useful of all the special
+ abilities in the game. Basically a shuriken that acts like a boomerang,
+ returning to Ryu after it is thrown, the windmill star is stronger than a
+ normal throwing star. This attack can also strike enemys behind Ryu if you
+ jump upon the shuriken's return. The windmill throwing star costs 5 Spiritual
+ Strength points.
+
+ ~The Art of the Fire Wheel~
+ ---------------------------
+
+ The Art of the Fire Wheel is the top ability (debated with the Windmill
+ Throwing Star) at Ryu's disposal. When used, Ryu will throw 3 fireballs
+ circling upward through the air. This ability is excellent against bosses, and
+ good for clearing the screen of annoying flying enemies. The Art of the Fire
+ Wheel costs 5 Spiritual Strength.
+
+ ~The Jump and Slash Technique~
+ ------------------------------
+
+ Overall the strongest single attack in the game, the Jump and Slash Technique
+ can kill some bosses in one hit. It is, however, very hindered in it's
+ reliability. Trying to jump and hit an orb to gain an item will cost you 5
+ Spiritual Strength everytime. Use it wisely.
+
+ -=-=-=-=-=-
+ B. Powerups
+ -=-=-=-=-=-
+
+ Powerups in Ninja Gaiden are obtained by striking the background scenery,
+ settings which can range from red orbs to flying bugs. These orbs are
+ everywhere throughout each level, so don't worry about finding them. Powerups
+ can be anything from Spiritual Strength to extra lives and Ninja Arts.
+
+ ~Spiritual Strength~
+ --------------------
+
+ The Spiritual Strength icons come in two different forms, red and blue. Red
+ Spiritual Strength is worth 10 points and blue is worth 5. The icon for
+ Spiritual Strength resembles a block with writing inside.
+
+ ~Time Freeze~
+ -------------
+
+ Time Freeze is a rare icon that will halt every enemy movement both onscreen
+ and off for 5 seconds. Beware though, running into a frozen enemy CAN still
+ cause Ryu harm. Run as fast as you can to avoid enemies when you get the Time
+ Freeze.
+
+ ~Bonus~
+ -------
+
+ Like Spiritual Strength, Bonuses come in two forms, both red and blue. Bonuses
+ will increase your score by 1000 points and 500 points, respectively. The icon
+ for the bonus is a tied bag.
+
+ ~Restore Strength~
+ ------------------
+
+ Restore Stength will boost Ryu's health meter by 6 cells.
+
+ ~1 UP~
+ ------
+
+ Collecting a 1 UP will give Ryu another life. If Ryu dies with no lives left,
+ the game will end.
+
+ ~Fire Shield~
+ -------------
+
+ The Fire Shield acts as a protective barrier from enemies, circling Ryu. Any
+ enemy who touches Ryu when in this state will die. The Fire Shield does not
+ last long so gain as much ground as you can.
+
+ -=-=-=-=-=-=-=-=
+ C. Wall Climbing
+ -=-=-=-=-=-=-=-=
+
+ An essential move throughout the course of the game, wall climbing can help
+ you greatly when dealing with early bosses and other situations. However,
+ Ryu can only directly climb up or down a wall that has any type of rungs or
+ fence. Also, Ryu can not attack when clung to a wall.
+
+ Any wall in the game can be clung to, and sometimes it is imperative to be
+ able to climb up a certain wall with no ladder. In these instances, you must
+ be able to jump up the wall. To do this, hold the D-pad arrow away from the
+ wall and jump, causing Ryu to spring away from his grip on the wall. As soon
+ as Ryu has left the surface of the wall, immediately press the D-pad back
+ toward the wall, making Ryu change directions in mid-air.
+
+                              - The Wall Jump -
+           _
+         _| |_       _             ||
+    <-- |_( )_|  +  (_)        > x ||
+          |_|     A Button        X||
+    Left
+                                             *********LEGEND*********
+                                             *  X = Ryu             *
+ >Ryu jumps away from the wall...            *  x = Ryu's jump path *
+                                             *  | = The wall        *
+                                             ************************
+           _
+         _| |_                  > X||
+        |_( )_| -->  +  Up       x ||
+          |_|                     X||
+               Right
+
+
+ >and lands higher up. (Pretty sketchy but you get the idea.)
+
+ The change in direction while in mid air has got to be fast for this move to
+ work. If the movement is too slow, Ryu will actually lose height on the wall.
+ This puts you in danger of dropping into an enemy's range.
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~VI. WALKTHROUGH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ -=-=-=-=-=-=-=-=-=
+ A. Act 1 - Destiny
+ -=-=-=-=-=-=-=-=-=
+
+ STAGE 1-1*********************************************************************
+
+ The first stage of Ninja Gaiden pits Ryu on the streets, fighting a gang of
+ some sorts. Run forward, killing 3 bikers as you go. Always try to hit the
+ orange, glowing triangles to collect items. As you pass two of these, both
+ containing blue Spiritual Strength, a biker comes on screen and you're
+ attacked from behind by a dog. Kill the biker and immediately turn to kill the
+ dog.
+
+ Continue forward, kill the knife thrower. Get the red Spiritual Strength from
+ the light. A dog will attack from on top of the step, you cannot hit it while
+ standing. You must jump to hit the dog. Jump up onto the ledge, kill the two
+ bikers above you. Grab onto the sign and spring up to where those bikers were.
+ In the light up here, get the Throwing Star. Jump down, hitting the light
+ below you to get a blue bonus. Kill the knife thrower and use the sign to
+ climb up to the street.
+
+ Kill the boxer up here and get the two blue Spiritual Strengths. Jump down,
+ grab the red bonus from the light below you. Run forward under three signs
+ killing a biker. As you pass underneath the second sign, a dog will attack
+ from behind. Turn and kill it, and proceed forward. The light on the building
+ contains a blue bonus. Kill the biker on the plateau above you. Climb up the
+ wall leading to the ledge above, a dog will attack, and get ontop of the sign.
+ Jump to the ledge which held the biker you killed (careful, he may be back).
+ The first light (leftmost) contains the Art of Fire Wheel and the second
+ (rightmost) contains the Jump and Slash Technique. I recommend the former.
+
+ Use the sign to get up to the street above. If you chose not to get any of the
+ specials, the light under the ledge has a blue spiritual strength and the
+ light to the right of it has a Fire Shield. You need to jump off the ledge to
+ be able to get the Fire Shield. Continue on, killing the two boxers on the
+ small step. Get the blue bonus from the light and kill the boxer. The highest
+ light here contains a Time Freeze. To get it, use the sign to get to the
+ ledge. Jump and grab it (although you don't really need it). Jump between the
+ signs and the wall to get to the top of the structure. Kill the biker up here.
+
+ As you jump down, the top light holds a Windmill Throwing Star. If you have
+ yet to get a special, I recommend trying to grab this (however, it's not
+ entirely necessary). Jump up and kill the biker, running to the edge of the
+ small incline. Kneel and kill the knife thrower before he attacks. Continue
+ on and you will see a biker, kill him fast and turn to kill a dog attacking
+ from behind. Kill two more boxers and head into the building.
+
+ STAGE 1-2*********************************************************************
+
+ Here in Jay's Bar, you fight your first boss, Barbarian. Use simple run and
+ strike tactics to defeat him. Use the wall to jump over and strike him in the
+ back. After a few times of this, you eventually will win.
+
+ After you defeat Barbarian, you are confronted by an as of yet unknown woman.
+ Ryu yells at the woman to leave and the woman pulls out a gun and shoots Ryu
+ in the back.
+
+ -=-=-=-=-=-=-=-=-=-=-
+ B. Act 2 - The Escape
+ -=-=-=-=-=-=-=-=-=-=-
+
+ As Act 2 begins, Ryu has been shot and captured. He is depicted locked behind
+ a cell door. The woman who shot you (with a tranquilizer) is Irene Lew. She
+ gives Ryu a Demon statue and helps him to escape.
+
+ STAGE 2-1*********************************************************************
+
+ Run right, jumping on top of the beams. Kill the biker on top (remember to
+ collect the Spiritual Strength out of the lanterns). Hurry and jump to the
+ next beam before a dog can attack from behind. If you make it ontop of the
+ beam, the dog will not hit you. Anyway, kill the knife thrower. Hit the
+ closest lantern to receive a throwing star. Bend down on the edge of this beam
+ and kill the boxer. Jumping off will risk you damage. Grab the red bonus out
+ of the lantern overhead. Kill or avoid (depending on the height) the bat and
+ get the Art of Fire Wheel out of the first lantern before the gap and the red
+ bonus out of the second. Jump the gap, quickly jump to the beam and up to the
+ next platform so you are not engaged by the bat flying from behind you. Kill
+ the boxer up here. The highest lantern holds a Windmill Throwing Star, the
+ lower a red bonus. Kill the knife thrower and continue. Grab the blue bonus
+ from the lower lantern, as you go a dog will jump off the highest platform. As
+ it comes down, jump over it. The dog will bounce off the wall and attack you.
+ Turn and kill it (try not to go back so far as a knife thrower will
+ regenerate). Head up the ladder.
+
+ Jump to the platform on the left and up to the next platform above the ladder.
+ Walk to the edge of this platform and wait, a biker will come into sight. If
+ you jump right away you will land on him, knocking yourself off the ledge.
+ Wait for him to turn around, jump down and kill him. If you pass the screen
+ fast enough, the bat attacking from behind will disappear, otherwise just duck
+ to avoid it. Jump down to the lowest platform, climb up the rungs on the wall
+ and jump to the small platform on the left. Now jump up on top of the
+ structure to the right.
+
+ Jump to the next platform, grabbing the blue bonus from the first lantern.
+ Walk about halfway across the platform and a dog will attack from behind. Jump
+ straight up in the air to avoid it (Warning: do not jump backwards to avoid
+ the dog, you will cause another dog to generate and it will be under you
+ before you land, knocking you off the cliff). The second lantern here holds
+ the Jump and Slash Technique. Wait at the edge before jumping down to the next
+ platform and a boxer will fall off the cliff. Jump down and kill the next
+ boxer. Get the red bonus from the first lantern over this platform. Jump down,
+ kill the knife thrower on top of the beams. The highest lantern holds a
+ Throwing Star. Jump to the top of the beams, kill the boxer and get the blue
+ bonus from the lantern. Jump to the wall and climb the rungs, careful of the
+ bat behind you.
+
+ Climb the left wall, jump to the platform. Climb up the ladder. Here, as you
+ go forward, a dog will attack from behind and a knife thrower from infront of
+ you. Kill the dog first (you have to jump to hit it) then the knife thrower.
+ Get the red bonus from the lantern, jump up and kill the biker and the knife
+ thrower. Run forward, get the blue bonus from the lantern. Jump to the small
+ platform, the lantern above contains a Windmill Throwing Star (I recommend
+ getting this). Jump to the next platform, run and jump down across the gap. As
+ soon as you land, strike. You should kill a dog. Kill the biker and head
+ through the door.
+
+ STAGE 2-2*********************************************************************
+
+ Run forward and jump up on the broken pillar. Throw a star at the ghoul (or
+ time your jump between her throws). Go forward and a football player attacks
+ from behind. Kill him and throw a star at the commando up on the next plateau.
+ Jump up and another football player attacks from behind with a sword fighter
+ just ahead. Kill the football player first (what's with these guys?) then the
+ next. When you walk forward, another football player attacks, as does one when
+ you jump down to the next plateau. Kill them along with the commando and climb
+ down the ladder (don't jump down or you will die).
+
+ Jump down to the next floor, climb up the wall to the right (avoiding the
+ bat) and up on the broken pillar. Jump across to the next pillar, the
+ dragonfly above holds a bottle of Restore Strength (of which I'm sure you
+ need). As you jump to the next platform, try to strike the dragonfly and you
+ should kill a football player in the process. You should also get a Fire
+ Shield. High-tail it across the screen, you should make it to the end of this
+ section. Jump across the platforms, killing football players, sword fighters,
+ and commandos as they run into you. Get the blue bonus out of the dragonfly.
+ Climb up the ladder.
+
+ Make your way across and climb up to the highest platform. Kill the bat on
+ top and jump down to the broken pillar. Wait for the sword fighter on the next
+ plateau to turn around then jump up and kill him. Kill the football player
+ attacking from behind. Wait for the ghoul to walk backwards before jumping up,
+ that way you have less of a chance for it to knock you off the cliff. Kill it
+ and continue, getting the blue bonus from the first dragonfly. A football
+ player will attack from behind here, kill him. The next dragonfly holds the
+ Jump and Slash Technique, get it, jump down and use it on the sword fighter
+ and again on the second sword fighter. Kill the football player from behind,
+ jump up and slash the commando. Grab the Art of the Fire Wheel in the
+ dragonfly above where the commando was. Run forward and use it on the ghoul
+ above you. Jump up and get the blue bonus. Use the Art of the Fire Wheel again
+ on the next ghoul above you and get the red bonus. Jump down, hurry because a
+ football player will jump down with you. Jump to the next platform and jump
+ straight up to avoid the football player. Kill the sword fighters and go
+ through the door.
+
+ STAGE 2-3*********************************************************************
+
+ Here you fight the second boss of the game, Bomberhead. Bomberhead wields a
+ sickle and chain that is fairly deadly. Use the wall to your advantage again,
+ but make sure to climb higher as Bomberhead is tall. When he nears the wall,
+ jump over him and attack. After a few times, Bomberhead will fall.
+
+ As you beat Bomberhead, Ryu runs off, pondering many questions. He decides to
+ continue on his search for his father's supposed acquaintance, Dr. Walter
+ Smith.
+
+ -=-=-=-=-=-=-=-=-=-=
+ C. Act 3 - The Chase
+ -=-=-=-=-=-=-=-=-=-=
+
+ Here, Ryu finally meets up with Dr. Walter Smith. Ryu learns of his fathers
+ travels and discoveries in the amazon and receives a history lesson on the
+ Demon Statue he holds. However, as Ryu and Dr. Smith talk, a ninja jumps in
+ and steals Ryu's Demon Statue, the Shadow Statue.
+
+ STAGE 3-1*********************************************************************
+
+ Run forward, killing 3 sword fighters. As you move forward, you see the fourth
+ sword fighter and a cheetah will attack from behind. Turn to kill the cheetah
+ first. As you reach the water intersecting the land, you are engaged by
+ absolutely the most annoying enemy (well, a version of it) in the game, the
+ brown eagle. Let it fly over your head, turn and crouch to kill it. You now
+ have to jump across four docks, the bug over the second one holds a Time
+ Freeze. Grab that and make your way quickly across. Pick up the Throwing Star
+ in the bug in over the last dock and get the red bonus in the bug on top of
+ the dock. As you jump down, a cheetah will follow. Cross to land and turn to
+ kill the cheetah, move forward and another will attack. Ignore the ghoul and
+ sword fighters above you. The bugs hold nothing of importance, although the
+ one near the ghoul holds the Art of Fire Wheel. Continue underneath and you
+ will be attacked by a commando and a brown eagle from behind. Kill the
+ commando and jump straight up to avoid the eagle. Crouch to kill the eagle.
+ Climb the dock, killing the sword fighters. Jump down to the small docks,
+ ignore the bug. An eagle will attack, let it fly over your head and jump to
+ land quickly. It should disappear and another will appear, grab the blue bonus
+ from the bug, jump over the sword fighter and to the next screen.
+
+ STAGE 3-2*********************************************************************
+
+ Head right, jump up and kill the sword fighter. Kill the second sword fighter,
+ jump up and quickly kill the bazooka soldier. Run up and kill the second, make
+ sure to grab the blue bonus in the bird above the second bazooka soldier. Jump
+ down to the platform, go to the extreme right edge (don't fall off now), turn
+ and crouch. An eagle should fly over your head and attack, slash to kill it.
+ Jump up and kill the sword fighter, landing on his platform. Continue jumping
+ to the next platform, jump across and hit the bird to get a Windmill Throwing
+ Star. Kill the ghoul and climb up the wall. Jump and throw a star at the
+ ghoul. Jump across the pit, ignoring the sword fighters (the bird holds a red
+ Spiritual Strength if you must know). When you drop down a bit, an eagle will
+ attack. Slash normally and continue, only to be attacked by 2 football
+ players. When you reach the end of the platform you jumped up to, another
+ football player will attack (usually more than one). Kill them and jump down,
+ grabbing the blue bonus in the bird at the bottom.
+
+ Climb up the ladder on the wall and kill the sword fighter. Jump down and
+ throw a star at the bazooka soldier right across from you. Get the red bonus
+ from the bird above him. Jump up and walk to the edge, wait for the bazooka
+ soldier below you to shoot once before dropping, once he does jump down and
+ kill him. When you jump up, an eagle attacks. Turn and crouch to kill it. Wait
+ for the bazooka soldier to shoot before jumping down. Kill him and get the
+ blue bonus. Run over the platform and jump down into the pit. An eagle will
+ attack so turn, crouch, and kill it. When the bazooka soldier shoots, jump up
+ and kill him. The bird above has a Windmill Throwing Star. Jump up to the next
+ plateau and turn to kill a cheetah when you near the end. Wait for the sword
+ fighter to walk away from you before jumping down. When you do, you are
+ attacked by an eagle. Kill the sword fighter and run through the opening.
+
+ STAGE 3-3*********************************************************************
+
+ When you enter this area, you are entered into a fight with Basaquer, the most
+ brutal of the Malice Four. He attacks by jumping from side to side in the
+ room, launching projectiles at random points. Run under him and attack when he
+ lands. You can destroy his projectiles when they are launched, giving you a
+ clear path underneath. You should hit him nearly every time he lands.
+
+ After defeating Basaquer, Ryu is reunited with the Demon Statue. Fearing the
+ worst, Ryu hurries back to Dr. Smith...only to find Dr. Smith has been slain.
+ Before his death, Dr. Smith tells Ryu that the Light Statue, the one he was
+ holding, had been stolen. As the scene fades, Ryu is captured by a group of
+ men in black suits.
+
+ -=-=-=-=-=-=-=-=-
+ D. Act 4 - A Trap
+ -=-=-=-=-=-=-=-=-
+
+ As Act 4 begins, a man named Foster explains that the men who captured Ryu are
+ from the CIA and were not the men responsible for Dr. Smith's death. Foster
+ proceeds to explain about the ruins in the Amazon that Dr. Smith discovered
+ and how the demon was trapped into the statues. He then offers to pay Ryu to
+ regain the statue that was stolen from Dr. Smith.
+
+ STAGE 4-1*********************************************************************
+
+ Ryu is now dropped off into the Amazon. Run right, jumping the gap. Ignore the
+ spider (or you will be killed by the commando), jump and land on the extreme
+ edge of the next path. Hopefully, you didn't land on the commando, so go ahead
+ and kill him. Hop over the pit and you will be attacked by a cheetah from the
+ front and 2 eagles, one from the front and one from the back. Kill the
+ cheetah, turn and crouch. The first eagle should be coming at you and the
+ second should be turning at your back. Kill the first eagle and use the same
+ tactic to kill the second eagle.
+
+ Jump across the pit, grabbing the red bonus from the spider. Jump the next pit
+ to get a blue bonus. To kill the ghoul, wait for it to get as close to the
+ edge (relevant to you) as it can, jump up to the ledge and strike. You should
+ have come in under any of it's projectiles and landed on it's platform. Now
+ jump up to the highest platform, get the Jump and Slash Technique from the
+ spider. As you run forward, you are attacked by 2 cheetahs, one in front and
+ one behind. Kill the one in front and jump straight up in the air to avoid the
+ cheetah attacking from behind. Head down to the next platform (avoiding the
+ bats) to see a bazooka soldier across from you. Jump over and use the Jump and
+ Slash Technique to kill him. Jump up the 2 platforms to get to the highest. Be
+ ready, you will be attacked from behind by a cheetah. Kill it and DROP (as in
+ don't jump, just run) straight off the cliff. You should avoid the bat (who
+ would have killed you) and land safely on the small ledge.
+
+ Jump to the next platform on the right and climb up the walls. When you reach
+ the top, run straight forward. A football player will attack and should jump
+ right over your head. (There is a possibility of a cheetah attacking here, so
+ be prepared). Watch out for the commando on the opposite side of the rock, he
+ can and will shoot through it. Jump up on the rock, make sure to avoid the
+ bat, and leap over the commando's head. Kill him while his back is turned (if
+ he turns he will shoot, if he shoots he will knock you off the cliff). Jump to
+ the next small ledge and onto the big platform. Grab the red bonus and jump to
+ the fence (weary of the bat flying from the right). Climb up another screen.
+
+ When you reach the top of this screen, an eagle will attack from the top left.
+ Initially, it will fly over your head so climb up as far as you can (if you
+ keep climbing it still won't hit you). As it is turning, jump onto the
+ platform. Wait for the eagle to near you and then jump to the main platform.
+ With luck, it should have flown off-screen. If not turn and crouch to kill it.
+ As you go forward, another eagle will attack from the right. Jump over it,
+ turn and crouch to kill it. Jump down in the pit and kill the sword fighter.
+ Wait for the bazooka soldier to shoot and then jump up and kill him. Continue
+ running to the right and cheetahs will attack you from both sides. Kill the
+ one in front and jump the one in rear. Continue on to get a cut-scene to the
+ next level.
+
+ STAGE 4-2*********************************************************************
+
+ Stage 4-2 introduces us to some new types of enemies, namely the mummy
+ swordsman, evil ninja, and the tribal knifeman. When you gain control of Ryu,
+ run forward and kill the mummy swordsman. Tuck yourself next to the miner's
+ cart as an evil ninja will bounce over on your side. Kill him, jump over the
+ miner's cart and kill the next mummy swordsman. Be careful because there is a
+ white bat flying towards you and he is pretty hard to hit. Avoid him and head
+ onward. Jump the gap if you still have the Jump and Slash Technique. Use it on
+ the bat. If not, step to the edge of the gap to get the bat to attack, then
+ jump over him. Stay on the bottom avoiding the tribal knifeman's attacks. An
+ evil ninja should be jumping around up top, too. Jump over the miner's cart
+ and get the Art of Fire Wheel from the last lantern. Stand on the cart and use
+ it on the enemies above you.
+
+ Grab the red and blue bonuses from the last two lanterns. Jump down over the
+ pit, stay near the edge to avoid the tribal knifeman. Use the Art of Fire
+ Wheel on him. Go forward, do not get the Throwing Star from the first lantern.
+ Continue to the last lantern, which is a Time Freeze. Make the most of this
+ because the upcoming part is one of the tougher in the games. Grab the Time
+ Freeze and immediately jump on the cart to the top level. Run as fast as you
+ can to the other side. By the time it wears off, you will be attacked by an
+ evil ninja and two eagles. Kill the ninja, jump over the eagles (if they knock
+ you forward they will trigger more eagles). As you go, another ninja and two
+ more eagles will arise. Try and kill them and run to the end (as long as you
+ have some health left you're in good shape).
+
+ When you reach the end of the bridge, two ninjas, front and back, drop from
+ the ceiling. Drop down and run under the upper plateau (run to the left).
+ Knock open the lantern to get a Restore Health. Now deal with the ninjas. Kill
+ the first one that nears you after he lands and starts walking. Do the same to
+ the next. Go forward and an eagle attacks. Turn and wait for it to fly
+ overhead. When it nears, slash to kill it. Ignore the Jump and Slash Technique
+ and continue on. A ninja will drop from overhead but can't get to you so
+ continue forward and get the blue bonus. When the ninja dissappears, jump up
+ to that platform. Walk back (left) until you can see the lantern. Jump and hit
+ it for an extra life. Now go forward again, and an evil ninja will attack. Run
+ away until he starts walking after you, then turn and slash. Get the Windmill
+ Throwing Star from the lantern and climb up the wall.
+
+ STAGE 4-3*********************************************************************
+
+ Continue on and climb up the next ladder. Jump up and head to the right,
+ killing a boxer just ahead of you. Head over and climp up the wall. When you
+ near the top, a knife thrower will come into view. As you are clinging to the
+ structure opposite of the main wall (left), jump up again and slash to kill
+ him. To your left, in the highest candle, is the Art of Fire Wheel. Now, on
+ top of the structure, jump down and get the blue bonus from the candle. Head
+ forward and kill the knife thrower and the biker. Jump up to the platform
+ where the biker was standing. Run forward and jump up underneath the
+ projectiles thrown from the mace thrower (landing on his platform). Run
+ forward and slash him (or use the Art of Fire Wheel). Jump across the
+ platforms, grabbing the red bonus from the last candle. A mace thrower will
+ fall from behind, just run forward and climb the ladder.
+
+ Jump up on the structure and down in-between the broken pipes. Use the Art of
+ Fire Wheel on the commando (or the Windmill Throwing Star which is located in
+ the candle above you). Jump up to his platform and down to the main ground.
+ Get the red bonus from the first candle. Wait for the kick fighter to land his
+ attack before slashing him. Do the same for the next. Run forward to the
+ innermost wall. Climb it to land under the serpent turrets. Run forward and
+ strike the candle to get a Restore Health. Climb up the wall and jump to the
+ first platform on the right. The candle here has a Windmill Throwing Star. Be
+ careful of the commando on the platform beside you, he can easily knock you
+ off the cliff. Jump over before he shoots (hopefully) and kill him. Get the
+ blue bonus. Wait for the serpent turret above you to shoot and then jump up
+ and slash it, landing on it's platform. Jump down after the axe thrower
+ attacks, snagging the red bonus from the candle on the way down (or you can
+ climb the wall to get it). Kill the axe thrower and climb the wall.
+
+ Jump from the platforms to the main structure. Kill the kick fighter and get
+ the blue bonus from the lower candle (the higher contains a Windmill Throwing
+ Star). Slash the next kick fighter and continue. Run under the axe thrower and
+ the serpent turret. Climb the wall on the opposite side to jump to the
+ platform on the right (be careful the serpent turret doesn't shoot you when
+ you jump). Jump down and go through the doors.
+
+ STAGE 4-4*********************************************************************
+
+ Ryu is now entered into battle with Kelbeross, a demon dog. Kelbeross will
+ bounce around the room shooting fireballs above the pillars. Keep in mind that
+ only the demon starting the fight above you can be damaged. Follow this demon,
+ using the Art of Fire Wheel or Windmill Throwing Star to help ensure your
+ victory. Avoid the other dog at all costs.
+
+ After your victory, Ryu is confronted by the Jaquio. He reveals that he has
+ captured Irene Lew and forces Ryu to give up his statue. As Ryu is doing this,
+ he is dropped down a pit and Irene is sent to be a sacrifice.
+
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ E. Act 5 - Life or Death Combat
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ STAGE 5-1*********************************************************************
+
+ When you fall down in the pit, head on to the right. Kill the bat first and
+ then jump the pit. Kill the 2 mummy swordsmen and you will be attacked from
+ behind by a bat. Avoid it and kill the tribal knifeman. Grab the Throwing Star
+ from the highest in this triangle of torches. Now jump up to the platform. Get
+ the blue bonus from the first candle and you will be attacked by an evil
+ ninja. Kill him on the way down or let him jump overhead, either way works.
+ When you jump down, get the red bonus and you will be attacked by a cripple.
+ He appears to be too short to hit, but you can kill him with a regular slash.
+ Run forward and get the Windmill Throwing Star.
+
+ Wait for the mummy swordsman to turn before jumping up. Kill him and you will
+ see a second, and will be attacked from behind by an eagle. Crouch down,
+ letting the eagle fly overhead. When it comes back around, slash to kill it.
+ Now go kill the other mummy swordsman. Jump up to the next platform and slash
+ before you land. You should kill the evil ninja who dropped from the top. If
+ you didn't he probably knocked you off the cliff. Anyway, grab the blue bonus
+ and jump down to the next platform, killing the tribal knifeman. Grab the red
+ bonus from the torch overhead. Jump down again and let the evil ninja jump
+ over you, off a cliff. Jump up on the pillar to avoid the blade thrown from
+ the monster. He will keep throwing so jump to the next main path (the highest
+ candle holds the Art of Fire Wheel).
+
+ Jump down and go forward to see the mummy swordsman up on the plateau. As you
+ go forward an evil ninja will attack from behind. Turn and kill him, jump up
+ and kill the mummy. Kill the bat flying at you, it will knock you off if it
+ hits you. Continue jumping and an eagle will attack from underneath you. Jump
+ over it when it nears you then crouch to kill it. Jump down to the bottom and
+ kill a mummy swordsman and a cripple. A tribal knifeman is attacking from
+ above, jump up the platforms to kill him. Walk to the edge of the highest
+ platform and kill the bat. Now jump down to the bottom path. Grab the red
+ bonus from the last torch and ignore all the enemies above and behind you.
+ Climb up the wall and kill the mummy swordsman and the bat. Jump over the
+ monster below you and enter the door.
+
+ STAGE 5-2*********************************************************************
+
+ Run left and wait for the first mummy swordsman to pass underneath you, then
+ drop down and kill both of them. Jump up and cling to the structure (you won't
+ hit your head), now climb up and kill the next mummy. The far torch holds a
+ blue bonus, but it will fall if you don't jump out to get it. Jump up to the
+ next platform and kill the next mummy. Jump down and ignore the torch (Jump
+ and Slash Technique) and kill the cripple before he gets up. Now climb up the
+ ladder.
+
+ Jump across to the next platform and an eagle will attack. Jump over it to
+ avoid it, turn and kill it when it comes back. An evil ninja will attack on
+ the next platform, kill him and walk forward to be attack again by another
+ ninja. Turn and kill him and grab the red bonus from the second torch. Jump
+ down to the next path and an evil ninja will attack. Kill him and an eagle
+ will attack from below. Avoid the eagle by jumping and turn to kill it. The
+ torch holds a Throwing Star (don't get it if you have Windmill or Fire Wheel).
+ Jump over and climb up the ladder.
+
+ Head forward, killing two kick fighters as you go. You are approaching two
+ levels of two snake turrets. Wait for the lower turret to shoot, then jump up
+ to it and slash it, immediately running to the back to kill the second. Now go
+ back, wait for the top turrets to shoot and jump from that platform you're
+ standing on to kill them. Now jump to the platform on the right and to the top
+ path. Run and jump down to the next path. You have to slash the bat in mid-air
+ or you will die. Head up the ladder.
+
+ Kill the kick fighter when you reach the main path and an eagle will attack
+ from above. Let it fly over you, crouch and turn to kill it. Go forward to see
+ an axe thrower. Wait for him to near the back of his platform and then jump up
+ on the wall to the platform beside him. Jump over and kill him. Jump back one
+ platform, the torch above holds a Restore Health. Drop down the platform and
+ cling to the side of the wall (make sure you are under the parallel structure)
+ and jump to the inner ledge. Grab the red bonus and kill the bat. Jump up to
+ the platform and walk to the edge. An eagle will attack, kill it as it nears
+ you. Now jump to the ladder and climb up.
+
+ STAGE 5-3*********************************************************************
+
+ Climb the ladder on your right and jump across to the top platform. Kill the
+ boxer and hop down. Kill the boxer and the knife thrower from behind, move
+ forward and kill the biker. Climb up the wall before the ladder and hit the
+ torch to get the Art of Fire Wheel (if you don't already have it). Now jump
+ down, weary of any respawned enemies, and climb up the ladder.
+
+ Jump across to the main platform and rush forward to slash a mace thrower.
+ Here, you are confronted by flying ninjas. Try to jump and hit them as they
+ fly by, while avoiding their stars. It's almost impossible not to get hit by
+ these guys, but keep moving forward at all costs (moving back will make them
+ respawn, and we don't want that). About three will attack on the first
+ platform, when you get by them, jump to the next. When you land, another will
+ attack, so jump up and slash to kill him. Do yourself a favor and ignore all
+ the torches here and move the the next platform, watching for the random
+ flying ninjas. Wait for the mace thrower to near the back, then jump over,
+ kill him and climb the ladder.
+
+ Jump down to the bottom platform and kill the sword fighter. The candle holds
+ a Throwing Star, grab it and use it on the commando. Jump the gap, careful of
+ the bat. Jump the next gap and kill the advancing cheetah. Head over to the
+ ladder to see an attacking eagle coming from the right and a football player
+ from up top. Kill the football player and jump over the eagle. Turn and
+ crouch, kill the eagle when it nears. Climb the ladder.
+
+ Jump to the left edge of the main path and you will be attacked by an eagle.
+ Let it fly overhead and kill it when it comes back around. When you go
+ forward, you will be attacked by a football player and a bazooka soldier. To
+ get by this part, run up as fast as you can and jump to the bazooka soldier's
+ platform (jumping under the football player) and slash him quickly. You can't
+ take out the football player because he will regenerate. Avoid the bat and do
+ the same thing on the next platform. Get the Windmill Throwing Star from the
+ torch on this platform. Jump up over the bat and land on the extreme edge of
+ the lower platform to slash the commando. Climb up the ladder.
+
+ Jump to the lower level and you will see a cripple, but will be attacked from
+ behind by an eagle. Jump the eagle and kill it when it comes back, move
+ forward and kill the cripple. Avoid the tribal knifeman and make your way to
+ the ladder. When you get there, you are attacked from behind by a monster.
+ Climb up quickly. Jump to the top level up here and kill the mummy swordsmen.
+ Run over and climb the next ladder. Now, run to the end of this stretch.
+
+ STAGE 5-4*********************************************************************
+
+ Now, you are confronted by Bloody Malth. He can be difficult if you haven't
+ stocked up on Spiritual Strength (which you should have), in which case you
+ can easily beat him going toe-to-toe. Otherwise, run up and slash away, as his
+ attacks are nearly impossible to block. Make sure not to run into him and you
+ should defeat him eventually.
+
+ Here, it is revealed that Malth was the one who fought Ryu's father, and that
+ Ryu's father is alive!
+
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ F. Act 6 - The Fall of the Demon
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ So, you beat Act 5? Now, you're probably wondering what's tougher than Act 5?
+ Why, it's Act 6 of course! Have fun, and remember...it's only a game.
+
+ STAGE 6-1*********************************************************************
+
+ When Act 6 begins, Ryu is off to solve the mystery laid before him by a dying
+ Malth. Run to the right and kill the commando in front of you and the bat from
+ behind. It is extremely important in this level to hold your ground as much as
+ possible (meaning, don't venture too far forward or backward on the screen for
+ the chance of reactivating an enemy). Continue right and you should see a
+ ledge. When you near it, an eagle will attack from behind. If you get too
+ close to it when fighting the eagle, the cripple will attack. Also there is a
+ commando up top shooting straight across, so watch your head when you jump.
+ Wait, back to the ledge, for the eagle to drop down. When it is going to
+ attack, jump up and slash. Now jump up and get the Throwing Star from the
+ torch. When the commando is between shots, jump up and slash him.
+
+ Cross over the ledge and drop into the gap. Wait for the kick fighter to land
+ his attack before slashing him. When the serpent turret is between shots, jump
+ up and slash. Head into the next gap and grab the blue bonus from the far
+ torch. Jump up and slash the serpent turret. Wait for the second to shoot and
+ then jump up. Jump over it's next shot and rush forward to kill it. Jump the
+ third's shot and run forward to kill that one. When you pass the third, an
+ eagle will attack. Duck down and let it fly overhead. Turn and kill it. Make
+ sure you grab the Windmill Throwing Star from the torch, and you should be
+ stocking up on Spiritual Strength.
+
+ Cross over the rest of the way. When you see the wall at the end with an axe
+ thrower on top, you will be attacked from behind by a cripple. Turn and kill
+ it. The torch above holds a Jump and Slash Technique. Jump up when the axe
+ thrower backs up and slash him. Get the blue bonus from the first torch. When
+ you go forward, an eagle will attack from behind. If you continue forward to
+ see the cripple, another eagle will attack from above. The eagle from the
+ bottom can be avoided by jumping. Jump over it and wait for it to come around,
+ then slash it. The eagle from above cannot be avoided by crouching. Jump up
+ and slash him. Go forward and kill the cripple. Run forward now and ignore the
+ eagle from the bottom, hit the torch if you can (Red Spiritual Strength), and
+ go through the door.
+
+ STAGE 6-2*********************************************************************
+
+ Run to the left, slashing a biker as you go. You will see two green towers, on
+ top of the first is a mace thrower. As you run forward, you will see a knife
+ thrower and a dog attacking from behind. Slash the knife thrower and jump up
+ onto the second tower (avoiding the dog). Immediately jump across to the first
+ tower, slashing the mace thrower as you go. If you got hit anytime here, you
+ will probably end up clinging to the side of one of the towers. Don't panic,
+ climb up fast and kill the mace thrower. Jump up to the highest (second) tower
+ and jump down, hitting the highest torch as you drop (Windmill Throwing Star).
+ Again, make sure you're stocking up on Spiritual Strength. Kill the knife
+ throwers and get the red bonus from the torch. Jump up on the platform with
+ the mace thrower when he nears the back of it and slash him. Drop down to the
+ bottom, avoiding the bat, to let the awaiting dog run off the screen. Climb
+ up the wall.
+
+ Here you will see a biker on the next platform. Run forward and drop down,
+ slashing him as you fall. Climb up the ladder and jump to the platform. Get
+ the blue bonus from the torch (you have to jump out a bit). You will see
+ another biker on the next platform over. Throw a star at him, or try to land
+ on his platform and slash him. When you land, be prepared because you will be
+ attacked by flying ninjas. The first ninja to attack will leave you just
+ enough space to jump through his throwing stars onto the platform. If he hits
+ you, you will either be knocked down the pit or back against the wall. If you
+ hit the wall, you have to try again as he will attack for the second time. You
+ also have the choice of jumping up and killing him, hopefully taking out his
+ star attack as he dies. I recommend this, if you are ready for him. When you
+ land on the platform, you will be attacked by another. Stand your ground and
+ jump up and slash him. You will be attacked by a second and a third as you
+ continue to the end of this platform, deal with them one at a time and don't
+ let them get up to speed. Jump and slash them before they can throw. Grab the
+ Jump and Slash Techniqe in the last torch on this platfom. As you jump to the
+ next platform, you are attacked by two more from high up. Use the Jump and
+ Slash Techniqe to safely cross the next ledges. Wait for the biker to turn
+ before jumping to that platform. Slash him and climb the ladder.
+
+ Hop across the platforms to the top. Jump and Slash the commando and land on
+ his platform. When you jump across, an eagle will attack from below and a bat
+ will fly across the screen. You should avoid the bat, jump down to the bottom
+ and kill the eagle when it flys at you (the middle torch on the way down has
+ the Art of Fire Wheel, but I recommend keeping the Jump and Slash Technique,
+ and the highest has a red bonus). You should see a cripple, kill him and move
+ forward, grabbing the blue bonus, to see two serpent turrets. Slash the first
+ one quickly and jump over the second's shot. Make sure you don't cling to the
+ tall, thin pole or else you will trigger an eagle to attack when you land.
+ Continue on to see an axe thrower on top of a plateau. Jump up to the ledge
+ and over to him, slashing as you land. Ignore the torch (Throwing Star) and
+ drop down. Run over and kill the cripple. Now climb up the ladder, and up
+ another screen.
+
+ Jump up to the first green ledge and wait on the extreme right edge. When he
+ nears, slash the sword fighter. Jump over to the next platform. As you go
+ forward, a bat will fly across the screen, a football player will attack from
+ behind, and an eagle will attack from the bottom. Use the Jump and Slash
+ Technique on them or jump over the bat and the football player, slashing the
+ eagle. This is recommended to save your Spiritual Strength. Jump over to the
+ next platform to see a ghoul across from you. Run and jump across to it, using
+ the Jump and Slash Technique early in your jump to kill an eagle. Walk near
+ the edge of the platform to trigger a football player, kill him and jump down.
+ Grab the red bonus and climb the ladder.
+
+ Jump over to the grey platform and you will be attacked straight ahead by an
+ eagle. Jump over it, turn and crouch. Slash it as it comes back. Jump down and
+ another eagle will attack from the top of the screen and a cripple will attack
+ from straight ahead. Jump and Slash them and move on to kill a mummy
+ swordsman. Run forward and an evil ninja will attack from behind (may
+ dissappear if you run fast enough). Turn and slash him when he lands, and move
+ on to kill the tribal knifeman. Slash the two candles, red Spiritual Strength
+ and a Fire Shield, and climb the wall. Jump across the platform and through
+ the door.
+
+ STAGE 6-3*********************************************************************
+
+ Run forward and slash the bat and the kick fighter. Jump up and hit the lower
+ torch to get some Spiritual Strength. Head over and climb up the big green
+ pillar, jump to the left to hit the higher torch to receive the Art of Fire
+ Wheel. Head forward, below the structure, and kill the bat and the axe thrower
+ (make sure not to get hit from above). Use the Art of Fire Wheel to clear the
+ top structure. Kill the commando and snag the Jump and Slash Technique. Jump
+ up to the top structure and hit all the torches (red bonus, blue bonus, and
+ red Spiritual Strength). Jump over and climb the ladder. Hop up the platforms
+ and climb the next ladder.
+
+ When you jump over to the main platform, a cripple will attack immediately.
+ Slash quickly to avoid taking damage. Jump up and kill the bat flying across
+ the screen. Ignore the first torch (Throwing Star), jump up and kill the bat,
+ and get the two blue bonuses from the torches. Jump down and you will be
+ attacked by a monster. Jump over to him before he throws and use the Jump and
+ Slash Technique to destroy him. You should also have taken out a cripple. Jump
+ up to the next platform and kill the cripple behind you. An evil ninja will
+ drop from behind, turn and kill him. Hop over to the ledge and you will be
+ attacked from below by an eagle. To easily kill it, wait for it you near you
+ and use the Jump and Slash Technique on it. Jump over to the next platform and
+ kill the mummy swordsman. Grab the red bonus and jump down.
+
+ Run over and climb up the walls, ignore the torch on the right (Windmill
+ Throwing Star). Grab the blue bonus from the torch on the left. Jump over and
+ slash the tribal knifeman. Now jump down. Grab the Time Freeze and run. Climb
+ up the walls and over the platform. Continue over the next platform, ignore
+ the torch (Art of Fire Wheel). Drop down and kill the mummy swordsman. Grab
+ the blue bonus and kill the next. Run forward and slash the tribal knifeman.
+ When you near the pit, an eagle will attack so slash it. Jump onto the pillar
+ and over to the ledge. Climb up the ladder.
+
+ Head to the right, climbing up the pillars. On the second pillar, you will see
+ a cripple awaiting on the third. Slash the torch to see a Restore Strength
+ fall to the ground. Jump down, slashing the cripple, and grab it. Run forward,
+ Jump and Slash the torch. You should kill about two cripples that fall from
+ the top, missing the third, and grabbed a Time Freeze. Run to the wall on the
+ right and climb up. If you were fast enough, you had no resistance on top of
+ the platform. If not, you will be attacked by three more cripples and two
+ serpent turrets on top of the platform. Ignore the cripples, letting them jump
+ down, jump up and slash the turrets. Jump down, ignore the torch (Art of Fire
+ Wheel), and slash the axe thrower. Wait for the kick fighter to attack and
+ then slash him. When you go forward, an eagle will attack. Jump and Slash it,
+ ignore all the torches here (from left to right: Throwing Star, Windmill
+ Throwing Star, and Art of Fire Wheel). A cripple will drop from behind you,
+ so slash the one in front and run through the door.
+
+ STAGE 6-4*********************************************************************
+
+ Finally, Ryu has made it to the end. He is confronted by the Masked Devil,
+ which is revealled to be Ryu's father. Yep, Ryu's father did not die in the
+ opening scene as the game led you to believe. Now, he is being controlled by
+ the demon, the orb in the middle of the room.
+
+ Well, you've made it this far, so don't die or else it's back to 6-1. Anyway,
+ this boss, the Masked Devil, is not hard. If you still have the Jump and Slash
+ Technique, run up to the orb and use it to beat this boss in one hit. If not,
+ use the wall to jump over the Masked Devil and slash at the orb. Alternate
+ from wall to wall, avoiding the fireballs, until you win.
+
+ Ryu's father is returned to normal, but is immediately shot by the Jaquio.
+ Now, Ryu is engaged in battle with the Jaquio, who glides across the top of
+ the screen shooting fireballs that lock on to Ryu's position. Run over to a
+ wall and climb it (make sure Jacquio is not near) and wait for him to cross
+ about half of the screen (coming towards you). Jump out and slash. Wait in the
+ middle of the screen and dodge his next fireball attack. Run back to a wall
+ and repeat this strategy until you defeat the Jaquio.
+
+ STAGE 6-5*********************************************************************
+
+ When you do, the black moon emerges (lunar eclipse) and the Demon is brought
+ back from the Demon Statues. Now, Ryu must defeat this fiend to save the lives
+ of his dying father and Irene Lew. Run forward, avoiding the fireballs and
+ slash at the Demon's head. Eventually, it will fall off. When it does, start
+ to attack the Demon's tail. When the tail explodes, the Demon will start to
+ take damage. Jump up and slash the central orb to kill it, make sure to dodge
+ the fireballs.
+
+ Now that you've defeated the Demon, Ryu finds his father who will die in his
+ arms. Ryu and Irene escape the exploding temple together. Upon viewing the
+ destruction, Irene recieves a call from Foster instructing her to kill Ryu.
+ Irene does not, and Ryu vows revenge upon Foster. Upon the sunset, the game
+ ends.
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~VII. ENEMIES~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ The enemy names here are made up, rather poorly, by me. To my knowledge, these
+ enemies do not have proper names. I based their names on their characteristics
+ and their weapons, etc. Some are strait forward, some are pretty bad. No
+ matter how bad the name is I assigned to some of the enemies, you should have
+ no problem identifying them in game.
+
+ ~Biker~
+ -------
+
+ The biker is a common gang thug, wearing a leather jacket and wielding a
+ baseball bat. He only causes damage when he runs into you (he doesn't swing
+ the bat), and thankfully he is one of the slowest enemies in the game. The
+ biker is prominent in Acts 1 and 2.
+
+ ~Boxer~
+ -------
+
+ The boxer is a gang member who wears a pair of boxing gloves to attack his
+ opponents. The boxer will punch at you, and when he does he lunges quickly at
+ you. This makes him deadly if he hits you once. After the first hit, it's hard
+ to get away from him, especially in a group. The boxer is primarily in Acts 1
+ and 2.
+
+ ~Dog/Cheetah~
+ -------------
+
+ These animals are fast and like to attack from behind. They are annoying and
+ deadly, often attacking when your not expecting or in a group of other
+ attacks. These animals have a bad habit of attacking from behind and knocking
+ you off a cliff, especially at the end of levels. Dogs are mainly found in the
+ early levels, Acts 1 and 2, and cheetahs are in the later levels, Acts 3 and
+ 4.
+
+ ~Knife Thrower~
+ ---------------
+
+ Knife Throwers are another type of gang member. Wearing bright orange pants
+ and, obviously, wielding throwing knifes, these guys are slow to attack and
+ easy to kill. They do, however, like to attack while your fighting other
+ enemies or will throw a blade at you when you are on an incline. They are
+ scattered throughout the whole game, but because of their weakness are
+ concentrated primarily towards the early levels.
+
+ ~Ghoul~
+ -------
+
+ Ghouls are look like green old ladies. They are very deadly as they throw
+ wooden crosses at an arc. Typically slow moving, Ghouls will move back and
+ fourth throwing their crosses (which can go through floors) at random
+ increments. They often will knock you off cliffs with their projectiles.
+ Ghouls are met in Act 2 and are concentrated to the later levels.
+
+ ~Football Player~
+ -----------------
+
+ The one enemy that has no place whatsoever in this game, the football player.
+ Football players are fast, green, and plentiful. Typically attacking from
+ behind, football players like to knock you off cliffs. Also, they attack
+ frequently in mid-air during a jump and other unexpected places. Football
+ players are introduced in Act 2 and are frequent from then on in the game.
+
+ ~Commando~
+ ----------
+
+ Commandos are your first introduction to fighting soldiers. Dressed up in
+ green fatigues, commandos are armed with machine gun's. They attack in three
+ round bursts (Ryu can not duck under these shots) and do not spend alot of
+ time between shots. Commandos are initiated in Act 2 and are previlant from
+ then throughout the game.
+
+ ~Sword Fighter~
+ ---------------
+
+ Sword fighters resemble much like bikers. Armed with a sword, these guys
+ can only attack by running into you. However, sword fighters are typically
+ placed in bad spots, such as your landing zone when you jump over a gap or on
+ small ledges that you need to pass over. Heavy throughout the game, they are
+ introduced in Act 2.
+
+ ~Brown Eagle~
+ -------------
+
+ The single most hated enemy in any game ever (well, maybe not), the eagle.
+ Eagles attack out of nowhere, nearly always coming from the top or bottom of
+ the screen. Eagles attack for insane damage, often doing up to 3 damage for
+ each hit. On top of that, they are usually the cause of your death plunge off
+ of a cliff. Eagles are everywhere in the later levels, but are not introduced
+ until Act 3.
+
+ ~Bazooka Soldier~
+ -----------------
+
+ Bazooka soldiers are a variation of the commando. Armed with bazookas, these
+ guys are unmoving and crouched, ready to shoot. Usually, they are too slow to
+ shoot before you kill them, buy they will start shooting when you step
+ onscreen. They shoot quickly in succession, offering little time to pass.
+ Bazooka soldiers are introduced in Act 3.
+
+ ~Bats~
+ ------
+
+ Bats are annoying flying enemies who are scattered throughout the game. They
+ will fly from one side of the screen to the other, never offering a decisive
+ attack route. They fly in a waving motion, up and down. Bats are introduced in
+ Act 2.
+
+ ~Mummy Swordsman~
+ -----------------
+
+ Another variation of the biker and the sword fighter, the mummy fighter
+ resides in-game mainly for the atmosphere. The mummy swordsman is slow and
+ harmless as he can only injure you if he runs into you. Mummys are introduced
+ in the temple, Act 4.
+
+ ~Evil Ninja~
+ ------------
+
+ Evil ninjas are a unique and deadly enemy. They are extremely visable in their
+ bright green ninja outfits and wield bright green swords. However, evil ninjas
+ are faster than Ryu and like to bounce around on the screen. This acredits for
+ Ryu being knocked off many cliffs by these menaces. Evil ninjas are introduced
+ in Act 4.
+
+ ~Tribal Knifeman~
+ -----------------
+
+ Tribal Knifemen are another of the game's many enemy varieties, this time of
+ the ghoul. However, these guys are stronger, faster, and deadlier than that of
+ it's counterpart. They can throw farther and are more precise, making for a
+ tough enemy introduced into Act 4.
+
+ ~Mace/Axe Thrower~
+ ------------------
+
+ I consider these enemies pretty much the same. They share in the attack style
+ of their kind, mainly ghoul. Each throws their respective projectile at an
+ arch and both throw them about the same distance. Each of these enemies are
+ introduced in Act 4.
+
+ ~Kick Fighter~
+ --------------
+
+ These guys are fairly simple, except when you first face them. They attack by
+ jumping up and spinning in the air, delivering a kick to you if you find
+ yourself underneath them when they land. Their slow speed makes them an easy
+ opponent once you understand their attack pattern. Kick Fighters are
+ introduced in Act 4.
+
+ ~Serpent Turrets~
+ -----------------
+
+ Serpent turrets are basic, stationary guns mounted around the later levels.
+ They shoot in steady increments and are typically bunched in pairs,
+ accompanied my other enemies. Serpent turrets are introduced in Act 4.
+
+ ~Cripple~
+ ---------
+
+ Cripples are small and fast. Hunched over when attacking, it appears that they
+ can't be hit by a standing slash, but they can. When attacking, they open up
+ and jump around, often lunging like a boxer. Their speed and agility makes
+ them a dangerous opponent to deal with. Cripples are introduced in Act 5.
+
+ ~Monster~
+ ---------
+
+ Monsters are big, white...uh, monsters who wield a giant, dual bladed knife in
+ which they throw like a boomerang. Monsters are extremely fast with their
+ blade and deal heavy damage when they strike you. These guys are fairly scarce
+ and are introduced in Act 5.
+
+ ~Flying Ninja~
+ --------------
+
+ Flying ninjas are in a class all of their own. They fly across the screen with
+ jetpacks, dropping ninja stars as they go. Flying ninjas like to attack in
+ groups and are nearly impossible to dodge when coming from multiple angles.
+ They cause major problems when around cliffs. Flying ninjas are introduced in
+ late Act 5.
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~VIII. BOSS FIGHTS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ -=-=-=-=-=-=
+ A. Barbarian
+ -=-=-=-=-=-=
+
+ Barbarian is the first boss of the game and the lowest ranking member of the
+ Malice Four. Hailing from the deep forests of Brazil, Barbarian is feared by
+ the natives and has come to be the excecutioner of South America. Met in Act
+ 1, Barbarian tries to defeat Ryu in Jay's Bar. Barbarian swings a giant ax at
+ his opponents, dealing 2 damage with each hit.
+
+ ~Patterns of Attack~
+ --------------------
+
+ Barbarian is the first boss of the game, respectively making him the easiest.
+ His pattern of attack is fairly simple, he takes two steps towards you and
+ swings his axe twice. He does this no matter what distance you are from him
+ and never deviates from this form.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ Run up to him, counting his steps. Strike if you can. After his second step,
+ get out of his range. Run up to him and strike again. Repeat this pattern.
+ When he corners you at a wall, jump onto it and climb up. Here, you can jump
+ over him and force Barbarian to walk the opposite direction, freeing you up
+ some space.
+
+ Another easy way to win is to immediately jump onto the left wall and climb
+ up. Jump over him when he nears, exposing his back long enough to get 3-7 hits
+ on him. When he turns, run to the opposite wall, climb up and wait. Repeat the
+ pattern.
+
+ -=-=-=-=-=-=-
+ B. Bomberhead
+ -=-=-=-=-=-=-
+
+ Bomberhead is the reigning controller of the streets in New York. He was
+ chosen to the Malice Four because of his power held over New York and because
+ he is an expert with the sickle and chain. Bomberhead confronts Ryu at Amura's
+ Altar. Each hit from Bomberhead does 2 damage by running into you and 1 damage
+ by hitting you with the sickle and chain.
+
+ ~Patterns of Attack~
+ --------------------
+
+ Bomberhead walks right up to you, no matter where you are on the screen, and
+ swings his sickle and chain in front of him. His only movements are back and
+ forth across the screen. He will not stop walking until he reaches you. If you
+ run away while he is swinging, he will stop attacking and pursue you.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ Like Barbarian, Bomberhead can be defeated by using the wall. Run to it, climb
+ up (pretty high because Bomberhead is tall) and jump over him. Make sure you
+ don't land on his sickle and chain. Hit him in the back a few times and run to
+ the opposite wall. Continue this pattern until he dies.
+
+ -=-=-=-=-=-
+ C. Basaquer
+ -=-=-=-=-=-
+
+ Basaquer is a martial arts master who's cruel, hateful ways got him noticed
+ by the Malice Four. Currently residing with the group, Basaquer is much more
+ deadly than the two former bosses Ryu has battled. The two meet in Act 3,
+ Yomi's Cave.
+
+ ~Patterns of Attack~
+ --------------------
+
+ Basaquer will jump from side to side across the room. He will not hit you like
+ this unless he lands on you. As he jumps across the room, he will release 3
+ round projectiles upon re-entering the air. There is no set pattern to when he
+ will use these, but he will normally release them on his first jump. After
+ that it is usually the third or fourth jump when he will use them.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ An important thing to know about Basaquer is that you can destroy his
+ projectiles. After he leaves the ground, if you are near him and strike, you
+ should take out the middle and bottom projectiles. This leaves you a clear
+ path to walk under the top projectile. Whenever you strike at the projectiles,
+ you should take out both the middle and bottom, but if you only destroy the
+ middle you can jump through the hole you opened up.
+
+ Run with him as he jumps, striking as he lands. You should hit him nearly
+ every time he lands. He will fire at you when he first lands, so be prepared.
+ If you get ahead or behind his jumps, wait in the middle until he fires. From
+ there, take out the projectiles and run to where he will land. He will never
+ fire twice in a row. If he fires at you after you have hit him and turned to
+ run to the other side, turn around and strike right before you cross the
+ middle of the screen. You should take out the middle and bottom. Continue
+ until Basaquer is defeated.
+
+ -=-=-=-=-=-=
+ D. Kelbeross
+ -=-=-=-=-=-=
+
+ Kelbeross was a sacrifice to the demons, resulting in this evil creature sent
+ to protect Jaquio. Kelbeross is a guard to the temple stationed in the Space
+ of Kelbeross, Act 4. Kelbeross battles Ryu starting as two seperate demons.
+ Each attack from either Kelbeross deals 3 damage.
+
+ ~Patterns of Attack~
+ --------------------
+
+ Kelbeross will bounce around the room shooting fireballs. There is not a set
+ pattern for Kelbeross' attacks, however. During the fight, one of the demons
+ will block you by bouncing in the middle of the stage. Kelbeross will start
+ out so that he doesn't fall to the back of the pillars, however he will lose
+ this habit and will fall on you if you are standing there.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ You can only damage the Kelbeross on the left (the one starting the fight
+ right above you). Keep your eye on him. When the fight starts, jump up and
+ attack him. You should get about 3 damage on him before he bounces away.
+ Follow him, ignore the other at all costs. Use the Art of Fire Wheel or
+ Windmill Throwing Star exclusively if you have them.
+
+ -=-=-=-=-=-=-=-
+ E. Bloody Malth
+ -=-=-=-=-=-=-=-
+
+ A student of Japanese Martial Arts, Bloody Malth is the leader of the Malice
+ Four. Wearing a sacred mask, Bloody Malth seems to be an unstopable force who
+ even defeated Ryu's father, Ken Hayabusa. Malth meets Ryu in Act 5, the Place
+ of Red Excecution. Hurling lightning with his power, Bloody Malth does 3
+ damage with each successful hit.
+
+ ~Patterns of Attack~
+ --------------------
+
+ Malth will walk forward, firing balls of lightning that lock onto Ryu (these
+ things don't miss). He will turn to you, so don't think you can beat him by
+ getting behind him. Otherwise, his attacks are pretty standard.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ Use the Windmill Throwing Star exclusively if you have it (this makes him so
+ much easier). Otherwise, incorporate whatever specials you have into your
+ regular attacks. The main thing here is not to let Malth run into you. If you
+ do that, you should be able to take him out before he does you.
+
+ -=-=-=-=-=-=-=-
+ F. Masked Devil
+ -=-=-=-=-=-=-=-
+
+ Yep, Ryu's loving father, mind-controlled, and bent on destroying you. Ryu's
+ father was not killed in the opening scene as the game led you to believe, he
+ was only defeated. Now, he is a slave of sorts, brainwashed by the Jaquio. He
+ thinks only of destroying you, and will stop at nothing to do so.
+
+ ~Patterns of Attack~
+ --------------------
+
+ The Masked Devil walks forward with swords upright. That's it. The real enemy
+ in this fight, however, is the orb in the middle of the room. It shoots
+ fireballs that encircle the Masked Devil, constantly revolving around and
+ varying in height.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ Whatever you do, do not try to tackle the orb head on. You will lose, badly.
+ Guaranteed. Also note the upright position in which the Masked Devil holds his
+ swords. He can and will hit you by walking under a platform. When the fight
+ starts, jump to the middle platform and blast the orb with whatever you can.
+ Slashes work well for this strategy if you want to save your Spiritual
+ Strength. If not, blast away with whatever you want (Art of Fire Wheel works
+ well, and the Jump and Slash will kill it in one hit). Anyway, when the Masked
+ Devil nears underneath you, jump in the direction he is walking and climb up
+ the wall as high as you can. When the Masked Devil starts walking into the
+ wall, the orb will shoot a constant flow of fireballs to him. Jump down over
+ your father and run to the far platform. Jump over and slash the orb as many
+ times as you can. Repeat to the next wall. Continue jumping over and slashing
+ the orb until you win.
+
+ -=-=-=-=-
+ G. Jaquio
+ -=-=-=-=-
+
+ Jaquio is the main adversary of our journey, and now the holder of the light
+ statue. Jaquio is trying to revive the demon that was banished a long time ago
+ by Shinobi. To do this, Jaquio needs the statue currently in possesion of Ryu
+ Hayabusa.
+
+ ~Patterns of Attack~
+ --------------------
+
+ Jaquio has a very simple attack pattern, but he is one of the hardest bosses
+ in the game. Jaquio is at the top of the screen moving back and forth hurling
+ fireballs from his palms. His fireballs do one damage each, but they home in
+ on your location. These fireballs will cross patterns and fan out accordingly.
+ If you jump up and run into Jaquio, or he into you, then you will take 3
+ damage.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ First thing to know, whatever you do, do not stay up on the half pillars in
+ the room. No, Jaquio will not run into you, but by standing on these you allow
+ the fireballs enough time to turn around (meaning they will stay in the room
+ and attack you, while Jaquio is still shooting at you). To defeat him, run to
+ the right wall, and never leave that side of the room. When Jaquio is at the
+ far end of the room (left side), jump up high on the right wall. When he
+ reaches near halfway, jump out and slash at him. If you do this to early, it's
+ fine as you will probably take out one of his fireballs. If you jump too late,
+ however, you will run into him and take heavy damage. Run to the middle of the
+ room as Jacquio is going to the left again. If you just immediately jump back
+ up to the wall, you leave yourself open to be hit by his fireballs. Stay in
+ the middle and dodge the fireballs, then run to the wall. Repeat this until
+ you defeat Jaquio. Also, if Jaquio starts hitting you on the right wall (his
+ fireballs are timed so they hit you when you jump to slash him), run to the
+ opposite wall and continue the strategy.
+
+ -=-=-=-=
+ H. Demon
+ -=-=-=-=
+
+ The Demon Statues form when united in the temple under the lunar eclipse. This
+ is the being that Jaquio had been trying to bring back to life.
+
+ ~Patterns of Attack~
+ --------------------
+
+ The Demon shoots purple fireballs in a scattered attack. The Demon itself is
+ immobile, so don't worry about running into it. The fireballs are shot at
+ varying distances and groups. Some shots are single and some are bunched. The
+ fireballs are not difficult to dodge. Each fireball takes 3 damage.
+
+ ~How to Defeat This Boss~
+ -------------------------
+
+ First, know that you have to destroy both the Demon's head and tail before it
+ will start taking damage. Run up to him and slash at his head. Take care here
+ not to be assaulted by fireballs, simply run back when one is coming. Continue
+ slashing at his head and it will sever from his body. The head will drop down
+ and run into you, don't worry about the damage it does. When done, run up and
+ attack his tail. Just slash away, avoid any incoming fireballs. Eventually,
+ the tail will sever, leaving the orb. Again, run up and slash at the orb. Do
+ your best to avoid the fireballs.
+
+===============================================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IX. CHEATS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+
+ -=-=-=-=-=-=-=-=-=-=-
+ A. Game Exploitations
+ -=-=-=-=-=-=-=-=-=-=-
+
+ ~Boss Fight Exploitation~
+ -------------------------
+
+ This one's easy. With the Jump and Slash Technique, Bosses will take alot more
+ damage than normal. One can easily defeat Barbarian in two hits with the Jump
+ and Slash Technique.
+
+ ~Sound Test~
+ ------------
+
+ At the Tecmo Presents - 1989 screen, hold left, down, select, A, B, and press
+ start on the next screen to access the sound test (a sound will confirm the
+ code). Select your sound, A will play it and B will stop it.
+
+ ~Constant Attack~
+ -----------------
+
+ With the Windmill Throwing Star, you can make Ryu attack constantly by dodging
+ it upon it's return. Throw the Star, and when it is coming back, jump over it.
+ The Star will correct it's path and try to return to Ryu. Keep jumping over it
+ to have it go constantly. Helpful while running forward on a straight path,
+ hard to do while jumping.

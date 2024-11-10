@@ -1,0 +1,819 @@
+* * Game Description * *
+
+A dungeon fantasy based coin munching shooter :)
+Some people have said this was the spiritual father of the computer RPG-action
+game "Diablo".  It involves around 100 different mazes, on levels that continue on and
+on, while you have to fight monsters, ghosts, dragons, and avoid hazards, while grabbing
+food to boost your health.
+
+The goal is simply to stay alive as long as possible, and get as far as possible.
+
+Gauntlet was really innovative for its time; It did many things that no previous game had
+done back during its release.  Sure, nowadays other games have improved on its concept, but
+you have to remember that this was 1985-86, folks :)
+
+Gauntlet was one of the first games with full, decent quality speech.  Other games had it,
+but the quality wasn't that great.  (Dragon's lair doesn't count..that was a laser disc game).
+I remember speech being added to some golden oldies (Sinistar, Wizard of Wor, Berzerk), but
+it wasn't much to speak of, although at the time it was quite new.
+By 1985, many games had speech chips, but they werent as memorable as Gauntlet :)
+
+It was the first game, AFAIK, that allowed up to 4 people to play cooperatively to clear
+the levels.  Coop play has long been a mainstay of arcade games, especially side
+scrollers/shooters, but 4 people had never been done before.
+
+It was also one of the later games to keep the famous tradition of not having an ending.
+There were many classic games, where people could play for many hours on a single credit,
+when they  became good enough....games such as Defender (and the sequel, Stargate...one of
+the hardest games known to man), Pacman series, Asteroids, Space Invaders, Missile Command,
+Centipede.....and many many others.  If you became good enough (and this was no tall order),
+you could play until your endurance gave out :)
+
+And play forever many people did.  In fact, on the original (Proto, intermediate release 1 and 2)
+....if there was a gameroom that was open 24 hours, you could literally build your health up
+high enough, to leave when most people went to sleep, leave a note on the game so hopefully
+no one would play while you were gone, then come back in the morning :) Heh.....
+
+Final Revision of Gauntlet, and Gauntlet 2, fixed this, so that even the best players would
+die after awhile (usually after about an hour).....which affected 99% of the players.
+There were a FEW....a very VERY few, who even knew a way around this, as Atari did something
+pretty stupid, using score checking (16,384 points per...) to keep track of how much food a
+player should be given....if the score (divided by # of coins, divided by # of players) went
+higher, less food would appear on a level.  But, we all know that computers have a limit to
+what they can keep track of......more on that later.
+
+It was actually possible for any skilled experienced player to find out the point at
+which the score gets so high that the game suddenly loses 'track' and resets the food
+counter, but doing this with just one credit was almost impossible....in fact, it was
+completely impossible to live long enough to do this solo.   The way this was
+discovered (just a guess, mind you), was probably, one person played and built
+his health up as high as possible, then others joined in later.
+
+If Atari had used # of levels played (divided by #of coins and divided by # of players)
+to keep track of food.....then what is mentioned later would never work....this will
+be discussed in detail later.
+
+Gauntlet and gauntlet 2 were definitely among the best games ever made.
+Gauntlet 2 was more fun than Gauntlet, as the levels werent static (they would invert
+and change orientation, even become flipped--only 180 degrees though), and there were
+more hazards, more variations on what the monsters could do, a few new baddies,
+monsters that moved 'differently', and new items.
+
+=====================================================================================
+
+** Character stats **
+
+Thor, the Warrior:  supposedly a great fighter of legend, even rumored to be a minor
+diety, who was cast down to Earth and stripped of most of his godlike powers to be
+taught humility.   He excels in hand to hand damage ability, and his powerful weapon.
+
+dShot power: Excellent: (Battle Axe)
+Shot speed: slow
+Speed: slow
+Armor: very good: toughened skin eliminates 20% of damage.
+Fight power: Excellent: 2-3 times normal power; hand to hand: Battle Axe: can
+kill monster generators
+Magic power : poor: can kill some monsters, and no monster generators.
+
+Thyra: the Valkyrie:  A female warrior who supposedly followed Thor to either watch his
+progress, or out of rumored love.  She carries a shield, which gives her excellent Armor,
+and
+her sword can deal out some decent hand to hand damage too.
+
+Shot power: poor: normal power (sword)
+shot speed: moderate
+Speed: moderate
+Armor: Excellent: Shield eliminates 30% of damage
+Fight power: good: hand to hand: Sword does 2 times normal damage, and can kill generators
+Magic power: moderate: can kill most monsters, and damage some monster generators.
+
+
+Merlin the Wizard:  A wizard apparently of no ill repute, although it is not known how or
+why he is meddling in the Gauntlet.  The affairs of Wizards are not meant to be known by
+mortal men....
+
+Shot power: moderate.  Magic Missile: 1 to 2 times normal power
+shot speed: fast (moderate in Gauntlet 2)
+speed: slow
+Armor: none
+Fight power: very poor, bare hands: normal power; hand to hand cannot kill monster
+generators.
+Magic power: excellent: can kill all monsters and all monster generators.
+
+
+Questor the Elf:  Elves are a mythical race from a distant land.  No one knows where he
+came from or how he became trapped here.  Elves are fleet of foot, skilled with magic,
+and can shoot arrows quickly and accurately....
+
+Shot power: poor:  arrows: normal power
+Shot speed: fast
+Speed: fast
+Armor: moderate:  leather armor eliminates 10% of damage
+Fight power: poor: dagger does 1 to 2 times normal damage, and can not kill monster
+generators
+Magic power: very good: can kill all monsters, and damage all monster generators.
+
+=====================================================================================
+
+Monsters:
+*=Gauntlet 2
+
+Most monsters come in 3 levels of power.  The higher level monsters do more damage.
+Ghosts: must be shot...they will consume part of a player's life force upon immediate
+contact, making hand to hand fighting impossible.
+Damage done to players: 10, 20, 30
+points when shot 10 per level
+using magic: 10
+ghosts cannot be fought with hand to hand.
+
+Grunts: barbarian warriors who attack with clubs.
+damage done to players: 5, 7, 10
+points: 5 per level
+hand to hand points: 25 per hit
+using magic: 10
+
+Sorcerers: wizards who attack with fists, powerfully augmented by magic, and who also
+blink in and out.  They can not be shot when invisible
+damage: 5, 7, 10
+points: 5
+hand to hand points: 25 per hit
+using magic: 10
+
+Demons: supernatural creatures that can breathe miniature fireballs at players.
+At close range, they will attack with their gaping maws.
+hand to hand: 5, 7, 10
+being shot: 10
+points: 5
+hand to hand points: 25 per hit
+using magic: 10
+
+
+Death:
+Only magic hurts death
+death dies after taking up to 200 health.
+Damage: 4 health per instant of touch.
+points: 1
+points from using magic: 1000-8000
+
+* Super Sorcerers: Sorcerers who not only can turn invisible at will, but have
+teleportation magic, and can shoot magic missles at players.
+being shot: 15
+Valkyrie with extra armor takes less than half damage (7)
+  Super sorcerers cannot be killed with hand to hand.
+Magic stuns super sorcerers.
+Super sorcerers die if you use magic while they are stunned.
+
+* Acid puddles: animated pools of acid, that athough do not have intelligence,
+inflict grevious harm on anyone unfortunate enough to come in contact with one.
+Their attack is so powerful that they stun players temporarily while they inflict their
+damage....
+Damage: 60
+cannot be shot.
+Magic stuns acid puddles.
+Using a 2nd potion when an acid puddle is stunned, will destroy it.
+
+* Dragon: Ancient beasts that shoot fireballs from a distance, and can attack with an
+extremely powerful breath weapon from up close that can incinerate even the greatest
+warrior in seconds.
+fireball damage: 10
+flame breath damage: lots
+Magic: stun only
+
+Thief:  Denizens of the mazes, these rogues have boots of speed, allowing them to
+move even faster than Elf, and will attempt to steal any bonus powers the richest
+player has.   On Gauntlet, he takes extra speed, then extra armor and shot power.
+In Gauntlet 2, shot power is his favorite, followed by extra speed.   If a player has
+no bonus powers, he will take score, keys, or even
+your bonus multiplier.
+damage: 10
+Magic does not affect Thief
+
+* Mugger: steals food.  Can be useful for stopping Thief from appearing
+damage: 10
+
+==================================================================================
+
+**  Gameplay **
+
+Gameplay revolves around trying to find the exit to the next level, while grabbing
+food and goodies, and trying to take as little damage as possible.
+Part of the fun factor is trying to complete levels, either gaining or breaking even
+in health.
+Sure, if you just pumped quarters into the game, to play all day, it gets boring VERY
+fast, (and you get poorer for your efforts), as you are missing much of the challenge.
+
+Gauntlet is easiest with one player.....as with more people, there usually isn't enough
+food to go around...even though Final Revision (and G2) gives extra food for 3 or 4
+people.  Two people on the intermediate releases is possible (without dying), although
+it usually takes one person to play for awhile first, grab health and powerups, then
+when he has sufficient potions and health, have the 2nd person join.
+
+Gauntlet 2 has some extras, such as secret walls (which yield VERY nice things when shot,
+when 3 or 4 people are present), treasure chests (the chances of receiving food/potions
+increase with more people), and other temporary power medallions.
+
+The permanent powerups are:
+
+Shot Power:  Increases shot power by 1 level (intermediate release 1 and 2),
+or from level 1
+to level 2, but if your power is already higher than level 1, only increases it 1/2
+level--Final revision, and Gauntlet 2).
+
+Fight power: Increases fighting ability by 1 level.
+
+Shot speed: increase shot speed by one level. (warrior's shot speed becomes as fast
+as Valkyrie's,
+Valk's becomes as fast as Elf's,  Elf and Wizard's become very fast).  Note:
+Gauntlet 2
+has wizard with slower shot speed.
+
+Magic Power: Increases magic power by one level.  Gives Warrior abiltiy to damage all
+generators and kill all monsters.  Gives Valkyrie the power to kill all ghosts, and
+damage monster generators by 2 levels, and ghost generators by one level, Elf can
+kill everything, and Wizard can shoot potions and kill everything (?).
+
+Note:  on Intermediate Release 1, Wizard getting extra magic power gives him
+an extra bonus potion.
+
+Armor: increases damage reduction by 10%, based on sustaining 10 points of damage
+unarmored.  So Wizard will gain 10% armor, Elf 20%, Warrior 30%, and Valkyrie 40%.
+but Armor doesn't always work in this manner....as some damage isn't based on '10'.
+Extra armor will ALWAYS reduce damage points by at LEAST 1, regardless of how much
+damage the monster does.....for example, Lobbers will only do 2 damage, even to
+Wizard with extra armor.
+
+An exception to this is Valkyrie fighting 'level 2' monsters...she loses 5 health,
+even with extra armor (warrior and elf both lose 6 health, and wizard loses 7).
+This seems to be a bug in the game, as level 2 monsters are supposed to do
+*8* damage, not 7.
+
+Speed: Increases all character movement to that of Elf.  If Elf gets this potion,
+he moves so fast that the game scrolling can't even keep track of him.  Thief
+still moves faster than him, though.
+
+Other notes:
+Thief's speed has been increased in Gauntlet 2, he can come out an unlimited amount
+of times on each level, unless you block the starting square with his treasure bag
+or another item (or get him stuck), and he can also dodge your shots (by moving
+along the same path that you traveled on, so he won't "sidestep" unless you've
+done a lot of zigzagging yourself.  Ouch.
+
+To make thief easier to handle, if you hear him come out, move in a straight line so
+its easier to pick him off--remember, Thief follows your exact path.
+
+Gauntlet final revision, and Gauntlet 2, have different ways of allocating food.
+Final Revision is so difficult, its literally pointless to play.  Unless the game
+difficulty is at 0 or 1, you will find that starting out, without dying, is next
+to impossible.  This is because, if you are going solo, 1-2 food  is taken out on
+the first 7 levels.  Thereafter, level 8 has AT LEAST one food taken out.  This is
+dependent on the game difficulty.  And of course, as your score increases in 16,384
+point chunks.......
+
+More food is given when more people are playing, and the "score check" is divided
+by # of people and # of coins (I believe the player's scores are averaged, then
+divided by # of coins inserted).  4 players playing on easy difficulty will give
+bonus food.
+
+At game difficulty 4, AT LEAST TWO Food are taken out on level 8+, and from two to
+*THREE* are taken out on the first 7 levels (this depends on the level).  This
+leaves level 2 and 3 completely empty of food, and 1 food on level 4.  Levels 5,
+6 and 7 usually don't remove as much.
+
+On difficulty 7, three foods are taken out on the first 7 levels.
+
+As you can see, this makes playing Final revision virtually pointless, unless the
+difficulty is set very low..  And, if a 2nd player joins, only 1 bonus food is given
+which doesn't exactly help ;(
+
+So unless you're playing on difficulty 0 (the game DOES get MUCH harder, regardless
+of the difficulty setting in the dips), don't even bother.  It is a good game on
+difficulty 0, though.
+
+There *IS* a way to make the first 7 levels MUCH easier.   By using the intermediate
+release roms "10a" and "10b", and renaming them to match the corresponding final
+release roms (assuming you are using an emulator of course), you will be given an
+extra food on each of the first 7 levels (assuming difficulty is at easiest).  I
+have not seen any ill effects of doing this on levels 8+, but even on difficulty
+0, at least one food is always removed.
+I would assume you could also burn the eeproms this way using an arcade machine too :)
+
+It isn' the first 7 levels that are much of a concern anyway (as you can always
+simply go from 1 to 8, or even 1 to 4, to 8, if the difficulty level is set low),
+but the problem is, on the start of the non-fixed levels (8+) Gauntlet doesn't
+exactly have balanced level layouts.  Many levels in Gauntlet are just chock full
+of level 3 ghosts and monsters, which makes things very hard if you don't have
+potions (or a character with good magic power).  Some levels may have only 1 or 2
+food on them also.  On Intermediate Release (1 and 2), many of these levels were
+marginal...meaning you could break even if you had the right bonus potions, or
+magic, but final revision always removes AT LEAST one food, and that can make the
+difference between gaining health (or breaking even), or losing 100 health.  It
+matters, except when the food that is removed is in an inaccessible place, or one
+where it would cost you too much life to get it.
+Put it this way: Playing Intermediate Release 2 on difficulty 7, is often easier
+than playing final release on "0", considering that all the food is always given
+on every level.
+
+As to playing intermediate release 2, the problem is, even though its fun, its just
+too easy.  Even at difficulty 7, its still not as fun as final release is, once
+you've done the starvation workaround.
+
+If it had kept the increasing difficulty (faster monster generation) from Final
+revision, without removing food on the early levels, it would be MUCH better.
+The wizards at Atari saw this, and changed things around a bit for Gauntlet 2.
+
+
+Gauntlet 2 is not only MUCH easier going on the first few levels (no food is removed
+early on unless the difficulty is set to "5" or higher, or you're the wizard--and
+Valkyrie gets ALL the food, until her score increases), its also more fun to play :)
+A word about how the food tables were changed here.
+
+Valkyie, who starts off (magic wise and shot power wise) weaker than the other
+characters, is ALWAYS given all the food early on, even on difficulty level 7.
+Overall, she gets more food than the other characters.
+
+Elf gets a lot of food also, unless the difficulty is set to 5 or higher, in
+which he is usually penalized 1 food/level.  Warrior is penalized more, and Wizard
+is heavily punished....there is 1 food gone/level even on difficulty 0, just like
+final revision of Gauntlet.
+
+Warrior gets less food than the other players, but more than wizard.  He still
+gets all the food on difficulty 0.
+
+Wizard is nerfed.  Enough said.
+
+====================================================================================
+
+** FAQ:
+
+Q: How do I avoid taking so much damage and getting surrounded?
+
+A: Try to not rush through levels. You will need to learn the fine points of the
+levels you are playing, and learn how to pick off monster generators one by one.
+Also, be careful which door you open. Technique is a VERY big part of mastery. If
+you want to judge your level of technique, try playing Gauntlet revisions 1 and 2 (
+NOT final revision, or Gauntlet II), to see if you can play continuously without
+dying or inserting more credits. It will take a lot of time, but the rewards will
+be worth it.
+
+If you want to try to pick off pesky generators, move until the generator is off
+screen, so you can kill any monsters that are around.  Doing this, then quickly
+attacking the generator will minimize the # of monsters that are on the screen.
+Although, on some levels, you just have to sit there and shoot (or use magic).
+
+Q: Is there an easy way to pick off monster generators besides just sitting there
+shooting forever? (and probably getting hit?)
+
+A: Yes, but the way seems counter-intuitive. A VERY important way of killing monster
+generators (particularly when they generate FAST), is to chase your shot 'off' screen,
+so it hits the monster generator right when it appears. This is easily done by moving
+so you are lined up with the generator, but having it off screen, then shooting. Before
+your shot disappears (when the shot leaves the screen, its gone), chase your shot. If you
+time this correctly, the monster generator will get hit RIGHT when it appears on screen
+again. This is a VERY important advanced technique, that can make a huge difference in
+being able to gain health on levels, or losing health. With practice, you will see just
+how necessary doing this will be. This is a lifesaver if you do not have "Extra shot
+power" and are fighting level 3 ghosts.
+
+Its important to NOT keep the generator on the screen for any more than a split second,
+especially as the game gets more difficult, as monsters will pour out and your shot will
+ hit them, instead of your target: the generator.
+
+Try this with diagonal shots.  You might find that even when the monsters are generating
+non stop, you will have gaps to get the generators if you shoot it diagonally, as opposed
+to a primary direction.
+
+Q: I've done everything you say, and I haven't even gotten HIT in Gauntlet final revision,
+but I'm still almost dead by level 5 ! There's no food at all, why ?  Losing 1 health each
+second doesn't help....
+
+A: This was a huge design blunder by Atari. You see, there were three releases of Gauntlet
+before the 'final' revision. They were the "Prototype release", which I actally saw when I
+was a kid.....boy did that one have a LOT of food ! :) And there were Intermediate releases
+1 and 2. Those 3 versions had ALL the 'set' food in a level, on all levels, regardless of
+score or difficulty. So, once you became good enough (and if you had a good series of levels
+starting with level "8"), you simply would not die. And playing solo forever did not help
+the game make money. So Atari changed the code for the food and monster generation for
+the Final release. However, they overdid it, BADLY. First, in order to be able to get
+any significant food on the first 7 levels in Final Release, the difficulty must be set
+on an easy level. Even on difficulty #0, there is always **ONE** food removed from every
+level from level 8+ when going solo, and more food removed from levels 1-7. This gets
+worse with scores increasing by 16,384 point blocks (see below), as more food is removed
+as the game gets more difficult. If the game was played on default (level 4) difficulty,
+there would simply NOT be enough food to survive, even on level 8+. And Gauntlet had some
+monty haul gain health levels, as well as some levels where you could lose 500 health if
+you didn't have potions or extra powers, BEFORE final revision.....
+None of this would be much of a problem if you didn't lose 1 health each second...but
+since you do.....
+
+Also, extra shot power levels were reduced 1/2 level increase for warrior and wizard,
+but the game always removed a set amount of food, regardless of who you were playing.
+Playing with 2 people gave most of the food back, and 3 or 4 people gave a lot more
+*bonus* food. It IS possible to play without extra credits, or dying on final release,
+but only on a low difficulty and if "level 8" has a good level sequence.
+
+The game still had the starvation routines that were in Gauntlet II: see below.
+
+Atari saw this mistake, and realized they made Gauntlet TOO hard (as a veteran
+player could die by level 6), so they changed a few things for Gauntlet II.
+First, the amount of food that was given in Gauntlet II, and whether you will get
+all the 'set' food in a level, depends on the character you are playing. Valkyrie
+was given the most food (most chances of all set food appearing, as well as more
+"random" food on levels 6+), Elf was in 2nd place. Warrior received less food, and
+the game discriminated very heavily against Wizard. In fact, Valkyrie was the only
+character who would usually get all set food, even on difficulty 7. but the food you
+receive is based on your score, in 16,384 increments (see below). However, doing some
+math, in binary, bit "7" is a value of "128" (the places for bits are 0-7), and
+16,384x128=2.1 million. Something VERY interesting happens at 2.1 million (see below).
+
+Q: I used to be good at Gauntlet (older releases), but final release seems to starve
+me after awhile. Same goes for Gauntlet II: Why ?
+
+A: This was Atari's "answer" to solo players going at it forever.   In Gauntlet
+Intermediate Release 1 and 2 (and the proto release), all the food was ALWAYS on
+every level.  So iif you got a good run of levels starting with level 8, and the
+important power potions quickly, you were set for the rest of the game.  Gauntlet
+Final Revision, and Gauntlet II changed this drastically.  Basically, as your score
+increased, the food decreased. Gauntlet final revision and Gauntlet II had the same
+formula for this, with the exception that Gauntlet I
+ALWAYS removed at least ONE food on EVERY level, at difficulty 0, and even more on
+higher difficulties, whereas Gauntlet II removed 'extra' food, depending on which
+player you are playing---Valkyrie got the most food by far, followed by Elf.
+Anyway, it was determined by a few people, like Todd (he ran a Gauntlet hack page),
+and a few other expert players (i learned this (the sudden giving of all food at
+"about" 2 million points) from an older FAQ, but the 16,384 point ramp, from Todd),
+that the game difficulty increaese a 'notch', at every 16384 point increase. This usually
+means, Thief has a higher chance of appearing, monsters generate faster, and the
+biggie--food is removed. Its a somewhat 'random' variance in how much food is removed
+(doesn't vary that much though), but lets say, at higher than 32768 points, you might
+have one food removed per level (so levels that have one food, will suddenly have none),
+and levels that have tons of food will have one food less (still tons). And at higher
+than 65536, maybe another food is removed. This keeps going, until where enough food
+is removed, that you can't gain health anymore. Keep in mind that the SCORE the game
+uses, is the averaged SCORE OF THE ALL of the players, DIVIDED by the # of coins. So
+if you had 200,000 points (not a lot of food on a level if this is your effective score),
+and used 2 coins, your effective score is 100,000.
+
+Ok, so scoring health is bad, so that means that death will come, always, since you can't
+stop your score from increasing, right?
+
+Well, most people thought so, however there were some players who, apparently when
+they were very bored, wanted to find out what would happen if your score became VERY
+VERY high. They might have actually had other players join in, just to see if the game
+would always have no food. Whoever did this, is a genius. Anyway, at 16,384 * 128 (love
+that binary !), which is 2.1 million, apparently something really strange happens. It
+seems as if a comparison "overflows"...whatever is calculating how much food is removed,
+probably overflows at bit 7 *128* times your score, and resets here (Atari never figured
+someone would get this far on 1 credit !), and suddenly the games will give you the
+**MAXIMUM** possible food per level. The monsters STILL generate very very fast,
+though. And at 16,384 * 256 (4.2 million), as we all know, 255 is the highest value
+that can be expressed in 8 bits, so at 256, apparently the memory location resets to
+0. What this means is, the ENTIRE GAME Difficulty just totally resets here....its as
+if you had just started over (meaning, monsters suddenly generate VERY VERY slowly,
+although thief still appears every level). But this means that you will be hit by
+starvation again as your score continues to increase, just like before. :) So once
+again, food is taken out heavily, by about 4.4 million points. Now, doing some simple
+logic tells you that you will ONCE AGAIN start receiving all the food at 4.2
+million + 2.1 million, = 6.3 million. A cycle, right?
+
+Q: But how do I take advantage of this?
+A: Following is the big secret to playing forever in Gauntlet 1 (Final revision: IR 1 and 2
+don't apply for this trick; it's not necessary) and Gauntlet 2.  VERY
+FEW people know this.
+This is what you need to do:
+
+
+First, you need to be good enough, to build up your health as high as possible, with
+one credit. If this is Gauntlet, any character will do, as none are discriminated against.
+If this is Gauntlet II, use Valkyrie or Elf, depending on your style of play. If you can't
+seem to get a lot of health, even when your score is low, you need to improve your
+technique on the levels.
+
+The best way to maximize your health on the two games, is to do the following:
+1) Keep the "Use magic on death" score at 1000. The value for Death changes each time
+you shoot it. I believe (i could be wrong) the cycle is  1000, 2000,1000, 4000, 2000,
+6000, 2000, 8000, and then back to the beginning. This is the same for both Gauntlet games.
+Having death set to 8000 and using magic on them is the fastest way of being starved that I
+know :/ (you can literally be starved by level *10* if you have two levels with a lot of
+"Deaths" running around).
+
+2) Only potion Death if its necessary. Sometimes its worth it to lose 200 health,
+instead of jacking up the score by 1000 or more by using a potion.
+
+3) Avoid grabbing unnecessary treasure or keys, and if you open chests, don't grab
+treasure bags.  If thief is coming out, try to get him with the trick mentioned below,
+so his treasure bag blocks the entrace.  You get 500 points JUST for shooting thief.
+
+4) If possible, shoot monsters instead of fighting them.
+
+In order to do the following trick, you really should have at least 6000 health, and a
+LOT Of time to spare (disabling speed throttling on emulators, if your CPU is fast, can
+decrease the time required by over 400%).  Obviously, on the real arcade machine,
+you can't put the game into "turbo" mode.
+
+Anyway, this is what you need to do: (applies for both Gauntlet final, and Gauntlet II).
+1) Build up your health as high as possible. the more the better.
+2) keep playing until you can no longer gain health on levels, when a lot of starvation
+hits. This is usually around 200,000 points. Actually its 250,000 but you need a cushion
+for below.....
+
+3) keep playing until you come to a level with a lot of WHITE (level 3) ghosts,
+and sufficient treasures. Then, have the other 3 players join in (yes, that's
+right). If you're using an emulator, you will need to define the keys for the
+other players). Then, have your character pick up 4 treasures so your bonus is
+8x score (the bonus does NOT affect magic on death). Then find a safe place where
+you can shoot tons of 30 point ghosts safely behind walls (NOT doors !) and just
+sit there and shoot. (another advantage of emulators, you can disable the speed
+throttling to REALLY speed things up now). The walls will change to exits soon.
+When the other players are about to die down to about 50 health or so), have them
+all exit, but you remain on. Now, do whatever you need to be able to keep shooting,
+with your 8x bonus multiplier, until your score is 2.1 million. Place a weight on
+your joystick button, or a pin lead between the 'shoot' key on your keyboard, or
+whatever. If you have done this right, you should have 2.1 million, but it will
+cost you between 3000-5000 health. MAK SURE you have Extra Shot Power, as your score
+for shooting is DOUBLED..makes a BIG, BIG difference.
+
+Finding a suitable level is MUCH easier on Gauntlet 1....as G1 has tons of levels
+full of level 3 ghosts :)
+
+Once you've done this, exit the level and kill off the others. There will not
+be any food on the new level, since there were 4 people playing, but pass
+the new level, and you should get max food on the following levels (max food - 1,
+on Gauntlet final rev ).
+
+But you're not out of the woods yet. You STILL need to build up your health more,
+and you will see that the monsters generate VERY VERY Fast. Keep minimizing your
+score increase even now....and try to build up your health to at LEAST 35,000 by
+the time you reach 4.1 million (when the game difficulty totally resets). Again,
+the more health you have, the better. 40,000 is a good target, but if you only
+have 35,000, you may or may not survive the next starvation phase without using
+the "4 player trick" again. Your goal is to be able to survive by yourself.
+
+Once you are getting starved a 2nd time, at about 4.3-4.4 million, NOW its time to
+have fun. Set the Death (magic) value to 8,000 points, and grab as MANY treasures
+as you can. And potion death whereever possible. There wont be any food, so your
+ONLY GOAL now is to find the exit quickly, and potion Deaths (try to get several
+on one screen to conserve potions). You might not think that you can increase your
+score by ANOTHER 2.1 million (your goal is 4.2 million + 2.1 more = 6.3 million
+for the next all food period), but you will be surprised how fast your score
+increases now. Try to avoid taking too much damage, and be careful. You should
+be able to attain 6.3 million and still have 10,000-15,000 health. If you were
+really good before, you might even have 20,000. Once you reach this point, set
+the deaths BACK to 1,000, dont grab treasures, and repeat the cycle. You should
+be able to gain health out of each starvation/food phase, and come out on top if
+you play the cards right. Oh, and don't let Thief steal your potions, or it will
+be VERY hard to gain health when the game gets this difficult.
+
+Q: Is this the big play forever secret, then?
+A: Yep...just exploiting the "2.1 million point" bug (you are given all food again
+at 2.1 million, up to the difficulty reset at 4.2 mil), and remembering that the
+game difficulty resets totally every 16,384 * 256 points (4.2 million), and the
+cycle begins anew. (slow starvation, up to 6.3 million, where you get all the food
+again :)
+
+Q:  Why does Gauntlet II seem easier for characters without the power potions,
+than Gauntlet 1 final revision?
+
+A:  Gauntlet 1 had some VERY difficult and unbalanced levels past level 8....if
+you didn't have the right combination of special powers, and if you didn't have
+any potions (or a character with good magic power), you could lose massive health
+on some of the levels.
+Other levels were smorgeboard levels, where you could gain almost 1000 health.
+Unlike Gauntlet II, which was more balanced, the trick to doing well on Gauntlet
+(if you were not Elf or Wizard), is having a good sequence of levels starting with
+level 8.  The "Default" level 8 (when the Eeprom is cleared (brand new), and the
+sequel levels are moderate, but not the easiest levels in the world, so usually its
+best to carry a player a few levels past, then die on purpose on a 'decent' level.
+Then, that level will become the new level "8".
+
+If you wait a few minutes after dying, and then power off the machine, you will also
+get a "hidden" potion on level 8, and the new level (the level you died on) will
+still be saved as the new level 8, (but if you power off too quickly after dying,
+the "old" level will still be in effect, so be careful).  Same applies for
+"Level 6" on Gauntlet II.
+
+In the intermediate releases of Gauntlet 1, once you got the right potions and powers,
+many of the levels became rediculously easy, as long as you kept enough potions stored.
+
+Q:  How do I control which transporter I land at, when several are equidistant
+from each other ?
+A:  This depends on if the transporter is "glowing bright" or returning to a "dim" state.
+Its really hard to explain, but glowing bright will bring you to the transporter either
+to the RIGHT of you, or below you, and glowing dim will bring you to the above, or left
+transporter.   I think it also mattered which rom revision was in place.  Regardless, you
+are ALWAYS moved to the closest transporter otherwise.  You can control which side you
+will land on, by the joystick.
+
+Q: How do I stop getting owned by the Thief ? I lose my extra shot power/speed, or
+whatever and then I start losing tons of health on the difficult levels
+
+A: The Gauntlet II Thief is much smarter than he was in part 1. I part 1, he only
+comes out once a level, and he never tries to avoid your shots. Thief always follows
+the richest player's exact path.
+In Gauntlet II, when you shoot the Thief, he tries to retreat (along your path). Then
+he comes after you again :)
+
+The best way to deal with him, in a tight spot, is to find a "T" or "L" intersection,
+stay close, and just shoot so he runs into your shot.
+
+If he is appearing every level, there is a trick you can do:
+The thief never appears if something is "blocking" your starting square. And when the
+thief appears (in Gauntlet II only), he hesitates a moment before chasing you. So what
+you can do is, wait by the start, and when the thief appears, quickly shoot him BUT
+DON'T get the treasure he leaves. That will block thief from reappearing :)
+
+You can also push a moveable block onto the thief starting square, or push a block
+so it is 'covering' the path the thief will follow to you.
+
+Do NOT try waiting for the thief to appear, right next to the starting location in
+Gauntlet 1....the thief does not "wait" before chasing you here.  Just turn around
+in your passage and shoot, since he does not dodge you.
+
+There is another bug you can do in Gauntlet II,  involving causing "Mugger" to get
+stuck (losing his linked list ?), since only one mugger/thief can be on a level
+at one time. I'll get to that later.
+
+Q: Can I kill acid puddles?
+A: Yes. It takes 2 potions quickly. The first stuns them, the 2nd kills them. The
+same trick works on Super Sorcerers (IF they have already materialized)
+
+Q: Why were Warrior and Wizard nerfed so bad (extra shot power only increases 1/2
+level) in Final Revision, whereas, in intermediate release 1/2/Proto release, it
+increases the shot power one full level, and penalized even more in Gauntlet II
+(food removal, stun tiles, repulsiveness time).
+
+A: I don't know: ask Atari. A bad decision....sort of like blizzard nerfing
+some spells in Diablo II, and OVERDOING it. But I have a ROM Editor, and was
+able to give Warrior and Wizard back most of their old abilities for Extra Shot
+Power :) Courtesy of the great Eric Crabill.
+
+Actually, the power change, as I said, was done for Gauntlet final revision,
+however with Gauntlet II's further nerfing (weakening) of warrior (he can't shoot
+through cracks, and the game is slightly more difficult), and wizard (game
+is a LOT more difficult, a LOT less food), its virtually pointless to play them,
+although Warrior has a better chance on the easier difficulty settings.
+
+Q: Are there any other bugs?
+A: In Gauntlet 1, in intermediate release 1, there were several transporter
+related bugs, mainly involving DYING right when hitting a transporter (with
+another player playing with you), or transporting on top of Thief. Doing one
+of these could cause unpredictable things to happen, even a game reset, loss
+of scrolling, or the "dead" player dying again when pushed.
+
+It was also possible to get stuck forever when multiple players were playing,
+in Intermediate release 1.  This was fixed in IR2, where stalling for 400
+health ticks causes all walls to change to exits.
+
+These transporter bugs were fixed in Intermediate release 2, however, with
+the thief and mugger "pausing" on entering a level on Gauntlet 2, they seem
+to reappear again. Here is what happens.
+
+If a mugger or thief appears, (Gauntlet II only) and you run up to him QUICKLY
+so you are touching him, and stand RIGHT NEXT to him right when he pops up (in
+the direction that you started moving when you joined that level), he will attack
+you, however, since there was NO path to follow to chase you (you were right next
+to him), his linked list seems to get lost, and after you avoid his attack, he will
+just walk right up to a wall and sit there (usually). If you go to the other side
+of the wall and shoot, something strange might happen:
+1) maybe nothing.
+2) mugger might teleport on top of you.
+3) Thief might try to "dodge" the shot, then suddenly teleport on top of you.
+
+If they DO teleport on top of you, the game code was NOT created to handle such
+an occurance--it was only built to hande you telefragging them.  Now the fun
+begins...
+
+1) The game might make REALLY garbled sounds, and then freeze and reset,
+as the 68010 cpu crashes.
+2) You will change color, and the monsters will still chase you, but will
+not "attack" you (you can still get damaged by ghosts by running into them,
+but they will stop at an "invisible" barrier right at your sprite on their own)
+3) You might disappear :(
+4) Even stranger things might happen.
+
+Sometimes, the mugger will teleport and turn into a pixeled mess, when you are right
+next to a wall, and you do the trick to get him stuck (standing RIGHT next to your
+starting point on that maze, when he appears, so his linked list gets lost..).
+
+Touching that pixelated mess will either crash the machine, or turn you
+into the "red" player, or, as above, cause the monsters to think you are
+one of "them", so they don't actually "hit" you unless you move into them.
+
+Being able to select your character, regardless of joystick, in Gauntlet 2,
+is a bit bugged.  Only the GREEN player is given the extra 'half' bonus for
+fighting ability.  in other words, playing Red, Blue, or Yellow warrior only
+gives you 2x normal fight power, the same as Valkyrie.  Green warrior has the
+proper fight power.  The same goes for Elf: Red, blue or green gives elf the
+same fight power as wizard.
+
+Likewise, playing both Valkyrie and Wizard on the green player gives them an
+extra half level, so Valkyrie's fight power becomes equal to Warrior, and
+Wizard's become equal to Elf's.
+If only that applied to shot power... :)
+
+
+Q: How do I kill the dragon?
+A: don't just stay there and shoot....you'll take a lot of damage, and dont stay too
+close unless you want massive flame damage :) When you fight the dragon, notice his
+head movements. Its a distinct pattern, right? And its periodic. There are FIVE (or 6)
+differnt patterns for his head movement, however they ALL repeat (meaning the dragon's
+head position starts over) at the SAME intervals.
+
+What this means is this:
+You can time your shots periodcally (you will need to get a feel for how often to shoot,
+and then quickly dodge behind a corner...you will learn this on your own, but its ABOUT
+every 2 seconds),so you can hide behind a wall, then quickly aim a shot at the dragon,
+then run back again. If you do this properly, you should be able to kill **ALL**
+dragons, except one, without getting hit once, by just timing your shots. There is
+one dragon on a "spiral door" level, that you must stand up to and fight, as its in
+a very long passageway. Once you learn this, you can consider yourself a master.
+
+Q: I've entered a secret room, but after I left, I was full of keys.....TONS Of
+keys....maybe over 50 and I can't pick up treasures ! What do I do ?
+
+A: This is one of the most annoying bugs in the game.
+When the game difficulty is low (you have a low score), entering a secret room
+will usually overburden your inventory with potions. This is a good thing.
+
+But, when the game difficulty is high (a very high score), usually you are filled
+with keys. The game might give you anywhere between 40 to 100 keys, or even MORE.
+This hurts, because you can't pick up potions (but if you walk over new keys, they
+simply vanish, as otherwise you would be stuck). The only way to avoid this is to
+NOT do the secret trick to reach the secret room. Which trick? Well, each level
+has its own trick. Some levels require you to transport on top of acid puddles,
+some require you to go on a diet, or to shoot 2 foods or secret walls, etc. You
+will get a secret 'hint', if you shoot a secret wall or kill the Dragon. You can
+only know what 'trick' applies to each level, by experience. But, if you know a
+certain trick applies for a level, dont do it. If a level trick is to teleport on
+an acid puddle, kill the puddles with 2 potions instead. Occasionally its
+IMPOSSIBLE to avoid entering the secret room (example: DONT BE FOOLED and you
+find the "real" exit), or "GO ON A DIET", when you are in food starvation
+phase......but you can cut down on the occurances significatntly :)
+Not all levels have a secret trick tied to them, though.  In fact, many do not.
+
+
+Here are some more hints to help you along:
+
+Lobbers will shoot you in the direction you are moving, so their balls "hit"
+you at the destination. Be careful, as you don't want them shooting your foods or potions.
+
+In Gauntlet II, you take less damage from demons when shot, rather than hit,
+especially as valkyrie. Try to not let demons shoot your food.
+
+Use transporters to teleport on Death, when you don't want to potion him.
+
+Don't use transportability unless you need it.
+If you are using it, remember that if you are next to the edge of the level,
+and there is a food or potion there, you can STILL pick it up by moving DIAGONALLY
+into it.
+
+Use super shots carefully. I don't know if super shots affect death point
+values though, but death dies to 9 super shots.
+
+Learn where to use potions, to maximize your health gain (or minimize your
+health loss). Try to get as many ghosts/generators as possible.
+
+Sometimes it pays to simply go rambo-style through a level, particularly one
+with a lot of food and potions.
+
+Super Sorcerers are annoying, and inflict a lot of damage....they usually
+will appear behind you, and they will ALWAYS appear immediately after you
+walk into a tile where they just disappeared.  Good dodging and shooting
+techniques are necessary to kill them without getting hit.
+
+In Gauntlet 1, it doesn't matter who you play: They are all great. And Warrior's
+shots will hit something on the other side of a crack, but won't fit completely
+through
+
+In Gauntlet II, the best characters are Elf and Valkyrie. Warrior "apparently"
+cannot shoot ANYTHING on the other side of a crack now, as well as his extra shot
+power only being 2-3x normal (this makes it really unpredictable since you
+can't really "charge" shoot level 3 monsters anymore), and he has LARGE tile
+stun-times. As well as shorter repulsiveness times, to boot :(  He CAN shoot
+the monsters and generators touching the other side of narrow cracks, but it's
+REALLY hard to do it now.  You need both the pixel perfect angle, as well as a certain
+distance, which can get frustrating to find.  But all 'crack' generators
+should be hittable with a lot of work.
+
+.Wizard gets
+even less food than Warrior does, and also have short repulsiveness and large
+stun times. And the monsters generate much faster when warrior and wizard are
+playing :( (Gauntlet II only).
+
+Elf, with all the special powers, is every bit as powerful magic wise, as the
+wizard with all the powers, but fights better, has better armor, and speed, so
+wizard is completely useless now :( If he still kept his 2-3x extra shot power,
+from Intermediate Releases 1 and 2, there might be SOME point to playing him, but
+without my hacked ROMS, its useless.
+
+Play Gauntlet Final Revision, only on difficulty 0, if you want to be able to survive
+to get enough health for the "food starvation bypass trick".  But remember, unlike
+Gauntlet II, success in Gauntlet 1 relies HEAVILY on a good, easy sequence of levels
+starting with level 8, so you can get enough special power potions quickly.  If
+you have a bad run of levels (levels with low food, or high damage) starting on
+level 8, forget trying to survive very long....you should find a 'good' level
+and die there, to make that the new level "8" :).
+
+If you're using an emulator, it may be necessary to wait 3 or 4 minutes before
+exiting the emu, to make sure the NVRAM for the new level 8 is written properly.
+It may also involve starting a few new suicide games, so you can run directly
+to 8, then die again, to make sure the change sticks.

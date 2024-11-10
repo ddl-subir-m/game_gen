@@ -1,0 +1,89 @@
+o---------------------o
+      INTRODUCTION
+o---------------------o
+
+OK seriously, who has not heard of Pong? Most people probably know about Pong
+before they even learned how to walk, talk, or read. You don't even have to be
+a videogame player to know what Pong is. It is one of the very first games that
+revolutionalized both the arcade, computer, and gaming ages. Created by Atari
+in 1972, Pong is an video version of Table Tennis.
+
+o---------------------o
+       DISCLAIMER
+o---------------------o
+
+Pong and its characters are trademarks of Atari and all of its copyrights
+belong to them.
+
+This FAQ/Walkthrough is the sole copyright of Andrea "Azul Fria" Castillo aka
+Ice Queen Zero (or the Zophar Queen if you prefer) and cannot be put on other
+sites or posted without my given permission nor can it be reproduced w/o proper
+consent.
+
+For more guides by myself visit this link:
+http://www.gamefaqs.com/features/recognition/74803.html
+
+o---------------------o
+        STORY
+o---------------------o
+
+No story here, it is a simple objective of knocking the ball back and forth and
+trying to get a goal (knock the ball of the sides of the screen).
+
+o---------------------o
+        CONTROLS
+o---------------------o
+
+The controls are fairly simple, you move your paddle up and down in an attempt
+to bounce the ball back at your opponent via a turn dial.  The ball is served
+automatically.
+
+o---------------------o
+       PLAYGROUND
+o---------------------o
+
+-------------------------------------------------------------------------------
+|   00                                 |                                  00  |
+|   Player 1 score                     |                  Player 2/CPU Score  |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                   midfield                                  |
+| 1                                    |                                      |
+|                                      |                                      |
+|                                      |                                      |
+| Player 1 Paddle                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                 o    |                                      |
+|                                      |                                    2 |
+|                               Ball   |                                      |
+|                                      |                  Player 2/CPU Paddle |
+|                                      |                                      |
+-------------------------------------------------------------------------------
+
+o---------------------o
+        GAMEPLAY
+o---------------------o
+
+2 paddles are on the screen. You insert the coin and play. You can choose to go
+at it against the computer which will be difficult since the AI is real strong
+or you play a two-player game. The two player game I say is very fair since you
+have better concentration.
+
+Sometimes the ball will hit the top and bottom of the screen. This will not go
+off the screen and count as a score. Instead, it will bounce back into play and
+still be hit back or cause the player to miss the ball and the opponent scores.
+
+When hitting the ball, the spot the ball touches on the paddle will change the 
+angle on the way back so it is possible to bounce the ball up and down several
+times before it reaches the opponent.
+
+The ball gets faster every time the ball is bounced back so it gets real crazy
+after a while.
+
+There is a time limit so whoever has the highest score at the end of the time
+will be the winner. There is really nothing special about it , just bragging
+rights.

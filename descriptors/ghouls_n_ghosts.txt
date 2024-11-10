@@ -1,0 +1,390 @@
+There's not much to say about basics of this game, since you only have to go
+forward while throwing your weapons in several directions. There are however,
+chests that appear throughout the game and they contain either a wizard that
+transforms you into either a duck or an old man; or a door that takes you to
+another dimension and you have to pick either equipment or having more health
+or Magic.
+
+ The equipment you can pick is body armor, legging, helmets or weapons. They
+also vary in color -- silver, red, green and golden (these go from weakest to
+strongest). That's about it, there's no special jumping, no nothing.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                    ~-~ ~-~ ~-~  2.1] Controls ~-~ ~-~ ~-~
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-.sx201.-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                    '-----'
+
+o------------+----------------------------------------------------------------o
+|- D-pad     | = Move                                                         |
+|============+================================================================|
+|- 1 button  | = Main Weapon                                                  |
+|            |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|            | = Use Magic (keep the button down)                             |
+|============+================================================================|
+|- 2 button  | = Jump                                                         |
+|============+================================================================|
+|- Pause     | = Access menu (where you change your magic)                    |
+o------------'----------------------------------------------------------------o
+
+
+   /\                                                     /\              /\
+~~(  )~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~)(~~~~~~~~~~~~~(  )~~
+   )(      3] In-depth Walkthrough                       (  )    sx300    )(
+~~(  )~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~)(~~~~~~~~~~~~~(  )~~
+   \/                                                     \/              \/
+
+ There are 6 levels in total and each level is divided in 2 areas, so let's get
+started. I recorded a complete playthrough of the game and you can find it in
+my channel, so take a look if you're stuck with something.
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #1-1                                                              sx301
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ We start the game in the Place of Execution, and since it's the first stage of
+the game, I recommend you getting a grip on how Arthur moves (note that he
+slides when you turn very quickly). Anyway, let's get started.
+
+ From where we start, there will be some Reaper enemies coming out of the
+ground and run towards you. They appear through the whole area, so you'll have
+to deal with them. When you get to a ladder, a chest appears behind you next to
+the tree. Open it and proceed right. There are some flying enemies on the next
+tree, so get under them and shoot them from beneath.
+
+ When you get to another set of stairs, another chest shall appear. Follow
+either the upper path or the lower on, wait for the blades of the guillotines
+to go up and run pass them. There's another guillotine next to the chest and
+before the guillotine, another chest should appear.
+
+ Now run right past the giant guillotine and you'll get to the next area.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #1-2                                                              sx302
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ It's rainy right here, meaning that you'll be pushed backwards. There are some
+spinning demons in this area, but just evade them by either crouching or
+jumping and keep going forward before they catch you. As you proceed, a chest
+should pop out of nowhere (that's when the wind stops).
+
+ You'll be at the bottom of a mountain. Another new enemy appears. It looks
+like a flower that spits out 3 skulls that go in 3 different directions. It's
+pretty easy to evade so go right until you hit a ladder. Take it up, then the
+next one too. Go left after the second ladder, go up the ladder and a new enemy
+appears, which looks like a butcher.
+
+ Hit it hard and go left, up the ladder and go right. When you get to a big
+blue door, a chest appears before it. Hit it to have a door appear and you'll
+be in your first boss fight.
+
+ ---- Dullahan -----------------------------------------------------
+
+ This boss is pretty easy and you should have no problems with it. You need to
+take out the head, which is floating around. It spits out fireballs, but they
+go so slow that it's really easy to evade them. When you evade one fireball, go
+under the head and shoot nonstop. Also, watch out for the knee, because if you
+get to close it'll hit you.
+
+ Now grab the blue key.
+
+ -------------------------------------------------------------------
+
+ Now simply run through the door to get to the next area.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #2-1                                                              sx303
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ My most hated stage in the whole damn game. A new enemy makes its appearance
+in this stage. It's a skull that bounces around and if you're near it, it
+transforms into a turtle. Run underneath the bouncing skulls and if anyone
+transforms into a turtle, take it down. When you get to something blue that
+comes out of the ground, on the other side of it is a little pit. In this pit
+is a chest. Open it up.
+
+ When you get to the top of the path, there's some sand going down. DO NOT go
+down, because there's an Antlion down here and it'll rip you a new a**hole.
+Instead, go up the bridges. But beware though, because they break. I'll tell
+you where they break. The first one breaks three squares before it ends (note
+that each section that breaks has a 4 block length).
+
+ Then next bridge breaks after the first block and if you fall, you'll go down
+right into the Antlion and if you get swallowed by the sand, you'll instantly
+die. The next bridge, I really don't know where it breaks, but you can just
+drop down and jump you way to the top of the sand hill. Once up here, the next
+bridge breaks in middle of it.
+
+ Run to the other side of the second sand pit (the bridges break on either
+side) and under this last bridge, there's a chest. There's nothing to the far
+right end, so ignore it. Hop on top of the last bridge and go 2 more bridges
+left, then go up the top right one.
+
+ <vin> If you want to go to the top left bridge of the whole area, there's
+       another chest.
+
+ It breaks at the start of it (on the fourth block I believe) and just before
+the chest at the end. There's also an enemy, but it's not a boss. You can use
+thunder to hit him whenever he's coming after you. Next stage.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #2-2                                                              sx304
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ Ok now, I died a ton in this stage, all because of a stupid jump. There's
+another enemy here, a Fire Bat. They just go down in a semi hoop and go back
+up. Jump over the first gap, while evading the Fire Bat. When you get to a
+lower platform, a chest appears. The jump after the chest is the bitch. It took
+me several minutes to get past this jump.
+
+ Jump on top of the pillars then some fire pillars will start dropping. After
+they disappear, from the dots that remain, a Fire Bat will appear from it.
+There's also another enemy that looks like a plant. Duck to destroy it. Go up
+the ladder when you come to it and keep going right. Take care of the plants
+ASAP. At the end, there's a chest and a Boss Fight.
+
+ ---- Cerberus -----------------------------------------------------
+
+ This boss is easy. What happens is that there are some fireballs that drop
+from the ceiling. Also, Cerberus appears from the right and just gets to the
+center of the screen. Then it jumps over you (you won't get hurt by this) and
+go the same thing on this other side. This is all it does, so attack it, go to
+the other side, wait for it to jump over and keep attacking it. All this while
+evading the fireballs of course.
+
+ Another better tactic is to use Thunder. With 2 strikes from it and it's dead.
+
+ Now grab the blue key.
+
+ -------------------------------------------------------------------
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #3-1                                                              sx305
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ This stage isn't that bad, not as bad as the previous one (damn you 2-1). As
+you can see, it looks like you're on a lone platform, but it moves along with
+you, so it's like if the floor is complete, so don't worry about falling. There
+are also purple enemies that are static and don't move, so just stay out of
+their range and you'll do just fine.
+
+ The little green enemies drop a stone and then come down in an S-like shape.
+Just shoot it down! And since the stage scrolls automatically, there's no
+specific walkthrough, but only some pointers. When the screen scrolls to the
+right, start sticking to the right side and when the path closes up, start
+shooting the purple enemies on the top, because you need to take care of them.
+
+ Right after these 2 purple enemies, on the right side appears a chest. Look
+out for the right part of the stage on the upper left because it'll squash you
+so grab the chest and start running to the left. There's also a purple pillar
+that has green orbs. Destroy 2 of them and run to the right and enter the door
+at the top.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #3-2                                                              sx306
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ Now this is a pretty messed up stage. Stay away from the mouths because if you
+approach them, they'll eat you up. Start by ducking passing under the mouth,
+then jump on the upper purple tongue. Jump over the blue flame and DO NOT jump
+over at the end of the tongue. Wait for some platforms to appear on the bottom
+(only 2 platforms appear at a time) and jump down.
+
+ Another chest appears under the next tongue, and another one under the next
+one. Jump on the right tongue (the one that's going upwards) and DUCK, because
+the rock spire will kill you even if you have full health -- so duck and jump
+right over the blue flame. On the other side of the flame, there are more
+platforms that move, but on the other direction (from right to left).
+
+ Jump across them and a chest appears right under the tip of the tongue. Move
+across the next 2 tongues until you get to a platform (finally!). Jump across
+the platforms until you get to the gate, and you know what that means.
+
+ ---- Cloud? -------------------------------------------------------
+
+ Ok, this Boss is a lot harder than the previous ones. Like all bosses, it only
+has 1 attack. It'll drop down several "thunders" in a wide area. Run to the
+right side of the area and start charging your Fire magic. When it's in range,
+attack it. Repeat. If the thunders get to close, try jumping them.
+
+ If you get hit, use your invincibility time to attack it with your normal
+weapon (lances, daggers, etc). Rinse and repeat the whole process (if you have
+the Shield spell at this point in the game, use it and physically attack it).
+It takes 8 Fire spells to defeat it.
+
+ Now grab the blue key.
+
+ -------------------------------------------------------------------
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #4-1                                                              sx307
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ We are in a cavern now. Please notice the green spikes on the ceiling.
+Touching these will hurt you, it's not an automatically kill, but nevertheless,
+avoid them further ahead. Remember the reapers from the first stage? They
+appear here once again. When you get to a large bone, go on top of it and
+you'll see a chest. Continue right and another chest appears just before you
+drop down.
+
+ There's an enemy here that looks like a piece of s***, seriously. Jump over
+its fireball attack and kill it. When the path forks again (with a chest),
+continue right and a chest shall appear just before the step. Another chest
+appears right before you descend.
+
+ Now simply run right and enter the door to the next area.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #4-2                                                              sx308
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ Oh man, I don't like this stage. The green ceiling is here again, so avoid
+them. The only enemy in this stage are those hands that shoot out fireballs
+like those pieces of s***. DO NOT approach these hands, because they'll grab
+you and kill you automatically. Use Fire from a distance to take care of these.
+
+ The path is linear, so you don't need a guide for this part, so see ya at the
+bottom of the waterfalls. There's a green thingy here. Jump on it and it'll
+start descending. When you see another green thingy on the left side, jump on
+it then on the other one on the left. Jump once more on the left one then jump
+on the right one and follow them to the right Until you get to the floor.
+
+ The gate is here, yay!
+
+ ---- Alligator? ----------------------------------------------------
+
+ Another annoying boss. It has no attacks, but there are some things that will
+hurt you. There are four orange orbs that come out of the boss, one after
+another in a straight line. They don't home in at you, so you can easily evade
+them. Now notice the circular thingies on the body of the boss. You need to
+jump and attack them.
+
+ But oh wait! There are some damn Maggots that come out of the boss and attack
+you. Just attack them once and focus on the circular thingies of the boss.
+There are 5 of these thingies, so take them all out.
+
+ Now grab the blue key.
+
+ -------------------------------------------------------------------
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #5-1                                                              sx309
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ Finally last 2 stages of the game. Kill the enemies on top (easy enough) and a
+chest will appear (whether you kill the enemies or not). Go up the ladder on
+the right and right after you descend, a flying enemy will appear (the same
+enemy from the previous stage). The best way to deal with it is to use Fire
+from a distance before it starts moving like crazy.
+
+ Go up the ladder to the right, go up the next one and start moving left. There
+are 2 more of these flying enemies, so take care of them. A chest appears in
+between these 2 enemies. Go up the ladder at the end, go up the ladder, then go
+down the ladder to your right. Follow this path of going up and down the stairs
+and when you get to the top, go right and end this stage.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage #5-2                                                              sx310
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ Go right and a chest will appear. Now go right and there's a really hard part
+of the game. I recommend you checking out my video in YouTube
+(http://www.youtube.com/watch?v=-g_vzHduYOU) at 01:27. I'll try to explain
+here, but I dunno how well it'll go. Please notice the faces on both sides of
+the ladder, where the balls are coming from.
+               _                 _____________________________________________A
+   _    |     |-|     |    _    |                                             V
+ ,' `.  |     |-|     |  ,' `.  |  Let's imagine it's something like this. Stay
+(  5  ) |     |-|     | (     ) | right under the first face and watch the
+ `._,'  |     |-|     |  `._,'  | movement of the balls carefully. Take note
+   _    |     |-|     |    _    | when the balls move like this: 2left, then
+ ,' `.  |     |-|     |  ,' `.  | 1left and 1right at the same time, then
+(  4  ) |     |-|     | (     ) | 1right again. When this ball passes, move up
+ `._,'  |     |-|     |  `._,'  | to the third face. Then you'll see: 5right
+   _    |     |-|     |    _    | and 1right at the same time. When this
+ ,' `.  |     |-|     |  ,' `.  | happens, go down to the second face and a
+(  3  ) |     |-|     | (     ) | ball from both 4right and 3right will come
+ `._,'  |     |-|     |  `._,'  | out. When they pass, hurry up to the fourth
+   _    |     |-|     |    _    | face, wait for a ball from 5left to pass and
+ ,' `.  |     |-|     |  ,' `.  | climb to the top.
+(  2  ) |     |-|     | (     ) |
+ `._,'  |     |-|     |  `._,'  |  Got that? No? Then watch the vid. Once at
+   _    |     |-|     |    _    | the top, from the door that's there, an
+ ,' `.  |     |-|     |  ,' `.  | awkward enemy appears. It only spits a line
+(  1  ) |     |-|     | (     ) | of fire with a rather short range. Simply
+ `._,'  |     |-|     |  `._,'  | jump and attack the head. Past this enemy,
+                                | a chest will appear. Open it and go up the
+o-------------------------------' ladder.
+
+ Remember the first boss? The Dullahan? Well, there are 2 of these at the same
+time, but without the body, just the head. They attack the same, so take care
+of them. After you do so, a path will appear to the right. Follow it, and on
+top of the stairs, another chest will appear. Is the door next to the chest
+familiar? Yep, another one of those awkward enemies will appear, but there may
+be 2 of them.
+
+ What do I mean with that? Well, there's supposed to be a battle against 2 of
+these at the same time, but run to the right slowly and you're exactly in front
+of its attack. If done correctly, you can defeat it without the other one
+appearing from behind. Once done this, at the top of the steps is another
+chest, but be careful. Remember the Cloud boss? Well, the babies of it will
+appear.
+
+ They just go in circles, but they are hard to hit, so take your time. There
+are 3 of them and they'll come out one after another. Now go up the platforms,
+go up the ladder and a chest should appear on the left side. Now go right to
+find another Dullahan (which shoots faster this time) and some of those bats
+from the stage 3-1. Kill the bats, then focus on the Dullahan.
+
+ Go up the ladder behind it and another boss triggers here.
+
+ ---- Beelzebub -----------------------------------------------------
+
+ This boss is easy, and I really mean in this time. It'll start as some red
+flies on the left side of the screen. Run to the right and when Beelzebub
+starts forming itself, look up and attack its head. It'll shoot some things
+from the tail, but they shouldn't hurt you from where you are.
+
+ If you didn't kill it for some reason, it'll do the same thing: turn into red
+flies and go to the left and reform itself. Go under it and attack it.
+
+ Now grab the blue key.
+
+ -------------------------------------------------------------------
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+ Stage Finale                                                            sx311
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+ To enter the last stage, you need to have all your equipment maxed out.
+
+Head: Gold
+Body: Gold
+Shoes: Gold
+Weapon: Psycho Blaster
+
+ Note that when you open a door with your armor in golden state and the last
+weapon (Discus), there's a chance that you'll obtain the Psycho Blaster, which
+is required to defeat Loki. If you're not maxed out, they'll either send you
+back to the beginning of the game (if you don't have your armor all golden) or
+at the beginning of stage 5-1 if you're only lacking the Psycho Blaster.
+
+ Now the only thing to do here is to kill Loki, the easiest boss in the game,
+seriously.
+
+ ---- Loki ---------------------------------------------------------
+
+ Since you're already maxed out, you should have the Shield spell. Use it and
+stand on a skull that's right under Loki's d***. As you can see, the floor
+starts disappearing. Keep attacking like for like 5 seconds tops and you'll
+defeat him... what disappointment.
