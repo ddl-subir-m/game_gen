@@ -16,16 +16,17 @@ The project consists of three main components:
 - Coordinates the analysis workflow
 - Provides formatted output of results
 
-### 2. Game Mechanics Processor (`core/game_mechanic_blocks.py`)
-- Extracts core gameplay patterns
+### 2. Game Mechanics Analyzer (`core/analyzer.py`) 
+- Discovers and categorizes game actions and mechanics
+- Clusters game actions and mechanics into categories and describes the clusters
+- Integrates with LLM client for analysis
+
+### 3. Game Mechanics Processor (`core/game_mechanic_blocks.py`)
+- Extracts core gameplay patterns from initial set of game mechanics and category descriptions
 - Processes mechanics into structured categories
 - Handles JSON processing and validation
 - Formats analysis output
 
-### 3. Game Mechanics Analyzer (`core/analyzer.py`) 
-- Discovers and categorizes game actions andmechanics
-- Clusters game actions and mechanics into categories
-- Integrates with LLM client for analysis
 
 ## 🚀 Features
 
