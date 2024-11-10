@@ -8,7 +8,7 @@ This project provides a framework for analyzing game mechanics by processing gam
 
 ## 🏗️ Architecture
 
-### Flow
+### Game Concept Generation Flow
 ![Architecture Diagram](flow.svg)
 The project consists of five main components:
 
