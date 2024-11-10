@@ -109,7 +109,7 @@ The tool can be configured through:
 
 ### Training Results
 
-After processing 3 games (Minesweeper, Final Fantasy, and Castlevania), the system identified the following pattern categories:
+After processing 3 games (Minesweeper, Final Fantasy, and Castlevania), the system identified the following game mechanics and patterns:
 
 ```json
 {
