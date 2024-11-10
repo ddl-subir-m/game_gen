@@ -8,6 +8,7 @@ This project provides a framework for analyzing game mechanics by processing gam
 
 ## 🏗️ Architecture
 
+![Architecture Diagram](flow.svg)
 The project consists of five main components:
 
 ### 1. Game Analysis Runner (`analyze_games.py`)
