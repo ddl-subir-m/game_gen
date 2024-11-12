@@ -12,8 +12,8 @@ This project provides a framework for analyzing game mechanics by processing gam
 ![Architecture Diagram](flow.svg)
 The project consists of five main components:
 
-### 1. Game Analysis Runner (`analyze_games.py`)
-- Manages the overall analysis pipeline
+### 1. Game Analysis Runner (`analyze_gen_games.py`)
+- Manages the overall analysis and game concept generation pipeline
 - Handles loading and processing of game descriptions  
 - Coordinates the analysis workflow
 - Provides formatted output of results
